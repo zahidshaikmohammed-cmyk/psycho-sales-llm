@@ -2,7 +2,7 @@
 
 **Chapter:** 1.2 — Psychological Science, Research, Measurement, and Evidence  
 **Canonical file:** `knowledge/system-01/chapter-1.2/CHAPTER_1.2.md`  
-**Status:** REMEDIATED — FINAL VALIDATION PASSED
+**Status: SUPERSEDED BY CROSS-CHAPTER OWNERSHIP REMEDIATION
 
 ## Validation scope
 
@@ -244,3 +244,8 @@ Not:
 The chapter is ready for the project's formal lock/seal decision.
 
 **Simple on the surface. Deep underneath. Precise throughout.**
+
+
+## Supersession Note
+
+This validation record describes the pre-remediation state. It is retained as historical validation evidence. Final resealing requires a new post-remediation validation pass across Chapters 1.1, 1.2, and 1.3.
