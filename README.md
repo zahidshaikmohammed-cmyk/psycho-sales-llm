@@ -55,6 +55,17 @@ It contains the complete locked 57-topic ontology and the full canonical Knowled
 
 No separate topic files, duplicate indexes, historical audits, research dumps, drafts, or parallel Chapter 1.1 prose are maintained in the canonical repository.
 
+
+### Chapter 1.2 — Psychological Science, Research, Measurement, and Evidence
+
+**Status: REBUILT — UNDER DEPTH VALIDATION**
+
+The canonical Chapter 1.2 writing is contained in:
+
+`knowledge/system-01/chapter-1.2/CHAPTER_1.2.md`
+
+It contains all 118 locked ontology topics. It will not be marked LOCKED & SEALED until the final depth, scientific-integrity, ownership, and retrieval audit passes.
+
 ---
 
 # Repository Integrity Rules
