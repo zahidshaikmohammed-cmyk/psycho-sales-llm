@@ -2942,3 +2942,540 @@ Confounds, regression methods, causal diagrams, and substantive variables.
 3. Controlling a variable can improve precision or address an alternative explanation.
 4. Inappropriate adjustment can create bias.
 5. Control-group and control-variable concepts must remain distinct.
+
+---
+## 1.2.46 Causal inference
+
+## 1. Purpose
+
+Causal inference concerns what can reasonably be concluded about cause and effect from data. It is one of the most important scientific boundaries in psychology because association, prediction, and causal influence are different claims.
+
+## 2. Definition
+
+Causal inference is the process of using research design, data, assumptions, and analysis to determine whether changing or intervening on one condition would change an outcome under specified conditions.
+
+## 3. Core Understanding
+
+### Counterfactual foundation
+
+A causal effect can be understood through counterfactual reasoning: what would have happened to the same unit under another condition at the same relevant time. Because the same unit cannot generally be observed simultaneously under both conditions, causal inference requires design or assumptions to construct a credible comparison.
+
+### Randomization
+
+Random assignment creates comparable groups in expectation and can provide a strong basis for estimating causal effects of an intervention.
+
+### Nonrandomized inference
+
+Quasi-experimental and observational designs can support causal inference when their assumptions and design structures credibly address alternative explanations. The strength of the inference depends on those assumptions.
+
+### Temporal ordering
+
+Cause must precede effect in the relevant causal structure. Temporal ordering is necessary for many causal claims but is not sufficient by itself.
+
+### Confounding
+
+Confounding can create an association without the causal effect of interest. Researchers must consider common causes, selection, reverse causation, measurement, and other alternatives.
+
+### Causal estimand
+
+A causal question should specify what effect is being estimated, for whom, under which intervention or contrast, and over what period. Different estimands can produce different answers.
+
+### Evidence status
+
+Causal inference is an established scientific framework. The credibility of a particular causal conclusion depends on the design, assumptions, measurement, implementation, and analysis.
+
+## 4. Relationship to This Chapter
+
+Causal inference integrates experimental and quasi-experimental designs with variables, confounding, internal validity, statistical analysis, and evidence quality.
+
+## 5. Boundaries
+
+### Owns
+
+The general scientific framework for drawing cause-and-effect conclusions from data.
+
+### Defers
+
+Specific causal designs, statistical estimators, confounds, mediators, moderators, and substantive psychological mechanisms.
+
+## 6. Key Principles
+
+1. Causal inference asks what would change under a specified intervention or contrast.
+2. Association alone is not causal inference.
+3. Randomization can strongly support causal identification.
+4. Nonrandomized causal inference depends on explicit assumptions.
+5. Causal conclusions must specify their scope and estimand.
+
+---
+
+## 1.2.47 Internal validity
+
+## 1. Purpose
+
+Internal validity concerns whether a study's conclusion about the relationship or causal effect within the studied conditions is credible. It is central to determining whether observed differences can reasonably be attributed to the proposed explanation rather than competing causes.
+
+## 2. Definition
+
+Internal validity is the degree to which a study supports a credible conclusion about the relationship or causal effect being investigated within its study conditions, given the design, implementation, measurement, and analysis.
+
+## 3. Core Understanding
+
+Internal validity is especially important for causal claims. Threats can include confounding, selection processes, differential attrition, history, maturation, measurement changes, contamination, noncompliance, and other design problems.
+
+### Experimental control
+
+Randomization, blinding where feasible, standardized procedures, and appropriate comparison conditions can improve internal validity.
+
+### Implementation
+
+A theoretically strong design can lose internal validity if the intervention is implemented inconsistently or if participants receive conditions different from those intended.
+
+### Measurement
+
+Poor measurement can produce misleading outcome differences or obscure true effects.
+
+### Internal versus external validity
+
+A study can have strong internal validity while limited generalizability. Conversely, a highly naturalistic study can be broadly relevant while leaving greater uncertainty about causal attribution.
+
+### Evidence status
+
+Internal validity is a methodological property of a particular inference, not a permanent label attached to an entire study.
+
+## 4. Relationship to This Chapter
+
+Internal validity belongs beside causal inference and connects to experimental design, confounding, selection bias, measurement validity, and statistical conclusion validity.
+
+## 5. Boundaries
+
+### Owns
+
+The concept of credibility of within-study causal or relational conclusions.
+
+### Defers
+
+External validity, ecological validity, construct validity, statistical conclusion validity, and specific threats to validity.
+
+## 6. Key Principles
+
+1. Internal validity concerns credibility within the study conditions.
+2. It is especially important for causal claims.
+3. Design and implementation both affect internal validity.
+4. Strong internal validity does not guarantee broad generalizability.
+5. Validity is relative to the inference being made.
+
+---
+
+## 1.2.48 External validity
+
+## 1. Purpose
+
+External validity concerns whether conclusions can reasonably extend beyond the exact study conditions. It addresses the scope of scientific findings across people, settings, times, measures, and other relevant contexts.
+
+## 2. Definition
+
+External validity is the extent to which a study's conclusions can reasonably be applied beyond the specific sample, setting, procedures, or conditions in which the study was conducted.
+
+## 3. Core Understanding
+
+### Population extension
+
+A sample may differ from the target population. Probability sampling can support population inference under appropriate conditions, but convenience samples require additional evidence for broader generalization.
+
+### Setting extension
+
+A laboratory finding may or may not apply in homes, workplaces, schools, clinics, or other environments. Context can modify psychological processes.
+
+### Procedure extension
+
+Changing the task, measurement, intervention delivery, or social environment can change an effect. Generalization therefore requires attention to the relevant mechanism and boundary conditions.
+
+### Replication
+
+Replication across populations and settings can strengthen external validity.
+
+### Internal–external trade-offs
+
+High control can improve internal validity while limiting naturalism. This is not an absolute trade-off, but it is a common design consideration.
+
+### Evidence status
+
+External validity is a property of a conclusion's scope, not a simple characteristic that a study either possesses or lacks.
+
+## 4. Relationship to This Chapter
+
+External validity connects directly to generalizability, sampling, ecological validity, replication, and contextual moderators.
+
+## 5. Boundaries
+
+### Owns
+
+The general concept of extending study conclusions beyond their original conditions.
+
+### Defers
+
+Generalizability, sampling, ecological validity, and the psychological mechanisms that determine whether an effect travels across contexts.
+
+## 6. Key Principles
+
+1. External validity concerns scope beyond the study.
+2. Generalization must be supported, not assumed.
+3. Population and setting are separate generalization questions.
+4. Replication across contexts can strengthen external validity.
+5. A study can have strong internal validity without broad external validity.
+
+---
+
+## 1.2.49 Ecological validity
+
+## 1. Purpose
+
+Ecological validity addresses how well a research procedure, task, environment, or finding corresponds to psychological functioning in ordinary real-world contexts.
+
+## 2. Definition
+
+Ecological validity is the degree to which the conditions, tasks, stimuli, interactions, or findings of a study reflect relevant features of real-world psychological functioning.
+
+## 3. Core Understanding
+
+### Naturalism
+
+Research conducted in everyday environments often has greater ecological resemblance than highly artificial tasks, but natural setting alone does not guarantee ecological validity.
+
+### Task realism
+
+A laboratory task can be artificial yet still valid for a specific psychological mechanism if the mechanism is appropriately isolated. Conversely, a realistic setting can produce poor evidence if the measurement does not capture the intended construct.
+
+### Fidelity and relevance
+
+Ecological validity depends on which features of ordinary life matter for the phenomenon. Not every real-world detail must be reproduced.
+
+### Ecological validity versus external validity
+
+Ecological validity concerns resemblance or relevance to real-world functioning. External validity concerns whether conclusions generalize beyond the study. They are related but not identical.
+
+### Evidence status
+
+Ecological validity is context-dependent and should be evaluated relative to the psychological process and target environment.
+
+## 4. Relationship to This Chapter
+
+Ecological validity complements external validity and connects to naturalistic observation, applied research, experience sampling, and generalizability.
+
+## 5. Boundaries
+
+### Owns
+
+The concept of real-world correspondence or contextual relevance of research conditions and findings.
+
+### Defers
+
+External validity, generalizability, naturalistic observation, and the substantive psychological mechanism being studied.
+
+## 6. Key Principles
+
+1. Ecological validity concerns real-world correspondence.
+2. Natural settings do not automatically guarantee validity.
+3. Artificial tasks can still provide valid evidence about specific mechanisms.
+4. Ecological validity and external validity are related but distinct.
+5. Relevance should be judged relative to the target psychological process.
+
+---
+
+## 1.2.50 Statistical conclusion validity
+
+## 1. Purpose
+
+Statistical conclusion validity concerns whether the statistical evidence adequately supports the conclusions drawn about relationships, differences, or effects. It prevents researchers from treating an inappropriate or underpowered analysis as reliable evidence.
+
+## 2. Definition
+
+Statistical conclusion validity is the degree to which a study's statistical analysis supports accurate conclusions about the presence, absence, magnitude, or uncertainty of the relationships or effects being investigated.
+
+## 3. Core Understanding
+
+### Statistical power
+
+Low power can make real effects difficult to detect and can produce imprecise estimates. Power is one component of statistical conclusion validity, not the whole concept.
+
+### Measurement and noise
+
+Unreliable measures increase noise and can weaken the ability to detect relationships. Measurement quality therefore interacts with statistical validity.
+
+### Analysis assumptions
+
+Statistical models often rely on assumptions concerning independence, distribution, functional form, variance, missingness, or other properties. Violated assumptions can affect conclusions depending on the method.
+
+### Multiple comparisons
+
+Testing many hypotheses can increase the chance of false positive findings unless the analysis appropriately accounts for multiplicity or the inferential framework explicitly handles it.
+
+### Effect estimation
+
+A statistically detectable effect can still be small or imprecise. Confidence intervals and effect sizes provide information beyond a binary significance decision.
+
+### Evidence status
+
+Statistical conclusion validity is a methodological evaluation of the connection between data and statistical claims.
+
+## 4. Relationship to This Chapter
+
+This concept links research design and measurement to statistical power, significance, effect size, confidence intervals, multiple comparisons, and regression.
+
+## 5. Boundaries
+
+### Owns
+
+The validity of statistical conclusions drawn from analyzed data.
+
+### Defers
+
+Specific statistical procedures, measurement validity, internal validity, and substantive interpretation.
+
+## 6. Key Principles
+
+1. Statistical analysis must fit the research question and data.
+2. Power affects the ability to detect effects.
+3. Multiple testing can affect false-positive risk.
+4. Effect size and uncertainty matter beyond significance.
+5. Statistical conclusion validity does not establish causal validity by itself.
+
+---
+
+## 1.2.51 Construct validity
+
+## 1. Purpose
+
+Construct validity addresses whether evidence supports the interpretation that a measure or manipulation represents the theoretical construct it is intended to represent.
+
+## 2. Definition
+
+Construct validity is the degree to which evidence supports the interpretation that an operationalization, measure, or manipulation adequately represents the intended theoretical construct.
+
+## 3. Core Understanding
+
+### Convergent evidence
+
+Different measures expected to reflect the same construct may show appropriate relationships. Such convergence supports the interpretation but does not prove identity.
+
+### Discriminant evidence
+
+A measure should be distinguishable from measures of conceptually different constructs when theory predicts that distinction.
+
+### Structural evidence
+
+The internal structure of a measure can provide evidence about whether its items reflect the proposed dimensions.
+
+### Nomological relationships
+
+A construct should relate to other constructs in theoretically expected ways. Such relationships can provide additional validity evidence.
+
+### Manipulation validity
+
+In experiments, researchers may ask whether the manipulation actually changed the intended construct rather than merely producing an unrelated change.
+
+### Construct drift
+
+The meaning of a construct can change across populations, cultures, time, or measurement forms. Validity evidence may therefore need to be re-established for new uses.
+
+### Evidence status
+
+Construct validity is not one test or one coefficient. It is an accumulating body of evidence supporting an interpretation.
+
+## 4. Relationship to This Chapter
+
+Construct validity connects constructs, operational definitions, measurement validity, scale construction, factor analysis, and latent variables.
+
+## 5. Boundaries
+
+### Owns
+
+The validity of interpretations linking operational measures or manipulations to theoretical constructs.
+
+### Defers
+
+Reliability, specific psychometric models, and the substantive constructs themselves.
+
+## 6. Key Principles
+
+1. Construct validity concerns interpretation, not a property of a test in isolation.
+2. Multiple forms of evidence contribute.
+3. Convergence and discrimination both matter.
+4. Validity evidence can change across populations and uses.
+5. No single validity coefficient proves construct validity completely.
+
+---
+
+## 1.2.52 Measurement validity
+
+## 1. Purpose
+
+Measurement validity concerns whether a measurement procedure supports the intended interpretation and use of its scores or observations. It protects psychological science from treating numerical outputs as meaningful merely because they are measurable.
+
+## 2. Definition
+
+Measurement validity is the degree to which evidence supports the intended interpretation of measurements for a specified purpose, population, and context.
+
+## 3. Core Understanding
+
+### Interpretation and use
+
+A measurement can be reliable but still fail to measure the intended construct. Validity therefore concerns what the score means and whether that meaning is justified.
+
+### Content
+
+Evidence may concern whether the measurement adequately represents relevant content or dimensions of the construct.
+
+### Relations to other variables
+
+Expected relationships with other measures can support validity interpretations.
+
+### Structure
+
+Statistical structure can provide evidence that items behave consistently with a proposed construct model.
+
+### Consequences and fairness
+
+For applied assessment, validity also concerns whether interpretations and uses produce defensible decisions and whether systematic bias undermines intended meaning.
+
+### Population and context
+
+A measure validated in one population may not automatically have the same interpretation in another. Measurement invariance and differential functioning can become relevant.
+
+### Evidence status
+
+Validity is an ongoing argument supported by multiple forms of evidence rather than a permanent certificate attached to an instrument.
+
+## 4. Relationship to This Chapter
+
+Measurement validity is the broader measurement concept connecting construct validity with reliability, psychometrics, scale construction, and measurement invariance.
+
+## 5. Boundaries
+
+### Owns
+
+The general validity of interpretations and uses of psychological measurements.
+
+### Defers
+
+Construct validity, reliability, psychometric models, specific instruments, and substantive psychological constructs.
+
+## 6. Key Principles
+
+1. Validity concerns what a measurement means and how it is used.
+2. Reliability does not guarantee validity.
+3. Validity evidence is purpose-, population-, and context-dependent.
+4. Multiple evidence sources are usually needed.
+5. Validity is an accumulating argument, not a permanent label.
+
+---
+
+## 1.2.53 Correlation
+
+## 1. Purpose
+
+Correlation describes statistical association between variables. It is fundamental to psychological research but is often misunderstood as proof of causation.
+
+## 2. Definition
+
+Correlation is a statistical relationship in which variation in one variable is associated with systematic variation in another variable.
+
+## 3. Core Understanding
+
+A positive correlation means higher values of one variable tend to occur with higher values of another. A negative correlation means higher values of one tend to occur with lower values of another. A correlation near zero indicates little linear association under the measure used, but it does not mean that no relationship of any kind exists.
+
+### Strength and form
+
+Correlation strength describes the degree of association under a specified statistic. Nonlinear relationships can be missed by measures designed for linear association.
+
+### Directionality
+
+Correlation is symmetric in description: the association between X and Y is the same relationship regardless of which variable is written first. Causal direction is not determined by correlation.
+
+### Confounding
+
+A third variable can produce an observed correlation. Reverse causation can also create association.
+
+### Measurement
+
+Restricted range, unreliable measurement, outliers, and nonlinearity can affect observed correlations.
+
+### Evidence status
+
+Correlation is a statistical description. Its causal interpretation depends on design and assumptions.
+
+## 4. Relationship to This Chapter
+
+Correlation is the conceptual foundation for correlation coefficients and connects to regression, confounding, causal inference, and the correlation-versus-causation distinction.
+
+## 5. Boundaries
+
+### Owns
+
+The general concept of statistical association between variables.
+
+### Defers
+
+Correlation coefficients, regression, causal inference, confounding, and specific empirical relationships.
+
+## 6. Key Principles
+
+1. Correlation describes association.
+2. Positive and negative correlations describe direction of statistical co-variation.
+3. A near-zero linear correlation does not rule out nonlinear relationships.
+4. Correlation does not establish causation.
+5. Measurement and range restrictions can affect observed correlation.
+
+---
+
+## 1.2.54 Correlation versus causation
+
+## 1. Purpose
+
+This distinction prevents one of the most consequential errors in psychological reasoning: interpreting an observed association as evidence that one variable caused another.
+
+## 2. Definition
+
+Correlation versus causation is the distinction between a statistical association among variables and a causal relationship in which changing one condition would alter an outcome under specified conditions.
+
+## 3. Core Understanding
+
+An association can arise from several structures. X may cause Y; Y may cause X; Z may cause both; X and Y may be linked through selection or measurement; or several pathways may operate simultaneously.
+
+### Causal requirements
+
+Causal claims typically require a credible comparison, temporal ordering, a defensible causal model, and evidence addressing relevant alternative explanations. Randomized experiments can provide especially strong evidence for intervention effects, but nonrandomized designs can sometimes support causal inference under credible assumptions.
+
+### Statistical adjustment
+
+Adding covariates to a regression model does not automatically turn correlation into causation. Adjustment is useful only when its causal role and assumptions are appropriate.
+
+### Common error
+
+A study may find that people with X also have more Y and conclude that increasing X will increase Y. That conclusion does not follow unless the design and evidence support the causal interpretation.
+
+### Evidence status
+
+The distinction is foundational to scientific inference. Specific causal claims require claim-specific evidence.
+
+## 4. Relationship to This Chapter
+
+This Topic closes the Variables and Inference section and connects correlation to confounding, causal inference, research design, internal validity, and statistical analysis.
+
+## 5. Boundaries
+
+### Owns
+
+The conceptual distinction between statistical association and causal effect.
+
+### Defers
+
+Specific causal inference methods, confounders, correlations, regression, and substantive psychological mechanisms.
+
+## 6. Key Principles
+
+1. Association and causation are different claims.
+2. Correlation alone does not establish causal direction.
+3. Confounding and reverse causation are major alternatives.
+4. Statistical adjustment does not automatically establish causality.
+5. Causal conclusions require appropriate design and assumptions.
