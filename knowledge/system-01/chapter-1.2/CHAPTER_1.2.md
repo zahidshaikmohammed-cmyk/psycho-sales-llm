@@ -2045,3 +2045,365 @@ Longitudinal change, cohort effects, causal inference, and sampling methodology.
 3. Temporal ordering is often limited.
 4. Repeated cross-sectional samples can show population-level trends.
 5. Cross-sectional differences should not automatically be interpreted as developmental change.
+
+---
+## 1.2.31 Sequential design
+
+## 1. Purpose
+
+Sequential designs combine information about age, time, or cohorts across multiple measurement structures to separate effects that can otherwise be confused. They are especially useful when researchers need to distinguish developmental change from historical or cohort differences.
+
+## 2. Definition
+
+A sequential design is a research design that combines longitudinal and/or cross-sectional comparisons across cohorts and time to examine patterns of development, change, stability, and cohort differences.
+
+## 3. Core Understanding
+
+A simple cross-sectional comparison can confuse age differences with cohort differences. A simple longitudinal study can confound developmental change with historical period effects. Sequential designs introduce multiple cohorts and measurement occasions so these influences can be compared.
+
+### Age effects
+
+Age effects concern differences associated with developmental age or time since a reference point.
+
+### Cohort effects
+
+Cohort effects arise because people sharing a historical period or formative experience may differ from people born or entering a system at another time.
+
+### Period effects
+
+Period effects reflect events or conditions affecting many people at a particular historical time.
+
+### Analytical challenge
+
+Age, period, and cohort are mathematically related, making them difficult to separate without additional design information or assumptions. Sequential designs improve information but do not automatically solve the identification problem.
+
+### Evidence status
+
+Sequential designs are useful for developmental and historical questions. Their conclusions depend on cohort selection, measurement consistency, timing, and analytical assumptions.
+
+## 4. Relationship to This Chapter
+
+Sequential design extends longitudinal and cross-sectional designs and provides a more complex framework for studying change and cohort differences.
+
+## 5. Boundaries
+
+### Owns
+
+The design strategy of combining cohort and time comparisons to study developmental and historical patterns.
+
+### Defers
+
+Longitudinal and cross-sectional designs, developmental theory, age-period-cohort inference, and statistical models.
+
+## 6. Key Principles
+
+1. Sequential designs combine information across cohorts and time.
+2. They can help distinguish age, cohort, and period patterns.
+3. Design complexity does not eliminate identification problems.
+4. Conclusions depend on assumptions and measurement across groups and time.
+
+---
+
+## 1.2.32 Experience sampling
+
+## 1. Purpose
+
+Experience sampling captures people's experiences, behaviors, or states repeatedly during everyday life. It reduces reliance on distant retrospective reports and allows psychological processes to be studied closer to when they occur.
+
+## 2. Definition
+
+Experience sampling is a research approach that repeatedly prompts participants to report experiences, states, behaviors, or contexts at multiple moments during ordinary daily life.
+
+## 3. Core Understanding
+
+### Repeated within-person measurement
+
+Experience sampling produces many observations from each person. This allows researchers to examine both within-person variation and between-person differences.
+
+### Ecological context
+
+Participants report experiences in their ordinary environments rather than only in a laboratory or after a long recall period.
+
+### Recall reduction
+
+Frequent prompts can reduce the time between an experience and its report, potentially reducing some forms of retrospective reconstruction. It does not eliminate reporting bias.
+
+### Sampling moments
+
+Prompt timing can be fixed, random, event-triggered, or structured around specific contexts. Sampling design affects what experiences are likely to be captured.
+
+### Participant burden
+
+Frequent prompts can interrupt daily activity and cause fatigue or nonresponse. Burden can affect compliance and the representativeness of observations.
+
+### Evidence status
+
+Experience sampling is an established intensive longitudinal approach. Its quality depends on prompt design, compliance, measurement, timing, and appropriate analysis of nested observations.
+
+## 4. Relationship to This Chapter
+
+Experience sampling belongs between longitudinal design and ecological momentary assessment because it operationalizes repeated real-world sampling of psychological experiences.
+
+## 5. Boundaries
+
+### Owns
+
+The general approach of repeated sampling of momentary experiences and behavior in daily life.
+
+### Defers
+
+Ecological momentary assessment as a closely related methodological family, statistical multilevel analysis, and the psychological states being measured.
+
+## 6. Key Principles
+
+1. Experience sampling repeatedly captures momentary experiences.
+2. It provides rich within-person data.
+3. Frequent measurement can reduce some recall demands.
+4. Prompting creates participant burden and potential reactivity.
+5. Intensive repeated observations require appropriate statistical treatment.
+
+---
+
+## 1.2.33 Ecological momentary assessment
+
+## 1. Purpose
+
+Ecological momentary assessment, or EMA, provides repeated assessment of behavior, experiences, symptoms, states, or contexts close to their occurrence in natural environments. It is particularly useful for studying dynamic psychological processes.
+
+## 2. Definition
+
+Ecological momentary assessment is a method of repeatedly assessing participants' current or very recent experiences, behaviors, symptoms, or contexts in their everyday environments, often using digital prompts or event-triggered reports.
+
+## 3. Core Understanding
+
+EMA emphasizes two properties: assessment close to the moment of experience and assessment in ordinary environments. These properties reduce some retrospective demands while preserving contextual information.
+
+### Sampling strategies
+
+EMA can use time-based prompts, random prompts, event-contingent reports, or combinations of these. The choice affects what processes are sampled.
+
+### Within-person dynamics
+
+EMA can examine how a person's states fluctuate and how one moment relates to another. This is different from asking only whether people who differ from one another also differ in average levels.
+
+### Compliance and missingness
+
+Repeated assessments generate missing data when participants miss prompts or withdraw. Missingness may itself relate to the psychological process being studied.
+
+### Reactivity
+
+Repeated measurement can alter awareness or behavior. EMA does not guarantee passive observation.
+
+### Evidence status
+
+EMA is an established intensive longitudinal method. Its value depends on sampling frequency, timing, measurement validity, compliance, analysis, and the degree to which sampled moments represent the process of interest.
+
+## 4. Relationship to This Chapter
+
+EMA is closely related to experience sampling and belongs within longitudinal and intensive measurement approaches. It emphasizes ecological context and temporal proximity.
+
+## 5. Boundaries
+
+### Owns
+
+The methodological concept of repeated near-moment assessment in natural environments.
+
+### Defers
+
+Experience sampling generally, longitudinal statistics, missing-data methods, and the substantive psychological phenomena assessed.
+
+## 6. Key Principles
+
+1. EMA repeatedly measures current or recent experiences in everyday contexts.
+2. It is useful for dynamic within-person processes.
+3. Sampling design determines what can be inferred.
+4. Missingness and reactivity remain important limitations.
+5. EMA does not eliminate measurement error or reporting bias.
+
+---
+
+## 1.2.34 Single-case design
+
+## 1. Purpose
+
+Single-case designs allow intensive evaluation of change within one individual or a small number of units across repeated observations. They are useful when individual trajectories are central or when interventions are tailored to individual cases.
+
+## 2. Definition
+
+A single-case design is a research design that repeatedly measures an outcome within an individual or other single unit across conditions or phases to evaluate change associated with an intervention or condition.
+
+## 3. Core Understanding
+
+### Repeated baseline
+
+Many single-case designs establish a baseline before an intervention. The baseline provides information about the person's pattern before the condition changes.
+
+### Phase comparisons
+
+Designs can compare baseline and intervention phases, alternate conditions, or withdraw and reintroduce an intervention when ethically and practically appropriate.
+
+### Within-person inference
+
+The individual serves as the primary unit of analysis. This can reveal patterns that average across people may obscure.
+
+### Experimental control
+
+Some single-case designs use systematic phase changes, staggered introductions, or reversals to strengthen causal inference.
+
+### Generalization
+
+Evidence from one individual does not automatically generalize to other people. Replication across cases can strengthen confidence in broader applicability.
+
+### Ethical limitations
+
+Withdrawal designs may be inappropriate when removing an effective intervention could cause harm. Ethical considerations constrain design choices.
+
+### Evidence status
+
+Single-case designs can provide rigorous evidence under appropriate conditions. Their inferential scope depends on design strength and replication.
+
+## 4. Relationship to This Chapter
+
+Single-case design provides an intensive alternative to large-group designs and connects experimental logic with individualized longitudinal measurement.
+
+## 5. Boundaries
+
+### Owns
+
+The research design centered on repeated within-unit measurement across experimental or intervention phases.
+
+### Defers
+
+Experimental research, intervention science, statistical analysis, and generalizability.
+
+## 6. Key Principles
+
+1. Single-case designs emphasize repeated measurement within a unit.
+2. Baseline and phase comparisons can strengthen inference.
+3. Individual-level evidence can reveal patterns hidden by group averages.
+4. Generalization requires evidence across cases.
+5. Ethical constraints can limit withdrawal or reversal procedures.
+
+---
+
+## 1.2.35 Qualitative research
+
+## 1. Purpose
+
+Qualitative research investigates meaning, experience, process, context, interaction, and other phenomena that may not be adequately represented by numerical measurement alone. It provides methods for understanding how people experience and interpret psychological and social phenomena.
+
+## 2. Definition
+
+Qualitative research is a family of systematic research approaches that uses non-numerical or primarily non-numerical data and interpretive methods to understand meanings, experiences, processes, contexts, interactions, or patterns.
+
+## 3. Core Understanding
+
+### Data
+
+Qualitative data can include interviews, open-ended responses, observations, documents, recordings, field notes, and other textual or multimodal material.
+
+### Interpretation
+
+Researchers identify patterns, themes, meanings, processes, or structures within the data. Interpretation is systematic rather than simply anecdotal, but it remains influenced by methodological choices and researcher perspective.
+
+### Depth and context
+
+Qualitative methods can reveal how people understand their experiences and how processes unfold in context. They are especially useful when constructs are poorly understood or when predefined categories could miss important phenomena.
+
+### Sampling
+
+Qualitative studies may use purposive, theoretical, convenience, or other sampling strategies depending on the methodology. Statistical representativeness is not always the goal.
+
+### Quality
+
+Credibility can be supported through transparent procedures, reflexivity, triangulation, attention to disconfirming evidence, clear analytic reasoning, and appropriate documentation.
+
+### Generalization
+
+Qualitative findings may support conceptual, theoretical, or contextual insight without providing population estimates. Claims must match the design and sampling logic.
+
+### Evidence status
+
+Qualitative research is scientifically legitimate when appropriate methods are used. Its standards differ in some respects from those of quantitative designs, but systematic rigor remains essential.
+
+## 4. Relationship to This Chapter
+
+Qualitative research broadens the methodological toolkit of psychological science. It complements quantitative designs when meaning, context, process, or poorly understood phenomena require detailed investigation.
+
+## 5. Boundaries
+
+### Owns
+
+The general methodological family of systematic qualitative inquiry.
+
+### Defers
+
+Specific qualitative traditions, coding methods, sampling theory, mixed-methods integration, and the psychological phenomena being studied.
+
+## 6. Key Principles
+
+1. Qualitative research studies meaning, experience, process, and context systematically.
+2. Non-numerical data can provide scientifically valuable evidence.
+3. Interpretation requires methodological transparency.
+4. Qualitative findings need not provide statistical population estimates to be informative.
+5. Rigor remains necessary even when the data are qualitative.
+
+---
+
+## 1.2.36 Mixed-methods research
+
+## 1. Purpose
+
+Mixed-methods research integrates quantitative and qualitative approaches within a coordinated research program. It is useful when numerical patterns and contextual or experiential understanding answer complementary parts of the same question.
+
+## 2. Definition
+
+Mixed-methods research is research that intentionally combines qualitative and quantitative approaches within a single study or connected program of inquiry, with integration occurring at the level of design, data, analysis, interpretation, or conclusions.
+
+## 3. Core Understanding
+
+### Complementarity
+
+Quantitative methods can estimate patterns, relationships, or differences, while qualitative methods can explore meaning, process, context, and variation. Integration can provide a fuller account when both forms of evidence address different aspects of the question.
+
+### Designs
+
+Mixed-methods designs can be sequential, concurrent, explanatory, exploratory, embedded, or otherwise structured. The design should specify why each method is needed and how their findings will be integrated.
+
+### Integration
+
+Simply collecting qualitative and quantitative data does not automatically make a project meaningfully mixed-methods. The methods should inform one another or be combined in interpretation.
+
+### Conflicting results
+
+Different methods may produce apparently inconsistent findings. This is not necessarily a failure. Differences can reveal measurement problems, contextual effects, subgroup variation, or distinct aspects of the phenomenon.
+
+### Quality
+
+Each component should meet appropriate methodological standards, and the integration itself must be justified.
+
+### Evidence status
+
+Mixed-methods research is a legitimate methodological approach. Its value depends on the quality of each component and the quality of integration.
+
+## 4. Relationship to This Chapter
+
+Mixed-methods research completes the Research Designs section by showing how methodological approaches can be deliberately combined rather than treated as mutually exclusive.
+
+## 5. Boundaries
+
+### Owns
+
+The integrated use of qualitative and quantitative research approaches within a coordinated design.
+
+### Defers
+
+Qualitative methodology, quantitative statistics, measurement, and the substantive psychological phenomena being studied.
+
+## 6. Key Principles
+
+1. Mixed methods intentionally combines qualitative and quantitative approaches.
+2. Integration is essential; simple coexistence is not enough.
+3. Different methods can answer complementary questions.
+4. Conflicting findings can reveal meaningful differences in perspective or measurement.
+5. Each component and the integration must be methodologically defensible.
