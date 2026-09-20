@@ -2,7 +2,7 @@
 # HUMAN PSYCHOLOGY
 ## SURGICAL CANONICAL ARCHITECTURE v2.0
 
-**Status:** REBUILT — AUDIT CANDIDATE, NOT LOCKED
+**Status:** LOCKED — SURGICAL CANONICAL ARCHITECTURE v2.1
 **Purpose:** Establish a complete, non-duplicative architecture for universal psychological science before prose is written.
 **Core rule:** One canonical owner per construct. Cross-domain relationships are links, not duplicate owners.
 
@@ -981,7 +981,10 @@ Only the first eight and clinically necessary objects receive independent canoni
 - Satiety
 - Thirst
 - Sexual motivation
+- Sexual desire
+- Sexuality
 - Sexual behavior
+- Sexual orientation
 - Reward
 - Reward sensitivity
 - Reward prediction
@@ -989,6 +992,7 @@ Only the first eight and clinically necessary objects receive independent canoni
 
 ### Self-regulation
 - Self-regulation
+- Self-efficacy
 - Self-control
 - Delay of gratification
 - Impulse control
@@ -1150,7 +1154,7 @@ Only the first eight and clinically necessary objects receive independent canoni
 - Optimism
 - Pessimism
 - Perfectionism
-- Attachment style
+- Attachment style → 1.15 canonical owner (redirect only)
 - Individual differences
 
 ### Assessment
@@ -1218,6 +1222,10 @@ Only the first eight and clinically necessary objects receive independent canoni
 - Death and dying
 
 ### Developmental systems
+- Attachment
+- Attachment theory
+- Attachment security
+- Attachment insecurity
 - Attachment development
 - Temperament development
 - Parenting processes
@@ -1481,6 +1489,10 @@ Only the first eight and clinically necessary objects receive independent canoni
 - Resilience
 - Psychological recovery
 - Post-stress adaptation
+- Grief
+- Bereavement
+- Mourning
+- Loss adaptation
 - Posttraumatic growth — evidence-contested area
 
 ---
@@ -1523,6 +1535,9 @@ Only the first eight and clinically necessary objects receive independent canoni
 - Eating disorders
 - Feeding disorders
 - Substance use disorders
+- Addiction and addictive behavior
+- Behavioral addictions
+- Gambling disorder
 - Neurodevelopmental disorders
 - Communication disorders
 - Intellectual disability
@@ -1606,6 +1621,8 @@ Only the first eight and clinically necessary objects receive independent canoni
 - Therapist competence
 - Therapeutic boundaries
 - Confidentiality
+- Measurement-based care
+- Routine outcome monitoring
 - Cultural adaptation of treatment
 
 ---
@@ -1761,6 +1778,191 @@ The following remain outside System 1 unless a universal psychological mechanism
 - AI implementation
 
 They may use System 1 constructs but cannot re-own them.
+
+
+---
+
+# VI. SURGICAL AUDIT RESOLUTION — v2.1
+
+## 1. Coverage corrections
+
+The audit identified and resolved the following genuine coverage gaps:
+
+- **Self-efficacy** is now explicitly owned by Chapter 1.12 because it is a general motivational/self-regulatory construct with broad behavioral relevance. APA describes self-efficacy as a belief about one's capability that influences motivation, emotion, and behavior change. citeturn1search2turn1search6
+- **Attachment** is now explicitly owned by Chapter 1.15. Adult attachment remains a developmental/social manifestation linked to that owner rather than a second personality owner. APA's current attachment material treats attachment processes across infancy through adulthood. citeturn1search0turn1search3
+- **Sexuality, sexual desire, sexual behavior, and sexual orientation** are explicitly represented as universal psychological topics. Their social, cultural, developmental, and clinical manifestations are linked rather than duplicated. APA treats sexuality as a major psychological domain involving desire, behavior, identity/orientation, development, and context. citeturn2search5turn2search19
+- **Grief, bereavement, mourning, and loss adaptation** are now represented in Chapter 1.18. Normal grief is kept distinct from prolonged grief disorder, which remains a clinical condition in Chapter 1.19. APA currently treats grief as a distinct psychological process and distinguishes it from prolonged grief disorder. citeturn4search9turn4search1
+- **Addiction and addictive behavior** and **gambling disorder** are now explicit in Chapter 1.19. APA materials treat addiction and addictive behaviors as established psychological/clinical domains, including behavioral addictions. citeturn1search4turn1search17
+- **Measurement-based care** and **routine outcome monitoring** are now explicit in Chapter 1.20. These belong to intervention science, not to the general measurement chapter. APA's evidence-based practice framework emphasizes monitoring, clinical decision-making, treatment evidence, and adaptation to patient characteristics and context. citeturn3search0turn3search2
+
+## 2. Ownership corrections
+
+The following duplicate-owner conflicts are resolved by canonical redirects:
+
+| Object | Canonical owner | Non-owner appearances |
+|---|---|---|
+| Behavior | 1.1 | 1.21 uses behavioral/action derivatives |
+| Action | 1.21 | 1.1 uses it only in processing architecture |
+| Individual differences | 1.14 | other chapters use domain-specific manifestations |
+| Self-regulation | 1.12 | 1.1 and other chapters link to it |
+| Psychological flexibility | 1.18 | 1.1 links to the construct |
+| Self-awareness | 1.5 | 1.14 links to self-related manifestations |
+| Bounded rationality | 1.10 | 1.9 links to the decision construct |
+| Dynamic-systems perspective | 1.1 | development chapters link to it |
+| Emotional intelligence | 1.13 | intelligence chapter links to it as a cross-domain construct |
+| Attachment | 1.15 | 1.14 and 1.16 use developmental/relationship manifestations |
+| Personality development | 1.15 | 1.14 links to personality as a domain |
+| Confidentiality | 1.2 as research ethics; 1.20 contains treatment-ethics application only | no second general owner |
+
+## 3. Relationship-node rule
+
+The following are **not independent canonical owners** even when they appear as useful chapter entries:
+
+- X and Y
+- X–Y relationship
+- X and behavior
+- X and memory
+- X and attention
+- X and decision-making
+- cultural variation in X
+- individual differences in X
+- X in context
+- X and health
+- X and development
+- X and learning
+- X and intelligence
+- X and personality
+- X and social behavior
+- X and psychological function
+
+These are relationship/application nodes. Their content is retrieved through the canonical owners on both sides.
+
+This resolves the previous error where cross-domain relationships were being counted as independent psychological concepts.
+
+## 4. Theory/model separation
+
+Theories and models remain canonical knowledge objects where they explain a major psychological domain, but they are no longer counted as if they were basic constructs.
+
+Canonical model ownership follows the primary explanatory target:
+
+- learning models → 1.7
+- decision models → 1.10
+- motivation models → 1.12
+- emotion models → 1.13
+- personality models → 1.14
+- developmental models → 1.15
+- psychopathology models → 1.19
+- stress models → 1.18
+- treatment/evidence models → 1.20
+- biopsychosocial and general systems models → 1.1
+
+## 5. Clinical separation
+
+Clinical conditions are not treated as ordinary constructs.
+
+Chapter 1.19 owns:
+
+- diagnostic categories
+- symptom dimensions
+- clinical syndromes
+- risk/protective factors
+- comorbidity
+- clinical assessment
+- stigma and recovery
+- suicide risk and self-harm
+- addiction and behavioral addictions
+- prolonged grief disorder
+
+General mechanisms remain in their universal owners and are only linked into clinical chapters.
+
+## 6. Developmental and cultural separation
+
+Developmental and cultural chapters own developmental/cultural phenomena and manifestations, but they do not re-own the general psychological mechanism.
+
+Examples:
+
+- memory remains 1.8; memory in development is a developmental link.
+- emotion remains 1.13; cultural emotion is a cultural manifestation.
+- motivation remains 1.12; developmental motivation is a developmental application.
+- personality remains 1.14; cultural personality differences are a cultural manifestation.
+- attachment remains 1.15; adult attachment is a lifespan manifestation.
+
+This preserves one-owner retrieval while allowing deep contextual coverage.
+
+## 7. Cross-system collision audit
+
+The following remain outside System 1 as independent owners:
+
+- sales psychology
+- investor psychology
+- brokerage psychology/operations
+- communication engineering
+- conversation engineering
+- persuasion methodology
+- negotiation methodology
+- buyer psychology
+- objection handling
+- relationship selling
+- sales performance systems
+- organizational implementation
+- vocational application
+- AI implementation
+
+System 1 supplies universal mechanisms to these systems; it does not absorb their domain-specific methods.
+
+## 8. Final architecture count
+
+The v2 architecture contains:
+
+- **21 chapters**
+- **1,347 chapter architecture entries**
+- **29 model-registry entries**
+- **18 explicit cross-chapter relationship links**
+- **14 application-boundary entries**
+
+After canonical ownership resolution, relationship/application entries and duplicate aliases are excluded from the independent-owner count.
+
+### FINAL CANONICAL OWNER COUNT: 1,267
+
+This count is the count of independently owned canonical knowledge objects, not the raw number of visible bullets.
+
+The difference is deliberate:
+
+> **The map may contain links, manifestations, redirects, and models without turning each one into a new owner.**
+
+## 9. Lock-gate result
+
+| Gate | Result |
+|---|---|
+| Coverage audit | PASS |
+| Every canonical leaf has an ontology type | PASS |
+| One canonical owner per construct | PASS |
+| Relationship nodes removed from concept count | PASS |
+| Theories/models separated from constructs | PASS |
+| Clinical conditions separated from general mechanisms | PASS |
+| Developmental duplication controlled | PASS |
+| Cultural duplication controlled | PASS |
+| Applied-domain collision controlled | PASS |
+| Major established psychology domains have a home | PASS |
+| Missing-concept search resolved | PASS |
+| Duplicate scan | PASS after canonical redirects |
+| Cross-system collision scan | PASS |
+| Final canonical count generated | PASS — 1,267 |
+| Prose-writing gate | **OPEN** |
+
+## 10. Scientific basis of the audit
+
+The coverage audit was checked against current mainstream psychology frameworks rather than relying only on the old index. APA's current National Standards place scientific inquiry/research methods at the foundation and organize core psychology across biological, cognition, development/learning, social/personality, and mental/physical health areas. citeturn0search0turn0search33
+
+OpenStax Psychology 2e independently covers research, biopsychology, consciousness, sensation/perception, learning, thinking/intelligence, memory, lifespan development, motivation/emotion, personality, social psychology, stress/health, disorders, and therapy/treatment. citeturn0search1
+
+APA's current research-methods material also supports explicit treatment of causal inference, qualitative and quantitative designs, measurement, psychometrics, ethics, transparency, preregistration, and open science. citeturn0search3turn0search5turn3search4turn3search5
+
+### Lock decision
+
+**SYSTEM 1 — HUMAN PSYCHOLOGY — SURGICAL CANONICAL ARCHITECTURE v2.1 IS LOCKED.**
+
+No prose chapter generation is authorized by this architecture document until the writing constitution is applied to the locked owner map.
 
 ---
 
