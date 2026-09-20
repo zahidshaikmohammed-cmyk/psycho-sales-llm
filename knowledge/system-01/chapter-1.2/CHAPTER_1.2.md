@@ -2447,6 +2447,26 @@ Some constructs contain multiple dimensions. Researchers must establish whether 
 
 Constructs are theoretical entities. Their usefulness depends on conceptual clarity and empirical evidence linking them to observable indicators.
 
+
+### Deeper conceptual structure
+
+A construct is an abstract representation used to organize observations that share a theoretically or conceptually meaningful property. Constructs are not automatically literal hidden objects inside people. Their scientific usefulness depends on whether they support coherent measurement, prediction, and explanation.
+
+### Construct versus indicator
+
+A construct is the intended psychological concept; an indicator is an observable measure used to represent it. Multiple indicators can represent one construct, and one indicator can sometimes reflect more than one construct. Treating an indicator as identical to the construct creates a risk of reification.
+
+### Nomological role
+
+Constructs gain meaning partly through their relationships with other constructs. A construct may be expected to relate to some variables, differ from others, and predict particular outcomes under specified conditions. This network of expected relationships contributes to its theoretical meaning.
+
+### Construct boundaries
+
+A construct should be neither so broad that almost anything fits it nor so narrow that it merely restates one measurement procedure. Good conceptualization identifies what belongs inside the construct and what does not.
+
+### Reification risk
+
+A measured score does not prove that the construct exists as a literal entity with every property attributed to it. Construct claims remain interpretations supported by theoretical and measurement evidence.
 ## 4. Relationship to This Chapter
 
 Construct is foundational to operational definition, psychological measurement, validity, scale construction, factor analysis, and latent variables.
@@ -2509,6 +2529,22 @@ Using multiple measures can test whether a finding depends on one operational de
 
 Operational definitions are methodological specifications. Their adequacy depends on the relationship between the procedure and the intended construct.
 
+
+### Deeper conceptual structure
+
+Operationalization is the bridge between an abstract research concept and observable evidence. It specifies how a construct, variable, exposure, manipulation, or outcome will be represented in a study. The same construct can have multiple operational definitions, and different operational definitions can capture different portions of the intended concept.
+
+### Good operational definitions
+
+A useful operational definition is sufficiently specific that another researcher can understand what was actually observed or manipulated. It should identify the unit, procedure, scoring rule, timing, context, and relevant decision rules when these affect interpretation.
+
+### Operational definition versus construct
+
+An operational definition is not the construct itself. A self-report scale, behavioral task, physiological measure, or experimental manipulation is an operationalization of something the researcher intends to study. Its adequacy is therefore a validity question rather than a matter of naming the construct.
+
+### Consequences of operationalization
+
+Operational choices can change the phenomenon that is actually observed. Narrow measures may omit relevant dimensions; broad measures may combine distinct processes. Operationalization therefore affects construct validity, comparability across studies, and the conclusions that can reasonably be drawn.
 ## 4. Relationship to This Chapter
 
 Operational definition connects constructs to variables, measurement, manipulation, validity, and reproducibility.
@@ -2567,6 +2603,22 @@ A variable can vary between people, within people over time, across conditions, 
 
 Variable is a methodological concept. Its scientific usefulness depends on valid measurement and appropriate analysis.
 
+
+### Deeper conceptual structure
+
+Variables can be classified by their role in a research question, their measurement scale, and whether their values are manipulated, assigned, observed, or treated as outcomes. A variable may be continuous, categorical, binary, count-based, ordinal, or otherwise structured depending on the measurement system.
+
+### Variable values and variation
+
+A variable must be capable of taking different values across observations, persons, occasions, or conditions. A characteristic with no variation in the relevant dataset cannot explain differences within that dataset, although it may still define the study population or condition.
+
+### Role is relational
+
+The same measured quantity can occupy different analytical roles in different studies. A person's age, for example, could be a predictor, outcome, control variable, moderator, or descriptive characteristic depending on the research question.
+
+### Measurement matters
+
+A variable is not simply a column of numbers. Its meaning depends on how the values were generated, what they represent, and what transformations or assumptions are justified. Statistical treatment should respect the variable's measurement properties.
 ## 4. Relationship to This Chapter
 
 Variable is the organizing unit for much of the Variables and Inference section. Independent variable, dependent variable, mediator, moderator, confound, and control variable are specialized roles.
@@ -2627,6 +2679,22 @@ Because “independent variable” can imply causal independence, some research 
 
 The term describes analytic or design role, not causal proof.
 
+
+### Deeper conceptual structure
+
+An independent variable is a variable treated as a predictor, exposure, condition, or manipulated factor whose relationship with another variable is being examined. In an experiment, the researcher may manipulate it. In observational research, the term may describe an explanatory or predictor variable without implying that the researcher controlled it.
+
+### Manipulation is not required
+
+Calling a variable “independent” does not establish independence in the causal sense. A predictor can be statistically associated with an outcome while being correlated with many other variables. Causal interpretation requires appropriate design and assumptions.
+
+### Experimental role
+
+When an independent variable is experimentally manipulated and assignment to conditions is appropriately controlled, differences in outcomes can support causal inference under the design's assumptions. The strength of that inference comes from the design, not from the label “independent variable.”
+
+### Multiple predictors
+
+Studies can contain several independent variables or predictors. Their coefficients and effects must be interpreted relative to the model, coding, comparison condition, and other included variables.
 ## 4. Relationship to This Chapter
 
 Independent variable connects directly to dependent variable, experimental research, causal inference, mediator, moderator, confound, and regression.
@@ -2685,6 +2753,22 @@ Calling a measure “dependent” does not prove that another variable caused it
 
 Dependent variable is a methodological role rather than a substantive psychological construct.
 
+
+### Deeper conceptual structure
+
+A dependent variable is the outcome or response whose variation is analyzed in relation to one or more predictors, conditions, exposures, or interventions. It is called “dependent” because it is treated as the outcome of interest within the analytical structure, not because dependence has been causally demonstrated.
+
+### Outcome specification
+
+A good dependent-variable definition identifies exactly what is measured, when it is measured, how it is scored, and which aspect of the phenomenon is represented. Different operationalizations of the same broad outcome can produce different findings.
+
+### Causal interpretation
+
+In experiments, a dependent variable is commonly the outcome used to estimate effects of manipulated conditions. In observational studies, the same terminology can be used for an outcome associated with predictors, but the label alone does not establish causation.
+
+### Multiple outcomes
+
+A study may have several dependent variables. Each outcome can have different reliability, measurement validity, statistical properties, and sensitivity to the intervention or predictor.
 ## 4. Relationship to This Chapter
 
 Dependent variable complements independent variable and connects to experimental design, causal inference, measurement validity, statistical power, and regression.
@@ -2745,6 +2829,26 @@ These labels describe statistical models in which some or most of an association
 
 Mediation is a model of relationships among variables. Strong causal interpretation requires more than statistical association.
 
+
+### Deeper mechanism and causal logic
+
+A mediator is a variable proposed to lie on a pathway through which an antecedent, exposure, or intervention is related to an outcome. A simple mediation idea can be represented as **X → M → Y**, while the total relationship between X and Y may also contain pathways that do not pass through M.
+
+### Mediation is more than correlation
+
+Finding that X is associated with M and that M is associated with Y does not by itself establish mediation. A mediation claim requires assumptions about temporal ordering, confounding, measurement, model specification, and the causal meaning assigned to each relationship.
+
+### Direct and indirect components
+
+Analyses may distinguish a total effect, an indirect effect through the proposed mediator, and a remaining direct effect. These labels describe a model; they do not automatically prove that a real-world causal mechanism has been isolated.
+
+### Common errors
+
+A variable should not be called a mediator merely because it statistically explains part of an association. Cross-sectional mediation can be especially difficult to interpret because temporal ordering may be unknown. Adjusting for a mediator can also change the estimand being studied rather than simply “controlling away” an unwanted variable.
+
+### Evidence status
+
+Mediation is a useful theoretical and statistical framework. Strong causal mediation claims require designs and assumptions capable of supporting the relevant causal interpretation.
 ## 4. Relationship to This Chapter
 
 Mediator connects variable roles with causal inference, regression, explanation, and mechanism. It is especially important when researchers seek process explanations.
@@ -2803,6 +2907,26 @@ A statistically significant interaction does not automatically establish a causa
 
 Moderation is a relational model. Its validity depends on measurement, model specification, and the evidence supporting the conditional relationship.
 
+
+### Deeper mechanism and interpretation
+
+A moderator changes the strength, direction, or form of a relationship between variables. In statistical terms, moderation is commonly represented through an interaction: the association between X and Y depends on the level or category of Z.
+
+### Conditional effects
+
+A main effect can be misleading when an interaction is present. The relevant question becomes conditional: what is the estimated relationship between X and Y at particular values or levels of the moderator? Interpretation should examine the interaction and relevant conditional effects rather than relying only on individual main-effect coefficients.
+
+### Moderator versus mediator
+
+A mediator describes a proposed pathway through which an effect operates. A moderator describes a condition under which a relationship differs. The same variable can play different roles in different theoretical models, but the roles should not be conflated within one analysis.
+
+### Measurement and scaling
+
+Interpretation of interactions depends on coding, centering, scaling, and the observed range. Centering can change the meaning of lower-order coefficients without changing the fitted interaction. Extrapolation beyond the observed moderator range is generally not justified merely because a model can calculate it.
+
+### Evidence status
+
+An interaction in observed data supports evidence of conditional association within the studied design. Causal moderation requires causal identification of the relevant effects and assumptions.
 ## 4. Relationship to This Chapter
 
 Moderator connects directly to boundary conditions, interaction effects, regression, causal inference, and generalizability.
@@ -2861,6 +2985,26 @@ Statistical adjustment can only directly address measured and appropriately mode
 
 Confounding is a well-established causal-inference concept. Whether a specific relationship is confounded is an empirical and causal-modeling question.
 
+
+### Causal structure
+
+A confound is a variable that creates a misleading or distorted estimate of the relationship of interest because it is related to both the exposure or predictor and the outcome through a structure that mixes the association of interest with another pathway. In causal analysis, confounding is defined relative to a particular causal question rather than merely as “another variable that correlates with both.”
+
+### Why confounding matters
+
+Suppose X and Y are associated because a third variable Z influences both. The observed X–Y association then contains information from the X–Y relationship and the common influence of Z. Adjustment for appropriate confounders can sometimes reduce this distortion, provided the adjustment set and model are appropriate.
+
+### Confound versus mediator
+
+A mediator lies on a proposed pathway from X to Y. A confounder precedes and creates a noncausal component of the X–Y association. Adjusting for a true mediator can block part of the effect being estimated, whereas failing to address a confounder can distort the estimate.
+
+### Confound versus collider
+
+A collider is a variable caused by two variables in a causal structure. Conditioning on a collider can create an association that was not present before. Therefore, “control for every variable” is not a valid general rule.
+
+### Evidence status
+
+Confounding is a causal-inference concept. Whether a variable is a confounder depends on the causal structure and estimand, not merely on statistical significance.
 ## 4. Relationship to This Chapter
 
 Confound is central to causal inference and connects experimental, quasi-experimental, observational, regression, and control-variable concepts.
@@ -2921,6 +3065,22 @@ A control group is a comparison condition. A control variable is a variable hand
 
 Control variables are methodological tools. Their value depends on the causal structure, measurement quality, and analytic objective.
 
+
+### Deeper analytical meaning
+
+A control variable is a variable included in an analysis to account for, compare across, or statistically condition on a characteristic relevant to the research question. The phrase is broad and does not by itself specify whether the variable is a confounder, mediator, precision variable, nuisance variable, or another covariate.
+
+### Why inclusion requires justification
+
+Adding variables is not automatically beneficial. A variable may reduce residual variation and improve precision, but conditioning on a mediator can change the effect being estimated, while conditioning on a collider can introduce bias. A control variable therefore needs a defensible substantive and causal rationale.
+
+### Statistical versus experimental control
+
+In an experiment, control can mean holding a condition constant, using a comparison group, or balancing characteristics through design. In statistical analysis, it often means including a covariate in a model. These are related but not interchangeable forms of control.
+
+### Interpretation
+
+An adjusted coefficient represents a relationship conditional on the variables and model included. It should not automatically be described as the “pure effect” of one variable after all other influences have been removed.
 ## 4. Relationship to This Chapter
 
 Control variable connects confounding with regression, causal inference, experimental design, and statistical conclusion validity.
@@ -2984,6 +3144,26 @@ A causal question should specify what effect is being estimated, for whom, under
 
 Causal inference is an established scientific framework. The credibility of a particular causal conclusion depends on the design, assumptions, measurement, implementation, and analysis.
 
+
+### Counterfactual foundation
+
+Causal inference asks what would happen to the same unit, or a well-defined population of units, under different interventions or exposures. Because the same unit cannot ordinarily be observed simultaneously under incompatible conditions, causal inference requires a design or assumptions that allow the missing counterfactual outcome to be estimated.
+
+### Identification
+
+A causal claim requires more than a statistical association. The researcher must identify an estimand, define the intervention or exposure, establish an appropriate comparison, and justify assumptions that connect observed data to the causal quantity of interest. Randomized experiments can identify causal effects through random assignment under appropriate conditions; observational methods require additional assumptions or designs.
+
+### Major threats
+
+Confounding, selection, measurement error, interference between units, treatment nonadherence, missing data, and incorrect model specification can compromise causal inference. The relevant threat depends on the causal question and design.
+
+### Causal estimands
+
+Different causal questions can produce different estimands, such as an average treatment effect, an effect among treated units, or a conditional effect for a subgroup. “The causal effect” is incomplete unless the target quantity is specified.
+
+### Evidence status
+
+Causal inference is a framework for reasoning from data to causal claims. Its conclusions depend on design quality, identification assumptions, and the quality of measurement and analysis. No statistical method removes the need for substantive causal reasoning.
 ## 4. Relationship to This Chapter
 
 Causal inference integrates experimental and quasi-experimental designs with variables, confounding, internal validity, statistical analysis, and evidence quality.
@@ -3042,6 +3222,22 @@ A study can have strong internal validity while limited generalizability. Conver
 
 Internal validity is a methodological property of a particular inference, not a permanent label attached to an entire study.
 
+
+### Threats and remedies
+
+Internal validity concerns whether the observed relationship within a study supports the intended causal interpretation without being substantially explained by alternative causes or design problems. Important threats can include confounding, differential attrition, history, maturation, contamination, treatment nonadherence, measurement changes, and inappropriate analysis, depending on design.
+
+### Design contribution
+
+Random assignment can balance measured and unmeasured causes in expectation, strengthening causal interpretation. Blinding, standardized procedures, appropriate comparison conditions, preregistration, complete follow-up, and valid outcome measurement can address additional threats. No single safeguard protects against every threat.
+
+### Internal validity versus statistical conclusion validity
+
+Internal validity concerns whether a causal interpretation is justified. Statistical conclusion validity concerns whether the statistical evidence supports the claimed pattern, including issues such as power, measurement precision, model assumptions, and error rates. A study can have one without the other.
+
+### Scope
+
+High internal validity does not imply that a finding generalizes to every population or setting. A tightly controlled study can provide strong evidence about a causal effect under specific conditions while leaving transport to other contexts uncertain.
 ## 4. Relationship to This Chapter
 
 Internal validity belongs beside causal inference and connects to experimental design, confounding, selection bias, measurement validity, and statistical conclusion validity.
@@ -3102,6 +3298,26 @@ High control can improve internal validity while limiting naturalism. This is no
 
 External validity is a property of a conclusion's scope, not a simple characteristic that a study either possesses or lacks.
 
+
+### Generalization is multidimensional
+
+External validity concerns the extent to which conclusions from a study can reasonably be generalized beyond the exact conditions studied. Generalization can concern people, settings, times, treatments, outcomes, or combinations of these. It is therefore not a single yes/no property.
+
+### Sampling and transport
+
+Probability sampling can support population generalization when the sampling process and nonresponse are appropriately handled, but external validity is not limited to sampling. A study may generalize to a new setting or intervention only if relevant causal and contextual conditions are sufficiently similar or can be justified as transportable.
+
+### Treatment and context variation
+
+An effect can differ across populations or settings because moderators, implementation conditions, baseline risks, measurement procedures, or treatment versions differ. Replication across diverse conditions can provide evidence about robustness and boundaries.
+
+### Trade-offs
+
+Tight experimental control can improve internal validity while reducing similarity to natural conditions. Naturalistic studies can increase contextual realism while introducing additional uncertainty. The appropriate balance depends on the scientific question.
+
+### Evidence status
+
+External validity is an inferential judgment supported by evidence about similarity, heterogeneity, sampling, and transportability. A single study rarely establishes universal generalizability.
 ## 4. Relationship to This Chapter
 
 External validity connects directly to generalizability, sampling, ecological validity, replication, and contextual moderators.
@@ -3158,6 +3374,22 @@ Ecological validity concerns resemblance or relevance to real-world functioning.
 
 Ecological validity is context-dependent and should be evaluated relative to the psychological process and target environment.
 
+
+### Contextual fit
+
+Ecological validity concerns how well the procedures, stimuli, behaviors, and conditions of a study correspond to the real-world contexts in which the psychological phenomenon is expected to occur. It is especially relevant when the research question concerns everyday behavior or natural environments.
+
+### Not identical to external validity
+
+A study can have realistic procedures without establishing that its findings generalize to a broader population. Conversely, a controlled study can contribute to generalizable causal knowledge even when the laboratory context differs from ordinary life. Ecological validity is therefore one aspect of contextual realism, not a synonym for generalizability.
+
+### Levels of realism
+
+Realism can concern the setting, task, social interaction, stakes, time scale, stimuli, or consequences. A study may be realistic in one respect and artificial in another.
+
+### Evidence status
+
+Ecological validity is primarily a question about contextual correspondence. Claims about real-world applicability still require evidence that the studied processes and effects operate under the target conditions.
 ## 4. Relationship to This Chapter
 
 Ecological validity complements external validity and connects to naturalistic observation, applied research, experience sampling, and generalizability.
@@ -3218,6 +3450,22 @@ A statistically detectable effect can still be small or imprecise. Confidence in
 
 Statistical conclusion validity is a methodological evaluation of the connection between data and statistical claims.
 
+
+### Sources of statistical conclusion error
+
+Statistical conclusion validity concerns whether the statistical evidence justifies the conclusion that a relationship, difference, or effect is present, absent, or of a particular magnitude. Problems can arise from inadequate power, unreliable measurement, inappropriate statistical models, violated assumptions, excessive researcher flexibility, selective reporting, or incorrect treatment of missing data.
+
+### Positive and null conclusions
+
+A statistically detectable result can be misleading if the analysis is biased or assumptions fail. Conversely, a non-significant result does not automatically demonstrate that no meaningful effect exists; the estimate's precision and the study's sensitivity matter.
+
+### Distinction from internal validity
+
+A study can estimate a statistically reliable association without identifying its causal source. Statistical conclusion validity therefore concerns the evidential connection between data and statistical claim, while internal validity concerns whether a causal interpretation is justified.
+
+### Evidence status
+
+Statistical conclusion validity is an inferential framework rather than a single test. It depends on the entire analysis pipeline and the quality of the underlying data.
 ## 4. Relationship to This Chapter
 
 This concept links research design and measurement to statistical power, significance, effect size, confidence intervals, multiple comparisons, and regression.
@@ -3282,6 +3530,26 @@ The meaning of a construct can change across populations, cultures, time, or mea
 
 Construct validity is not one test or one coefficient. It is an accumulating body of evidence supporting an interpretation.
 
+
+### Evidence for construct interpretation
+
+Construct validity concerns whether evidence supports the interpretation that a measure or operationalization adequately represents the intended construct for a particular use. It is not a permanent label attached to a test independently of purpose, population, or interpretation.
+
+### Construct representation
+
+A measure can fail by omitting important parts of the construct, including irrelevant content, or representing the construct in a distorted way. Evidence can therefore concern content coverage, response processes, internal structure, relations with other variables, and consequences of interpretation.
+
+### Convergent and discriminant evidence
+
+Measures intended to represent related constructs may be expected to show appropriate convergence, while measures of distinct constructs should not be indistinguishable. Neither pattern alone proves validity; evidence must fit the broader theoretical network.
+
+### Construct-irrelevant variance
+
+Scores can reflect characteristics unrelated to the intended construct, such as reading ability, response style, motor demands, or situational factors. Such variance can weaken interpretation even when a measure appears reliable.
+
+### Evidence status
+
+Construct validity is cumulative. It is supported by converging evidence rather than established by one correlation, factor analysis, or reliability coefficient.
 ## 4. Relationship to This Chapter
 
 Construct validity connects constructs, operational definitions, measurement validity, scale construction, factor analysis, and latent variables.
@@ -3346,6 +3614,26 @@ A measure validated in one population may not automatically have the same interp
 
 Validity is an ongoing argument supported by multiple forms of evidence rather than a permanent certificate attached to an instrument.
 
+
+### Measurement validity as an interpretation problem
+
+Measurement validity concerns whether observed scores or indicators support the intended interpretation of what was measured. It links the abstract construct to the operational measure and asks whether the measurement process produces evidence suitable for the intended inference.
+
+### Multiple sources of validity evidence
+
+Validity evidence can concern the content of the measure, how respondents or observers engage with it, its internal structure, its relationships with external variables, and the consequences of using the scores. Different forms of evidence answer different questions and should be interpreted together.
+
+### Reliability is necessary but insufficient
+
+A measure can be highly consistent and still measure the wrong construct. Reliability addresses aspects of measurement precision or consistency; validity concerns whether the resulting scores support the intended interpretation.
+
+### Context dependence
+
+A measure may be appropriate for one population or purpose and less appropriate for another. Language, culture, age, setting, response format, and changes in the underlying construct can all affect interpretation.
+
+### Evidence status
+
+Measurement validity is an evidence-based judgment about score interpretation, not an intrinsic property that a test possesses forever.
 ## 4. Relationship to This Chapter
 
 Measurement validity is the broader measurement concept connecting construct validity with reliability, psychometrics, scale construction, and measurement invariance.
@@ -3404,6 +3692,26 @@ Restricted range, unreliable measurement, outliers, and nonlinearity can affect 
 
 Correlation is a statistical description. Its causal interpretation depends on design and assumptions.
 
+
+### Structure of correlation
+
+Correlation describes the statistical association between variables. It indicates how values vary together according to a specified measure of association, but it does not by itself identify the causal process producing that pattern.
+
+### Direction and strength
+
+A positive association means higher values of one variable tend to accompany higher values of the other; a negative association means they tend to move in opposite directions. The strength depends on the statistic used and the data structure. A weak linear correlation can coexist with a strong nonlinear relationship.
+
+### Correlation is not only Pearson's r
+
+“Correlation” is a broader idea than one coefficient. Different association measures are appropriate for different variable types, distributions, and assumptions. Interpretation should therefore identify the statistic and its conditions.
+
+### What correlation can reveal
+
+Correlation can identify patterns worth explaining, support prediction, quantify relationships, and contribute to theory testing. It can also reveal that a proposed relationship is weak or absent under the studied conditions.
+
+### Limits
+
+Correlation can be distorted by outliers, restricted ranges, measurement error, selection, aggregation, and nonlinear structure. A correlation also does not establish direction of causation or rule out confounding.
 ## 4. Relationship to This Chapter
 
 Correlation is the conceptual foundation for correlation coefficients and connects to regression, confounding, causal inference, and the correlation-versus-causation distinction.
@@ -3458,6 +3766,26 @@ A study may find that people with X also have more Y and conclude that increasin
 
 The distinction is foundational to scientific inference. Specific causal claims require claim-specific evidence.
 
+
+### Why association does not establish causation
+
+An observed association between X and Y can arise because X causes Y, Y causes X, a third variable influences both, selection creates the association, measurement procedures induce a relationship, or several mechanisms operate simultaneously. Temporal ordering and substantive theory can narrow possibilities but do not automatically identify a causal effect.
+
+### Intervention changes the question
+
+Causal inference asks what would happen if the relevant exposure or condition were changed. Observational association asks what variables co-vary under the observed data-generating process. These are different questions even when they involve the same variables.
+
+### Conditions supporting causal claims
+
+Causal interpretation is strengthened by appropriate manipulation or intervention, credible comparison groups, temporal ordering, control of confounding, valid measurement, and analyses consistent with the design. Randomization is especially useful because it can break systematic links between assignment and potential outcomes in expectation.
+
+### Why “control for everything” fails
+
+Statistical adjustment can reduce confounding in some structures but can also introduce bias when conditioning on mediators, colliders, or post-treatment variables. Causal adjustment therefore requires a defensible causal model rather than a generic list of covariates.
+
+### Evidence status
+
+Correlation is evidence of association. It becomes evidence relevant to causation only when combined with a design and assumptions that support the specific causal claim.
 ## 4. Relationship to This Chapter
 
 This Topic closes the Variables and Inference section and connects correlation to confounding, causal inference, research design, internal validity, and statistical analysis.
