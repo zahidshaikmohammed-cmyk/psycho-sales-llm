@@ -66,6 +66,16 @@ The canonical Chapter 1.2 writing is contained in:
 
 It contains all 118 locked ontology topics and the final remediated Knowledge Object writing for every topic. The chapter is formally locked and sealed as canonical knowledge version 1.0.
 
+### Chapter 1.3 — The Dynamics of Human Thinking
+
+**Status: LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 1.0**
+
+The canonical Chapter 1.3 writing is contained in:
+
+knowledge/system-01/chapter-1.3/CHAPTER_1.3.md
+
+It contains all 70 locked ontology topics from 1.3.1 through 1.3.70 and the canonical Knowledge Object writing for every topic. The chapter has passed final structural, ownership, scientific-integrity, retrieval, and System 1 boundary validation and is formally locked and sealed as canonical knowledge version 1.0.
+
 ---
 
 # Repository Integrity Rules
