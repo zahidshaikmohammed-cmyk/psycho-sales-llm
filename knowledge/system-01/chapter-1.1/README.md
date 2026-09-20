@@ -13,3 +13,9 @@ Each Topic follows the permanent PSYCHO SALES writing standard:
 The uploaded calibration markdown is used as a writing standard and structural instruction only. Its example content is not copied as substantive knowledge.
 
 Canonical ownership follows the locked System 1 architecture.
+
+## Canonical Status
+
+**CHAPTER 1.1 — LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 1.0**
+
+The complete canonical chapter is maintained in `CHAPTER_1.1.md`. The 57-topic locked ontology is preserved exactly, and every Topic has the permanent six-section Knowledge Object structure with explicit ownership boundaries.
