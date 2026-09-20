@@ -3479,3 +3479,646 @@ Specific causal inference methods, confounders, correlations, regression, and su
 3. Confounding and reverse causation are major alternatives.
 4. Statistical adjustment does not automatically establish causality.
 5. Causal conclusions require appropriate design and assumptions.
+
+---
+## 1.2.55 Population
+
+## 1. Purpose
+
+Population defines the broader set of units to which a scientific question refers. It is essential for understanding sampling and generalizability because research findings are often intended to say something about more than the observed participants.
+
+## 2. Definition
+
+A population is the defined set of people, cases, observations, events, or other units about which a study seeks to make a specified inference.
+
+A population may be finite or conceptual and can be defined by geography, age, diagnosis, behavior, time period, or other criteria.
+
+## 3. Core Understanding
+
+### Target population
+
+The target population is the broader group to which researchers intend their conclusions to apply.
+
+### Study population
+
+The study population is the accessible set from which the sample can actually be drawn. It may differ from the target population.
+
+### Population parameter
+
+A parameter is a characteristic of the population, such as a mean, proportion, or relationship. Researchers often estimate parameters using samples.
+
+### Definition matters
+
+A vague population produces vague generalization. A claim about “people” is much broader than a claim about a defined population under specified conditions.
+
+### Dynamic populations
+
+Populations can change over time. A population defined in one period may not have identical characteristics later.
+
+### Evidence status
+
+Population is a methodological concept. Its importance lies in specifying the scope of inference.
+
+## 4. Relationship to This Chapter
+
+Population is the starting point for sample selection, sampling frames, random sampling, sampling bias, and generalizability.
+
+## 5. Boundaries
+
+### Owns
+
+The concept of the defined set of units about which an inference is intended.
+
+### Defers
+
+Samples, sampling frames, sampling methods, population parameters, and generalizability.
+
+## 6. Key Principles
+
+1. A population is the defined target of inference.
+2. Target and accessible populations can differ.
+3. Population definitions determine the scope of generalization.
+4. Populations can change over time.
+5. A sample is evidence about a population, not the population itself.
+
+---
+
+## 1.2.56 Sample
+
+## 1. Purpose
+
+A sample is the subset of units actually observed in a study. Understanding sampling is necessary because psychological researchers rarely measure an entire population.
+
+## 2. Definition
+
+A sample is the set of units selected or included in a study from a defined population or accessible source.
+
+## 3. Core Understanding
+
+### Sampling relationship
+
+Researchers use samples to estimate or understand characteristics of broader populations. The strength of that inference depends on how the sample was obtained and what claim is being made.
+
+### Representativeness
+
+A sample need not match every population characteristic exactly to be useful. What matters is whether the sampling process supports the intended inference.
+
+### Sample size
+
+Larger samples can improve precision under many conditions, but size does not repair systematic sampling bias, poor measurement, or inappropriate design.
+
+### Nonresponse
+
+Eligible units may decline or fail to participate. If participation is related to variables of interest, the observed sample may differ systematically from the intended population.
+
+### Evidence status
+
+A sample is an empirical subset. Its inferential value depends on selection, measurement, design, and analysis.
+
+## 4. Relationship to This Chapter
+
+Sample connects population to sampling frame, random sampling, sampling bias, statistical power, and generalizability.
+
+## 5. Boundaries
+
+### Owns
+
+The concept of the observed subset of units in a study.
+
+### Defers
+
+Population, sampling methods, nonresponse, sampling bias, and statistical estimation.
+
+## 6. Key Principles
+
+1. A sample is the set of units actually studied.
+2. Sample size and sample quality are different concepts.
+3. Sampling process affects generalizability.
+4. Nonresponse can change sample composition.
+5. A large biased sample can still produce biased conclusions.
+
+---
+
+## 1.2.57 Sampling frame
+
+## 1. Purpose
+
+A sampling frame defines the practical source from which a sample is selected. It is important because even a formally random selection procedure can be biased if the frame omits relevant members or includes inappropriate units.
+
+## 2. Definition
+
+A sampling frame is the operational list, registry, database, procedure, or other accessible representation of units from which a study sample is selected.
+
+## 3. Core Understanding
+
+### Coverage
+
+A good sampling frame closely corresponds to the target population. Undercoverage occurs when eligible units are missing; overcoverage occurs when ineligible units are included.
+
+### Duplicates and outdated records
+
+Frames can contain duplicate, outdated, or inaccurate entries. These problems can alter selection probabilities.
+
+### Frame versus population
+
+The sampling frame is not necessarily the population itself. It is the operational representation used to access it.
+
+### Dynamic frames
+
+Frames can change over time as people enter, leave, move, or change eligibility. Time of sampling therefore matters.
+
+### Evidence status
+
+Sampling frames are methodological tools. Their quality affects the validity of sampling-based inference.
+
+## 4. Relationship to This Chapter
+
+Sampling frame connects population definition to random sampling and sampling bias.
+
+## 5. Boundaries
+
+### Owns
+
+The operational source used to identify and select units from a target or accessible population.
+
+### Defers
+
+Population, sampling methods, coverage bias, and statistical inference.
+
+## 6. Key Principles
+
+1. A sampling frame operationalizes access to a population.
+2. Missing or ineligible units can create coverage problems.
+3. Random selection from a biased frame does not remove frame bias.
+4. Frame quality affects generalizability.
+
+---
+
+## 1.2.58 Random sampling
+
+## 1. Purpose
+
+Random sampling describes procedures that use chance to select units from a defined population or sampling frame. It is important because it can provide a principled basis for population inference.
+
+## 2. Definition
+
+Random sampling is a sampling procedure in which selection is governed by a known probability mechanism, giving eligible units a defined probability of selection.
+
+## 3. Core Understanding
+
+### Probability of selection
+
+The key property is known or estimable selection probability, not simply the use of a random-number generator. Different probability-sampling designs assign different probabilities.
+
+### Simple random sampling
+
+Each eligible unit has the same probability of selection under simple random sampling.
+
+### Stratified and cluster designs
+
+Stratification can ensure representation of important subgroups. Cluster sampling selects groups or clusters and then units within them. These designs affect variance and analysis.
+
+### Random sampling versus random assignment
+
+Random sampling concerns selection into a study. Random assignment concerns allocation to experimental conditions. They solve different problems.
+
+### Sampling error
+
+Even a correctly randomized sample can differ from the population by chance. This is sampling variability, not necessarily bias.
+
+### Evidence status
+
+Probability sampling is an established basis for population inference, subject to coverage, nonresponse, measurement, and analysis conditions.
+
+## 4. Relationship to This Chapter
+
+Random sampling connects population, sample, sampling frame, sampling bias, and generalizability. It is distinct from randomization in experiments.
+
+## 5. Boundaries
+
+### Owns
+
+Probability-based selection of units from a defined population or frame.
+
+### Defers
+
+Random assignment, sampling bias, statistical estimation, and experimental design.
+
+## 6. Key Principles
+
+1. Random sampling concerns selection, not treatment assignment.
+2. Probability-based selection supports principled population inference.
+3. Sampling variability remains even with correct random sampling.
+4. A flawed sampling frame can undermine random sampling.
+5. Nonresponse can still create bias.
+
+---
+
+## 1.2.59 Sampling bias
+
+## 1. Purpose
+
+Sampling bias explains systematic differences between the sampled units and the population relevant to the intended inference. It is a major threat to generalizability.
+
+## 2. Definition
+
+Sampling bias is systematic distortion in a sample or population estimate caused by the process through which units are selected, included, excluded, or retained.
+
+## 3. Core Understanding
+
+### Sources
+
+Sampling bias can arise from undercoverage, convenience sampling, self-selection, differential nonresponse, exclusion criteria, recruitment practices, or other systematic selection processes.
+
+### Bias versus sampling error
+
+Sampling error is random variation arising because a sample is not the whole population. Sampling bias is systematic distortion. A larger sample can reduce random error but does not necessarily remove bias.
+
+### Self-selection
+
+People who choose to participate may differ from those who do not. The direction and size of resulting bias depend on how participation relates to the variables of interest.
+
+### Corrective methods
+
+Weighting, probability sampling, follow-up of nonresponders, calibration, and sensitivity analyses can sometimes reduce bias, but no correction is automatically sufficient.
+
+### Evidence status
+
+Sampling bias is a well-established methodological problem. Whether it materially affects a particular conclusion requires evidence about the sampling process and variables involved.
+
+## 4. Relationship to This Chapter
+
+Sampling bias connects sample selection with generalizability, selection bias, sampling frames, and external validity.
+
+## 5. Boundaries
+
+### Owns
+
+Systematic distortion introduced by sampling and inclusion processes.
+
+### Defers
+
+Selection bias more broadly, random sampling, nonresponse, and generalizability.
+
+## 6. Key Principles
+
+1. Sampling bias is systematic, not merely random sampling error.
+2. Large samples do not automatically remove bias.
+3. Self-selection and nonresponse can produce bias.
+4. Corrective procedures depend on assumptions.
+5. Bias should be evaluated relative to the intended inference.
+
+---
+
+## 1.2.60 Selection bias
+
+## 1. Purpose
+
+Selection bias is broader than sampling bias and concerns distortion caused by how units enter, remain in, or are compared within a study. It can affect both experimental and observational research.
+
+## 2. Definition
+
+Selection bias is systematic distortion of an estimated relationship or conclusion caused by selective inclusion, exclusion, participation, attrition, treatment assignment, or conditioning on a process related to variables of interest.
+
+## 3. Core Understanding
+
+### Broader than sampling
+
+Sampling bias concerns selection into a sample relative to a population. Selection bias can occur after sampling, such as when participation, treatment receipt, follow-up, or analysis inclusion depends on relevant variables.
+
+### Attrition
+
+Differential dropout can change the composition of groups over time and bias estimates.
+
+### Conditioning
+
+Selecting or conditioning on a variable affected by multiple causes can create associations that were not present before selection.
+
+### Treatment selection
+
+In observational research, people may receive treatments because of their characteristics. Those characteristics can then be mistaken for treatment effects if not adequately addressed.
+
+### Evidence status
+
+Selection bias is a well-established inferential threat. Its presence and direction depend on the specific selection mechanism.
+
+## 4. Relationship to This Chapter
+
+Selection bias connects sampling bias with causal inference, confounding, attrition, and generalizability.
+
+## 5. Boundaries
+
+### Owns
+
+Systematic distortion caused by selection processes within or surrounding a study.
+
+### Defers
+
+Sampling bias, confounding, attrition, causal inference, and statistical adjustment.
+
+## 6. Key Principles
+
+1. Selection bias can occur at many stages of research.
+2. It is broader than sampling bias.
+3. Differential attrition can create selection bias.
+4. Selection mechanisms should be considered when interpreting associations.
+5. Correcting selection bias requires understanding how selection occurred.
+
+---
+
+## 1.2.61 Descriptive statistics
+
+## 1. Purpose
+
+Descriptive statistics summarize observed data so researchers can understand their central pattern, variability, distribution, and other characteristics before making more complex inferences.
+
+## 2. Definition
+
+Descriptive statistics are numerical or graphical methods used to summarize and organize observed data.
+
+## 3. Core Understanding
+
+Common descriptive tools include frequencies, proportions, means, medians, ranges, standard deviations, quantiles, and graphical displays.
+
+### Purpose
+
+Description can reveal outliers, skew, missingness, unusual distributions, and subgroup patterns. These features can affect later analyses.
+
+### Sample versus population
+
+A descriptive statistic summarizes the observed sample. It becomes an estimate of a population parameter only when an inferential framework justifies that interpretation.
+
+### Robust summaries
+
+The mean is sensitive to extreme values, whereas the median is often more robust to skew. The appropriate summary depends on the distribution and research question.
+
+### Visualization
+
+Histograms, box plots, scatterplots, and other displays can reveal structure that a single summary statistic hides.
+
+### Evidence status
+
+Descriptive statistics summarize data. They do not automatically establish causal or population-level claims.
+
+## 4. Relationship to This Chapter
+
+Descriptive statistics begin the statistical section and support understanding of central tendency, variability, distribution, and later inferential procedures.
+
+## 5. Boundaries
+
+### Owns
+
+Methods for summarizing observed data.
+
+### Defers
+
+Inferential statistics, probability models, causal inference, and specific psychological conclusions.
+
+## 6. Key Principles
+
+1. Descriptive statistics summarize observed data.
+2. No single summary captures every feature of a distribution.
+3. Graphical and numerical summaries complement each other.
+4. Sample descriptions are not automatically population claims.
+5. Description should precede interpretation.
+
+---
+
+## 1.2.62 Central tendency
+
+## 1. Purpose
+
+Central tendency describes where observations tend to cluster or where a distribution can be represented by a typical central value.
+
+## 2. Definition
+
+Central tendency is the statistical concept of representing the central or typical location of a distribution, commonly using the mean, median, or mode.
+
+## 3. Core Understanding
+
+### Mean
+
+The arithmetic mean uses all observed values and is sensitive to extreme values and skew.
+
+### Median
+
+The median is the middle ordered value or midpoint between central observations. It is less sensitive to extreme observations than the mean.
+
+### Mode
+
+The mode is the most frequent value or category. A distribution can have more than one mode.
+
+### Choice
+
+The appropriate measure depends on the scale of measurement, distribution shape, research question, and intended interpretation.
+
+### Central tendency is incomplete
+
+Two distributions can have the same mean but very different variability and shape. Central tendency should therefore be interpreted with information about dispersion and distribution.
+
+### Evidence status
+
+Central tendency is a descriptive statistical concept with established mathematical definitions.
+
+## 4. Relationship to This Chapter
+
+Central tendency is a component of descriptive statistics and must be interpreted alongside variability and distribution.
+
+## 5. Boundaries
+
+### Owns
+
+Measures and concept of central location in distributions.
+
+### Defers
+
+Variability, distribution shape, inferential statistics, and population parameters.
+
+## 6. Key Principles
+
+1. Mean, median, and mode represent central location differently.
+2. The mean is sensitive to extreme values.
+3. The median is often more robust to skew.
+4. Central tendency alone does not describe a distribution completely.
+5. Choice should match the data and research question.
+
+---
+
+## 1.2.63 Variability
+
+## 1. Purpose
+
+Variability describes how much observations differ from one another. It is essential because a central value without information about spread can give a misleading picture of data.
+
+## 2. Definition
+
+Variability is the degree to which observations differ from one another or from a central value within a distribution.
+
+## 3. Core Understanding
+
+Common measures include range, variance, standard deviation, interquartile range, and other dispersion measures.
+
+### Interpretation
+
+Low variability means observations are relatively concentrated; high variability means they are more dispersed. Interpretation depends on the measurement scale.
+
+### Standard deviation
+
+Standard deviation summarizes typical distance from the mean under the conventional definition. It is especially useful when the distribution and scale make it appropriate.
+
+### Range and interquartile range
+
+Range captures the distance between minimum and maximum and can be sensitive to extremes. The interquartile range describes the middle portion of a distribution and is more resistant to extreme values.
+
+### Importance
+
+Variability affects statistical power, uncertainty, prediction, and the interpretation of individual differences.
+
+### Evidence status
+
+Variability is a mathematical and descriptive statistical concept.
+
+## 4. Relationship to This Chapter
+
+Variability complements central tendency and distribution and influences statistical power and effect estimation.
+
+## 5. Boundaries
+
+### Owns
+
+The concept and measures of dispersion within data.
+
+### Defers
+
+Central tendency, distribution shape, inferential statistics, and substantive sources of individual differences.
+
+## 6. Key Principles
+
+1. Variability describes spread or dispersion.
+2. Central tendency without variability is incomplete.
+3. Different dispersion measures have different sensitivities.
+4. Variability affects precision and statistical inference.
+5. Interpretation depends on the scale and distribution.
+
+---
+
+## 1.2.64 Distribution
+
+## 1. Purpose
+
+Distribution describes how values are arranged across their possible range. Understanding distributions is necessary for interpreting averages, variability, statistical models, and unusual observations.
+
+## 2. Definition
+
+A distribution is the pattern of frequencies or probabilities across possible values of a variable.
+
+## 3. Core Understanding
+
+A distribution can be described by its center, spread, shape, tails, skewness, modality, and other characteristics.
+
+### Shape
+
+Some distributions are approximately symmetric; others are skewed. Some have one prominent mode, while others are multimodal.
+
+### Empirical versus theoretical
+
+An empirical distribution summarizes observed data. A theoretical distribution describes a mathematical probability model used to represent or approximate possible outcomes.
+
+### Normal distribution
+
+The normal distribution is a useful mathematical model in many settings but should not be assumed simply because it is familiar. Psychological variables can have skewed, bounded, multimodal, or otherwise non-normal distributions.
+
+### Outliers
+
+Extreme observations can be genuine cases, measurement errors, data-entry problems, or rare but meaningful events. They should be investigated rather than automatically removed.
+
+### Distribution and inference
+
+Statistical methods can make assumptions about distributions, but many methods are robust to some deviations. The appropriate response depends on the analysis.
+
+### Evidence status
+
+Distribution is a foundational statistical concept.
+
+## 4. Relationship to This Chapter
+
+Distribution integrates central tendency and variability and provides context for regression, correlation, confidence intervals, and statistical significance.
+
+## 5. Boundaries
+
+### Owns
+
+The concept of the arrangement of values across a variable's possible range.
+
+### Defers
+
+Specific probability distributions, inferential procedures, and substantive explanations for observed distribution shapes.
+
+## 6. Key Principles
+
+1. A distribution describes how values are arranged.
+2. Shape matters as well as center and spread.
+3. Normality should not be assumed automatically.
+4. Outliers require investigation.
+5. Distributional features can affect statistical interpretation.
+
+---
+
+## 1.2.65 Correlation coefficient
+
+## 1. Purpose
+
+A correlation coefficient quantifies a particular form of statistical association between variables. It makes the concept of correlation measurable while preserving the distinction between association and causation.
+
+## 2. Definition
+
+A correlation coefficient is a numerical statistic that summarizes the direction and strength of association between variables under a specified correlation model.
+
+## 3. Core Understanding
+
+### Pearson correlation
+
+Pearson's correlation coefficient summarizes linear association between two quantitative variables and ranges from -1 to +1.
+
+### Interpretation
+
+The sign indicates direction of linear association. The magnitude indicates strength under the assumptions and scale of the statistic.
+
+### Zero correlation
+
+A Pearson correlation near zero means little linear association. It does not establish that no nonlinear relationship exists.
+
+### Restrictions
+
+Restricted range, outliers, nonlinearity, measurement error, and heterogeneity can affect the coefficient.
+
+### Other coefficients
+
+Spearman correlation and other association measures may be more appropriate for ranks, ordinal data, or certain non-normal relationships.
+
+### Evidence status
+
+Correlation coefficients are descriptive statistics. Their causal interpretation requires separate evidence.
+
+## 4. Relationship to This Chapter
+
+Correlation coefficient operationalizes correlation and connects to regression, descriptive statistics, measurement, and causal inference.
+
+## 5. Boundaries
+
+### Owns
+
+The statistical measure used to quantify specified forms of association.
+
+### Defers
+
+Correlation as a general concept, regression, causal inference, and the substantive relationship being measured.
+
+## 6. Key Principles
+
+1. A correlation coefficient quantifies a specified association.
+2. Pearson correlation describes linear association.
+3. The sign gives direction; magnitude describes strength within the model.
+4. Zero linear correlation does not imply no relationship.
+5. A correlation coefficient does not prove causation.
+
