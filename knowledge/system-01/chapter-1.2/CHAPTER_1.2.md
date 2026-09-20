@@ -2407,3 +2407,538 @@ Qualitative methodology, quantitative statistics, measurement, and the substanti
 3. Different methods can answer complementary questions.
 4. Conflicting findings can reveal meaningful differences in perspective or measurement.
 5. Each component and the integration must be methodologically defensible.
+
+---
+## 1.2.37 Construct
+
+## 1. Purpose
+
+A construct is a conceptual representation of a psychological attribute or phenomenon that cannot always be observed directly. Constructs are essential because psychological science studies many abstractions, such as intelligence, anxiety, motivation, trust, or self-control, that require careful conceptual definition and measurement.
+
+## 2. Definition
+
+A construct is an abstract psychological concept used to represent a theoretically meaningful attribute, process, state, or phenomenon that is inferred from observable indicators or patterns.
+
+A construct is not identical to any single measure used to assess it.
+
+## 3. Core Understanding
+
+### Conceptual nature
+
+Constructs provide conceptual organization. They allow researchers to discuss an underlying phenomenon across observations and studies rather than treating each measurement as a completely separate object.
+
+### Indicators
+
+A construct may be represented by behavior, self-report, performance, physiological indicators, or multiple forms of evidence. The relationship between an indicator and the construct requires theoretical and empirical justification.
+
+### Construct versus variable
+
+A construct is conceptual; a variable is an attribute that can take different values in a study. A construct can be operationalized into one or more variables.
+
+### Construct validity
+
+Researchers ask whether the evidence supports the interpretation that a measure represents the intended construct. This involves convergent, discriminant, structural, and other validity evidence as appropriate.
+
+### Constructs can be multidimensional
+
+Some constructs contain multiple dimensions. Researchers must establish whether those dimensions represent separable components or indicators of a broader construct.
+
+### Evidence status
+
+Constructs are theoretical entities. Their usefulness depends on conceptual clarity and empirical evidence linking them to observable indicators.
+
+## 4. Relationship to This Chapter
+
+Construct is foundational to operational definition, psychological measurement, validity, scale construction, factor analysis, and latent variables.
+
+## 5. Boundaries
+
+### Owns
+
+The general concept of a theoretically defined psychological attribute or phenomenon represented through observable indicators.
+
+### Defers
+
+Specific psychological constructs, operational definitions, measurement validity, and psychometric models.
+
+## 6. Key Principles
+
+1. Constructs are conceptual representations of psychological phenomena.
+2. A construct is not identical to a measure.
+3. Constructs require clear conceptual boundaries.
+4. Operationalization connects constructs to observable variables.
+5. Construct validity concerns whether evidence supports the intended interpretation.
+
+---
+
+## 1.2.38 Operational definition
+
+## 1. Purpose
+
+An operational definition specifies how a concept will be represented, manipulated, observed, or measured in a particular study. It makes abstract scientific concepts sufficiently concrete for empirical investigation.
+
+## 2. Definition
+
+An operational definition is a specification of the procedures, indicators, measurements, or manipulations used to represent a theoretical construct or variable in a particular research context.
+
+An operational definition is study-specific and does not automatically become the complete meaning of the underlying construct.
+
+## 3. Core Understanding
+
+### Measurement operations
+
+A researcher may operationalize a construct through questionnaire scores, behavioral tasks, physiological measures, observed behavior, or other indicators. Different operationalizations can represent different aspects of the same construct.
+
+### Manipulation operations
+
+An operational definition can also specify how an experimental condition is created. The manipulation should correspond to the theoretical concept being tested.
+
+### Benefits
+
+Operational definitions improve clarity, replicability, and measurement planning. They allow researchers to state exactly what was observed or changed.
+
+### Limitation
+
+An operational definition can be imperfect. A measure may capture only part of the construct, include irrelevant variance, or fail to represent the intended psychological meaning.
+
+### Multiple operationalizations
+
+Using multiple measures can test whether a finding depends on one operational definition. Convergent evidence across measures can strengthen construct interpretation.
+
+### Evidence status
+
+Operational definitions are methodological specifications. Their adequacy depends on the relationship between the procedure and the intended construct.
+
+## 4. Relationship to This Chapter
+
+Operational definition connects constructs to variables, measurement, manipulation, validity, and reproducibility.
+
+## 5. Boundaries
+
+### Owns
+
+The concept of specifying how an abstract construct or variable is represented operationally in research.
+
+### Defers
+
+The construct itself, measurement validity, reliability, statistical analysis, and research design.
+
+## 6. Key Principles
+
+1. Operational definitions make concepts empirically testable.
+2. An operationalization is not the entire construct.
+3. Different operationalizations can capture different aspects.
+4. Poor operationalization can weaken scientific conclusions.
+5. Clear operational definitions improve reproducibility.
+
+---
+
+## 1.2.39 Variable
+
+## 1. Purpose
+
+Variables provide the formal language for representing characteristics that can differ across people, situations, observations, or time. They are fundamental to measurement, statistical analysis, and research design.
+
+## 2. Definition
+
+A variable is a measurable attribute or characteristic that can take different values across units, observations, conditions, or occasions.
+
+## 3. Core Understanding
+
+A variable can represent observed characteristics such as age, response time, questionnaire score, condition assignment, or behavioral frequency.
+
+### Types
+
+Variables may be continuous, discrete, categorical, ordinal, binary, or represented in other forms. The type affects measurement and statistical analysis.
+
+### Role in research
+
+A variable can be an outcome, predictor, mediator, moderator, confound, control variable, or another analytic role. These roles are determined by the research question and design.
+
+### Measurement
+
+A variable is not the same as the construct it may represent. Its values depend on an operationalization and measurement procedure.
+
+### Change
+
+A variable can vary between people, within people over time, across conditions, or at multiple levels such as individual and group.
+
+### Evidence status
+
+Variable is a methodological concept. Its scientific usefulness depends on valid measurement and appropriate analysis.
+
+## 4. Relationship to This Chapter
+
+Variable is the organizing unit for much of the Variables and Inference section. Independent variable, dependent variable, mediator, moderator, confound, and control variable are specialized roles.
+
+## 5. Boundaries
+
+### Owns
+
+The general concept of a measurable attribute that can vary.
+
+### Defers
+
+Specific variable roles, constructs, measurement scales, and statistical models.
+
+## 6. Key Principles
+
+1. Variables take different values.
+2. Variables can differ across units, conditions, or time.
+3. A variable is not necessarily identical to the underlying construct.
+4. Variable roles depend on the research question and design.
+5. Measurement determines how a variable is represented.
+
+---
+
+## 1.2.40 Independent variable
+
+## 1. Purpose
+
+The independent variable identifies a variable whose role is to represent a predictor, condition, exposure, or manipulated factor in a research design. It is central to interpreting experimental and nonexperimental relationships.
+
+## 2. Definition
+
+An independent variable is a variable treated as a predictor, explanatory factor, exposure, or experimentally manipulated condition in a study.
+
+The term does not by itself prove that the variable causes the outcome.
+
+## 3. Core Understanding
+
+In an experiment, the independent variable is typically the manipulated condition. In observational research, the term may refer to a predictor without experimental manipulation.
+
+### Manipulated versus measured
+
+This distinction matters. A manipulated independent variable can support causal inference under appropriate design conditions. A merely measured predictor does not acquire causal status because it is called “independent.”
+
+### Levels
+
+An independent variable may have two or more levels or categories. In continuous analyses, a predictor can take a range of values.
+
+### Interaction
+
+An independent variable can interact with moderators, produce mediated effects, or be related to other predictors. Interpretation depends on the specified model.
+
+### Terminology limitation
+
+Because “independent variable” can imply causal independence, some research traditions prefer terms such as predictor, exposure, or explanatory variable for observational studies.
+
+### Evidence status
+
+The term describes analytic or design role, not causal proof.
+
+## 4. Relationship to This Chapter
+
+Independent variable connects directly to dependent variable, experimental research, causal inference, mediator, moderator, confound, and regression.
+
+## 5. Boundaries
+
+### Owns
+
+The methodological role of a predictor, exposure, or manipulated condition designated as the independent variable.
+
+### Defers
+
+Causal inference, dependent variables, confounding, and specific statistical models.
+
+## 6. Key Principles
+
+1. An independent variable is a research role, not automatic proof of causation.
+2. In experiments it is commonly manipulated.
+3. In observational studies it may simply be a predictor or exposure.
+4. Causal meaning depends on design and assumptions.
+5. Its interpretation depends on the model and research question.
+
+---
+
+## 1.2.41 Dependent variable
+
+## 1. Purpose
+
+The dependent variable identifies the outcome researchers seek to observe or explain. It provides the empirical endpoint against which differences, relationships, or effects are evaluated.
+
+## 2. Definition
+
+A dependent variable is a measured outcome or response whose variation is analyzed in relation to one or more predictors, conditions, or explanatory factors.
+
+## 3. Core Understanding
+
+The dependent variable can be behavioral, cognitive, emotional, physiological, self-reported, or another measurable outcome.
+
+### Multiple outcomes
+
+A study can include several dependent variables when a theory predicts effects on different outcomes. Each outcome may require separate measurement and interpretation.
+
+### Timing
+
+Outcome timing matters. Immediate effects, delayed effects, cumulative changes, and repeated outcomes answer different questions.
+
+### Measurement
+
+The dependent variable must be measured reliably and validly enough to support the intended conclusion. A poorly measured outcome can obscure real effects or create misleading patterns.
+
+### Causal interpretation
+
+Calling a measure “dependent” does not prove that another variable caused it. Causal interpretation depends on design, temporal ordering, confounding, and other assumptions.
+
+### Evidence status
+
+Dependent variable is a methodological role rather than a substantive psychological construct.
+
+## 4. Relationship to This Chapter
+
+Dependent variable complements independent variable and connects to experimental design, causal inference, measurement validity, statistical power, and regression.
+
+## 5. Boundaries
+
+### Owns
+
+The research role of the measured outcome or response variable.
+
+### Defers
+
+The substantive construct represented by the outcome, independent variables, and causal interpretation.
+
+## 6. Key Principles
+
+1. The dependent variable is the measured outcome of interest.
+2. A study can have multiple outcomes.
+3. Timing and measurement quality affect interpretation.
+4. “Dependent” does not itself establish causation.
+5. The outcome's substantive meaning must be defined separately.
+
+---
+
+## 1.2.42 Mediator
+
+## 1. Purpose
+
+A mediator represents an intermediate process through which a predictor may be related to an outcome. It helps researchers move from simply asking whether X relates to Y toward asking how or through what pathway the relationship may operate.
+
+## 2. Definition
+
+A mediator is a variable positioned in a hypothesized pathway through which an antecedent or predictor influences an outcome.
+
+A mediation model is a causal hypothesis when the proposed pathway is interpreted causally; statistical mediation alone does not prove the causal mechanism.
+
+## 3. Core Understanding
+
+A simple mediation model proposes that X is related to M and M is related to Y, with the pathway from X through M helping account for the relationship between X and Y.
+
+### Mechanism
+
+Mediation is often used to represent a mechanism or process. However, a statistically estimated indirect effect does not by itself establish that the mediator is the true causal mechanism.
+
+### Temporal order
+
+Causal mediation requires appropriate temporal ordering and assumptions. Measuring X, M, and Y at one time point can make strong causal mediation claims difficult to justify.
+
+### Confounding
+
+Confounding can occur at different parts of a mediation pathway. Unmeasured variables can bias estimates of direct and indirect pathways.
+
+### Partial and full mediation
+
+These labels describe statistical models in which some or most of an association is represented through a proposed mediator. They should not be interpreted as proof that all other pathways have been eliminated.
+
+### Evidence status
+
+Mediation is a model of relationships among variables. Strong causal interpretation requires more than statistical association.
+
+## 4. Relationship to This Chapter
+
+Mediator connects variable roles with causal inference, regression, explanation, and mechanism. It is especially important when researchers seek process explanations.
+
+## 5. Boundaries
+
+### Owns
+
+The methodological concept of an intermediate variable in a proposed explanatory pathway.
+
+### Defers
+
+The underlying psychological mechanism, statistical mediation procedures, moderators, and causal identification assumptions.
+
+## 6. Key Principles
+
+1. A mediator represents a proposed pathway between variables.
+2. Statistical mediation is not automatically causal mediation.
+3. Temporal order matters for causal pathway claims.
+4. Confounding can affect mediation estimates.
+5. Mediation should be interpreted as a model of a process, not proof of a mechanism.
+
+---
+
+## 1.2.43 Moderator
+
+## 1. Purpose
+
+A moderator identifies conditions under which the strength or direction of a relationship changes. It prevents overly broad statements such as “X always affects Y” when the relationship depends on context or individual differences.
+
+## 2. Definition
+
+A moderator is a variable that changes the strength, direction, or form of the relationship between another predictor and an outcome.
+
+## 3. Core Understanding
+
+Moderation is fundamentally about conditional relationships. If the relationship between X and Y differs depending on Z, Z functions as a moderator in the specified model.
+
+### Interaction
+
+Statistically, moderation is often represented through an interaction term. The interpretation concerns how the association or effect of X changes across levels of Z.
+
+### Examples of conditions
+
+Moderators can include age, context, baseline state, task difficulty, social environment, or another measured condition.
+
+### Moderation versus mediation
+
+A mediator addresses a proposed pathway through which an effect occurs. A moderator addresses when, for whom, or under what conditions the relationship changes. The same variable can occupy different roles in different theories, but the roles should not be conflated.
+
+### Causal interpretation
+
+A statistically significant interaction does not automatically establish a causal moderation mechanism. Causal interpretation requires appropriate design and assumptions.
+
+### Evidence status
+
+Moderation is a relational model. Its validity depends on measurement, model specification, and the evidence supporting the conditional relationship.
+
+## 4. Relationship to This Chapter
+
+Moderator connects directly to boundary conditions, interaction effects, regression, causal inference, and generalizability.
+
+## 5. Boundaries
+
+### Owns
+
+The methodological concept of a variable that changes the relationship between another variable and an outcome.
+
+### Defers
+
+Specific moderators, interaction models, causal inference, and substantive psychological mechanisms.
+
+## 6. Key Principles
+
+1. Moderation concerns when or for whom a relationship changes.
+2. It is commonly represented through interactions.
+3. Moderation differs from mediation.
+4. Statistical moderation does not automatically establish causal mechanism.
+5. Moderators help define scientific boundary conditions.
+
+---
+
+## 1.2.44 Confound
+
+## 1. Purpose
+
+A confound is a major threat to causal interpretation because it can create or distort an observed relationship between variables. Understanding confounding is necessary for evaluating whether an apparent effect could be explained by another factor.
+
+## 2. Definition
+
+A confound is a variable or causal structure that creates a noncausal association or biases an estimate of a relationship because it is related to both the exposure or predictor and the outcome in a way that mixes their effects.
+
+## 3. Core Understanding
+
+Suppose X is associated with Y, but Z influences both X and Y. Then the observed X–Y relationship may partly or entirely reflect Z rather than an effect of X on Y.
+
+### Confounding versus mediation
+
+A mediator lies on a proposed causal pathway from X to Y. A confound is an alternative source of association that can distort the estimated X–Y relationship. Adjusting for a mediator as though it were a confound can remove part of the effect one is trying to estimate.
+
+### Confounding versus correlation
+
+Correlation describes an observed statistical relationship. Confounding describes one possible reason that relationship may not represent the causal effect of interest.
+
+### Control strategies
+
+Researchers can address confounding through randomization, restriction, matching, design-based controls, stratification, statistical adjustment, or other methods. Each depends on assumptions and can introduce new problems if implemented incorrectly.
+
+### Unmeasured confounding
+
+Statistical adjustment can only directly address measured and appropriately modeled variables. An unmeasured confound may remain.
+
+### Evidence status
+
+Confounding is a well-established causal-inference concept. Whether a specific relationship is confounded is an empirical and causal-modeling question.
+
+## 4. Relationship to This Chapter
+
+Confound is central to causal inference and connects experimental, quasi-experimental, observational, regression, and control-variable concepts.
+
+## 5. Boundaries
+
+### Owns
+
+The concept of a third variable or causal structure that distorts an exposure–outcome relationship.
+
+### Defers
+
+Causal inference, control variables, statistical adjustment, and specific substantive confounders.
+
+## 6. Key Principles
+
+1. Confounding can create or distort an observed association.
+2. A confound differs from a mediator.
+3. Randomization can reduce confounding in expectation.
+4. Statistical adjustment cannot guarantee removal of unmeasured confounding.
+5. Confounding is defined relative to a causal question and structure.
+
+---
+
+## 1.2.45 Control variable
+
+## 1. Purpose
+
+A control variable is a variable included in a design or analysis to account for variation, improve precision, or address a specified alternative explanation. Its use must be justified because controlling for a variable can help, do little, or introduce bias depending on its causal role.
+
+## 2. Definition
+
+A control variable is a measured variable that researchers deliberately hold constant, condition on, stratify by, or include in an analysis to account for its role in the research question or improve estimation.
+
+“Control” does not automatically mean that the variable is a confound or that adjustment produces a causal estimate.
+
+## 3. Core Understanding
+
+A variable can be controlled experimentally, through design, or statistically. The scientific purpose of the control should be stated.
+
+### Confound control
+
+If a variable is a genuine confound, appropriate adjustment can help isolate the relationship of interest, subject to assumptions.
+
+### Precision control
+
+Some variables are included because they explain outcome variation and improve statistical precision even when they are not confounders.
+
+### Overcontrol
+
+Adjusting for variables on the causal pathway can change the estimand and potentially remove part of the effect of interest. Conditioning on colliders can also introduce bias.
+
+### Control group versus control variable
+
+A control group is a comparison condition. A control variable is a variable handled within design or analysis. They are not the same concept.
+
+### Evidence status
+
+Control variables are methodological tools. Their value depends on the causal structure, measurement quality, and analytic objective.
+
+## 4. Relationship to This Chapter
+
+Control variable connects confounding with regression, causal inference, experimental design, and statistical conclusion validity.
+
+## 5. Boundaries
+
+### Owns
+
+The methodological role of variables deliberately accounted for through design or analysis.
+
+### Defers
+
+Confounds, regression methods, causal diagrams, and substantive variables.
+
+## 6. Key Principles
+
+1. A control variable is a methodological role.
+2. Not every control variable is a confound.
+3. Controlling a variable can improve precision or address an alternative explanation.
+4. Inappropriate adjustment can create bias.
+5. Control-group and control-variable concepts must remain distinct.
