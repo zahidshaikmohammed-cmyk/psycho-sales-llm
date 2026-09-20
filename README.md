@@ -58,13 +58,13 @@ No separate topic files, duplicate indexes, historical audits, research dumps, d
 
 ### Chapter 1.2 — Psychological Science, Research, Measurement, and Evidence
 
-**Status: REMEDIATED — FINAL VALIDATION PASSED**
+**Status: LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 1.0**
 
 The canonical Chapter 1.2 writing is contained in:
 
 `knowledge/system-01/chapter-1.2/CHAPTER_1.2.md`
 
-It contains all 118 locked ontology topics. It will not be marked LOCKED & SEALED until the final depth, scientific-integrity, ownership, and retrieval audit passes.
+It contains all 118 locked ontology topics and the final remediated Knowledge Object writing for every topic. The chapter is formally locked and sealed as canonical knowledge version 1.0.
 
 ---
 
