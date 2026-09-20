@@ -501,6 +501,36 @@ The formal theoretical tradition to 1.3.68.
 # 1.3.8 Mental Representation
 
 ## 1. Purpose
+Defines the role of mental representation within the dynamics of human thinking while relying on the foundational representation concept owned by Chapter 1.1.
+
+## 2. Definition
+Mental representation, in the context of thinking, is the internally available representation of an object, event, relation, state, possibility, or other content that can be used in cognitive operations.
+
+The general psychological concept of representation is owned by 1.1.30 Representation. This Topic specializes that concept for thinking.
+
+## 3. Core Understanding
+Mental representations allow a thinker to operate on information that is not necessarily present in the immediate environment. They can support comparison, reasoning, simulation, planning, problem representation, and evaluation.
+
+Representations may be verbal, propositional, spatial, imagistic, conceptual, procedural, or mixed. They can be incomplete, selective, distorted, or updated as new information is processed.
+
+A mental representation is not necessarily a literal picture and does not guarantee accurate correspondence with reality. Its usefulness depends on what information it preserves and what cognitive operation it supports.
+
+## 4. Relationship to This Chapter
+Mental Representation is the representational substrate through which the chapter's thinking processes operate. It connects directly to Problem Representation, Mental Simulation, Reasoning, and Mental Model Theory.
+
+## 5. Boundaries
+### Owns
+The thinking-specific role and use of mental representations.
+
+### Defers
+The general psychological definition and taxonomy of representation to 1.1.30 Representation; specialized problem representation to 1.3.41.
+
+## 6. Key Principles
+- Mental representation is a specialized application of the general representation construct.
+- Representations can support thinking about absent, hypothetical, or future states.
+- A representation can be useful without being complete or literally accurate.
+
+## 1. Purpose
 Mental Representation explains how information about objects, events, relations, concepts, possibilities, and states can be represented within cognition.
 
 ## 2. Definition
