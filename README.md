@@ -45,7 +45,7 @@ The constitution governs conceptual precision, adaptive depth, scientific integr
 
 ### Chapter 1.1 — Foundations and Architecture of Human Psychology
 
-**Status: LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 1.0**
+**Status: REVISION IN PROGRESS — OWNERSHIP REMEDIATION**
 
 The complete Chapter 1.1 is contained in:
 
@@ -58,23 +58,32 @@ No separate topic files, duplicate indexes, historical audits, research dumps, d
 
 ### Chapter 1.2 — Psychological Science, Research, Measurement, and Evidence
 
-**Status: LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 1.0**
+**Status: REVISION IN PROGRESS — OWNERSHIP REMEDIATION**
 
 The canonical Chapter 1.2 writing is contained in:
 
 `knowledge/system-01/chapter-1.2/CHAPTER_1.2.md`
 
-It contains all 118 locked ontology topics and the final remediated Knowledge Object writing for every topic. The chapter is formally locked and sealed as canonical knowledge version 1.0.
+It contains all 118 locked ontology topics. The chapter is currently undergoing versioned cross-chapter ownership remediation; it is not yet resealed.
 
 ### Chapter 1.3 — The Dynamics of Human Thinking
 
-**Status: LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 1.0**
+**Status: REVISION IN PROGRESS — OWNERSHIP REMEDIATION**
 
 The canonical Chapter 1.3 writing is contained in:
 
 knowledge/system-01/chapter-1.3/CHAPTER_1.3.md
 
-It contains all 70 locked ontology topics from 1.3.1 through 1.3.70 and the canonical Knowledge Object writing for every topic. The chapter has passed final structural, ownership, scientific-integrity, retrieval, and System 1 boundary validation and is formally locked and sealed as canonical knowledge version 1.0.
+It contains all 70 locked ontology topics from 1.3.1 through 1.3.70. The chapter is currently undergoing versioned cross-chapter ownership remediation; it is not yet resealed.
+
+
+## System 1 Ownership Remediation
+
+A cross-chapter ownership audit has been completed and material overlaps have been surgically patched without renumbering or deleting the locked ontology. See:
+
+`knowledge/system-01/CROSS_CHAPTER_OWNERSHIP_REMEDIATION.md`
+
+The affected chapters remain in revision status until final semantic validation and resealing.
 
 ---
 
