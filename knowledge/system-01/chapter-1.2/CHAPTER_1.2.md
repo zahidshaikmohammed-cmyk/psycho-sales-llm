@@ -606,6 +606,22 @@ Researchers can develop hypotheses after exploring data, but such hypotheses sho
 
 A hypothesis is a proposition under investigation. Its status changes as evidence accumulates, but a single statistical result does not automatically establish a broad hypothesis in every context.
 
+
+### Structure of a hypothesis
+
+A hypothesis states a proposed relationship, difference, or pattern that can be evaluated with evidence. A useful hypothesis identifies the relevant variables or constructs and the conditions under which the prediction is expected to hold.
+
+### Hypothesis versus prediction
+
+A hypothesis is a proposition about what may be true. A prediction is an expected observation derived from a hypothesis, theory, model, or other assumptions. One hypothesis can generate multiple predictions, and a prediction can sometimes follow from several competing hypotheses.
+
+### Testability
+
+A scientific hypothesis should imply observations that could count against it under appropriate conditions. A vague statement that can accommodate every possible result has little discriminatory value.
+
+### Evidence status
+
+A hypothesis is not evidence merely because it is plausible. Its scientific status depends on the evidence obtained when its predictions are tested.
 ## 4. Relationship to This Chapter
 
 Hypothesis links theory construction with prediction, research design, statistical inference, and evidence. It is one of the principal units through which theoretical claims become empirically testable.
@@ -668,6 +684,18 @@ A failed prediction is informative but not automatically decisive. Researchers m
 
 Prediction is a scientific function rather than an empirical claim. The reliability of a particular prediction depends on the model, evidence, conditions, and uncertainty involved.
 
+
+### Prediction versus explanation
+
+Prediction specifies an expected observation under stated conditions. Explanation addresses why a phenomenon occurs or what mechanism, structure, or process accounts for it. A model can predict accurately without providing a satisfactory explanation of the underlying process.
+
+### Conditional predictions
+
+Scientific predictions should specify relevant conditions when the expected outcome depends on population, context, time, measurement, or intervention. Unqualified universal predictions are often stronger than the evidence warrants.
+
+### Evaluation
+
+Prediction can be assessed by comparing expected and observed outcomes using appropriate criteria. Repeated successful predictions can increase confidence in a model, but prediction alone does not establish causation or mechanism.
 ## 4. Relationship to This Chapter
 
 Prediction connects hypothesis and theory to empirical testing. It also provides a bridge to falsifiability because a prediction must be sufficiently constrained for evidence to distinguish among outcomes.
@@ -728,6 +756,22 @@ Description can reveal previously unrecognized patterns, define populations, gen
 
 A descriptive claim can be strong when the phenomenon is measured well and the sampling and observation procedures are appropriate. Its strength does not automatically extend to causal explanation.
 
+
+### Descriptive knowledge
+
+Description establishes what is observed: frequencies, distributions, characteristics, sequences, experiences, behaviors, or relationships. It is the empirical starting point for more ambitious claims.
+
+### Description versus explanation
+
+A descriptive statement can be accurate without specifying why the phenomenon occurs. Confusing description with explanation can produce causal claims that the data do not support.
+
+### Quality of description
+
+Good description requires clear operational definitions, appropriate measurement, adequate coverage of the relevant population or context, and transparent handling of missing or ambiguous observations.
+
+### Scientific value
+
+Accurate descriptive work can reveal previously unknown patterns, establish baselines, test whether assumptions are plausible, and provide the empirical foundation for later theory and causal investigation.
 ## 4. Relationship to This Chapter
 
 Description is one of the fundamental functions of science and provides the empirical base for explanation and prediction. It connects directly to observational research, survey research, descriptive statistics, and generalizability.
@@ -855,6 +899,22 @@ Scientific work can involve deductive reasoning from theories to predictions and
 
 Inference is a methodological process. The strength of an inference depends on the evidence, assumptions, design, measurement, and inferential method used.
 
+
+### Inferential chain
+
+Scientific inference connects observations to claims that extend beyond the immediate data. It requires assumptions about measurement, sampling, design, models, and alternative explanations.
+
+### Inductive and deductive elements
+
+Researchers may use deduction to derive predictions from theories and induction or other inferential reasoning to generalize patterns from observations. Scientific work commonly combines several forms of reasoning rather than following one universal logical template.
+
+### Strength of inference
+
+The strength of an inference depends on the evidence, design, assumptions, and competing explanations. A conclusion can be logically possible but weakly supported if important alternatives remain unaddressed.
+
+### Evidence status
+
+Inference is the reasoning connecting evidence to a claim. It should not be confused with the evidence itself.
 ## 4. Relationship to This Chapter
 
 Scientific inference connects research design, variables, statistics, causal inference, evidence quality, and generalizability. It is the bridge between obtaining observations and making scientifically meaningful claims.
@@ -915,6 +975,22 @@ Falsifiability is not a requirement that every scientific statement be reduced t
 
 Falsifiability is a methodological and philosophical criterion concerning scientific testability. Its usefulness depends on the form of the claim and the scientific context.
 
+
+### Meaning of falsifiability
+
+A claim is falsifiable when there are conceivable observations or experimental outcomes that would count against it under specified conditions. Falsifiability makes a proposition vulnerable to empirical correction.
+
+### Not a complete definition of science
+
+Falsifiability is useful for distinguishing testable scientific claims from propositions that are insulated from evidence, but scientific quality also involves measurement, evidence, explanatory power, coherence, replication, and appropriate methodology.
+
+### Auxiliary assumptions
+
+A failed prediction does not always identify which part of a theoretical system is wrong. Measurement assumptions, implementation, background conditions, and other auxiliary claims can affect whether a test is genuinely informative.
+
+### Boundary
+
+A claim can be meaningful or philosophically important without being empirically falsifiable. The concept concerns empirical testability, not the overall value of a proposition.
 ## 4. Relationship to This Chapter
 
 Falsifiability connects theory, hypothesis, prediction, explanation, and scientific inference. It provides one reason researchers should formulate claims that expose themselves to possible empirical challenge.
@@ -979,6 +1055,22 @@ Evidence supports degrees of confidence. A result can be informative without pro
 
 Evidence is a general epistemic concept. Its scientific value must be evaluated relative to the claim and the method that produced it.
 
+
+### Evidence as support
+
+Evidence is information that bears on a claim or question. In science, evidence can include observations, measurements, experimental results, qualitative data, records, replications, and systematic syntheses.
+
+### Evidence is claim-relative
+
+The same observation can support one claim while being irrelevant to another. Evidence must therefore be evaluated relative to the specific proposition, measurement, comparison, and inference being made.
+
+### Strength
+
+Evidence can be stronger or weaker depending on measurement quality, design, sample, consistency, independence, precision, and alternative explanations. A large amount of weak evidence does not automatically become strong evidence.
+
+### Evidence versus interpretation
+
+Observed data are not identical to the conclusion drawn from them. Interpretation connects evidence to a claim and must preserve uncertainty and assumptions.
 ## 4. Relationship to This Chapter
 
 Evidence is the central bridge among scientific inquiry, inference, research designs, statistics, measurement, replication, open science, and scientific consensus.
@@ -1049,6 +1141,22 @@ Many low-quality studies do not automatically outweigh a smaller number of high-
 
 Evidence quality is a methodological evaluation. It should be assessed relative to the particular claim rather than reduced to one universal score.
 
+
+### Dimensions of quality
+
+Evidence quality depends on factors such as measurement validity, reliability, design appropriateness, sample quality, precision, transparency, replication, and the plausibility of alternative explanations.
+
+### Question dependence
+
+There is no universal ranking in which one study design is always “highest quality.” The appropriate evidence depends on the question. Causal questions require credible causal identification; prevalence questions require appropriate sampling and measurement; questions about meaning may require qualitative evidence.
+
+### Convergence
+
+Confidence can increase when independent studies using appropriate methods converge on compatible conclusions. Convergence is more informative when studies do not share the same vulnerabilities.
+
+### Evidence status
+
+Evidence quality is an evaluative judgment about how well evidence supports a particular claim, not a property of a paper independent of the claim being made.
 ## 4. Relationship to This Chapter
 
 Evidence quality is the evaluative bridge connecting research designs, measurement, inference, statistics, replication, open science, and scientific consensus.
@@ -1111,6 +1219,22 @@ Scientific communication should neither exaggerate certainty nor create false do
 
 Uncertainty is an inherent part of scientific reasoning. Strong evidence can reduce uncertainty without making it zero.
 
+
+### Sources of uncertainty
+
+Scientific uncertainty can arise from sampling variation, measurement error, model assumptions, limited data, competing explanations, incomplete theory, heterogeneity, and unknown conditions.
+
+### Productive uncertainty
+
+Uncertainty is not a failure of science. Quantifying and communicating uncertainty allows decisions and theories to remain proportionate to what the evidence supports.
+
+### Different meanings
+
+A confidence interval, predictive interval, Bayesian posterior, qualitative uncertainty statement, and unresolved theoretical question represent different kinds of uncertainty. They should not be treated as interchangeable.
+
+### Calibration
+
+Good scientific communication avoids both false certainty and vague skepticism. The appropriate level of confidence should track the strength and limitations of the evidence.
 ## 4. Relationship to This Chapter
 
 Scientific uncertainty connects evidence, inference, statistics, measurement, replication, and scientific consensus. It provides the epistemic discipline needed to prevent overstatement.
@@ -1173,6 +1297,22 @@ Consensus does not require every scientist to agree. Scientific fields can conta
 
 Consensus is a social and epistemic state of a scientific community, not direct evidence that a proposition is true. Its credibility depends on the quality of the evidence and processes producing the convergence.
 
+
+### What consensus means
+
+Scientific consensus is a broad convergence of informed expert judgment about a body of evidence or proposition. It develops through accumulated research, critical scrutiny, replication, debate, and synthesis rather than by a formal vote that makes a claim true.
+
+### Consensus versus unanimity
+
+Consensus does not require every researcher to agree on every detail. Substantive disagreement can remain about mechanisms, boundary conditions, effect sizes, or policy implications while the broader evidence supports a common core conclusion.
+
+### Evidence and authority
+
+Consensus is informative because it reflects accumulated expertise and evidence, but consensus itself is not the primary empirical evidence for a claim. Its credibility depends on the quality and openness of the underlying scientific process.
+
+### Change
+
+Consensus can change when strong new evidence, better measurement, or improved theory changes the evidential landscape.
 ## 4. Relationship to This Chapter
 
 Scientific consensus connects evidence, replication, systematic review, meta-analysis, peer review, and uncertainty. It provides a way to describe the current state of scientific agreement without treating agreement itself as proof.
@@ -1233,6 +1373,22 @@ Some fields or claims may exist on a spectrum of development, with evidence qual
 
 The identification of pseudoscientific characteristics is partly methodological and philosophical. Specific judgments require examination of the actual practices, claims, and evidence.
 
+
+### Pattern of pseudoscientific reasoning
+
+Pseudoscience presents claims as scientific while failing to meet important standards of empirical testability, evidence, methodological transparency, self-correction, or appropriate engagement with disconfirming evidence.
+
+### Common features
+
+Potential warning signs include unfalsifiable claims, selective use of supportive anecdotes, resistance to contrary evidence, exaggerated certainty, reliance on scientific-sounding terminology without valid measurement, and claims that cannot be independently evaluated.
+
+### Not simply “wrong science”
+
+A scientific claim can be false or poorly supported without being pseudoscience. Pseudoscience concerns the way claims are presented, tested, defended, and connected to evidence.
+
+### Evidence status
+
+The boundary can be contested in particular cases. Classification should therefore rely on concrete methodological features rather than dismissive labels.
 ## 4. Relationship to This Chapter
 
 Pseudoscience belongs in the Science section because scientific literacy requires knowing not only how science works but also how scientific appearance can be separated from scientific practice.
@@ -1295,6 +1451,22 @@ Replication does not require identical numerical results. Sampling variability a
 
 Replication is an empirical strategy for evaluating stability and generality. Its interpretation depends on the quality of the replication and how closely the tested conditions correspond to the original claim.
 
+
+### Replication as evidential test
+
+Replication is a new attempt to investigate whether a previously reported finding or pattern can be observed again under the same or meaningfully related conditions. It can be close to the original procedure or intentionally vary conditions to test robustness.
+
+### Conceptual replication
+
+A conceptual replication tests the same underlying idea using different operationalizations or methods. It can strengthen confidence in a theoretical relationship while also testing whether the original operationalization was unusually influential.
+
+### Failure to replicate
+
+A failed replication does not automatically prove that the original finding was false. Differences in sample, measurement, power, implementation, context, or random variation can produce different results. Repeated failures under well-matched conditions are more informative than one failure.
+
+### Cumulative value
+
+Replication is strongest when interpreted across multiple studies rather than as a binary pass/fail label for a single claim.
 ## 4. Relationship to This Chapter
 
 Replication connects evidence, reproducibility, generalizability, scientific uncertainty, and open science. It is one component of cumulative evidence rather than a standalone guarantee of truth.
@@ -1357,6 +1529,22 @@ Documentation, version control, data dictionaries, analysis scripts, and clear r
 
 Reproducibility is a methodological property. Its importance varies with the type of research, and the exact operational meaning should be made explicit.
 
+
+### Reproducibility versus replication
+
+Reproducibility concerns whether the same analysis, materials, code, or data-processing procedure can produce the same result when repeated under sufficiently equivalent conditions. Replication asks whether the empirical finding recurs in new data or a new study.
+
+### Sources of failure
+
+Reproducibility can fail because of missing data, undocumented preprocessing, unavailable software, random seeds, coding errors, changing dependencies, or incomplete methodological records.
+
+### Transparency
+
+Reproducible research requires enough documentation, materials, code, and data access for the relevant analysis to be reconstructed, subject to ethical and legal limits.
+
+### Evidence status
+
+Reproducibility strengthens confidence in the integrity of an analysis but does not by itself establish that the underlying finding is causal, generalizable, or theoretically correct.
 ## 4. Relationship to This Chapter
 
 Reproducibility complements replication and open science. Together they help distinguish whether a result can be re-obtained from the same research process and whether the underlying phenomenon recurs with new data.
@@ -1423,6 +1611,22 @@ Generalizability can be supported by diverse samples, varied settings, conceptua
 
 Generalizability is an empirical and inferential property of particular findings. It cannot be determined solely from sample size.
 
+
+### Dimensions of generalization
+
+Generalizability concerns whether findings obtained under particular conditions can reasonably inform other populations, settings, times, measures, interventions, or outcomes. It is therefore multidimensional rather than a single property.
+
+### Statistical and analytical generalization
+
+Statistical generalization often depends on sampling from a defined population. Analytical generalization extends a theoretical mechanism or explanation to other contexts when the relevant conditions are sufficiently similar. These are different inferential routes.
+
+### Heterogeneity
+
+Effects can vary across people and contexts. Such variation is not merely an inconvenience; it can reveal moderators and boundary conditions. A finding that holds only under narrow conditions should be described that way.
+
+### Evidence status
+
+Generalizability is an inference supported by evidence about populations, contexts, mechanisms, and heterogeneity. It should not be assumed simply because a study has a large sample.
 ## 4. Relationship to This Chapter
 
 Generalizability closes the Science section because it asks where scientific conclusions travel after they have been produced. It connects directly to sampling, replication, external validity, ecological validity, measurement, and contextual moderation.
