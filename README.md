@@ -17,10 +17,10 @@ The project follows **One Concept = One Owner**. Related concepts may be referen
 
 The repository is being rebuilt from System 1 onward.
 
-- Master architecture: DRAFT / UNDER AUDIT
+- Master architecture: FINAL LOCKED at system/chapter level
 - Writing constitution: DRAFT
-- System ontologies: not yet rebuilt
-- Knowledge generation: not yet started
+- System 1 ontology: drafted and under topic-level audit
+- Knowledge generation: not yet started — ontology audit precedes writing
 
 ## Quality target
 
