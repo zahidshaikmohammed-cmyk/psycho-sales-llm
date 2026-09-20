@@ -1484,6 +1484,26 @@ Experiments can be expensive, artificial, ethically constrained, or limited in p
 
 Experimental research is an established research design family. The strength of a particular experiment depends on its implementation and the question being asked.
 
+
+### Design logic
+
+Experimental research manipulates or assigns a condition and observes outcomes under a planned comparison structure. Its defining feature is the use of intervention or controlled manipulation to learn about effects, although the strength of causal inference depends on the full design.
+
+### Comparison
+
+A credible experiment specifies what the treatment or manipulation is compared with. The comparison may be a control condition, alternative treatment, baseline, or another defined condition. Interpretation depends on what differs between conditions.
+
+### Randomization and control
+
+Random assignment is a powerful experimental tool but is not synonymous with experimentation. Experiments can exist without random assignment, while randomization can also be used in designs that have other features. Randomization strengthens causal inference by making assignment independent of potential outcomes in expectation.
+
+### Threats
+
+Attrition, noncompliance, contamination, expectancy effects, measurement reactivity, inadequate manipulation, differential treatment, and analysis choices can weaken causal interpretation. Experimental control should therefore be evaluated rather than assumed.
+
+### Evidence status
+
+Experiments can provide strong causal evidence when manipulation, comparison, assignment, measurement, and analysis are appropriate. They do not automatically establish generalization or mechanism beyond the studied conditions.
 ## 4. Relationship to This Chapter
 
 Experimental research begins the Research Designs section and provides the foundation for randomized experiments and comparisons with quasi-experimental, correlational, and observational designs.
@@ -1544,6 +1564,22 @@ Where feasible, blinding participants, researchers, assessors, or analysts can r
 
 Randomized experiments are a major design for causal inference, but randomization does not fix poor measurement, inadequate sample size, differential attrition, implementation failure, or limited external validity.
 
+
+### Random assignment
+
+A randomized experiment assigns eligible units to conditions using a random mechanism. This creates probabilistic balance in potential causes across conditions and provides a strong basis for estimating causal effects under appropriate compliance, measurement, and analysis assumptions.
+
+### Randomization is not random sampling
+
+Random assignment determines treatment allocation; random sampling determines selection from a population. Randomized experiments can therefore have strong internal validity without supporting broad population generalization.
+
+### Analysis
+
+The treatment effect is commonly estimated by comparing outcomes between assigned conditions. Intention-to-treat analysis preserves the causal meaning of assignment, while treatment-on-the-treated or per-protocol interpretations require additional assumptions when adherence differs.
+
+### Limits
+
+Randomization does not solve every problem. Attrition, nonadherence, interference between participants, measurement failure, and selective outcome reporting can still distort conclusions.
 ## 4. Relationship to This Chapter
 
 Randomized experiment is a specialized form of experimental research. It connects directly to causal inference, internal validity, sampling, statistical power, and selection bias.
@@ -1602,6 +1638,22 @@ Each design depends on assumptions. For example, difference-in-differences commo
 
 Quasi-experimental evidence can support causal conclusions, but confidence depends heavily on design quality and assumptions.
 
+
+### Sources of quasi-experimental variation
+
+Quasi-experiments estimate causal effects when treatment or exposure assignment is not fully randomized but changes in exposure or policy create a comparison structure that can support causal inference under explicit assumptions. Common families include interrupted time series, difference-in-differences, regression discontinuity, and instrumental-variable designs.
+
+### Identification assumptions
+
+Each design depends on different assumptions. A difference-in-differences analysis may require credible parallel trends; regression discontinuity relies on the assignment threshold and continuity conditions; instrumental-variable approaches require strong assumptions about relevance and exclusion; interrupted time series requires assumptions about the counterfactual trajectory.
+
+### Strength
+
+Quasi-experimental designs can be valuable when randomization is impossible or unethical and when naturally occurring changes create informative comparisons. Their credibility comes from the identification strategy and diagnostics, not from the label alone.
+
+### Limits
+
+Because treatment is not randomly assigned, unmeasured confounding or violations of design assumptions can remain. Researchers should state the causal estimand and assumptions explicitly.
 ## 4. Relationship to This Chapter
 
 Quasi-experiment sits between experimental and observational designs and is central to causal inference when randomization is unavailable.
@@ -1660,6 +1712,22 @@ Regression and related methods can adjust statistically for measured variables, 
 
 Correlational evidence is informative for relationships and prediction. Causal interpretation requires additional assumptions or design evidence.
 
+
+### Association-focused design
+
+Correlational research measures variables as they occur and estimates their statistical association without experimentally assigning the focal exposure or condition. It is useful for description, prediction, theory testing, and identifying patterns that may motivate causal research.
+
+### Strengths
+
+Correlational studies can examine variables that cannot ethically or practically be manipulated and can cover large samples, natural variation, and long time spans.
+
+### Limits
+
+Observed associations can reflect confounding, reverse direction, selection, measurement error, or other processes. Statistical adjustment can reduce some distortions but does not automatically establish causality.
+
+### Temporal structure
+
+Longitudinal correlational data can clarify temporal ordering more than a single cross-sectional measurement, but temporal precedence alone is insufficient for causal identification.
 ## 4. Relationship to This Chapter
 
 Correlational research contrasts with experimental and quasi-experimental designs and connects directly to correlation, regression, confounding, causal inference, and statistical conclusion validity.
@@ -1718,6 +1786,18 @@ Repeated measurements can reveal patterns over time and improve temporal analysi
 
 Observational evidence can be strong for description and association and can contribute to causal inference when combined with credible assumptions or complementary designs.
 
+
+### Observation without intervention
+
+Observational research studies variables or events without assigning the exposure or treatment of primary interest. It can be cross-sectional, longitudinal, naturalistic, administrative, or other forms depending on how observations are collected.
+
+### Scientific value
+
+Observation can capture behavior that would be difficult, unethical, or impossible to manipulate. It can reveal prevalence, natural variation, rare events, and relationships under real-world conditions.
+
+### Causal limits
+
+Because exposure assignment is not controlled, observed differences can reflect pre-existing differences, selection, confounding, or contextual factors. Causal inference remains possible in some observational designs when strong identification assumptions or quasi-experimental structures exist, but the design must justify them.
 ## 4. Relationship to This Chapter
 
 Observational research provides the broader design family containing several approaches, including naturalistic observation, survey research, longitudinal designs, and other nonexperimental methods.
@@ -1778,6 +1858,22 @@ Naturalistic observation is especially useful for description and hypothesis gen
 
 Naturalistic observation is an established observational method. Its scientific value depends on sampling, measurement, observer reliability, ethical conduct, and the question being asked.
 
+
+### Naturalistic setting
+
+Naturalistic observation records behavior in environments where it ordinarily occurs, with the researcher minimizing intervention that would substantially change the phenomenon being studied.
+
+### Strengths
+
+It can capture context, spontaneous behavior, interaction, frequency, sequence, and environmental contingencies that laboratory tasks may omit. It can therefore contribute to ecological understanding and hypothesis generation.
+
+### Reactivity and observer effects
+
+People may alter behavior when they know they are being observed. Researchers can also influence coding through expectations. Concealment or unobtrusive observation can reduce some reactivity but introduces ethical and privacy considerations.
+
+### Limits
+
+Naturalistic observation provides rich description but generally offers limited control over causal variables. Associations found in natural settings require additional design or evidence for causal interpretation.
 ## 4. Relationship to This Chapter
 
 Naturalistic observation is a specific form of observational research and provides a bridge between research design and ecological validity.
@@ -1842,6 +1938,22 @@ A survey can reveal associations and experiences but usually cannot establish ca
 
 Survey research is an established method. Its quality depends on questionnaire design, sampling, administration, response quality, measurement, and analysis.
 
+
+### Survey measurement
+
+Survey research collects standardized self-report or informant-report data through questionnaires, interviews, or related instruments. Surveys can measure attitudes, beliefs, experiences, behaviors, demographics, and perceptions that may be difficult to observe directly.
+
+### Design choices
+
+Question wording, response options, ordering, recall period, mode of administration, sampling, and interviewer behavior can affect responses. Good survey design therefore requires both measurement and sampling considerations.
+
+### Response processes
+
+Respondents may misunderstand questions, retrieve information imperfectly, use response styles, or alter answers because of social desirability or perceived consequences. A reported answer is therefore an observed response, not automatically a transparent readout of the underlying construct.
+
+### Inference
+
+Survey associations are generally correlational unless the survey is embedded in a design that supports stronger causal inference. Population estimates also depend on sampling, coverage, and nonresponse.
 ## 4. Relationship to This Chapter
 
 Survey research connects observational research with psychological measurement, sampling, psychometrics, and descriptive statistics.
@@ -1902,6 +2014,22 @@ Multiple-case designs can compare cases and identify similarities, differences, 
 
 Case studies can provide rich evidence, especially for description, exploration, and theory development. Their inferential limits depend on case selection, evidence quality, and the claim being made.
 
+
+### Case as unit of analysis
+
+A case study provides intensive examination of a bounded case such as a person, group, organization, event, program, or setting. The case is defined by clear boundaries so that evidence can be interpreted in relation to the case as a whole.
+
+### Sources of evidence
+
+Case studies can integrate interviews, observations, documents, records, artifacts, and quantitative information. This can reveal processes and context that are difficult to capture with highly standardized designs.
+
+### Generalization
+
+A case study does not automatically support statistical generalization to a population. Its value may instead involve analytical generalization, theory development, mechanism exploration, or detailed understanding of an unusual or information-rich case.
+
+### Limits
+
+Selection of the case, researcher interpretation, incomplete evidence, and lack of comparison can constrain conclusions. Strong case studies make the evidential chain and limitations explicit.
 ## 4. Relationship to This Chapter
 
 Case study belongs among research designs because it emphasizes depth and context rather than large-sample estimation. It complements survey, experimental, and observational methods.
@@ -1966,6 +2094,22 @@ Panel studies repeatedly measure the same units. Cohort studies follow people sh
 
 Longitudinal designs are valuable for temporal questions but do not automatically establish causal mechanisms.
 
+
+### Repeated observation over time
+
+Longitudinal design collects data from the same units, or linked units, across multiple time points. It allows researchers to study change, stability, temporal ordering, trajectories, and within-person or within-unit differences.
+
+### Designs within longitudinal research
+
+Longitudinal work can use panel studies, cohort designs, intensive repeated measures, or other structures. The number and spacing of observations determine which forms of change can be examined.
+
+### Attrition
+
+Loss of participants over time can reduce precision and introduce selection bias when attrition is related to characteristics relevant to the research question. Retention and missing-data methods are therefore central design considerations.
+
+### Causal limits
+
+Temporal precedence can strengthen causal reasoning but does not eliminate confounding or selection. Longitudinal structure is evidence about time, not automatic evidence of causation.
 ## 4. Relationship to This Chapter
 
 Longitudinal design connects research design to temporal inference, development, change, stability, sampling, attrition, and measurement.
@@ -2024,6 +2168,22 @@ Different samples can be surveyed at multiple time points. This can estimate pop
 
 Cross-sectional research is appropriate for many descriptive and associational questions but is limited for temporal and causal inference.
 
+
+### One-time temporal snapshot
+
+Cross-sectional design measures variables at one defined period or wave, providing a snapshot of distributions, relationships, or group differences.
+
+### Strengths
+
+Cross-sectional studies can be efficient for prevalence, descriptive comparisons, hypothesis generation, and assessing associations across many variables. They can also provide a baseline for later longitudinal work.
+
+### Temporal limitation
+
+Because exposure and outcome may be measured at the same time, temporal ordering is often uncertain. This limits causal interpretation and makes reverse causation difficult to exclude.
+
+### Cohort and age effects
+
+When comparing age groups cross-sectionally, observed differences can reflect cohort or historical differences rather than developmental change. Longitudinal and sequential designs can help separate these possibilities.
 ## 4. Relationship to This Chapter
 
 Cross-sectional design contrasts directly with longitudinal and sequential designs and connects to generalizability, sampling, survey research, and causal inference.
@@ -2081,6 +2241,22 @@ Age, period, and cohort are mathematically related, making them difficult to sep
 
 Sequential designs are useful for developmental and historical questions. Their conclusions depend on cohort selection, measurement consistency, timing, and analytical assumptions.
 
+
+### Sequence logic
+
+Sequential designs combine information across different cohorts, time periods, measurement occasions, or other ordered structures so that researchers can distinguish patterns that a single cross-sectional or longitudinal design cannot separate cleanly.
+
+### Developmental use
+
+In developmental research, cohort-sequential approaches can combine age and cohort information to examine whether apparent age changes may actually reflect historical or cohort differences. More generally, sequential design can be used whenever order and cohort structure are essential to the question.
+
+### Complexity
+
+Because sequence designs contain multiple sources of variation, interpretation requires careful specification of what changes within units, between cohorts, and across historical periods. The design does not automatically solve cohort, period, or selection effects.
+
+### Evidence status
+
+Sequential designs can improve temporal inference and separate competing explanations when their assumptions and measurement structure are appropriate.
 ## 4. Relationship to This Chapter
 
 Sequential design extends longitudinal and cross-sectional designs and provides a more complex framework for studying change and cohort differences.
@@ -2140,6 +2316,22 @@ Frequent prompts can interrupt daily activity and cause fatigue or nonresponse. 
 
 Experience sampling is an established intensive longitudinal approach. Its quality depends on prompt design, compliance, measurement, timing, and appropriate analysis of nested observations.
 
+
+### Repeated sampling of experience
+
+Experience sampling repeatedly asks participants to report experiences, states, behaviors, or contexts close to the time they occur. The method is designed to capture variation within people across everyday situations rather than relying only on retrospective global summaries.
+
+### Within-person information
+
+Experience-sampling data contain nested observations: repeated observations are clustered within people. Analyses should therefore distinguish within-person associations from between-person differences.
+
+### Burden and compliance
+
+Frequent prompts can burden participants and alter behavior. Missing prompts can be systematic rather than random, especially when participants are busy or experiencing the very state being measured.
+
+### Temporal interpretation
+
+Repeated measurement improves resolution of short-term dynamics but does not automatically establish causality. Time ordering, measurement timing, and appropriate models remain important.
 ## 4. Relationship to This Chapter
 
 Experience sampling belongs between longitudinal design and ecological momentary assessment because it operationalizes repeated real-world sampling of psychological experiences.
@@ -2198,6 +2390,22 @@ Repeated measurement can alter awareness or behavior. EMA does not guarantee pas
 
 EMA is an established intensive longitudinal method. Its value depends on sampling frequency, timing, measurement validity, compliance, analysis, and the degree to which sampled moments represent the process of interest.
 
+
+### Momentary measurement
+
+Ecological momentary assessment is an intensive repeated-measure approach designed to capture experiences, behaviors, symptoms, or contexts close to the time and place they occur in participants' natural environments.
+
+### Ecological and temporal resolution
+
+EMA can reduce long-term recall demands and reveal fluctuations that global questionnaires may average away. It can also capture contextual triggers and consequences at a fine temporal scale.
+
+### Design considerations
+
+Sampling frequency, prompt timing, participant burden, reactivity, device effects, missingness, and compliance influence data quality. Repeated observations are nested within individuals and often require multilevel or other appropriate analyses.
+
+### Distinction from experience sampling
+
+The terms overlap substantially. EMA is often used for intensive, momentary, real-world repeated assessment, whereas experience sampling can be used more broadly. The exact boundary depends on the methodological literature and study design.
 ## 4. Relationship to This Chapter
 
 EMA is closely related to experience sampling and belongs within longitudinal and intensive measurement approaches. It emphasizes ecological context and temporal proximity.
@@ -2262,6 +2470,26 @@ Withdrawal designs may be inappropriate when removing an effective intervention 
 
 Single-case designs can provide rigorous evidence under appropriate conditions. Their inferential scope depends on design strength and replication.
 
+
+### Intensive single-unit logic
+
+Single-case design repeatedly measures one participant, case, or small unit across conditions or phases to examine change associated with an intervention or naturally occurring manipulation. The unit serves as its own comparison across time or conditions.
+
+### Design structures
+
+Common structures include reversal/withdrawal designs, multiple-baseline designs, alternating-treatments designs, and changing-criterion designs. Each has different ethical and causal implications.
+
+### Strengths
+
+Frequent measurement can reveal individual trajectories and treatment response that group averages may conceal. Multiple observations can provide evidence about temporal covariation and replication within the case.
+
+### Limits
+
+Carryover, maturation, history, measurement drift, and intervention reversibility can complicate inference. Results may not generalize to other people without evidence across cases or replication.
+
+### Evidence status
+
+Single-case designs can provide strong evidence about change within a case when well controlled, but population-level generalization requires additional evidence.
 ## 4. Relationship to This Chapter
 
 Single-case design provides an intensive alternative to large-group designs and connects experimental logic with individualized longitudinal measurement.
@@ -2326,6 +2554,30 @@ Qualitative findings may support conceptual, theoretical, or contextual insight 
 
 Qualitative research is scientifically legitimate when appropriate methods are used. Its standards differ in some respects from those of quantitative designs, but systematic rigor remains essential.
 
+
+### Purpose and epistemic role
+
+Qualitative research investigates meaning, experience, processes, context, interaction, and social or psychological phenomena using non-numerical or primarily interpretive data. It is especially useful when the relevant concepts, mechanisms, categories, or experiences are not adequately captured by predefined quantitative measures.
+
+### Data generation
+
+Methods can include interviews, focus groups, observations, documents, field notes, diaries, and other forms of textual or audiovisual material. The method should match the question and theoretical orientation.
+
+### Sampling
+
+Qualitative sampling is often purposive, theoretical, criterion-based, or otherwise designed to obtain information-rich cases rather than statistical representativeness. Sample adequacy depends on the research question and analytic approach.
+
+### Analysis and interpretation
+
+Coding, categorization, thematic analysis, narrative analysis, grounded approaches, discourse analysis, and other methods organize and interpret data. Researchers should make the analytic path sufficiently transparent for readers to evaluate the interpretation.
+
+### Reflexivity and credibility
+
+Researcher perspective is part of the research context. Reflexivity, triangulation, member engagement where appropriate, audit trails, negative-case analysis, and other practices can strengthen credibility depending on the methodology.
+
+### Evidence status
+
+Qualitative evidence can provide deep understanding of meaning and process. Its standards of rigor differ from statistical inference, and qualitative findings should not be presented as population prevalence unless the design supports that claim.
 ## 4. Relationship to This Chapter
 
 Qualitative research broadens the methodological toolkit of psychological science. It complements quantitative designs when meaning, context, process, or poorly understood phenomena require detailed investigation.
@@ -2386,6 +2638,26 @@ Each component should meet appropriate methodological standards, and the integra
 
 Mixed-methods research is a legitimate methodological approach. Its value depends on the quality of each component and the quality of integration.
 
+
+### Integration logic
+
+Mixed-methods research intentionally combines qualitative and quantitative approaches within one study or program of research so that the strengths of one form of evidence can address limitations or unanswered questions in the other.
+
+### Integration points
+
+Integration can occur in the research question, sampling, data collection, analysis, interpretation, or reporting. A study is not genuinely mixed-methods merely because it contains a questionnaire and a few open-ended questions; the two forms of evidence must contribute meaningfully to the overall inference.
+
+### Common structures
+
+Sequential designs may use one method to inform the next; convergent designs may collect different forms of evidence in parallel; embedded designs may place one method inside a larger design. These labels describe different integration strategies.
+
+### Interpretation
+
+Qualitative and quantitative results can converge, complement one another, or conflict. Disagreement should be investigated rather than averaged away. The integrated conclusion must respect the evidential strengths and limits of each method.
+
+### Evidence status
+
+Mixed methods can provide broader or deeper understanding when integration is well designed, but adding methods does not automatically improve validity. Quality depends on the appropriateness and integration of each component.
 ## 4. Relationship to This Chapter
 
 Mixed-methods research completes the Research Designs section by showing how methodological approaches can be deliberately combined rather than treated as mutually exclusive.
