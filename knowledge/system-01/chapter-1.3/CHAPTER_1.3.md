@@ -3,7 +3,7 @@
 **System:** 1 — Human Psychology  
 **Chapter:** 1.3 — The Dynamics of Human Thinking  
 **Ontology Status:** LOCKED — 70 canonical topics  
-**Knowledge Status:** LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 1.0
+**Knowledge Status:** REVISION IN PROGRESS — OWNERSHIP REMEDIATION
 
 > This chapter explains human thinking as a set of interacting cognitive processes through which people represent information, transform it, reason, judge, decide, solve problems, simulate possibilities, anticipate outcomes, and generate new conclusions. It describes universal psychological processes without redefining them through downstream sales applications.
 
@@ -237,6 +237,32 @@ Detailed mechanisms to the specific topics that own them, including reasoning, d
 # 1.3.4 Cognitive Processing
 
 ## 1. Purpose
+Defines processing specifically within cognitive functioning.
+
+## 2. Definition
+Cognitive processing is the operation of selecting, encoding, transforming, retrieving, integrating, comparing, or evaluating information in service of cognitive functions.
+
+## 3. Core Understanding
+It may involve attention, memory retrieval, categorization, comparison, inference, reasoning, evaluation, or response selection. It can be automatic or controlled, conscious or nonconscious, rapid or slow, and sequential or interactive.
+
+**Boundary:** 1.3.5 Mental Processing is broader and covers psychological processing generally. 1.3.7 Information Processing describes functional information transformation without specifying a unique cognitive mechanism.
+
+## 4. Relationship to This Chapter
+Links the chapter's thinking processes to the broader concept of processing while restricting ownership to cognition.
+
+## 5. Boundaries
+### Owns
+Processing operations specifically involved in cognitive functioning.
+
+### Defers
+General mental processing to 1.3.5; functional information transformation to 1.3.7; formal theory to 1.3.68.
+
+## 6. Key Principles
+- Cognitive processing is cognition-specific.
+- It is broader than any single thinking operation.
+- It does not imply one universal cognitive architecture.
+
+## 1. Purpose
 Cognitive Processing provides a broad account of how psychological systems transform information into representations, evaluations, decisions, and other cognitive outputs.
 
 ## 2. Definition
@@ -282,6 +308,32 @@ Specific information-processing theories to 1.3.68 Information Processing Theory
 ---
 
 # 1.3.5 Mental Processing
+
+## 1. Purpose
+Defines the broad operation-level concept of mental activity on internally available material.
+
+## 2. Definition
+Mental processing is the operation of transforming, integrating, comparing, evaluating, generating, or otherwise operating on internally available psychological information, representations, experiences, or contents.
+
+## 3. Core Understanding
+Mental processing is broader than cognitive processing. It can include cognitive, affective, motivational, regulatory, and other psychological operations. It is a functional description, not a claim that the mind literally executes a simple serial computer program.
+
+**Boundary:** 1.3.4 is the cognition-specific specialization; 1.3.7 describes information transformation as a functional lens; 1.3.68 owns formal information-processing theory.
+
+## 4. Relationship to This Chapter
+Provides a broad bridge between System 1 mental processes and the specialized cognitive operations developed in this chapter.
+
+## 5. Boundaries
+### Owns
+The broad functional concept of mental operations on internally available psychological material.
+
+### Defers
+Cognitive processing to 1.3.4; information-processing description to 1.3.7; formal theory to 1.3.68.
+
+## 6. Key Principles
+- Mental processing is broader than cognitive processing.
+- It concerns operations, not static contents or states.
+- Functional description does not determine biological implementation.
 
 ## 1. Purpose
 Mental Processing describes the operation of the mind in transforming internally available information and representations.
@@ -375,6 +427,32 @@ Specific reasoning forms to 1.3.19–1.3.27; inference to 1.3.63; judgment to 1.
 ---
 
 # 1.3.7 Information Processing
+
+## 1. Purpose
+Defines the functional transformation and flow of information.
+
+## 2. Definition
+Information processing is the functional handling and transformation of information as it is selected, encoded, represented, retained, retrieved, transformed, integrated, or used.
+
+## 3. Core Understanding
+The construct focuses on **information flow and transformation**. It can describe cognition without committing to a specific neural mechanism or fixed architecture. Processing may be sequential, parallel, recursive, interactive, or networked depending on the model and phenomenon.
+
+**Boundary:** 1.3.7 answers how information is functionally transformed; 1.3.4 answers how processing operates within cognitive functions; 1.3.5 is broader and concerns psychological operations generally.
+
+## 4. Relationship to This Chapter
+Provides functional vocabulary linking representations, memory, reasoning, decision-making, and other cognitive operations.
+
+## 5. Boundaries
+### Owns
+The general functional construct of information transformation and flow.
+
+### Defers
+Cognitive-domain processing to 1.3.4; broader mental processing to 1.3.5; formal theory to 1.3.68.
+
+## 6. Key Principles
+- Information processing describes transformations of information.
+- Functional description does not automatically specify neural implementation.
+- A particular architecture is a theoretical claim requiring evidence.
 
 ## 1. Purpose
 This Topic describes cognition in terms of the selection, transformation, storage, retrieval, and use of information.
@@ -651,6 +729,34 @@ Formal reasoning rules to reasoning topics and evidence evaluation to Critical T
 # 1.3.13 Logical Thinking
 
 ## 1. Purpose
+Defines logical coherence as a characteristic of thinking.
+
+## 2. Definition
+Logical thinking is thinking organized according to relevant relations of coherence, consistency, implication, or contradiction.
+
+## 3. Core Understanding
+This Topic concerns the **organization and quality of thought**, not the inferential act itself. Everyday thought can be logically structured without formal symbolic proof.
+
+Logical thinking is distinct from Logical Reasoning. Logical reasoning is the inferential process of deriving or evaluating conclusions from premises. Logical thinking is the broader characteristic in which logical relations are maintained.
+
+Internal consistency does not guarantee factual truth because the premises may be false or incomplete.
+
+## 4. Relationship to This Chapter
+Provides the coherence-level concept supporting the inferential processes in 1.3.19–1.3.22.
+
+## 5. Boundaries
+### Owns
+Logical coherence and consistency as characteristics of thought.
+
+### Defers
+Inferential operations to 1.3.19 and specialized reasoning forms to 1.3.20–1.3.22.
+
+## 6. Key Principles
+- Logical thinking concerns coherence.
+- Coherence does not guarantee truth.
+- Logical thinking is broader than formal proof.
+
+## 1. Purpose
 Logical Thinking describes thinking that maintains consistency among propositions and relationships and follows appropriate inferential structure.
 
 ## 2. Definition
@@ -916,6 +1022,32 @@ Broader representational theory to 1.3.8.
 ---
 
 # 1.3.19 Logical Reasoning
+
+## 1. Purpose
+Defines inference governed by logical relations between premises and conclusions.
+
+## 2. Definition
+Logical reasoning is the inferential process of deriving, evaluating, or rejecting conclusions on the basis of logical relations among propositions, premises, and conclusions.
+
+## 3. Core Understanding
+Logical reasoning asks whether a conclusion follows from premises under the relevant logical structure. Deductive, inductive, and abductive reasoning are distinct forms with different standards of support.
+
+A valid inference can still yield a false conclusion when premises are false. A true conclusion can also be reached by invalid reasoning.
+
+## 4. Relationship to This Chapter
+Logical Reasoning is the inferential counterpart to Logical Thinking and the parent process for the specialized reasoning forms that follow.
+
+## 5. Boundaries
+### Owns
+Inference governed by logical relations among premises and conclusions.
+
+### Defers
+General coherence to 1.3.13; specific forms to 1.3.20–1.3.22; scientific inference to Chapter 1.2.
+
+## 6. Key Principles
+- Logical reasoning concerns premises-to-conclusion relations.
+- Validity is distinct from truth.
+- Logical reasoning is broader than formal symbolic proof.
 
 ## 1. Purpose
 Logical Reasoning specifies reasoning in which conclusions are evaluated according to formal or structured inferential relationships.
@@ -2240,6 +2372,30 @@ Prediction and forecasting to 1.3.53–1.3.54.
 # 1.3.51 Future Thinking
 
 ## 1. Purpose
+Defines the broad cognitive orientation toward not-yet-realized states and events.
+
+## 2. Definition
+Future thinking is the broad cognitive process of representing, considering, imagining, evaluating, or planning possible future states, events, outcomes, or actions.
+
+## 3. Core Understanding
+It is the umbrella construct for prospective activities. It can involve imagining, planning, scenario construction, prediction, anticipation, and consequence evaluation. It does not require belief that an imagined future will occur.
+
+## 4. Relationship to This Chapter
+Future Thinking is the broadest construct in the local prospective family.
+
+## 5. Boundaries
+### Owns
+The general cognitive orientation toward possible or expected futures.
+
+### Defers
+Possible-future construction to 1.3.52; expected outcomes to 1.3.53; structured estimation to 1.3.54; preparation to 1.3.55.
+
+## 6. Key Principles
+- Future thinking concerns not-yet-realized states.
+- It includes imagining, planning, predicting, and evaluating.
+- Imagining does not establish occurrence.
+
+## 1. Purpose
 Future Thinking explains cognition directed toward events, states, goals, and possibilities that have not yet occurred.
 
 ## 2. Definition
@@ -2283,6 +2439,32 @@ Prospection to 1.3.52 and prediction/forecasting to 1.3.53–1.3.54.
 # 1.3.52 Prospection
 
 ## 1. Purpose
+Defines construction and evaluation of possible future states.
+
+## 2. Definition
+Prospection is the cognitive process of representing and evaluating possible future events, states, experiences, or outcomes, including alternative possibilities.
+
+## 3. Core Understanding
+Prospection can construct multiple possible futures and examine their expected features or consequences. It can support planning, decision-making, anticipation, and goal pursuit.
+
+It is broader than prediction because a person can prospect without selecting one future as the expected outcome.
+
+## 4. Relationship to This Chapter
+Prospection is a specialization of Future Thinking and a bridge to Prediction, Forecasting, Anticipation, and Scenario Thinking.
+
+## 5. Boundaries
+### Owns
+Construction and evaluation of possible future states.
+
+### Defers
+Expected occurrence to 1.3.53; structured estimation to 1.3.54; preparation to 1.3.55.
+
+## 6. Key Principles
+- Prospection concerns possible futures.
+- Multiple futures can be represented.
+- Possible does not mean probable.
+
+## 1. Purpose
 Prospection explains the mental representation and evaluation of possible future experiences, events, and states.
 
 ## 2. Definition
@@ -2323,6 +2505,30 @@ Prediction and forecasting to 1.3.53–1.3.54.
 # 1.3.53 Prediction
 
 ## 1. Purpose
+Defines cognitive expectation of a future occurrence.
+
+## 2. Definition
+Prediction is the cognitive process or output of estimating that a specified future event, state, or outcome will occur, with an explicit or implicit degree of confidence.
+
+## 3. Core Understanding
+Prediction privileges an expected outcome rather than merely representing possibilities. It may draw on memory, patterns, causal beliefs, rules, models, or other information. It can be qualitative or quantitative and remains uncertain.
+
+## 4. Relationship to This Chapter
+Prediction is a specific prospective function within Future Thinking and Prospection. It is distinct from scientific prediction in 1.2.8.
+
+## 5. Boundaries
+### Owns
+Cognitive expectation of a future occurrence.
+
+### Defers
+Structured forecasting to 1.3.54 and formal scientific prediction to 1.2.8.
+
+## 6. Key Principles
+- Prediction concerns an expected outcome.
+- Predictions can be uncertain.
+- Cognitive prediction is not automatically scientifically justified.
+
+## 1. Purpose
 Prediction explains cognitive estimation of what future event, state, or outcome is expected to occur.
 
 ## 2. Definition
@@ -2361,6 +2567,30 @@ Forecasting to 1.3.54 and probabilistic reasoning to 1.3.25.
 ---
 
 # 1.3.54 Forecasting
+
+## 1. Purpose
+Defines structured estimation of future outcomes.
+
+## 2. Definition
+Forecasting is the systematic cognitive activity of estimating future outcomes from available information, patterns, models, or assumptions over a defined horizon or set of conditions.
+
+## 3. Core Understanding
+Forecasting is more structured than ordinary prediction. It commonly specifies a horizon, information base, assumptions, and a method for updating estimates. It can yield point estimates, ranges, scenarios, or probability distributions.
+
+## 4. Relationship to This Chapter
+Forecasting is a structured specialization of Prediction within the prospective family.
+
+## 5. Boundaries
+### Owns
+Structured future estimation with an explicit horizon, information base, or method.
+
+### Defers
+General future thinking to 1.3.51; possible-future construction to 1.3.52; formal scientific prediction to 1.2.8.
+
+## 6. Key Principles
+- Forecasting is structured prospective estimation.
+- A forecast remains uncertain.
+- Quality depends on information, assumptions, and method.
 
 ## 1. Purpose
 Forecasting explains systematic estimation of future outcomes using evidence, models, historical information, and explicit assumptions.
@@ -2404,6 +2634,30 @@ Specific statistical forecasting methods to scientific/statistical domains.
 ---
 
 # 1.3.55 Anticipation
+
+## 1. Purpose
+Defines present preparation based on a possible, expected, or impending future condition.
+
+## 2. Definition
+Anticipation is the process of preparing mentally or behaviorally for a future event, condition, or consequence on the basis of what is expected, possible, or perceived as impending.
+
+## 3. Core Understanding
+Anticipation differs from prediction because its defining function is preparation rather than estimating occurrence. It can guide attention, readiness, planning, emotional preparation, or action selection and does not require certainty.
+
+## 4. Relationship to This Chapter
+Anticipation is a prospective function informed by Future Thinking, Prospection, Prediction, and Forecasting.
+
+## 5. Boundaries
+### Owns
+Preparation based on an expected or possible future condition.
+
+### Defers
+Future representation to 1.3.51–1.3.52 and outcome estimation to 1.3.53–1.3.54.
+
+## 6. Key Principles
+- Anticipation is future-oriented preparation.
+- It does not require certainty.
+- Possible events can be anticipated.
 
 ## 1. Purpose
 Anticipation explains cognition that prepares for an expected or possible event before it occurs.
@@ -2726,6 +2980,32 @@ General mental set to 1.3.61 and problem solving to 1.3.39.
 # 1.3.63 Inference
 
 ## 1. Purpose
+Defines the general cognitive act of deriving information beyond what is directly given.
+
+## 2. Definition
+Inference is the cognitive process of deriving or estimating a proposition, relation, implication, or conclusion that is not explicitly contained in the immediately available information.
+
+## 3. Core Understanding
+Inference can be deductive, inductive, abductive, analogical, causal, probabilistic, or conditional. These forms differ in standards of support and assumptions.
+
+Inference is the **deriving operation**. A conclusion is the resulting proposition; an explanation is an account of how or why; a hypothesis is a candidate proposition for evaluation.
+
+## 4. Relationship to This Chapter
+Inference bridges information processing and outputs such as conclusions, explanations, and hypotheses.
+
+## 5. Boundaries
+### Owns
+The general cognitive act of deriving information beyond what is directly given.
+
+### Defers
+Specific reasoning forms to 1.3.19–1.3.27 and formal scientific inference to Chapter 1.2.
+
+## 6. Key Principles
+- Inference goes beyond directly given information.
+- Inferential forms have different support standards.
+- An inference is not automatically a fact.
+
+## 1. Purpose
 Inference explains the cognitive process of deriving information, implications, or conclusions that are not directly given in the initial information.
 
 ## 2. Definition
@@ -2769,6 +3049,30 @@ Specific inferential forms to 1.3.19–1.3.27.
 # 1.3.64 Conclusion Formation
 
 ## 1. Purpose
+Defines the process of settling on a proposition as the current result of reasoning or evidence evaluation.
+
+## 2. Definition
+Conclusion formation is the cognitive process of constructing, accepting, rejecting, or revising a proposition as the resulting conclusion of available reasoning or evidence.
+
+## 3. Core Understanding
+Conclusion formation is an **output-setting process**, not the inferential operation itself. A conclusion can be tentative, probable, strongly supported, or unresolved. Its strength depends on the reasoning and evidence that produced it.
+
+## 4. Relationship to This Chapter
+Links inference and reasoning to later outputs such as explanation, hypothesis generation, judgment, and decision-making.
+
+## 5. Boundaries
+### Owns
+Formation and provisional acceptance or rejection of cognitive conclusions.
+
+### Defers
+Inferential derivation to 1.3.63 and specific reasoning forms to 1.3.19–1.3.27.
+
+## 6. Key Principles
+- A conclusion is an output, not the inferential operation.
+- Conclusions can be provisional.
+- Confidence should reflect evidential support.
+
+## 1. Purpose
 Conclusion Formation explains how a person organizes evaluated information and inferences into a resulting cognitive conclusion.
 
 ## 2. Definition
@@ -2807,6 +3111,32 @@ Inference itself to 1.3.63 and explanation/hypothesis generation to 1.3.65–1.3
 ---
 
 # 1.3.65 Explanation
+
+## 1. Purpose
+Defines cognitive construction and evaluation of accounts intended to make events or outcomes understandable.
+
+## 2. Definition
+An explanation is a cognitive account of how or why something occurs, constructed and evaluated by relating an outcome to relevant causes, mechanisms, conditions, relationships, or principles.
+
+## 3. Core Understanding
+Explanation differs from conclusion formation: a conclusion states what is currently accepted, whereas an explanation organizes an account of why or how something occurs. Explanations may be causal, functional, mechanistic, descriptive, or relational.
+
+Coherence does not prove truth, and multiple explanations can fit incomplete evidence.
+
+## 4. Relationship to This Chapter
+Explanation is a cognitive output that can arise from inference and reasoning and can generate hypotheses or guide further inquiry.
+
+## 5. Boundaries
+### Owns
+Cognitive construction and evaluation of explanatory accounts.
+
+### Defers
+Scientific explanation to Chapter 1.2 and specific causal reasoning to 1.3.24.
+
+## 6. Key Principles
+- Explanation addresses how or why in an organized account.
+- Coherence is not proof.
+- Competing explanations can remain possible.
 
 ## 1. Purpose
 Explanation describes the cognitive construction of an account intended to make an event, observation, pattern, or outcome understandable.
@@ -2850,6 +3180,32 @@ Formal scientific explanation and empirical testing to the scientific methods ar
 ---
 
 # 1.3.66 Hypothesis Generation
+
+## 1. Purpose
+Defines cognitive production of candidate propositions for further evaluation.
+
+## 2. Definition
+Hypothesis generation is the cognitive process of producing candidate propositions, relationships, explanations, or predictions that remain open to evaluation.
+
+## 3. Core Understanding
+Generation can draw on observations, prior knowledge, analogies, causal ideas, patterns, imagination, and incomplete information. Generation and evaluation are separate operations.
+
+A generated hypothesis may be useful even if rejected. Its plausibility does not establish its truth or give it formal scientific status.
+
+## 4. Relationship to This Chapter
+Hypothesis Generation is a generative endpoint of inference and explanation and a bridge from thinking to empirical inquiry.
+
+## 5. Boundaries
+### Owns
+Cognitive generation of candidate hypotheses.
+
+### Defers
+Formal scientific hypothesis methodology to 1.2.7 and empirical testing to Chapter 1.2.
+
+## 6. Key Principles
+- A generated hypothesis is a candidate proposition.
+- Generation does not establish truth.
+- Generation and evaluation are distinct.
 
 ## 1. Purpose
 Hypothesis Generation explains how people construct candidate propositions that could account for observations or guide further reasoning and testing.
