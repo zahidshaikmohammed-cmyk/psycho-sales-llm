@@ -4715,3 +4715,480 @@ Effect size, statistical significance, confidence intervals, clinical decision t
 3. Effect magnitude and uncertainty both matter.
 4. Practical importance depends on the decision and consequences.
 5. No universal practical threshold applies to every psychological finding.
+
+---
+## 1.2.76 Psychological measurement
+
+## 1. Purpose
+
+Psychological measurement connects abstract psychological constructs to observable data. It is foundational because many psychological phenomena cannot be observed directly and must be represented through carefully designed indicators.
+
+## 2. Definition
+
+Psychological measurement is the systematic process of assigning values, categories, scores, or observations to psychological attributes according to defined rules so that those attributes can be described, compared, or analyzed.
+
+## 3. Core Understanding
+
+### Measurement target
+
+The target may be a state, trait, capacity, behavior, process, experience, or other construct. Clear conceptualization is necessary before choosing a measure.
+
+### Indicators
+
+Indicators can include self-report, behavioral performance, observer ratings, physiological measures, reaction times, or combinations of these.
+
+### Scale properties
+
+Measurement scales can differ in whether values represent categories, order, equal intervals, or meaningful ratios. The scale's properties affect interpretation and analysis.
+
+### Error
+
+Every measurement procedure can contain error. Observed scores may reflect the intended construct plus irrelevant influences and random variation.
+
+### Reliability and validity
+
+Reliability concerns consistency or precision. Validity concerns the interpretation and use of the resulting measurements. High reliability does not guarantee validity.
+
+### Context
+
+A measurement can behave differently across populations, settings, languages, cultures, or time. Measurement evidence must therefore match the intended use.
+
+### Evidence status
+
+Psychological measurement is an established methodological domain. The quality of a measurement depends on evidence for its reliability, validity, fairness, and suitability for the intended purpose.
+
+## 4. Relationship to This Chapter
+
+Psychological measurement introduces the Psychometrics section and connects directly to reliability, validity, scale construction, item analysis, factor analysis, latent variables, and measurement invariance.
+
+## 5. Boundaries
+
+### Owns
+
+The general scientific process of measuring psychological attributes and representing them as data.
+
+### Defers
+
+Specific reliability and validity forms, psychometric theories, individual instruments, and substantive constructs.
+
+## 6. Key Principles
+
+1. Psychological measurement translates constructs or phenomena into observable data.
+2. Every measure has strengths and limitations.
+3. Reliability and validity are distinct.
+4. Measurement error affects conclusions.
+5. Measurement evidence must match the intended population and use.
+
+---
+
+## 1.2.77 Reliability
+
+## 1. Purpose
+
+Reliability concerns the consistency and precision of measurement. It is necessary because unstable or highly noisy measures make it difficult to determine whether observed differences reflect the phenomenon of interest.
+
+## 2. Definition
+
+Reliability is the degree to which a measurement procedure produces consistent, dependable, or sufficiently precise results under specified conditions.
+
+Reliability is not one universal property; different forms address different sources of inconsistency.
+
+## 3. Core Understanding
+
+Reliability can concern stability across time, consistency among items, agreement among raters, or other forms of measurement consistency.
+
+### Reliability and validity
+
+A measure can be reliable but invalid. For example, a consistently biased measure can produce highly stable scores that do not represent the intended construct.
+
+### Dependence on context
+
+Reliability can vary across populations, score ranges, tasks, and conditions. It should therefore be evaluated for the intended use.
+
+### Measurement error
+
+Lower reliability generally means more random measurement error, which can attenuate observed relationships and reduce precision.
+
+### Evidence status
+
+Reliability is an established psychometric concept. Its specific interpretation depends on the reliability form and measurement design.
+
+## 4. Relationship to This Chapter
+
+Reliability is the umbrella psychometric concept for test–retest reliability, internal consistency, inter-rater reliability, and measurement error.
+
+## 5. Boundaries
+
+### Owns
+
+The general concept of consistency and precision in psychological measurement.
+
+### Defers
+
+Specific reliability coefficients, validity, measurement error, and psychometric models.
+
+## 6. Key Principles
+
+1. Reliability concerns consistency or precision.
+2. Different reliability forms address different sources of inconsistency.
+3. Reliability does not establish validity.
+4. Reliability depends on the measurement context.
+5. Measurement error is closely related to reliability.
+
+---
+
+## 1.2.78 Test–retest reliability
+
+## 1. Purpose
+
+Test–retest reliability assesses the stability of measurement across repeated administrations when the underlying attribute is expected to remain sufficiently stable.
+
+## 2. Definition
+
+Test–retest reliability is the degree of consistency between measurements obtained from the same units on separate occasions under comparable conditions.
+
+## 3. Core Understanding
+
+### Time interval
+
+The interval must be long enough to reduce simple memory effects but not so long that genuine change in the construct dominates the difference.
+
+### Stable versus changing constructs
+
+A low test–retest correlation may reflect poor measurement stability, true change, or both. Low stability is not automatically evidence of unreliable measurement if the construct itself is expected to change.
+
+### State measures
+
+For rapidly changing states, test–retest stability may not be an appropriate primary reliability criterion.
+
+### Statistical measure
+
+Researchers can use correlations, intraclass correlations, agreement measures, or other statistics depending on the score and question. A simple correlation can show rank consistency without showing absolute agreement.
+
+### Evidence status
+
+Test–retest reliability is an established form of reliability. Its interpretation depends on the construct's expected stability and the testing conditions.
+
+## 4. Relationship to This Chapter
+
+Test–retest reliability is a specific form of reliability and connects to psychological measurement and measurement error.
+
+## 5. Boundaries
+
+### Owns
+
+The concept of measurement consistency across repeated occasions.
+
+### Defers
+
+General reliability, internal consistency, inter-rater reliability, and the stability of the psychological construct itself.
+
+## 6. Key Principles
+
+1. Test–retest reliability concerns repeated measurement over time.
+2. The appropriate interval depends on the construct.
+3. Genuine change can reduce stability without implying bad measurement.
+4. Correlation is not identical to absolute agreement.
+5. Stability evidence must match the intended use.
+
+---
+
+## 1.2.79 Internal consistency
+
+## 1. Purpose
+
+Internal consistency concerns how coherently items within a multi-item measure behave as indicators of a specified construct or dimension.
+
+## 2. Definition
+
+Internal consistency is the degree to which items within a measurement instrument show consistent relationships with one another under the assumptions of the relevant measurement model.
+
+## 3. Core Understanding
+
+### Item coherence
+
+Items designed to represent a common construct are often expected to correlate to some degree. Very low consistency may indicate heterogeneous content, poor items, or multiple dimensions.
+
+### Alpha is not the definition
+
+Cronbach's alpha is one statistic used to estimate internal consistency under particular assumptions. High alpha does not prove unidimensionality, validity, or good measurement.
+
+### Too high can also matter
+
+Extremely high item similarity can indicate redundancy rather than superior construct coverage.
+
+### Dimensionality
+
+If a scale contains multiple distinct dimensions, one overall internal-consistency coefficient may be misleading. Factor structure should be considered.
+
+### Evidence status
+
+Internal consistency is a reliability concept, not a complete psychometric evaluation.
+
+## 4. Relationship to This Chapter
+
+Internal consistency belongs under reliability and connects to scale construction, item analysis, and factor analysis.
+
+## 5. Boundaries
+
+### Owns
+
+The consistency among items within a measurement instrument.
+
+### Defers
+
+Cronbach's alpha as a specific statistic, dimensionality, validity, and scale construction.
+
+## 6. Key Principles
+
+1. Internal consistency concerns relationships among items.
+2. High internal consistency does not prove validity.
+3. Alpha is an estimator, not the concept itself.
+4. Extremely high consistency can reflect redundant items.
+5. Dimensionality must be considered.
+
+---
+
+## 1.2.80 Inter-rater reliability
+
+## 1. Purpose
+
+Inter-rater reliability evaluates consistency among observers or raters who independently classify, score, or judge the same material.
+
+## 2. Definition
+
+Inter-rater reliability is the degree to which independent raters produce consistent ratings or classifications when evaluating the same observations under a defined coding or scoring procedure.
+
+## 3. Core Understanding
+
+### Coding rules
+
+Clear operational criteria improve consistency. Ambiguous categories can produce disagreement even when raters are well trained.
+
+### Agreement versus association
+
+Two raters can rank cases similarly while systematically assigning different levels. Measures of association and measures of agreement answer different questions.
+
+### Number of raters and categories
+
+The appropriate reliability statistic depends on whether ratings are categorical, ordinal, continuous, or another form and on the number of raters.
+
+### Training
+
+Training can improve consistency, but excessive training can sometimes impose a narrow interpretation that does not reflect naturally occurring judgments.
+
+### Evidence status
+
+Inter-rater reliability is an established reliability concept for observer-based measurement.
+
+## 4. Relationship to This Chapter
+
+Inter-rater reliability connects psychological measurement with observational research, qualitative coding, assessment, and measurement error.
+
+## 5. Boundaries
+
+### Owns
+
+Consistency among independent raters applying the same scoring or coding system.
+
+### Defers
+
+Specific agreement coefficients, observer training, validity, and the construct being rated.
+
+## 6. Key Principles
+
+1. Inter-rater reliability concerns consistency among raters.
+2. Agreement and correlation are not identical.
+3. Clear coding rules matter.
+4. The reliability statistic should match the data type and design.
+5. Reliability does not establish that the rating system measures the intended construct.
+
+---
+
+## 1.2.81 Measurement error
+
+## 1. Purpose
+
+Measurement error explains the difference between an observed measurement and the underlying value or construct representation the measurement is intended to capture. It is central to understanding uncertainty in psychological scores.
+
+## 2. Definition
+
+Measurement error is the portion of an observed measurement that does not represent the target attribute as intended, including random and systematic sources of deviation.
+
+## 3. Core Understanding
+
+### Random error
+
+Random error varies unpredictably across observations. It can reduce precision and attenuate relationships.
+
+### Systematic error
+
+Systematic error shifts measurements in a consistent or condition-dependent way. It can create bias and is not necessarily reduced by larger sample size.
+
+### Sources
+
+Sources include ambiguous items, temporary participant states, instrument limitations, rater differences, environmental conditions, response styles, and data-processing errors.
+
+### Error and reliability
+
+Reliability statistics address particular forms of inconsistency and therefore provide information about some aspects of measurement error.
+
+### Error and validity
+
+A measure can have low random error yet systematic bias. Reliability alone therefore cannot establish validity.
+
+### Consequences
+
+Measurement error can obscure real effects, distort relationships, reduce power, and complicate comparisons.
+
+### Evidence status
+
+Measurement error is a foundational measurement concept. Its size and structure must be evaluated relative to the measurement procedure.
+
+## 4. Relationship to This Chapter
+
+Measurement error links reliability to validity, effect estimation, statistical power, and psychometric models.
+
+## 5. Boundaries
+
+### Owns
+
+The concept of unwanted deviation between observed measurement and intended measurement target.
+
+### Defers
+
+Reliability, validity, specific error sources, and statistical correction procedures.
+
+## 6. Key Principles
+
+1. Observed scores can contain error.
+2. Random and systematic error have different consequences.
+3. Larger samples do not automatically remove systematic measurement bias.
+4. Measurement error can reduce statistical precision and observed relationships.
+5. Reliability and validity address different aspects of measurement quality.
+
+---
+
+## 1.2.82 Validity
+
+## 1. Purpose
+
+Validity is the central psychometric concept concerning whether evidence supports the interpretations and uses made from measurements. It prevents the common mistake of treating a reliable score as automatically meaningful.
+
+## 2. Definition
+
+Validity is the degree to which available evidence supports the intended interpretation and use of measurement results for a specified purpose, population, and context.
+
+## 3. Core Understanding
+
+### Interpretation
+
+Validity concerns the claim made from a score, not simply the physical test or questionnaire. The same instrument can be appropriate for one purpose and poorly supported for another.
+
+### Evidence sources
+
+Evidence can concern content, relationships with other variables, internal structure, response processes, consequences, and other sources appropriate to the interpretation.
+
+### Reliability
+
+Reliability is necessary for many measurement uses but is not sufficient for validity.
+
+### Population and context
+
+Validity evidence can change across populations, languages, cultures, developmental stages, settings, and purposes.
+
+### Consequences
+
+For high-stakes assessment, researchers may also examine whether intended uses produce defensible decisions and whether systematic sources of bias undermine interpretation.
+
+### Evidence status
+
+Validity is an argument supported by multiple evidence sources rather than a single permanent coefficient.
+
+## 4. Relationship to This Chapter
+
+Validity is the broad psychometric concept connecting construct validity and measurement validity with reliability, scale construction, item analysis, and measurement invariance.
+
+## 5. Boundaries
+
+### Owns
+
+The general concept of evidence supporting interpretations and uses of psychological measurements.
+
+### Defers
+
+Specific forms of validity evidence, reliability, individual instruments, and substantive constructs.
+
+## 6. Key Principles
+
+1. Validity concerns interpretation and use.
+2. Validity is not a property proven by one statistic.
+3. Reliability does not guarantee validity.
+4. Validity evidence depends on purpose and population.
+5. Measurement claims require an evidence-based argument.
+
+---
+
+## 1.2.83 Scale construction
+
+## 1. Purpose
+
+Scale construction is the systematic development of multi-item measures intended to represent one or more psychological constructs. It determines what content is included and how responses become scores.
+
+## 2. Definition
+
+Scale construction is the process of designing, selecting, evaluating, and scoring items to create a measurement scale representing a specified construct or set of dimensions.
+
+## 3. Core Understanding
+
+### Construct definition
+
+Scale development begins with a clear conceptual definition and domain of content. Without this, item selection can become arbitrary.
+
+### Item generation
+
+Items can be generated from theory, prior instruments, qualitative work, expert input, or empirical observation. Sources should be documented.
+
+### Response format
+
+Likert-type, binary, semantic differential, performance-based, and other response formats impose different measurement properties.
+
+### Item evaluation
+
+Researchers examine item distributions, missingness, discrimination, redundancy, and relationships with other items and criteria.
+
+### Dimensionality
+
+Factor analysis and theory can help determine whether items represent one dimension or multiple dimensions.
+
+### Reliability and validity
+
+A scale should be evaluated for reliability and validity in the intended population and use. High internal consistency alone is not enough.
+
+### Evidence status
+
+Scale construction is an established psychometric process. Good scale development is iterative and evidence-driven.
+
+## 4. Relationship to This Chapter
+
+Scale construction connects psychological measurement with internal consistency, item analysis, factor analysis, validity, and latent variables.
+
+## 5. Boundaries
+
+### Owns
+
+The methodological process of building multi-item psychological scales.
+
+### Defers
+
+Item analysis, factor analysis, validity, reliability, and the construct represented by the scale.
+
+## 6. Key Principles
+
+1. Scale construction begins with clear construct definition.
+2. Item selection should be theoretically and empirically justified.
+3. Dimensionality must be evaluated.
+4. Reliability is necessary but not sufficient.
+5. A scale requires validity evidence for its intended use.
+
+---
