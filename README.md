@@ -618,7 +618,9 @@ Never silently change a canonical definition when the change affects meaning.
 
 ### System 1 Ontology
 
-**CREATED — TOPIC-LEVEL AUDIT IN PROGRESS**
+**REBUILT — CHAPTER 1.1 TOPIC-LEVEL AUDIT IN PROGRESS**
+
+The superseded Quarter I manuscript and prior System 1 master ontology were removed. No System 1 prose is currently treated as canonical.
 
 ### Knowledge Writing
 
