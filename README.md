@@ -58,7 +58,7 @@ No separate topic files, duplicate indexes, historical audits, research dumps, d
 
 ### Chapter 1.2 — Psychological Science, Research, Measurement, and Evidence
 
-**Status: REBUILT — UNDER DEPTH VALIDATION**
+**Status: REMEDIATED — FINAL VALIDATION PASSED**
 
 The canonical Chapter 1.2 writing is contained in:
 
