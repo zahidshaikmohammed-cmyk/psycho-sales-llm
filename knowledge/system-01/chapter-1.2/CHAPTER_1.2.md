@@ -4122,3 +4122,596 @@ Correlation as a general concept, regression, causal inference, and the substant
 4. Zero linear correlation does not imply no relationship.
 5. A correlation coefficient does not prove causation.
 
+
+---
+## 1.2.66 Regression
+
+## 1. Purpose
+
+Regression provides a framework for describing and estimating relationships between an outcome and one or more predictors. It is central to psychological data analysis but must not be mistaken for automatic causal adjustment.
+
+## 2. Definition
+
+Regression is a family of statistical methods that models the relationship between an outcome and one or more predictor variables to estimate, summarize, predict, or test specified relationships.
+
+## 3. Core Understanding
+
+### Simple and multiple regression
+
+Simple regression uses one predictor; multiple regression uses several. The additional predictors can represent theoretically relevant variables, potential confounders, or variables used to improve prediction.
+
+### Prediction versus explanation
+
+A regression model can predict outcomes well without identifying causal mechanisms. A statistically strong coefficient is not automatically a causal effect.
+
+### Coefficients
+
+Regression coefficients represent expected changes in the outcome associated with changes in predictors under the specified model and coding. Interpretation depends on scale, interactions, transformations, and model assumptions.
+
+### Assumptions
+
+Different regression models have different assumptions concerning functional form, errors, independence, variance, measurement, and other properties.
+
+### Confounding and adjustment
+
+Including a variable can reduce confounding under appropriate causal assumptions, but can also create bias if the variable is a mediator, collider, or otherwise inappropriate adjustment variable.
+
+### Model fit
+
+Measures of fit summarize how well a model represents observed data, but good fit alone does not prove that the model is the correct causal or psychological explanation.
+
+### Evidence status
+
+Regression is an established statistical family. Its scientific meaning depends on the model, data, assumptions, and research question.
+
+## 4. Relationship to This Chapter
+
+Regression connects correlation and descriptive statistics to multivariable analysis, mediation, moderation, causal inference, statistical significance, and effect estimation.
+
+## 5. Boundaries
+
+### Owns
+
+The general statistical modeling framework for relating outcomes to predictors.
+
+### Defers
+
+Specific regression variants, causal assumptions, variable roles, and substantive psychological interpretation.
+
+## 6. Key Principles
+
+1. Regression models relationships between outcomes and predictors.
+2. Regression is not inherently causal.
+3. Coefficients depend on model specification and measurement.
+4. Adjustment can help or harm depending on causal structure.
+5. Good model fit does not prove theoretical or causal correctness.
+
+---
+
+## 1.2.67 Statistical power
+
+## 1. Purpose
+
+Statistical power describes the ability of a study and analysis to detect an effect of a specified size when that effect truly exists under the assumed conditions. It is central to research planning and interpretation of null findings.
+
+## 2. Definition
+
+Statistical power is the probability that a specified statistical procedure will reject the null hypothesis when a particular alternative effect is present, given assumptions about effect size, variability, sample size, significance threshold, and design.
+
+## 3. Core Understanding
+
+Power depends on several factors.
+
+### Effect size
+
+Larger effects are generally easier to detect than smaller effects, all else equal.
+
+### Sample size
+
+Larger samples generally increase power and precision under comparable conditions.
+
+### Variability
+
+Greater unexplained variability can reduce the ability to detect a specified effect.
+
+### Significance threshold
+
+A stricter threshold for declaring significance generally reduces power unless other factors change.
+
+### Design
+
+Within-person designs, clustering, measurement reliability, and allocation procedures can alter effective information and therefore power.
+
+### Power and null results
+
+A nonsignificant result can arise because there is little or no effect, because the effect is smaller than the study could reliably detect, or because of other design and measurement limitations. Power analysis can inform interpretation but does not prove absence of an effect.
+
+### Evidence status
+
+Power is a statistical property under specified assumptions. It should not be treated as a permanent characteristic of a study independent of the effect and analysis being considered.
+
+## 4. Relationship to This Chapter
+
+Power connects sample size, variability, statistical significance, Type II error, measurement reliability, and study design.
+
+## 5. Boundaries
+
+### Owns
+
+The concept of probability of detecting a specified effect under specified assumptions.
+
+### Defers
+
+Sample size planning, significance testing, effect size, Type II error, and substantive interpretation.
+
+## 6. Key Principles
+
+1. Power depends on effect size, sample size, variability, threshold, and design.
+2. Low power makes detection of small effects difficult.
+3. A nonsignificant result is not automatically evidence of no effect.
+4. Power is defined relative to a specified effect and procedure.
+5. Better measurement can improve effective power by reducing noise.
+
+---
+
+## 1.2.68 Type I error
+
+## 1. Purpose
+
+Type I error describes one important way statistical hypothesis testing can produce an incorrect conclusion. It helps explain why repeated testing and significance thresholds matter.
+
+## 2. Definition
+
+A Type I error occurs when a statistical test rejects a null hypothesis that is true under the specified testing framework.
+
+## 3. Core Understanding
+
+### Significance threshold
+
+If a test is conducted at a nominal alpha level of .05 under its assumptions, the procedure is designed to limit Type I error probability to .05 in the relevant repeated-sampling sense when the null is true. This does not mean there is a 5% probability that any particular significant result is false.
+
+### Multiple testing
+
+When many tests are performed, the chance of obtaining at least one false positive can increase unless the inferential procedure accounts for multiplicity.
+
+### Researcher degrees of freedom
+
+Selective analysis, stopping rules, outcome selection, and other flexible choices can alter the actual false-positive properties of a nominal test.
+
+### Evidence status
+
+Type I error is a formal statistical concept. Its interpretation depends on the testing procedure and assumptions.
+
+## 4. Relationship to This Chapter
+
+Type I error connects statistical significance with multiple comparisons, p-hacking, selective reporting, and statistical conclusion validity.
+
+## 5. Boundaries
+
+### Owns
+
+The statistical concept of falsely rejecting a true null hypothesis.
+
+### Defers
+
+Statistical significance, multiple testing procedures, p-hacking, and substantive conclusions.
+
+## 6. Key Principles
+
+1. Type I error is false rejection of a true null under the specified framework.
+2. Alpha is a long-run error-rate criterion, not the probability a particular finding is false.
+3. Multiple testing can increase false-positive opportunities.
+4. Flexible analysis can change nominal error properties.
+5. Error rates must be interpreted within the statistical procedure used.
+
+---
+
+## 1.2.69 Type II error
+
+## 1. Purpose
+
+Type II error describes failure to reject a null hypothesis when a specified alternative effect exists. It is essential for understanding false negatives and the relationship between power and study design.
+
+## 2. Definition
+
+A Type II error occurs when a statistical test fails to reject the null hypothesis even though a specified alternative effect is present under the relevant assumptions.
+
+## 3. Core Understanding
+
+Type II error probability is commonly denoted beta. Statistical power is related to it as 1 minus beta for the specified effect and procedure.
+
+### Causes
+
+Low sample size, high variability, small effects, unreliable measurement, restrictive thresholds, and inefficient designs can increase the risk of Type II error.
+
+### Null results
+
+A nonsignificant finding can be compatible with a small effect, no effect, or insufficient information to distinguish the possibilities. Interpretation requires effect estimates and uncertainty, not merely the p-value.
+
+### Trade-off
+
+Changing the significance threshold can affect both Type I and Type II error probabilities. Study planning should consider both.
+
+### Evidence status
+
+Type II error is a formal statistical concept defined relative to a specified alternative.
+
+## 4. Relationship to This Chapter
+
+Type II error connects directly to statistical power, significance testing, effect size, and confidence intervals.
+
+## 5. Boundaries
+
+### Owns
+
+The concept of failing to reject a false null hypothesis under a specified alternative.
+
+### Defers
+
+Power, statistical significance, sample-size planning, and substantive interpretation.
+
+## 6. Key Principles
+
+1. Type II error is a false negative within the specified testing framework.
+2. Power is related to 1 minus Type II error probability.
+3. Small samples and noisy measures can increase Type II error.
+4. Nonsignificance does not automatically prove no effect.
+5. Interpretation should include effect estimates and uncertainty.
+
+---
+
+## 1.2.70 Statistical significance
+
+## 1. Purpose
+
+Statistical significance describes the relationship between observed data and a null hypothesis under a specified statistical test. It is useful but frequently overinterpreted as proof of importance, truth, or causation.
+
+## 2. Definition
+
+A result is statistically significant under a specified testing procedure when the observed data would be sufficiently unusual under the null hypothesis according to the procedure's predefined decision criterion.
+
+## 3. Core Understanding
+
+### P-values
+
+A p-value quantifies how incompatible the observed data, or more extreme data, are with the null model under specified assumptions. It is not the probability that the null hypothesis is true.
+
+### Significance versus effect size
+
+A tiny effect can be statistically significant in a large sample, while a meaningful effect may fail to reach significance in a small or noisy study.
+
+### Significance versus replication
+
+One significant result does not establish a stable effect. Replication and converging evidence matter.
+
+### Significance versus causation
+
+A significant association does not become causal simply because its p-value is small.
+
+### Thresholds
+
+Conventional thresholds can provide decision rules, but scientific interpretation should not reduce evidence to a binary significant/nonsignificant label.
+
+### Evidence status
+
+Statistical significance is a property of a statistical test under its assumptions, not a measure of scientific importance.
+
+## 4. Relationship to This Chapter
+
+Statistical significance connects Type I error, power, effect size, confidence intervals, multiple comparisons, and scientific inference.
+
+## 5. Boundaries
+
+### Owns
+
+The concept of significance decisions under a specified statistical testing framework.
+
+### Defers
+
+Effect size, practical significance, p-values as a specific statistic, causal inference, and substantive importance.
+
+## 6. Key Principles
+
+1. Statistical significance is model- and procedure-dependent.
+2. It is not the probability that the null is true.
+3. Significance does not measure effect magnitude.
+4. Significance does not establish causation.
+5. Effect size and uncertainty should accompany significance decisions.
+
+---
+
+## 1.2.71 Effect size
+
+## 1. Purpose
+
+Effect size describes the magnitude of a difference, association, or relationship. It provides information that statistical significance alone cannot provide.
+
+## 2. Definition
+
+Effect size is a quantitative representation of the magnitude of a specified difference, association, or effect.
+
+## 3. Core Understanding
+
+Effect sizes include raw differences, standardized mean differences, correlations, risk ratios, odds ratios, regression coefficients, and other measures appropriate to the research question.
+
+### Raw versus standardized
+
+Raw effects retain the original measurement units and may be directly interpretable. Standardized effects allow comparison across measures with different scales but can be less intuitive.
+
+### Context
+
+A numerical effect size has meaning only relative to the outcome, population, intervention, measurement, and time period.
+
+### Precision
+
+Effect size estimates should be interpreted alongside uncertainty, such as confidence intervals.
+
+### Statistical significance
+
+Large samples can make small effects statistically detectable. Small studies can fail to detect meaningful effects. Effect size and significance answer different questions.
+
+### Practical importance
+
+An effect can be statistically detectable but practically trivial, or difficult to detect statistically while potentially important in a high-stakes context.
+
+### Evidence status
+
+Effect size is an established quantitative concept. Its interpretation requires domain context.
+
+## 4. Relationship to This Chapter
+
+Effect size connects statistical significance, confidence intervals, power, practical significance, and meta-analysis.
+
+## 5. Boundaries
+
+### Owns
+
+The general concept of quantifying magnitude of a specified effect or relationship.
+
+### Defers
+
+Specific effect-size statistics, practical decision thresholds, power, and substantive importance.
+
+## 6. Key Principles
+
+1. Effect size describes magnitude.
+2. It answers a different question from statistical significance.
+3. Raw and standardized effect sizes have different interpretations.
+4. Uncertainty should accompany effect estimates.
+5. Practical meaning depends on context.
+
+---
+
+## 1.2.72 Confidence interval
+
+## 1. Purpose
+
+A confidence interval represents uncertainty around an estimated parameter under a specified inferential procedure. It helps communicate both estimated magnitude and precision.
+
+## 2. Definition
+
+A confidence interval is an interval calculated from sample data using a specified statistical procedure that, under repeated application of that procedure and its assumptions, would contain the target parameter at the stated confidence level in the corresponding long-run proportion of samples.
+
+## 3. Core Understanding
+
+### Precision
+
+Narrower intervals generally indicate greater statistical precision under the model. Wider intervals indicate more uncertainty.
+
+### Confidence level
+
+A 95% confidence interval is defined by a long-run coverage property of the procedure. It should not be interpreted as a 95% probability that the fixed parameter is inside this particular interval in the classical framework.
+
+### Effect interpretation
+
+Confidence intervals show a range of values compatible with the procedure and data under its assumptions. The scientific interpretation should consider whether the range includes effects that would be practically meaningful.
+
+### Assumptions
+
+Coverage depends on the method and assumptions. Poor sampling, model misspecification, dependence, or biased measurement can undermine interpretation.
+
+### Evidence status
+
+Confidence intervals are established inferential tools. Bayesian credible intervals are a different construct and should not be treated as interchangeable.
+
+## 4. Relationship to This Chapter
+
+Confidence intervals complement effect size and statistical significance and contribute to scientific inference and practical interpretation.
+
+## 5. Boundaries
+
+### Owns
+
+The classical confidence-interval concept and its interpretation.
+
+### Defers
+
+Bayesian credible intervals, effect sizes, statistical significance, and substantive conclusions.
+
+## 6. Key Principles
+
+1. Confidence intervals communicate estimate precision under a specified procedure.
+2. Their interpretation is based on repeated-sampling coverage.
+3. Narrow intervals indicate greater precision under comparable assumptions.
+4. Confidence intervals do not automatically establish causation or importance.
+5. The inferential method and assumptions matter.
+
+---
+
+## 1.2.73 Multiple comparisons
+
+## 1. Purpose
+
+Multiple comparisons addresses the increased opportunity for false-positive findings when many statistical tests, outcomes, groups, or hypotheses are examined.
+
+## 2. Definition
+
+Multiple comparisons refers to a research situation in which several statistical hypotheses or contrasts are tested, creating a need to account for the resulting multiplicity when controlling or interpreting error rates.
+
+## 3. Core Understanding
+
+### Error accumulation
+
+If many independent null hypotheses are tested at a conventional threshold, the chance of at least one false positive can become substantially larger than the threshold for a single test.
+
+### Correction approaches
+
+Researchers may use procedures controlling family-wise error, false discovery rate, hierarchical testing, multivariate methods, or other approaches appropriate to the inferential goal.
+
+### Planned versus exploratory comparisons
+
+Planned comparisons specified in advance can be treated differently from broad exploratory searching. The distinction should be reported transparently.
+
+### Researcher flexibility
+
+Repeatedly trying different outcomes, exclusions, transformations, subgroups, or models and reporting only favorable results can create misleading evidence even without formally violating a single test's assumptions.
+
+### Evidence status
+
+Multiple-comparison problems are well established. The appropriate correction depends on the number, dependence, purpose, and structure of the tests.
+
+## 4. Relationship to This Chapter
+
+Multiple comparisons connects statistical significance and Type I error with researcher degrees of freedom, p-hacking, and selective reporting.
+
+## 5. Boundaries
+
+### Owns
+
+The statistical and inferential problem created by conducting multiple comparisons.
+
+### Defers
+
+Specific correction procedures, p-hacking, preregistration, and substantive interpretation.
+
+## 6. Key Principles
+
+1. Many tests create more opportunities for false positives.
+2. Multiplicity should be considered in analysis and interpretation.
+3. Planned and exploratory analyses should be distinguished.
+4. Selective reporting can worsen multiplicity problems.
+5. Correction should match the inferential goal.
+
+---
+
+## 1.2.74 Bayesian reasoning
+
+## 1. Purpose
+
+Bayesian reasoning provides a framework for updating uncertainty about hypotheses or parameters using prior information and observed data. It is an important inferential framework alongside frequentist approaches.
+
+## 2. Definition
+
+Bayesian reasoning is an inferential approach that combines prior information with observed data through a probability model to obtain updated, or posterior, beliefs about hypotheses or parameters.
+
+## 3. Core Understanding
+
+### Prior
+
+A prior distribution represents information or assumptions about plausible parameter values or hypotheses before incorporating the current data.
+
+### Likelihood
+
+The likelihood represents how compatible different parameter values or hypotheses are with the observed data under the specified model.
+
+### Posterior
+
+The posterior combines prior information and the likelihood to represent updated uncertainty.
+
+### Prior sensitivity
+
+When data are limited, the choice of prior can materially affect the posterior. Researchers should therefore justify and, when appropriate, examine sensitivity to plausible priors.
+
+### Interpretation
+
+Bayesian intervals and posterior probabilities have interpretations different from classical confidence intervals and p-values. The frameworks should not be mixed casually.
+
+### Evidence accumulation
+
+Bayesian reasoning can naturally update beliefs as new evidence arrives, provided the model and prior assumptions remain appropriate.
+
+### Evidence status
+
+Bayesian reasoning is an established statistical framework. Its conclusions remain model-dependent.
+
+## 4. Relationship to This Chapter
+
+Bayesian reasoning belongs among statistical inference approaches and contrasts with, while can also complement, frequentist methods.
+
+## 5. Boundaries
+
+### Owns
+
+The general framework of probabilistic updating using prior information and observed evidence.
+
+### Defers
+
+Specific Bayesian models, priors, likelihoods, posterior computation, and substantive psychological conclusions.
+
+## 6. Key Principles
+
+1. Bayesian reasoning combines prior information with data.
+2. Posterior conclusions depend on the model and prior.
+3. Bayesian intervals differ conceptually from confidence intervals.
+4. Prior sensitivity matters when data are limited.
+5. Bayesian results are not free from model assumptions.
+
+---
+
+## 1.2.75 Practical significance
+
+## 1. Purpose
+
+Practical significance concerns whether the magnitude of a finding matters in real-world terms, decisions, functioning, policy, or application. It prevents statistical detectability from being mistaken for meaningful importance.
+
+## 2. Definition
+
+Practical significance is the degree to which a difference, association, or effect is large enough to matter for a specified practical, clinical, organizational, social, or decision-making purpose.
+
+## 3. Core Understanding
+
+### Context
+
+The same numerical effect can be important in one context and negligible in another. Meaning depends on costs, benefits, baseline risk, consequences, feasibility, and the decisions affected.
+
+### Effect size
+
+Effect size provides quantitative information about magnitude, but practical significance requires contextual interpretation.
+
+### Minimal important difference
+
+Some fields define thresholds for changes considered meaningful for a specified population or outcome. Such thresholds are context-specific and should not be treated as universal.
+
+### Statistical significance
+
+A very large sample can detect trivial differences. Conversely, an important effect can fail to reach statistical significance in a small or imprecise study.
+
+### Uncertainty
+
+Practical interpretation should account for uncertainty around the estimated effect. An interval may include both negligible and important values.
+
+### Evidence status
+
+Practical significance is partly empirical and partly decision-context dependent. It cannot be inferred from p-values alone.
+
+## 4. Relationship to This Chapter
+
+Practical significance closes the Sampling and Statistics section by linking statistical evidence to real-world interpretation without collapsing the two.
+
+## 5. Boundaries
+
+### Owns
+
+The concept of real-world or decision-relevant importance of an observed effect.
+
+### Defers
+
+Effect size, statistical significance, confidence intervals, clinical decision thresholds, and substantive application.
+
+## 6. Key Principles
+
+1. Practical significance asks whether a finding matters in context.
+2. Statistical significance and practical significance are different.
+3. Effect magnitude and uncertainty both matter.
+4. Practical importance depends on the decision and consequences.
+5. No universal practical threshold applies to every psychological finding.
