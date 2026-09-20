@@ -5192,3 +5192,648 @@ Item analysis, factor analysis, validity, reliability, and the construct represe
 5. A scale requires validity evidence for its intended use.
 
 ---
+---
+## 1.2.84 Item analysis
+
+## 1. Purpose
+
+Item analysis evaluates individual items within a psychological measure to determine how well they function and whether they contribute useful information about the intended construct.
+
+## 2. Definition
+
+Item analysis is the systematic examination of the statistical, substantive, and measurement characteristics of individual items in an assessment or scale.
+
+## 3. Core Understanding
+
+Researchers may examine item distributions, missing responses, difficulty or endorsement rates, discrimination, item-total relationships, redundancy, differential functioning, and relationships with external criteria.
+
+### Item discrimination
+
+An item is useful when it distinguishes meaningfully among people or cases at relevant levels of the construct. Poor discrimination can limit a scale's usefulness.
+
+### Item difficulty
+
+For performance or ability tests, difficulty concerns the proportion or probability of respondents answering correctly. Difficulty has a different meaning from difficulty in an attitude scale.
+
+### Redundancy
+
+Highly similar items can inflate internal consistency without expanding construct coverage.
+
+### Content coverage
+
+Statistical item performance should not be the only criterion. Removing an item can narrow the conceptual domain even if the remaining scale becomes more internally consistent.
+
+### Evidence status
+
+Item analysis is a psychometric procedure whose interpretation depends on the measurement model and intended use.
+
+## 4. Relationship to This Chapter
+
+Item analysis connects scale construction, reliability, validity, and item response theory.
+
+## 5. Boundaries
+
+### Owns
+
+The evaluation of individual measurement items within a scale or assessment.
+
+### Defers
+
+Scale construction, psychometric models, validity, reliability, and substantive construct definition.
+
+## 6. Key Principles
+
+1. Item analysis evaluates how individual items function.
+2. Statistical performance must be balanced with content coverage.
+3. High item similarity can indicate redundancy.
+4. Item quality depends on the intended measurement purpose.
+5. Item analysis does not replace validity evaluation.
+
+---
+
+## 1.2.85 Norm-referenced assessment
+
+## 1. Purpose
+
+Norm-referenced assessment interprets an individual's score relative to a reference group. It is useful when the purpose is comparison among people rather than determining whether a defined criterion has been reached.
+
+## 2. Definition
+
+A norm-referenced assessment interprets performance by comparing an individual's score with the distribution of scores from a defined norm group.
+
+## 3. Core Understanding
+
+### Norm group
+
+The norm group should be appropriately defined and sufficiently comparable to the population for which interpretation is intended.
+
+### Relative standing
+
+Percentiles, standard scores, and other transformations can communicate relative position within the reference distribution.
+
+### Meaning
+
+A high norm-referenced score means relatively high performance compared with the norm group. It does not automatically mean mastery of an external standard.
+
+### Norm updating
+
+Norms can become outdated as populations and distributions change. Assessments may therefore require periodic re-norming.
+
+### Evidence status
+
+Norm-referenced interpretation is an established assessment framework. Validity depends on the appropriateness of the norm group and intended use.
+
+## 4. Relationship to This Chapter
+
+Norm-referenced assessment connects to standard scores, percentiles, psychological measurement, validity, and criterion-referenced assessment.
+
+## 5. Boundaries
+
+### Owns
+
+Interpretation of assessment performance relative to a defined norm group.
+
+### Defers
+
+Criterion-referenced assessment, score transformations, validity, and psychometric models.
+
+## 6. Key Principles
+
+1. Norm-referenced assessment is relative.
+2. The norm group defines the comparison.
+3. Relative standing is not the same as mastery of a criterion.
+4. Norms can become outdated.
+5. Valid interpretation requires an appropriate reference population.
+
+---
+
+## 1.2.86 Criterion-referenced assessment
+
+## 1. Purpose
+
+Criterion-referenced assessment interprets performance against a defined standard or criterion rather than primarily against other people's scores. It is useful when the question concerns whether a specified level of competence or performance has been achieved.
+
+## 2. Definition
+
+A criterion-referenced assessment evaluates performance in relation to a defined criterion, standard, competency, or level of mastery.
+
+## 3. Core Understanding
+
+### Criterion
+
+The criterion must be clearly specified and meaningful for the intended decision.
+
+### Absolute interpretation
+
+A person can meet a criterion even if most others do not, or fail it even if many others also fail. The interpretation is based on the standard rather than relative rank.
+
+### Cut scores
+
+Some assessments use thresholds to classify performance. Cut-score decisions require justification because small score differences near a threshold can have large consequences.
+
+### Norm-referenced contrast
+
+Norm-referenced assessment asks where someone stands relative to a reference group. Criterion-referenced assessment asks whether performance reaches a defined standard.
+
+### Evidence status
+
+Criterion-referenced assessment is an established measurement framework. The validity of a criterion-based decision depends on the quality of the criterion, measure, and decision process.
+
+## 4. Relationship to This Chapter
+
+Criterion-referenced assessment contrasts with norm-referenced assessment and connects to measurement validity, standard setting, and score interpretation.
+
+## 5. Boundaries
+
+### Owns
+
+Interpretation of performance against defined criteria or standards.
+
+### Defers
+
+Norm-referenced assessment, cut-score methods, validity, and substantive competency definitions.
+
+## 6. Key Principles
+
+1. Criterion-referenced assessment is standards-based.
+2. It differs from relative ranking.
+3. Criteria must be meaningful and justified.
+4. Threshold decisions require careful validation.
+5. A criterion score does not automatically imply broader psychological ability.
+
+---
+
+## 1.2.87 Standard scores
+
+## 1. Purpose
+
+Standard scores transform raw scores into a common metric that expresses relative position or standardized distance according to a defined reference distribution.
+
+## 2. Definition
+
+A standard score is a transformed score that expresses an individual's position relative to a reference distribution, commonly by representing distance from a mean in standard-deviation units or another standardized metric.
+
+## 3. Core Understanding
+
+A z score is a common standard score representing the number of standard deviations a value lies above or below the reference mean.
+
+Other systems transform z scores to avoid negative values or decimals, such as T scores or other standardized scales.
+
+### Interpretation
+
+A standard score is meaningful only relative to the reference distribution and transformation used.
+
+### Normative dependence
+
+Changing the norm group can change the standard score even when the individual's raw score remains identical.
+
+### Normalized scores
+
+Some transformed scores are based on an assumption or transformation toward a normal distribution. This should not be confused with the raw data being normally distributed.
+
+### Evidence status
+
+Standard scores are mathematical transformations with established definitions.
+
+## 4. Relationship to This Chapter
+
+Standard scores support norm-referenced assessment and connect to percentiles and psychological measurement.
+
+## 5. Boundaries
+
+### Owns
+
+The concept of transforming raw scores into standardized reference metrics.
+
+### Defers
+
+Percentiles, norm groups, assessment validity, and statistical distributions.
+
+## 6. Key Principles
+
+1. Standard scores express relative position on a defined metric.
+2. Interpretation depends on the reference distribution.
+3. A raw score can map to different standard scores under different norms.
+4. Standardization does not itself establish validity.
+
+---
+
+## 1.2.88 Percentiles
+
+## 1. Purpose
+
+Percentiles communicate relative standing by indicating the proportion of a reference distribution at or below a given score, according to the specified percentile convention.
+
+## 2. Definition
+
+A percentile is a value or rank indicating the relative position of an observation within a reference distribution.
+
+A percentile rank is not the same as a percentage correct.
+
+## 3. Core Understanding
+
+### Relative position
+
+A person at the 80th percentile performed at or above the scores of approximately 80% of the reference group under the relevant definition. It does not mean the person answered 80% of items correctly.
+
+### Distribution dependence
+
+Percentile differences are not equal-interval differences. The distance between the 50th and 60th percentiles may represent a different raw-score change than the distance between the 90th and 100th.
+
+### Reference group
+
+Percentiles are meaningful only relative to the distribution used to calculate them.
+
+### Evidence status
+
+Percentile ranks are established descriptive transformations, but interpretation depends on the reference sample and scoring convention.
+
+## 4. Relationship to This Chapter
+
+Percentiles support norm-referenced assessment and complement standard scores.
+
+## 5. Boundaries
+
+### Owns
+
+Relative-rank interpretation through percentile position.
+
+### Defers
+
+Standard scores, norm groups, distributions, and assessment validity.
+
+## 6. Key Principles
+
+1. Percentiles describe relative standing.
+2. Percentile rank is not percentage correct.
+3. Percentile intervals are not equal-interval measurement.
+4. Percentiles depend on the reference distribution.
+5. The norm group must be appropriate for interpretation.
+
+---
+
+## 1.2.89 Psychometrics
+
+## 1. Purpose
+
+Psychometrics is the scientific field concerned with psychological measurement, including the design, evaluation, interpretation, and modeling of tests and scales.
+
+## 2. Definition
+
+Psychometrics is the scientific study of psychological measurement and assessment, including measurement models, reliability, validity, scale construction, item functioning, latent variables, and related quantitative methods.
+
+## 3. Core Understanding
+
+Psychometrics addresses a central problem: how to make defensible measurements of psychological attributes that are often not directly observable.
+
+### Measurement models
+
+Psychometric models specify assumptions about how observed responses relate to underlying attributes or dimensions.
+
+### Reliability
+
+Psychometrics evaluates consistency and precision using methods appropriate to the instrument and purpose.
+
+### Validity
+
+Psychometric work evaluates whether score interpretations and uses are supported by evidence.
+
+### Scale and item development
+
+Psychometrics provides methods for constructing and evaluating items, scales, and assessments.
+
+### Latent constructs
+
+Many psychometric models represent psychological attributes as latent variables inferred from observed responses.
+
+### Fairness and invariance
+
+Modern psychometrics also considers whether measures operate comparably across relevant groups and contexts.
+
+### Evidence status
+
+Psychometrics is an established scientific field with multiple theoretical traditions and models. No single psychometric method is appropriate for every measurement problem.
+
+## 4. Relationship to This Chapter
+
+Psychometrics is the umbrella Topic for the measurement concepts from 1.2.76 through 1.2.94. It organizes reliability, validity, scale construction, item analysis, score interpretation, and measurement models.
+
+## 5. Boundaries
+
+### Owns
+
+The general scientific field and framework of psychological measurement.
+
+### Defers
+
+Specific psychometric models, reliability forms, validity concepts, item procedures, and individual measures.
+
+## 6. Key Principles
+
+1. Psychometrics studies psychological measurement scientifically.
+2. Measurement requires conceptual and empirical justification.
+3. Reliability and validity answer different questions.
+4. Psychometric models make assumptions that must be evaluated.
+5. Measurement quality is purpose- and population-dependent.
+
+---
+
+## 1.2.90 Classical test theory
+
+## 1. Purpose
+
+Classical test theory provides a foundational measurement model in which an observed score is conceptualized as true-score variation plus measurement error.
+
+## 2. Definition
+
+Classical test theory is a psychometric framework that represents an observed score as a combination of an underlying true score and measurement error.
+
+## 3. Core Understanding
+
+The basic model is commonly represented as X = T + E, where X is observed score, T is true score under the model, and E is error.
+
+### Reliability
+
+Reliability reflects the proportion of observed-score variance attributed to true-score variance under specified assumptions.
+
+### Limits
+
+Classical test theory often treats item characteristics as dependent on the sample and test context, which can limit direct comparability across populations.
+
+### Score interpretation
+
+The true score is a theoretical quantity within the model, not a directly observable perfect value.
+
+### Applications
+
+The framework supports traditional reliability estimation, standard error of measurement, and classical item analysis.
+
+### Evidence status
+
+Classical test theory is an established psychometric framework. It is not the only valid measurement model.
+
+## 4. Relationship to This Chapter
+
+Classical test theory provides one foundation for reliability and measurement error and contrasts conceptually with item response theory.
+
+## 5. Boundaries
+
+### Owns
+
+The classical measurement model and its core assumptions.
+
+### Defers
+
+Item response theory, specific reliability coefficients, validity, and individual instruments.
+
+## 6. Key Principles
+
+1. Observed scores are modeled as true-score component plus error.
+2. Reliability concerns the consistency of observed scores under the model.
+3. True score is theoretical, not directly observed.
+4. Classical test theory has assumptions and limitations.
+5. Alternative measurement models can provide different information.
+
+---
+
+## 1.2.91 Item response theory
+
+## 1. Purpose
+
+Item response theory models how a person's response to an item depends on an underlying latent trait and item characteristics. It provides a more detailed framework for analyzing individual items and how informative they are across levels of a trait.
+
+## 2. Definition
+
+Item response theory, or IRT, is a family of psychometric models that relates responses to individual test items to one or more latent traits and item parameters.
+
+## 3. Core Understanding
+
+### Latent trait
+
+IRT assumes that responses are influenced by an underlying attribute or set of attributes represented in the model.
+
+### Item parameters
+
+Depending on the model, item parameters can represent characteristics such as difficulty, discrimination, and guessing for selected response formats.
+
+### Information
+
+IRT can estimate how much information an item or test provides at different levels of the latent trait.
+
+### Adaptive testing
+
+Because item information can vary across trait levels, IRT can support computer-adaptive testing in appropriate settings.
+
+### Assumptions
+
+IRT models depend on assumptions such as dimensionality and local independence, with additional assumptions varying by model.
+
+### Evidence status
+
+IRT is an established psychometric framework. Model fit and assumptions must be evaluated for the intended data and use.
+
+## 4. Relationship to This Chapter
+
+IRT extends item analysis and contrasts with classical test theory while sharing the broader goal of defensible psychological measurement.
+
+## 5. Boundaries
+
+### Owns
+
+The family of latent-trait item-level measurement models.
+
+### Defers
+
+Classical test theory, factor analysis, validity, and substantive trait definitions.
+
+## 6. Key Principles
+
+1. IRT models responses at the item level.
+2. Item properties can vary in informativeness across trait levels.
+3. Latent traits are model-based representations.
+4. IRT requires assumptions and model evaluation.
+5. IRT is not automatically superior to classical methods for every purpose.
+
+---
+
+## 1.2.92 Factor analysis
+
+## 1. Purpose
+
+Factor analysis examines patterns of covariance among observed variables to identify a smaller number of underlying dimensions or factors that can account for their shared variation.
+
+## 2. Definition
+
+Factor analysis is a family of statistical methods used to model relationships among observed variables in terms of a smaller set of latent factors or dimensions.
+
+## 3. Core Understanding
+
+### Exploratory factor analysis
+
+Exploratory factor analysis investigates plausible factor structures when the dimensional organization is uncertain.
+
+### Confirmatory factor analysis
+
+Confirmatory factor analysis evaluates a specified factor structure against observed data under a formal measurement model.
+
+### Factor loadings
+
+Loadings represent relationships between observed variables and factors under the model. They help interpret which items or measures are associated with each dimension.
+
+### Number of factors
+
+The number of factors should be determined using theory, empirical criteria, model fit, interpretability, and other evidence rather than a single automatic rule.
+
+### Rotation
+
+Rotation can help produce interpretable factor structures. Different rotations make different assumptions about whether factors may correlate.
+
+### Caution
+
+Factor analysis identifies statistical structure; the resulting factors require psychological interpretation. A factor is not automatically a real psychological entity merely because a model identifies it.
+
+### Evidence status
+
+Factor analysis is an established statistical family with multiple models and assumptions.
+
+## 4. Relationship to This Chapter
+
+Factor analysis connects scale construction, item analysis, latent variables, validity, and measurement invariance.
+
+## 5. Boundaries
+
+### Owns
+
+Statistical modeling of shared variance through latent factor structures.
+
+### Defers
+
+Latent-variable interpretation, scale validity, IRT, and substantive psychological constructs.
+
+## 6. Key Principles
+
+1. Factor analysis models covariance patterns.
+2. Exploratory and confirmatory approaches serve different purposes.
+3. Factor solutions require theoretical interpretation.
+4. The number of factors should not be determined mechanically.
+5. Statistical factors are model-based and do not automatically prove psychological entities.
+
+---
+
+## 1.2.93 Latent variables
+
+## 1. Purpose
+
+Latent variables represent theoretical attributes that are not directly observed but are inferred through patterns among observed indicators. They are central to many psychological measurement models.
+
+## 2. Definition
+
+A latent variable is an unobserved theoretical or statistical variable inferred from relationships among observed indicators within a specified model.
+
+## 3. Core Understanding
+
+### Indicators
+
+Observed variables provide information about the latent construct. The relationship between indicators and latent variables is defined by the measurement model.
+
+### Advantages
+
+Latent-variable models can represent common variance while separating some measurement error from the latent estimate under model assumptions.
+
+### Interpretation
+
+A latent variable is not directly observed. Its meaning depends on the theory, indicators, model structure, and identification assumptions.
+
+### Reflective and formative structures
+
+Different models conceptualize relationships among constructs and indicators differently. Researchers should specify the intended measurement structure rather than assuming every construct is represented identically.
+
+### Model dependence
+
+Different indicator sets or models can yield different latent representations. A latent variable is therefore not automatically an objectively discovered entity independent of measurement choices.
+
+### Evidence status
+
+Latent variables are established modeling concepts. Their substantive interpretation requires theoretical and empirical support.
+
+## 4. Relationship to This Chapter
+
+Latent variables connect factor analysis, IRT, psychometrics, constructs, scale construction, and measurement validity.
+
+## 5. Boundaries
+
+### Owns
+
+The general concept of unobserved variables inferred through a measurement model.
+
+### Defers
+
+Specific constructs, factor models, IRT, and validity evidence.
+
+## 6. Key Principles
+
+1. Latent variables are model-based representations of unobserved attributes.
+2. They are inferred from observed indicators.
+3. Their meaning depends on theory and model specification.
+4. Latent modeling does not automatically prove that a construct exists independently of measurement.
+5. Measurement error and model assumptions remain important.
+
+---
+
+## 1.2.94 Measurement invariance
+
+## 1. Purpose
+
+Measurement invariance addresses whether a measurement instrument functions comparably across groups, contexts, or time so that observed differences can be interpreted meaningfully.
+
+## 2. Definition
+
+Measurement invariance is the property that a measurement model or instrument represents the intended construct in sufficiently comparable ways across specified groups, conditions, or occasions.
+
+## 3. Core Understanding
+
+### Why it matters
+
+If an instrument functions differently across groups, a score difference may reflect measurement differences rather than true differences in the construct.
+
+### Levels
+
+Common levels include configural invariance, metric invariance, and scalar invariance, with additional forms possible depending on the model and research question.
+
+### Partial invariance
+
+Perfect invariance is not always necessary for every inference. Partial invariance can sometimes support specific comparisons when enough measurement structure remains comparable.
+
+### Time
+
+Longitudinal comparisons may require invariance across occasions so that apparent change is not simply measurement change.
+
+### Fair comparison
+
+Invariance is especially important when comparing populations that differ in language, culture, age, gender, education, or other characteristics, but the relevant groups should be defined by the measurement question rather than assumed categories.
+
+### Evidence status
+
+Measurement invariance is an established psychometric concept. Its evaluation depends on the measurement model, indicators, sample, and intended comparison.
+
+## 4. Relationship to This Chapter
+
+Measurement invariance closes the Psychometrics section by connecting validity, latent variables, longitudinal design, and cross-group comparison.
+
+## 5. Boundaries
+
+### Owns
+
+The comparability of measurement functioning across specified groups, contexts, or time.
+
+### Defers
+
+Validity, factor analysis, latent variables, fairness decisions, and substantive group differences.
+
+## 6. Key Principles
+
+1. Measurement invariance asks whether scores are comparable across specified conditions.
+2. Without adequate invariance, group or time comparisons can be misleading.
+3. Different levels of invariance support different interpretations.
+4. Invariance is model- and purpose-dependent.
+5. Measurement differences must be distinguished from psychological differences.
