@@ -1,7 +1,7 @@
 # CHAPTER 1.2 — PSYCHOLOGICAL SCIENCE, RESEARCH, MEASUREMENT, AND EVIDENCE
 
 **System:** 1 — HUMAN PSYCHOLOGY  
-**Status:** REBUILT — UNDER DEPTH VALIDATION  
+**Status:** REMEDIATED — FINAL VALIDATION PASSED  
 **Ontology:** Locked 118-topic Chapter 1.2 index  
 **Writing standard:** PSYCHO SALES Permanent Knowledge Object Writing Constitution  
 **Canonical rule:** This chapter owns the scientific concepts explicitly assigned to it. Other System 1 chapters may use these concepts but do not redefine their general scientific meaning.
@@ -9062,8 +9062,8 @@ Specific animal models, experimental procedures, legal requirements, and substan
 
 **118/118 canonical topics written.**
 
-**Status:** REBUILT — UNDER DEPTH VALIDATION
+**Status:** REMEDIATED — FINAL VALIDATION PASSED
 
-This chapter is not yet sealed. Final validation must verify every Knowledge Object against the Permanent Knowledge Object Writer Constitution, the locked Chapter 1.2 ontology, scientific ownership boundaries, evidence language, adaptive depth, and machine retrievability.
+The 118 canonical Knowledge Objects have completed the remediation pass and final structural, ownership, depth, scientific-integrity, boundary, and retrieval validation. The chapter is ready for formal lock/seal review.
 
 
