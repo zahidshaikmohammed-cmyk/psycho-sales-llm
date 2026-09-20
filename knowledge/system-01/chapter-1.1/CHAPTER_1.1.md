@@ -1,7 +1,7 @@
 # CHAPTER 1.1 — FOUNDATIONS AND ARCHITECTURE OF HUMAN PSYCHOLOGY
 
 **System:** 1 — HUMAN PSYCHOLOGY
-**Status:** LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 1.0
+**Status:** REVISION IN PROGRESS — OWNERSHIP REMEDIATION
 **Ontology:** Locked 57-topic Chapter 1.1 index
 **Writing standard:** PSYCHO SALES Permanent Knowledge Object Writing Constitution
 **Validation:** 57/57 canonical Topics; six-section structure validated; ownership boundaries validated; adaptive-depth audit completed
@@ -201,6 +201,37 @@ Mental processes, cognition, emotion, motivation, learning, action as a distinct
 ---
 
 ## 1.1.3 Mental processes
+
+## 1. Purpose
+Defines the broad category of internal psychological activity.
+
+## 2. Definition
+Mental processes are temporally organized psychological activities through which a person or organism detects, selects, interprets, transforms, maintains, evaluates, generates, or uses information, experience, goals, and other mental contents. The category includes perception, attention, memory, learning, reasoning, emotion-related processing, motivation, and self-regulation without implying one common mechanism.
+
+## 3. Core Understanding
+Mental processes are activities rather than static entities. They may be conscious, partly conscious, or nonconscious; rapid or prolonged; automatic or controlled. They interact with mental states, contents, behavior, and context. A process is often inferred from converging indicators rather than directly observed, so an observed behavior or report should not simply be equated with the process that produced it.
+
+The same process can produce different behavior in different contexts, while the same behavior can arise from different processes.
+
+**Boundary:** this Topic owns the category of internal psychological activity. It does not own the operation-level transformation concept in 1.1.27, the representational structure in 1.1.30, or specialized thinking processes in Chapter 1.3.
+
+**Evidence status:** the process/state/content distinction is foundational; claims about particular mechanisms require evidence appropriate to the specific process.
+
+## 4. Relationship to This Chapter
+Provides the broad process category linking states, contents, functions, mechanisms, processing, representation, interpretation, evaluation, response selection, and self-regulation.
+
+## 5. Boundaries
+### Owns
+The general category of internal psychological activity and its distinction from states and contents.
+
+### Defers
+Specific processing operations to 1.1.27; representation to 1.1.30; specialized thinking processes to Chapter 1.3.
+
+## 6. Key Principles
+- Mental processes are internal activities, not static objects.
+- They may operate with or without conscious awareness.
+- Process, state, and content are distinct.
+- Specific processes require their own definitions and evidence.
 
 ## 1. Purpose
 Mental processes need a distinct Knowledge Object because human psychology cannot be reduced to observable behavior. People perceive, remember, attend, interpret, evaluate, imagine, reason, feel, and regulate before, during, and after behavior. A clear concept of mental processes provides the bridge between observable activity and the internal operations studied across the rest of System 1.
@@ -1197,6 +1228,37 @@ Specific sensory stimuli, conditioned stimuli, social cues, and attentional sign
 ## 1.1.27 Psychological processing
 
 ## 1. Purpose
+Defines the operation-level concept of transformation within psychological activity.
+
+## 2. Definition
+Psychological processing is the transformation, organization, integration, updating, comparison, retrieval, evaluation, or use of psychologically relevant information, representations, or experience during ongoing psychological activity.
+
+## 3. Core Understanding
+Processing describes **what happens to information or representations**, rather than the broader fact that a mental process exists. It can be sequential, parallel, recursive, or interactive. Feedback can alter later processing, and changed interpretations can alter subsequent selection.
+
+The term is functional: describing a processing operation does not by itself establish its biological implementation.
+
+**Boundary:** 1.1.3 Mental processes owns the broad category of internal activity. 1.1.27 owns transformation/operation within that activity. 1.1.30 owns representational structure.
+
+**Evidence status:** specific processing mechanisms are empirical or theoretical claims and require evidence capable of distinguishing them from alternatives.
+
+## 4. Relationship to This Chapter
+Connects stimulus, information selection, interpretation, representation, evaluation, response selection, feedback, and self-regulation through transformations among them.
+
+## 5. Boundaries
+### Owns
+Operation-level psychological information transformation and organization.
+
+### Defers
+The broad process category to 1.1.3; representation to 1.1.30; specialized cognitive processing to Chapter 1.3.
+
+## 6. Key Principles
+- Processing concerns transformation or organization.
+- Processing is narrower than the general process category.
+- Functional processing does not specify neural implementation.
+- Processing can be iterative and context-sensitive.
+
+## 1. Purpose
 Psychological processing describes the transformations that occur between input and output. It is essential for understanding why people do not simply react mechanically to events.
 
 ## 2. Definition
@@ -1315,6 +1377,35 @@ Perceptual organization, appraisal, attribution, belief updating, and social int
 ---
 
 ## 1.1.30 Representation
+
+## 1. Purpose
+Defines the foundational psychological concept of internal representation.
+
+## 2. Definition
+A psychological representation is an internal format, structure, or content through which information about an object, event, relation, state, possibility, or other psychologically relevant entity is available for processing.
+
+## 3. Core Understanding
+Representations may be perceptual, conceptual, propositional, spatial, verbal, imagistic, procedural, or mixed. They can be incomplete, distorted, context-dependent, and dynamically updated; they need not be literal copies of external reality.
+
+Representation is distinct from processing: the representation is the internally available structure or content, while processing is what the system does with it. It is also distinct from the external object represented.
+
+**Evidence status:** internal representation is central to many psychological theories, while exact representational formats and implementations remain theory- and task-dependent.
+
+## 4. Relationship to This Chapter
+Provides the foundational representational concept supporting selection, interpretation, processing, evaluation, and action.
+
+## 5. Boundaries
+### Owns
+The general psychological concept of internal representation.
+
+### Defers
+Specific domain representations, including problem representation and the thinking-specific treatment in 1.3.8.
+
+## 6. Key Principles
+- Representation makes information psychologically available in some internal form.
+- Representation is distinct from processing.
+- Representations can be partial and revisable.
+- Exact format depends on function and theoretical framework.
 
 ## 1. Purpose
 Representation explains how information about objects, events, people, goals, and abstract ideas can be maintained or operated on within psychological systems. It is essential for understanding cognition without assuming that the mind simply stores exact copies of reality.
