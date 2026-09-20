@@ -1915,14 +1915,14 @@ System 1 supplies universal mechanisms to these systems; it does not absorb thei
 The v2 architecture contains:
 
 - **21 chapters**
-- **1,347 chapter architecture entries**
+- **1,364 chapter architecture entries**
 - **29 model-registry entries**
 - **18 explicit cross-chapter relationship links**
 - **14 application-boundary entries**
 
 After canonical ownership resolution, relationship/application entries and duplicate aliases are excluded from the independent-owner count.
 
-### FINAL CANONICAL OWNER COUNT: 1,267
+### FINAL CANONICAL OWNER COUNT: 1,284
 
 This count is the count of independently owned canonical knowledge objects, not the raw number of visible bullets.
 
