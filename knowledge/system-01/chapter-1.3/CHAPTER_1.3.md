@@ -3,7 +3,7 @@
 **System:** 1 — Human Psychology  
 **Chapter:** 1.3 — The Dynamics of Human Thinking  
 **Ontology Status:** LOCKED — 70 canonical topics  
-**Knowledge Status:** CANONICAL KNOWLEDGE — INITIAL COMPLETE WRITING
+**Knowledge Status:** LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 1.0
 
 > This chapter explains human thinking as a set of interacting cognitive processes through which people represent information, transform it, reason, judge, decide, solve problems, simulate possibilities, anticipate outcomes, and generate new conclusions. It describes universal psychological processes without redefining them through downstream sales applications.
 
@@ -3077,7 +3077,7 @@ The underlying forms of thinking to their canonical Topics and broader dual-proc
 
 Chapter 1.3 — The Dynamics of Human Thinking contains the complete locked 70-topic ontology from 1.3.1 through 1.3.70.
 
-The chapter preserves the canonical topic sequence exactly and uses the permanent six-section Knowledge Object structure throughout.
+The chapter preserves the canonical topic sequence exactly and uses the permanent six-section Knowledge Object structure throughout. The chapter has been formally validated and sealed as canonical knowledge version 1.0.
 
 Universal psychological knowledge is kept distinct from downstream sales application. Concepts owned elsewhere are deferred rather than duplicated.
 
