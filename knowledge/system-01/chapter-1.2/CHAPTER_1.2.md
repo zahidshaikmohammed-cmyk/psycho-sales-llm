@@ -498,3 +498,324 @@ Theory construction, individual hypotheses, predictions, specific psychological 
 4. A theory has a scope and boundary conditions.
 5. Theories remain open to refinement when evidence changes.
 6. Calling something a theory does not mean every claim within it is equally established.
+
+
+---
+
+## 1.2.6 Theory construction
+
+## 1. Purpose
+
+Theory construction concerns how scientific explanations are deliberately built from concepts, observations, existing knowledge, assumptions, and testable relationships. It matters because a theory is not simply discovered as a finished object; researchers define its concepts, specify relationships, identify mechanisms, state boundaries, and expose its claims to empirical evaluation.
+
+## 2. Definition
+
+Theory construction is the systematic development of a coherent explanatory framework by defining concepts, specifying relationships among them, identifying mechanisms or assumptions, establishing scope and boundary conditions, and generating propositions that can be examined with evidence.
+
+**What it is not:** theory construction is not the act of inventing an attractive story and treating it as established knowledge. A constructed theory remains an explanatory proposal until its claims receive appropriate empirical evaluation.
+
+## 3. Core Understanding
+
+### Concept specification
+
+A theory begins with concepts that are sufficiently clear to distinguish them from neighboring concepts. Ambiguous concepts make later testing difficult because different researchers may interpret the same theoretical statement differently.
+
+### Relationship specification
+
+A theory must state how its concepts are related. Relationships may describe association, sequence, moderation, mediation, reciprocal influence, or proposed causation. The wording should match the intended claim.
+
+### Mechanism
+
+Mechanisms explain how or through what process one condition could produce or influence another. A mechanism should not be treated as established merely because it makes a theory intuitively appealing.
+
+### Boundary conditions
+
+A useful theory states where it should apply and where it may not. Boundary conditions can involve population, context, time, intensity, developmental stage, or other conditions.
+
+### Derivation of predictions
+
+Theoretical propositions become scientifically useful when they imply observations that could support or challenge them. A theory that can accommodate every possible result without restriction has limited empirical discriminability.
+
+### Iteration
+
+Theory construction is often iterative. Evidence can reveal unclear definitions, missing variables, incorrect assumptions, unexpected moderators, or competing mechanisms. The theory can then be refined and retested.
+
+### Evidence status
+
+Theory construction is a scientific reasoning activity. The quality of a constructed theory depends on conceptual coherence, empirical adequacy, explanatory usefulness, predictive implications, and the quality of evidence used to evaluate it.
+
+## 4. Relationship to This Chapter
+
+Theory construction is the process-level companion to Scientific theory. It explains how theoretical frameworks are developed and refined, while neighboring Topics address hypotheses, predictions, explanation, falsifiability, and evidence.
+
+## 5. Boundaries
+
+### Owns
+
+The general process of constructing and refining scientific theories.
+
+### Defers
+
+The completed theory itself, individual hypotheses, statistical tests, research designs, and specific psychological constructs.
+
+## 6. Key Principles
+
+1. Theory construction requires clear concepts and explicit relationships.
+2. A theory should have identifiable scope and boundary conditions.
+3. Mechanisms are proposals until appropriately supported.
+4. Good theories generate testable implications.
+5. Theories can be revised when evidence exposes weaknesses or new conditions.
+
+---
+
+## 1.2.7 Hypothesis
+
+## 1. Purpose
+
+A hypothesis provides a focused, testable proposition within scientific inquiry. It converts part of a broader research question or theory into a claim that can be compared with observations.
+
+## 2. Definition
+
+A hypothesis is a specific, empirically testable proposition about an expected relationship, difference, association, pattern, or outcome under stated conditions.
+
+A hypothesis is narrower than a scientific theory. It is a proposition to be evaluated, not a conclusion that has already been established.
+
+## 3. Core Understanding
+
+### Testability
+
+A scientific hypothesis must connect to observations that could provide evidence for or against it. A statement that cannot be meaningfully evaluated by evidence is not a useful empirical hypothesis.
+
+### Direction and specificity
+
+A hypothesis may specify that two variables are related, that one condition produces a difference in an outcome, or that a particular pattern should occur. More specific hypotheses can provide stronger tests when their assumptions are justified.
+
+### Null and alternative formulations
+
+Statistical testing often distinguishes a null hypothesis from an alternative hypothesis. These are analytical formulations and should not be confused with the complete scientific meaning of the research hypothesis.
+
+### Deduction from theory
+
+Hypotheses can be derived from theories, prior findings, or observations. A theory can generate multiple hypotheses, allowing separate empirical tests of its propositions.
+
+### Exploratory hypotheses
+
+Researchers can develop hypotheses after exploring data, but such hypotheses should not automatically be described as though they were specified before seeing the same data. This distinction connects directly to HARKing and researcher degrees of freedom later in the chapter.
+
+### Evidence status
+
+A hypothesis is a proposition under investigation. Its status changes as evidence accumulates, but a single statistical result does not automatically establish a broad hypothesis in every context.
+
+## 4. Relationship to This Chapter
+
+Hypothesis links theory construction with prediction, research design, statistical inference, and evidence. It is one of the principal units through which theoretical claims become empirically testable.
+
+## 5. Boundaries
+
+### Owns
+
+The general scientific concept of a testable research proposition.
+
+### Defers
+
+Scientific theory, prediction as an expected observable outcome, statistical significance, causal inference, and the substantive psychological constructs named in a hypothesis.
+
+## 6. Key Principles
+
+1. A hypothesis is a testable proposition.
+2. It is narrower than a theory.
+3. A hypothesis must connect to observable evidence.
+4. The evidential status of a hypothesis depends on appropriate testing and replication.
+5. Exploratory discoveries should not be presented as preregistered predictions when they were not.
+
+---
+
+## 1.2.8 Prediction
+
+## 1. Purpose
+
+Prediction identifies what a scientific framework expects to observe under specified conditions. It is important because scientific claims become more informative when they generate expectations that can be checked against evidence.
+
+## 2. Definition
+
+A prediction is a specific expected observation, outcome, pattern, or event derived from a hypothesis, theory, model, or empirical relationship under stated conditions.
+
+Prediction concerns what is expected to occur. Explanation concerns why it occurs. The two can support one another but are not identical.
+
+## 3. Core Understanding
+
+### Derivation
+
+Predictions can be derived from theories, models, hypotheses, statistical relationships, or prior empirical patterns. The strength of the prediction depends on the quality of the underlying evidence and assumptions.
+
+### Conditional nature
+
+A scientific prediction normally has conditions. It may depend on a particular population, manipulation, context, measurement, time period, or range of values. Removing those conditions can make a scientifically justified prediction appear more general than it is.
+
+### Prediction versus explanation
+
+A model may predict an outcome accurately without identifying the true causal mechanism. Conversely, an explanatory theory can be useful even when precise prediction is difficult because the phenomenon contains substantial variation or depends on poorly measured conditions.
+
+### Quantitative prediction
+
+Some models generate numerical predictions or probability distributions. These predictions can be compared with observed values using appropriate statistical methods.
+
+### Unexpected results
+
+A failed prediction is informative but not automatically decisive. Researchers must examine measurement quality, assumptions, implementation, sampling, statistical uncertainty, and competing explanations before concluding what failed.
+
+### Evidence status
+
+Prediction is a scientific function rather than an empirical claim. The reliability of a particular prediction depends on the model, evidence, conditions, and uncertainty involved.
+
+## 4. Relationship to This Chapter
+
+Prediction connects hypothesis and theory to empirical testing. It also provides a bridge to falsifiability because a prediction must be sufficiently constrained for evidence to distinguish among outcomes.
+
+## 5. Boundaries
+
+### Owns
+
+The general concept of expected observable outcomes derived from scientific propositions or models.
+
+### Defers
+
+Hypotheses, theories, statistical models, causal mechanisms, and empirical findings used to generate or evaluate predictions.
+
+## 6. Key Principles
+
+1. A prediction specifies an expected observation under conditions.
+2. Prediction is not identical to explanation.
+3. Predictions inherit limitations from their underlying models and evidence.
+4. Failed predictions require analysis rather than automatic rejection of an entire theory.
+5. Clear conditions make scientific predictions more interpretable.
+
+---
+
+## 1.2.9 Description
+
+## 1. Purpose
+
+Description establishes what occurs before scientists attempt to explain why it occurs. Accurate description is foundational because an incorrect or vague account of the phenomenon cannot support a reliable explanation.
+
+## 2. Definition
+
+Description is the systematic characterization of a phenomenon, pattern, behavior, population, experience, variable, or change without necessarily specifying its underlying cause or mechanism.
+
+## 3. Core Understanding
+
+### What description can establish
+
+Description can identify frequencies, distributions, patterns, sequences, characteristics, experiences, and changes over time. It can answer questions such as what happens, how often it happens, for whom, when, and under what observed conditions.
+
+### Measurement dependence
+
+Description depends on measurement. A description is only as precise as the operationalization and data collection supporting it. Poorly defined variables can produce misleading descriptions even when the analysis is technically correct.
+
+### Descriptive versus explanatory claims
+
+"People in this sample reported higher anxiety after the event" is descriptive. "The event caused anxiety by increasing perceived threat" is explanatory and potentially causal. The second claim requires evidence beyond the descriptive observation.
+
+### Descriptive statistics
+
+Descriptive statistics summarize observed data using quantities such as means, medians, proportions, ranges, and distributions. They describe the data rather than automatically establishing population-level causal claims.
+
+### Value of description
+
+Description can reveal previously unrecognized patterns, define populations, generate hypotheses, establish baselines, and identify changes that require explanation.
+
+### Evidence status
+
+A descriptive claim can be strong when the phenomenon is measured well and the sampling and observation procedures are appropriate. Its strength does not automatically extend to causal explanation.
+
+## 4. Relationship to This Chapter
+
+Description is one of the fundamental functions of science and provides the empirical base for explanation and prediction. It connects directly to observational research, survey research, descriptive statistics, and generalizability.
+
+## 5. Boundaries
+
+### Owns
+
+The scientific function of systematically characterizing what is observed.
+
+### Defers
+
+Explanation, causal inference, statistical modeling, and the psychological phenomena being described.
+
+## 6. Key Principles
+
+1. Description answers what, who, when, where, and how much questions.
+2. Description does not automatically explain cause.
+3. Good description requires clear measurement.
+4. Descriptive evidence can generate important hypotheses.
+5. Explanatory claims require additional evidence.
+
+---
+
+## 1.2.10 Explanation
+
+## 1. Purpose
+
+Explanation addresses why a phenomenon occurs, through what processes it occurs, or under what conditions it can be understood. It is a central scientific function because describing a pattern alone does not identify the mechanisms or relationships responsible for it.
+
+## 2. Definition
+
+Scientific explanation is an evidence-supported account of why or how a phenomenon occurs, typically by identifying relevant conditions, relationships, mechanisms, processes, or structures that account for observed patterns.
+
+An explanation can be causal, mechanistic, functional, statistical, or theoretical depending on the scientific question. Not every explanation is a claim that one variable directly causes another.
+
+## 3. Core Understanding
+
+### Explanatory structure
+
+An explanation connects observations to a proposed account. It may specify antecedent conditions, mechanisms, processes, consequences, or relationships that make the phenomenon intelligible.
+
+### Mechanistic explanation
+
+A mechanistic explanation identifies the processes through which a phenomenon is generated. It can be especially useful when a causal claim requires understanding intermediate steps.
+
+### Causal explanation
+
+A causal explanation claims that changing one condition would change an outcome under specified conditions. Such claims require evidence capable of addressing alternative explanations and the causal structure of the problem.
+
+### Functional explanation
+
+Some psychological phenomena can be described in terms of what they accomplish or how they contribute to functioning without claiming that the function itself is the immediate cause of the phenomenon. Functional language therefore needs careful interpretation.
+
+### Statistical explanation
+
+A statistical model can explain variation by representing systematic relationships among variables. Statistical association is not automatically a complete causal explanation.
+
+### Explanation versus description
+
+A description establishes a pattern. An explanation proposes why the pattern exists. The distinction is essential for preventing observations from being mistaken for mechanisms.
+
+### Competing explanations
+
+The same pattern can sometimes be explained by multiple mechanisms. Strong research designs, measurement, prediction, and converging evidence help distinguish among alternatives.
+
+### Evidence status
+
+Explanations vary in evidential support. A plausible mechanism is not equivalent to an established mechanism. Explanatory confidence should track the quality, convergence, and relevance of evidence.
+
+## 4. Relationship to This Chapter
+
+Explanation connects scientific theory, inference, research design, causal inference, and evidence. It provides the central reason researchers need more than description and statistical association.
+
+## 5. Boundaries
+
+### Owns
+
+The general scientific function of accounting for why or how phenomena occur.
+
+### Defers
+
+Specific causal models, mechanisms, theories, statistical procedures, and psychological constructs being explained.
+
+## 6. Key Principles
+
+1. Explanation addresses why or how a phenomenon occurs.
+2. Explanation can be causal, mechanistic, functional, statistical, or theoretical.
+3. Plausibility is not the same as empirical support.
+4. Causal explanations require evidence appropriate to causal claims.
+5. Competing explanations must be considered when multiple mechanisms can produce the same observation.
