@@ -2,7 +2,7 @@
 
 **Chapter:** 1.3 — The Dynamics of Human Thinking  
 **System:** 1 — Human Psychology  
-**Status:** FINAL VALIDATION PASSED — READY FOR SEAL
+**Status: SUPERSEDED BY CROSS-CHAPTER OWNERSHIP REMEDIATION
 
 ## Ontology Validation
 
@@ -70,3 +70,8 @@ The chapter uses stable numbered headings and explicit section labels so that hu
 Chapter 1.3 satisfies the structural requirements of the Permanent Knowledge Object Writer Constitution and is ready for formal canonical sealing.
 
 **Simple on the surface. Deep underneath. Precise throughout.**
+
+
+## Supersession Note
+
+This validation record describes the pre-remediation state. It is retained as historical validation evidence. Final resealing requires a new post-remediation validation pass across Chapters 1.1, 1.2, and 1.3.
