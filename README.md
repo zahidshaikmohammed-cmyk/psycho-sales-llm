@@ -640,7 +640,8 @@ psycho-sales-llm/
 ├── README.md
 │
 ├── constitution/
-│   └── CANONICAL_KNOWLEDGE_CONSTITUTION.md
+│   ├── CANONICAL_KNOWLEDGE_CONSTITUTION.md
+│   └── PERMANENT_KNOWLEDGE_OBJECT_WRITER_CONSTITUTION.md
 │
 ├── architecture/
 │   ├── MASTER_SYSTEM_ARCHITECTURE.md
@@ -667,6 +668,46 @@ psycho-sales-llm/
 ```
 
 The knowledge directories will be populated only after their corresponding ontologies pass audit.
+
+---
+
+# PERMANENT WRITER CONSTITUTION
+
+The following file is the **mandatory, locked writing constitution for every PSYCHO SALES Knowledge Object**:
+
+**[PERMANENT_KNOWLEDGE_OBJECT_WRITER_CONSTITUTION.md](constitution/PERMANENT_KNOWLEDGE_OBJECT_WRITER_CONSTITUTION.md)**
+
+This constitution is authoritative for all writers and writing agents, including:
+
+- ChatGPT;
+- Claude;
+- other AI systems;
+- human writers;
+- future contributors.
+
+### Mandatory rule
+
+**Every writer must follow the constitution exactly.**
+
+No writer may:
+
+- invent a different permanent writing structure;
+- add permanent sections;
+- remove permanent sections;
+- change the section order;
+- redefine the writing standard;
+- dilute the ownership rules;
+- introduce unnecessary depth;
+- contaminate universal psychology with sales framing;
+- override the constitution because another format appears more convenient.
+
+For every Knowledge Object, the constitution is the **source of truth for writing format, depth control, ownership protection, scientific language, retrieval design, and final quality validation**.
+
+The constitution must be read and followed **before writing begins**.
+
+If another instruction conflicts with this permanent writing constitution, the conflict must be resolved explicitly rather than silently drifting from the locked format.
+
+The constitution may be changed only through a deliberate, versioned project-level decision. It must never be changed implicitly during topic writing.
 
 ---
 
