@@ -5837,3 +5837,449 @@ Validity, factor analysis, latent variables, fairness decisions, and substantive
 3. Different levels of invariance support different interpretations.
 4. Invariance is model- and purpose-dependent.
 5. Measurement differences must be distinguished from psychological differences.
+
+---
+## 1.2.95 Preregistration
+
+## 1. Purpose
+
+Preregistration records important aspects of a research plan before researchers inspect the outcome data in the way that could influence their decisions. It can reduce ambiguity between planned and post hoc analyses.
+
+## 2. Definition
+
+Preregistration is the public or otherwise time-stamped specification of research questions, hypotheses, design, measures, analysis plans, or other study decisions before the relevant results are known.
+
+## 3. Core Understanding
+
+Preregistration can specify hypotheses, primary outcomes, exclusion criteria, sample size rules, analysis models, stopping rules, and other decisions.
+
+### Confirmatory transparency
+
+Preregistration helps distinguish analyses planned before seeing results from analyses developed after observing data.
+
+### Not a guarantee
+
+A preregistered study can still have poor measurement, weak design, inadequate power, or incorrect assumptions. Registration improves transparency; it does not automatically improve scientific quality.
+
+### Exploratory work
+
+Exploration remains scientifically useful. Exploratory analyses should be identified as exploratory rather than relabeled as preregistered confirmation.
+
+### Amendments
+
+Plans may sometimes need legitimate changes. Transparent documentation of deviations preserves the distinction between original plans and later decisions.
+
+### Evidence status
+
+Preregistration is an open-science practice designed to reduce selective flexibility and improve interpretability.
+
+## 4. Relationship to This Chapter
+
+Preregistration connects directly to researcher degrees of freedom, HARKing, p-hacking, selective reporting, and open science.
+
+## 5. Boundaries
+
+### Owns
+
+The practice of recording research plans before outcome-dependent decisions.
+
+### Defers
+
+Registered reports, selective reporting, specific hypotheses, and statistical methods.
+
+## 6. Key Principles
+
+1. Preregistration distinguishes planned from post hoc decisions.
+2. It can improve transparency.
+3. It does not guarantee good science.
+4. Deviations can be legitimate when transparently reported.
+5. Exploratory findings should remain identifiable as exploratory.
+
+---
+
+## 1.2.96 Registered reports
+
+## 1. Purpose
+
+Registered reports separate evaluation of a research question and proposed method from the later results. They are designed to reduce publication incentives based primarily on whether findings are statistically positive.
+
+## 2. Definition
+
+A registered report is a publication format in which a research proposal is peer reviewed before data collection or outcome analysis, with publication decisions made partly on the basis of the question and methodology rather than only the eventual results.
+
+## 3. Core Understanding
+
+The process commonly includes an initial protocol review followed, when accepted, by data collection and a later report.
+
+### Benefit
+
+Pre-result review can reduce incentives to change hypotheses, analyses, or outcomes in response to findings and can make null or unexpected results more publishable.
+
+### Limitations
+
+Registered reports do not eliminate all methodological problems. Designs can still be weak, implementation can deviate from plans, and some research questions are exploratory or difficult to preregister completely.
+
+### Difference from preregistration
+
+Preregistration records a plan. A registered report is a publication process involving peer review and a commitment structure around the planned study.
+
+### Evidence status
+
+Registered reports are an established open-science publication practice.
+
+## 4. Relationship to This Chapter
+
+Registered reports build on preregistration and address researcher degrees of freedom, selective reporting, and publication bias.
+
+## 5. Boundaries
+
+### Owns
+
+The publication format involving pre-data peer review and result-independent publication commitment.
+
+### Defers
+
+Preregistration, peer review, publication bias, and the substantive research question.
+
+## 6. Key Principles
+
+1. Registered reports review methods before outcome data are known.
+2. They differ from preregistration.
+3. They can reduce outcome-dependent publication incentives.
+4. They do not guarantee methodological quality.
+5. Exploratory research can still require flexible approaches.
+
+---
+
+## 1.2.97 Researcher degrees of freedom
+
+## 1. Purpose
+
+Researcher degrees of freedom describe the legitimate or discretionary choices researchers can make during a study and analysis. Unreported flexibility can increase the chance of obtaining apparently strong findings by chance.
+
+## 2. Definition
+
+Researcher degrees of freedom are the choices available to researchers concerning design, measurement, exclusions, data processing, statistical models, outcomes, stopping rules, and reporting that can affect results.
+
+## 3. Core Understanding
+
+Flexibility is not inherently unethical or harmful. Scientific research often requires judgment. The problem arises when many possible choices are tried and only favorable results are presented without transparent accounting.
+
+### Examples
+
+Choices can include when to stop collecting data, which participants to exclude, which outcome to emphasize, which transformation to use, which covariates to include, or which subgroup to analyze.
+
+### Transparency
+
+Preregistration, transparent reporting, sharing analysis code where appropriate, and distinguishing exploratory from confirmatory analyses can make flexibility more visible.
+
+### Relation to p-hacking
+
+P-hacking is one possible consequence of exploiting analytic flexibility to obtain desirable significance results. Degrees of freedom are broader than p-hacking.
+
+### Evidence status
+
+Researcher degrees of freedom are a recognized methodological issue in reproducibility and false-positive research.
+
+## 4. Relationship to This Chapter
+
+This Topic links open-science practices with p-hacking, HARKing, selective reporting, and preregistration.
+
+## 5. Boundaries
+
+### Owns
+
+The concept of discretionary research choices that can influence results.
+
+### Defers
+
+P-hacking, HARKing, preregistration, and publication bias.
+
+## 6. Key Principles
+
+1. Research often contains legitimate analytic flexibility.
+2. Unreported flexibility can distort evidential interpretation.
+3. Transparency helps distinguish planned and exploratory choices.
+4. Degrees of freedom are broader than p-hacking.
+5. Flexibility should be documented rather than hidden.
+
+---
+
+## 1.2.98 P-hacking
+
+## 1. Purpose
+
+P-hacking describes practices in which researchers exploit analytic flexibility or repeated testing to obtain statistically significant results, intentionally or unintentionally. It matters because the resulting p-values can no longer have the error properties assumed for a single prespecified test.
+
+## 2. Definition
+
+P-hacking is the use of data-analysis flexibility, repeated testing, selective stopping, outcome selection, or related practices in ways that increase the likelihood of obtaining a desirable p-value without transparently accounting for the resulting multiplicity.
+
+## 3. Core Understanding
+
+P-hacking can involve trying many outcomes, subgroups, exclusions, transformations, models, or stopping points and reporting only the favorable result.
+
+### Why it matters
+
+If many analyses are explored, at least one can appear statistically significant by chance even when the underlying null hypotheses are true.
+
+### Intent
+
+P-hacking does not require conscious fraud. Flexible decisions can accumulate through ordinary analytic experimentation if the final report hides how many alternatives were considered.
+
+### Prevention
+
+Preregistration, transparent reporting, correction for multiple comparisons, independent replication, and clear distinction between exploratory and confirmatory analyses can reduce risk.
+
+### Evidence status
+
+P-hacking is a recognized methodological threat to statistical inference and reproducibility.
+
+## 4. Relationship to This Chapter
+
+P-hacking connects researcher degrees of freedom, Type I error, multiple comparisons, selective reporting, and preregistration.
+
+## 5. Boundaries
+
+### Owns
+
+The methodological problem of exploiting or accumulating analytic flexibility to obtain favorable statistical significance.
+
+### Defers
+
+Researcher degrees of freedom, multiple-comparison procedures, publication bias, and scientific misconduct as a broader category.
+
+## 6. Key Principles
+
+1. P-hacking exploits analytic flexibility to increase favorable statistical results.
+2. It can occur without deliberate fraud.
+3. Multiple testing is a major mechanism.
+4. Transparent exploratory analysis reduces misleading interpretation.
+5. A small p-value is less informative when the analysis process was highly flexible and undisclosed.
+
+---
+
+## 1.2.99 HARKing
+
+## 1. Purpose
+
+HARKing addresses the practice of presenting a hypothesis developed after observing data as though it had been specified before the data were examined. It affects how readers interpret the evidential status of a finding.
+
+## 2. Definition
+
+HARKing, or hypothesizing after the results are known, is the presentation of a post hoc hypothesis as if it had been predicted before observing the relevant data.
+
+## 3. Core Understanding
+
+### Discovery versus confirmation
+
+Post hoc pattern discovery can be scientifically useful. The problem is not generating hypotheses after seeing data; it is misrepresenting their temporal origin.
+
+### Evidential consequences
+
+A hypothesis generated from the same data used to support it is not equivalent to a genuinely prospective prediction. The distinction affects how surprising the finding was and therefore how strongly it tests the theory.
+
+### Transparency
+
+Researchers can preserve the value of exploratory findings by labeling them as exploratory and testing them in new data when confirmation is needed.
+
+### Relation to preregistration
+
+Preregistration can document planned hypotheses before data analysis, making deviations and post hoc discoveries easier to identify.
+
+### Evidence status
+
+HARKing is a recognized reporting and inference problem.
+
+## 4. Relationship to This Chapter
+
+HARKing connects directly to hypotheses, preregistration, researcher degrees of freedom, p-hacking, and selective reporting.
+
+## 5. Boundaries
+
+### Owns
+
+The misrepresentation of post hoc hypotheses as a priori predictions.
+
+### Defers
+
+Hypothesis generation generally, preregistration, p-hacking, and publication bias.
+
+## 6. Key Principles
+
+1. Discovering a hypothesis after seeing data is not inherently wrong.
+2. Presenting it as preregistered or prospective is misleading.
+3. Exploratory findings can generate valuable future hypotheses.
+4. Confirmation is stronger when tested on appropriately independent evidence.
+
+---
+
+## 1.2.100 Selective reporting
+
+## 1. Purpose
+
+Selective reporting concerns the incomplete reporting of research findings, analyses, outcomes, participants, or conditions in ways that can distort the apparent evidence.
+
+## 2. Definition
+
+Selective reporting is the practice or outcome of reporting only a subset of relevant research results, analyses, outcomes, or study information in a way that can systematically influence the interpretation of the evidence.
+
+## 3. Core Understanding
+
+### Outcome selection
+
+Researchers may report favorable outcomes while omitting unfavorable or null outcomes. This can exaggerate the apparent support for an intervention or theory.
+
+### Analysis selection
+
+Multiple analyses may be conducted but only one may be reported. Without transparency, readers cannot evaluate how much analytic choice occurred.
+
+### Participant exclusions
+
+Unreported exclusions can alter results and conceal the sensitivity of conclusions to inclusion criteria.
+
+### Study-level reporting
+
+Selective reporting can occur within a study and across studies. At the publication level, results may be more likely to appear when they are positive or interesting.
+
+### Prevention
+
+Protocols, preregistration, reporting guidelines, data and code sharing where appropriate, and transparent disclosure of deviations can reduce selective reporting.
+
+### Evidence status
+
+Selective reporting is a recognized threat to scientific evidence synthesis.
+
+## 4. Relationship to This Chapter
+
+Selective reporting connects p-hacking and researcher degrees of freedom with publication bias, meta-analysis, and open science.
+
+## 5. Boundaries
+
+### Owns
+
+Incomplete or outcome-dependent reporting that can distort interpretation of research evidence.
+
+### Defers
+
+Publication bias, p-hacking, preregistration, and data transparency.
+
+## 6. Key Principles
+
+1. Selective reporting can distort the apparent evidence.
+2. It can occur within studies and across publications.
+3. Transparency about outcomes and analyses is important.
+4. Unreported null results can matter scientifically.
+5. Evidence synthesis should consider reporting selection.
+
+---
+
+## 1.2.101 Publication bias
+
+## 1. Purpose
+
+Publication bias concerns systematic differences between studies that are conducted and studies whose results become publicly available. It can distort the scientific literature when publication depends on findings.
+
+## 2. Definition
+
+Publication bias is systematic distortion of the accessible research literature caused by the selective publication, dissemination, or availability of studies or results based on their findings or characteristics.
+
+## 3. Core Understanding
+
+Studies with statistically significant, novel, or favorable findings may be more likely to be submitted, accepted, or published than studies with null or unfavorable results.
+
+### Consequences
+
+If visible literature overrepresents positive findings, effect estimates can be exaggerated and uncertainty underestimated.
+
+### Beyond journals
+
+Selective availability can occur through conference presentations, repositories, registered reports, organizational reports, dissertations, and other dissemination channels.
+
+### Detection
+
+Methods such as funnel-plot inspection and statistical tests can provide clues, but publication bias is difficult to identify perfectly because asymmetry can have other causes.
+
+### Prevention
+
+Study registration, registered reports, preprints, data repositories, and policies supporting dissemination of null results can reduce selective availability.
+
+### Evidence status
+
+Publication bias is a well-established concern in evidence synthesis, though its magnitude varies by field and topic.
+
+## 4. Relationship to This Chapter
+
+Publication bias connects selective reporting with meta-analysis, systematic review, open science, and citation bias.
+
+## 5. Boundaries
+
+### Owns
+
+Selective availability of studies or results based on findings or related characteristics.
+
+### Defers
+
+Selective reporting within studies, citation bias, meta-analysis, and research publication systems.
+
+## 6. Key Principles
+
+1. Published literature may not represent all conducted research.
+2. Positive findings can become disproportionately visible.
+3. Publication bias can inflate apparent effects.
+4. Registration and result-independent publication can reduce the problem.
+5. Evidence synthesis should consider the possibility of missing studies.
+
+---
+
+## 1.2.102 Citation bias
+
+## 1. Purpose
+
+Citation bias concerns unequal citation or visibility of research findings based on their direction, significance, novelty, prestige, or other characteristics. It can influence how readers perceive the accumulated evidence.
+
+## 2. Definition
+
+Citation bias is systematic variation in which studies or findings are cited or emphasized according to characteristics of their results or sources rather than solely their relevance and evidential value.
+
+## 3. Core Understanding
+
+Positive, statistically significant, novel, or attention-grabbing findings may receive more citations than null or contradictory findings.
+
+### Consequences
+
+Highly cited studies can appear more representative of the evidence than they actually are. Literature reviews based heavily on citation frequency can therefore be distorted.
+
+### Citation cascades
+
+Frequently cited findings may receive still more citations because later authors rely on previous references rather than independently evaluating the primary evidence.
+
+### Prevention
+
+Balanced searching, systematic review methods, citation of contradictory evidence, and attention to primary studies can reduce citation-driven distortion.
+
+### Evidence status
+
+Citation bias is an established concern in scientific communication and synthesis, though its magnitude differs across fields.
+
+## 4. Relationship to This Chapter
+
+Citation bias complements publication bias and connects to systematic review, meta-analysis, peer review, and scientific consensus.
+
+## 5. Boundaries
+
+### Owns
+
+Bias in which scientific findings receive citation and visibility.
+
+### Defers
+
+Publication bias, selective reporting, evidence synthesis, and peer review.
+
+## 6. Key Principles
+
+1. Citation counts are not measures of evidential truth.
+2. Positive or novel findings can become disproportionately visible.
+3. Citation cascades can amplify early claims.
+4. Evidence review should not rely only on citation frequency.
+5. Contradictory and null evidence can be scientifically important.
