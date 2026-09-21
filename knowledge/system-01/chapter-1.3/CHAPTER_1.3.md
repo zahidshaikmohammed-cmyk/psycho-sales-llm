@@ -905,3 +905,775 @@ Sympathetic, parasympathetic, and enteric systems to 1.3.21–1.3.23.
 - Autonomic activity is integrated with central, endocrine, and bodily processes.
 
 ---
+# 1.3.21 Sympathetic nervous system
+
+## 1. Purpose
+The sympathetic nervous system is a major autonomic division that helps regulate organs during changing demands and mobilization.
+
+## 2. Definition
+The sympathetic nervous system is the autonomic division that adjusts bodily functions through coordinated neural and chemical signaling, often supporting increased cardiovascular output, alertness, and resource mobilization when demands change.
+
+## 3. Core Understanding
+### Mechanism
+Sympathetic pathways act through peripheral ganglia and target tissues using neurotransmitters and receptors. Effects include changes in heart rate, vascular tone, pupil diameter, sweating, and digestive activity, although effects vary by organ.
+
+### Types / Forms
+Sympathetic responses can be local, coordinated, brief, or sustained. They may occur during physical activity, psychological stress, posture changes, thermoregulation, and ordinary daily regulation.
+
+### Boundary Conditions
+Sympathetic activity is not synonymous with fear or emergency. It operates continuously and can be active during exercise and other non-threatening conditions.
+
+### Misconceptions
+The sympathetic and parasympathetic systems are not simple on/off switches, and sympathetic activation does not necessarily mean harmful stress.
+
+### Evidence Status
+Its anatomy and physiology are well established.
+
+## 4. Relationship to This Chapter
+It is the sympathetic specialization of the autonomic nervous system and interacts with endocrine regulation, homeostasis, and brain–body processes.
+
+## 5. Boundaries
+### Owns
+Sympathetic autonomic organization and function.
+### Defers
+The overall ANS to 1.3.20 and parasympathetic and enteric divisions to 1.3.22–1.3.23.
+
+## 6. Key Principles
+- Sympathetic activity supports many forms of physiological mobilization and regulation.
+- Its effects are organ-specific and context-dependent.
+- It operates as part of an integrated autonomic system.
+
+---
+
+# 1.3.22 Parasympathetic nervous system
+
+## 1. Purpose
+The parasympathetic nervous system regulates many functions associated with maintenance, digestion, recovery, and ongoing internal regulation.
+
+## 2. Definition
+The parasympathetic nervous system is an autonomic division that regulates target organs through pathways that commonly support energy conservation, digestion, cardiovascular regulation, and recovery-oriented bodily functions.
+
+## 3. Core Understanding
+### Mechanism
+Parasympathetic pathways use cranial and sacral outflow and peripheral ganglia to influence organs. Acetylcholine is an important transmitter in many parasympathetic pathways, acting through muscarinic or nicotinic receptors depending on the site.
+
+### Consequences
+Parasympathetic activity can reduce heart rate, support gastrointestinal activity, and regulate other organ functions. Its effects are not limited to a single “rest” state.
+
+### Boundary Conditions
+Parasympathetic activity occurs during ordinary waking life and can coexist with sympathetic activity. The two systems can produce organ-specific combinations rather than simple global opposites.
+
+### Misconceptions
+“Rest and digest” is a useful shorthand, not a complete physiological definition.
+
+### Evidence Status
+Its anatomical and physiological organization is well established.
+
+## 4. Relationship to This Chapter
+It is the parasympathetic specialization of the autonomic nervous system and participates in homeostatic and brain–body regulation.
+
+## 5. Boundaries
+### Owns
+Parasympathetic autonomic organization and function.
+### Defers
+The overall ANS to 1.3.20 and sympathetic and enteric divisions to 1.3.21 and 1.3.23.
+
+## 6. Key Principles
+- Parasympathetic activity supports ongoing internal regulation.
+- It is not simply the opposite of sympathetic activity.
+- Autonomic function is coordinated across organs and contexts.
+
+---
+
+# 1.3.23 Enteric nervous system
+
+## 1. Purpose
+The enteric nervous system explains the intrinsic neural organization that regulates much of gastrointestinal function.
+
+## 2. Definition
+The enteric nervous system is the extensive network of neurons and glial cells embedded in the gastrointestinal tract that coordinates digestive activity and communicates with central and autonomic systems.
+
+## 3. Core Understanding
+### Components / Dimensions
+Enteric circuits are organized mainly in the myenteric and submucosal plexuses. They regulate motility, secretion, blood flow, and local reflexes.
+
+### Mechanism
+Enteric neurons can generate local reflexes in response to mechanical and chemical information from the gut. They also interact with sympathetic and parasympathetic pathways and with immune and endocrine signals.
+
+### Boundary Conditions
+The enteric system can operate semi-independently but is not isolated from the brain or broader bodily regulation.
+
+### Misconceptions
+Calling it the “second brain” can be useful as a metaphor for its complexity but should not imply that it performs the same functions as the brain.
+
+### Evidence Status
+Its neural organization and digestive regulatory roles are established; broader claims about psychological effects require appropriate evidence.
+
+## 4. Relationship to This Chapter
+It is the gastrointestinal branch of autonomic neural organization and connects nervous, endocrine, and immune processes in the body.
+
+## 5. Boundaries
+### Owns
+Intrinsic neural regulation of gastrointestinal function.
+### Defers
+The general ANS to 1.3.20 and immune–behavior interaction to 1.3.67.
+
+## 6. Key Principles
+- The gut contains extensive intrinsic neural circuits.
+- Enteric function interacts with central and autonomic regulation.
+- Complexity does not make the enteric system equivalent to the brain.
+
+---
+
+# 1.3.24 Spinal cord
+
+## 1. Purpose
+The spinal cord is a central nervous system structure that carries information between brain and body and performs important local processing.
+
+## 2. Definition
+The spinal cord is the elongated neural structure within the vertebral column that contains ascending and descending pathways and neural circuits involved in sensation, movement, and autonomic regulation.
+
+## 3. Core Understanding
+### Components / Dimensions
+The spinal cord is organized into segments associated with peripheral nerves and contains gray and white matter. Ascending pathways carry sensory information toward the brain; descending pathways carry motor and regulatory signals toward the body.
+
+### Mechanism
+Spinal circuits can integrate sensory inputs and produce reflex responses without requiring a consciously mediated brain process. The cord also coordinates with higher centers during voluntary and automatic movement.
+
+### Consequences
+Damage can affect sensation, movement, autonomic function, and communication between brain and body, with effects depending strongly on lesion location and severity.
+
+### Evidence Status
+Spinal anatomy and physiology are well established.
+
+## 4. Relationship to This Chapter
+The spinal cord connects CNS organization with sensory pathways, motor pathways, somatic control, and autonomic regulation.
+
+## 5. Boundaries
+### Owns
+Spinal-cord organization and its central conduction and local-processing functions.
+### Defers
+Specific motor and sensory pathways to 1.3.25–1.3.27 and injury consequences to 1.3.72.
+
+## 6. Key Principles
+- The spinal cord is both a communication pathway and a site of neural processing.
+- Reflexes can be organized locally.
+- Spinal function depends on interaction with the brain and peripheral systems.
+
+---
+
+# 1.3.25 Motor system
+
+## 1. Purpose
+The motor system organizes neural processes that generate and regulate movement.
+
+## 2. Definition
+The motor system is the interacting set of neural structures and pathways that select, initiate, coordinate, execute, and adjust movement.
+
+## 3. Core Understanding
+### Components / Dimensions
+Motor function involves cortical, subcortical, brainstem, spinal, peripheral, and muscular components. It includes planning, initiation, coordination, force control, posture, and feedback-based correction.
+
+### Mechanism
+Motor commands are shaped by sensory feedback, internal goals, learned skills, and ongoing neural activity. Movement is therefore not a one-way command from a single brain region.
+
+### Types / Forms
+Motor control includes voluntary movement, reflexes, rhythmic actions, posture, and highly practiced actions. Different forms rely on partially overlapping systems.
+
+### Boundary Conditions
+Movement depends on sensory information, muscle and joint state, motivation, fatigue, injury, and environmental constraints.
+
+### Evidence Status
+The distributed organization of motor control is strongly established.
+
+## 4. Relationship to This Chapter
+The motor system integrates motor cortex, basal ganglia, cerebellum, brainstem, spinal cord, motor pathways, and sensory feedback.
+
+## 5. Boundaries
+### Owns
+The integrated biological system controlling movement.
+### Defers
+Motor cortex to 1.3.42, basal ganglia to 1.3.33, cerebellum to 1.3.30, and motor pathways to 1.3.27.
+
+## 6. Key Principles
+- Movement is generated by distributed interacting systems.
+- Sensory feedback is integral to motor control.
+- Motor behavior reflects both neural commands and bodily/environmental constraints.
+
+---
+
+# 1.3.26 Sensory pathways
+
+## 1. Purpose
+Sensory pathways describe neural routes through which information from the body and environment reaches and is processed by the central nervous system.
+
+## 2. Definition
+Sensory pathways are organized neural routes that transmit and transform signals from sensory receptors toward central neural structures.
+
+## 3. Core Understanding
+### Components / Dimensions
+A sensory pathway typically includes receptors, peripheral nerves, spinal or brainstem relays, thalamic or other intermediate structures, and cortical or subcortical targets, although organization differs across senses.
+
+### Mechanism
+Physical or chemical stimuli are transduced into neural signals, which are filtered, transformed, and integrated as they travel through multiple neural levels.
+
+### Types / Forms
+Different pathways carry somatosensory, auditory, visual, olfactory, gustatory, vestibular, and visceral information.
+
+### Boundary Conditions
+A pathway is not a passive wire. Signals are modified by receptive-field organization, feedback, attention-related influences, and state-dependent processing.
+
+### Evidence Status
+Major sensory pathways are well characterized, though detailed circuit mechanisms remain active research areas.
+
+## 4. Relationship to This Chapter
+Sensory pathways connect peripheral receptors and body systems to spinal, brainstem, thalamic, cortical, and multisensory structures.
+
+## 5. Boundaries
+### Owns
+General organization of neural routes carrying sensory information.
+### Defers
+Specific sensory psychology to Chapter 1.4 and somatosensory cortex to 1.3.43.
+
+## 6. Key Principles
+- Sensory pathways transform information as well as transmit it.
+- Different sensory modalities use partly distinct pathways.
+- Central processing and feedback influence sensory signaling.
+
+---
+
+# 1.3.27 Motor pathways
+
+## 1. Purpose
+Motor pathways describe neural routes that transmit and transform signals involved in movement.
+
+## 2. Definition
+Motor pathways are organized neural connections carrying signals from motor-control structures toward spinal and peripheral effectors and coordinating movement through multiple levels.
+
+## 3. Core Understanding
+### Components / Dimensions
+Motor pathways include descending cortical and brainstem systems, spinal circuits, peripheral motor neurons, and neuromuscular connections. Their organization differs by movement type.
+
+### Mechanism
+Signals from higher centers are transformed through descending pathways and spinal circuits before reaching muscles. Sensory feedback continuously modifies motor output.
+
+### Types / Forms
+Major descending systems include corticospinal and brainstem pathways, with additional indirect pathways involving basal ganglia and cerebellar circuits.
+
+### Boundary Conditions
+A pathway does not operate independently; movement depends on sensory state, muscle properties, spinal circuitry, and ongoing network activity.
+
+### Evidence Status
+Major pathway anatomy is well established; precise functional contributions can vary across tasks and individuals.
+
+## 4. Relationship to This Chapter
+Motor pathways connect motor-system organization with motor cortex, brainstem, spinal cord, basal ganglia, cerebellum, and sensory feedback.
+
+## 5. Boundaries
+### Owns
+The general biological architecture of routes transmitting motor commands.
+### Defers
+The integrated motor system to 1.3.25 and specific structures to their own Topics.
+
+## 6. Key Principles
+- Motor commands are distributed across multiple pathways.
+- Descending signals are transformed by spinal and peripheral systems.
+- Sensory feedback is integral to effective motor output.
+
+---
+
+# 1.3.28 Brain organization
+
+## 1. Purpose
+Brain organization provides the high-level anatomical and functional framework needed to understand how brain regions and networks contribute to human functioning.
+
+## 2. Definition
+Brain organization is the structural and functional arrangement of neural regions, pathways, networks, and large-scale systems within the brain.
+
+## 3. Core Understanding
+### Components / Dimensions
+The brain is organized across anatomical levels including nuclei, cortical areas, lobes, pathways, and distributed networks. Structure and function are related but not identical.
+
+### Mechanism
+Brain functions arise from interactions among regions rather than from isolated modules alone. A region can participate in multiple functions, and one function can involve multiple regions.
+
+### Development
+Brain organization changes through development, learning, plasticity, aging, and injury.
+
+### Misconceptions
+Popular “one brain area equals one behavior” maps are often too simple. Localization is real for some functions but usually embedded in distributed systems.
+
+### Evidence Status
+Large-scale organization is well established, while the precise mapping of complex psychological functions remains an active research area.
+
+## 4. Relationship to This Chapter
+This is the organizing concept for brainstem, cerebellum, thalamus, hypothalamus, basal ganglia, cortical regions, corpus callosum, specialization, and lateralization.
+
+## 5. Boundaries
+### Owns
+The general architecture of brain organization.
+### Defers
+Specific structures and methods to Topics 1.3.29–1.3.78.
+
+## 6. Key Principles
+- Brain organization is hierarchical and distributed.
+- Structure and function constrain one another without being identical.
+- Complex psychological functions generally involve interacting systems.
+
+---
+
+# 1.3.29 Brainstem
+
+## 1. Purpose
+The brainstem supports essential life functions, arousal, sensorimotor coordination, and communication between brain and spinal cord.
+
+## 2. Definition
+The brainstem is the central nervous system structure comprising the midbrain, pons, and medulla, containing pathways and nuclei involved in arousal, autonomic regulation, sensory and motor functions, and basic behavioral control.
+
+## 3. Core Understanding
+### Components / Dimensions
+The brainstem contains cranial-nerve nuclei, ascending and descending pathways, reticular formations, and autonomic regulatory systems.
+
+### Mechanism
+Brainstem circuits regulate breathing, cardiovascular functions, sleep–wake states, reflexes, eye movements, and communication between higher brain systems and the spinal cord.
+
+### Boundary Conditions
+Brainstem functions are distributed across many nuclei and pathways; it is not one uniform functional unit.
+
+### Misconceptions
+The brainstem is not merely a primitive “reptilian brain.” It contains complex integrated systems and extensive connections with forebrain structures.
+
+### Evidence Status
+Its major anatomical and physiological functions are well established.
+
+## 4. Relationship to This Chapter
+The brainstem is a major component of brain organization and links cortical, subcortical, autonomic, and spinal systems.
+
+## 5. Boundaries
+### Owns
+Brainstem anatomy and broad functional roles.
+### Defers
+Specific autonomic divisions to 1.3.20–1.3.23 and cerebellar function to 1.3.30.
+
+## 6. Key Principles
+- The brainstem supports vital regulation and arousal.
+- It carries major ascending and descending pathways.
+- Its functions emerge from multiple interacting nuclei and circuits.
+
+---
+
+# 1.3.30 Cerebellum
+
+## 1. Purpose
+The cerebellum is a major brain structure involved in coordination, timing, motor learning, and prediction of movement and other processes.
+
+## 2. Definition
+The cerebellum is a hindbrain structure that integrates sensory and motor information to support movement coordination, timing, learning, and error-based adjustment, while also participating in some nonmotor functions.
+
+## 3. Core Understanding
+### Mechanism
+The cerebellum receives extensive information about intended and ongoing movement and compares or integrates signals to help refine motor output. Cerebellar circuits contribute to adaptive correction and learned motor patterns.
+
+### Types / Forms
+Different cerebellar regions and circuits have partly different connections and functions. The cerebellum also interacts with cognitive and affective systems.
+
+### Consequences
+Damage can impair coordination, timing, balance, and motor learning. Evidence also supports contributions to some cognitive processes, though these should not be reduced to simple “thinking control.”
+
+### Evidence Status
+Its motor role is strongly established; nonmotor roles are supported but vary by function and evidence base.
+
+## 4. Relationship to This Chapter
+The cerebellum is a core component of the motor system and interacts with brainstem, cortical, sensory, and basal-ganglia systems.
+
+## 5. Boundaries
+### Owns
+Cerebellar anatomy and its broad functional contributions.
+### Defers
+Motor-system organization to 1.3.25 and cortical motor control to 1.3.42.
+
+## 6. Key Principles
+- The cerebellum is central to coordination and motor learning.
+- It uses distributed sensory and motor information.
+- Its functions extend beyond movement, but nonmotor claims require specific evidence.
+
+---
+
+# 1.3.31 Thalamus
+
+## 1. Purpose
+The thalamus is a major diencephalic structure that participates in routing, integrating, and regulating information across brain systems.
+
+## 2. Definition
+The thalamus is a collection of nuclei that receives and sends extensive connections with the cerebral cortex and other brain regions, contributing to sensory processing, motor control, arousal, attention-related regulation, and other functions.
+
+## 3. Core Understanding
+### Components / Dimensions
+Different thalamic nuclei have different connection patterns and functions. Many sensory pathways, with important exceptions such as much of olfaction, involve thalamic relays before reaching cortex.
+
+### Mechanism
+Thalamic circuits do more than relay signals. They transform, gate, synchronize, and regulate information in interaction with cortical and subcortical networks.
+
+### Boundary Conditions
+The thalamus should not be treated as a single relay station with one function.
+
+### Evidence Status
+Its major anatomical and physiological roles are established; detailed contributions to attention and consciousness remain active research areas.
+
+## 4. Relationship to This Chapter
+The thalamus links sensory pathways, motor systems, arousal, and cortical networks within brain organization.
+
+## 5. Boundaries
+### Owns
+General thalamic organization and its integrative role.
+### Defers
+Specific sensory systems to their modality pathways and consciousness to Chapter 1.5.
+
+## 6. Key Principles
+- The thalamus contains functionally distinct nuclei.
+- It participates in routing and regulation, not simple passive transmission.
+- Thalamic function depends heavily on interactions with cortical and subcortical networks.
+
+---
+
+# 1.3.32 Hypothalamus
+
+## 1. Purpose
+The hypothalamus integrates neural and endocrine regulation to maintain internal conditions and coordinate motivated and physiological states.
+
+## 2. Definition
+The hypothalamus is a set of brain regions that coordinates homeostatic, autonomic, endocrine, circadian, reproductive, and motivated functions through interactions with the nervous and endocrine systems.
+
+## 3. Core Understanding
+### Mechanism
+Hypothalamic neurons monitor and integrate internal signals and influence autonomic outputs and endocrine systems, especially through the pituitary. It also interacts with brain circuits involved in hunger, thirst, thermoregulation, stress, reproduction, and sleep–wake regulation.
+
+### Components / Dimensions
+Different nuclei have different functions; the hypothalamus is a network of specialized regions rather than a single control center.
+
+### Boundary Conditions
+Hypothalamic outputs are influenced by peripheral physiology, brain state, hormones, and environmental conditions.
+
+### Evidence Status
+Its central role in homeostatic and endocrine regulation is well established.
+
+## 4. Relationship to This Chapter
+The hypothalamus connects brain organization with endocrine systems, hormones, homeostasis, allostasis, circadian regulation, and reproductive hormones.
+
+## 5. Boundaries
+### Owns
+Hypothalamic integration of neural, autonomic, endocrine, and homeostatic functions.
+### Defers
+The endocrine system to 1.3.47 and hormones to 1.3.48.
+
+## 6. Key Principles
+- The hypothalamus links brain regulation to bodily physiology.
+- It coordinates multiple homeostatic and motivated functions.
+- Its effects arise through interacting neural and endocrine pathways.
+
+---
+
+# 1.3.33 Basal ganglia
+
+## 1. Purpose
+The basal ganglia are interconnected subcortical structures involved in movement selection, action control, learning, and other functions.
+
+## 2. Definition
+The basal ganglia are a set of interconnected subcortical nuclei that participate in selecting and regulating actions, movement, learning, and related cognitive processes through interactions with cortical and brainstem systems.
+
+## 3. Core Understanding
+### Components / Dimensions
+Major components include the striatum, globus pallidus, subthalamic nucleus, and substantia nigra, with functionally distinct circuits.
+
+### Mechanism
+Basal-ganglia circuits influence cortical and brainstem systems through loops that can facilitate some actions while suppressing others. Dopaminergic signaling from the midbrain is important in several of these circuits.
+
+### Consequences
+Disruption is associated with movement disorders such as Parkinsonian syndromes and Huntington disease, while normal function contributes to action control and learning.
+
+### Evidence Status
+Motor roles are well established; cognitive and motivational functions are also supported but depend on specific circuits.
+
+## 4. Relationship to This Chapter
+Basal ganglia are a major component of the motor system and interact with cortex, dopamine systems, and learning-related circuits.
+
+## 5. Boundaries
+### Owns
+Basal-ganglia anatomy and broad circuit functions.
+### Defers
+Motor-system architecture to 1.3.25 and neurotransmitter mechanisms to 1.3.9.
+
+## 6. Key Principles
+- Basal ganglia regulate action selection rather than simply generating movement.
+- Their circuits interact extensively with cortex.
+- Different loops support partly different functions.
+
+---
+
+# 1.3.34 Limbic-system structures
+
+## 1. Purpose
+This Topic describes a historically important but anatomically heterogeneous group of structures commonly discussed in relation to emotion, memory, motivation, and regulation.
+
+## 2. Definition
+Limbic-system structures are a set of interconnected brain regions historically grouped under the term “limbic system” because of their roles in emotion, motivation, memory, and related functions; the grouping is useful descriptively but does not represent one sharply bounded anatomical system.
+
+## 3. Core Understanding
+### Components / Dimensions
+Commonly discussed structures include the hippocampal formation, amygdala, hypothalamus, cingulate regions, and related connections. Their functions overlap but are not reducible to one “limbic” function.
+
+### Mechanism
+These structures participate in distributed circuits linking memory, valuation, emotion-related processing, bodily regulation, and motivated behavior.
+
+### Misconceptions
+The idea of a single “emotional brain” or a simple limbic-versus-rational cortex division is an oversimplification. Modern neuroscience emphasizes interacting networks.
+
+### Evidence Status
+Individual structures and circuits have well-supported functions; the exact definition of a limbic system remains conceptually contested.
+
+## 4. Relationship to This Chapter
+This Topic preserves the canonical architectural term while directing interpretation toward distributed brain networks and specific structures.
+
+## 5. Boundaries
+### Owns
+The historical and contemporary use of the limbic-system grouping as a neuroanatomical concept.
+### Defers
+Specific functions of cortical and subcortical structures to their canonical Topics and emotion to the relevant psychological chapter.
+
+## 6. Key Principles
+- “Limbic system” is a useful but imperfect grouping.
+- Individual structures have distinct functions.
+- Complex emotion and motivation depend on distributed networks.
+
+---
+
+# 1.3.35 Cerebral cortex
+
+## 1. Purpose
+The cerebral cortex provides a major anatomical and functional substrate for perception, action, cognition, language, and complex integration.
+
+## 2. Definition
+The cerebral cortex is the layered outer tissue of the cerebral hemispheres containing extensive networks of neurons involved in sensory processing, motor control, association, and complex psychological functions.
+
+## 3. Core Understanding
+### Components / Dimensions
+The cortex includes primary sensory and motor areas and association regions organized across frontal, parietal, temporal, and occipital lobes. Cortical areas are interconnected locally and through long-range pathways.
+
+### Mechanism
+Cortical functions arise from recurrent interactions among neurons and networks. Regions can specialize for particular computations while participating in distributed systems.
+
+### Development
+Cortical organization changes through development, learning, plasticity, and aging.
+
+### Misconceptions
+The cortex is not a uniform sheet in which each location has one permanent psychological function.
+
+### Evidence Status
+Cortical anatomy and many functional specializations are well established; high-level functions often depend on distributed networks.
+
+## 4. Relationship to This Chapter
+The cortex is the parent structure for association cortex, lobes, prefrontal, motor, and somatosensory cortex and interacts with subcortical systems.
+
+## 5. Boundaries
+### Owns
+General cortical organization and function.
+### Defers
+Specific lobes and cortical regions to Topics 1.3.36–1.3.43.
+
+## 6. Key Principles
+- The cortex contains specialized and distributed systems.
+- Structure and function are organized at multiple scales.
+- Complex psychological functions cannot generally be assigned to one cortical point.
+
+---
+
+# 1.3.36 Association cortex
+
+## 1. Purpose
+Association cortex integrates information across modalities and supports complex representations, planning, language, memory-related processing, and flexible behavior.
+
+## 2. Definition
+Association cortex refers to cortical regions that integrate information beyond the primary processing of a single sensory or motor modality and participate in higher-order distributed functions.
+
+## 3. Core Understanding
+### Components / Dimensions
+Association regions occur across frontal, parietal, and temporal cortices and include networks supporting multimodal integration, semantic processing, executive control, and other functions.
+
+### Mechanism
+Association cortex receives converging information and interacts with other cortical and subcortical systems to construct, evaluate, and coordinate complex representations and actions.
+
+### Boundary Conditions
+Association functions are distributed and network-dependent. “Higher order” does not mean independent of sensory or motor systems.
+
+### Evidence Status
+The distinction between primary and association cortex is well established, while precise network functions remain actively refined by research.
+
+## 4. Relationship to This Chapter
+Association cortex is a functional organization within the cerebral cortex and overlaps anatomically with several lobes and distributed networks.
+
+## 5. Boundaries
+### Owns
+The general concept of multimodal and higher-order cortical integration.
+### Defers
+Specific frontal, parietal, and temporal regions to their respective Topics.
+
+## 6. Key Principles
+- Association cortex integrates information across systems.
+- It operates through distributed networks.
+- Complex cognition depends on interactions between association and primary systems.
+
+---
+
+# 1.3.37 Frontal lobe
+
+## 1. Purpose
+The frontal lobe is a major cortical division involved in movement, executive control, language-related functions, decision processes, and social behavior.
+
+## 2. Definition
+The frontal lobe is the anterior division of the cerebral cortex, containing motor and prefrontal regions and supporting multiple functions through extensive cortical and subcortical connections.
+
+## 3. Core Understanding
+### Components / Dimensions
+It includes primary motor cortex, premotor and supplementary motor regions, and prefrontal territories with partly different functions.
+
+### Mechanism
+Frontal regions integrate sensory, motivational, memory, and contextual information to guide action, control, planning, and movement. Different frontal circuits contribute to different tasks.
+
+### Consequences
+Damage can produce motor deficits, changes in executive control, language disturbances, personality-related changes, or social difficulties depending on location and extent.
+
+### Misconceptions
+The frontal lobe is not simply the “logic center” or a single executive module.
+
+### Evidence Status
+Major frontal functional distinctions are well supported; exact mappings are network-dependent.
+
+## 4. Relationship to This Chapter
+The frontal lobe contains the prefrontal and motor cortex and interacts with basal ganglia, thalamus, parietal and temporal regions.
+
+## 5. Boundaries
+### Owns
+The anatomical and broad functional concept of the frontal lobe.
+### Defers
+Prefrontal cortex to 1.3.41 and motor cortex to 1.3.42.
+
+## 6. Key Principles
+- The frontal lobe contains multiple functionally distinct systems.
+- Its functions depend on extensive network interactions.
+- Frontal damage produces location-dependent effects.
+
+---
+
+# 1.3.38 Parietal lobe
+
+## 1. Purpose
+The parietal lobe integrates somatosensory and spatial information and contributes to attention, action guidance, and multisensory representation.
+
+## 2. Definition
+The parietal lobe is a cerebral cortical division involved in processing and integrating bodily and spatial information and coordinating perception with action.
+
+## 3. Core Understanding
+### Components / Dimensions
+It includes primary somatosensory cortex and association regions with partly distinct functions across hemispheres.
+
+### Mechanism
+Parietal networks integrate sensory inputs, spatial relationships, body representations, and task demands to support perception, attention, reaching, and other actions.
+
+### Consequences
+Damage can cause sensory deficits, spatial neglect, impaired body representation, or difficulties with skilled actions depending on site and hemisphere.
+
+### Evidence Status
+Its sensory and spatial roles are well established; complex functions depend on distributed networks.
+
+## 4. Relationship to This Chapter
+The parietal lobe contains somatosensory cortex and association regions and interacts with frontal, temporal, and subcortical systems.
+
+## 5. Boundaries
+### Owns
+Parietal anatomy and broad functional organization.
+### Defers
+Somatosensory cortex to 1.3.43 and lateralization to 1.3.46.
+
+## 6. Key Principles
+- Parietal systems integrate body and spatial information.
+- Functions differ across subregions and hemispheres.
+- Parietal processing links perception with action.
+
+---
+
+# 1.3.39 Temporal lobe
+
+## 1. Purpose
+The temporal lobe contains systems important for auditory processing, language-related functions, memory, object recognition, and semantic knowledge.
+
+## 2. Definition
+The temporal lobe is a cerebral cortical division containing auditory and association regions involved in processing sound, recognizing objects, representing knowledge, and supporting memory-related functions.
+
+## 3. Core Understanding
+### Components / Dimensions
+It includes primary and association auditory cortex, medial temporal structures, and other regions with distinct connectivity and roles.
+
+### Mechanism
+Temporal networks integrate sensory information with stored representations and interact with frontal, parietal, and limbic-related systems.
+
+### Consequences
+Damage can produce language, auditory, recognition, memory, or semantic deficits depending on location and hemisphere.
+
+### Misconceptions
+The temporal lobe is not simply the “memory center”; memory depends on distributed systems.
+
+### Evidence Status
+Its major sensory and memory-related roles are well supported.
+
+## 4. Relationship to This Chapter
+The temporal lobe connects cortical organization with auditory systems, association cortex, and memory-related neural structures.
+
+## 5. Boundaries
+### Owns
+Temporal-lobe anatomy and broad functional organization.
+### Defers
+Specific medial temporal structures where separately owned and psychological memory processes to the relevant chapter.
+
+## 6. Key Principles
+- Temporal functions are distributed across subregions.
+- The lobe supports sensory and higher-order processing.
+- Memory is a network function rather than a single-lobe function.
+
+---
+
+# 1.3.40 Occipital lobe
+
+## 1. Purpose
+The occipital lobe is the principal cortical division for visual processing.
+
+## 2. Definition
+The occipital lobe is the posterior cerebral cortical division containing primary and association visual regions that process and integrate visual information.
+
+## 3. Core Understanding
+### Components / Dimensions
+Visual cortex is organized into interconnected areas receiving information from thalamic and other visual pathways. Different regions process partly distinct features and representations.
+
+### Mechanism
+Visual signals are transformed across hierarchical and parallel cortical pathways. Early processing supports basic features, while downstream areas contribute to increasingly complex visual representations.
+
+### Consequences
+Occipital injury can impair visual perception even when the eyes and peripheral visual pathways are intact. Effects depend on the affected region.
+
+### Evidence Status
+Its central role in visual processing is strongly established.
+
+## 4. Relationship to This Chapter
+The occipital lobe is the principal cortical substrate for visual pathways and interacts with parietal and temporal association systems.
+
+## 5. Boundaries
+### Owns
+Occipital anatomy and broad cortical visual organization.
+### Defers
+Perceptual phenomena and visual experience to Chapter 1.4 and broader brain organization to 1.3.28.
+
+## 6. Key Principles
+- The occipital cortex is central to visual processing.
+- Visual processing is distributed across interconnected pathways.
+- Visual perception depends on more than occipital activity alone.
+
+---
