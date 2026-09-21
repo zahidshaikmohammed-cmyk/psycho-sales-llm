@@ -2464,3 +2464,692 @@ Allostasis to 1.3.61 and specific biological rhythms to 1.3.62.
 - Regulated variables operate within ranges rather than fixed single values.
 
 ---
+# 1.3.61 Allostasis
+
+## 1. Purpose
+Allostasis explains how biological systems achieve stability by changing regulated processes in anticipation of or response to changing demands.
+
+## 2. Definition
+Allostasis is the process by which physiological systems adjust their activity and set points to meet changing internal and external demands.
+
+## 3. Core Understanding
+### Mechanism
+Allostatic regulation can alter cardiovascular, endocrine, metabolic, immune, and neural activity according to expected or actual demands. Predictive regulation can prepare the body before a disturbance fully occurs.
+
+### Consequences
+Repeated or prolonged demands can produce cumulative physiological costs, often discussed as allostatic load. These costs depend on the pattern of activation and recovery rather than stress exposure alone.
+
+### Boundary Conditions
+Allostasis does not mean every physiological change is harmful. Adaptation is often necessary and beneficial; concern arises when regulation is excessive, insufficient, poorly coordinated, or chronically costly.
+
+### Misconceptions
+Allostasis is not simply another word for stress. It is a broader model of dynamic physiological regulation.
+
+### Evidence Status
+Allostatic regulation is an established framework in physiology and psychobiology; particular measures of allostatic load vary across research designs.
+
+## 4. Relationship to This Chapter
+Allostasis extends homeostasis and connects stress-related physiology, endocrine regulation, immune function, biological rhythms, and brain–body interaction.
+
+## 5. Boundaries
+### Owns
+Dynamic physiological regulation under changing demands.
+### Defers
+Homeostatic regulation to 1.3.60 and stress psychology to its canonical chapter.
+
+## 6. Key Principles
+- Biological stability can require continual change.
+- Anticipatory and reactive regulation can both occur.
+- Adaptation can carry cumulative physiological costs.
+
+---
+
+# 1.3.62 Biological rhythms
+
+## 1. Purpose
+Biological rhythms describe recurring changes in physiological and behavioral processes across time.
+
+## 2. Definition
+Biological rhythms are recurring patterns of biological activity organized over characteristic time scales.
+
+## 3. Core Understanding
+### Types / Forms
+Rhythms can be circadian, ultradian, infradian, seasonal, or otherwise periodic. Their periods and mechanisms differ.
+
+### Mechanism
+Rhythms can arise from endogenous biological clocks, hormonal cycles, neural oscillators, metabolic processes, and environmental cues. External timing signals can synchronize internal rhythms.
+
+### Boundary Conditions
+Biological rhythms are not perfectly fixed. Light exposure, sleep timing, behavior, hormones, illness, age, and environment can shift or modify them.
+
+### Consequences
+Rhythms influence sleep, alertness, hormone secretion, metabolism, body temperature, and other physiological processes.
+
+### Evidence Status
+Biological rhythmicity is strongly established; the mechanism and importance of a particular rhythm depend on its timescale and system.
+
+## 4. Relationship to This Chapter
+Biological rhythms provide the broad temporal framework for circadian rhythms and interact with endocrine, neural, immune, and metabolic regulation.
+
+## 5. Boundaries
+### Owns
+The general concept of recurring biological timing.
+### Defers
+Circadian rhythms to 1.3.63 and specific sleep processes to Chapter 1.5.
+
+## 6. Key Principles
+- Biological systems change across multiple timescales.
+- Internal rhythms can be synchronized by environmental cues.
+- Rhythms interact with rather than replace other regulatory systems.
+
+---
+
+# 1.3.63 Circadian rhythms
+
+## 1. Purpose
+Circadian rhythms organize approximately 24-hour cycles in physiology and behavior and help align internal biology with the day–night environment.
+
+## 2. Definition
+Circadian rhythms are endogenous biological rhythms with a cycle of approximately 24 hours that are synchronized by environmental time cues, especially the light–dark cycle.
+
+## 3. Core Understanding
+### Mechanism
+A central circadian timing system in the suprachiasmatic nucleus coordinates rhythms across the body. Light reaching the retina provides a major timing signal, while peripheral clocks and behavioral cues contribute to coordination.
+
+### Consequences
+Circadian timing influences sleep–wake regulation, hormone secretion, body temperature, metabolism, alertness, and other processes.
+
+### Boundary Conditions
+The internal period is not exactly 24 hours in isolation, and rhythms can become misaligned with environmental schedules through shift work, jet lag, irregular sleep, or altered light exposure.
+
+### Misconceptions
+Circadian rhythm is not synonymous with sleep. Sleep is one process regulated by circadian timing and homeostatic sleep pressure.
+
+### Evidence Status
+Circadian biology is strongly established.
+
+## 4. Relationship to This Chapter
+Circadian rhythms are a specialized biological rhythm and connect hypothalamic function, endocrine regulation, brain–body interaction, and sleep.
+
+## 5. Boundaries
+### Owns
+Approximately 24-hour biological timing.
+### Defers
+General biological rhythms to 1.3.62 and sleep psychology to Chapter 1.5.
+
+## 6. Key Principles
+- Circadian timing is endogenous but environmentally synchronized.
+- Light is a major zeitgeber.
+- Circadian timing interacts with sleep homeostasis and behavior.
+
+---
+
+# 1.3.64 Brain–body interaction
+
+## 1. Purpose
+Brain–body interaction describes the continuous bidirectional exchange between neural systems and bodily organs and physiological states.
+
+## 2. Definition
+Brain–body interaction is the reciprocal influence between the nervous system and peripheral bodily systems through neural, endocrine, immune, metabolic, and sensory pathways.
+
+## 3. Core Understanding
+### Components / Dimensions
+Relevant systems include autonomic pathways, endocrine signaling, immune signaling, interoceptive pathways, cardiovascular and gastrointestinal systems, and metabolic processes.
+
+### Mechanism
+The brain regulates bodily processes, while bodily states send signals back to the brain. These exchanges can influence perception, emotion, motivation, cognition, and action, but effects depend on pathway and context.
+
+### Boundary Conditions
+Brain–body interaction is not evidence that every psychological state has a simple bodily cause or that bodily changes uniquely determine mental experience.
+
+### Evidence Status
+Bidirectional brain–body regulation is strongly established. Specific psychological effects require evidence for the relevant pathway.
+
+## 4. Relationship to This Chapter
+This is a cross-system biological framework connecting autonomic, endocrine, immune, interoceptive, and metabolic processes.
+
+## 5. Boundaries
+### Owns
+General bidirectional neural–bodily interaction.
+### Defers
+Interoception to 1.3.66, immune–behavior interaction to 1.3.67, and neuroendocrine interaction to 1.3.49.
+
+## 6. Key Principles
+- The brain and body form an interacting biological system.
+- Signals travel in both directions.
+- Psychological interpretation requires pathway-specific evidence.
+
+---
+
+# 1.3.65 Embodiment
+
+## 1. Purpose
+Embodiment addresses the role of bodily states, sensorimotor systems, and bodily interaction with the environment in psychological functioning.
+
+## 2. Definition
+Embodiment is the principle that psychological processes are shaped, in part, by the structure, capabilities, states, and ongoing activity of the body and its interaction with the environment.
+
+## 3. Core Understanding
+### Mechanism
+Bodily signals can influence perception, action, emotion, and cognition through sensory feedback, interoception, motor systems, and physiological regulation. Psychological processes also guide bodily action.
+
+### Types / Forms
+Embodiment can refer to sensorimotor grounding, bodily representation, physiological state, and action–environment coupling. These are related but not identical claims.
+
+### Boundary Conditions
+Evidence for strong versions of embodied-cognition claims varies across phenomena. A bodily contribution does not imply that cognition is reducible to bodily movement or physiology.
+
+### Misconceptions
+Embodiment does not mean every abstract thought is literally stored in the body or that simple body manipulations automatically produce large cognitive changes.
+
+### Evidence Status
+The general importance of bodily and sensorimotor systems is well supported; specific embodied-cognition claims vary in evidence.
+
+## 4. Relationship to This Chapter
+Embodiment connects brain–body interaction, interoception, motor systems, and environmental coupling.
+
+## 5. Boundaries
+### Owns
+The broad biological principle of bodily contribution to psychological functioning.
+### Defers
+Specific interoceptive mechanisms to 1.3.66 and broader psychological constructs to their canonical chapters.
+
+## 6. Key Principles
+- Psychological functioning is biologically embodied.
+- Bodily influence is reciprocal with neural and behavioral processes.
+- Strong embodied claims require phenomenon-specific evidence.
+
+---
+
+# 1.3.66 Interoception
+
+## 1. Purpose
+Interoception describes how the nervous system senses, represents, and regulates the body's internal condition.
+
+## 2. Definition
+Interoception is the sensing and processing of signals arising from within the body, including information about cardiovascular, respiratory, gastrointestinal, temperature, and other internal states.
+
+## 3. Core Understanding
+### Components / Dimensions
+Interoceptive information can include signals about heart activity, breathing, hunger, thirst, visceral state, temperature, and other bodily conditions. Different pathways and brain systems contribute.
+
+### Mechanism
+Internal receptors and physiological signals reach the nervous system through peripheral and central pathways. The brain integrates these signals with prior information, context, and regulatory goals.
+
+### Consequences
+Interoceptive processing contributes to homeostatic regulation and can influence subjective bodily experience, emotion, motivation, and behavior.
+
+### Boundary Conditions
+Interoception is not identical to conscious awareness of bodily signals. Detection, representation, accuracy, and subjective experience are distinct aspects.
+
+### Evidence Status
+Interoceptive signaling is well established; relationships with particular emotions and psychological traits depend on measurement and theory.
+
+## 4. Relationship to This Chapter
+Interoception links brain–body interaction with homeostasis, autonomic regulation, endocrine systems, and embodiment.
+
+## 5. Boundaries
+### Owns
+Internal bodily sensing and its neural processing.
+### Defers
+Subjective emotion and cognition to their psychological owners.
+
+## 6. Key Principles
+- Interoception concerns internal bodily signaling.
+- Sensing and conscious awareness are not identical.
+- Interoceptive signals contribute to regulation as well as subjective experience.
+
+---
+
+# 1.3.67 Immune–behavior interaction
+
+## 1. Purpose
+Immune–behavior interaction describes reciprocal relationships between immune activity and behavioral or psychological processes.
+
+## 2. Definition
+Immune–behavior interaction is the bidirectional influence between immune-system activity and behavior or psychological functioning through neural, endocrine, inflammatory, and other biological pathways.
+
+## 3. Core Understanding
+### Mechanism
+Immune signals can affect brain function and behavior through cytokine signaling, vagal and other neural pathways, endocrine interactions, and changes in metabolism. Behavior can also influence immune regulation through sleep, activity, stress-related processes, nutrition, and other pathways.
+
+### Consequences
+Immune activity can be associated with changes in energy, motivation, cognition, mood, and social behavior during illness. These responses can support recovery but can become dysregulated in chronic conditions.
+
+### Boundary Conditions
+Associations between inflammation and psychological symptoms do not automatically establish that inflammation caused those symptoms.
+
+### Evidence Status
+Bidirectional immune–brain communication is established; specific behavioral pathways vary in evidence and context.
+
+## 4. Relationship to This Chapter
+This topic connects immune function with brain–body interaction, endocrine regulation, and psychoneuroimmunology.
+
+## 5. Boundaries
+### Owns
+General biological interaction between immune activity and behavior.
+### Defers
+The broader interdisciplinary field to 1.3.68.
+
+## 6. Key Principles
+- Immune and behavioral systems communicate bidirectionally.
+- Effects depend on timing and physiological context.
+- Correlation does not establish a causal psychological pathway.
+
+---
+
+# 1.3.68 Psychoneuroimmunology
+
+## 1. Purpose
+Psychoneuroimmunology is an interdisciplinary field examining interactions among psychological processes, the nervous system, endocrine regulation, and immune function.
+
+## 2. Definition
+Psychoneuroimmunology is the scientific study of reciprocal relationships among psychological processes, neural systems, endocrine mechanisms, and immune function.
+
+## 3. Core Understanding
+### Components / Dimensions
+Research can examine stress, emotion, behavior, neural regulation, hormones, inflammatory processes, immune responses, and health outcomes.
+
+### Mechanism
+Potential pathways include autonomic regulation, hypothalamic–pituitary–adrenal signaling, immune mediators, behavioral health factors, and neural feedback. Multiple pathways can operate simultaneously.
+
+### Evidence Status
+The interdisciplinary field is established. Specific claims about psychological causes of immune or health outcomes vary substantially in evidential strength and require careful design.
+
+### Misconceptions
+Psychoneuroimmunology does not establish that positive thinking or a single psychological state can directly cure disease. Biological systems are complex and causal claims require appropriate evidence.
+
+## 4. Relationship to This Chapter
+It provides an interdisciplinary framework linking immune–behavior interaction with endocrine, neural, and psychological systems.
+
+## 5. Boundaries
+### Owns
+The field-level integration of psychological, neural, endocrine, and immune processes.
+### Defers
+Specific immune mechanisms to immune biology and specific psychological mechanisms to their canonical owners.
+
+## 6. Key Principles
+- Psychological, neural, endocrine, and immune systems interact.
+- Interdisciplinary evidence must be evaluated pathway by pathway.
+- Broad mind–body claims should not exceed the evidence.
+
+---
+
+# 1.3.69 Reproductive hormones
+
+## 1. Purpose
+Reproductive hormones coordinate biological processes involved in sexual development, reproductive function, and related physiological regulation.
+
+## 2. Definition
+Reproductive hormones are hormones that participate in the development, regulation, and functioning of reproductive systems, including sex steroids and related endocrine signals.
+
+## 3. Core Understanding
+### Types / Forms
+Important hormones include estrogens, progesterone, testosterone, gonadotropins, and other hypothalamic–pituitary–gonadal signals. Their functions differ by tissue, developmental stage, and physiological state.
+
+### Mechanism
+The hypothalamic–pituitary–gonadal axis coordinates hormone production through feedback loops. Reproductive hormones also act on many tissues, including the brain.
+
+### Development
+Hormonal changes contribute to puberty, reproductive maturation, menstrual and reproductive cycles, pregnancy-related physiology, and aging-related changes.
+
+### Boundary Conditions
+Hormonal influences on behavior are probabilistic and context-dependent. Hormones do not uniquely determine gender identity, personality, or complex social behavior.
+
+### Evidence Status
+Endocrine roles are well established; specific behavioral effects require careful consideration of dose, timing, receptor distribution, and context.
+
+## 4. Relationship to This Chapter
+This topic specializes the general hormone and neuroendocrine concepts in relation to reproductive physiology.
+
+## 5. Boundaries
+### Owns
+Biological reproductive-hormone systems and their regulation.
+### Defers
+Sexuality, identity, and social behavior to their psychological owners.
+
+## 6. Key Principles
+- Reproductive hormones have multiple physiological targets.
+- Effects depend on developmental and contextual conditions.
+- Hormonal biology does not provide a complete explanation of complex human sexuality or identity.
+
+---
+
+# 1.3.70 Biological individual differences
+
+## 1. Purpose
+Biological individual differences describe stable or variable differences among people in biological characteristics relevant to psychological functioning.
+
+## 2. Definition
+Biological individual differences are differences among individuals in biological structure, physiology, genetics, neural organization, or related characteristics that may contribute to variation in psychological functioning.
+
+## 3. Core Understanding
+### Components / Dimensions
+Differences can involve genetic variation, brain structure and connectivity, hormonal patterns, sensory sensitivity, autonomic regulation, immune function, and other biological properties.
+
+### Mechanism
+Biological differences can influence capacities and responses through interacting neural, endocrine, immune, and developmental pathways. Effects are rarely independent of environment.
+
+### Boundary Conditions
+A biological difference associated with a group average does not determine an individual's behavior or capacity. Within-group variation can be substantial.
+
+### Misconceptions
+Biological individual differences should not be converted into simplistic biological determinism or fixed categories.
+
+### Evidence Status
+Biological variation is established; causal interpretation for psychological outcomes requires specific evidence.
+
+## 4. Relationship to This Chapter
+This topic integrates genetic, neural, endocrine, immune, and physiological differences discussed throughout Chapter 1.3.
+
+## 5. Boundaries
+### Owns
+The general concept of biologically based variation among individuals.
+### Defers
+Specific genetic, neural, hormonal, and psychological constructs to their canonical Topics.
+
+## 6. Key Principles
+- People differ biologically in many measurable ways.
+- Biological differences interact with experience and context.
+- Group averages do not determine individual outcomes.
+
+---
+
+# 1.3.71 Neuropsychology
+
+## 1. Purpose
+Neuropsychology studies relationships between brain function and psychological processes, often using patterns of behavior and cognition associated with neurological conditions.
+
+## 2. Definition
+Neuropsychology is the scientific field that investigates relationships among brain systems, neurological function, and psychological processes, including cognition, emotion, behavior, and functioning.
+
+## 3. Core Understanding
+### Methods / Approaches
+Neuropsychology uses assessment of cognitive and behavioral performance, clinical observation, lesion evidence, imaging, and other methods to study brain–behavior relationships.
+
+### Mechanism
+Comparing patterns of impairment and preserved function can provide evidence about how neural systems contribute to psychological processes. Strong inference requires converging methods because deficits can have multiple causes.
+
+### Boundary Conditions
+A cognitive deficit after brain injury does not automatically identify a single brain location as the sole cause. Lesion size, network disruption, premorbid differences, recovery, and compensatory processes matter.
+
+### Evidence Status
+Neuropsychology is an established scientific and clinical field; specific brain–behavior claims vary by method and evidence.
+
+## 4. Relationship to This Chapter
+It provides a field-level bridge between biological mechanisms and psychological functioning and uses several methods represented later in this chapter.
+
+## 5. Boundaries
+### Owns
+The general field of brain–behavior study through neuropsychological approaches.
+### Defers
+Specific brain injury to 1.3.72 and lesion methods to 1.3.75.
+
+## 6. Key Principles
+- Brain–behavior relationships require converging evidence.
+- Lesion evidence is informative but rarely simple.
+- Neuropsychology connects biological and psychological levels without reducing one to the other.
+
+---
+
+# 1.3.72 Brain injury and psychological function
+
+## 1. Purpose
+This Topic explains how acquired or developmental brain injury can alter psychological functioning and why effects depend on the neural systems affected.
+
+## 2. Definition
+Brain injury and psychological function concerns the relationship between damage to brain tissue or networks and changes in cognition, emotion, behavior, movement, or other psychological functions.
+
+## 3. Core Understanding
+### Types / Forms
+Injury can arise from trauma, stroke, tumors, infection, oxygen deprivation, degenerative processes, or other causes. Effects vary by location, extent, timing, and mechanism.
+
+### Mechanism
+Damage can disrupt local tissue, disconnect networks, alter neurotransmission, produce secondary effects, or trigger compensatory reorganization. Psychological consequences therefore reflect network disruption as well as local damage.
+
+### Development / Recovery
+Recovery can involve spontaneous biological repair, rehabilitation, learning, compensation, and plasticity. Outcomes vary substantially among individuals.
+
+### Evidence Status
+Brain injury provides important evidence about brain–behavior relationships, but causal interpretation must consider lesion characteristics and pre-injury differences.
+
+## 4. Relationship to This Chapter
+This topic applies neural organization and plasticity to the study of altered psychological function after injury.
+
+## 5. Boundaries
+### Owns
+General relationship between brain injury and psychological function.
+### Defers
+Clinical diagnosis and rehabilitation methods to relevant clinical systems; lesion methods to 1.3.75.
+
+## 6. Key Principles
+- Brain injury can alter psychological function through local and network mechanisms.
+- Effects depend strongly on lesion characteristics.
+- Recovery can involve plasticity and compensation.
+
+---
+
+# 1.3.73 Neuroimaging
+
+## 1. Purpose
+Neuroimaging provides methods for measuring brain structure, activity, or related physiological signals in living organisms.
+
+## 2. Definition
+Neuroimaging is the use of imaging techniques to measure structural, functional, or physiological properties of the nervous system.
+
+## 3. Core Understanding
+### Types / Forms
+Structural MRI measures anatomy; diffusion methods provide information about white-matter organization; functional MRI estimates activity-related blood-oxygen changes; PET can measure metabolic or molecular processes using tracers.
+
+### Mechanism
+Each method measures a biological proxy rather than “thoughts” directly. Spatial and temporal resolution, invasiveness, signal properties, and analytic assumptions differ across techniques.
+
+### Boundary Conditions
+An observed brain signal can correlate with a psychological process without being its unique cause. Reverse inference from a region's activation to a specific mental state is often uncertain.
+
+### Evidence Status
+Neuroimaging is an established scientific methodology. Interpretation depends heavily on design, preprocessing, statistics, and measurement properties.
+
+## 4. Relationship to This Chapter
+Neuroimaging is a method for studying brain organization, networks, connectivity, injury, and biological individual differences.
+
+## 5. Boundaries
+### Owns
+General neuroimaging methodology and its inferential limits.
+### Defers
+EEG to 1.3.74 and lesion methods to 1.3.75.
+
+## 6. Key Principles
+- Neuroimaging measures biological signals, not psychological constructs directly.
+- Different modalities provide different kinds of information.
+- Correlation between brain activity and behavior does not automatically establish causation.
+
+---
+
+# 1.3.74 EEG
+
+## 1. Purpose
+EEG measures electrical activity from the scalp and provides high temporal-resolution information about coordinated neural activity.
+
+## 2. Definition
+Electroencephalography (EEG) is a method that records voltage fluctuations at the scalp produced by the summed electrical activity of populations of neurons, especially cortical sources.
+
+## 3. Core Understanding
+### Mechanism
+Electrodes detect voltage differences over time. EEG signals can be analyzed in event-related potentials, frequency bands, oscillatory activity, and other representations.
+
+### Strengths / Limitations
+EEG has excellent temporal resolution and is relatively portable and noninvasive. Spatial localization is more limited than some imaging methods and is affected by volume conduction, skull properties, reference choices, and source ambiguity.
+
+### Boundary Conditions
+EEG does not directly record the activity of individual neurons or provide a simple map of where a psychological process occurs.
+
+### Evidence Status
+EEG is an established neuroscience method with broad applications.
+
+## 4. Relationship to This Chapter
+EEG provides a measurement method for neural communication, network activity, functional connectivity, and brain-state dynamics.
+
+## 5. Boundaries
+### Owns
+EEG methodology and its measurement characteristics.
+### Defers
+General neuroimaging to 1.3.73 and lesion methods to 1.3.75.
+
+## 6. Key Principles
+- EEG measures scalp electrical potentials generated by population activity.
+- Its major strength is temporal resolution.
+- EEG interpretation requires attention to source and signal limitations.
+
+---
+
+# 1.3.75 Lesion methods
+
+## 1. Purpose
+Lesion methods use naturally occurring or experimentally produced damage to infer the contribution of neural structures or pathways to function.
+
+## 2. Definition
+Lesion methods are research approaches that examine changes in behavior or psychological function associated with damage to specific neural tissue or pathways.
+
+## 3. Core Understanding
+### Mechanism
+If damage to a neural region is reliably associated with a particular deficit, the region may contribute causally to that function. Stronger inference can come from converging evidence across lesion location, behavioral pattern, controls, and complementary methods.
+
+### Types / Forms
+Modern human lesion studies often use naturally occurring injuries such as stroke, while animal research may use controlled lesions where ethically and scientifically justified.
+
+### Boundary Conditions
+Lesions can affect networks rather than isolated regions, and patients may differ before injury. Recovery and compensation can also change observed relationships.
+
+### Evidence Status
+Lesion evidence is valuable for causal inference about brain function but must be interpreted with anatomical and methodological care.
+
+## 4. Relationship to This Chapter
+Lesion methods connect brain injury, neuropsychology, brain organization, and causal inference about neural function.
+
+## 5. Boundaries
+### Owns
+The methodological logic and limitations of lesion-based brain–behavior inference.
+### Defers
+General neuropsychology to 1.3.71 and brain injury consequences to 1.3.72.
+
+## 6. Key Principles
+- Lesions can provide stronger causal evidence than simple activity correlations.
+- Network disruption complicates simple localization.
+- Converging methods strengthen inference.
+
+---
+
+# 1.3.76 Behavioral genetics
+
+## 1. Purpose
+Behavioral genetics studies how genetic differences and environmental differences contribute to variation in behavior and psychological traits.
+
+## 2. Definition
+Behavioral genetics is the field that investigates genetic and environmental contributions to individual differences in behavior and psychological characteristics.
+
+## 3. Core Understanding
+### Methods / Approaches
+Methods include twin studies, adoption studies, family designs, molecular genetic approaches, and statistical models separating components of variation.
+
+### Mechanism
+Behavioral-genetic findings can estimate population-level contributions of genetic and environmental variation, but these estimates do not identify a single causal gene or determine an individual's outcome.
+
+### Boundary Conditions
+Results depend on population, environment, measurement, assumptions, and study design. Gene–environment correlation and interaction can complicate interpretation.
+
+### Misconceptions
+Behavioral genetics is not the claim that behavior is genetically predetermined. Its central subject is variation and the interplay of genes and environments.
+
+### Evidence Status
+The field is established, while specific trait findings vary in robustness and explanatory detail.
+
+## 4. Relationship to This Chapter
+Behavioral genetics operationalizes genetic variation, heritability, and gene–environment concepts using empirical designs.
+
+## 5. Boundaries
+### Owns
+The field-level study of genetic and environmental contributions to behavioral variation.
+### Defers
+Specific study designs to 1.3.77–1.3.78 and molecular gene processes to 1.3.50–1.3.55.
+
+## 6. Key Principles
+- Genetic and environmental influences are both relevant to behavioral variation.
+- Population estimates are not individual destinies.
+- Study design strongly affects interpretation.
+
+---
+
+# 1.3.77 Twin studies
+
+## 1. Purpose
+Twin studies compare similarities between twins to estimate genetic and environmental contributions to variation in traits.
+
+## 2. Definition
+Twin studies are behavioral-genetic designs that compare trait similarity between monozygotic and dizygotic twins to estimate components of phenotypic variation under specified assumptions.
+
+## 3. Core Understanding
+### Mechanism
+Monozygotic twins share nearly all segregating DNA, while dizygotic twins share on average about half. Greater similarity among monozygotic twins can support genetic contribution, but interpretation depends on assumptions about environments and measurement.
+
+### Boundary Conditions
+Twin designs do not directly identify specific genes and can be affected by equal-environment assumptions, assortative mating, gene–environment correlation, and sample characteristics.
+
+### Misconceptions
+A twin-study heritability estimate is not the percentage of an individual's trait caused by genes.
+
+### Evidence Status
+Twin designs are established tools, but their estimates are model-dependent and should be interpreted with complementary evidence.
+
+## 4. Relationship to This Chapter
+Twin studies are a specific method within behavioral genetics and inform the interpretation of heritability.
+
+## 5. Boundaries
+### Owns
+The twin-comparison research design and its inferential logic.
+### Defers
+General heritability to 1.3.53 and behavioral genetics to 1.3.76.
+
+## 6. Key Principles
+- Twin comparisons estimate population variation under assumptions.
+- They do not identify individual genetic causes.
+- Complementary molecular and longitudinal evidence can strengthen interpretation.
+
+---
+
+# 1.3.78 Adoption studies
+
+## 1. Purpose
+Adoption studies use differences and similarities between adoptees, biological relatives, and adoptive relatives to examine genetic and environmental contributions to psychological traits.
+
+## 2. Definition
+Adoption studies are behavioral-genetic designs that compare relationships among adopted individuals and biological or adoptive relatives to investigate genetic and environmental sources of variation.
+
+## 3. Core Understanding
+### Mechanism
+Similarity with biological relatives can provide evidence consistent with genetic influence, while similarity with adoptive relatives can provide evidence about environmental influence. The design can also be combined with twin or longitudinal approaches.
+
+### Boundary Conditions
+Prenatal environment, selective placement, socioeconomic conditions, contact with biological relatives, assortative mating, and adoption-selection effects can complicate interpretation.
+
+### Misconceptions
+Adoption studies do not cleanly separate “genes” from “environment” in every circumstance because prenatal and postnatal environments can be correlated with biological relatedness.
+
+### Evidence Status
+Adoption studies are established behavioral-genetic methods, but estimates depend on design quality and population.
+
+## 4. Relationship to This Chapter
+Adoption studies complement twin studies and broader behavioral-genetic approaches to heritability and gene–environment processes.
+
+## 5. Boundaries
+### Owns
+The adoption-study design and its inferential logic.
+### Defers
+General behavioral genetics to 1.3.76 and heritability to 1.3.53.
+
+## 6. Key Principles
+- Adoption designs help separate some genetic and environmental sources of variation.
+- Prenatal and selection effects matter.
+- Results are population-level evidence, not individual genetic diagnoses.
+
+---
