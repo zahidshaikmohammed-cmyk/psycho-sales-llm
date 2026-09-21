@@ -1677,3 +1677,790 @@ Perceptual phenomena and visual experience to Chapter 1.4 and broader brain orga
 - Visual perception depends on more than occipital activity alone.
 
 ---
+# 1.3.41 Prefrontal cortex
+
+## 1. Purpose
+The prefrontal cortex supports flexible control of behavior through interactions among goals, context, memory, valuation, and action systems.
+
+## 2. Definition
+The prefrontal cortex is a set of frontal cortical regions anterior to motor and premotor cortex that contribute to executive control, planning, working-memory-related processing, decision processes, social regulation, and context-sensitive behavior.
+
+## 3. Core Understanding
+### Components / Dimensions
+Prefrontal regions include dorsolateral, ventrolateral, orbitofrontal, ventromedial, and anterior or frontopolar territories with partly distinct connectivity and functions.
+
+### Mechanism
+Prefrontal networks maintain and manipulate task-relevant information, represent goals and rules, evaluate context, regulate competing responses, and coordinate with sensory, motor, limbic, and basal-ganglia systems.
+
+### Boundary Conditions
+Prefrontal function depends on task demands, motivation, development, stress, fatigue, and interactions with other systems.
+
+### Misconceptions
+The prefrontal cortex is not a single “rational brain” or a universal center of self-control.
+
+### Evidence Status
+Its role in executive and contextual control is strongly supported; precise functional subdivisions remain network-dependent.
+
+## 4. Relationship to This Chapter
+It is a specialized component of the frontal lobe and interacts with association cortex, basal ganglia, thalamus, and other systems.
+
+## 5. Boundaries
+### Owns
+Prefrontal anatomy and broad control-related functions.
+### Defers
+General thinking and decision processes to their canonical psychological chapters.
+
+## 6. Key Principles
+- Prefrontal function is distributed across interacting subregions.
+- It supports context-sensitive control rather than abstract rationality alone.
+- Complex control depends on broader brain networks.
+
+---
+
+# 1.3.42 Motor cortex
+
+## 1. Purpose
+Motor cortex provides a major cortical substrate for voluntary movement planning and control.
+
+## 2. Definition
+Motor cortex refers to cortical regions involved in generating, organizing, and controlling movements, including primary motor and related premotor and supplementary motor regions.
+
+## 3. Core Understanding
+### Components / Dimensions
+Primary motor cortex contributes to descending control of movement. Premotor and supplementary motor regions participate in movement preparation, selection, sequencing, and coordination.
+
+### Mechanism
+Motor cortical activity reflects movement parameters and task context and interacts with basal ganglia, cerebellum, brainstem, spinal circuits, and sensory systems.
+
+### Consequences
+Damage can cause weakness, impaired skilled movement, or altered motor planning depending on region and lesion characteristics.
+
+### Misconceptions
+One motor-cortex neuron does not simply correspond to one muscle or one movement. Representations are distributed and overlapping.
+
+### Evidence Status
+The role of motor cortex in movement is well established; detailed coding properties continue to be studied.
+
+## 4. Relationship to This Chapter
+Motor cortex is a cortical component of the motor system and connects frontal-lobe organization with motor pathways and sensory feedback.
+
+## 5. Boundaries
+### Owns
+Motor cortical organization and its contribution to movement control.
+### Defers
+The integrated motor system to 1.3.25 and descending pathways to 1.3.27.
+
+## 6. Key Principles
+- Motor cortex contributes to movement rather than acting alone.
+- Motor representations are distributed and overlapping.
+- Sensory feedback and subcortical circuits shape motor output.
+
+---
+
+# 1.3.43 Somatosensory cortex
+
+## 1. Purpose
+Somatosensory cortex provides cortical processing of information about the body's surface and internal musculoskeletal state.
+
+## 2. Definition
+Somatosensory cortex is the set of cortical regions that receives and processes information about touch, pressure, proprioception, pain-related signals, temperature, and bodily location, with different modalities represented through distinct pathways.
+
+## 3. Core Understanding
+### Components / Dimensions
+Primary somatosensory cortex in the parietal lobe contains organized representations of the body. Secondary and association regions integrate information across body parts and contexts.
+
+### Mechanism
+Ascending sensory pathways deliver transformed signals to cortical regions, where spatial and feature information is integrated with other sensory and contextual signals.
+
+### Boundary Conditions
+Somatosensory cortex is not the sole source of bodily experience; thalamic, brainstem, insular, limbic, and other systems contribute.
+
+### Misconceptions
+The cortical body map is not a literal miniature body and can change with experience and injury.
+
+### Evidence Status
+Its role in somatic sensation is strongly established.
+
+## 4. Relationship to This Chapter
+It is a specialized cortical system within the parietal lobe and sensory pathways and interacts with motor cortex to support action.
+
+## 5. Boundaries
+### Owns
+Cortical organization of somatosensory processing.
+### Defers
+Pain as a psychological perceptual phenomenon to Chapter 1.4 and interoception to 1.3.66.
+
+## 6. Key Principles
+- Somatosensory cortex represents bodily information in organized but adaptable maps.
+- Somatic sensation depends on distributed pathways.
+- Sensory and motor systems interact continuously.
+
+---
+
+# 1.3.44 Corpus callosum
+
+## 1. Purpose
+The corpus callosum provides the largest commissural connection between the cerebral hemispheres.
+
+## 2. Definition
+The corpus callosum is a large bundle of nerve fibers connecting corresponding and related cortical regions across the left and right cerebral hemispheres.
+
+## 3. Core Understanding
+### Mechanism
+Callosal fibers allow information and activity to be coordinated across hemispheres. Different portions connect different cortical territories.
+
+### Consequences
+Disruption can reduce communication between hemispheres and, in selected circumstances, produce measurable interhemispheric deficits.
+
+### Boundary Conditions
+The hemispheres are not completely isolated even when callosal communication is impaired; other commissural and subcortical pathways also contribute.
+
+### Misconceptions
+The corpus callosum does not simply connect a “left brain” and “right brain” with completely separate personalities or abilities.
+
+### Evidence Status
+Its anatomy and role in interhemispheric communication are established.
+
+## 4. Relationship to This Chapter
+The corpus callosum is a structural basis for hemispheric interaction and informs the study of specialization and lateralization.
+
+## 5. Boundaries
+### Owns
+The anatomy and general communication function of the corpus callosum.
+### Defers
+Hemispheric specialization to 1.3.45 and lateralization to 1.3.46.
+
+## 6. Key Principles
+- The corpus callosum supports interhemispheric coordination.
+- Hemispheric differences do not imply complete independence.
+- Interhemispheric communication is distributed across multiple pathways.
+
+---
+
+# 1.3.45 Hemispheric specialization
+
+## 1. Purpose
+Hemispheric specialization describes the tendency for some neural functions to be represented or processed more strongly in one cerebral hemisphere than the other.
+
+## 2. Definition
+Hemispheric specialization is the relative concentration or specialization of particular neural processes within one cerebral hemisphere, while most complex functions still depend on interactions between hemispheres.
+
+## 3. Core Understanding
+### Components / Dimensions
+Language functions are often more left-lateralized in many people, while some visuospatial and attentional functions show stronger right-hemisphere involvement. These are population tendencies, not absolute rules.
+
+### Mechanism
+Specialization reflects developmental, anatomical, connectivity, and experience-related organization. Hemispheric interactions remain essential for many tasks.
+
+### Individual Differences
+The degree and pattern of specialization vary across individuals, tasks, development, handedness, and clinical conditions.
+
+### Misconceptions
+The popular claim that people are simply “left-brained” or “right-brained” is not an accurate description of modern neuroscience.
+
+### Evidence Status
+Hemispheric specialization is well established in several domains, but broad personality claims based on hemispheric labels lack scientific support.
+
+## 4. Relationship to This Chapter
+It connects corpus-callosum anatomy, cortical organization, and lateralization.
+
+## 5. Boundaries
+### Owns
+Relative functional specialization across hemispheres.
+### Defers
+The anatomical asymmetry concept to 1.3.46 and specific psychological functions to their canonical chapters.
+
+## 6. Key Principles
+- Some functions show population-level hemispheric biases.
+- Specialization does not mean isolation.
+- Individual and task variation matter.
+
+---
+
+# 1.3.46 Lateralization
+
+## 1. Purpose
+Lateralization describes asymmetry in structure, connectivity, or function between the cerebral hemispheres.
+
+## 2. Definition
+Lateralization is the organization of a neural function or anatomical feature such that its distribution differs systematically between the left and right sides of the nervous system.
+
+## 3. Core Understanding
+### Components / Dimensions
+Lateralization can be structural, functional, developmental, or task-dependent. It may concern the location, strength, timing, or connectivity of activity.
+
+### Mechanism
+Asymmetry emerges through developmental processes, genetic influences, experience, connectivity, and neural specialization. Lateralization can increase processing efficiency while retaining cross-hemispheric coordination.
+
+### Boundary Conditions
+Lateralization is rarely absolute. Many functions are bilateral or dynamically distributed.
+
+### Misconceptions
+Lateralization is not equivalent to the “left-brain/right-brain” personality theory.
+
+### Evidence Status
+Neural asymmetries are well established in multiple domains; the magnitude and significance of a particular asymmetry require domain-specific evidence.
+
+## 4. Relationship to This Chapter
+Lateralization is the broader organizational concept underlying hemispheric specialization and interacts with corpus-callosum connectivity.
+
+## 5. Boundaries
+### Owns
+General hemispheric asymmetry of neural structure and function.
+### Defers
+Specific specialization patterns to 1.3.45.
+
+## 6. Key Principles
+- Lateralization concerns relative asymmetry, not total separation.
+- Many functions remain bilaterally distributed.
+- Development and individual variation shape lateralization.
+
+---
+
+# 1.3.47 Endocrine system
+
+## 1. Purpose
+The endocrine system provides a major chemical communication system that coordinates physiology through hormones released into the bloodstream.
+
+## 2. Definition
+The endocrine system is a network of glands, tissues, and signaling mechanisms that release hormones into circulation to regulate physiological processes across the body.
+
+## 3. Core Understanding
+### Components / Dimensions
+Major endocrine organs include the pituitary, thyroid, adrenal glands, pancreas, gonads, and hypothalamic regulatory systems. Other tissues also produce hormones.
+
+### Mechanism
+Hormones travel through blood to target cells with appropriate receptors. Endocrine effects can be slower and longer-lasting than many neural signals, although timescales vary.
+
+### Consequences
+Endocrine signaling regulates metabolism, growth, reproduction, stress responses, fluid balance, and many aspects of brain–body coordination.
+
+### Boundary Conditions
+Endocrine effects depend on hormone concentration, receptor distribution, timing, feedback loops, and physiological state.
+
+### Evidence Status
+The endocrine system is a well-established physiological system.
+
+## 4. Relationship to This Chapter
+It connects hormones, hypothalamic regulation, reproductive physiology, homeostasis, allostasis, and neuroendocrine interaction.
+
+## 5. Boundaries
+### Owns
+The general endocrine communication system.
+### Defers
+Individual hormones to 1.3.48 and neuroendocrine coupling to 1.3.49.
+
+## 6. Key Principles
+- Endocrine signaling uses circulating chemical messengers.
+- Hormonal effects depend on receptors and physiological context.
+- Neural and endocrine regulation are closely integrated.
+
+---
+
+# 1.3.48 Hormones
+
+## 1. Purpose
+Hormones are chemical messengers that coordinate physiological functions across tissues and contribute to brain–body regulation.
+
+## 2. Definition
+A hormone is a signaling molecule produced by endocrine or other specialized cells that travels through circulation or local biological pathways to influence target cells with appropriate receptors.
+
+## 3. Core Understanding
+### Types / Forms
+Hormones include peptide and protein hormones, steroid hormones, and other chemical classes. They differ in synthesis, transport, receptor location, and timescale of action.
+
+### Mechanism
+Hormones bind receptors and alter cellular signaling or gene regulation. Effects depend on receptor distribution, concentration, timing, feedback, and interactions with other signals.
+
+### Consequences
+Hormones influence metabolism, growth, reproduction, stress physiology, fluid balance, and neural function. A hormone can have different effects in different tissues.
+
+### Misconceptions
+A hormone is not a simple command molecule that produces one emotion or behavior. Psychological outcomes emerge from interacting biological and environmental systems.
+
+### Evidence Status
+Hormonal signaling is strongly established; specific behavioral claims require context-specific evidence.
+
+## 4. Relationship to This Chapter
+Hormones are the signaling objects of the endocrine system and central to neuroendocrine interaction and reproductive physiology.
+
+## 5. Boundaries
+### Owns
+The general biological concept of hormones and receptor-mediated effects.
+### Defers
+Endocrine-system organization to 1.3.47 and reproductive hormones to 1.3.69.
+
+## 6. Key Principles
+- Hormones act through receptors and context.
+- Effects can be widespread but are not psychologically one-dimensional.
+- Hormonal regulation interacts continuously with neural systems.
+
+---
+
+# 1.3.49 Neuroendocrine interaction
+
+## 1. Purpose
+Neuroendocrine interaction explains how neural and hormonal systems regulate one another to coordinate physiology and behavior.
+
+## 2. Definition
+Neuroendocrine interaction is the bidirectional coordination between nervous-system activity and endocrine signaling through pathways that connect neural circuits, glands, hormones, and target tissues.
+
+## 3. Core Understanding
+### Mechanism
+The hypothalamus is a major interface, receiving neural and bodily information and regulating endocrine outputs through pituitary and other pathways. Hormones also feed back onto the brain and alter neural activity and gene expression.
+
+### Consequences
+Neuroendocrine interactions contribute to stress regulation, reproduction, metabolism, growth, circadian processes, and homeostatic adaptation.
+
+### Boundary Conditions
+Effects vary with hormone concentration, timing, receptor distribution, developmental stage, and current physiological state.
+
+### Misconceptions
+The relationship is not one-directional from brain to body. Hormonal and peripheral signals also modify brain function.
+
+### Evidence Status
+The existence of neuroendocrine feedback is well established; specific behavioral interpretations vary by system.
+
+## 4. Relationship to This Chapter
+This topic links hypothalamus, endocrine system, hormones, homeostasis, allostasis, reproductive hormones, and brain–body interaction.
+
+## 5. Boundaries
+### Owns
+The interface and bidirectional regulation between neural and endocrine systems.
+### Defers
+Specific endocrine organs and hormones to their canonical Topics.
+
+## 6. Key Principles
+- Neural and endocrine systems regulate one another.
+- Feedback is central to neuroendocrine regulation.
+- Context, timing, and receptor distribution shape hormonal effects.
+
+---
+
+# 1.3.50 Gene
+
+## 1. Purpose
+The gene is a fundamental unit of biological inheritance and a source of information used in cellular processes, including the production of functional biological products.
+
+## 2. Definition
+A gene is a heritable segment of DNA associated with functional biological information, including sequences that contribute to the production or regulation of functional RNA or proteins.
+
+## 3. Core Understanding
+### Components / Dimensions
+Genes contain DNA sequences whose functions can include coding for proteins or contributing to regulatory processes. Gene function depends on cellular context and regulatory networks.
+
+### Mechanism
+Genes are transcribed into RNA, and many protein-coding transcripts are translated into proteins. Regulation determines when, where, and how strongly genes are expressed.
+
+### Misconceptions
+A gene is not a single behavioral blueprint. Complex psychological characteristics usually arise from many genetic and environmental influences.
+
+### Evidence Status
+Genes as hereditary DNA units are foundational biology. Claims about specific psychological traits require appropriate genetic and behavioral evidence.
+
+## 4. Relationship to This Chapter
+Genes provide the biological substrate for genetic variation, gene expression, heritability, gene–environment interaction, and epigenetic processes.
+
+## 5. Boundaries
+### Owns
+The general biological construct of the gene.
+### Defers
+Variation across genes to 1.3.51 and expression to 1.3.52.
+
+## 6. Key Principles
+- Genes are DNA-based biological information units.
+- Gene effects depend on regulation and context.
+- Complex psychological traits are not normally controlled by single genes.
+
+---
+
+# 1.3.51 Genetic variation
+
+## 1. Purpose
+Genetic variation explains why individuals and populations differ in DNA sequence and biological characteristics.
+
+## 2. Definition
+Genetic variation is the presence of differences in DNA sequence or genomic structure among individuals or populations.
+
+## 3. Core Understanding
+### Types / Forms
+Variation can involve single-nucleotide differences, insertions or deletions, copy-number differences, structural variants, and larger chromosomal differences.
+
+### Mechanism
+Variation arises through mutation, recombination, and other evolutionary processes and can influence biological traits by altering gene products or regulation.
+
+### Consequences
+Some variants have little measurable effect, some affect biological function, and effects can depend on environmental and genetic context.
+
+### Boundary Conditions
+A genetic association does not by itself establish a direct causal mechanism or determine an individual's outcome.
+
+### Evidence Status
+Genetic variation is foundational. The relationship between particular variants and psychological traits is often probabilistic and complex.
+
+## 4. Relationship to This Chapter
+It provides the substrate for heritability, gene expression, gene–environment interaction, and behavioral-genetic research.
+
+## 5. Boundaries
+### Owns
+Biological variation in genetic material.
+### Defers
+Heritability to 1.3.53 and gene–environment interaction to 1.3.54.
+
+## 6. Key Principles
+- Genetic variation is widespread.
+- Effects are often context-dependent and probabilistic.
+- Genetic difference does not imply genetic determinism.
+
+---
+
+# 1.3.52 Gene expression
+
+## 1. Purpose
+Gene expression explains how information encoded in DNA is selectively used within cells.
+
+## 2. Definition
+Gene expression is the set of cellular processes through which information in a gene is transcribed, processed, and, where applicable, translated into functional RNA or protein.
+
+## 3. Core Understanding
+### Mechanism
+Transcription produces RNA from DNA templates, and many messenger RNAs are translated into proteins. Regulatory systems influence whether, where, when, and how strongly genes are expressed.
+
+### Moderators / Boundary Conditions
+Gene expression depends on cell type, developmental stage, hormones, neural activity, environmental conditions, and regulatory networks. The same genome can therefore support different expression patterns in different cells and states.
+
+### Consequences
+Changes in gene expression can alter cellular structure, signaling, metabolism, and neural function.
+
+### Misconceptions
+Gene expression does not mean the environment “turns genes on” in a simple binary way. Regulation is often graded, dynamic, and distributed.
+
+### Evidence Status
+The molecular biology of gene expression is strongly established. Specific psychological interpretations require evidence linking expression changes to relevant systems.
+
+## 4. Relationship to This Chapter
+Gene expression links genes with neural plasticity, hormones, development, environmental influences, and epigenetic regulation.
+
+## 5. Boundaries
+### Owns
+The biological process of using genetic information in cells.
+### Defers
+Epigenetic processes to 1.3.55 and genetic variation to 1.3.51.
+
+## 6. Key Principles
+- Genes require regulated cellular expression to exert many effects.
+- Expression differs across cells and conditions.
+- Expression is dynamic rather than a fixed readout of DNA alone.
+
+---
+
+# 1.3.53 Heritability
+
+## 1. Purpose
+Heritability is a statistical concept describing the proportion of variation in a measured trait within a particular population and environment that is associated with genetic differences.
+
+## 2. Definition
+Heritability is the proportion of observed variation in a trait within a specified population and environment that can be statistically attributed to genetic variation among individuals.
+
+## 3. Core Understanding
+### Mechanism
+Heritability is estimated from patterns of genetic relatedness and trait similarity using behavioral-genetic or molecular methods. It describes variation in populations, not the cause of an individual's trait.
+
+### Boundary Conditions
+Heritability depends on the population, environment, measurement, and range of genetic and environmental variation. A high estimate does not mean a trait is immutable or unaffected by environment.
+
+### Misconceptions
+Heritability is not the percentage of a person's trait caused by genes. It also does not imply that environmental interventions cannot change the trait.
+
+### Evidence Status
+The statistical concept is established; estimates for specific psychological traits vary across samples and methods.
+
+## 4. Relationship to This Chapter
+Heritability connects genetic variation with behavioral-genetic methods and gene–environment interaction.
+
+## 5. Boundaries
+### Owns
+The population-statistical meaning and interpretation of heritability.
+### Defers
+Behavioral-genetic study designs to 1.3.76 and twin/adoption methods to 1.3.77–1.3.78.
+
+## 6. Key Principles
+- Heritability concerns population variation, not individual causation.
+- It is environment-dependent.
+- Heritability does not imply genetic determinism.
+
+---
+
+# 1.3.54 Gene–environment interaction
+
+## 1. Purpose
+Gene–environment interaction explains why the effect associated with genetic differences can vary across environmental conditions.
+
+## 2. Definition
+Gene–environment interaction occurs when the relationship between genetic variation and a phenotype differs depending on environmental conditions, or when environmental effects differ across genetic backgrounds.
+
+## 3. Core Understanding
+### Mechanism
+Different environments can alter the expression or functional consequences of genetic differences. Conversely, genetic differences can alter sensitivity or response to environmental conditions.
+
+### Types / Forms
+Interactions can involve stress exposure, nutrition, learning environments, toxins, social conditions, and many other factors. They can be studied statistically or through experimental and molecular approaches.
+
+### Boundary Conditions
+An interaction is not the same as correlation between genes and environments. Distinguishing interaction from gene–environment correlation requires appropriate design and analysis.
+
+### Misconceptions
+Gene–environment interaction does not mean genes and environment contribute equal amounts or that every trait shows a meaningful interaction.
+
+### Evidence Status
+The interaction principle is established; specific interactions require replication and careful measurement.
+
+## 4. Relationship to This Chapter
+It links genetic variation, gene expression, development, and environmental influence while supporting a non-deterministic biological framework.
+
+## 5. Boundaries
+### Owns
+The interaction between genetic differences and environmental conditions.
+### Defers
+General development and psychological environment effects to their relevant chapters.
+
+## 6. Key Principles
+- Genetic effects can depend on context.
+- Environmental effects can differ across genetic backgrounds.
+- Interaction claims require evidence beyond simple association.
+
+---
+
+# 1.3.55 Epigenetic processes
+
+## 1. Purpose
+Epigenetic processes describe molecular mechanisms that regulate gene activity without changing the underlying DNA sequence itself.
+
+## 2. Definition
+Epigenetic processes are heritable or reversible molecular changes that alter gene regulation or chromatin state without changing the DNA sequence.
+
+## 3. Core Understanding
+### Mechanism
+Mechanisms include DNA methylation, histone modifications, chromatin remodeling, and regulatory RNA processes. These mechanisms can alter how genes are accessed or expressed.
+
+### Development
+Epigenetic regulation participates in development, cellular differentiation, and responses to biological and environmental conditions. Some marks are stable while others are dynamic.
+
+### Boundary Conditions
+Not every environmentally associated molecular change is necessarily a causal epigenetic mechanism, and evidence for transmission across generations in humans requires careful interpretation.
+
+### Misconceptions
+Epigenetics does not mean that experiences rewrite DNA sequences or that acquired traits are simply inherited by offspring.
+
+### Evidence Status
+Epigenetic regulation is established molecular biology. Specific claims connecting particular experiences to lasting psychological effects through epigenetic pathways vary in evidential strength.
+
+## 4. Relationship to This Chapter
+Epigenetic processes connect gene expression with development, environmental influences, neural plasticity, and biological adaptation.
+
+## 5. Boundaries
+### Owns
+Molecular regulation of gene activity through epigenetic mechanisms.
+### Defers
+General gene expression to 1.3.52 and gene–environment interaction to 1.3.54.
+
+## 6. Key Principles
+- Epigenetic regulation changes gene activity without changing DNA sequence.
+- Many epigenetic processes are dynamic and cell-specific.
+- Psychological claims require evidence linking molecular changes to functional outcomes.
+
+---
+
+# 1.3.56 Evolution
+
+## 1. Purpose
+Evolution provides the broad biological framework for understanding how inherited characteristics in populations change across generations.
+
+## 2. Definition
+Evolution is change in the inherited characteristics and genetic composition of populations across generations.
+
+## 3. Core Understanding
+### Mechanism
+Evolutionary change can result from natural selection, genetic drift, mutation, recombination, and gene flow. Different mechanisms operate under different conditions.
+
+### Consequences
+Evolution explains both shared biological features and population variation across species. Psychological capacities can be studied within this broader biological history without assuming that every trait is an adaptation.
+
+### Boundary Conditions
+Evolution acts on populations across generations, not on individuals during their lifetime. A trait's current existence does not by itself demonstrate why it evolved.
+
+### Misconceptions
+“Evolution” is not synonymous with improvement, progress, or conscious adaptation by an individual.
+
+### Evidence Status
+Evolution is a foundational scientific framework supported by multiple independent evidence streams.
+
+## 4. Relationship to This Chapter
+Evolution provides the overarching context for natural selection, evolutionary adaptation, and biological constraints.
+
+## 5. Boundaries
+### Owns
+The general biological process and framework of population change across generations.
+### Defers
+Natural selection to 1.3.57 and evolutionary adaptation to 1.3.58.
+
+## 6. Key Principles
+- Evolution concerns populations across generations.
+- Multiple mechanisms can produce evolutionary change.
+- Evolutionary explanations require evidence and should not be assumed from trait existence alone.
+
+---
+
+# 1.3.57 Natural selection
+
+## 1. Purpose
+Natural selection explains one major mechanism through which inherited differences can become more or less common in populations.
+
+## 2. Definition
+Natural selection is differential survival or reproduction associated with heritable variation under particular environmental conditions, leading to changes in trait frequencies across generations.
+
+## 3. Core Understanding
+### Mechanism
+When heritable differences affect reproductive success or survival, variants associated with greater reproductive contribution can increase in frequency. Selection depends on environmental context and existing variation.
+
+### Boundary Conditions
+Selection is not the only evolutionary mechanism. Drift, mutation, migration, and other processes can also change populations.
+
+### Misconceptions
+Natural selection does not necessarily produce perfect or optimal traits, and organisms do not consciously choose to evolve.
+
+### Evidence Status
+Natural selection is a foundational evolutionary mechanism with extensive evidence across biology.
+
+## 4. Relationship to This Chapter
+It is the primary mechanism addressed within the evolution-to-adaptation sequence of this chapter.
+
+## 5. Boundaries
+### Owns
+Differential reproductive success as an evolutionary mechanism.
+### Defers
+The broader evolutionary framework to 1.3.56 and adaptation as an outcome to 1.3.58.
+
+## 6. Key Principles
+- Selection requires variation, heritability, and differential reproductive consequences.
+- Selection is environment-dependent.
+- Natural selection is not synonymous with evolution as a whole.
+
+---
+
+# 1.3.58 Evolutionary adaptation
+
+## 1. Purpose
+Evolutionary adaptation describes inherited features shaped by evolutionary processes that improve performance or reproductive outcomes in particular environments.
+
+## 2. Definition
+An evolutionary adaptation is an inherited characteristic whose evolutionary history reflects selection because it contributed to reproductive success or survival in a particular environment.
+
+## 3. Core Understanding
+### Mechanism
+Adaptations arise across generations when heritable variation is differentially reproduced under selection. An adaptation is therefore a historical evolutionary explanation, not simply a useful trait.
+
+### Boundary Conditions
+A characteristic can be neutral, constrained, a by-product, or the result of other evolutionary processes rather than an adaptation. Current usefulness alone does not establish adaptive history.
+
+### Misconceptions
+“Adaptive” does not mean morally good, consciously designed, or optimal in every environment.
+
+### Evidence Status
+Adaptation is a well-established evolutionary concept, but specific adaptation claims require evidence about ancestral selection pressures and alternative explanations.
+
+## 4. Relationship to This Chapter
+Evolutionary adaptation is an outcome-level concept linked to evolution and natural selection and constrained by biological architecture.
+
+## 5. Boundaries
+### Owns
+The biological concept of adaptation as an evolved inherited characteristic.
+### Defers
+General evolution to 1.3.56 and natural selection to 1.3.57.
+
+## 6. Key Principles
+- Adaptations are historical outcomes of evolution.
+- Present usefulness is not enough to prove adaptation.
+- Adaptations are environment-specific and constrained.
+
+---
+
+# 1.3.59 Biological constraints
+
+## 1. Purpose
+Biological constraints define limits and biases imposed by an organism's anatomy, physiology, development, and evolutionary history.
+
+## 2. Definition
+Biological constraints are inherited or acquired properties of biological systems that restrict, bias, or shape the range and form of possible psychological or behavioral processes.
+
+## 3. Core Understanding
+### Components / Dimensions
+Constraints can arise from sensory systems, motor capacities, energetic limits, developmental timing, neural architecture, physiology, and evolutionary history.
+
+### Mechanism
+A constraint can make some responses easier, more probable, or more developmentally accessible than others. Constraints interact with learning and environmental opportunity rather than eliminating plasticity.
+
+### Boundary Conditions
+A biological constraint is not necessarily absolute. Different organisms and individuals can vary within the limits imposed by their biological systems.
+
+### Misconceptions
+Biological constraint does not mean biological determinism. A constraint can shape probabilities without fixing one outcome.
+
+### Evidence Status
+Biological constraints are a general principle supported across behavioral and biological science; specific constraints require domain-specific evidence.
+
+## 4. Relationship to This Chapter
+This concept links evolution, development, neural organization, and individual biological differences.
+
+## 5. Boundaries
+### Owns
+The general concept of biological limits and biases on psychological systems.
+### Defers
+Specific developmental, genetic, or neural mechanisms to their canonical Topics.
+
+## 6. Key Principles
+- Biology constrains but does not completely determine behavior.
+- Constraints can bias possibilities rather than prohibit them absolutely.
+- Environmental learning occurs within biological architecture.
+
+---
+
+# 1.3.60 Homeostasis
+
+## 1. Purpose
+Homeostasis explains how biological systems maintain relatively stable internal conditions despite ongoing changes.
+
+## 2. Definition
+Homeostasis is the regulation of internal physiological variables within ranges compatible with normal functioning.
+
+## 3. Core Understanding
+### Mechanism
+Homeostatic systems detect deviations from regulated ranges and activate processes that counter those deviations. Feedback loops involving sensors, control systems, and effectors are central.
+
+### Types / Forms
+Homeostatic regulation applies to variables such as temperature, glucose, fluid balance, and acid–base status, although different variables use different mechanisms.
+
+### Boundary Conditions
+Homeostasis does not mean perfect constancy. Regulated values can change with context, time, activity, and developmental state.
+
+### Misconceptions
+Homeostasis is not simply “the body staying the same.” It is active regulation in a changing environment.
+
+### Evidence Status
+Homeostatic regulation is a foundational physiological principle.
+
+## 4. Relationship to This Chapter
+Homeostasis connects hypothalamic regulation, autonomic systems, endocrine signaling, brain–body interaction, and allostasis.
+
+## 5. Boundaries
+### Owns
+Maintenance of physiological variables within regulated ranges.
+### Defers
+Allostasis to 1.3.61 and specific biological rhythms to 1.3.62.
+
+## 6. Key Principles
+- Homeostasis is active regulation, not passive stability.
+- Feedback is central.
+- Regulated variables operate within ranges rather than fixed single values.
+
+---
