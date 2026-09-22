@@ -1038,11 +1038,17 @@ Historical records may be preserved when useful, but their status must remain ex
 
 `knowledge/system-01/chapter-1.4/CHAPTER_1.4_FINAL_VALIDATION.md`
 
+## Chapter 1.5
+
+`knowledge/system-01/chapter-1.5/CHAPTER_1.5.md`
+
+`knowledge/system-01/chapter-1.5/CHAPTER_1.5_FINAL_VALIDATION.md`
+
 ---
 
 # 29. HANDOFF STATUS
 
-**Completed canonical chapters:** 1.1, 1.2, 1.3, 1.4
+**Completed canonical chapters:** 1.1, 1.2, 1.3, 1.4, 1.5
 
 **Completed Topic count:** 57 + 118 + 78 + 62 = **315 canonical Topics**
 
@@ -1093,10 +1099,10 @@ A new writer should treat the following as the operational instruction:
 
 The repository-wide synchronization pass was completed before Chapter 1.5 work.
 
-- Canonical completed System 1 chapters synchronized: **1.1, 1.2, 1.3, 1.4**.
+- Canonical completed System 1 chapters synchronized: **1.1, 1.2, 1.3, 1.4, 1.5**.
 - Canonical Topic total synchronized: **315**.
 - README current-state metadata synchronized.
-- Cross-chapter ownership remediation metadata synchronized through Chapter 1.4.
+- Cross-chapter ownership remediation metadata synchronized through Chapter 1.5.
 - Chapters 1.1–1.3 final validation records synchronized with their sealed state.
 - Chapter 1.4 synchronized to canonical knowledge version **1.1** and locked/sealed status.
 - Architecture count metadata clarified: **1,284** is retained as a historical intermediate owner-count result; **1,267** is the current generated canonical owner count.
