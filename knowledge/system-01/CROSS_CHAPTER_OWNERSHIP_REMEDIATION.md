@@ -125,3 +125,26 @@ The completed Chapters 1.1–1.4 may remain marked LOCKED & SEALED only while th
 - Specialization overlaps requiring explicit boundaries documented: **5**
 - Chapter 1.4 ownership and Knowledge Object writing are complete.
 - Chapter 1.4 final validation is recorded in `knowledge/system-01/chapter-1.4/CHAPTER_1.4_FINAL_VALIDATION.md`.
+
+
+## Chapter 1.5 Ownership Remediation — Pre-Writing Gate
+
+### 1.5 Consciousness-specific self-awareness ↔ 1.14 Self-awareness
+- **1.14 Self-awareness** remains the canonical owner of self-awareness as a self-related construct within personality, self, identity, and individual-differences psychology.
+- **1.5 Consciousness-specific self-awareness** owns the consciousness-specific treatment of awareness of one's own ongoing conscious experience.
+- Boundary: self as a psychological construct vs self-awareness as a feature of conscious experience.
+- Remediation: Chapter 1.5 was disambiguated from the unqualified **Self-awareness** name to **Consciousness-specific self-awareness**. Chapter 1.14 remains the owner of the unqualified **Self-awareness** construct.
+
+### 1.5 Sleep-dependent memory effects ↔ 1.8 Sleep and memory
+- **1.8 Sleep and memory** remains the canonical owner of the sleep–memory relationship within the memory ontology.
+- **1.5 Sleep-dependent memory effects** owns sleep-specific effects on memory only as a scoped sleep-domain manifestation and must defer the general sleep–memory relationship to Chapter 1.8.
+- Boundary: memory-centered sleep–memory relationship vs sleep-centered treatment of memory effects.
+- Remediation: Chapter 1.5 was disambiguated from the unqualified **Sleep and memory** name to **Sleep-dependent memory effects**. Chapter 1.8 remains the owner of the unqualified **Sleep and memory** relationship.
+
+### Chapter 1.5 audit gate
+- Exact canonical-name collisions remediated: **2**
+- Existing sealed Knowledge Objects rewritten: **0**
+- Chapter 1.1–1.4 Topic names changed: **0**
+- Chapter 1.5 Topics added: **0**
+- Chapter 1.5 Topics removed: **0**
+- Remediation type: surgical disambiguation only; no knowledge prose written.
