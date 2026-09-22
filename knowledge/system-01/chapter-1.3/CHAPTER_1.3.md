@@ -1,7 +1,7 @@
 # CHAPTER 1.3 — BIOLOGICAL BASES OF HUMAN BEHAVIOR AND MENTAL LIFE
 
 **System:** 1 — HUMAN PSYCHOLOGY  
-**Status:** FINAL VALIDATION PASSED — READY FOR LOCK/SEAL REVIEW  
+**Status:** LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 1.1  
 **Ontology:** Exact 78-topic Chapter 1.3 index sourced from SYSTEM_1_SURGICAL_CANONICAL_ARCHITECTURE_v2.md  
 **Writing standard:** PSYCHO SALES Permanent Knowledge Object Writing Constitution  
 **Canonical rule:** This chapter owns the biological foundations explicitly assigned to it. Other System 1 chapters may connect to these mechanisms but do not redefine their general biological meaning.
