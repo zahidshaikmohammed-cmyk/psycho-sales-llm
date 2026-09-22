@@ -1,6 +1,6 @@
 # CHAPTER 1.1 — FINAL VALIDATION
 
-**Status:** VALIDATION PASSED — READY FOR LOCK/SEAL REVIEW
+**Status:** VALIDATION PASSED — CHAPTER SEALED
 
 ## Scope
 57 canonical Topics in the current Chapter 1.1 ontology.
