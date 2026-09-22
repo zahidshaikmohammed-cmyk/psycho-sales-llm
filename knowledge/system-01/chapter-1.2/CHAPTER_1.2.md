@@ -6312,37 +6312,6 @@ Reliability, validity, specific error sources, and statistical correction proced
 ## 1.2.82 Validity
 
 ## 1. Purpose
-Owns the overarching psychometric concept of validity.
-
-## 2. Definition
-Validity is the degree to which evidence and theory support an intended interpretation and use of measurement results for a specified purpose, population, and context.
-
-## 3. Core Understanding
-Validity concerns the interpretation made from measurement results rather than an eternal property attached to an instrument. Evidence can involve content, response processes, internal structure, relations with other variables, and consequences relevant to the intended use.
-
-Validity is distinct from reliability: consistency of measurement does not by itself establish that the intended interpretation is supported.
-
-**Ownership hierarchy:** 1.2.82 owns the general concept; 1.2.51 specializes construct validity; 1.2.52 specializes measurement-procedure validity.
-
-**Evidence status:** validity is an empirical and theoretical argument whose strength depends on the quality, relevance, convergence, and limitations of evidence.
-
-## 4. Relationship to This Chapter
-Provides the overarching validity framework connecting construct validity, measurement validity, reliability, factor analysis, latent variables, and measurement invariance.
-
-## 5. Boundaries
-### Owns
-General psychometric meaning and evidential logic of validity.
-
-### Defers
-Specific validity forms and measurement applications to their dedicated Topics.
-
-## 6. Key Principles
-- Validity concerns supported interpretation and use.
-- Validity is purpose- and context-dependent.
-- Validity requires evidence and theoretical justification.
-- Reliability and validity are related but distinct.
-
-## 1. Purpose
 
 Validity is the central psychometric concept concerning whether evidence supports the interpretations and uses made from measurements. It prevents the common mistake of treating a reliable score as automatically meaningful.
 
