@@ -79,12 +79,12 @@
 ## 1.4.1 Sensation
 
 ## 1. Purpose
-the process by which sensory systems detect stimulation and convert it into information available for neural processing.
+This Topic establishes the meaning, operation, and boundaries of Sensation within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Sensation concerns detection and registration.
+the process by which sensory systems detect stimulation and convert it into information available for neural processing.
 
-**What it is not:** Sensation should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Sensation should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Sensation concerns detection and registration. Receptors respond selectively to physical or chemical stimulation; transduction converts that stimulation into neural activity; coding represents properties such as intensity, timing, and location. Sensory detection is probabilistic and depends on stimulus conditions, background activity, adaptation, and observer state.
@@ -112,12 +112,12 @@ sensory receptors, transduction, coding, and perception.
 ## 1.4.2 Perception
 
 ## 1. Purpose
-the process by which sensory information is organized and interpreted into meaningful representations of objects, events, qualities, and bodily states.
+This Topic establishes the meaning, operation, and boundaries of Perception within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Perception is constrained by sensory input but is not a one-to-one copy of it.
+the process by which sensory information is organized and interpreted into meaningful representations of objects, events, qualities, and bodily states.
 
-**What it is not:** Perception should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Perception should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Perception is constrained by sensory input but is not a one-to-one copy of it. Bottom-up information interacts with prior knowledge, expectations, context, and learned structure. Organization, constancy, inference, multisensory integration, and systematic errors are all part of perceptual science.
@@ -145,12 +145,12 @@ specific perceptual processes and sensory modalities.
 ## 1.4.3 Sensory receptor
 
 ## 1. Purpose
-a specialized cell, cell ending, or receptor structure that responds selectively to a form of physical or chemical stimulation.
+This Topic establishes the meaning, operation, and boundaries of Sensory receptor within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Receptors differ in stimulus selectivity, sensitivity, location, adaptation, and neural connections.
+a specialized cell, cell ending, or receptor structure that responds selectively to a form of physical or chemical stimulation.
 
-**What it is not:** Sensory receptor should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Sensory receptor should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Receptors differ in stimulus selectivity, sensitivity, location, adaptation, and neural connections. They sample particular dimensions of the environment or body rather than reproducing the world in full.
@@ -178,12 +178,12 @@ transduction, coding, and modality-specific pathways.
 ## 1.4.4 Transduction
 
 ## 1. Purpose
-the conversion of sensory stimulation into changes in neural activity.
+This Topic establishes the meaning, operation, and boundaries of Transduction within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Different modalities use different transduction mechanisms.
+the conversion of sensory stimulation into changes in neural activity.
 
-**What it is not:** Transduction should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Transduction should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Different modalities use different transduction mechanisms. Light, mechanical deformation, temperature, and chemical stimulation alter receptor or membrane properties and initiate neural signals. Transduction is an early biological transformation, not perception itself.
@@ -211,12 +211,12 @@ specific receptor structures and pathways.
 ## 1.4.5 Sensory coding
 
 ## 1. Purpose
-the representation of sensory information through patterns, rates, timing, and distributions of neural activity.
+This Topic establishes the meaning, operation, and boundaries of Sensory coding within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Sensory systems encode properties such as intensity, location, frequency, timing, and features.
+the representation of sensory information through patterns, rates, timing, and distributions of neural activity.
 
-**What it is not:** Sensory coding should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Sensory coding should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Sensory systems encode properties such as intensity, location, frequency, timing, and features. Coding can depend on populations of neurons and temporal as well as spatial patterns. Noise and adaptation constrain fidelity.
@@ -244,12 +244,12 @@ modality-specific pathways and representations.
 ## 1.4.6 Receptive field
 
 ## 1. Purpose
-the region or set of stimulus conditions that influence the activity of a sensory neuron or neural unit.
+This Topic establishes the meaning, operation, and boundaries of Receptive field within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Receptive fields may be spatial or feature-based and can contain excitatory and inhibitory regions.
+the region or set of stimulus conditions that influence the activity of a sensory neuron or neural unit.
 
-**What it is not:** Receptive field should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Receptive field should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Receptive fields may be spatial or feature-based and can contain excitatory and inhibitory regions. They become more complex across processing stages. Their measured properties can depend on context, adaptation, attention, and task conditions.
@@ -277,12 +277,12 @@ detailed modality-specific pathways.
 ## 1.4.7 Absolute threshold
 
 ## 1. Purpose
-the minimum stimulus intensity detectable at a specified probability under defined conditions.
+This Topic establishes the meaning, operation, and boundaries of Absolute threshold within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Threshold detection is probabilistic.
+the minimum stimulus intensity detectable at a specified probability under defined conditions.
 
-**What it is not:** Absolute threshold should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Absolute threshold should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Threshold detection is probabilistic. Estimates depend on modality, background stimulation, duration, attention, adaptation, measurement procedure, and response criterion. A threshold is therefore a property of a task and conditions, not an immutable personal constant.
@@ -310,12 +310,12 @@ difference thresholds and decision criteria.
 ## 1.4.8 Difference threshold
 
 ## 1. Purpose
-the minimum change between stimuli detectable at a specified probability under defined conditions.
+This Topic establishes the meaning, operation, and boundaries of Difference threshold within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Difference thresholds measure discrimination rather than detection from zero.
+the minimum change between stimuli detectable at a specified probability under defined conditions.
 
-**What it is not:** Difference threshold should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Difference threshold should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Difference thresholds measure discrimination rather than detection from zero. Sensitivity depends on baseline intensity, modality, duration, context, and task. Weber-like proportional relationships occur across some ranges but are not universal.
@@ -343,12 +343,12 @@ signal-detection parameters and general decision processes.
 ## 1.4.9 Signal detection theory
 
 ## 1. Purpose
-a framework separating sensitivity to signal–noise differences from the decision criterion used in detection.
+This Topic establishes the meaning, operation, and boundaries of Signal detection theory within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Detection performance produces hits, misses, false alarms, and correct rejections.
+a framework separating sensitivity to signal–noise differences from the decision criterion used in detection.
 
-**What it is not:** Signal detection theory should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Signal detection theory should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Detection performance produces hits, misses, false alarms, and correct rejections. Sensitivity concerns separation of signal-present and signal-absent evidence distributions; criterion concerns the response boundary. Incentives and expectations can change criterion without changing sensitivity.
@@ -376,12 +376,12 @@ individual criterion, response bias, and signal-to-noise.
 ## 1.4.10 Signal-to-noise
 
 ## 1. Purpose
-the relative strength or discriminability of task-relevant sensory information compared with competing variation or interference.
+This Topic establishes the meaning, operation, and boundaries of Signal-to-noise within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Noise may arise physically, biologically, or through measurement.
+the relative strength or discriminability of task-relevant sensory information compared with competing variation or interference.
 
-**What it is not:** Signal-to-noise should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Signal-to-noise should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Noise may arise physically, biologically, or through measurement. Higher signal relative to noise generally supports discrimination, but attention and organization can alter how useful information is extracted. Signal and noise are defined relative to a task.
@@ -409,12 +409,12 @@ criterion and response bias.
 ## 1.4.11 Criterion
 
 ## 1. Purpose
-the decision boundary used to classify uncertain sensory evidence as meeting the standard for a response.
+This Topic establishes the meaning, operation, and boundaries of Criterion within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-A liberal criterion requires less evidence and can increase hits and false alarms; a conservative criterion requires more evidence and can reduce both.
+the decision boundary used to classify uncertain sensory evidence as meeting the standard for a response.
 
-**What it is not:** Criterion should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Criterion should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 A liberal criterion requires less evidence and can increase hits and false alarms; a conservative criterion requires more evidence and can reduce both. Costs, rewards, expectations, instructions, and prior probabilities can shift criterion.
@@ -442,12 +442,12 @@ response bias and sensitivity.
 ## 1.4.12 Response bias
 
 ## 1. Purpose
-a systematic tendency to favor one response when sensory evidence is uncertain.
+This Topic establishes the meaning, operation, and boundaries of Response bias within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Bias can reflect expectations, prior probabilities, incentives, error costs, instructions, or learned response tendencies.
+a systematic tendency to favor one response when sensory evidence is uncertain.
 
-**What it is not:** Response bias should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Response bias should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Bias can reflect expectations, prior probabilities, incentives, error costs, instructions, or learned response tendencies. It can change reports without changing the ability to discriminate sensory evidence. Bias is not necessarily irrational; it can reflect rational tradeoffs under asymmetric consequences.
@@ -475,12 +475,12 @@ broader cognitive biases and modality-specific mechanisms.
 ## 1.4.13 Sensory adaptation
 
 ## 1. Purpose
-a reduction or alteration in sensory responsiveness during sustained or repeated stimulation.
+This Topic establishes the meaning, operation, and boundaries of Sensory adaptation within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Adaptation can occur at receptor, neural, and perceptual stages and can emphasize change while reducing response to persistent stimulation.
+a reduction or alteration in sensory responsiveness during sustained or repeated stimulation.
 
-**What it is not:** Sensory adaptation should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Sensory adaptation should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Adaptation can occur at receptor, neural, and perceptual stages and can emphasize change while reducing response to persistent stimulation. Its time course and mechanisms vary by modality and stimulus.
@@ -508,12 +508,12 @@ learning-related perceptual change.
 ## 1.4.14 Bottom-up processing
 
 ## 1. Purpose
-perceptual processing driven primarily by incoming sensory information and stimulus properties.
+This Topic establishes the meaning, operation, and boundaries of Bottom-up processing within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Bottom-up processing can begin with basic sensory features and combine them into organized representations.
+perceptual processing driven primarily by incoming sensory information and stimulus properties.
 
-**What it is not:** Bottom-up processing should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Bottom-up processing should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Bottom-up processing can begin with basic sensory features and combine them into organized representations. It is useful when stimulus information is strong, but real perception usually combines stimulus-driven and knowledge-driven influences.
@@ -541,12 +541,12 @@ bottom-up attention in Chapter 1.6.
 ## 1.4.15 Top-down processing
 
 ## 1. Purpose
-perceptual processing influenced by prior knowledge, expectations, goals, context, and experience.
+This Topic establishes the meaning, operation, and boundaries of Top-down processing within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Top-down information can resolve ambiguity and improve efficiency when prior knowledge is accurate, but it can also bias interpretation.
+perceptual processing influenced by prior knowledge, expectations, goals, context, and experience.
 
-**What it is not:** Top-down processing should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Top-down processing should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Top-down information can resolve ambiguity and improve efficiency when prior knowledge is accurate, but it can also bias interpretation. It operates within constraints imposed by sensory evidence.
@@ -574,12 +574,12 @@ top-down attention in Chapter 1.6.
 ## 1.4.16 Perceptual inference
 
 ## 1. Purpose
-deriving a perceptual interpretation from sensory evidence together with relevant prior information and assumptions.
+This Topic establishes the meaning, operation, and boundaries of Perceptual inference within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Sensory input is often ambiguous or incomplete.
+deriving a perceptual interpretation from sensory evidence together with relevant prior information and assumptions.
 
-**What it is not:** Perceptual inference should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Perceptual inference should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Sensory input is often ambiguous or incomplete. Perception can therefore select among plausible interpretations using evidence, learned regularities, and prior probabilities. Bayesian models formalize some cases but are models, not proof of one universal brain algorithm.
@@ -607,12 +607,12 @@ formal reasoning in Chapter 1.9.
 ## 1.4.17 Perceptual organization
 
 ## 1. Purpose
-structuring sensory information into meaningful units, objects, surfaces, events, and relationships.
+This Topic establishes the meaning, operation, and boundaries of Perceptual organization within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Grouping, segmentation, figure–ground assignment, completion, continuity, similarity, proximity, and common fate help organize distributed input.
+structuring sensory information into meaningful units, objects, surfaces, events, and relationships.
 
-**What it is not:** Perceptual organization should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Perceptual organization should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Grouping, segmentation, figure–ground assignment, completion, continuity, similarity, proximity, and common fate help organize distributed input. Organization reflects stimulus relations and can also be influenced by context and prior knowledge.
@@ -640,12 +640,12 @@ specific grouping principles.
 ## 1.4.18 Gestalt organization
 
 ## 1. Purpose
-a family of perceptual grouping principles describing how relationships among elements produce coherent perceptual wholes.
+This Topic establishes the meaning, operation, and boundaries of Gestalt organization within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Classical principles include proximity, similarity, continuity, closure, figure–ground organization, and common fate.
+a family of perceptual grouping principles describing how relationships among elements produce coherent perceptual wholes.
 
-**What it is not:** Gestalt organization should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Gestalt organization should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Classical principles include proximity, similarity, continuity, closure, figure–ground organization, and common fate. Modern science treats these regularities within broader computational, neural, developmental, and contextual frameworks.
@@ -673,12 +673,12 @@ individual grouping principles.
 ## 1.4.19 Figure–ground
 
 ## 1. Purpose
-assignment of some sensory information to a focal figure and other information to surrounding background.
+This Topic establishes the meaning, operation, and boundaries of Figure–ground within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Enclosure, symmetry, relative size, orientation, familiarity, and context can influence which region is treated as figure.
+assignment of some sensory information to a focal figure and other information to surrounding background.
 
-**What it is not:** Figure–ground should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Figure–ground should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Enclosure, symmetry, relative size, orientation, familiarity, and context can influence which region is treated as figure. Some displays permit reversible interpretations.
@@ -706,12 +706,12 @@ object recognition and other grouping principles.
 ## 1.4.20 Similarity
 
 ## 1. Purpose
-grouping of elements that resemble one another in relevant perceptual properties.
+This Topic establishes the meaning, operation, and boundaries of Similarity within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Color, shape, size, orientation, texture, and other features can support grouping.
+grouping of elements that resemble one another in relevant perceptual properties.
 
-**What it is not:** Similarity should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Similarity should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Color, shape, size, orientation, texture, and other features can support grouping. Similarity competes and combines with other grouping cues.
@@ -739,12 +739,12 @@ proximity, continuity, closure, and common fate.
 ## 1.4.21 Proximity
 
 ## 1. Purpose
-the tendency for nearby elements to be perceived as belonging together.
+This Topic establishes the meaning, operation, and boundaries of Proximity within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Spatial or temporal closeness can organize otherwise similar elements.
+the tendency for nearby elements to be perceived as belonging together.
 
-**What it is not:** Proximity should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Proximity should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Spatial or temporal closeness can organize otherwise similar elements. The effect depends on the overall configuration and competes with other grouping cues.
@@ -772,12 +772,12 @@ similarity and other grouping principles.
 ## 1.4.22 Continuity
 
 ## 1. Purpose
-the tendency to organize elements as smoothly connected lines, contours, or trajectories.
+This Topic establishes the meaning, operation, and boundaries of Continuity within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Smooth continuation can be preferred over abrupt segmentation, especially for contours and motion paths.
+the tendency to organize elements as smoothly connected lines, contours, or trajectories.
 
-**What it is not:** Continuity should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Continuity should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Smooth continuation can be preferred over abrupt segmentation, especially for contours and motion paths. Occlusion, intersections, prior knowledge, and competing cues can alter organization.
@@ -805,12 +805,12 @@ Developmental continuity in Chapter 1.15; closure and completion here.
 ## 1.4.23 Closure
 
 ## 1. Purpose
-the tendency to organize incomplete elements as parts of a complete configuration.
+This Topic establishes the meaning, operation, and boundaries of Closure within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Closure supports recognition when boundaries are interrupted or gaps occur.
+the tendency to organize incomplete elements as parts of a complete configuration.
 
-**What it is not:** Closure should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Closure should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Closure supports recognition when boundaries are interrupted or gaps occur. It is cue-dependent and does not imply that missing physical information has been recovered.
@@ -838,12 +838,12 @@ perceptual completion as a broader process.
 ## 1.4.24 Common fate
 
 ## 1. Purpose
-grouping of elements that move or change together.
+This Topic establishes the meaning, operation, and boundaries of Common fate within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Shared direction, speed, timing, or transformation can indicate a common source or object.
+grouping of elements that move or change together.
 
-**What it is not:** Common fate should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Common fate should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Shared direction, speed, timing, or transformation can indicate a common source or object. Common fate is especially useful in dynamic scenes and interacts with spatial and form cues.
@@ -871,12 +871,12 @@ general motion perception in 1.4.41.
 ## 1.4.25 Perceptual completion
 
 ## 1. Purpose
-representation of a coherent object, surface, contour, or event beyond information directly available in sensory input.
+This Topic establishes the meaning, operation, and boundaries of Perceptual completion within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Completion occurs with occlusion, interrupted contours, or missing information.
+representation of a coherent object, surface, contour, or event beyond information directly available in sensory input.
 
-**What it is not:** Perceptual completion should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Perceptual completion should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Completion occurs with occlusion, interrupted contours, or missing information. The system uses boundaries, context, regularities, and prior structure to infer a coherent representation. Inferred structure is not recovered physical information.
@@ -904,12 +904,12 @@ closure and object recognition.
 ## 1.4.26 Perceptual constancy
 
 ## 1. Purpose
-relatively stable perception of object properties despite changes in sensory stimulation.
+This Topic establishes the meaning, operation, and boundaries of Perceptual constancy within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Size, shape, and color constancies illustrate how relationships among sensory cues, context, and prior knowledge support stable representations.
+relatively stable perception of object properties despite changes in sensory stimulation.
 
-**What it is not:** Perceptual constancy should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Perceptual constancy should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Size, shape, and color constancies illustrate how relationships among sensory cues, context, and prior knowledge support stable representations. Constancy is robust but not perfect.
@@ -937,12 +937,12 @@ specific forms in 1.4.27–1.4.29.
 ## 1.4.27 Size constancy
 
 ## 1. Purpose
-relative stability of perceived object size despite changes in retinal image size caused by distance.
+This Topic establishes the meaning, operation, and boundaries of Size constancy within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Distance information and scene relationships help distinguish image size from physical size.
+relative stability of perceived object size despite changes in retinal image size caused by distance.
 
-**What it is not:** Size constancy should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Size constancy should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Distance information and scene relationships help distinguish image size from physical size. Constancy can weaken when depth information is absent or misleading.
@@ -970,12 +970,12 @@ depth perception and depth cues.
 ## 1.4.28 Shape constancy
 
 ## 1. Purpose
-relative stability of perceived object shape despite changes in viewpoint.
+This Topic establishes the meaning, operation, and boundaries of Shape constancy within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-The visual system uses contour, depth, viewpoint, and object structure to infer stable shape.
+relative stability of perceived object shape despite changes in viewpoint.
 
-**What it is not:** Shape constancy should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Shape constancy should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 The visual system uses contour, depth, viewpoint, and object structure to infer stable shape. Unusual viewpoints and conflicting depth information can reduce constancy.
@@ -1003,12 +1003,12 @@ object recognition and depth perception.
 ## 1.4.29 Color constancy
 
 ## 1. Purpose
-relative stability of perceived surface color despite changes in illumination.
+This Topic establishes the meaning, operation, and boundaries of Color constancy within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-The light reaching the eye depends on both illumination and surface properties.
+relative stability of perceived surface color despite changes in illumination.
 
-**What it is not:** Color constancy should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Color constancy should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 The light reaching the eye depends on both illumination and surface properties. Perception uses surrounding surfaces and scene information to estimate stable color. Constancy weakens under unusual or ambiguous illumination.
@@ -1036,12 +1036,12 @@ color vision in 1.4.36.
 ## 1.4.30 Perceptual set
 
 ## 1. Purpose
-a predisposition to perceive or interpret sensory information in particular ways based on prior knowledge, expectations, goals, experience, or context.
+This Topic establishes the meaning, operation, and boundaries of Perceptual set within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-A set can make some interpretations more accessible.
+a predisposition to perceive or interpret sensory information in particular ways based on prior knowledge, expectations, goals, experience, or context.
 
-**What it is not:** Perceptual set should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Perceptual set should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 A set can make some interpretations more accessible. It can help when prior knowledge matches the environment and bias perception when expectations conflict with evidence. It is not necessarily conscious choice.
@@ -1069,12 +1069,12 @@ attention set and general expectations.
 ## 1.4.31 Expectation effects
 
 ## 1. Purpose
-changes in perceptual processing or reports associated with prior beliefs or predictions about what is likely to be present.
+This Topic establishes the meaning, operation, and boundaries of Expectation effects within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Expectations can influence interpretation especially when evidence is weak or ambiguous.
+changes in perceptual processing or reports associated with prior beliefs or predictions about what is likely to be present.
 
-**What it is not:** Expectation effects should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Expectation effects should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Expectations can influence interpretation especially when evidence is weak or ambiguous. Effects may arise at perceptual or decision stages, so reports alone do not establish a change in early sensory representation.
@@ -1102,12 +1102,12 @@ general expectations and attention-specific effects.
 ## 1.4.32 Context effects
 
 ## 1. Purpose
-changes in perception produced by information surrounding or accompanying a stimulus.
+This Topic establishes the meaning, operation, and boundaries of Context effects within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Surrounding elements, scene structure, preceding stimuli, and broader perceptual environments can alter apparent color, size, shape, contrast, grouping, and interpretation.
+changes in perception produced by information surrounding or accompanying a stimulus.
 
-**What it is not:** Context effects should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Context effects should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Surrounding elements, scene structure, preceding stimuli, and broader perceptual environments can alter apparent color, size, shape, contrast, grouping, and interpretation. Context can improve interpretation or create systematic errors.
@@ -1135,12 +1135,12 @@ Treatment context effects in Chapter 1.20 and general context in Chapter 1.1.
 ## 1.4.33 Perceptual learning
 
 ## 1. Purpose
-relatively enduring change or improvement in perceptual performance resulting from experience or practice.
+This Topic establishes the meaning, operation, and boundaries of Perceptual learning within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Experience can improve discrimination, sensitivity, identification, or interpretation.
+relatively enduring change or improvement in perceptual performance resulting from experience or practice.
 
-**What it is not:** Perceptual learning should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Perceptual learning should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Experience can improve discrimination, sensitivity, identification, or interpretation. Learning may involve attention, decision processes, sensory representations, or combinations. Generalization varies by task and training conditions.
@@ -1168,12 +1168,12 @@ general learning in Chapter 1.7.
 ## 1.4.34 Perceptual bias
 
 ## 1. Purpose
-a systematic directional tendency in perceptual processing or perceptual reports.
+This Topic establishes the meaning, operation, and boundaries of Perceptual bias within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Bias can arise from expectations, context, attention, experience, learned associations, or decision processes.
+a systematic directional tendency in perceptual processing or perceptual reports.
 
-**What it is not:** Perceptual bias should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Perceptual bias should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Bias can arise from expectations, context, attention, experience, learned associations, or decision processes. It differs from random noise because it is directional. Experimental design is needed to locate the stage producing a bias.
@@ -1201,12 +1201,12 @@ response bias in 1.4.12 and broader cognitive biases in 1.10.
 ## 1.4.35 Visual perception
 
 ## 1. Purpose
-organization and interpretation of visual sensory information into representations of objects, surfaces, space, movement, and events.
+This Topic establishes the meaning, operation, and boundaries of Visual perception within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Visual perception integrates form, color, depth, motion, object, face, and biological-motion information.
+organization and interpretation of visual sensory information into representations of objects, surfaces, space, movement, and events.
 
-**What it is not:** Visual perception should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Visual perception should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Visual perception integrates form, color, depth, motion, object, face, and biological-motion information. The eyes receive patterns of light; perceptual systems infer stable environmental structure from those patterns.
@@ -1234,12 +1234,12 @@ specific visual functions.
 ## 1.4.36 Color vision
 
 ## 1. Purpose
-the visual capacity to discriminate and represent differences in spectral properties of light as perceived color.
+This Topic establishes the meaning, operation, and boundaries of Color vision within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Human color vision uses multiple cone classes with different spectral sensitivities and later opponent processing.
+the visual capacity to discriminate and represent differences in spectral properties of light as perceived color.
 
-**What it is not:** Color vision should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Color vision should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Human color vision uses multiple cone classes with different spectral sensitivities and later opponent processing. Color experience depends on patterns across systems and is influenced by illumination and context.
@@ -1267,12 +1267,12 @@ color constancy and broader visual pathways.
 ## 1.4.37 Visual pathways
 
 ## 1. Purpose
-neural routes transmitting and transforming visual information from the retina through subcortical and cortical systems.
+This Topic establishes the meaning, operation, and boundaries of Visual pathways within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Retinal processing and ascending pathways transform information before and within visual cortex.
+neural routes transmitting and transforming visual information from the retina through subcortical and cortical systems.
 
-**What it is not:** Visual pathways should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Visual pathways should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Retinal processing and ascending pathways transform information before and within visual cortex. Parallel and interacting pathways support different visual functions. Anatomy alone does not establish a single psychological function.
@@ -1300,12 +1300,12 @@ broader sensory pathways in Chapter 1.3.
 ## 1.4.38 Depth perception
 
 ## 1. Purpose
-perception of distance and three-dimensional spatial relationships.
+This Topic establishes the meaning, operation, and boundaries of Depth perception within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Depth is inferred from binocular disparity, monocular cues, motion, occlusion, perspective, shading, and object relationships.
+perception of distance and three-dimensional spatial relationships.
 
-**What it is not:** Depth perception should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Depth perception should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Depth is inferred from binocular disparity, monocular cues, motion, occlusion, perspective, shading, and object relationships. Cue conflict can produce systematic depth errors.
@@ -1333,12 +1333,12 @@ specific monocular and binocular cues.
 ## 1.4.39 Monocular cues
 
 ## 1. Purpose
-visual depth information available from one eye alone.
+This Topic establishes the meaning, operation, and boundaries of Monocular cues within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Occlusion, relative size, perspective, texture gradients, shading, relative height, aerial perspective, and motion-related information can support depth.
+visual depth information available from one eye alone.
 
-**What it is not:** Monocular cues should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Monocular cues should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Occlusion, relative size, perspective, texture gradients, shading, relative height, aerial perspective, and motion-related information can support depth. Cue reliability depends on environmental conditions.
@@ -1366,12 +1366,12 @@ general depth perception and binocular cues.
 ## 1.4.40 Binocular cues
 
 ## 1. Purpose
-depth-related information dependent on coordinated information from both eyes.
+This Topic establishes the meaning, operation, and boundaries of Binocular cues within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Binocular disparity provides different views of the same scene; convergence provides information about near-space geometry.
+depth-related information dependent on coordinated information from both eyes.
 
-**What it is not:** Binocular cues should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Binocular cues should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Binocular disparity provides different views of the same scene; convergence provides information about near-space geometry. Binocular cues complement rather than replace monocular cues.
@@ -1399,12 +1399,12 @@ general depth perception and monocular cues.
 ## 1.4.41 Motion perception
 
 ## 1. Purpose
-perception of movement or change in spatial position across time.
+This Topic establishes the meaning, operation, and boundaries of Motion perception within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Motion can be inferred from changes in retinal patterns and relationships among object and background motion.
+perception of movement or change in spatial position across time.
 
-**What it is not:** Motion perception should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Motion perception should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Motion can be inferred from changes in retinal patterns and relationships among object and background motion. Apparent motion demonstrates that perceived movement can arise from temporally structured stimulation.
@@ -1432,12 +1432,12 @@ common fate and biological motion.
 ## 1.4.42 Object recognition
 
 ## 1. Purpose
-identification or categorization of an object from sensory information despite variation in viewpoint, size, lighting, or other conditions.
+This Topic establishes the meaning, operation, and boundaries of Object recognition within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Recognition extracts diagnostic features and relationships and matches them with learned representations.
+identification or categorization of an object from sensory information despite variation in viewpoint, size, lighting, or other conditions.
 
-**What it is not:** Object recognition should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Object recognition should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Recognition extracts diagnostic features and relationships and matches them with learned representations. It can tolerate substantial changes in sensory input but is affected by occlusion, unusual viewpoints, degradation, and unfamiliarity.
@@ -1465,12 +1465,12 @@ pattern recognition and face perception.
 ## 1.4.43 Pattern recognition
 
 ## 1. Purpose
-identification or classification of structured arrangements of sensory features as meaningful patterns.
+This Topic establishes the meaning, operation, and boundaries of Pattern recognition within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Patterns can be recognized through local features, spatial relations, temporal structure, learned regularities, and context.
+identification or classification of structured arrangements of sensory features as meaningful patterns.
 
-**What it is not:** Pattern recognition should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Pattern recognition should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Patterns can be recognized through local features, spatial relations, temporal structure, learned regularities, and context. Pattern recognition is broader than object recognition and can apply to letters, sounds, textures, sequences, and forms.
@@ -1498,12 +1498,12 @@ object recognition and language-specific processing.
 ## 1.4.44 Face perception
 
 ## 1. Purpose
-perceptual processing of facial structure and identity, including features and their configuration.
+This Topic establishes the meaning, operation, and boundaries of Face perception within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Humans are highly sensitive to facial configuration, identity, viewpoint, and expression.
+perceptual processing of facial structure and identity, including features and their configuration.
 
-**What it is not:** Face perception should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Face perception should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Humans are highly sensitive to facial configuration, identity, viewpoint, and expression. Specialized and distributed neural systems contribute, while the exact degree of domain specificity remains an active question.
@@ -1531,12 +1531,12 @@ social interpretation and emotion recognition.
 ## 1.4.45 Biological motion
 
 ## 1. Purpose
-perception of characteristic movement patterns produced by living organisms.
+This Topic establishes the meaning, operation, and boundaries of Biological motion within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Sparse motion patterns can reveal walking and other actions even when appearance is reduced.
+perception of characteristic movement patterns produced by living organisms.
 
-**What it is not:** Biological motion should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Biological motion should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Sparse motion patterns can reveal walking and other actions even when appearance is reduced. Temporal and spatial relations among moving body parts provide information about animate movement.
@@ -1564,12 +1564,12 @@ general motion perception and social interpretation.
 ## 1.4.46 Auditory perception
 
 ## 1. Purpose
-organization and interpretation of sound information into qualities, sources, events, and meaningful auditory patterns.
+This Topic establishes the meaning, operation, and boundaries of Auditory perception within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Auditory perception represents pitch, loudness, timbre, timing, location, and source structure.
+organization and interpretation of sound information into qualities, sources, events, and meaningful auditory patterns.
 
-**What it is not:** Auditory perception should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Auditory perception should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Auditory perception represents pitch, loudness, timbre, timing, location, and source structure. The system often separates overlapping sound sources and uses context and prior knowledge.
@@ -1597,12 +1597,12 @@ auditory pathways and language-specific speech processing.
 ## 1.4.47 Auditory pathways
 
 ## 1. Purpose
-neural routes transmitting and transforming auditory information from the ear through brainstem, subcortical, and cortical systems.
+This Topic establishes the meaning, operation, and boundaries of Auditory pathways within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Mechanical vibration is converted into neural activity in the inner ear.
+neural routes transmitting and transforming auditory information from the ear through brainstem, subcortical, and cortical systems.
 
-**What it is not:** Auditory pathways should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Auditory pathways should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Mechanical vibration is converted into neural activity in the inner ear. Ascending pathways transform information about frequency, timing, intensity, and spatial relations through multiple stages.
@@ -1630,12 +1630,12 @@ general sensory pathways and auditory perceptual functions.
 ## 1.4.48 Vestibular perception
 
 ## 1. Purpose
-perception and representation of head movement, acceleration, and orientation derived primarily from vestibular organs.
+This Topic establishes the meaning, operation, and boundaries of Vestibular perception within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Semicircular canals respond to angular acceleration; otolith organs respond to linear acceleration and gravitational orientation.
+perception and representation of head movement, acceleration, and orientation derived primarily from vestibular organs.
 
-**What it is not:** Vestibular perception should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Vestibular perception should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Semicircular canals respond to angular acceleration; otolith organs respond to linear acceleration and gravitational orientation. Vestibular information interacts with vision and proprioception.
@@ -1663,12 +1663,12 @@ proprioception and multisensory integration.
 ## 1.4.49 Somatosensation
 
 ## 1. Purpose
-sensory processing of bodily information including touch, pressure, temperature, pain, and position.
+This Topic establishes the meaning, operation, and boundaries of Somatosensation within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Somatosensation contains multiple receptor systems and pathways.
+sensory processing of bodily information including touch, pressure, temperature, pain, and position.
 
-**What it is not:** Somatosensation should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Somatosensation should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Somatosensation contains multiple receptor systems and pathways. Perception depends on location, intensity, duration, context, attention, expectation, and interactions among bodily signals.
@@ -1696,12 +1696,12 @@ touch, pain, temperature, proprioception, and interoception.
 ## 1.4.50 Touch
 
 ## 1. Purpose
-perception of mechanical contact and related skin stimulation such as pressure, vibration, texture, and movement.
+This Topic establishes the meaning, operation, and boundaries of Touch within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Different mechanoreceptors respond to different mechanical properties.
+perception of mechanical contact and related skin stimulation such as pressure, vibration, texture, and movement.
 
-**What it is not:** Touch should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Touch should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Different mechanoreceptors respond to different mechanical properties. Spatial precision varies with receptor density and receptive-field organization. Touch is influenced by body location, duration, temperature, attention, and other sensory signals.
@@ -1729,12 +1729,12 @@ pain, temperature, proprioception.
 ## 1.4.51 Pain perception
 
 ## 1. Purpose
-the perceptual experience of actual or potential bodily harm shaped by sensory, cognitive, emotional, contextual, and physiological processes.
+This Topic establishes the meaning, operation, and boundaries of Pain perception within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Nociception and pain are not identical.
+the perceptual experience of actual or potential bodily harm shaped by sensory, cognitive, emotional, contextual, and physiological processes.
 
-**What it is not:** Pain perception should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Pain perception should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Nociception and pain are not identical. Pain can be influenced by attention, expectation, emotion, learning, and context, and its intensity is not determined solely by tissue damage. Acute and persistent pain can involve different mechanisms.
@@ -1762,12 +1762,12 @@ clinical pain disorders and treatment.
 ## 1.4.52 Temperature perception
 
 ## 1. Purpose
-sensory experience of thermal states produced by temperature-sensitive receptors and their processing.
+This Topic establishes the meaning, operation, and boundaries of Temperature perception within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Thermoreception depends on temperature, rate of change, location, adaptation, and surrounding conditions.
+sensory experience of thermal states produced by temperature-sensitive receptors and their processing.
 
-**What it is not:** Temperature perception should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Temperature perception should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Thermoreception depends on temperature, rate of change, location, adaptation, and surrounding conditions. Extreme thermal stimulation can also engage pain systems.
@@ -1795,12 +1795,12 @@ pain and broader somatosensation.
 ## 1.4.53 Proprioception
 
 ## 1. Purpose
-sensory representation of body position and movement derived primarily from muscles, tendons, joints, and related structures.
+This Topic establishes the meaning, operation, and boundaries of Proprioception within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Proprioception supports posture, coordination, movement, and body awareness.
+sensory representation of body position and movement derived primarily from muscles, tendons, joints, and related structures.
 
-**What it is not:** Proprioception should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Proprioception should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Proprioception supports posture, coordination, movement, and body awareness. It interacts with visual and vestibular signals and varies with movement, fatigue, posture, and sensory conflict.
@@ -1828,12 +1828,12 @@ vestibular perception and interoception.
 ## 1.4.54 Interoceptive perception
 
 ## 1. Purpose
-perception or representation of signals arising from the body's internal physiological condition.
+This Topic establishes the meaning, operation, and boundaries of Interoceptive perception within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Signals can include heartbeat, breathing, gastrointestinal activity, temperature, thirst, hunger, and other internal states.
+perception or representation of signals arising from the body's internal physiological condition.
 
-**What it is not:** Interoceptive perception should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Interoceptive perception should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Signals can include heartbeat, breathing, gastrointestinal activity, temperature, thirst, hunger, and other internal states. Perceptual experience depends on bodily input as well as attention, expectation, emotion, and prior experience. Accuracy, sensitivity, and confidence are not identical.
@@ -1861,12 +1861,12 @@ broader Interoception in Chapter 1.3 and homeostatic mechanisms elsewhere.
 ## 1.4.55 Olfaction
 
 ## 1. Purpose
-the sensory and perceptual system for detecting and representing volatile chemical compounds as odors.
+This Topic establishes the meaning, operation, and boundaries of Olfaction within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Odor molecules activate receptor systems in the olfactory epithelium and generate patterns of neural activity.
+the sensory and perceptual system for detecting and representing volatile chemical compounds as odors.
 
-**What it is not:** Olfaction should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Olfaction should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Odor molecules activate receptor systems in the olfactory epithelium and generate patterns of neural activity. Odor perception is multidimensional and strongly influenced by experience, context, concentration, mixtures, and adaptation.
@@ -1894,12 +1894,12 @@ memory and emotion effects.
 ## 1.4.56 Gustation
 
 ## 1. Purpose
-the sensory and perceptual system that detects chemical substances in the mouth as taste qualities.
+This Topic establishes the meaning, operation, and boundaries of Gustation within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Taste receptor cells respond to chemical properties associated with sweet, salty, sour, bitter, and umami.
+the sensory and perceptual system that detects chemical substances in the mouth as taste qualities.
 
-**What it is not:** Gustation should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Gustation should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Taste receptor cells respond to chemical properties associated with sweet, salty, sour, bitter, and umami. The broader experience of flavor also depends on smell, texture, temperature, and other sensory signals.
@@ -1927,12 +1927,12 @@ olfaction and multisensory flavor.
 ## 1.4.57 Multisensory integration
 
 ## 1. Purpose
-combination of information from two or more sensory modalities to influence perception, behavior, or interpretation.
+This Topic establishes the meaning, operation, and boundaries of Multisensory integration within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Vision, audition, touch, vestibular signals, proprioception, and interoception can provide complementary information.
+combination of information from two or more sensory modalities to influence perception, behavior, or interpretation.
 
-**What it is not:** Multisensory integration should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Multisensory integration should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Vision, audition, touch, vestibular signals, proprioception, and interoception can provide complementary information. Integration depends on temporal and spatial correspondence, reliability, prior knowledge, and task demands. Formal weighting models are explanatory frameworks, not universal proofs.
@@ -1960,12 +1960,12 @@ specific cross-modal and conflict phenomena.
 ## 1.4.58 Cross-modal perception
 
 ## 1. Purpose
-perception in which information from one sensory modality influences the experience or interpretation of another.
+This Topic establishes the meaning, operation, and boundaries of Cross-modal perception within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Examples include visual influence on speech perception and auditory influence on visual event perception.
+perception in which information from one sensory modality influences the experience or interpretation of another.
 
-**What it is not:** Cross-modal perception should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Cross-modal perception should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Examples include visual influence on speech perception and auditory influence on visual event perception. Effects depend on temporal synchrony, spatial alignment, reliability, attention, and prior experience.
@@ -1993,12 +1993,12 @@ broader integration and conflict.
 ## 1.4.59 Multisensory conflict
 
 ## 1. Purpose
-a situation in which different sensory signals provide incompatible information about an event, object, or bodily state.
+This Topic establishes the meaning, operation, and boundaries of Multisensory conflict within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-The perceptual system may favor a more reliable source, combine signals, alternate interpretations, or produce a compromise percept.
+a situation in which different sensory signals provide incompatible information about an event, object, or bodily state.
 
-**What it is not:** Multisensory conflict should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Multisensory conflict should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 The perceptual system may favor a more reliable source, combine signals, alternate interpretations, or produce a compromise percept. Outcomes depend on reliability, timing, spatial alignment, context, and task demands.
@@ -2026,12 +2026,12 @@ general integration and cross-modal perception.
 ## 1.4.60 Illusions
 
 ## 1. Purpose
-a perceptual experience that differs systematically from a relevant physical property of the stimulus or reference condition.
+This Topic establishes the meaning, operation, and boundaries of Illusions within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Illusions can arise from context, grouping, depth cues, adaptation, prior knowledge, sensory interactions, or perceptual assumptions.
+a perceptual experience that differs systematically from a relevant physical property of the stimulus or reference condition.
 
-**What it is not:** Illusions should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Illusions should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Illusions can arise from context, grouping, depth cues, adaptation, prior knowledge, sensory interactions, or perceptual assumptions. They are systematic phenomena rather than random mistakes. The mechanisms producing an illusion may also support efficient everyday perception.
@@ -2059,12 +2059,12 @@ specific mechanisms owned by the relevant perceptual Topics.
 ## 1.4.61 Hallucination as perceptual phenomenon
 
 ## 1. Purpose
-a perceptual experience occurring without an appropriate external sensory stimulus sufficient to account for the experienced percept.
+This Topic establishes the meaning, operation, and boundaries of Hallucination as perceptual phenomenon within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-Hallucinations can occur across sensory modalities and in varied contexts, including sleep-related states, neurological conditions, psychiatric conditions, substances, sensory deprivation, and other circumstances.
+a perceptual experience occurring without an appropriate external sensory stimulus sufficient to account for the experienced percept.
 
-**What it is not:** Hallucination as perceptual phenomenon should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Hallucination as perceptual phenomenon should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 Hallucinations can occur across sensory modalities and in varied contexts, including sleep-related states, neurological conditions, psychiatric conditions, substances, sensory deprivation, and other circumstances. The phenomenon itself does not determine its cause. It differs from illusion because an appropriate external stimulus is absent.
@@ -2092,12 +2092,12 @@ clinical disorders, diagnosis, and treatment; sleep-related states in Chapter 1.
 ## 1.4.62 Individual differences in perception
 
 ## 1. Purpose
-stable or context-sensitive variation among people in sensory sensitivity, perceptual processing, experience, or performance.
+This Topic establishes the meaning, operation, and boundaries of Individual differences in perception within the science of sensation and perception. It exists to preserve a precise distinction between this perceptual construct and neighboring concepts.
 
 ## 2. Definition
-People can differ in thresholds, discrimination, learning, susceptibility to illusions, multisensory integration, and interpretation.
+stable or context-sensitive variation among people in sensory sensitivity, perceptual processing, experience, or performance.
 
-**What it is not:** Individual differences in perception should not be treated as a broader or neighboring construct merely because related processes influence it.
+**What it is not:** Individual differences in perception should not be treated as synonymous with every related sensory or perceptual process; its specific scope is defined above.
 
 ## 3. Core Understanding
 People can differ in thresholds, discrimination, learning, susceptibility to illusions, multisensory integration, and interpretation. Causes can include biology, development, learning, experience, attention, expectations, culture, and task conditions. Measured differences can also reflect decision criteria or measurement error.
