@@ -1178,7 +1178,7 @@ Only the first eight and clinically necessary objects receive independent canoni
 - Developmental mechanisms
 - Developmental systems perspective
 - Nature–nurture interaction
-- Continuity
+- Developmental continuity
 - Discontinuity
 - Stability
 - Change
@@ -1586,7 +1586,7 @@ Only the first eight and clinically necessary objects receive independent canoni
 - Treatment effectiveness
 - Treatment mechanisms
 - Common factors
-- Context effects
+- Treatment context effects
 - Placebo/contextual effects
 - Treatment relapse
 - Treatment maintenance
