@@ -1197,37 +1197,6 @@ Specific sensory stimuli, conditioned stimuli, social cues, and attentional sign
 ## 1.1.27 Psychological processing
 
 ## 1. Purpose
-Defines the operation-level concept of transformation within psychological activity.
-
-## 2. Definition
-Psychological processing is the transformation, organization, integration, updating, comparison, retrieval, evaluation, or use of psychologically relevant information, representations, or experience during ongoing psychological activity.
-
-## 3. Core Understanding
-Processing describes **what happens to information or representations**, rather than the broader fact that a mental process exists. It can be sequential, parallel, recursive, or interactive. Feedback can alter later processing, and changed interpretations can alter subsequent selection.
-
-The term is functional: describing a processing operation does not by itself establish its biological implementation.
-
-**Boundary:** 1.1.3 Mental processes owns the broad category of internal activity. 1.1.27 owns transformation/operation within that activity. 1.1.30 owns representational structure.
-
-**Evidence status:** specific processing mechanisms are empirical or theoretical claims and require evidence capable of distinguishing them from alternatives.
-
-## 4. Relationship to This Chapter
-Connects stimulus, information selection, interpretation, representation, evaluation, response selection, feedback, and self-regulation through transformations among them.
-
-## 5. Boundaries
-### Owns
-Operation-level psychological information transformation and organization.
-
-### Defers
-The broad process category to 1.1.3; representation to 1.1.30; specialized cognitive processing to Chapter 1.3.
-
-## 6. Key Principles
-- Processing concerns transformation or organization.
-- Processing is narrower than the general process category.
-- Functional processing does not specify neural implementation.
-- Processing can be iterative and context-sensitive.
-
-## 1. Purpose
 Psychological processing describes the transformations that occur between input and output. It is essential for understanding why people do not simply react mechanically to events.
 
 ## 2. Definition
