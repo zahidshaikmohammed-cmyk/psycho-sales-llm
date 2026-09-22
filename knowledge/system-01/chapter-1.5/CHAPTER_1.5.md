@@ -1,89 +1,1203 @@
-# CHAPTER 1.5 — CONSCIOUSNESS, SLEEP, AND ALTERED STATES\n\n**System:** 1 — HUMAN PSYCHOLOGY  \n**Status:** WRITTEN — PENDING FINAL VALIDATION  \n**Ontology:** Locked 44-topic Chapter 1.5 index  \n**Writing standard:** PSYCHO SALES Permanent Knowledge Object Writing Constitution  \n**Ownership gate:** Surgical remediation completed before writing  \n**Canonical rule:** One authoritative owner per construct; cross-chapter relationships are links, not duplicate owners.\n\n## Canonical Topic Index\n\n1.5.1 Consciousness\n1.5.2 Subjective experience\n1.5.3 Awareness\n1.5.4 Consciousness-specific self-awareness\n1.5.5 Levels of consciousness\n1.5.6 Conscious access\n1.5.7 Conscious processing\n1.5.8 Unconscious processing\n1.5.9 Subliminal processing\n1.5.10 Automaticity\n1.5.11 Automatic processing\n1.5.12 Controlled processing\n1.5.13 Consciousness measurement\n1.5.14 Sleep\n1.5.15 Sleep architecture\n1.5.16 Sleep regulation\n1.5.17 Sleep homeostasis\n1.5.18 Circadian sleep regulation\n1.5.19 Sleep pressure\n1.5.20 NREM sleep\n1.5.21 REM sleep\n1.5.22 Sleep-dependent memory effects\n1.5.23 Sleep and learning\n1.5.24 Sleep and emotion\n1.5.25 Sleep deprivation\n1.5.26 Chronotype\n1.5.27 Circadian misalignment\n1.5.28 Dreams\n1.5.29 Lucid dreaming\n1.5.30 Sleep paralysis\n1.5.31 Hypnosis\n1.5.32 Meditation\n1.5.33 Mindfulness\n1.5.34 Altered states of consciousness\n1.5.35 Dissociation\n1.5.36 Dissociative states\n1.5.37 Psychoactive substances\n1.5.38 Stimulants\n1.5.39 Depressants\n1.5.40 Hallucinogens\n1.5.41 Opioids\n1.5.42 Drug tolerance\n1.5.43 Dependence\n1.5.44 Withdrawal\n\n---\n\n# Knowledge Objects\n\n## 1.5.1 Consciousness\n\n## 1. Purpose\nEstablish consciousness as the broad psychological phenomenon of being aware and having subjective experience, while separating it from specific contents, processes, and states.\n\n## 2. Definition\nConsciousness is the condition or set of processes associated with subjective experience and awareness of oneself, the environment, or ongoing mental activity. It is studied through what people report, what they can access or control, and observable behavioral and neural correlates. **What it is not:** consciousness is not identical to attention, wakefulness, self-awareness, or any single proposed neural mechanism.\n\n## 3. Core Understanding\nConsciousness is multidimensional rather than a single simple switch. Questions about its contents, level, access, and neural correlates can be separated. A person may be awake yet have limited awareness of particular information, and conscious experience can vary in clarity and content. Different scientific theories emphasize different mechanisms, including global availability, recurrent processing, higher-order representations, or other proposed architectures; these remain theoretical frameworks rather than interchangeable facts.\n\n## 4. Relationship to This Chapter\nThis is the chapter's organizing construct. Sleep, altered states, conscious access, and changes in processing are understood partly through their relationship to consciousness.\n\n## 5. Boundaries\n### Owns\nOwns the general psychological construct of consciousness. Defers specific states, processes, measurement methods, and neural mechanisms to their specialized Topics and to Chapter 1.3 where biological mechanisms are primary.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Consciousness concerns subjective experience and awareness but is not reducible to one proposed mechanism.
+# CHAPTER 1.5 — CONSCIOUSNESS, SLEEP, AND ALTERED STATES
+
+**System:** 1 — HUMAN PSYCHOLOGY  
+**Status:** WRITTEN — PENDING FINAL VALIDATION  
+**Ontology:** Locked 44-topic Chapter 1.5 index  
+**Writing standard:** PSYCHO SALES Permanent Knowledge Object Writing Constitution  
+**Ownership gate:** Surgical remediation completed before writing  
+**Canonical rule:** One authoritative owner per construct; cross-chapter relationships are links, not duplicate owners.
+
+## Canonical Topic Index
+
+1.5.1 Consciousness
+1.5.2 Subjective experience
+1.5.3 Awareness
+1.5.4 Consciousness-specific self-awareness
+1.5.5 Levels of consciousness
+1.5.6 Conscious access
+1.5.7 Conscious processing
+1.5.8 Unconscious processing
+1.5.9 Subliminal processing
+1.5.10 Automaticity
+1.5.11 Automatic processing
+1.5.12 Controlled processing
+1.5.13 Consciousness measurement
+1.5.14 Sleep
+1.5.15 Sleep architecture
+1.5.16 Sleep regulation
+1.5.17 Sleep homeostasis
+1.5.18 Circadian sleep regulation
+1.5.19 Sleep pressure
+1.5.20 NREM sleep
+1.5.21 REM sleep
+1.5.22 Sleep-dependent memory effects
+1.5.23 Sleep and learning
+1.5.24 Sleep and emotion
+1.5.25 Sleep deprivation
+1.5.26 Chronotype
+1.5.27 Circadian misalignment
+1.5.28 Dreams
+1.5.29 Lucid dreaming
+1.5.30 Sleep paralysis
+1.5.31 Hypnosis
+1.5.32 Meditation
+1.5.33 Mindfulness
+1.5.34 Altered states of consciousness
+1.5.35 Dissociation
+1.5.36 Dissociative states
+1.5.37 Psychoactive substances
+1.5.38 Stimulants
+1.5.39 Depressants
+1.5.40 Hallucinogens
+1.5.41 Opioids
+1.5.42 Drug tolerance
+1.5.43 Dependence
+1.5.44 Withdrawal
+
+---
+
+# Knowledge Objects
+
+## 1.5.1 Consciousness
+
+## 1. Purpose
+Establish consciousness as the broad psychological phenomenon of being aware and having subjective experience, while separating it from specific contents, processes, and states.
+
+## 2. Definition
+Consciousness is the condition or set of processes associated with subjective experience and awareness of oneself, the environment, or ongoing mental activity. It is studied through what people report, what they can access or control, and observable behavioral and neural correlates. **What it is not:** consciousness is not identical to attention, wakefulness, self-awareness, or any single proposed neural mechanism.
+
+## 3. Core Understanding
+Consciousness is multidimensional rather than a single simple switch. Questions about its contents, level, access, and neural correlates can be separated. A person may be awake yet have limited awareness of particular information, and conscious experience can vary in clarity and content. Different scientific theories emphasize different mechanisms, including global availability, recurrent processing, higher-order representations, or other proposed architectures; these remain theoretical frameworks rather than interchangeable facts.
+
+## 4. Relationship to This Chapter
+This is the chapter's organizing construct. Sleep, altered states, conscious access, and changes in processing are understood partly through their relationship to consciousness.
+
+## 5. Boundaries
+### Owns
+Owns the general psychological construct of consciousness. Defers specific states, processes, measurement methods, and neural mechanisms to their specialized Topics and to Chapter 1.3 where biological mechanisms are primary.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Consciousness concerns subjective experience and awareness but is not reducible to one proposed mechanism.
 - Conscious contents, access, level, and state should be distinguished.
-- Scientific explanations of consciousness remain theory-dependent.\n\n## 1.5.2 Subjective experience\n\n## 1. Purpose\nClarify the first-person aspect of psychological life that makes consciousness a phenomenon of experience rather than only observable behavior.\n\n## 2. Definition\nSubjective experience is the first-person character of what a mental or bodily event is like for the individual experiencing it. It includes qualities of perception, thought, emotion, bodily feeling, and other conscious states. **What it is not:** it is not simply a report, behavior, or neural measurement; those are ways of studying or expressing experience.\n\n## 3. Core Understanding\nSubjective experience is inherently experienced from a particular perspective. Two people can receive similar stimulation yet report different experiences, and the same person can experience the same stimulus differently across contexts or states. Scientific psychology cannot directly observe another person's experience; it infers it from reports, behavior, physiological measures, and other correlates. First-person reports are therefore important data but can be incomplete, biased, or difficult to interpret. The existence of subjective experience is distinct from any particular theory about how the brain produces it.\n\n## 4. Relationship to This Chapter\nIt provides the experiential dimension of the chapter's consciousness ontology and helps distinguish consciousness from externally observable performance.\n\n## 5. Boundaries\n### Owns\nOwns the general concept of first-person psychological experience. Defers conscious access, awareness, self-awareness, and measurement to their specialized Topics.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Subjective experience is first-person and cannot be equated with its measurement.
+- Scientific explanations of consciousness remain theory-dependent.
+
+## 1.5.2 Subjective experience
+
+## 1. Purpose
+Clarify the first-person aspect of psychological life that makes consciousness a phenomenon of experience rather than only observable behavior.
+
+## 2. Definition
+Subjective experience is the first-person character of what a mental or bodily event is like for the individual experiencing it. It includes qualities of perception, thought, emotion, bodily feeling, and other conscious states. **What it is not:** it is not simply a report, behavior, or neural measurement; those are ways of studying or expressing experience.
+
+## 3. Core Understanding
+Subjective experience is inherently experienced from a particular perspective. Two people can receive similar stimulation yet report different experiences, and the same person can experience the same stimulus differently across contexts or states. Scientific psychology cannot directly observe another person's experience; it infers it from reports, behavior, physiological measures, and other correlates. First-person reports are therefore important data but can be incomplete, biased, or difficult to interpret. The existence of subjective experience is distinct from any particular theory about how the brain produces it.
+
+## 4. Relationship to This Chapter
+It provides the experiential dimension of the chapter's consciousness ontology and helps distinguish consciousness from externally observable performance.
+
+## 5. Boundaries
+### Owns
+Owns the general concept of first-person psychological experience. Defers conscious access, awareness, self-awareness, and measurement to their specialized Topics.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Subjective experience is first-person and cannot be equated with its measurement.
 - Reports provide evidence about experience but are not identical to experience itself.
-- The scientific explanation of why experience occurs remains theoretically contested.\n\n## 1.5.3 Awareness\n\n## 1. Purpose\nDefine awareness as a person's availability of information to conscious experience or report without equating it with all consciousness.\n\n## 2. Definition\nAwareness is the condition in which information, events, internal states, or aspects of the environment are available to conscious experience or report. **What it is not:** awareness is not identical to attention; attention can influence what becomes available, but awareness and attention are conceptually distinct.\n\n## 3. Core Understanding\nAwareness can concern external events, internal bodily states, thoughts, emotions, memories, or aspects of one's own behavior. It varies in degree and can be selective. Information can influence behavior without becoming consciously reportable, which is one reason awareness must be distinguished from processing in general. Operational definitions vary by task: researchers may infer awareness through verbal report, discrimination, confidence, or other measures. No single measure captures every form of awareness.\n\n## 4. Relationship to This Chapter\nAwareness is a central expression of consciousness and connects conscious experience with information that can become accessible to cognition and report.\n\n## 5. Boundaries\n### Owns\nOwns the general construct of awareness. Defers self-awareness, conscious access, unconscious processing, and consciousness measurement to their specialized Topics.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Awareness concerns availability to conscious experience or report.
+- The scientific explanation of why experience occurs remains theoretically contested.
+
+## 1.5.3 Awareness
+
+## 1. Purpose
+Define awareness as a person's availability of information to conscious experience or report without equating it with all consciousness.
+
+## 2. Definition
+Awareness is the condition in which information, events, internal states, or aspects of the environment are available to conscious experience or report. **What it is not:** awareness is not identical to attention; attention can influence what becomes available, but awareness and attention are conceptually distinct.
+
+## 3. Core Understanding
+Awareness can concern external events, internal bodily states, thoughts, emotions, memories, or aspects of one's own behavior. It varies in degree and can be selective. Information can influence behavior without becoming consciously reportable, which is one reason awareness must be distinguished from processing in general. Operational definitions vary by task: researchers may infer awareness through verbal report, discrimination, confidence, or other measures. No single measure captures every form of awareness.
+
+## 4. Relationship to This Chapter
+Awareness is a central expression of consciousness and connects conscious experience with information that can become accessible to cognition and report.
+
+## 5. Boundaries
+### Owns
+Owns the general construct of awareness. Defers self-awareness, conscious access, unconscious processing, and consciousness measurement to their specialized Topics.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Awareness concerns availability to conscious experience or report.
 - Processing can occur without awareness.
-- Awareness is task- and definition-dependent in scientific measurement.\n\n## 1.5.4 Consciousness-specific self-awareness\n\n## 1. Purpose\nDefine self-awareness specifically as awareness of one's own ongoing experience or mental state within consciousness, without taking ownership from the broader self construct.\n\n## 2. Definition\nConsciousness-specific self-awareness is conscious awareness directed toward one's own ongoing experiences, thoughts, feelings, bodily states, or mental activity. **What it is not:** it is not the entire psychological construct of the self or self-concept.\n\n## 3. Core Understanding\nSelf-awareness can involve noticing one's own thoughts, emotions, bodily sensations, actions, or current mental state. It can be momentary and situational rather than a stable personality characteristic. Attention, context, emotion, and social evaluation can affect how strongly self-related information enters awareness. The broader psychological self includes representations and structures that are not necessarily conscious at any given moment. Scientific measures therefore distinguish momentary self-awareness from broader self-knowledge and self-related constructs.\n\n## 4. Relationship to This Chapter\nIt belongs here because it treats self-awareness as a feature of conscious experience rather than as the complete architecture of the self.\n\n## 5. Boundaries\n### Owns\nOwns consciousness-specific awareness of one's own ongoing experience. Defers the broader **Self-awareness** construct to Chapter 1.14, along with self-concept, self-schema, self-esteem, and related self structures.\n\n### Defers\nthe broader Self-awareness construct in Chapter 1.14 and related self structures.\n\n## 6. Key Principles\n- Self-awareness is a conscious orientation toward one's own experience.
+- Awareness is task- and definition-dependent in scientific measurement.
+
+## 1.5.4 Consciousness-specific self-awareness
+
+## 1. Purpose
+Define self-awareness specifically as awareness of one's own ongoing experience or mental state within consciousness, without taking ownership from the broader self construct.
+
+## 2. Definition
+Consciousness-specific self-awareness is conscious awareness directed toward one's own ongoing experiences, thoughts, feelings, bodily states, or mental activity. **What it is not:** it is not the entire psychological construct of the self or self-concept.
+
+## 3. Core Understanding
+Self-awareness can involve noticing one's own thoughts, emotions, bodily sensations, actions, or current mental state. It can be momentary and situational rather than a stable personality characteristic. Attention, context, emotion, and social evaluation can affect how strongly self-related information enters awareness. The broader psychological self includes representations and structures that are not necessarily conscious at any given moment. Scientific measures therefore distinguish momentary self-awareness from broader self-knowledge and self-related constructs.
+
+## 4. Relationship to This Chapter
+It belongs here because it treats self-awareness as a feature of conscious experience rather than as the complete architecture of the self.
+
+## 5. Boundaries
+### Owns
+Owns consciousness-specific awareness of one's own ongoing experience. Defers the broader **Self-awareness** construct to Chapter 1.14, along with self-concept, self-schema, self-esteem, and related self structures.
+
+### Defers
+the broader Self-awareness construct in Chapter 1.14 and related self structures.
+
+## 6. Key Principles
+- Self-awareness is a conscious orientation toward one's own experience.
 - It is not equivalent to the entire psychological self.
-- Chapter 1.14 owns the broader self-related construct.\n\n## 1.5.5 Levels of consciousness\n\n## 1. Purpose\nExplain how consciousness can vary in degree, organization, or availability rather than existing as one all-or-none state.\n\n## 2. Definition\nLevels of consciousness are differences in the degree or organization of conscious responsiveness, awareness, and experience. **What it is not:** a level is not necessarily a single universal numerical scale of consciousness.\n\n## 3. Core Understanding\nConscious functioning can vary across wakefulness, sleep, sedation, anesthesia, severe brain dysfunction, and other conditions. Different clinical and experimental frameworks operationalize these differences using responsiveness, behavioral signs, reports, or physiological measures. A change in one dimension does not always mean an identical change in all others: responsiveness, awareness, and specific conscious contents can dissociate. Consequently, claims about a person's “level” of consciousness must be tied to the measure and context used.\n\n## 4. Relationship to This Chapter\nThe Topic provides a bridge between ordinary waking consciousness, sleep, and altered states.\n\n## 5. Boundaries\n### Owns\nOwns the general dimensional idea of variation in consciousness. Defers sleep stages, altered states, clinical disorders, and measurement instruments to their specialized owners.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Consciousness can vary along multiple dimensions.
+- Chapter 1.14 owns the broader self-related construct.
+
+## 1.5.5 Levels of consciousness
+
+## 1. Purpose
+Explain how consciousness can vary in degree, organization, or availability rather than existing as one all-or-none state.
+
+## 2. Definition
+Levels of consciousness are differences in the degree or organization of conscious responsiveness, awareness, and experience. **What it is not:** a level is not necessarily a single universal numerical scale of consciousness.
+
+## 3. Core Understanding
+Conscious functioning can vary across wakefulness, sleep, sedation, anesthesia, severe brain dysfunction, and other conditions. Different clinical and experimental frameworks operationalize these differences using responsiveness, behavioral signs, reports, or physiological measures. A change in one dimension does not always mean an identical change in all others: responsiveness, awareness, and specific conscious contents can dissociate. Consequently, claims about a person's “level” of consciousness must be tied to the measure and context used.
+
+## 4. Relationship to This Chapter
+The Topic provides a bridge between ordinary waking consciousness, sleep, and altered states.
+
+## 5. Boundaries
+### Owns
+Owns the general dimensional idea of variation in consciousness. Defers sleep stages, altered states, clinical disorders, and measurement instruments to their specialized owners.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Consciousness can vary along multiple dimensions.
 - Responsiveness and subjective awareness are related but not identical.
-- Any claimed level depends on the operational definition used.\n\n## 1.5.6 Conscious access\n\n## 1. Purpose\nExplain how information becomes available to conscious report, reasoning, or flexible control.\n\n## 2. Definition\nConscious access is the availability of information to conscious awareness and potentially to deliberate report or flexible cognitive use. **What it is not:** it is not synonymous with the initial processing of a stimulus.\n\n## 3. Core Understanding\nInformation can be processed at multiple stages. Some information influences behavior without broad conscious access, whereas information that gains access can often be reported, maintained, combined with other information, or used flexibly. The conditions producing access depend on stimulus strength, attention, competing information, task demands, and the architecture proposed by the relevant theory. Measures of reportability are useful but do not by themselves settle what consciousness fundamentally is.\n\n## 4. Relationship to This Chapter\nIt links consciousness with information processing and separates conscious availability from processing that remains outside awareness.\n\n## 5. Boundaries\n### Owns\nOwns the concept of information becoming consciously available. Defers attention to Chapter 1.6 and general processing to Chapters 1.1, 1.4, and relevant cognitive chapters.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Conscious access concerns availability, not mere processing.
+- Any claimed level depends on the operational definition used.
+
+## 1.5.6 Conscious access
+
+## 1. Purpose
+Explain how information becomes available to conscious report, reasoning, or flexible control.
+
+## 2. Definition
+Conscious access is the availability of information to conscious awareness and potentially to deliberate report or flexible cognitive use. **What it is not:** it is not synonymous with the initial processing of a stimulus.
+
+## 3. Core Understanding
+Information can be processed at multiple stages. Some information influences behavior without broad conscious access, whereas information that gains access can often be reported, maintained, combined with other information, or used flexibly. The conditions producing access depend on stimulus strength, attention, competing information, task demands, and the architecture proposed by the relevant theory. Measures of reportability are useful but do not by themselves settle what consciousness fundamentally is.
+
+## 4. Relationship to This Chapter
+It links consciousness with information processing and separates conscious availability from processing that remains outside awareness.
+
+## 5. Boundaries
+### Owns
+Owns the concept of information becoming consciously available. Defers attention to Chapter 1.6 and general processing to Chapters 1.1, 1.4, and relevant cognitive chapters.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Conscious access concerns availability, not mere processing.
 - Information can influence behavior without broad conscious access.
-- The mechanisms of access are theory-dependent.\n\n## 1.5.7 Conscious processing\n\n## 1. Purpose\nDefine processing that occurs with conscious availability and distinguish it from unconscious processing.\n\n## 2. Definition\nConscious processing is information processing that is accompanied by conscious awareness or is available to conscious cognition. **What it is not:** it is not simply any complex or effortful processing; unconscious processes can also be complex.\n\n## 3. Core Understanding\nConscious processing can support deliberate reasoning, explicit report, intentional regulation, and flexible integration of information. Its speed and capacity may be limited relative to some automatic processes, although the exact limits depend on task and theory. Conscious processing can interact continuously with nonconscious processing rather than operating as a completely separate system. Whether a process is conscious should therefore be determined by evidence about awareness, not by whether the task appears difficult or sophisticated.\n\n## 4. Relationship to This Chapter\nIt belongs in the consciousness section because it identifies one mode through which conscious experience and cognition interact.\n\n## 5. Boundaries\n### Owns\nOwns the consciousness-specific construct of processing accompanied by conscious awareness. Defers general psychological processing to Chapter 1.1 and attentional control to Chapter 1.6.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Conscious processing involves conscious availability or awareness.
+- The mechanisms of access are theory-dependent.
+
+## 1.5.7 Conscious processing
+
+## 1. Purpose
+Define processing that occurs with conscious availability and distinguish it from unconscious processing.
+
+## 2. Definition
+Conscious processing is information processing that is accompanied by conscious awareness or is available to conscious cognition. **What it is not:** it is not simply any complex or effortful processing; unconscious processes can also be complex.
+
+## 3. Core Understanding
+Conscious processing can support deliberate reasoning, explicit report, intentional regulation, and flexible integration of information. Its speed and capacity may be limited relative to some automatic processes, although the exact limits depend on task and theory. Conscious processing can interact continuously with nonconscious processing rather than operating as a completely separate system. Whether a process is conscious should therefore be determined by evidence about awareness, not by whether the task appears difficult or sophisticated.
+
+## 4. Relationship to This Chapter
+It belongs in the consciousness section because it identifies one mode through which conscious experience and cognition interact.
+
+## 5. Boundaries
+### Owns
+Owns the consciousness-specific construct of processing accompanied by conscious awareness. Defers general psychological processing to Chapter 1.1 and attentional control to Chapter 1.6.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Conscious processing involves conscious availability or awareness.
 - Complexity and effort do not by themselves prove consciousness.
-- Conscious and unconscious processing can interact.\n\n## 1.5.8 Unconscious processing\n\n## 1. Purpose\nEstablish that information can be processed and influence behavior without entering conscious awareness.\n\n## 2. Definition\nUnconscious processing is processing that occurs without the relevant information or operation becoming consciously experienced or reportable. **What it is not:** it does not mean a process is mysterious, inaccessible to all measurement, or necessarily completely independent of consciousness.\n\n## 3. Core Understanding\nResearch demonstrates that information can affect perception, memory, action, emotion, or decision-related behavior under conditions in which conscious awareness is limited or absent by the study's operational measure. The magnitude and reliability of such effects vary by task and method. Unconscious does not mean causally unlimited: processing remains constrained by the information available, the person's capacities, and the experimental context. Different paradigms also differ in how convincingly they establish lack of awareness.\n\n## 4. Relationship to This Chapter\nIt provides the contrast needed to understand conscious processing and subliminal processing without treating cognition as wholly conscious.\n\n## 5. Boundaries\n### Owns\nOwns the consciousness-specific distinction between processing with and without conscious awareness. Defers general psychological processing and specific unconscious mechanisms to their canonical Topics.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Processing can occur without conscious awareness.
+- Conscious and unconscious processing can interact.
+
+## 1.5.8 Unconscious processing
+
+## 1. Purpose
+Establish that information can be processed and influence behavior without entering conscious awareness.
+
+## 2. Definition
+Unconscious processing is processing that occurs without the relevant information or operation becoming consciously experienced or reportable. **What it is not:** it does not mean a process is mysterious, inaccessible to all measurement, or necessarily completely independent of consciousness.
+
+## 3. Core Understanding
+Research demonstrates that information can affect perception, memory, action, emotion, or decision-related behavior under conditions in which conscious awareness is limited or absent by the study's operational measure. The magnitude and reliability of such effects vary by task and method. Unconscious does not mean causally unlimited: processing remains constrained by the information available, the person's capacities, and the experimental context. Different paradigms also differ in how convincingly they establish lack of awareness.
+
+## 4. Relationship to This Chapter
+It provides the contrast needed to understand conscious processing and subliminal processing without treating cognition as wholly conscious.
+
+## 5. Boundaries
+### Owns
+Owns the consciousness-specific distinction between processing with and without conscious awareness. Defers general psychological processing and specific unconscious mechanisms to their canonical Topics.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Processing can occur without conscious awareness.
 - Unconscious does not mean unlimited or unmeasurable.
-- Evidence for unconscious processing depends on how awareness is assessed.\n\n## 1.5.9 Subliminal processing\n\n## 1. Purpose\nExplain processing of stimuli presented below or outside a person's consciously reportable threshold under defined conditions.\n\n## 2. Definition\nSubliminal processing refers to processing of information presented under conditions intended to prevent conscious identification or awareness of that information. **What it is not:** subliminal does not mean that a stimulus has no neural or behavioral effect, nor does it imply powerful hidden control.\n\n## 3. Core Understanding\nSubliminal effects are typically studied by presenting stimuli briefly, weakly, or under masking conditions and then measuring behavior or physiological responses. Some studies find effects on subsequent responses, but effects are generally task-, context-, and method-dependent. Demonstrating that participants did not consciously perceive a stimulus is itself a measurement problem, because awareness can be partial and sensitive to the measure used. Claims that subliminal information can reliably bypass conscious control and determine complex behavior are not established by ordinary subliminal priming findings.\n\n## 4. Relationship to This Chapter\nIt is a specific form of limited-awareness processing within the consciousness ontology.\n\n## 5. Boundaries\n### Owns\nOwns the psychological construct of processing under experimentally defined subliminal conditions. Defers general unconscious processing to its Topic and attention to Chapter 1.6.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Subliminal processing concerns experimentally limited conscious awareness.
+- Evidence for unconscious processing depends on how awareness is assessed.
+
+## 1.5.9 Subliminal processing
+
+## 1. Purpose
+Explain processing of stimuli presented below or outside a person's consciously reportable threshold under defined conditions.
+
+## 2. Definition
+Subliminal processing refers to processing of information presented under conditions intended to prevent conscious identification or awareness of that information. **What it is not:** subliminal does not mean that a stimulus has no neural or behavioral effect, nor does it imply powerful hidden control.
+
+## 3. Core Understanding
+Subliminal effects are typically studied by presenting stimuli briefly, weakly, or under masking conditions and then measuring behavior or physiological responses. Some studies find effects on subsequent responses, but effects are generally task-, context-, and method-dependent. Demonstrating that participants did not consciously perceive a stimulus is itself a measurement problem, because awareness can be partial and sensitive to the measure used. Claims that subliminal information can reliably bypass conscious control and determine complex behavior are not established by ordinary subliminal priming findings.
+
+## 4. Relationship to This Chapter
+It is a specific form of limited-awareness processing within the consciousness ontology.
+
+## 5. Boundaries
+### Owns
+Owns the psychological construct of processing under experimentally defined subliminal conditions. Defers general unconscious processing to its Topic and attention to Chapter 1.6.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Subliminal processing concerns experimentally limited conscious awareness.
 - Effects are usually constrained by task and context.
-- Subliminal exposure does not establish covert control of complex behavior.\n\n## 1.5.10 Automaticity\n\n## 1. Purpose\nDefine automaticity as characteristics of processes that operate with reduced conscious control or monitoring, while avoiding an absolute automatic/manual split.\n\n## 2. Definition\nAutomaticity is the degree to which a process can operate with limited conscious control, monitoring, or effort under appropriate conditions. **What it is not:** automaticity does not necessarily mean completely unconscious, effortless, uncontrollable, or immune to context.\n\n## 3. Core Understanding\nRepeated practice can make some operations faster, more efficient, and less dependent on deliberate control. Automaticity is often multidimensional: a process may become fast while remaining interruptible, or require little attention while still reaching awareness. Automatic and controlled processing can coexist and interact. The degree of automaticity depends on task demands, practice, competing goals, and environmental conditions rather than being a permanent label attached to a behavior.\n\n## 4. Relationship to This Chapter\nIt provides the general property that connects automatic processing with conscious control.\n\n## 5. Boundaries\n### Owns\nOwns the general psychological property of automaticity. Defers automatic processing and controlled processing to their operational Topics and habit learning to Chapter 1.7.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Automaticity is a matter of degree and dimension.
+- Subliminal exposure does not establish covert control of complex behavior.
+
+## 1.5.10 Automaticity
+
+## 1. Purpose
+Define automaticity as characteristics of processes that operate with reduced conscious control or monitoring, while avoiding an absolute automatic/manual split.
+
+## 2. Definition
+Automaticity is the degree to which a process can operate with limited conscious control, monitoring, or effort under appropriate conditions. **What it is not:** automaticity does not necessarily mean completely unconscious, effortless, uncontrollable, or immune to context.
+
+## 3. Core Understanding
+Repeated practice can make some operations faster, more efficient, and less dependent on deliberate control. Automaticity is often multidimensional: a process may become fast while remaining interruptible, or require little attention while still reaching awareness. Automatic and controlled processing can coexist and interact. The degree of automaticity depends on task demands, practice, competing goals, and environmental conditions rather than being a permanent label attached to a behavior.
+
+## 4. Relationship to This Chapter
+It provides the general property that connects automatic processing with conscious control.
+
+## 5. Boundaries
+### Owns
+Owns the general psychological property of automaticity. Defers automatic processing and controlled processing to their operational Topics and habit learning to Chapter 1.7.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Automaticity is a matter of degree and dimension.
 - Automatic does not necessarily mean unconscious or uncontrollable.
-- Practice can change processing demands without eliminating all control.\n\n## 1.5.11 Automatic processing\n\n## 1. Purpose\nExplain processing that can proceed with relatively little deliberate control under appropriate conditions.\n\n## 2. Definition\nAutomatic processing is processing that, under specified conditions, proceeds with relatively limited conscious control, monitoring, or attentional demand. **What it is not:** it is not necessarily completely unconscious or impossible to modify.\n\n## 3. Core Understanding\nAutomatic processes can emerge through learning, repeated practice, or well-established system properties. They can be efficient, but their efficiency can depend on familiar conditions and may decrease when circumstances change or competing demands appear. Some automatic processes remain accessible to consciousness even though they do not require continuous deliberate control. The distinction from controlled processing is therefore functional rather than an absolute division between two separate minds.\n\n## 4. Relationship to This Chapter\nIt belongs in the consciousness section because the defining issue is the relation between processing and conscious control.\n\n## 5. Boundaries\n### Owns\nOwns the consciousness-related construct of relatively automatic processing. Defers habit formation and learning mechanisms to Chapter 1.7 and attentional selection/control to Chapter 1.6.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Automatic processing can require little deliberate control.
+- Practice can change processing demands without eliminating all control.
+
+## 1.5.11 Automatic processing
+
+## 1. Purpose
+Explain processing that can proceed with relatively little deliberate control under appropriate conditions.
+
+## 2. Definition
+Automatic processing is processing that, under specified conditions, proceeds with relatively limited conscious control, monitoring, or attentional demand. **What it is not:** it is not necessarily completely unconscious or impossible to modify.
+
+## 3. Core Understanding
+Automatic processes can emerge through learning, repeated practice, or well-established system properties. They can be efficient, but their efficiency can depend on familiar conditions and may decrease when circumstances change or competing demands appear. Some automatic processes remain accessible to consciousness even though they do not require continuous deliberate control. The distinction from controlled processing is therefore functional rather than an absolute division between two separate minds.
+
+## 4. Relationship to This Chapter
+It belongs in the consciousness section because the defining issue is the relation between processing and conscious control.
+
+## 5. Boundaries
+### Owns
+Owns the consciousness-related construct of relatively automatic processing. Defers habit formation and learning mechanisms to Chapter 1.7 and attentional selection/control to Chapter 1.6.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Automatic processing can require little deliberate control.
 - It can remain conscious in some circumstances.
-- Automaticity depends on conditions and task demands.\n\n## 1.5.12 Controlled processing\n\n## 1. Purpose\nDefine processing that depends more strongly on deliberate, conscious regulation and distinguish it from effort alone.\n\n## 2. Definition\nControlled processing is processing that requires relatively deliberate regulation, monitoring, or goal-directed control. **What it is not:** controlled processing is not simply any difficult task, and conscious involvement does not guarantee perfect control.\n\n## 3. Core Understanding\nControlled processing is commonly recruited when tasks are novel, conflicting, weakly learned, or require flexible adjustment. It can involve maintaining goals, selecting among responses, monitoring performance, and overriding competing tendencies. Control is limited by available attention, working memory, fatigue, motivation, and task complexity. Repeated practice can reduce the amount of control required for some operations, although context can restore control demands.\n\n## 4. Relationship to This Chapter\nIt completes the automaticity framework by identifying processing that relies more heavily on deliberate regulation.\n\n## 5. Boundaries\n### Owns\nOwns the consciousness-related construct of relatively controlled processing. Defers executive attention and cognitive control to their canonical Topics in Chapter 1.6 and Chapter 1.9.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Controlled processing involves deliberate regulation or monitoring.
+- Automaticity depends on conditions and task demands.
+
+## 1.5.12 Controlled processing
+
+## 1. Purpose
+Define processing that depends more strongly on deliberate, conscious regulation and distinguish it from effort alone.
+
+## 2. Definition
+Controlled processing is processing that requires relatively deliberate regulation, monitoring, or goal-directed control. **What it is not:** controlled processing is not simply any difficult task, and conscious involvement does not guarantee perfect control.
+
+## 3. Core Understanding
+Controlled processing is commonly recruited when tasks are novel, conflicting, weakly learned, or require flexible adjustment. It can involve maintaining goals, selecting among responses, monitoring performance, and overriding competing tendencies. Control is limited by available attention, working memory, fatigue, motivation, and task complexity. Repeated practice can reduce the amount of control required for some operations, although context can restore control demands.
+
+## 4. Relationship to This Chapter
+It completes the automaticity framework by identifying processing that relies more heavily on deliberate regulation.
+
+## 5. Boundaries
+### Owns
+Owns the consciousness-related construct of relatively controlled processing. Defers executive attention and cognitive control to their canonical Topics in Chapter 1.6 and Chapter 1.9.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Controlled processing involves deliberate regulation or monitoring.
 - Control is limited and context-sensitive.
-- Practice can reduce control demands for some operations.\n\n## 1.5.13 Consciousness measurement\n\n## 1. Purpose\nExplain how consciousness is scientifically measured and why no single measure captures the whole construct.\n\n## 2. Definition\nConsciousness measurement is the assessment of conscious awareness, experience, responsiveness, or related indicators using behavioral, subjective, physiological, or neural measures. **What it is not:** no single measure should be treated as a direct, complete readout of consciousness itself.\n\n## 3. Core Understanding\nResearchers use verbal reports, forced-choice discrimination, confidence judgments, behavioral responsiveness, physiological responses, and neural measures, often in combination. Each measure captures a different aspect and has limitations. A person may have experience without being able to report it, or may show behavior that is difficult to interpret as evidence of conscious experience. Experimental designs therefore need to separate performance, awareness, and response ability where possible. Measurement choices can affect conclusions about whether processing was conscious.\n\n## 4. Relationship to This Chapter\nIt provides the methodological bridge between the consciousness construct and empirical investigation.\n\n## 5. Boundaries\n### Owns\nOwns the general measurement problem for consciousness. Defers specific research methods and measurement validity to Chapter 1.2 and biological measurement techniques to Chapter 1.3.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Consciousness cannot be reduced to one measurement method.
+- Practice can reduce control demands for some operations.
+
+## 1.5.13 Consciousness measurement
+
+## 1. Purpose
+Explain how consciousness is scientifically measured and why no single measure captures the whole construct.
+
+## 2. Definition
+Consciousness measurement is the assessment of conscious awareness, experience, responsiveness, or related indicators using behavioral, subjective, physiological, or neural measures. **What it is not:** no single measure should be treated as a direct, complete readout of consciousness itself.
+
+## 3. Core Understanding
+Researchers use verbal reports, forced-choice discrimination, confidence judgments, behavioral responsiveness, physiological responses, and neural measures, often in combination. Each measure captures a different aspect and has limitations. A person may have experience without being able to report it, or may show behavior that is difficult to interpret as evidence of conscious experience. Experimental designs therefore need to separate performance, awareness, and response ability where possible. Measurement choices can affect conclusions about whether processing was conscious.
+
+## 4. Relationship to This Chapter
+It provides the methodological bridge between the consciousness construct and empirical investigation.
+
+## 5. Boundaries
+### Owns
+Owns the general measurement problem for consciousness. Defers specific research methods and measurement validity to Chapter 1.2 and biological measurement techniques to Chapter 1.3.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Consciousness cannot be reduced to one measurement method.
 - Report, behavior, physiology, and neural measures answer partly different questions.
-- Awareness and ability to report should be distinguished when possible.\n\n## 1.5.14 Sleep\n\n## 1. Purpose\nDefine sleep as a recurring biological and psychological state with characteristic changes in brain activity, physiology, responsiveness, and experience.\n\n## 2. Definition\nSleep is a recurring state characterized by altered responsiveness, coordinated changes in brain and body activity, and reduced interaction with the environment, organized into identifiable stages. **What it is not:** sleep is not simply inactivity or a uniform shutdown of the brain.\n\n## 3. Core Understanding\nSleep is actively regulated and cycles through NREM and REM states across the night. Brain activity, muscle tone, autonomic function, sensory responsiveness, and subjective experience change across these states. Sleep interacts with memory, learning, emotion, metabolism, immune function, and other biological processes, although individual effects depend on timing, duration, and context. Normal sleep varies across development and individuals.\n\n## 4. Relationship to This Chapter\nIt is the central construct for the chapter's sleep ontology and the state from which sleep stages, regulation, deprivation, and dreams are differentiated.\n\n## 5. Boundaries\n### Owns\nOwns the general psychological construct of sleep. Defers biological rhythms, endocrine mechanisms, and broader homeostasis to Chapter 1.3; specific sleep stages and functions to their Topics here.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Sleep is an organized biological state, not mere inactivity.
+- Awareness and ability to report should be distinguished when possible.
+
+## 1.5.14 Sleep
+
+## 1. Purpose
+Define sleep as a recurring biological and psychological state with characteristic changes in brain activity, physiology, responsiveness, and experience.
+
+## 2. Definition
+Sleep is a recurring state characterized by altered responsiveness, coordinated changes in brain and body activity, and reduced interaction with the environment, organized into identifiable stages. **What it is not:** sleep is not simply inactivity or a uniform shutdown of the brain.
+
+## 3. Core Understanding
+Sleep is actively regulated and cycles through NREM and REM states across the night. Brain activity, muscle tone, autonomic function, sensory responsiveness, and subjective experience change across these states. Sleep interacts with memory, learning, emotion, metabolism, immune function, and other biological processes, although individual effects depend on timing, duration, and context. Normal sleep varies across development and individuals.
+
+## 4. Relationship to This Chapter
+It is the central construct for the chapter's sleep ontology and the state from which sleep stages, regulation, deprivation, and dreams are differentiated.
+
+## 5. Boundaries
+### Owns
+Owns the general psychological construct of sleep. Defers biological rhythms, endocrine mechanisms, and broader homeostasis to Chapter 1.3; specific sleep stages and functions to their Topics here.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Sleep is an organized biological state, not mere inactivity.
 - NREM and REM sleep have distinct but interacting features.
-- Sleep is regulated and changes across development and individuals.\n\n## 1.5.15 Sleep architecture\n\n## 1. Purpose\nDescribe the organized temporal pattern of sleep stages across a sleep period.\n\n## 2. Definition\nSleep architecture is the pattern, sequence, duration, and cycling of sleep stages across a sleep period. **What it is not:** it is not simply total sleep duration.\n\n## 3. Core Understanding\nSleep is organized into cycles containing NREM and REM sleep, with stage proportions and timing changing across the night. Deep NREM sleep tends to be more prominent earlier in a typical sleep period, while REM episodes generally become longer later, although individual nights vary. Architecture is described using measures such as stage duration, latency, continuity, and cycle structure. Illness, medications, age, sleep deprivation, and circadian timing can alter architecture.\n\n## 4. Relationship to This Chapter\nIt gives the chapter a structural framework for understanding NREM and REM rather than treating sleep as one undifferentiated state.\n\n## 5. Boundaries\n### Owns\nOwns the temporal organization of sleep stages. Defers the biological mechanisms of circadian rhythms and homeostasis to Chapter 1.3 and their sleep-specific Topics here.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Sleep has an organized stage structure.
+- Sleep is regulated and changes across development and individuals.
+
+## 1.5.15 Sleep architecture
+
+## 1. Purpose
+Describe the organized temporal pattern of sleep stages across a sleep period.
+
+## 2. Definition
+Sleep architecture is the pattern, sequence, duration, and cycling of sleep stages across a sleep period. **What it is not:** it is not simply total sleep duration.
+
+## 3. Core Understanding
+Sleep is organized into cycles containing NREM and REM sleep, with stage proportions and timing changing across the night. Deep NREM sleep tends to be more prominent earlier in a typical sleep period, while REM episodes generally become longer later, although individual nights vary. Architecture is described using measures such as stage duration, latency, continuity, and cycle structure. Illness, medications, age, sleep deprivation, and circadian timing can alter architecture.
+
+## 4. Relationship to This Chapter
+It gives the chapter a structural framework for understanding NREM and REM rather than treating sleep as one undifferentiated state.
+
+## 5. Boundaries
+### Owns
+Owns the temporal organization of sleep stages. Defers the biological mechanisms of circadian rhythms and homeostasis to Chapter 1.3 and their sleep-specific Topics here.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Sleep has an organized stage structure.
 - Stage proportions and timing vary across the night and across people.
-- Architecture is distinct from total sleep time.\n\n## 1.5.16 Sleep regulation\n\n## 1. Purpose\nExplain the interacting processes that determine when sleep occurs and how it is maintained.\n\n## 2. Definition\nSleep regulation is the set of biological and behavioral processes that govern sleep timing, propensity, initiation, maintenance, and waking. **What it is not:** it is not controlled by one single clock or one single sleep signal.\n\n## 3. Core Understanding\nTwo major regulatory influences are commonly distinguished: a homeostatic process related to accumulated sleep need and a circadian process related to internal timing. Light exposure, behavior, prior sleep, environment, age, health, and other factors also influence sleep timing and continuity. These processes interact rather than operating independently.\n\n## 4. Relationship to This Chapter\nIt is the organizing Topic for sleep timing and pressure, while more specific regulatory constructs receive their own Topics.\n\n## 5. Boundaries\n### Owns\nOwns general regulation of sleep. Defers homeostasis, circadian rhythms, and sleep pressure to their specialized Topics and broader biological regulation to Chapter 1.3.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Sleep regulation reflects interacting processes.
+- Architecture is distinct from total sleep time.
+
+## 1.5.16 Sleep regulation
+
+## 1. Purpose
+Explain the interacting processes that determine when sleep occurs and how it is maintained.
+
+## 2. Definition
+Sleep regulation is the set of biological and behavioral processes that govern sleep timing, propensity, initiation, maintenance, and waking. **What it is not:** it is not controlled by one single clock or one single sleep signal.
+
+## 3. Core Understanding
+Two major regulatory influences are commonly distinguished: a homeostatic process related to accumulated sleep need and a circadian process related to internal timing. Light exposure, behavior, prior sleep, environment, age, health, and other factors also influence sleep timing and continuity. These processes interact rather than operating independently.
+
+## 4. Relationship to This Chapter
+It is the organizing Topic for sleep timing and pressure, while more specific regulatory constructs receive their own Topics.
+
+## 5. Boundaries
+### Owns
+Owns general regulation of sleep. Defers homeostasis, circadian rhythms, and sleep pressure to their specialized Topics and broader biological regulation to Chapter 1.3.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Sleep regulation reflects interacting processes.
 - Prior sleep and circadian timing both matter.
-- Regulation is sensitive to behavior and environmental conditions.\n\n## 1.5.17 Sleep homeostasis\n\n## 1. Purpose\nDefine the homeostatic component of sleep regulation without equating it with general bodily homeostasis.\n\n## 2. Definition\nSleep homeostasis is the regulatory process through which prior sleep and wake history influence subsequent sleep propensity and the restorative pressure associated with sleep. **What it is not:** it is not identical to general physiological homeostasis.\n\n## 3. Core Understanding\nSleep propensity generally increases with prolonged wakefulness and is reduced by sufficient sleep, although the relationship is not a simple linear meter. Measures of slow-wave activity and other sleep features have been used to study homeostatic sleep regulation. Homeostatic and circadian influences interact: a person can have substantial sleep pressure at a circadian phase that still promotes wakefulness.\n\n## 4. Relationship to This Chapter\nIt is a sleep-specific application of regulation and must remain distinct from the general homeostasis construct.\n\n## 5. Boundaries\n### Owns\nOwns sleep-specific homeostatic regulation. Defers general homeostasis to Chapter 1.3 and broader sleep regulation to Chapter 1.5 Sleep regulation.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Sleep homeostasis reflects sleep–wake history.
+- Regulation is sensitive to behavior and environmental conditions.
+
+## 1.5.17 Sleep homeostasis
+
+## 1. Purpose
+Define the homeostatic component of sleep regulation without equating it with general bodily homeostasis.
+
+## 2. Definition
+Sleep homeostasis is the regulatory process through which prior sleep and wake history influence subsequent sleep propensity and the restorative pressure associated with sleep. **What it is not:** it is not identical to general physiological homeostasis.
+
+## 3. Core Understanding
+Sleep propensity generally increases with prolonged wakefulness and is reduced by sufficient sleep, although the relationship is not a simple linear meter. Measures of slow-wave activity and other sleep features have been used to study homeostatic sleep regulation. Homeostatic and circadian influences interact: a person can have substantial sleep pressure at a circadian phase that still promotes wakefulness.
+
+## 4. Relationship to This Chapter
+It is a sleep-specific application of regulation and must remain distinct from the general homeostasis construct.
+
+## 5. Boundaries
+### Owns
+Owns sleep-specific homeostatic regulation. Defers general homeostasis to Chapter 1.3 and broader sleep regulation to Chapter 1.5 Sleep regulation.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Sleep homeostasis reflects sleep–wake history.
 - It interacts with circadian timing.
-- It is distinct from general physiological homeostasis.\n\n## 1.5.18 Circadian sleep regulation\n\n## 1. Purpose\nExplain how internal circadian timing influences sleep and wakefulness.\n\n## 2. Definition\nCircadian sleep regulation is the influence of approximately 24-hour biological timing processes on sleep propensity and wakefulness across the day and night. **What it is not:** it is not simply a person's preferred bedtime or the same thing as accumulated sleep pressure.\n\n## 3. Core Understanding\nThe circadian system coordinates daily rhythms using internal biological clocks that are strongly influenced by environmental time cues, especially light. Circadian phase affects when sleep is easier or harder to initiate and maintain. The sleep–wake rhythm emerges from interaction between circadian timing and homeostatic sleep pressure. Timing can shift through changes in light exposure, schedules, travel, and other conditions.\n\n## 4. Relationship to This Chapter\nIt connects the sleep system to the biological-rhythm framework established in Chapter 1.3.\n\n## 5. Boundaries\n### Owns\nOwns circadian regulation as it specifically governs sleep and wakefulness. Defers general circadian rhythms and biological-clock mechanisms to Chapter 1.3.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Circadian timing influences sleep propensity across the day.
+- It is distinct from general physiological homeostasis.
+
+## 1.5.18 Circadian sleep regulation
+
+## 1. Purpose
+Explain how internal circadian timing influences sleep and wakefulness.
+
+## 2. Definition
+Circadian sleep regulation is the influence of approximately 24-hour biological timing processes on sleep propensity and wakefulness across the day and night. **What it is not:** it is not simply a person's preferred bedtime or the same thing as accumulated sleep pressure.
+
+## 3. Core Understanding
+The circadian system coordinates daily rhythms using internal biological clocks that are strongly influenced by environmental time cues, especially light. Circadian phase affects when sleep is easier or harder to initiate and maintain. The sleep–wake rhythm emerges from interaction between circadian timing and homeostatic sleep pressure. Timing can shift through changes in light exposure, schedules, travel, and other conditions.
+
+## 4. Relationship to This Chapter
+It connects the sleep system to the biological-rhythm framework established in Chapter 1.3.
+
+## 5. Boundaries
+### Owns
+Owns circadian regulation as it specifically governs sleep and wakefulness. Defers general circadian rhythms and biological-clock mechanisms to Chapter 1.3.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Circadian timing influences sleep propensity across the day.
 - Light is a major environmental timing cue.
-- Circadian timing and sleep pressure interact.\n\n## 1.5.19 Sleep pressure\n\n## 1. Purpose\nDefine the increasing propensity for sleep associated with sustained wakefulness and its reduction through sleep.\n\n## 2. Definition\nSleep pressure is the tendency to fall asleep that builds during sustained wakefulness and is reduced by sleep. **What it is not:** it is not identical to circadian sleepiness, although both influence when a person is likely to sleep.\n\n## 3. Core Understanding\nSleep pressure is commonly conceptualized as the homeostatic component of sleep regulation. Longer wake periods generally increase the drive for sleep, while adequate sleep reduces it. The subjective experience of sleepiness and physiological measures do not always map perfectly onto one another. Circadian phase can amplify or oppose sleep pressure, helping explain why people can feel alert at one time and very sleepy at another despite similar prior wake duration.\n\n## 4. Relationship to This Chapter\nIt operationalizes one important component of sleep regulation and homeostatic sleep need.\n\n## 5. Boundaries\n### Owns\nOwns the sleep-specific construct of sleep pressure. Defers general sleep homeostasis and circadian regulation to their Topics.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Sleep pressure reflects accumulated wakefulness.
+- Circadian timing and sleep pressure interact.
+
+## 1.5.19 Sleep pressure
+
+## 1. Purpose
+Define the increasing propensity for sleep associated with sustained wakefulness and its reduction through sleep.
+
+## 2. Definition
+Sleep pressure is the tendency to fall asleep that builds during sustained wakefulness and is reduced by sleep. **What it is not:** it is not identical to circadian sleepiness, although both influence when a person is likely to sleep.
+
+## 3. Core Understanding
+Sleep pressure is commonly conceptualized as the homeostatic component of sleep regulation. Longer wake periods generally increase the drive for sleep, while adequate sleep reduces it. The subjective experience of sleepiness and physiological measures do not always map perfectly onto one another. Circadian phase can amplify or oppose sleep pressure, helping explain why people can feel alert at one time and very sleepy at another despite similar prior wake duration.
+
+## 4. Relationship to This Chapter
+It operationalizes one important component of sleep regulation and homeostatic sleep need.
+
+## 5. Boundaries
+### Owns
+Owns the sleep-specific construct of sleep pressure. Defers general sleep homeostasis and circadian regulation to their Topics.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Sleep pressure reflects accumulated wakefulness.
 - Sleep reduces homeostatic sleep pressure.
-- Circadian timing can modify how sleep pressure is experienced.\n\n## 1.5.20 NREM sleep\n\n## 1. Purpose\nDefine non-rapid-eye-movement sleep and describe its major stages and characteristics.\n\n## 2. Definition\nNREM sleep is the portion of sleep characterized by non-rapid-eye-movement states, including progressively deeper stages with distinctive patterns of brain activity and physiology. **What it is not:** NREM is not a single uniform stage.\n\n## 3. Core Understanding\nNREM sleep includes lighter stages and deeper slow-wave sleep. Across NREM stages, responsiveness, muscle activity, autonomic patterns, and brain activity change. Deep NREM sleep is associated with prominent slow-wave activity and has been linked to memory and restorative processes, although functions are distributed across sleep rather than belonging to one stage alone. NREM occupies a large proportion of typical adult sleep and interacts cyclically with REM sleep.\n\n## 4. Relationship to This Chapter\nIt provides one half of the chapter's basic sleep-stage architecture.\n\n## 5. Boundaries\n### Owns\nOwns NREM sleep as a sleep state and its defining stage characteristics. Defers general sleep architecture and biological mechanisms to their specialized Topics.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- NREM contains multiple stages with different properties.
+- Circadian timing can modify how sleep pressure is experienced.
+
+## 1.5.20 NREM sleep
+
+## 1. Purpose
+Define non-rapid-eye-movement sleep and describe its major stages and characteristics.
+
+## 2. Definition
+NREM sleep is the portion of sleep characterized by non-rapid-eye-movement states, including progressively deeper stages with distinctive patterns of brain activity and physiology. **What it is not:** NREM is not a single uniform stage.
+
+## 3. Core Understanding
+NREM sleep includes lighter stages and deeper slow-wave sleep. Across NREM stages, responsiveness, muscle activity, autonomic patterns, and brain activity change. Deep NREM sleep is associated with prominent slow-wave activity and has been linked to memory and restorative processes, although functions are distributed across sleep rather than belonging to one stage alone. NREM occupies a large proportion of typical adult sleep and interacts cyclically with REM sleep.
+
+## 4. Relationship to This Chapter
+It provides one half of the chapter's basic sleep-stage architecture.
+
+## 5. Boundaries
+### Owns
+Owns NREM sleep as a sleep state and its defining stage characteristics. Defers general sleep architecture and biological mechanisms to their specialized Topics.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- NREM contains multiple stages with different properties.
 - Deep NREM is associated with prominent slow-wave activity.
-- NREM and REM alternate within normal sleep architecture.\n\n## 1.5.21 REM sleep\n\n## 1. Purpose\nDefine rapid-eye-movement sleep and distinguish its characteristic physiology from its common but incomplete association with dreaming.\n\n## 2. Definition\nREM sleep is a sleep state characterized by rapid eye movements, distinctive brain activity, reduced skeletal-muscle tone, and other coordinated physiological changes. **What it is not:** REM is not synonymous with dreaming; dreams can occur outside REM as well.\n\n## 3. Core Understanding\nREM periods recur across the night and often become longer toward the later part of a typical sleep episode. REM combines relatively activated brain activity with profound muscle atonia, although small muscle movements and autonomic changes occur. Dreaming is especially vivid and frequently reported from REM awakenings, but dream experience is not exclusive to REM. REM has been studied in relation to learning, emotion, and brain development, with evidence varying by function and context.\n\n## 4. Relationship to This Chapter\nIt provides the complementary sleep state to NREM and helps organize the chapter's account of sleep architecture.\n\n## 5. Boundaries\n### Owns\nOwns REM sleep as a sleep state and its defining physiological and experiential features. Defers dreams and their phenomenology to the Dreams Topic.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- REM has distinctive brain and muscle characteristics.
+- NREM and REM alternate within normal sleep architecture.
+
+## 1.5.21 REM sleep
+
+## 1. Purpose
+Define rapid-eye-movement sleep and distinguish its characteristic physiology from its common but incomplete association with dreaming.
+
+## 2. Definition
+REM sleep is a sleep state characterized by rapid eye movements, distinctive brain activity, reduced skeletal-muscle tone, and other coordinated physiological changes. **What it is not:** REM is not synonymous with dreaming; dreams can occur outside REM as well.
+
+## 3. Core Understanding
+REM periods recur across the night and often become longer toward the later part of a typical sleep episode. REM combines relatively activated brain activity with profound muscle atonia, although small muscle movements and autonomic changes occur. Dreaming is especially vivid and frequently reported from REM awakenings, but dream experience is not exclusive to REM. REM has been studied in relation to learning, emotion, and brain development, with evidence varying by function and context.
+
+## 4. Relationship to This Chapter
+It provides the complementary sleep state to NREM and helps organize the chapter's account of sleep architecture.
+
+## 5. Boundaries
+### Owns
+Owns REM sleep as a sleep state and its defining physiological and experiential features. Defers dreams and their phenomenology to the Dreams Topic.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- REM has distinctive brain and muscle characteristics.
 - Dreaming is common in REM but not exclusive to it.
-- REM is part of normal cyclic sleep architecture.\n\n## 1.5.22 Sleep-dependent memory effects\n\n## 1. Purpose\nExplain how sleep can influence memory while preserving Chapter 1.8 as the owner of the general sleep–memory relationship.\n\n## 2. Definition\nSleep-dependent memory effects are changes in memory processing or performance associated with sleep occurring after learning or before retrieval. **What it is not:** they are not evidence that sleep uniformly improves every kind of memory.\n\n## 3. Core Understanding\nSleep can support processes involved in consolidation and can alter subsequent memory performance. Effects depend on memory system, learning conditions, sleep timing, stage composition, and the measure used. Experimental findings support roles for sleep in some forms of memory consolidation, but the exact mechanisms and contribution of particular stages remain active areas of research. Sleep can also interact with forgetting, interference, and emotional memory rather than acting as a simple storage period.\n\n## 4. Relationship to This Chapter\nThis Topic treats the relationship from the sleep side; the broader memory construct and canonical sleep–memory relationship remain in Chapter 1.8.\n\n## 5. Boundaries\n### Owns\nOwns the sleep-centered treatment of memory effects. Defers the general **Sleep and memory** relationship to Chapter 1.8, along with memory architecture and mechanisms.\n\n### Defers\nthe general Sleep and memory relationship to Chapter 1.8, along with memory architecture.\n\n## 6. Key Principles\n- Sleep can influence subsequent memory processing.
+- REM is part of normal cyclic sleep architecture.
+
+## 1.5.22 Sleep-dependent memory effects
+
+## 1. Purpose
+Explain how sleep can influence memory while preserving Chapter 1.8 as the owner of the general sleep–memory relationship.
+
+## 2. Definition
+Sleep-dependent memory effects are changes in memory processing or performance associated with sleep occurring after learning or before retrieval. **What it is not:** they are not evidence that sleep uniformly improves every kind of memory.
+
+## 3. Core Understanding
+Sleep can support processes involved in consolidation and can alter subsequent memory performance. Effects depend on memory system, learning conditions, sleep timing, stage composition, and the measure used. Experimental findings support roles for sleep in some forms of memory consolidation, but the exact mechanisms and contribution of particular stages remain active areas of research. Sleep can also interact with forgetting, interference, and emotional memory rather than acting as a simple storage period.
+
+## 4. Relationship to This Chapter
+This Topic treats the relationship from the sleep side; the broader memory construct and canonical sleep–memory relationship remain in Chapter 1.8.
+
+## 5. Boundaries
+### Owns
+Owns the sleep-centered treatment of memory effects. Defers the general **Sleep and memory** relationship to Chapter 1.8, along with memory architecture and mechanisms.
+
+### Defers
+the general Sleep and memory relationship to Chapter 1.8, along with memory architecture.
+
+## 6. Key Principles
+- Sleep can influence subsequent memory processing.
 - Effects vary by memory system, task, and sleep conditions.
-- Chapter 1.8 remains the canonical owner of the general sleep–memory relationship.\n\n## 1.5.23 Sleep and learning\n\n## 1. Purpose\nDescribe the relationship between sleep and learning without re-owning learning itself.\n\n## 2. Definition\nSleep and learning refers to the relationship between sleep and the acquisition, stabilization, or later expression of learned information and skills. **What it is not:** it does not mean that sleep itself replaces practice or instruction.\n\n## 3. Core Understanding\nSleep can affect learning before and after training by influencing attention, encoding readiness, consolidation, and later performance. Effects depend on what is being learned, when sleep occurs, prior wakefulness, and the quality and amount of sleep. Sleep after learning is especially relevant to some forms of stabilization, while sleep loss before learning can impair attention and encoding. The relationship is therefore conditional rather than a universal claim that more sleep automatically produces more learning.\n\n## 4. Relationship to This Chapter\nIt links the sleep system with learning while preserving Chapter 1.7's ownership of learning mechanisms.\n\n## 5. Boundaries\n### Owns\nOwns the sleep-centered relationship with learning. Defers the general construct and mechanisms of learning to Chapter 1.7.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Sleep can influence learning before and after training.
+- Chapter 1.8 remains the canonical owner of the general sleep–memory relationship.
+
+## 1.5.23 Sleep and learning
+
+## 1. Purpose
+Describe the relationship between sleep and learning without re-owning learning itself.
+
+## 2. Definition
+Sleep and learning refers to the relationship between sleep and the acquisition, stabilization, or later expression of learned information and skills. **What it is not:** it does not mean that sleep itself replaces practice or instruction.
+
+## 3. Core Understanding
+Sleep can affect learning before and after training by influencing attention, encoding readiness, consolidation, and later performance. Effects depend on what is being learned, when sleep occurs, prior wakefulness, and the quality and amount of sleep. Sleep after learning is especially relevant to some forms of stabilization, while sleep loss before learning can impair attention and encoding. The relationship is therefore conditional rather than a universal claim that more sleep automatically produces more learning.
+
+## 4. Relationship to This Chapter
+It links the sleep system with learning while preserving Chapter 1.7's ownership of learning mechanisms.
+
+## 5. Boundaries
+### Owns
+Owns the sleep-centered relationship with learning. Defers the general construct and mechanisms of learning to Chapter 1.7.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Sleep can influence learning before and after training.
 - Effects depend on the type of learning and sleep conditions.
-- Learning itself remains owned by Chapter 1.7.\n\n## 1.5.24 Sleep and emotion\n\n## 1. Purpose\nExplain how sleep and emotional functioning influence one another without re-owning emotion.\n\n## 2. Definition\nSleep and emotion refers to reciprocal relationships between sleep and emotional processing, regulation, reactivity, and experience. **What it is not:** it is not a claim that poor sleep causes every emotional problem or that sleep has one uniform emotional effect.\n\n## 3. Core Understanding\nInsufficient or disrupted sleep can alter emotional reactivity, regulation, attention to emotional information, and vulnerability to distress. Emotional states and stress can in turn affect sleep initiation and continuity. Effects vary with the type and duration of sleep disruption, individual differences, and context. Research supports meaningful associations and, in some experimental settings, causal effects of sleep manipulation on aspects of emotional functioning, but the exact pathways are not universal.\n\n## 4. Relationship to This Chapter\nIt connects sleep regulation and deprivation with the broader emotion system.\n\n## 5. Boundaries\n### Owns\nOwns the sleep-centered relationship with emotion. Defers the general construct of emotion and its mechanisms to Chapter 1.13.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Sleep and emotion influence one another.
+- Learning itself remains owned by Chapter 1.7.
+
+## 1.5.24 Sleep and emotion
+
+## 1. Purpose
+Explain how sleep and emotional functioning influence one another without re-owning emotion.
+
+## 2. Definition
+Sleep and emotion refers to reciprocal relationships between sleep and emotional processing, regulation, reactivity, and experience. **What it is not:** it is not a claim that poor sleep causes every emotional problem or that sleep has one uniform emotional effect.
+
+## 3. Core Understanding
+Insufficient or disrupted sleep can alter emotional reactivity, regulation, attention to emotional information, and vulnerability to distress. Emotional states and stress can in turn affect sleep initiation and continuity. Effects vary with the type and duration of sleep disruption, individual differences, and context. Research supports meaningful associations and, in some experimental settings, causal effects of sleep manipulation on aspects of emotional functioning, but the exact pathways are not universal.
+
+## 4. Relationship to This Chapter
+It connects sleep regulation and deprivation with the broader emotion system.
+
+## 5. Boundaries
+### Owns
+Owns the sleep-centered relationship with emotion. Defers the general construct of emotion and its mechanisms to Chapter 1.13.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Sleep and emotion influence one another.
 - Sleep loss can alter emotional regulation and reactivity.
-- Effects depend on context, individual differences, and the form of sleep disruption.\n\n## 1.5.25 Sleep deprivation\n\n## 1. Purpose\nDefine substantial loss of sleep and explain its consequences without treating every short night as equivalent.\n\n## 2. Definition\nSleep deprivation is a reduction in sleep below the amount needed for a particular individual and situation, whether through insufficient opportunity or imposed restriction. **What it is not:** one short night is not automatically equivalent to severe or chronic deprivation.\n\n## 3. Core Understanding\nSleep loss can impair attention, vigilance, learning, memory, emotional regulation, reaction time, and other forms of functioning. Acute total deprivation differs from chronic partial restriction, and consequences depend on duration, baseline sleep need, task demands, and individual variability. People may underestimate impairment despite objective performance declines. Recovery sleep can reverse some effects, but the time course depends on the extent and duration of prior loss.\n\n## 4. Relationship to This Chapter\nIt provides the chapter's principal Topic for the consequences of insufficient sleep.\n\n## 5. Boundaries\n### Owns\nOwns the general psychological construct of sleep deprivation and its sleep-related consequences. Defers specific health disorders and long-term medical outcomes to Chapter 1.19 and biological mechanisms to Chapter 1.3.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Sleep deprivation can impair multiple forms of cognitive and emotional functioning.
+- Effects depend on context, individual differences, and the form of sleep disruption.
+
+## 1.5.25 Sleep deprivation
+
+## 1. Purpose
+Define substantial loss of sleep and explain its consequences without treating every short night as equivalent.
+
+## 2. Definition
+Sleep deprivation is a reduction in sleep below the amount needed for a particular individual and situation, whether through insufficient opportunity or imposed restriction. **What it is not:** one short night is not automatically equivalent to severe or chronic deprivation.
+
+## 3. Core Understanding
+Sleep loss can impair attention, vigilance, learning, memory, emotional regulation, reaction time, and other forms of functioning. Acute total deprivation differs from chronic partial restriction, and consequences depend on duration, baseline sleep need, task demands, and individual variability. People may underestimate impairment despite objective performance declines. Recovery sleep can reverse some effects, but the time course depends on the extent and duration of prior loss.
+
+## 4. Relationship to This Chapter
+It provides the chapter's principal Topic for the consequences of insufficient sleep.
+
+## 5. Boundaries
+### Owns
+Owns the general psychological construct of sleep deprivation and its sleep-related consequences. Defers specific health disorders and long-term medical outcomes to Chapter 1.19 and biological mechanisms to Chapter 1.3.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Sleep deprivation can impair multiple forms of cognitive and emotional functioning.
 - Acute and chronic sleep loss are not interchangeable.
-- Subjective awareness of impairment may not track objective performance perfectly.\n\n## 1.5.26 Chronotype\n\n## 1. Purpose\nDefine individual differences in preferred or naturally occurring timing of sleep and wakefulness.\n\n## 2. Definition\nChronotype is an individual difference in the timing of preferred or naturally occurring sleep and wake patterns across the day. **What it is not:** chronotype is not simply a fixed personality type or a diagnosis.\n\n## 3. Core Understanding\nPeople differ in when they tend to feel most alert or sleepy. Morning- and evening-oriented patterns are useful descriptive categories, but chronotype is better understood as a continuum with biological, developmental, behavioral, and environmental influences. Age, light exposure, work schedules, social demands, and biological timing can affect observed sleep timing. Chronotype can therefore be partly stable while also being expressed differently under different conditions.\n\n## 4. Relationship to This Chapter\nIt explains why people can differ in sleep timing even when they have similar sleep opportunities.\n\n## 5. Boundaries\n### Owns\nOwns individual differences in sleep–wake timing. Defers general individual differences to Chapter 1.1 and circadian mechanisms to Chapter 1.3.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Chronotype concerns timing preference or tendency, not overall sleep quality.
+- Subjective awareness of impairment may not track objective performance perfectly.
+
+## 1.5.26 Chronotype
+
+## 1. Purpose
+Define individual differences in preferred or naturally occurring timing of sleep and wakefulness.
+
+## 2. Definition
+Chronotype is an individual difference in the timing of preferred or naturally occurring sleep and wake patterns across the day. **What it is not:** chronotype is not simply a fixed personality type or a diagnosis.
+
+## 3. Core Understanding
+People differ in when they tend to feel most alert or sleepy. Morning- and evening-oriented patterns are useful descriptive categories, but chronotype is better understood as a continuum with biological, developmental, behavioral, and environmental influences. Age, light exposure, work schedules, social demands, and biological timing can affect observed sleep timing. Chronotype can therefore be partly stable while also being expressed differently under different conditions.
+
+## 4. Relationship to This Chapter
+It explains why people can differ in sleep timing even when they have similar sleep opportunities.
+
+## 5. Boundaries
+### Owns
+Owns individual differences in sleep–wake timing. Defers general individual differences to Chapter 1.1 and circadian mechanisms to Chapter 1.3.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Chronotype concerns timing preference or tendency, not overall sleep quality.
 - It is influenced by biology, development, and environment.
-- Chronotype is not equivalent to a personality diagnosis.\n\n## 1.5.27 Circadian misalignment\n\n## 1. Purpose\nExplain mismatch between internal circadian timing and externally imposed schedules.\n\n## 2. Definition\nCircadian misalignment occurs when behavioral sleep–wake timing is out of alignment with the person's internal circadian phase or environmental timing demands. **What it is not:** it is not identical to simply sleeping at a socially unusual hour.\n\n## 3. Core Understanding\nShift work, rapid travel across time zones, irregular schedules, and persistent exposure to mistimed light can create misalignment. Misalignment can make sleep more difficult, alter alertness and performance, and disrupt coordination between biological rhythms and behavior. The degree of impact depends on the size and duration of the mismatch, adaptation, and individual timing characteristics. Jet lag and shift-work-related disruption are practical examples of circadian timing conflict.\n\n## 4. Relationship to This Chapter\nIt connects sleep timing with chronotype, circadian regulation, and environmental schedules.\n\n## 5. Boundaries\n### Owns\nOwns the sleep-specific phenomenon of mismatch between internal timing and sleep–wake demands. Defers general circadian rhythms to Chapter 1.3 and clinical sleep–wake disorders to Chapter 1.19.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Misalignment is a timing mismatch, not merely an unusual schedule.
+- Chronotype is not equivalent to a personality diagnosis.
+
+## 1.5.27 Circadian misalignment
+
+## 1. Purpose
+Explain mismatch between internal circadian timing and externally imposed schedules.
+
+## 2. Definition
+Circadian misalignment occurs when behavioral sleep–wake timing is out of alignment with the person's internal circadian phase or environmental timing demands. **What it is not:** it is not identical to simply sleeping at a socially unusual hour.
+
+## 3. Core Understanding
+Shift work, rapid travel across time zones, irregular schedules, and persistent exposure to mistimed light can create misalignment. Misalignment can make sleep more difficult, alter alertness and performance, and disrupt coordination between biological rhythms and behavior. The degree of impact depends on the size and duration of the mismatch, adaptation, and individual timing characteristics. Jet lag and shift-work-related disruption are practical examples of circadian timing conflict.
+
+## 4. Relationship to This Chapter
+It connects sleep timing with chronotype, circadian regulation, and environmental schedules.
+
+## 5. Boundaries
+### Owns
+Owns the sleep-specific phenomenon of mismatch between internal timing and sleep–wake demands. Defers general circadian rhythms to Chapter 1.3 and clinical sleep–wake disorders to Chapter 1.19.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Misalignment is a timing mismatch, not merely an unusual schedule.
 - Light and schedule changes can shift or conflict with circadian timing.
-- Effects depend on magnitude, duration, and adaptation.\n\n## 1.5.28 Dreams\n\n## 1. Purpose\nDefine dreams as experiences occurring during sleep and distinguish their phenomenology from one specific sleep stage.\n\n## 2. Definition\nDreams are subjective experiences, often involving imagery, thought, emotion, and narrative-like elements, that occur during sleep. **What it is not:** dreaming is not restricted to REM sleep and is not a single uniform psychological process.\n\n## 3. Core Understanding\nDream reports can occur from both REM and NREM sleep, although report characteristics and recall probability can differ. Dream content varies widely and may incorporate recent experiences, memories, emotions, bodily signals, and internally generated activity. Theories differ on whether dreams primarily reflect memory processing, predictive or generative brain activity, emotion-related processing, or other functions; no single theory is established as a complete explanation. Dream recall is also influenced by awakening and memory processes.\n\n## 4. Relationship to This Chapter\nIt is the chapter's principal Topic for sleep-related conscious experience.\n\n## 5. Boundaries\n### Owns\nOwns the general psychological phenomenon of dreaming during sleep. Defers REM/NREM states to their Topics and memory mechanisms to Chapter 1.8.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Dreams are subjective sleep experiences that can occur in more than one sleep state.
+- Effects depend on magnitude, duration, and adaptation.
+
+## 1.5.28 Dreams
+
+## 1. Purpose
+Define dreams as experiences occurring during sleep and distinguish their phenomenology from one specific sleep stage.
+
+## 2. Definition
+Dreams are subjective experiences, often involving imagery, thought, emotion, and narrative-like elements, that occur during sleep. **What it is not:** dreaming is not restricted to REM sleep and is not a single uniform psychological process.
+
+## 3. Core Understanding
+Dream reports can occur from both REM and NREM sleep, although report characteristics and recall probability can differ. Dream content varies widely and may incorporate recent experiences, memories, emotions, bodily signals, and internally generated activity. Theories differ on whether dreams primarily reflect memory processing, predictive or generative brain activity, emotion-related processing, or other functions; no single theory is established as a complete explanation. Dream recall is also influenced by awakening and memory processes.
+
+## 4. Relationship to This Chapter
+It is the chapter's principal Topic for sleep-related conscious experience.
+
+## 5. Boundaries
+### Owns
+Owns the general psychological phenomenon of dreaming during sleep. Defers REM/NREM states to their Topics and memory mechanisms to Chapter 1.8.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Dreams are subjective sleep experiences that can occur in more than one sleep state.
 - Dream content can draw on memory, emotion, and ongoing brain activity.
-- No single theory fully explains all dream phenomena.\n\n## 1.5.29 Lucid dreaming\n\n## 1. Purpose\nDefine lucid dreaming as dreaming accompanied by awareness that one is dreaming.\n\n## 2. Definition\nLucid dreaming is a dream state in which the dreamer has some awareness that the current experience is a dream, sometimes accompanied by deliberate influence over dream content or actions. **What it is not:** lucidity does not guarantee complete control over the dream.\n\n## 3. Core Understanding\nLucid dreams can contain ordinary dream imagery alongside reflective awareness. Reports and laboratory studies suggest that lucid dreaming is most often associated with REM sleep, although the exact neural and cognitive conditions supporting lucidity remain under investigation. Techniques intended to increase lucid-dream frequency vary in effectiveness, and individual differences are substantial. Awareness and control should be treated as separate dimensions.\n\n## 4. Relationship to This Chapter\nIt is a specialized form of dream consciousness and an example of altered conscious experience during sleep.\n\n## 5. Boundaries\n### Owns\nOwns the psychological phenomenon of awareness within dreaming. Defers general dreams to Dreams and broader consciousness to the consciousness Topics.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Lucid dreaming involves awareness of dreaming during the dream.
+- No single theory fully explains all dream phenomena.
+
+## 1.5.29 Lucid dreaming
+
+## 1. Purpose
+Define lucid dreaming as dreaming accompanied by awareness that one is dreaming.
+
+## 2. Definition
+Lucid dreaming is a dream state in which the dreamer has some awareness that the current experience is a dream, sometimes accompanied by deliberate influence over dream content or actions. **What it is not:** lucidity does not guarantee complete control over the dream.
+
+## 3. Core Understanding
+Lucid dreams can contain ordinary dream imagery alongside reflective awareness. Reports and laboratory studies suggest that lucid dreaming is most often associated with REM sleep, although the exact neural and cognitive conditions supporting lucidity remain under investigation. Techniques intended to increase lucid-dream frequency vary in effectiveness, and individual differences are substantial. Awareness and control should be treated as separate dimensions.
+
+## 4. Relationship to This Chapter
+It is a specialized form of dream consciousness and an example of altered conscious experience during sleep.
+
+## 5. Boundaries
+### Owns
+Owns the psychological phenomenon of awareness within dreaming. Defers general dreams to Dreams and broader consciousness to the consciousness Topics.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Lucid dreaming involves awareness of dreaming during the dream.
 - Awareness and dream control are not identical.
-- Frequency and mechanisms vary across individuals and methods.\n\n## 1.5.30 Sleep paralysis\n\n## 1. Purpose\nDefine sleep paralysis as temporary inability to move during transitions into or out of sleep, often with preserved awareness.\n\n## 2. Definition\nSleep paralysis is a temporary state in which voluntary movement is inhibited during sleep–wake transitions while awareness may be partly or fully preserved. **What it is not:** it is not evidence by itself of a supernatural event or a permanent loss of motor function.\n\n## 3. Core Understanding\nSleep paralysis is associated with the muscle atonia characteristic of REM sleep persisting into a state of waking awareness or occurring during sleep onset. Episodes can include vivid perceptual experiences, pressure sensations, or a sense of presence. Episodes are usually brief and self-limited, although they can be frightening. Irregular sleep schedules, sleep deprivation, and other factors are associated with increased occurrence in some people.\n\n## 4. Relationship to This Chapter\nIt illustrates a boundary phenomenon between sleep physiology and conscious awareness.\n\n## 5. Boundaries\n### Owns\nOwns the sleep-related psychological phenomenon of transient paralysis during sleep–wake transitions. Defers hallucination as a general perceptual phenomenon to Chapter 1.4 and clinical sleep disorders to Chapter 1.19.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Sleep paralysis involves temporary motor inhibition with preserved or emerging awareness.
+- Frequency and mechanisms vary across individuals and methods.
+
+## 1.5.30 Sleep paralysis
+
+## 1. Purpose
+Define sleep paralysis as temporary inability to move during transitions into or out of sleep, often with preserved awareness.
+
+## 2. Definition
+Sleep paralysis is a temporary state in which voluntary movement is inhibited during sleep–wake transitions while awareness may be partly or fully preserved. **What it is not:** it is not evidence by itself of a supernatural event or a permanent loss of motor function.
+
+## 3. Core Understanding
+Sleep paralysis is associated with the muscle atonia characteristic of REM sleep persisting into a state of waking awareness or occurring during sleep onset. Episodes can include vivid perceptual experiences, pressure sensations, or a sense of presence. Episodes are usually brief and self-limited, although they can be frightening. Irregular sleep schedules, sleep deprivation, and other factors are associated with increased occurrence in some people.
+
+## 4. Relationship to This Chapter
+It illustrates a boundary phenomenon between sleep physiology and conscious awareness.
+
+## 5. Boundaries
+### Owns
+Owns the sleep-related psychological phenomenon of transient paralysis during sleep–wake transitions. Defers hallucination as a general perceptual phenomenon to Chapter 1.4 and clinical sleep disorders to Chapter 1.19.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Sleep paralysis involves temporary motor inhibition with preserved or emerging awareness.
 - It can include vivid perceptual experiences.
-- It is distinct from permanent paralysis.\n\n## 1.5.31 Hypnosis\n\n## 1. Purpose\nDefine hypnosis as a social and cognitive procedure involving focused attention and heightened responsiveness to suggestions, without assuming a single mechanism.\n\n## 2. Definition\nHypnosis is a procedure or state involving focused attention, reduced peripheral attention, and increased responsiveness to suggestions within a social and cognitive context. **What it is not:** hypnosis is not simply unconsciousness, sleep, or proof that a person has lost all control.\n\n## 3. Core Understanding\nPeople vary in hypnotic responsiveness, and suggestions can affect experience, attention, memory, perception, and behavior under appropriate conditions. Theories differ about whether hypnosis is best explained through altered states, social-cognitive processes, executive control, expectancy, or combinations of these. Hypnotic effects are therefore real phenomena to study without requiring one settled account of their mechanism. People generally retain meaningful agency, although suggestions can influence experience and behavior.\n\n## 4. Relationship to This Chapter\nIt is included as an altered state/process that changes conscious experience and responsiveness.\n\n## 5. Boundaries\n### Owns\nOwns the psychological phenomenon and procedure of hypnosis. Defers general suggestion, social influence, and memory mechanisms to their canonical Topics.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Hypnosis involves focused attention and responsiveness to suggestion.
+- It is distinct from permanent paralysis.
+
+## 1.5.31 Hypnosis
+
+## 1. Purpose
+Define hypnosis as a social and cognitive procedure involving focused attention and heightened responsiveness to suggestions, without assuming a single mechanism.
+
+## 2. Definition
+Hypnosis is a procedure or state involving focused attention, reduced peripheral attention, and increased responsiveness to suggestions within a social and cognitive context. **What it is not:** hypnosis is not simply unconsciousness, sleep, or proof that a person has lost all control.
+
+## 3. Core Understanding
+People vary in hypnotic responsiveness, and suggestions can affect experience, attention, memory, perception, and behavior under appropriate conditions. Theories differ about whether hypnosis is best explained through altered states, social-cognitive processes, executive control, expectancy, or combinations of these. Hypnotic effects are therefore real phenomena to study without requiring one settled account of their mechanism. People generally retain meaningful agency, although suggestions can influence experience and behavior.
+
+## 4. Relationship to This Chapter
+It is included as an altered state/process that changes conscious experience and responsiveness.
+
+## 5. Boundaries
+### Owns
+Owns the psychological phenomenon and procedure of hypnosis. Defers general suggestion, social influence, and memory mechanisms to their canonical Topics.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Hypnosis involves focused attention and responsiveness to suggestion.
 - Responsiveness varies across individuals and situations.
-- Competing theories explain hypnosis; no single mechanism should be treated as settled.\n\n## 1.5.32 Meditation\n\n## 1. Purpose\nDefine meditation as a family of practices that train or cultivate attention, awareness, or other mental processes.\n\n## 2. Definition\nMeditation refers to a family of practices that intentionally cultivate attention, awareness, monitoring, or particular mental states through repeated mental training. **What it is not:** meditation is not one uniform technique or one guaranteed psychological outcome.\n\n## 3. Core Understanding\nPractices differ in their instructions, targets, and methods, including sustained attention, open monitoring, compassion, or mantra-based practices. Effects reported in research vary by practice, population, duration, comparison condition, and outcome measure. Some studies find changes in attention, stress-related measures, emotional functioning, or subjective experience, while effect sizes and mechanisms are not uniform. Meditation should therefore be treated as a heterogeneous family of practices rather than a single intervention.\n\n## 4. Relationship to This Chapter\nIt belongs here because meditation can alter patterns of attention, awareness, and conscious experience.\n\n## 5. Boundaries\n### Owns\nOwns meditation as a family of psychological practices. Defers mindfulness as a more specific construct/practice family where applicable and clinical intervention protocols to Chapter 1.19.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Meditation is heterogeneous rather than one standardized technique.
+- Competing theories explain hypnosis; no single mechanism should be treated as settled.
+
+## 1.5.32 Meditation
+
+## 1. Purpose
+Define meditation as a family of practices that train or cultivate attention, awareness, or other mental processes.
+
+## 2. Definition
+Meditation refers to a family of practices that intentionally cultivate attention, awareness, monitoring, or particular mental states through repeated mental training. **What it is not:** meditation is not one uniform technique or one guaranteed psychological outcome.
+
+## 3. Core Understanding
+Practices differ in their instructions, targets, and methods, including sustained attention, open monitoring, compassion, or mantra-based practices. Effects reported in research vary by practice, population, duration, comparison condition, and outcome measure. Some studies find changes in attention, stress-related measures, emotional functioning, or subjective experience, while effect sizes and mechanisms are not uniform. Meditation should therefore be treated as a heterogeneous family of practices rather than a single intervention.
+
+## 4. Relationship to This Chapter
+It belongs here because meditation can alter patterns of attention, awareness, and conscious experience.
+
+## 5. Boundaries
+### Owns
+Owns meditation as a family of psychological practices. Defers mindfulness as a more specific construct/practice family where applicable and clinical intervention protocols to Chapter 1.19.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Meditation is heterogeneous rather than one standardized technique.
 - Different practices target different mental processes.
-- Effects depend on practice, context, and outcome.\n\n## 1.5.33 Mindfulness\n\n## 1. Purpose\nDefine mindfulness as a mode of attending to present experience with awareness and reduced automatic entanglement with evaluative reactions.\n\n## 2. Definition\nMindfulness is a mode of attending to present-moment experience with awareness, often emphasizing nonjudgmental observation and reduced automatic reactivity. **What it is not:** mindfulness is not simply relaxation, positive thinking, or the absence of thoughts.\n\n## 3. Core Understanding\nMindfulness can refer to a trait-like tendency, a state, or practices designed to cultivate it. Attention may be directed toward sensations, thoughts, emotions, or other present experiences while noticing them without immediately reacting to them. Research on mindfulness-based practices reports effects across several psychological and health outcomes, but findings vary by intervention, comparator, measurement quality, and population. Mindfulness should therefore not be treated as a single mechanism or universal treatment effect.\n\n## 4. Relationship to This Chapter\nIt is a specific form of attention and awareness relevant to altered or deliberately cultivated conscious states.\n\n## 5. Boundaries\n### Owns\nOwns mindfulness as a psychological mode/construct and its basic phenomenology. Defers broader attention to Chapter 1.6 and specific clinical protocols to Chapter 1.19.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Mindfulness concerns present-moment awareness and reduced automatic reactivity.
+- Effects depend on practice, context, and outcome.
+
+## 1.5.33 Mindfulness
+
+## 1. Purpose
+Define mindfulness as a mode of attending to present experience with awareness and reduced automatic entanglement with evaluative reactions.
+
+## 2. Definition
+Mindfulness is a mode of attending to present-moment experience with awareness, often emphasizing nonjudgmental observation and reduced automatic reactivity. **What it is not:** mindfulness is not simply relaxation, positive thinking, or the absence of thoughts.
+
+## 3. Core Understanding
+Mindfulness can refer to a trait-like tendency, a state, or practices designed to cultivate it. Attention may be directed toward sensations, thoughts, emotions, or other present experiences while noticing them without immediately reacting to them. Research on mindfulness-based practices reports effects across several psychological and health outcomes, but findings vary by intervention, comparator, measurement quality, and population. Mindfulness should therefore not be treated as a single mechanism or universal treatment effect.
+
+## 4. Relationship to This Chapter
+It is a specific form of attention and awareness relevant to altered or deliberately cultivated conscious states.
+
+## 5. Boundaries
+### Owns
+Owns mindfulness as a psychological mode/construct and its basic phenomenology. Defers broader attention to Chapter 1.6 and specific clinical protocols to Chapter 1.19.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Mindfulness concerns present-moment awareness and reduced automatic reactivity.
 - It can be a state, trait-like tendency, or cultivated practice.
-- Research findings vary by method and outcome.\n\n## 1.5.34 Altered states of consciousness\n\n## 1. Purpose\nDefine altered states broadly as systematic changes in conscious experience or organization relative to ordinary waking consciousness.\n\n## 2. Definition\nAn altered state of consciousness is a sustained or transient condition in which the character, level, organization, or contents of conscious experience differ substantially from ordinary waking experience. **What it is not:** altered does not automatically mean pathological, impaired, or caused by a drug.\n\n## 3. Core Understanding\nAltered states can arise during sleep, meditation, hypnosis, intense absorption, psychoactive substance use, sensory changes, and other conditions. Dimensions can include attention, perception, self-experience, time perception, emotional intensity, memory, and responsiveness. Different altered states may share some features while differing in causes and mechanisms. Classification therefore depends on the dimensions being measured rather than on a single universal definition.\n\n## 4. Relationship to This Chapter\nIt is the umbrella construct connecting the chapter's sleep, contemplative, hypnotic, dissociative, and substance-related phenomena.\n\n## 5. Boundaries\n### Owns\nOwns the general classification concept of altered consciousness. Defers specific states and causes to their specialized Topics.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Altered consciousness is a broad descriptive category.
+- Research findings vary by method and outcome.
+
+## 1.5.34 Altered states of consciousness
+
+## 1. Purpose
+Define altered states broadly as systematic changes in conscious experience or organization relative to ordinary waking consciousness.
+
+## 2. Definition
+An altered state of consciousness is a sustained or transient condition in which the character, level, organization, or contents of conscious experience differ substantially from ordinary waking experience. **What it is not:** altered does not automatically mean pathological, impaired, or caused by a drug.
+
+## 3. Core Understanding
+Altered states can arise during sleep, meditation, hypnosis, intense absorption, psychoactive substance use, sensory changes, and other conditions. Dimensions can include attention, perception, self-experience, time perception, emotional intensity, memory, and responsiveness. Different altered states may share some features while differing in causes and mechanisms. Classification therefore depends on the dimensions being measured rather than on a single universal definition.
+
+## 4. Relationship to This Chapter
+It is the umbrella construct connecting the chapter's sleep, contemplative, hypnotic, dissociative, and substance-related phenomena.
+
+## 5. Boundaries
+### Owns
+Owns the general classification concept of altered consciousness. Defers specific states and causes to their specialized Topics.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Altered consciousness is a broad descriptive category.
 - States can differ across multiple dimensions of experience and control.
-- Altered does not mean pathological by definition.\n\n## 1.5.35 Dissociation\n\n## 1. Purpose\nDefine dissociation as a disruption or separation in normally integrated aspects of psychological functioning or experience.\n\n## 2. Definition\nDissociation is a disruption, separation, or altered integration among normally connected aspects of consciousness, memory, identity, perception, or experience. **What it is not:** dissociation is not synonymous with every unusual mental state and does not automatically indicate a disorder.\n\n## 3. Core Understanding\nDissociative experiences vary in intensity and form, including detachment, altered sense of self or surroundings, gaps in access to information, or compartmentalization of experience. They can occur in ordinary and stressful contexts as well as in clinical conditions. The causes and mechanisms are heterogeneous, and different theories emphasize attention, memory, defensive processes, trauma-related mechanisms, or other factors. Clinical significance depends on severity, distress, impairment, and context rather than on the mere presence of a dissociative experience.\n\n## 4. Relationship to This Chapter\nIt provides the general altered-state construct needed before discussing dissociative states and clinical disorders.\n\n## 5. Boundaries\n### Owns\nOwns dissociation as a general psychological phenomenon. Defers specific dissociative states to the next Topic and dissociative disorders to Chapter 1.19.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Dissociation concerns altered integration among psychological functions or experiences.
+- Altered does not mean pathological by definition.
+
+## 1.5.35 Dissociation
+
+## 1. Purpose
+Define dissociation as a disruption or separation in normally integrated aspects of psychological functioning or experience.
+
+## 2. Definition
+Dissociation is a disruption, separation, or altered integration among normally connected aspects of consciousness, memory, identity, perception, or experience. **What it is not:** dissociation is not synonymous with every unusual mental state and does not automatically indicate a disorder.
+
+## 3. Core Understanding
+Dissociative experiences vary in intensity and form, including detachment, altered sense of self or surroundings, gaps in access to information, or compartmentalization of experience. They can occur in ordinary and stressful contexts as well as in clinical conditions. The causes and mechanisms are heterogeneous, and different theories emphasize attention, memory, defensive processes, trauma-related mechanisms, or other factors. Clinical significance depends on severity, distress, impairment, and context rather than on the mere presence of a dissociative experience.
+
+## 4. Relationship to This Chapter
+It provides the general altered-state construct needed before discussing dissociative states and clinical disorders.
+
+## 5. Boundaries
+### Owns
+Owns dissociation as a general psychological phenomenon. Defers specific dissociative states to the next Topic and dissociative disorders to Chapter 1.19.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Dissociation concerns altered integration among psychological functions or experiences.
 - It exists across a range from nonclinical experiences to clinical conditions.
-- Context, distress, and impairment matter for interpretation.\n\n## 1.5.36 Dissociative states\n\n## 1. Purpose\nDescribe temporary configurations of experience characterized by dissociative features without equating them with dissociative disorders.\n\n## 2. Definition\nDissociative states are episodes or conditions in which dissociative features become prominent, such as altered self-experience, detachment, unusual access to memory, or changes in perceived reality. **What it is not:** a dissociative state is not automatically a psychiatric disorder.\n\n## 3. Core Understanding\nStates can vary in duration, intensity, triggers, and functional consequences. They may occur in contexts such as acute stress, trauma-related reactions, absorption, or other altered conditions, but no single cause applies to all episodes. The boundary between ordinary, transient, and clinically significant dissociation depends on context, distress, impairment, persistence, and associated symptoms.\n\n## 4. Relationship to This Chapter\nIt gives the broader dissociation construct a state-level representation within the altered-states section.\n\n## 5. Boundaries\n### Owns\nOwns the general state-level manifestation of dissociation. Defers the broader dissociation construct to Dissociation and clinical disorders to Chapter 1.19.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Dissociative states are episodic or state-like manifestations of dissociation.
+- Context, distress, and impairment matter for interpretation.
+
+## 1.5.36 Dissociative states
+
+## 1. Purpose
+Describe temporary configurations of experience characterized by dissociative features without equating them with dissociative disorders.
+
+## 2. Definition
+Dissociative states are episodes or conditions in which dissociative features become prominent, such as altered self-experience, detachment, unusual access to memory, or changes in perceived reality. **What it is not:** a dissociative state is not automatically a psychiatric disorder.
+
+## 3. Core Understanding
+States can vary in duration, intensity, triggers, and functional consequences. They may occur in contexts such as acute stress, trauma-related reactions, absorption, or other altered conditions, but no single cause applies to all episodes. The boundary between ordinary, transient, and clinically significant dissociation depends on context, distress, impairment, persistence, and associated symptoms.
+
+## 4. Relationship to This Chapter
+It gives the broader dissociation construct a state-level representation within the altered-states section.
+
+## 5. Boundaries
+### Owns
+Owns the general state-level manifestation of dissociation. Defers the broader dissociation construct to Dissociation and clinical disorders to Chapter 1.19.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Dissociative states are episodic or state-like manifestations of dissociation.
 - They vary widely in intensity and context.
-- Clinical significance depends on more than the presence of dissociative features.\n\n## 1.5.37 Psychoactive substances\n\n## 1. Purpose\nDefine psychoactive substances as substances that alter psychological or nervous-system functioning and distinguish this broad category from harmful use.\n\n## 2. Definition\nPsychoactive substances are chemical substances that alter brain function and thereby can change perception, mood, cognition, arousal, behavior, or consciousness. **What it is not:** psychoactive does not mean inherently harmful, addictive, or illegal.\n\n## 3. Core Understanding\nSubstances differ in their primary effects, dose-response relationships, routes of administration, duration, interactions, and risks. The same substance can produce different effects depending on dose, person, tolerance, context, and co-use with other substances. Pharmacological effects can include changes in arousal, perception, pain, mood, memory, and motor function. Classification by broad effect is useful but cannot capture every mechanism or individual response.\n\n## 4. Relationship to This Chapter\nIt is the umbrella Topic for substance-related altered states before the chapter differentiates major substance classes.\n\n## 5. Boundaries\n### Owns\nOwns the general psychological category of psychoactive substances as agents that alter mental and conscious functioning. Defers specific substance classes, dependence, tolerance, withdrawal, and clinical substance-use disorders to their canonical Topics.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Psychoactive substances alter nervous-system and psychological functioning.
+- Clinical significance depends on more than the presence of dissociative features.
+
+## 1.5.37 Psychoactive substances
+
+## 1. Purpose
+Define psychoactive substances as substances that alter psychological or nervous-system functioning and distinguish this broad category from harmful use.
+
+## 2. Definition
+Psychoactive substances are chemical substances that alter brain function and thereby can change perception, mood, cognition, arousal, behavior, or consciousness. **What it is not:** psychoactive does not mean inherently harmful, addictive, or illegal.
+
+## 3. Core Understanding
+Substances differ in their primary effects, dose-response relationships, routes of administration, duration, interactions, and risks. The same substance can produce different effects depending on dose, person, tolerance, context, and co-use with other substances. Pharmacological effects can include changes in arousal, perception, pain, mood, memory, and motor function. Classification by broad effect is useful but cannot capture every mechanism or individual response.
+
+## 4. Relationship to This Chapter
+It is the umbrella Topic for substance-related altered states before the chapter differentiates major substance classes.
+
+## 5. Boundaries
+### Owns
+Owns the general psychological category of psychoactive substances as agents that alter mental and conscious functioning. Defers specific substance classes, dependence, tolerance, withdrawal, and clinical substance-use disorders to their canonical Topics.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Psychoactive substances alter nervous-system and psychological functioning.
 - Effects depend on substance, dose, person, context, and interactions.
-- Psychoactive does not by itself imply harmful or addictive.\n\n## 1.5.38 Stimulants\n\n## 1. Purpose\nDefine stimulants as psychoactive substances that generally increase central nervous-system activation or alertness.\n\n## 2. Definition\nStimulants are psychoactive substances that generally increase central nervous-system activation, alertness, or arousal. **What it is not:** stimulant does not mean that every substance produces the same subjective or physiological effects.\n\n## 3. Core Understanding\nStimulant effects can include increased alertness, energy, heart rate, and reduced subjective fatigue, but effects vary by substance and dose. Examples include caffeine and several prescription or illicit drugs, which differ substantially in mechanism, potency, duration, and risk. High doses or repeated use can produce adverse effects, and tolerance or dependence can develop with some substances. Classification should therefore remain pharmacological rather than moral or legal.\n\n## 4. Relationship to This Chapter\nIt is one major substance class relevant to altered arousal and consciousness.\n\n## 5. Boundaries\n### Owns\nOwns the broad psychological description of stimulant-class psychoactive effects. Defers specific pharmacology and clinical substance-use disorders to their canonical biological and clinical Topics.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Stimulants generally increase central activation or alertness.
+- Psychoactive does not by itself imply harmful or addictive.
+
+## 1.5.38 Stimulants
+
+## 1. Purpose
+Define stimulants as psychoactive substances that generally increase central nervous-system activation or alertness.
+
+## 2. Definition
+Stimulants are psychoactive substances that generally increase central nervous-system activation, alertness, or arousal. **What it is not:** stimulant does not mean that every substance produces the same subjective or physiological effects.
+
+## 3. Core Understanding
+Stimulant effects can include increased alertness, energy, heart rate, and reduced subjective fatigue, but effects vary by substance and dose. Examples include caffeine and several prescription or illicit drugs, which differ substantially in mechanism, potency, duration, and risk. High doses or repeated use can produce adverse effects, and tolerance or dependence can develop with some substances. Classification should therefore remain pharmacological rather than moral or legal.
+
+## 4. Relationship to This Chapter
+It is one major substance class relevant to altered arousal and consciousness.
+
+## 5. Boundaries
+### Owns
+Owns the broad psychological description of stimulant-class psychoactive effects. Defers specific pharmacology and clinical substance-use disorders to their canonical biological and clinical Topics.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Stimulants generally increase central activation or alertness.
 - Effects vary substantially by substance and dose.
-- Repeated exposure can produce tolerance or dependence for some substances.\n\n## 1.5.39 Depressants\n\n## 1. Purpose\nDefine depressants as psychoactive substances that generally reduce central nervous-system activity and explain why the label does not simply mean “causes depression.”\n\n## 2. Definition\nDepressants are psychoactive substances that generally reduce central nervous-system activity, producing effects such as sedation, reduced anxiety, impaired coordination, or slowed responsiveness depending on the substance and dose. **What it is not:** depressant refers to nervous-system depressant effects, not necessarily emotional depression.\n\n## 3. Core Understanding\nDifferent depressants have different mechanisms and risk profiles. At higher doses, some can impair consciousness, breathing, coordination, or judgment. Interactions between depressant substances can amplify risk. Effects also depend on tolerance, dose, individual physiology, and context. The category includes substances that differ substantially in therapeutic use and misuse potential.\n\n## 4. Relationship to This Chapter\nIt represents a major altered-arousal class within the chapter's psychoactive-substance ontology.\n\n## 5. Boundaries\n### Owns\nOwns the broad psychological description of depressant-class effects. Defers specific pharmacology, overdose mechanisms, and clinical substance-use disorders to their canonical Topics.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Depressants reduce central nervous-system activity in characteristic ways.
+- Repeated exposure can produce tolerance or dependence for some substances.
+
+## 1.5.39 Depressants
+
+## 1. Purpose
+Define depressants as psychoactive substances that generally reduce central nervous-system activity and explain why the label does not simply mean “causes depression.”
+
+## 2. Definition
+Depressants are psychoactive substances that generally reduce central nervous-system activity, producing effects such as sedation, reduced anxiety, impaired coordination, or slowed responsiveness depending on the substance and dose. **What it is not:** depressant refers to nervous-system depressant effects, not necessarily emotional depression.
+
+## 3. Core Understanding
+Different depressants have different mechanisms and risk profiles. At higher doses, some can impair consciousness, breathing, coordination, or judgment. Interactions between depressant substances can amplify risk. Effects also depend on tolerance, dose, individual physiology, and context. The category includes substances that differ substantially in therapeutic use and misuse potential.
+
+## 4. Relationship to This Chapter
+It represents a major altered-arousal class within the chapter's psychoactive-substance ontology.
+
+## 5. Boundaries
+### Owns
+Owns the broad psychological description of depressant-class effects. Defers specific pharmacology, overdose mechanisms, and clinical substance-use disorders to their canonical Topics.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Depressants reduce central nervous-system activity in characteristic ways.
 - The category is not synonymous with emotional depression.
-- Dose and substance combinations can substantially alter risk.\n\n## 1.5.40 Hallucinogens\n\n## 1. Purpose\nDefine hallucinogens as psychoactive substances capable of substantially altering perception, cognition, and conscious experience.\n\n## 2. Definition\nHallucinogens are psychoactive substances that can produce marked changes in perception, cognition, emotion, and the sense of self or reality. **What it is not:** hallucinogen effects are not necessarily identical to clinical hallucinations, and not every perceptual alteration is a hallucination.\n\n## 3. Core Understanding\nEffects vary by substance, dose, context, expectations, and individual factors. Some substances produce vivid changes in sensory experience and time perception without simply creating perceptions in the absence of external stimulation. Acute experiences can be psychologically intense, and adverse reactions can occur. Research also distinguishes acute subjective effects from longer-term outcomes, which depend on substance, exposure pattern, and population.\n\n## 4. Relationship to This Chapter\nIt is included because hallucinogenic substances can substantially alter conscious contents and perceptual organization.\n\n## 5. Boundaries\n### Owns\nOwns the broad psychological category of hallucinogenic substance effects. Defers hallucination as a perceptual phenomenon to Chapter 1.4 and clinical substance-use conditions to Chapter 1.19.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Hallucinogens can markedly alter perception and conscious experience.
+- Dose and substance combinations can substantially alter risk.
+
+## 1.5.40 Hallucinogens
+
+## 1. Purpose
+Define hallucinogens as psychoactive substances capable of substantially altering perception, cognition, and conscious experience.
+
+## 2. Definition
+Hallucinogens are psychoactive substances that can produce marked changes in perception, cognition, emotion, and the sense of self or reality. **What it is not:** hallucinogen effects are not necessarily identical to clinical hallucinations, and not every perceptual alteration is a hallucination.
+
+## 3. Core Understanding
+Effects vary by substance, dose, context, expectations, and individual factors. Some substances produce vivid changes in sensory experience and time perception without simply creating perceptions in the absence of external stimulation. Acute experiences can be psychologically intense, and adverse reactions can occur. Research also distinguishes acute subjective effects from longer-term outcomes, which depend on substance, exposure pattern, and population.
+
+## 4. Relationship to This Chapter
+It is included because hallucinogenic substances can substantially alter conscious contents and perceptual organization.
+
+## 5. Boundaries
+### Owns
+Owns the broad psychological category of hallucinogenic substance effects. Defers hallucination as a perceptual phenomenon to Chapter 1.4 and clinical substance-use conditions to Chapter 1.19.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Hallucinogens can markedly alter perception and conscious experience.
 - Effects vary with substance, dose, context, and individual factors.
-- Hallucinogenic effects should not be equated automatically with clinical hallucination.\n\n## 1.5.41 Opioids\n\n## 1. Purpose\nDefine opioids as a class of substances that act on opioid receptors and can alter pain, reward, sedation, and consciousness.\n\n## 2. Definition\nOpioids are substances that act on opioid receptors and can produce analgesia, sedation, euphoria, and changes in consciousness, with effects depending on dose and substance. **What it is not:** opioid use and opioid-related effects are not synonymous with opioid use disorder.\n\n## 3. Core Understanding\nOpioids include medications used for pain as well as substances associated with substantial misuse and overdose risk. Repeated exposure can produce tolerance and physical dependence. High doses can suppress breathing, especially when combined with other central nervous-system depressants. Their psychological effects include changes in pain experience, reward, mood, and arousal, while their pharmacology is primarily a biological domain.\n\n## 4. Relationship to This Chapter\nIt is a major psychoactive class with distinctive effects on pain, arousal, reward, and consciousness.\n\n## 5. Boundaries\n### Owns\nOwns the broad psychological classification of opioids and their major consciousness-related effects. Defers receptor pharmacology and clinical opioid-use disorder to Chapters 1.3 and 1.19.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Opioids act on opioid receptors and can alter pain, arousal, and reward.
+- Hallucinogenic effects should not be equated automatically with clinical hallucination.
+
+## 1.5.41 Opioids
+
+## 1. Purpose
+Define opioids as a class of substances that act on opioid receptors and can alter pain, reward, sedation, and consciousness.
+
+## 2. Definition
+Opioids are substances that act on opioid receptors and can produce analgesia, sedation, euphoria, and changes in consciousness, with effects depending on dose and substance. **What it is not:** opioid use and opioid-related effects are not synonymous with opioid use disorder.
+
+## 3. Core Understanding
+Opioids include medications used for pain as well as substances associated with substantial misuse and overdose risk. Repeated exposure can produce tolerance and physical dependence. High doses can suppress breathing, especially when combined with other central nervous-system depressants. Their psychological effects include changes in pain experience, reward, mood, and arousal, while their pharmacology is primarily a biological domain.
+
+## 4. Relationship to This Chapter
+It is a major psychoactive class with distinctive effects on pain, arousal, reward, and consciousness.
+
+## 5. Boundaries
+### Owns
+Owns the broad psychological classification of opioids and their major consciousness-related effects. Defers receptor pharmacology and clinical opioid-use disorder to Chapters 1.3 and 1.19.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Opioids act on opioid receptors and can alter pain, arousal, and reward.
 - Repeated exposure can produce tolerance and dependence.
-- High-dose opioid exposure can cause life-threatening respiratory depression.\n\n## 1.5.42 Drug tolerance\n\n## 1. Purpose\nDefine tolerance as reduced response to a drug after repeated exposure, requiring careful distinction from dependence.\n\n## 2. Definition\nDrug tolerance is a reduction in response to a drug after repeated exposure such that a greater amount may be required to produce a similar effect. **What it is not:** tolerance is not the same as dependence or addiction.\n\n## 3. Core Understanding\nTolerance can develop through pharmacological adaptations and, for some effects, through learned or context-dependent processes. It is not uniform across all effects of a substance: tolerance to one effect may develop more strongly than to another. Tolerance can also change after periods without exposure, which can increase overdose risk if a previously tolerated dose is resumed. The mechanisms differ across substances and patterns of use.\n\n## 4. Relationship to This Chapter\nIt is one of the major processes needed to understand repeated psychoactive-substance exposure.\n\n## 5. Boundaries\n### Owns\nOwns the general psychological concept of reduced drug responsiveness after repeated exposure. Defers substance-specific pharmacology and substance-use disorders to their canonical Topics.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Tolerance is reduced response after repeated exposure.
+- High-dose opioid exposure can cause life-threatening respiratory depression.
+
+## 1.5.42 Drug tolerance
+
+## 1. Purpose
+Define tolerance as reduced response to a drug after repeated exposure, requiring careful distinction from dependence.
+
+## 2. Definition
+Drug tolerance is a reduction in response to a drug after repeated exposure such that a greater amount may be required to produce a similar effect. **What it is not:** tolerance is not the same as dependence or addiction.
+
+## 3. Core Understanding
+Tolerance can develop through pharmacological adaptations and, for some effects, through learned or context-dependent processes. It is not uniform across all effects of a substance: tolerance to one effect may develop more strongly than to another. Tolerance can also change after periods without exposure, which can increase overdose risk if a previously tolerated dose is resumed. The mechanisms differ across substances and patterns of use.
+
+## 4. Relationship to This Chapter
+It is one of the major processes needed to understand repeated psychoactive-substance exposure.
+
+## 5. Boundaries
+### Owns
+Owns the general psychological concept of reduced drug responsiveness after repeated exposure. Defers substance-specific pharmacology and substance-use disorders to their canonical Topics.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Tolerance is reduced response after repeated exposure.
 - It can be effect-specific and mechanism-specific.
-- Loss of tolerance after abstinence can alter overdose risk.\n\n## 1.5.43 Dependence\n\n## 1. Purpose\nDefine dependence as adaptation in which stopping or substantially reducing a substance can produce withdrawal, and distinguish it from addiction.\n\n## 2. Definition\nDependence is a physiological or psychological adaptation to repeated substance exposure in which reducing or stopping the substance can produce withdrawal symptoms or other rebound effects. **What it is not:** dependence is not synonymous with addiction or substance-use disorder.\n\n## 3. Core Understanding\nDependence can develop with some prescribed medications as well as substances used nonmedically. Physical dependence concerns bodily adaptation and withdrawal; psychological dependence can involve perceived need or difficulty functioning without a substance, though terminology varies by context. Dependence can occur without compulsive harmful use, so it should not be used as a moral label or automatic diagnosis.\n\n## 4. Relationship to This Chapter\nIt is a central altered-state consequence of repeated psychoactive-substance exposure and connects directly to withdrawal.\n\n## 5. Boundaries\n### Owns\nOwns the general psychological concept of dependence. Defers withdrawal phenomenology to Withdrawal and clinical substance-use disorders to Chapter 1.19.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Dependence reflects adaptation to repeated substance exposure.
+- Loss of tolerance after abstinence can alter overdose risk.
+
+## 1.5.43 Dependence
+
+## 1. Purpose
+Define dependence as adaptation in which stopping or substantially reducing a substance can produce withdrawal, and distinguish it from addiction.
+
+## 2. Definition
+Dependence is a physiological or psychological adaptation to repeated substance exposure in which reducing or stopping the substance can produce withdrawal symptoms or other rebound effects. **What it is not:** dependence is not synonymous with addiction or substance-use disorder.
+
+## 3. Core Understanding
+Dependence can develop with some prescribed medications as well as substances used nonmedically. Physical dependence concerns bodily adaptation and withdrawal; psychological dependence can involve perceived need or difficulty functioning without a substance, though terminology varies by context. Dependence can occur without compulsive harmful use, so it should not be used as a moral label or automatic diagnosis.
+
+## 4. Relationship to This Chapter
+It is a central altered-state consequence of repeated psychoactive-substance exposure and connects directly to withdrawal.
+
+## 5. Boundaries
+### Owns
+Owns the general psychological concept of dependence. Defers withdrawal phenomenology to Withdrawal and clinical substance-use disorders to Chapter 1.19.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Dependence reflects adaptation to repeated substance exposure.
 - Withdrawal can occur when exposure is reduced or stopped.
-- Dependence is not equivalent to addiction or a clinical disorder.\n\n## 1.5.44 Withdrawal\n\n## 1. Purpose\nDefine withdrawal as a characteristic set of symptoms or effects following reduction or cessation of a substance after adaptation.\n\n## 2. Definition\nWithdrawal is a set of physical, psychological, or behavioral symptoms that can occur when a substance is reduced or stopped after physiological adaptation has developed. **What it is not:** withdrawal is not evidence by itself of addiction or a substance-use disorder.\n\n## 3. Core Understanding\nSymptoms vary by substance, duration and intensity of exposure, individual factors, and rate of reduction. They can include changes in mood, sleep, autonomic function, pain, gastrointestinal function, arousal, or other systems. Some forms of withdrawal can be medically dangerous, making abrupt cessation inappropriate for certain substances. Withdrawal is best understood as a pharmacological and psychological adaptation phenomenon rather than a moral consequence of drug use.\n\n## 4. Relationship to This Chapter\nIt completes the dependence–tolerance–withdrawal cluster within altered states and psychoactive substances.\n\n## 5. Boundaries\n### Owns\nOwns the general psychological phenomenon of withdrawal after reduction or cessation of psychoactive-substance exposure. Defers substance-specific medical management and substance-use disorders to Chapter 1.19.\n\n### Defers\nneighboring constructs that have their own canonical Topics; this Topic does not re-own them.\n\n## 6. Key Principles\n- Withdrawal reflects adaptation revealed when exposure is reduced or stopped.
+- Dependence is not equivalent to addiction or a clinical disorder.
+
+## 1.5.44 Withdrawal
+
+## 1. Purpose
+Define withdrawal as a characteristic set of symptoms or effects following reduction or cessation of a substance after adaptation.
+
+## 2. Definition
+Withdrawal is a set of physical, psychological, or behavioral symptoms that can occur when a substance is reduced or stopped after physiological adaptation has developed. **What it is not:** withdrawal is not evidence by itself of addiction or a substance-use disorder.
+
+## 3. Core Understanding
+Symptoms vary by substance, duration and intensity of exposure, individual factors, and rate of reduction. They can include changes in mood, sleep, autonomic function, pain, gastrointestinal function, arousal, or other systems. Some forms of withdrawal can be medically dangerous, making abrupt cessation inappropriate for certain substances. Withdrawal is best understood as a pharmacological and psychological adaptation phenomenon rather than a moral consequence of drug use.
+
+## 4. Relationship to This Chapter
+It completes the dependence–tolerance–withdrawal cluster within altered states and psychoactive substances.
+
+## 5. Boundaries
+### Owns
+Owns the general psychological phenomenon of withdrawal after reduction or cessation of psychoactive-substance exposure. Defers substance-specific medical management and substance-use disorders to Chapter 1.19.
+
+### Defers
+neighboring constructs that have their own canonical Topics; this Topic does not re-own them.
+
+## 6. Key Principles
+- Withdrawal reflects adaptation revealed when exposure is reduced or stopped.
 - Symptoms vary substantially across substances and people.
-- Withdrawal and addiction are related but distinct concepts.\n
+- Withdrawal and addiction are related but distinct concepts.
