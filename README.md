@@ -85,7 +85,7 @@ It contains all 62 canonical Topics. The two exact ownership collisions identifi
 
 ## System 1 Ownership Remediation
 
-The cross-chapter ownership audit has been updated for the current **315-topic canonical System 1 state (Chapters 1.1–1.4)**. Material ownership collisions were remediated without renumbering or deleting canonical Topics. See:
+The cross-chapter ownership audit has been updated for the current **359-topic canonical System 1 state (Chapters 1.1–1.5)**. Material ownership collisions were remediated without renumbering or deleting canonical Topics. See:
 
 `knowledge/system-01/CROSS_CHAPTER_OWNERSHIP_REMEDIATION.md`
 
@@ -141,3 +141,9 @@ This structure is intentionally minimal and reflects the current canonical repos
 > **Complete understanding. Scientific precision. Conceptual ownership. Machine retrievability. Human readability. No redundancy. No filler. No unnecessary complexity.**
 
 > **Simple on the surface. Deep underneath. Precise throughout.**
+
+## Current System 1 State
+
+- Chapter 1.5 — CONSCIOUSNESS, SLEEP, AND ALTERED STATES — 44 Topics — LOCKED & SEALED
+- Completed System 1 Chapters: 1.1–1.5
+- Completed canonical Topic count: **359**
