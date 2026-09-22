@@ -2461,6 +2461,6 @@ Specific moderators, individual differences, cultural variation, developmental v
 
 ## Final Validation State
 
-57/57 canonical Topics are present. The three duplicate Knowledge Object defects in 1.1.3, 1.1.27, and 1.1.30 have been resolved, and the explanation/systems taxonomy has received a depth remediation pass. The chapter is ready for formal lock/seal review.
+57/57 canonical Topics are present. The three duplicate Knowledge Object defects in 1.1.3, 1.1.27, and 1.1.30 have been resolved, and the explanation/systems taxonomy has received a depth remediation pass. The chapter is locked and sealed as canonical knowledge version 1.1.
 
 ---
