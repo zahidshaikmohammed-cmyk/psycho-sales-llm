@@ -75,11 +75,11 @@ It contains all 78 canonical Topics in the current biological ontology. The form
 
 ## System 1 Ownership Remediation
 
-The cross-chapter ownership audit has been updated for the current 253-topic architecture. Material ownership collisions were remediated without renumbering or deleting canonical Topics. See:
+The cross-chapter ownership audit has been updated for the current **315-topic canonical System 1 state (Chapters 1.1–1.4)**. Material ownership collisions were remediated without renumbering or deleting canonical Topics. See:
 
 `knowledge/system-01/CROSS_CHAPTER_OWNERSHIP_REMEDIATION.md`
 
-The three System 1 chapters are now formally LOCKED & SEALED as canonical knowledge version 1.1 after structural, ownership, depth, scientific-integrity, and cross-chapter remediation.
+The four completed System 1 chapters are formally LOCKED & SEALED as canonical knowledge. Chapters 1.1–1.3 are canonical knowledge version 1.1; Chapter 1.4 is canonical knowledge version 1.1 after final structural and ownership validation.
 
 ---
 
@@ -114,7 +114,7 @@ psycho-sales-llm/
 
             └── CHAPTER_1.1.md
 
-This minimal structure is intentional.
+The repository is intentionally minimal, but the tree above reflects the current canonical state.
 
 **The constitution governs how knowledge is written.**
 
