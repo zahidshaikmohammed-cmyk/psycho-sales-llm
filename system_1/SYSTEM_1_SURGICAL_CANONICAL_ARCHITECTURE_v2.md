@@ -425,7 +425,7 @@ Only the first eight and clinically necessary objects receive independent canoni
 - Consciousness
 - Subjective experience
 - Awareness
-- Self-awareness
+- Consciousness-specific self-awareness
 - Levels of consciousness
 - Conscious access
 - Conscious processing
@@ -445,7 +445,7 @@ Only the first eight and clinically necessary objects receive independent canoni
 - Sleep pressure
 - NREM sleep
 - REM sleep
-- Sleep and memory
+- Sleep-dependent memory effects
 - Sleep and learning
 - Sleep and emotion
 - Sleep deprivation
