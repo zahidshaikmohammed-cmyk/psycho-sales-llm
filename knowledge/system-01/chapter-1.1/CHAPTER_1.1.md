@@ -203,37 +203,6 @@ Mental processes, cognition, emotion, motivation, learning, action as a distinct
 ## 1.1.3 Mental processes
 
 ## 1. Purpose
-Defines the broad category of internal psychological activity.
-
-## 2. Definition
-Mental processes are temporally organized psychological activities through which a person or organism detects, selects, interprets, transforms, maintains, evaluates, generates, or uses information, experience, goals, and other mental contents. The category includes perception, attention, memory, learning, reasoning, emotion-related processing, motivation, and self-regulation without implying one common mechanism.
-
-## 3. Core Understanding
-Mental processes are activities rather than static entities. They may be conscious, partly conscious, or nonconscious; rapid or prolonged; automatic or controlled. They interact with mental states, contents, behavior, and context. A process is often inferred from converging indicators rather than directly observed, so an observed behavior or report should not simply be equated with the process that produced it.
-
-The same process can produce different behavior in different contexts, while the same behavior can arise from different processes.
-
-**Boundary:** this Topic owns the category of internal psychological activity. It does not own the operation-level transformation concept in 1.1.27, the representational structure in 1.1.30, or specialized thinking processes in Chapter 1.3.
-
-**Evidence status:** the process/state/content distinction is foundational; claims about particular mechanisms require evidence appropriate to the specific process.
-
-## 4. Relationship to This Chapter
-Provides the broad process category linking states, contents, functions, mechanisms, processing, representation, interpretation, evaluation, response selection, and self-regulation.
-
-## 5. Boundaries
-### Owns
-The general category of internal psychological activity and its distinction from states and contents.
-
-### Defers
-Specific processing operations to 1.1.27; representation to 1.1.30; specialized thinking processes to Chapter 1.3.
-
-## 6. Key Principles
-- Mental processes are internal activities, not static objects.
-- They may operate with or without conscious awareness.
-- Process, state, and content are distinct.
-- Specific processes require their own definitions and evidence.
-
-## 1. Purpose
 Mental processes need a distinct Knowledge Object because human psychology cannot be reduced to observable behavior. People perceive, remember, attend, interpret, evaluate, imagine, reason, feel, and regulate before, during, and after behavior. A clear concept of mental processes provides the bridge between observable activity and the internal operations studied across the rest of System 1.
 
 ## 2. Definition
@@ -265,7 +234,7 @@ Mental processes are paired with behavior as one of the two broad foundations of
 The general concept of internal psychological processing.
 
 ### Defers
-Specific processes such as attention, memory, emotion, motivation, reasoning, and decision-making to their canonical Topics. Mental states and contents are also distinct owners.
+Operation-level psychological processing to 1.1.27 Psychological processing; internal representation to 1.1.30 Representation; specific processes such as attention, memory, emotion, motivation, reasoning, and decision-making to their canonical Topics; mental states and contents to their distinct owners.
 
 ## 6. Key Principles
 1. Mental processes are internal psychological operations.
