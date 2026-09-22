@@ -1,6 +1,6 @@
 # CHAPTER 1.3 — FINAL VALIDATION
 
-**Status:** VALIDATION PASSED — READY FOR LOCK/SEAL REVIEW
+**Status:** VALIDATION PASSED — CHAPTER SEALED
 
 ## Scope
 78 canonical Topics in **Biological Bases of Human Behavior and Mental Life**.
