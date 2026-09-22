@@ -45,7 +45,7 @@ The constitution governs conceptual precision, adaptive depth, scientific integr
 
 ### Chapter 1.1 — Foundations and Architecture of Human Psychology
 
-**Status: FINAL VALIDATION PASSED — READY FOR LOCK/SEAL REVIEW**
+**Status: LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 1.1**
 
 The canonical Chapter 1.1 writing is contained in:
 
@@ -55,7 +55,7 @@ It contains all 57 canonical Topics. Duplicate-object defects and the identified
 
 ### Chapter 1.2 — Psychological Science, Research, Measurement, and Evidence
 
-**Status: FINAL VALIDATION PASSED — READY FOR LOCK/SEAL REVIEW**
+**Status: LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 1.1**
 
 The canonical Chapter 1.2 writing is contained in:
 
@@ -65,7 +65,7 @@ It contains all 118 canonical Topics. Duplicate-object defects in 1.2.52 and 1.2
 
 ### Chapter 1.3 — Biological Bases of Human Behavior and Mental Life
 
-**Status: FINAL VALIDATION PASSED — READY FOR LOCK/SEAL REVIEW**
+**Status: LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 1.1**
 
 The canonical Chapter 1.3 writing is contained in:
 
@@ -79,7 +79,7 @@ The cross-chapter ownership audit has been updated for the current 253-topic arc
 
 `knowledge/system-01/CROSS_CHAPTER_OWNERSHIP_REMEDIATION.md`
 
-The repository is now in final validation / pre-seal state. Formal LOCKED & SEALED status should be applied only after this validation state is accepted as the new canonical version.
+The three System 1 chapters are now formally LOCKED & SEALED as canonical knowledge version 1.1 after structural, ownership, depth, scientific-integrity, and cross-chapter remediation.
 
 ---
 
