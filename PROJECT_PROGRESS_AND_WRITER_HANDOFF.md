@@ -1103,3 +1103,17 @@ The repository-wide synchronization pass was completed before Chapter 1.5 work.
 - Chapter 1.3 Knowledge Object heading hierarchy normalized without changing Topic IDs, names, or content.
 
 **Result:** Repository synchronization gate passed. No ontology changes were introduced by this synchronization pass.
+
+
+## Chapter 1.5 Ownership Remediation — Completed Before Writing
+
+The live Chapter 1.5 ontology was audited against the full System 1 architecture before any Knowledge Objects were written.
+
+Two exact canonical-name collisions were found and surgically disambiguated:
+
+- **Self-awareness** in Chapter 1.5 → **Consciousness-specific self-awareness**; Chapter 1.14 retains **Self-awareness**.
+- **Sleep and memory** in Chapter 1.5 → **Sleep-dependent memory effects**; Chapter 1.8 retains **Sleep and memory**.
+
+No existing sealed Knowledge Objects were rewritten. No Chapter 1.1–1.4 Topic names were changed. No Topics were added or removed from Chapter 1.5.
+
+The next required step is a fresh full ownership audit of the remediated 44-topic Chapter 1.5 ontology, followed by Knowledge Object writing only after the ownership gate passes.
