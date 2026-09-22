@@ -24,4 +24,4 @@ The chapter preserves the distinction among description, association, causal inf
 The existing 118-topic chapter remains the primary scientific-method foundation for System 1. The remediation focused on ownership precision rather than unnecessary rewriting. Concepts are retained in their canonical homes with explicit boundaries.
 
 ## Final determination
-Chapter 1.2 is structurally complete and semantically remediated. It is ready for formal lock/seal review after repository-wide metadata synchronization.
+Chapter 1.2 is structurally complete and semantically remediated. It is validated and synchronized with the current repository-wide canonical metadata.
