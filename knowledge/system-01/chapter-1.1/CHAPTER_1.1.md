@@ -1317,35 +1317,6 @@ Perceptual organization, appraisal, attribution, belief updating, and social int
 ## 1.1.30 Representation
 
 ## 1. Purpose
-Defines the foundational psychological concept of internal representation.
-
-## 2. Definition
-A psychological representation is an internal format, structure, or content through which information about an object, event, relation, state, possibility, or other psychologically relevant entity is available for processing.
-
-## 3. Core Understanding
-Representations may be perceptual, conceptual, propositional, spatial, verbal, imagistic, procedural, or mixed. They can be incomplete, distorted, context-dependent, and dynamically updated; they need not be literal copies of external reality.
-
-Representation is distinct from processing: the representation is the internally available structure or content, while processing is what the system does with it. It is also distinct from the external object represented.
-
-**Evidence status:** internal representation is central to many psychological theories, while exact representational formats and implementations remain theory- and task-dependent.
-
-## 4. Relationship to This Chapter
-Provides the foundational representational concept supporting selection, interpretation, processing, evaluation, and action.
-
-## 5. Boundaries
-### Owns
-The general psychological concept of internal representation.
-
-### Defers
-Specific domain representations, including problem representation and the thinking-specific treatment in 1.3.8.
-
-## 6. Key Principles
-- Representation makes information psychologically available in some internal form.
-- Representation is distinct from processing.
-- Representations can be partial and revisable.
-- Exact format depends on function and theoretical framework.
-
-## 1. Purpose
 Representation explains how information about objects, events, people, goals, and abstract ideas can be maintained or operated on within psychological systems. It is essential for understanding cognition without assuming that the mind simply stores exact copies of reality.
 
 ## 2. Definition
