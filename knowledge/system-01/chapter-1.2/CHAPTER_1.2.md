@@ -4053,37 +4053,6 @@ Reliability, specific psychometric models, and the substantive constructs themse
 ## 1.2.52 Measurement validity
 
 ## 1. Purpose
-Defines the measurement-specific application of validity evidence.
-
-## 2. Definition
-Measurement validity is the degree to which evidence supports the intended interpretation and use of a measurement procedure or instrument for a specified construct, population, context, and purpose.
-
-## 3. Core Understanding
-Validity evidence may concern content, response processes, internal structure, relations with other variables, and consequences relevant to the proposed interpretation. Measurement validity is purpose- and context-dependent; evidence supporting one use does not automatically support every other use.
-
-Reliability and validity are distinct. A measure can be highly consistent while measuring the wrong construct or supporting an unjustified interpretation.
-
-**Ownership hierarchy:** 1.2.82 Validity owns the overarching psychometric concept. 1.2.51 Construct validity addresses construct interpretation. 1.2.52 owns the narrower measurement-procedure application.
-
-**Evidence status:** validity is an evidence-based judgment, not an intrinsic permanent property of an instrument.
-
-## 4. Relationship to This Chapter
-Connects validity to psychological measurement, reliability, scale construction, factor analysis, latent variables, and measurement invariance.
-
-## 5. Boundaries
-### Owns
-Measurement-specific validity reasoning for an instrument or measurement procedure.
-
-### Defers
-General validity to 1.2.82; construct-specific validity to 1.2.51; reliability to 1.2.77–1.2.81.
-
-## 6. Key Principles
-- Validity concerns supported interpretation and use.
-- Measurement validity is narrower than general validity.
-- Multiple evidence sources may be required.
-- Reliability does not establish validity by itself.
-
-## 1. Purpose
 
 Measurement validity concerns whether a measurement procedure supports the intended interpretation and use of its scores or observations. It protects psychological science from treating numerical outputs as meaningful merely because they are measurable.
 
@@ -4149,11 +4118,11 @@ Measurement validity is the broader measurement concept connecting construct val
 
 ### Owns
 
-The general validity of interpretations and uses of psychological measurements.
+Measurement-specific validity reasoning for an instrument or measurement procedure: whether evidence supports the intended interpretation and use of its measurements for a specified purpose, population, and context.
 
 ### Defers
 
-Construct validity, reliability, psychometric models, specific instruments, and substantive psychological constructs.
+The overarching psychometric concept of validity to 1.2.82; construct-specific validity to 1.2.51; reliability and its forms to their canonical Topics; psychometric models, specific instruments, and substantive psychological constructs to their authoritative Topics.
 
 ## 6. Key Principles
 
