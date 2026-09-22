@@ -1,7 +1,7 @@
 # CHAPTER 1.5 — CONSCIOUSNESS, SLEEP, AND ALTERED STATES
 
 **System:** 1 — HUMAN PSYCHOLOGY  
-**Status:** WRITTEN — PENDING FINAL VALIDATION  
+**Status:** LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 1.1  
 **Ontology:** Locked 44-topic Chapter 1.5 index  
 **Writing standard:** PSYCHO SALES Permanent Knowledge Object Writing Constitution  
 **Ownership gate:** Surgical remediation completed before writing  
