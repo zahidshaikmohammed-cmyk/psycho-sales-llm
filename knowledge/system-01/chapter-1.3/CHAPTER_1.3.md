@@ -91,7 +91,7 @@
 
 # Knowledge Objects
 
-# 1.3.1 Neuron
+## 1.3.1 Neuron
 
 ## 1. Purpose
 The neuron is the basic excitable cell of the nervous system and provides the cellular foundation for rapid neural information processing.
@@ -135,7 +135,7 @@ Glial function to 1.3.2, neural communication to 1.3.3, action potentials to 1.3
 
 ---
 
-# 1.3.2 Glial cell
+## 1.3.2 Glial cell
 
 ## 1. Purpose
 Glial cells provide essential structural, metabolic, protective, insulating, and regulatory support for neural tissue.
@@ -179,7 +179,7 @@ Myelination to 1.3.13, neural plasticity to 1.3.11, and immune–behavior intera
 
 ---
 
-# 1.3.3 Neural communication
+## 1.3.3 Neural communication
 
 ## 1. Purpose
 Neural communication explains how information is transmitted and coordinated among neurons and between neural cells and other tissues.
@@ -223,7 +223,7 @@ Electrical signaling to 1.3.4, action potentials to 1.3.5, synaptic transmission
 
 ---
 
-# 1.3.4 Electrical signaling
+## 1.3.4 Electrical signaling
 
 ## 1. Purpose
 Electrical signaling describes how changes in membrane voltage enable rapid communication within nervous tissue.
@@ -270,7 +270,7 @@ Action potential generation and propagation to 1.3.5.
 
 ---
 
-# 1.3.5 Action potential
+## 1.3.5 Action potential
 
 ## 1. Purpose
 The action potential explains how neurons generate regenerative electrical impulses capable of traveling along axons.
@@ -317,7 +317,7 @@ Myelination to 1.3.13 and synaptic transmission to 1.3.6.
 
 ---
 
-# 1.3.6 Synaptic transmission
+## 1.3.6 Synaptic transmission
 
 ## 1. Purpose
 Synaptic transmission explains how one cell influences another across a synaptic connection.
@@ -361,7 +361,7 @@ Neurotransmitter identity and receptor-mediated signaling to 1.3.9; synaptic cha
 
 ---
 
-# 1.3.7 Excitation
+## 1.3.7 Excitation
 
 ## 1. Purpose
 Excitation describes neural influences that increase the likelihood or level of activity in a receiving cell.
@@ -405,7 +405,7 @@ Inhibition to 1.3.8 and neurotransmitter identity to 1.3.9.
 
 ---
 
-# 1.3.8 Inhibition
+## 1.3.8 Inhibition
 
 ## 1. Purpose
 Inhibition explains neural influences that reduce the probability or level of activity in a receiving system.
@@ -449,7 +449,7 @@ Specific inhibitory neurotransmitters and receptors to 1.3.9.
 
 ---
 
-# 1.3.9 Neurotransmitter
+## 1.3.9 Neurotransmitter
 
 ## 1. Purpose
 Neurotransmitters are chemical messengers that enable communication across many chemical synapses.
@@ -493,7 +493,7 @@ Broader diffuse regulation to 1.3.10 and synaptic change to 1.3.12.
 
 ---
 
-# 1.3.10 Neuromodulation
+## 1.3.10 Neuromodulation
 
 ## 1. Purpose
 Neuromodulation describes biological processes that alter how neural circuits respond and operate rather than simply transmitting a single fast signal.
@@ -537,7 +537,7 @@ Specific neurotransmitters to 1.3.9 and neural plasticity to 1.3.11.
 
 ---
 
-# 1.3.11 Neural plasticity
+## 1.3.11 Neural plasticity
 
 ## 1. Purpose
 Neural plasticity explains the capacity of nervous systems to change their structure or function in response to development, experience, activity, injury, or other conditions.
@@ -584,7 +584,7 @@ Synaptic plasticity to 1.3.12 and neural pruning to 1.3.14.
 
 ---
 
-# 1.3.12 Synaptic plasticity
+## 1.3.12 Synaptic plasticity
 
 ## 1. Purpose
 Synaptic plasticity describes changes in the strength or properties of communication between connected neural cells.
@@ -628,7 +628,7 @@ General plasticity to 1.3.11 and learning as a psychological process to the rele
 
 ---
 
-# 1.3.13 Myelination
+## 1.3.13 Myelination
 
 ## 1. Purpose
 Myelination explains how insulating sheaths around many axons affect neural signal conduction and nervous-system development.
@@ -675,7 +675,7 @@ Glial-cell classification to 1.3.2 and neural pruning to 1.3.14.
 
 ---
 
-# 1.3.14 Neural pruning
+## 1.3.14 Neural pruning
 
 ## 1. Purpose
 Neural pruning describes biological processes through which some neural connections or structures are reduced or eliminated during development and adaptation.
@@ -722,7 +722,7 @@ General plasticity to 1.3.11 and synaptic plasticity to 1.3.12.
 
 ---
 
-# 1.3.15 Neural network
+## 1.3.15 Neural network
 
 ## 1. Purpose
 Neural networks provide the circuit-level framework for understanding how populations of neurons interact to produce distributed biological functions.
@@ -766,7 +766,7 @@ Functional connectivity to 1.3.16 and brain-wide organization to 1.3.28.
 
 ---
 
-# 1.3.16 Functional connectivity
+## 1.3.16 Functional connectivity
 
 ## 1. Purpose
 Functional connectivity describes statistical or functional relationships among neural signals or regions without automatically implying a direct anatomical connection.
@@ -810,7 +810,7 @@ Anatomical pathways to sensory and motor pathway topics and measurement methods 
 
 ---
 
-# 1.3.17 Central nervous system
+## 1.3.17 Central nervous system
 
 ## 1. Purpose
 The central nervous system is the primary anatomical division containing the brain and spinal cord.
@@ -854,7 +854,7 @@ Peripheral nervous system to 1.3.18 and specific brain structures to Topics 1.3.
 
 ---
 
-# 1.3.18 Peripheral nervous system
+## 1.3.18 Peripheral nervous system
 
 ## 1. Purpose
 The peripheral nervous system links the central nervous system with sensory receptors, muscles, organs, and other tissues outside the brain and spinal cord.
@@ -898,7 +898,7 @@ Somatic nervous system to 1.3.19 and autonomic nervous system to 1.3.20.
 
 ---
 
-# 1.3.19 Somatic nervous system
+## 1.3.19 Somatic nervous system
 
 ## 1. Purpose
 The somatic nervous system describes peripheral neural pathways involved primarily in conscious sensation and skeletal-muscle control.
@@ -942,7 +942,7 @@ Autonomic regulation to 1.3.20 and motor-system organization to 1.3.25.
 
 ---
 
-# 1.3.20 Autonomic nervous system
+## 1.3.20 Autonomic nervous system
 
 ## 1. Purpose
 The autonomic nervous system regulates many internal bodily functions that support physiological stability and adaptation.
@@ -985,7 +985,7 @@ Sympathetic, parasympathetic, and enteric systems to 1.3.21–1.3.23.
 - Autonomic activity is integrated with central, endocrine, and bodily processes.
 
 ---
-# 1.3.21 Sympathetic nervous system
+## 1.3.21 Sympathetic nervous system
 
 ## 1. Purpose
 The sympathetic nervous system is a major autonomic division that helps regulate organs during changing demands and mobilization.
@@ -1029,7 +1029,7 @@ The overall ANS to 1.3.20 and parasympathetic and enteric divisions to 1.3.22–
 
 ---
 
-# 1.3.22 Parasympathetic nervous system
+## 1.3.22 Parasympathetic nervous system
 
 ## 1. Purpose
 The parasympathetic nervous system regulates many functions associated with maintenance, digestion, recovery, and ongoing internal regulation.
@@ -1073,7 +1073,7 @@ The overall ANS to 1.3.20 and sympathetic and enteric divisions to 1.3.21 and 1.
 
 ---
 
-# 1.3.23 Enteric nervous system
+## 1.3.23 Enteric nervous system
 
 ## 1. Purpose
 The enteric nervous system explains the intrinsic neural organization that regulates much of gastrointestinal function.
@@ -1117,7 +1117,7 @@ The general ANS to 1.3.20 and immune–behavior interaction to 1.3.67.
 
 ---
 
-# 1.3.24 Spinal cord
+## 1.3.24 Spinal cord
 
 ## 1. Purpose
 The spinal cord is a central nervous system structure that carries information between brain and body and performs important local processing.
@@ -1158,7 +1158,7 @@ Specific motor and sensory pathways to 1.3.25–1.3.27 and injury consequences t
 
 ---
 
-# 1.3.25 Motor system
+## 1.3.25 Motor system
 
 ## 1. Purpose
 The motor system organizes neural processes that generate and regulate movement.
@@ -1202,7 +1202,7 @@ Motor cortex to 1.3.42, basal ganglia to 1.3.33, cerebellum to 1.3.30, and motor
 
 ---
 
-# 1.3.26 Sensory pathways
+## 1.3.26 Sensory pathways
 
 ## 1. Purpose
 Sensory pathways describe neural routes through which information from the body and environment reaches and is processed by the central nervous system.
@@ -1246,7 +1246,7 @@ Specific sensory psychology to Chapter 1.4 and somatosensory cortex to 1.3.43.
 
 ---
 
-# 1.3.27 Motor pathways
+## 1.3.27 Motor pathways
 
 ## 1. Purpose
 Motor pathways describe neural routes that transmit and transform signals involved in movement.
@@ -1290,7 +1290,7 @@ The integrated motor system to 1.3.25 and specific structures to their own Topic
 
 ---
 
-# 1.3.28 Brain organization
+## 1.3.28 Brain organization
 
 ## 1. Purpose
 Brain organization provides the high-level anatomical and functional framework needed to understand how brain regions and networks contribute to human functioning.
@@ -1334,7 +1334,7 @@ Specific structures and methods to Topics 1.3.29–1.3.78.
 
 ---
 
-# 1.3.29 Brainstem
+## 1.3.29 Brainstem
 
 ## 1. Purpose
 The brainstem supports essential life functions, arousal, sensorimotor coordination, and communication between brain and spinal cord.
@@ -1378,7 +1378,7 @@ Specific autonomic divisions to 1.3.20–1.3.23 and cerebellar function to 1.3.3
 
 ---
 
-# 1.3.30 Cerebellum
+## 1.3.30 Cerebellum
 
 ## 1. Purpose
 The cerebellum is a major brain structure involved in coordination, timing, motor learning, and prediction of movement and other processes.
@@ -1419,7 +1419,7 @@ Motor-system organization to 1.3.25 and cortical motor control to 1.3.42.
 
 ---
 
-# 1.3.31 Thalamus
+## 1.3.31 Thalamus
 
 ## 1. Purpose
 The thalamus is a major diencephalic structure that participates in routing, integrating, and regulating information across brain systems.
@@ -1460,7 +1460,7 @@ Specific sensory systems to their modality pathways and consciousness to Chapter
 
 ---
 
-# 1.3.32 Hypothalamus
+## 1.3.32 Hypothalamus
 
 ## 1. Purpose
 The hypothalamus integrates neural and endocrine regulation to maintain internal conditions and coordinate motivated and physiological states.
@@ -1501,7 +1501,7 @@ The endocrine system to 1.3.47 and hormones to 1.3.48.
 
 ---
 
-# 1.3.33 Basal ganglia
+## 1.3.33 Basal ganglia
 
 ## 1. Purpose
 The basal ganglia are interconnected subcortical structures involved in movement selection, action control, learning, and other functions.
@@ -1542,7 +1542,7 @@ Motor-system architecture to 1.3.25 and neurotransmitter mechanisms to 1.3.9.
 
 ---
 
-# 1.3.34 Limbic-system structures
+## 1.3.34 Limbic-system structures
 
 ## 1. Purpose
 This Topic describes a historically important but anatomically heterogeneous group of structures commonly discussed in relation to emotion, memory, motivation, and regulation.
@@ -1583,7 +1583,7 @@ Specific functions of cortical and subcortical structures to their canonical Top
 
 ---
 
-# 1.3.35 Cerebral cortex
+## 1.3.35 Cerebral cortex
 
 ## 1. Purpose
 The cerebral cortex provides a major anatomical and functional substrate for perception, action, cognition, language, and complex integration.
@@ -1627,7 +1627,7 @@ Specific lobes and cortical regions to Topics 1.3.36–1.3.43.
 
 ---
 
-# 1.3.36 Association cortex
+## 1.3.36 Association cortex
 
 ## 1. Purpose
 Association cortex integrates information across modalities and supports complex representations, planning, language, memory-related processing, and flexible behavior.
@@ -1668,7 +1668,7 @@ Specific frontal, parietal, and temporal regions to their respective Topics.
 
 ---
 
-# 1.3.37 Frontal lobe
+## 1.3.37 Frontal lobe
 
 ## 1. Purpose
 The frontal lobe is a major cortical division involved in movement, executive control, language-related functions, decision processes, and social behavior.
@@ -1712,7 +1712,7 @@ Prefrontal cortex to 1.3.41 and motor cortex to 1.3.42.
 
 ---
 
-# 1.3.38 Parietal lobe
+## 1.3.38 Parietal lobe
 
 ## 1. Purpose
 The parietal lobe integrates somatosensory and spatial information and contributes to attention, action guidance, and multisensory representation.
@@ -1753,7 +1753,7 @@ Somatosensory cortex to 1.3.43 and lateralization to 1.3.46.
 
 ---
 
-# 1.3.39 Temporal lobe
+## 1.3.39 Temporal lobe
 
 ## 1. Purpose
 The temporal lobe contains systems important for auditory processing, language-related functions, memory, object recognition, and semantic knowledge.
@@ -1797,7 +1797,7 @@ Specific medial temporal structures where separately owned and psychological mem
 
 ---
 
-# 1.3.40 Occipital lobe
+## 1.3.40 Occipital lobe
 
 ## 1. Purpose
 The occipital lobe is the principal cortical division for visual processing.
@@ -1837,7 +1837,7 @@ Perceptual phenomena and visual experience to Chapter 1.4 and broader brain orga
 - Visual perception depends on more than occipital activity alone.
 
 ---
-# 1.3.41 Prefrontal cortex
+## 1.3.41 Prefrontal cortex
 
 ## 1. Purpose
 The prefrontal cortex supports flexible control of behavior through interactions among goals, context, memory, valuation, and action systems.
@@ -1881,7 +1881,7 @@ General thinking and decision processes to their canonical psychological chapter
 
 ---
 
-# 1.3.42 Motor cortex
+## 1.3.42 Motor cortex
 
 ## 1. Purpose
 Motor cortex provides a major cortical substrate for voluntary movement planning and control.
@@ -1925,7 +1925,7 @@ The integrated motor system to 1.3.25 and descending pathways to 1.3.27.
 
 ---
 
-# 1.3.43 Somatosensory cortex
+## 1.3.43 Somatosensory cortex
 
 ## 1. Purpose
 Somatosensory cortex provides cortical processing of information about the body's surface and internal musculoskeletal state.
@@ -1969,7 +1969,7 @@ Pain as a psychological perceptual phenomenon to Chapter 1.4 and interoception t
 
 ---
 
-# 1.3.44 Corpus callosum
+## 1.3.44 Corpus callosum
 
 ## 1. Purpose
 The corpus callosum provides the largest commissural connection between the cerebral hemispheres.
@@ -2013,7 +2013,7 @@ Hemispheric specialization to 1.3.45 and lateralization to 1.3.46.
 
 ---
 
-# 1.3.45 Hemispheric specialization
+## 1.3.45 Hemispheric specialization
 
 ## 1. Purpose
 Hemispheric specialization describes the tendency for some neural functions to be represented or processed more strongly in one cerebral hemisphere than the other.
@@ -2057,7 +2057,7 @@ The anatomical asymmetry concept to 1.3.46 and specific psychological functions 
 
 ---
 
-# 1.3.46 Lateralization
+## 1.3.46 Lateralization
 
 ## 1. Purpose
 Lateralization describes asymmetry in structure, connectivity, or function between the cerebral hemispheres.
@@ -2101,7 +2101,7 @@ Specific specialization patterns to 1.3.45.
 
 ---
 
-# 1.3.47 Endocrine system
+## 1.3.47 Endocrine system
 
 ## 1. Purpose
 The endocrine system provides a major chemical communication system that coordinates physiology through hormones released into the bloodstream.
@@ -2145,7 +2145,7 @@ Individual hormones to 1.3.48 and neuroendocrine coupling to 1.3.49.
 
 ---
 
-# 1.3.48 Hormones
+## 1.3.48 Hormones
 
 ## 1. Purpose
 Hormones are chemical messengers that coordinate physiological functions across tissues and contribute to brain–body regulation.
@@ -2189,7 +2189,7 @@ Endocrine-system organization to 1.3.47 and reproductive hormones to 1.3.69.
 
 ---
 
-# 1.3.49 Neuroendocrine interaction
+## 1.3.49 Neuroendocrine interaction
 
 ## 1. Purpose
 Neuroendocrine interaction explains how neural and hormonal systems regulate one another to coordinate physiology and behavior.
@@ -2233,7 +2233,7 @@ Specific endocrine organs and hormones to their canonical Topics.
 
 ---
 
-# 1.3.50 Gene
+## 1.3.50 Gene
 
 ## 1. Purpose
 The gene is a fundamental unit of biological inheritance and a source of information used in cellular processes, including the production of functional biological products.
@@ -2274,7 +2274,7 @@ Variation across genes to 1.3.51 and expression to 1.3.52.
 
 ---
 
-# 1.3.51 Genetic variation
+## 1.3.51 Genetic variation
 
 ## 1. Purpose
 Genetic variation explains why individuals and populations differ in DNA sequence and biological characteristics.
@@ -2318,7 +2318,7 @@ Heritability to 1.3.53 and gene–environment interaction to 1.3.54.
 
 ---
 
-# 1.3.52 Gene expression
+## 1.3.52 Gene expression
 
 ## 1. Purpose
 Gene expression explains how information encoded in DNA is selectively used within cells.
@@ -2362,7 +2362,7 @@ Epigenetic processes to 1.3.55 and genetic variation to 1.3.51.
 
 ---
 
-# 1.3.53 Heritability
+## 1.3.53 Heritability
 
 ## 1. Purpose
 Heritability is a statistical concept describing the proportion of variation in a measured trait within a particular population and environment that is associated with genetic differences.
@@ -2403,7 +2403,7 @@ Behavioral-genetic study designs to 1.3.76 and twin/adoption methods to 1.3.77�
 
 ---
 
-# 1.3.54 Gene–environment interaction
+## 1.3.54 Gene–environment interaction
 
 ## 1. Purpose
 Gene–environment interaction explains why the effect associated with genetic differences can vary across environmental conditions.
@@ -2447,7 +2447,7 @@ General development and psychological environment effects to their relevant chap
 
 ---
 
-# 1.3.55 Epigenetic processes
+## 1.3.55 Epigenetic processes
 
 ## 1. Purpose
 Epigenetic processes describe molecular mechanisms that regulate gene activity without changing the underlying DNA sequence itself.
@@ -2491,7 +2491,7 @@ General gene expression to 1.3.52 and gene–environment interaction to 1.3.54.
 
 ---
 
-# 1.3.56 Evolution
+## 1.3.56 Evolution
 
 ## 1. Purpose
 Evolution provides the broad biological framework for understanding how inherited characteristics in populations change across generations.
@@ -2535,7 +2535,7 @@ Natural selection to 1.3.57 and evolutionary adaptation to 1.3.58.
 
 ---
 
-# 1.3.57 Natural selection
+## 1.3.57 Natural selection
 
 ## 1. Purpose
 Natural selection explains one major mechanism through which inherited differences can become more or less common in populations.
@@ -2576,7 +2576,7 @@ The broader evolutionary framework to 1.3.56 and adaptation as an outcome to 1.3
 
 ---
 
-# 1.3.58 Evolutionary adaptation
+## 1.3.58 Evolutionary adaptation
 
 ## 1. Purpose
 Evolutionary adaptation describes inherited features shaped by evolutionary processes that improve performance or reproductive outcomes in particular environments.
@@ -2617,7 +2617,7 @@ General evolution to 1.3.56 and natural selection to 1.3.57.
 
 ---
 
-# 1.3.59 Biological constraints
+## 1.3.59 Biological constraints
 
 ## 1. Purpose
 Biological constraints define limits and biases imposed by an organism's anatomy, physiology, development, and evolutionary history.
@@ -2661,7 +2661,7 @@ Specific developmental, genetic, or neural mechanisms to their canonical Topics.
 
 ---
 
-# 1.3.60 Homeostasis
+## 1.3.60 Homeostasis
 
 ## 1. Purpose
 Homeostasis explains how biological systems maintain relatively stable internal conditions despite ongoing changes.
@@ -2704,7 +2704,7 @@ Allostasis to 1.3.61 and specific biological rhythms to 1.3.62.
 - Regulated variables operate within ranges rather than fixed single values.
 
 ---
-# 1.3.61 Allostasis
+## 1.3.61 Allostasis
 
 ## 1. Purpose
 Allostasis explains how biological systems achieve stability by changing regulated processes in anticipation of or response to changing demands.
@@ -2748,7 +2748,7 @@ Homeostatic regulation to 1.3.60 and stress psychology to its canonical chapter.
 
 ---
 
-# 1.3.62 Biological rhythms
+## 1.3.62 Biological rhythms
 
 ## 1. Purpose
 Biological rhythms describe recurring changes in physiological and behavioral processes across time.
@@ -2792,7 +2792,7 @@ Circadian rhythms to 1.3.63 and specific sleep processes to Chapter 1.5.
 
 ---
 
-# 1.3.63 Circadian rhythms
+## 1.3.63 Circadian rhythms
 
 ## 1. Purpose
 Circadian rhythms organize approximately 24-hour cycles in physiology and behavior and help align internal biology with the day–night environment.
@@ -2836,7 +2836,7 @@ General biological rhythms to 1.3.62 and sleep psychology to Chapter 1.5.
 
 ---
 
-# 1.3.64 Brain–body interaction
+## 1.3.64 Brain–body interaction
 
 ## 1. Purpose
 Brain–body interaction describes the continuous bidirectional exchange between neural systems and bodily organs and physiological states.
@@ -2877,7 +2877,7 @@ Interoception to 1.3.66, immune–behavior interaction to 1.3.67, and neuroendoc
 
 ---
 
-# 1.3.65 Embodiment
+## 1.3.65 Embodiment
 
 ## 1. Purpose
 Embodiment addresses the role of bodily states, sensorimotor systems, and bodily interaction with the environment in psychological functioning.
@@ -2921,7 +2921,7 @@ Specific interoceptive mechanisms to 1.3.66 and broader psychological constructs
 
 ---
 
-# 1.3.66 Interoception
+## 1.3.66 Interoception
 
 ## 1. Purpose
 Interoception describes how the nervous system senses, represents, and regulates the body's internal condition.
@@ -2965,7 +2965,7 @@ Subjective emotion and cognition to their psychological owners.
 
 ---
 
-# 1.3.67 Immune–behavior interaction
+## 1.3.67 Immune–behavior interaction
 
 ## 1. Purpose
 Immune–behavior interaction describes reciprocal relationships between immune activity and behavioral or psychological processes.
@@ -3006,7 +3006,7 @@ The broader interdisciplinary field to 1.3.68.
 
 ---
 
-# 1.3.68 Psychoneuroimmunology
+## 1.3.68 Psychoneuroimmunology
 
 ## 1. Purpose
 Psychoneuroimmunology is an interdisciplinary field examining interactions among psychological processes, the nervous system, endocrine regulation, and immune function.
@@ -3047,7 +3047,7 @@ Specific immune mechanisms to immune biology and specific psychological mechanis
 
 ---
 
-# 1.3.69 Reproductive hormones
+## 1.3.69 Reproductive hormones
 
 ## 1. Purpose
 Reproductive hormones coordinate biological processes involved in sexual development, reproductive function, and related physiological regulation.
@@ -3091,7 +3091,7 @@ Sexuality, identity, and social behavior to their psychological owners.
 
 ---
 
-# 1.3.70 Biological individual differences
+## 1.3.70 Biological individual differences
 
 ## 1. Purpose
 Biological individual differences describe stable or variable differences among people in biological characteristics relevant to psychological functioning.
@@ -3135,7 +3135,7 @@ Specific genetic, neural, hormonal, and psychological constructs to their canoni
 
 ---
 
-# 1.3.71 Neuropsychology
+## 1.3.71 Neuropsychology
 
 ## 1. Purpose
 Neuropsychology studies relationships between brain function and psychological processes, often using patterns of behavior and cognition associated with neurological conditions.
@@ -3176,7 +3176,7 @@ Specific brain injury to 1.3.72 and lesion methods to 1.3.75.
 
 ---
 
-# 1.3.72 Brain injury and psychological function
+## 1.3.72 Brain injury and psychological function
 
 ## 1. Purpose
 This Topic explains how acquired or developmental brain injury can alter psychological functioning and why effects depend on the neural systems affected.
@@ -3217,7 +3217,7 @@ Clinical diagnosis and rehabilitation methods to relevant clinical systems; lesi
 
 ---
 
-# 1.3.73 Neuroimaging
+## 1.3.73 Neuroimaging
 
 ## 1. Purpose
 Neuroimaging provides methods for measuring brain structure, activity, or related physiological signals in living organisms.
@@ -3258,7 +3258,7 @@ EEG to 1.3.74 and lesion methods to 1.3.75.
 
 ---
 
-# 1.3.74 EEG
+## 1.3.74 EEG
 
 ## 1. Purpose
 EEG measures electrical activity from the scalp and provides high temporal-resolution information about coordinated neural activity.
@@ -3299,7 +3299,7 @@ General neuroimaging to 1.3.73 and lesion methods to 1.3.75.
 
 ---
 
-# 1.3.75 Lesion methods
+## 1.3.75 Lesion methods
 
 ## 1. Purpose
 Lesion methods use naturally occurring or experimentally produced damage to infer the contribution of neural structures or pathways to function.
@@ -3340,7 +3340,7 @@ General neuropsychology to 1.3.71 and brain injury consequences to 1.3.72.
 
 ---
 
-# 1.3.76 Behavioral genetics
+## 1.3.76 Behavioral genetics
 
 ## 1. Purpose
 Behavioral genetics studies how genetic differences and environmental differences contribute to variation in behavior and psychological traits.
@@ -3384,7 +3384,7 @@ Specific study designs to 1.3.77–1.3.78 and molecular gene processes to 1.3.50
 
 ---
 
-# 1.3.77 Twin studies
+## 1.3.77 Twin studies
 
 ## 1. Purpose
 Twin studies compare similarities between twins to estimate genetic and environmental contributions to variation in traits.
@@ -3425,7 +3425,7 @@ General heritability to 1.3.53 and behavioral genetics to 1.3.76.
 
 ---
 
-# 1.3.78 Adoption studies
+## 1.3.78 Adoption studies
 
 ## 1. Purpose
 Adoption studies use differences and similarities between adoptees, biological relatives, and adoptive relatives to examine genetic and environmental contributions to psychological traits.
