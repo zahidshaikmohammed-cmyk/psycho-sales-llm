@@ -1,14 +1,15 @@
 # SYSTEM 1 — CROSS-CHAPTER OWNERSHIP REMEDIATION
 
-**Status:** FINAL SEMANTIC AUDIT COMPLETED — CHAPTERS 1.1–1.3 SEALED
+**Status:** FINAL SEMANTIC AUDIT COMPLETED — CHAPTERS 1.1–1.4 SEALED
 
 ## Scope
 
-This audit covers the current canonical System 1 chapters:
+This audit covers the current completed canonical System 1 chapters:
 
 - Chapter 1.1 — Foundations and Architecture of Human Psychology — 57 Topics
 - Chapter 1.2 — Psychological Science, Research, Measurement, and Evidence — 118 Topics
 - Chapter 1.3 — Biological Bases of Human Behavior and Mental Life — 78 Topics
+- Chapter 1.4 — Sensation and Perception — 62 Topics
 
 The objective is to preserve meaningful relationships while ensuring that each concept has one authoritative home. Cross-chapter specialization is permitted when the scope, level, or function of the concept is materially different.
 
@@ -55,18 +56,19 @@ The following five Topics previously contained two complete Knowledge Objects an
 
 ## Current Structural Scope
 
-- Total canonical Topics: **253**
+- Total canonical Topics: **315**
 - Chapter 1.1: **57**
 - Chapter 1.2: **118**
 - Chapter 1.3: **78**
 - Topic IDs remain canonical and unchanged.
 - Chapter 1.3 is the current 78-topic biological ontology; obsolete references to the former 70-topic “Dynamics of Human Thinking” architecture are superseded.
+- Chapter 1.4 is the current 62-topic sensation-and-perception ontology and has completed its ownership remediation and validation gates.
 - Every current Topic uses the six-section Knowledge Object structure.
 - Every current Topic contains explicit **Owns** and **Defers** boundaries.
 
 ## Resealing Rule
 
-The chapters may be formally marked LOCKED & SEALED only after the final validation records for Chapters 1.1, 1.2, and 1.3 are present and the repository metadata points exclusively to the current canonical architecture.
+The completed Chapters 1.1–1.4 may remain marked LOCKED & SEALED only while their final validation records are present and repository metadata points exclusively to the current canonical architecture.
 
 
 
@@ -121,4 +123,5 @@ The chapters may be formally marked LOCKED & SEALED only after the final validat
 - Existing sealed Chapters 1.1–1.3 changed: **0**
 - Existing sealed Knowledge Objects rewritten: **0**
 - Specialization overlaps requiring explicit boundaries documented: **5**
-- Chapter 1.4 is cleared for Knowledge Object writing, subject to the writing constitution and a final pre-write duplicate scan.
+- Chapter 1.4 ownership and Knowledge Object writing are complete.
+- Chapter 1.4 final validation is recorded in `knowledge/system-01/chapter-1.4/CHAPTER_1.4_FINAL_VALIDATION.md`.
