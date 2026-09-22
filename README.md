@@ -45,45 +45,41 @@ The constitution governs conceptual precision, adaptive depth, scientific integr
 
 ### Chapter 1.1 — Foundations and Architecture of Human Psychology
 
-**Status: LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 1.1**
+**Status: FINAL VALIDATION PASSED — READY FOR LOCK/SEAL REVIEW**
 
-The complete Chapter 1.1 is contained in:
+The canonical Chapter 1.1 writing is contained in:
 
-knowledge/system-01/chapter-1.1/CHAPTER_1.1.md
+`knowledge/system-01/chapter-1.1/CHAPTER_1.1.md`
 
-It contains the complete locked 57-topic ontology and the full canonical Knowledge Object writing for every topic.
-
-No separate topic files, duplicate indexes, historical audits, research dumps, drafts, or parallel Chapter 1.1 prose are maintained in the canonical repository.
-
+It contains all 57 canonical Topics. Duplicate-object defects and the identified explanation-taxonomy depth gaps have been remediated. Validation record: `knowledge/system-01/chapter-1.1/CHAPTER_1.1_FINAL_VALIDATION.md`.
 
 ### Chapter 1.2 — Psychological Science, Research, Measurement, and Evidence
 
-**Status: LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 1.1**
+**Status: FINAL VALIDATION PASSED — READY FOR LOCK/SEAL REVIEW**
 
 The canonical Chapter 1.2 writing is contained in:
 
 `knowledge/system-01/chapter-1.2/CHAPTER_1.2.md`
 
-It contains all 118 locked ontology topics. Following cross-chapter ownership remediation and final structural validation, it is formally locked and sealed as canonical knowledge version 1.1.
+It contains all 118 canonical Topics. Duplicate-object defects in 1.2.52 and 1.2.82 have been remediated. Validation record: `knowledge/system-01/chapter-1.2/CHAPTER_1.2_FINAL_VALIDATION.md`.
 
-### Chapter 1.3 — The Dynamics of Human Thinking
+### Chapter 1.3 — Biological Bases of Human Behavior and Mental Life
 
-**Status: LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 1.1**
+**Status: FINAL VALIDATION PASSED — READY FOR LOCK/SEAL REVIEW**
 
 The canonical Chapter 1.3 writing is contained in:
 
-knowledge/system-01/chapter-1.3/CHAPTER_1.3.md
+`knowledge/system-01/chapter-1.3/CHAPTER_1.3.md`
 
-It contains all 70 locked ontology topics from 1.3.1 through 1.3.70. Following cross-chapter ownership remediation and final structural validation, it is formally locked and sealed as canonical knowledge version 1.1.
-
+It contains all 78 canonical Topics in the current biological ontology. The former 70-topic “Dynamics of Human Thinking” architecture is obsolete and is no longer the canonical Chapter 1.3. A full depth remediation pass has been completed across all 78 Topics. Validation record: `knowledge/system-01/chapter-1.3/CHAPTER_1.3_FINAL_VALIDATION.md`.
 
 ## System 1 Ownership Remediation
 
-A cross-chapter ownership audit has been completed and material overlaps have been surgically patched without renumbering or deleting the locked ontology. See:
+The cross-chapter ownership audit has been updated for the current 253-topic architecture. Material ownership collisions were remediated without renumbering or deleting canonical Topics. See:
 
 `knowledge/system-01/CROSS_CHAPTER_OWNERSHIP_REMEDIATION.md`
 
-The three chapters were remediated, structurally validated, and resealed as canonical knowledge version 1.1.
+The repository is now in final validation / pre-seal state. Formal LOCKED & SEALED status should be applied only after this validation state is accepted as the new canonical version.
 
 ---
 
