@@ -1692,6 +1692,10 @@ Continuity can be disrupted by severe memory impairment, major environmental cha
 Psychological continuity is the persistence of meaningful organization, identity, functioning, or psychological patterns across time despite change in individual states or components. Continuity does not require every feature to remain unchanged.
 
 Continuity can be supported by memory, stable goals, habits, relationships, traits, narratives, biological organization, or repeated environments. It is therefore compatible with development and change. A person can remain recognizably continuous while changing beliefs, roles, abilities, and emotional patterns.
+### Depth enhancement
+
+Continuity concerns the persistence and connectedness of psychological functioning across time. It does not require that a person remain psychologically unchanged. Memory, identity, goals, learned patterns, relationships, and stable dispositions can provide continuity while states and behaviors change. Continuity can therefore be partial, domain-specific, and disrupted by development, major experiences, neurological change, or contextual transitions.
+
 ## 4. Relationship to This Chapter
 Continuity connects stability, change, memory, identity, development, personality, and temporal dynamics.
 
@@ -1770,6 +1774,10 @@ Levels of analysis should not be confused with levels of explanation. Analysis c
 Levels of analysis are different scales or units at which a psychological phenomenon can be studied, such as neural processes, individual psychological processes, interpersonal interaction, groups, institutions, or culture. A level of analysis is an analytical choice about what is being treated as the relevant unit.
 
 Different levels can answer different questions about the same phenomenon. Moving between levels requires care because evidence at one level does not automatically establish claims at another. A group pattern cannot always be inferred from individual averages, and an individual mechanism cannot automatically explain a cultural pattern.
+### Depth enhancement
+
+Levels of analysis identify the scale at which a phenomenon is described, such as biological, individual psychological, interpersonal, group, institutional, or cultural levels. A level of analysis is not automatically a level of explanation: the same phenomenon can be described at one level and explained using mechanisms spanning several levels. Confusing these distinctions can produce reductionism or category errors.
+
 ## 4. Relationship to This Chapter
 This concept provides the structural basis for the chapter’s later distinction between biological, psychological, social, cultural, and multilevel explanations.
 
@@ -1808,6 +1816,10 @@ A lower-level explanation does not automatically replace a higher-level explanat
 Levels of explanation are different kinds of answers to the question of why a psychological phenomenon occurs. An explanation may emphasize mechanism, function, structure, development, learning, social interaction, or other dimensions.
 
 Levels of explanation are related to but not identical with levels of analysis. A study may analyze individuals while using a social explanation, or analyze neural activity while asking a functional question. Clear explanation requires stating what kind of why-question is being answered.
+### Depth enhancement
+
+Levels of explanation concern the kinds of processes invoked to explain a phenomenon. A psychological phenomenon may receive biological, psychological, social, cultural, developmental, or multilevel explanations. These explanations are not automatically competing. A strong explanation specifies the question, mechanism, evidence, and level at which its claim operates.
+
 ## 4. Relationship to This Chapter
 Levels of explanation organize the biological, psychological, social, cultural, multilevel, functional, structural, process, and mechanistic Topics that follow.
 
@@ -1846,6 +1858,10 @@ Biological explanations can operate at multiple scales, from cellular signaling 
 A biological explanation accounts for psychological phenomena through biological processes such as neural activity, physiology, genetics, hormonal systems, or bodily regulation. Biological explanations can identify mechanisms that constrain or support psychological functioning.
 
 A biological explanation does not automatically replace psychological or social explanations. The fact that a process has a biological basis does not tell us every relevant psychological meaning, developmental pathway, or environmental condition. Strong explanations connect levels when the evidence and question require it.
+### Depth enhancement
+
+A biological explanation accounts for psychological phenomena using biological mechanisms such as neural activity, physiology, endocrine processes, genetics, or bodily regulation. A biological explanation can be legitimate without implying that psychology is reducible to biology. The explanatory target and level must be specified, and biological correlation must not be mistaken for causal explanation.
+
 ## 4. Relationship to This Chapter
 Biological explanation is one component of the multilevel architecture and connects directly to Chapter 1.3.
 
@@ -1884,6 +1900,10 @@ A psychological explanation should identify mechanisms or functional relations r
 A psychological explanation accounts for behavior or experience through processes such as perception, memory, appraisal, learning, motivation, emotion, reasoning, self-regulation, or other psychological mechanisms. It focuses on what happens within psychological functioning rather than treating behavior as unexplained output.
 
 Psychological explanations can themselves operate at different levels. A process account may explain how a response occurs, while a functional account may explain what role the response serves. Neither should be assumed to be complete without checking the question and evidence.
+### Depth enhancement
+
+A psychological explanation accounts for behavior or experience using psychological processes, states, representations, mechanisms, goals, learning, appraisal, or other psychological constructs. It can coexist with biological and social explanations because different explanations may answer different questions. Psychological explanations should still be mechanistic or evidentially grounded rather than merely restating the phenomenon in different words.
+
 ## 4. Relationship to This Chapter
 This concept is the central explanatory level linking mental processes, states, contents, mechanisms, behavior, and action.
 
@@ -1922,6 +1942,10 @@ Social explanations can involve immediate interaction or broader structures. The
 A social explanation accounts for psychological phenomena through relationships, groups, social roles, norms, interaction patterns, institutions, or social structures. Social conditions can change what information is available, what behavior is rewarded, what identities are salient, and what actions are possible.
 
 Social explanations do not imply that individuals are passive. People interpret, accept, resist, reproduce, and sometimes transform social conditions. The strongest social explanations specify the pathway connecting social conditions to psychological or behavioral outcomes.
+### Depth enhancement
+
+A social explanation accounts for psychological phenomena through interactions with other people, relationships, groups, roles, norms, institutions, and social environments. Social causes can operate through psychological and biological pathways. A social explanation should specify the social process involved rather than treating “society” as an undifferentiated cause.
+
 ## 4. Relationship to This Chapter
 Social explanation is one level in the multilevel architecture and connects to person, situation, context, behavior, and Chapter 1.16.
 
@@ -1960,6 +1984,10 @@ Cultural explanations should not imply that every member of a culture is identic
 A cultural explanation accounts for psychological phenomena through culturally shared meanings, practices, norms, values, symbols, institutions, and learned ways of interpreting and responding to the world. Culture is not a single variable that applies identically to every member of a population.
 
 Cultural influence can operate through learning, socialization, identity, institutions, language, expectations, and everyday practices. Cultural explanations should avoid turning population-level patterns into assumptions about every individual.
+### Depth enhancement
+
+A cultural explanation accounts for psychological phenomena through culturally shared meanings, practices, norms, values, institutions, language, and learned patterns. Culture can shape what people attend to, value, expect, and do, but cultural explanations should avoid treating cultures as internally uniform. Individual variation and within-culture diversity remain important.
+
 ## 4. Relationship to This Chapter
 Cultural explanation is one level of the multilevel architecture and connects to context, social processes, development, identity, and Chapter 1.17.
 
@@ -1998,6 +2026,10 @@ Levels can interact across time. Social conditions can influence psychological s
 A multilevel explanation integrates evidence from more than one level when a phenomenon cannot be adequately understood at a single level. For example, a behavior may depend on biological constraints, psychological processing, social interaction, and cultural meaning.
 
 Multilevel explanation does not mean listing many levels without showing how they connect. The useful question is what relationship links them: influence, constraint, development, mediation, feedback, or another empirically supported connection. Each level should contribute explanatory value rather than decorative complexity.
+### Depth enhancement
+
+A multilevel explanation integrates processes operating at more than one level when doing so improves understanding of the phenomenon. It should specify how the levels relate rather than simply listing biological, psychological, and social factors. Strong multilevel explanations identify cross-level pathways, temporal ordering, and evidence for the proposed relationships.
+
 ## 4. Relationship to This Chapter
 Multilevel explanation integrates the preceding biological, psychological, social, and cultural levels and supports the biopsychosocial and systems perspectives.
 
@@ -2036,6 +2068,10 @@ It is a perspective, not a single mechanism or predictive equation. Its usefulne
 The biopsychosocial perspective treats biological, psychological, and social factors as potentially interacting contributors to health and human functioning. It is a framework for asking which levels matter and how they may relate, not a license to claim that every phenomenon has equal biological, psychological, and social causes.
 
 Its strength is integrative thinking. Its limitation is that it can become vague if the proposed pathways are not specified. A scientifically useful biopsychosocial account therefore identifies concrete factors, relationships, timing, and evidence rather than simply naming three domains.
+### Depth enhancement
+
+The biopsychosocial perspective treats biological, psychological, and social factors as interacting contributors to human functioning. It is a framework for organizing hypotheses, not proof that every phenomenon has equally important causes at all three levels. Useful application requires specifying mechanisms and evidence rather than using the framework as an all-purpose explanation.
+
 ## 4. Relationship to This Chapter
 This perspective integrates the chapter’s levels-of-explanation architecture and connects to biological, psychological, social, and multilevel explanations.
 
@@ -2074,6 +2110,10 @@ The perspective does not mean that every psychological phenomenon requires a com
 A systems perspective views psychological phenomena as parts of organized, interacting systems. It emphasizes relationships, feedback, boundaries, dependencies, and the effects of changing one component on others.
 
 Systems thinking is useful when isolated-variable explanations miss interaction or feedback. It also introduces a risk: calling something a system does not itself explain it. A systems explanation must identify the components, relevant relationships, system boundary, time scale, and evidence supporting the proposed organization.
+### Depth enhancement
+
+A systems perspective treats psychological functioning as emerging within interconnected components whose interactions can produce patterns not attributable to one component alone. It emphasizes relationships, feedback, boundaries, and context. Systems language becomes scientifically useful when the system's components and interaction mechanisms are specified rather than invoked as a vague explanation.
+
 ## 4. Relationship to This Chapter
 It integrates psychological systems, mechanisms, dynamic interaction, feedback, reciprocal causation, context, and emergence.
 
@@ -2112,6 +2152,10 @@ It does not claim that every psychological process is nonlinear or unpredictable
 A dynamic-systems perspective focuses on how psychological patterns emerge and change through interactions among components across time. It is especially useful for variability, feedback, adaptation, stability, transitions, and nonlinear change.
 
 The perspective does not require that every psychological phenomenon be nonlinear or chaotic. It provides tools for situations where time-dependent interaction is central. Claims about attractors, thresholds, self-organization, or phase transitions require evidence rather than metaphorical use of dynamic-systems language.
+### Depth enhancement
+
+A dynamic-systems perspective emphasizes change over time, reciprocal interaction, nonlinear effects, feedback, self-organization, and context-dependent trajectories. Small changes can sometimes alter later states when systems are near transitions or thresholds. The perspective is especially useful when behavior cannot be adequately represented as a fixed trait or a one-way causal chain.
+
 ## 4. Relationship to This Chapter
 This model extends systems perspective, dynamic interaction, emergence, temporal dynamics, plasticity, and development.
 
@@ -2150,6 +2194,10 @@ Functional explanations should not be confused with historical evolutionary expl
 A functional explanation describes what role a psychological phenomenon plays within a broader system or task. It asks what the phenomenon does or enables rather than only what it is made of.
 
 Functional explanations can be useful even when several mechanisms can produce the same function. They must, however, be distinguished from claims about evolutionary purpose. Saying that a process currently helps regulate behavior is not by itself evidence that natural selection designed it for that purpose.
+### Depth enhancement
+
+A functional explanation describes what a process or structure does within a system and what role that function serves. Functional description is not automatically an evolutionary explanation and does not by itself establish why the function exists. It becomes explanatory when the relevant system, conditions, and mechanism connecting the function to outcomes are specified.
+
 ## 4. Relationship to This Chapter
 Functional explanation connects psychological functions, mechanisms, systems, adaptation, and levels of explanation.
 
@@ -2188,6 +2236,10 @@ Structural explanations can operate at different levels. They may describe conce
 A structural explanation accounts for a phenomenon through the organization, arrangement, or relationships among components. Structure can include networks, hierarchies, representations, categories, systems, or stable patterns of organization.
 
 Structural explanations answer questions about what is organized and how. They are different from process explanations, which emphasize change or operation over time. A complete account may require both: structure can constrain processes, while repeated processes can alter structure.
+### Depth enhancement
+
+A structural explanation accounts for a phenomenon through the organization or arrangement of components and relationships. Structure can constrain what processes are possible, but structural description alone may not explain how a change produces an outcome. Structural and process explanations can therefore complement one another.
+
 ## 4. Relationship to This Chapter
 Structural explanation connects psychological systems, organization, constructs, mechanisms, and levels of explanation.
 
@@ -2224,6 +2276,10 @@ Process explanations can identify stages, feedback loops, or interacting operati
 A process explanation accounts for a phenomenon by describing how it unfolds through a sequence or pattern of operations over time. It focuses on change, transitions, information flow, and action rather than only on stable components.
 
 Process explanations are especially important when timing matters. Two systems can contain similar components but produce different outcomes because the components operate in a different order, with different feedback, or under different conditions.
+### Depth enhancement
+
+A process explanation accounts for a phenomenon through the sequence or interaction of operations that produce it. It emphasizes transformation across time rather than only the components present at one moment. A process account is strongest when it identifies operations, temporal relations, feedback, and evidence distinguishing the proposed sequence from alternatives.
+
 ## 4. Relationship to This Chapter
 Process explanation connects psychological processing, temporal dynamics, mechanisms, feedback, action, and change.
 
@@ -2262,6 +2318,10 @@ Mechanisms can be nested and multilevel. A psychological mechanism may depend on
 A mechanistic explanation identifies the organized parts and activities through which a phenomenon is produced or maintained. It goes beyond naming a predictor by showing how the parts interact to generate the outcome.
 
 Mechanistic explanation can involve multiple levels. A mechanism may be psychological while depending on biological processes or social inputs. A proposed mechanism should be judged by the quality of evidence linking its parts and operations, not by how plausible the story sounds.
+### Depth enhancement
+
+A mechanistic explanation identifies the entities, activities, organization, and interactions through which a phenomenon is generated or maintained. It goes beyond naming a correlation or restating a function. Mechanistic explanations can operate across levels, but the proposed parts and interactions must be supported by evidence and should not be treated as established merely because they are plausible.
+
 ## 4. Relationship to This Chapter
 Mechanistic explanation is the deepest explanatory layer of the chapter’s architecture and connects mechanisms, processes, systems, and multilevel explanation.
 
