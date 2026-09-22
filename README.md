@@ -83,13 +83,23 @@ The canonical Chapter 1.4 writing is contained in:
 
 It contains all 62 canonical Topics. The two exact ownership collisions identified during the pre-write audit were surgically remediated in the wider architecture, and specialized cross-chapter boundaries were documented. Validation record: `knowledge/system-01/chapter-1.4/CHAPTER_1.4_FINAL_VALIDATION.md`.
 
+### Chapter 1.5 — Consciousness, Sleep, and Altered States
+
+**Status: LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 1.1**
+
+The canonical Chapter 1.5 writing is contained in:
+
+`knowledge/system-01/chapter-1.5/CHAPTER_1.5.md`
+
+It contains all 44 canonical Topics. Two exact ownership collisions were surgically disambiguated before writing, with existing Chapter 1.8 and 1.14 owners preserved. Validation record: `knowledge/system-01/chapter-1.5/CHAPTER_1.5_FINAL_VALIDATION.md`.
+
 ## System 1 Ownership Remediation
 
 The cross-chapter ownership audit has been updated for the current **359-topic canonical System 1 state (Chapters 1.1–1.5)**. Material ownership collisions were remediated without renumbering or deleting canonical Topics. See:
 
 `knowledge/system-01/CROSS_CHAPTER_OWNERSHIP_REMEDIATION.md`
 
-The four completed System 1 chapters are formally LOCKED & SEALED as canonical knowledge. Chapters 1.1–1.3 are canonical knowledge version 1.1; Chapter 1.4 is canonical knowledge version 1.1 after final structural and ownership validation.
+The five completed System 1 chapters are formally LOCKED & SEALED as canonical knowledge. Chapters 1.1–1.5 are canonical knowledge version 1.1 after structural, scientific-integrity, and ownership validation.
 
 ---
 
