@@ -73,6 +73,16 @@ The canonical Chapter 1.3 writing is contained in:
 
 It contains all 78 canonical Topics in the current biological ontology. The former 70-topic “Dynamics of Human Thinking” architecture is obsolete and is no longer the canonical Chapter 1.3. A full depth remediation pass has been completed across all 78 Topics. Validation record: `knowledge/system-01/chapter-1.3/CHAPTER_1.3_FINAL_VALIDATION.md`.
 
+### Chapter 1.4 — Sensation and Perception
+
+**Status: LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 1.1**
+
+The canonical Chapter 1.4 writing is contained in:
+
+`knowledge/system-01/chapter-1.4/CHAPTER_1.4.md`
+
+It contains all 62 canonical Topics. The two exact ownership collisions identified during the pre-write audit were surgically remediated in the wider architecture, and specialized cross-chapter boundaries were documented. Validation record: `knowledge/system-01/chapter-1.4/CHAPTER_1.4_FINAL_VALIDATION.md`.
+
 ## System 1 Ownership Remediation
 
 The cross-chapter ownership audit has been updated for the current **315-topic canonical System 1 state (Chapters 1.1–1.4)**. Material ownership collisions were remediated without renumbering or deleting canonical Topics. See:
@@ -98,31 +108,33 @@ The four completed System 1 chapters are formally LOCKED & SEALED as canonical k
 
 # Current Repository Shape
 
+```
 psycho-sales-llm/
-
 ├── README.md
-
+├── PROJECT_PROGRESS_AND_WRITER_HANDOFF.md
 ├── constitution/
-
 │   └── PERMANENT_KNOWLEDGE_OBJECT_WRITER_CONSTITUTION.md
-
+├── system_1/
+│   └── SYSTEM_1_SURGICAL_CANONICAL_ARCHITECTURE_v2.md
 └── knowledge/
-
     └── system-01/
+        ├── CROSS_CHAPTER_OWNERSHIP_REMEDIATION.md
+        ├── chapter-1.1/
+        │   ├── CHAPTER_1.1.md
+        │   └── CHAPTER_1.1_FINAL_VALIDATION.md
+        ├── chapter-1.2/
+        │   ├── CHAPTER_1.2.md
+        │   ├── CHAPTER_1.2_DEPTH_AUDIT.md
+        │   └── CHAPTER_1.2_FINAL_VALIDATION.md
+        ├── chapter-1.3/
+        │   ├── CHAPTER_1.3.md
+        │   └── CHAPTER_1.3_FINAL_VALIDATION.md
+        └── chapter-1.4/
+            ├── CHAPTER_1.4.md
+            └── CHAPTER_1.4_FINAL_VALIDATION.md
+```
 
-        └── chapter-1.1/
-
-            └── CHAPTER_1.1.md
-
-The repository is intentionally minimal, but the tree above reflects the current canonical state.
-
-**The constitution governs how knowledge is written.**
-
-**The canonical chapter contains what has been written.**
-
-**The README explains what the repository is and where its canonical sources live.**
-
----
+This structure is intentionally minimal and reflects the current canonical repository state.
 
 # Final Standard
 
