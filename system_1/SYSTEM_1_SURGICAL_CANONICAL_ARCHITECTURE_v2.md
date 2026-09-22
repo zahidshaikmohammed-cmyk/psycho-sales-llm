@@ -1922,7 +1922,9 @@ The v2 architecture contains:
 
 After canonical ownership resolution, relationship/application entries and duplicate aliases are excluded from the independent-owner count.
 
-### FINAL CANONICAL OWNER COUNT: 1,284
+### HISTORICAL INTERMEDIATE OWNER COUNT: 1,284
+
+This was an intermediate owner-count result from the surgical audit and is retained as historical audit data. It is superseded by the later generated canonical count below.
 
 This count is the count of independently owned canonical knowledge objects, not the raw number of visible bullets.
 
@@ -1947,7 +1949,7 @@ The difference is deliberate:
 | Missing-concept search resolved | PASS |
 | Duplicate scan | PASS after canonical redirects |
 | Cross-system collision scan | PASS |
-| Final canonical count generated | PASS — 1,267 |
+| Current canonical owner count generated | PASS — **1,267** |
 | Prose-writing gate | **OPEN** |
 
 ## 10. Scientific basis of the audit
