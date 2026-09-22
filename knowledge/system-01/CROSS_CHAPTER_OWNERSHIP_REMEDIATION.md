@@ -1,6 +1,6 @@
 # SYSTEM 1 — CROSS-CHAPTER OWNERSHIP REMEDIATION
 
-**Status:** FINAL SEMANTIC AUDIT COMPLETED — CHAPTERS 1.1–1.4 SEALED
+**Status:** FINAL SEMANTIC AUDIT COMPLETED — CHAPTERS 1.1–1.5 SEALED
 
 ## Scope
 
@@ -10,6 +10,7 @@ This audit covers the current completed canonical System 1 chapters:
 - Chapter 1.2 — Psychological Science, Research, Measurement, and Evidence — 118 Topics
 - Chapter 1.3 — Biological Bases of Human Behavior and Mental Life — 78 Topics
 - Chapter 1.4 — Sensation and Perception — 62 Topics
+- Chapter 1.5 — Consciousness, Sleep, and Altered States — 44 Topics
 
 The objective is to preserve meaningful relationships while ensuring that each concept has one authoritative home. Cross-chapter specialization is permitted when the scope, level, or function of the concept is materially different.
 
@@ -56,7 +57,7 @@ The following five Topics previously contained two complete Knowledge Objects an
 
 ## Current Structural Scope
 
-- Total canonical Topics: **315**
+- Total canonical Topics: **359**
 - Chapter 1.1: **57**
 - Chapter 1.2: **118**
 - Chapter 1.3: **78**
