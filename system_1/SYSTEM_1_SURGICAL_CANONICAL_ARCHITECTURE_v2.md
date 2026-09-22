@@ -1806,7 +1806,7 @@ The following duplicate-owner conflicts are resolved by canonical redirects:
 | Individual differences | 1.14 | other chapters use domain-specific manifestations |
 | Self-regulation | 1.12 | 1.1 and other chapters link to it |
 | Psychological flexibility | 1.18 | 1.1 links to the construct |
-| Self-awareness | 1.5 | 1.14 links to self-related manifestations |
+| Consciousness-specific self-awareness | 1.5 | 1.14 retains the broader Self-awareness construct |
 | Bounded rationality | 1.10 | 1.9 links to the decision construct |
 | Dynamic-systems perspective | 1.1 | development chapters link to it |
 | Emotional intelligence | 1.13 | intelligence chapter links to it as a cross-domain construct |
