@@ -25,4 +25,4 @@ The explanation and systems taxonomy was deepened for psychological continuity, 
 No sales-specific redefinition was introduced into System 1. Explanatory claims are separated from descriptive definitions, and biological subject matter is deferred to Chapter 1.3 where appropriate.
 
 ## Final determination
-Chapter 1.1 is structurally complete and semantically remediated. It is ready for formal lock/seal review after repository-wide metadata synchronization.
+Chapter 1.1 is structurally complete and semantically remediated. It is validated and synchronized with the current repository-wide canonical metadata.
