@@ -68,3 +68,57 @@ The following five Topics previously contained two complete Knowledge Objects an
 
 The chapters may be formally marked LOCKED & SEALED only after the final validation records for Chapters 1.1, 1.2, and 1.3 are present and the repository metadata points exclusively to the current canonical architecture.
 
+
+
+## Chapter 1.4 Cross-Chapter Ownership Remediation
+
+### 1.4 Continuity ↔ 1.15 Developmental continuity
+- **1.4 Continuity** owns continuity as a Gestalt perceptual-organization principle.
+- **1.15 Developmental continuity** owns continuity as a lifespan-development pattern.
+- Boundary: perceptual organization vs developmental change.
+- Remediation: Chapter 1.15 was disambiguated from **Continuity** to **Developmental continuity**. Chapter 1.4 remains the owner of the unqualified **Continuity** topic.
+
+### 1.4 Context effects ↔ 1.20 Treatment context effects
+- **1.4 Context effects** owns context-dependent effects on perceptual processing and perceptual experience.
+- **1.20 Treatment context effects** owns contextual influences specific to psychological treatment/intervention.
+- Boundary: perception vs intervention/treatment context.
+- Remediation: Chapter 1.20 was disambiguated from **Context effects** to **Treatment context effects**. Chapter 1.4 remains the owner of the unqualified **Context effects** topic.
+
+### 1.4 Interoceptive perception ↔ 1.3 Interoception
+- **1.3 Interoception** owns general sensing/representation of internal bodily state.
+- **1.4 Interoceptive perception** owns interoceptive information as a sensation/perception phenomenon.
+- Boundary: general interoceptive process vs sensation/perception treatment.
+- Status: retained as distinct specialized topics; no duplicate deletion.
+
+### 1.4 Individual differences in perception ↔ 1.1 / 1.14 individual differences
+- **1.1 Individual differences** owns the general construct.
+- **1.14 Individual differences** owns individual-difference/personality-level treatment within its chapter scope.
+- **1.4 Individual differences in perception** owns perception-specific variation.
+- Boundary: general individual variation vs perception-specific variation.
+- Status: retained as a specialized manifestation; it must not re-own the general construct.
+
+### 1.4 Visual pathways ↔ 1.3 Sensory pathways
+- **1.3 Sensory pathways** owns the general biological organization of sensory pathways.
+- **1.4 Visual pathways** owns visual pathway organization as it relates to visual perception.
+- Boundary: general biological pathways vs visual perceptual pathway organization.
+- Status: retained as specialization.
+
+### 1.4 Bottom-up processing / Top-down processing ↔ 1.6 Bottom-up attention / Top-down attention
+- **1.4 Bottom-up processing / Top-down processing** own perceptual processing directionality.
+- **1.6 Bottom-up attention / Top-down attention** own attentional selection/control directionality.
+- Boundary: perceptual processing vs attention.
+- Status: retained as distinct topics.
+
+### 1.4 Perceptual learning ↔ 1.7 Learning
+- **1.7 Learning** owns the general learning construct and mechanisms.
+- **1.4 Perceptual learning** owns learning-driven changes in perceptual discrimination, organization, or interpretation.
+- Boundary: general learning vs perception-specific learning.
+- Status: retained as a specialized manifestation; it must not duplicate the general learning account.
+
+### Chapter 1.4 audit gate
+- Exact topic-name collisions resolved: **2**
+- Chapter 1.4 canonical topic names changed: **0**
+- Existing sealed Chapters 1.1–1.3 changed: **0**
+- Existing sealed Knowledge Objects rewritten: **0**
+- Specialization overlaps requiring explicit boundaries documented: **5**
+- Chapter 1.4 is cleared for Knowledge Object writing, subject to the writing constitution and a final pre-write duplicate scan.
