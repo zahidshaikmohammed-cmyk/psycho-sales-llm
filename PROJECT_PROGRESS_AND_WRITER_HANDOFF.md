@@ -6,7 +6,7 @@
 
 **Critical rule:** This document is a handoff/control layer. It does not override the canonical architecture, constitution, locked chapters, or ownership records. When this document conflicts with a canonical source, the canonical source wins and the discrepancy must be investigated.
 
-**Current handoff state:** System 1 Chapter 1.4 — **SENSATION AND PERCEPTION** has been written and structurally validated. The next writer must not restart the project, rewrite completed chapters, or invent a new writing method.
+**Current handoff state:** System 1 Chapter 1.5 — **CONSCIOUSNESS, SLEEP, AND ALTERED STATES** has been written, validated, and sealed. The next writer must not restart the project, rewrite completed chapters, or invent a new writing method.
 
 ---
 
@@ -166,7 +166,7 @@ Important:
 
 **Canonical Topic count:** 62
 
-**Status:** WRITTEN + STRUCTURALLY VALIDATED
+**Status:** LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 1.1
 
 Canonical file:
 
@@ -1046,9 +1046,9 @@ Historical records may be preserved when useful, but their status must remain ex
 
 **Completed Topic count:** 57 + 118 + 78 + 62 = **315 canonical Topics**
 
-**Current next target:** Chapter 1.5
+**Current next target:** Chapter 1.6
 
-**Required action before Chapter 1.5 writing:** Fresh architecture + ownership + constitution audit.
+**Required action before Chapter 1.6 writing:** Fresh architecture + ownership + constitution audit.
 
 **Do not assume:** Chapter 1.5 title, Topic count, Topic names, or ownership boundaries.
 
@@ -1117,3 +1117,22 @@ Two exact canonical-name collisions were found and surgically disambiguated:
 No existing sealed Knowledge Objects were rewritten. No Chapter 1.1–1.4 Topic names were changed. No Topics were added or removed from Chapter 1.5.
 
 The next required step is a fresh full ownership audit of the remediated 44-topic Chapter 1.5 ontology, followed by Knowledge Object writing only after the ownership gate passes.
+
+
+## Chapter 1.5 — Final Canonical State
+
+**Canonical title:** Consciousness, Sleep, and Altered States
+
+**Canonical Topic count:** 44
+
+**Status:** LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 1.1
+
+Canonical file:
+
+`knowledge/system-01/chapter-1.5/CHAPTER_1.5.md`
+
+Validation file:
+
+`knowledge/system-01/chapter-1.5/CHAPTER_1.5_FINAL_VALIDATION.md`
+
+The chapter passed ontology, six-section structural, scientific-integrity, and ownership validation. Two exact ownership collisions were remediated before writing; no existing sealed Knowledge Objects were rewritten.
