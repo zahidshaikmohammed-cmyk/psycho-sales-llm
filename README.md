@@ -2,10 +2,11 @@
 
 **Branch:** `psycho-sales-canonical-depth-v2`  
 **Stage:** Encyclopedia-wide execution of the original **10-phase quality pipeline**  
-**Current rebuild:** **Chapter 1.4 — Sensation and Perception**  
+**Current rebuild:** **Chapter 1.6 — Attention and Information Selection**  
 **Chapter 1.4:** **62/62 Topics deeply rebuilt and audited**  
 **Chapter 1.5:** **44/44 Topics deeply rebuilt, structurally audited, semantically re-audited, ownership-audited, canonically synchronized, and SEALED 🔒**  
-**Next after Chapter 1.4:** **Chapter 1.5 — Consciousness, Sleep, and Altered States — SEALED 🔒**  
+**Chapter 1.6:** **40/40 Topics deeply rebuilt, semantically re-audited, ownership/boundary-audited, canonically synchronized, and SEALED 🔒**  
+**Next target:** **Chapter 1.7 — Learning and Behavior Change**  
 **Architecture:** **21 locked chapters / 1,364 chapter entries / 1,267 canonical construct-clinical owners**
 
 > **Simple on the surface. Deep underneath. Precise throughout.**
@@ -116,7 +117,7 @@ Remaining Chapters 1.10–1.21 are **not a new phase**. They are continued execu
 | 1.3 | 78 | V2 CERTIFIED / LOCKED & SEALED |
 | 1.4 | 62 | V2 DEEP REBUILT — AUDITED / RE-AUDITED |
 | 1.5 | 44 | V2 DEEP REBUILT — AUDITED / RE-AUDITED / SEALED 🔒 |
-| 1.6 | 40 | EXISTING CORPUS — NOT YET DEEP-REBUILT |
+| 1.6 | 40 | V2 DEEP REBUILT — AUDITED / RE-AUDITED / SEALED 🔒 |
 | 1.7 | 66 | EXISTING CORPUS — NOT YET DEEP-REBUILT |
 | 1.8 | 76 | EXISTING CORPUS — NOT YET DEEP-REBUILT |
 | 1.9 | 67 | EXISTING CORPUS — NOT YET DEEP-REBUILT* |
@@ -126,8 +127,9 @@ Remaining Chapters 1.10–1.21 are **not a new phase**. They are continued execu
 Current repository state:
 - Chapters 1.1–1.3: completed deep rebuilds.
 - Chapter 1.4: 62/62 Topics deeply rebuilt; canonical prose synchronized after structural, semantic, ownership, boundary, neighbor, duplication, and density audits. Final validation record is synchronized; CI-backed sealing remains the executable repository gate.
-- Chapters 1.5–1.21 remain in the existing corpus and are not represented as deep-rebuilt merely because older validation files exist.
-- Chapters 1.5–1.21 remain in the existing corpus and are not represented as deep-rebuilt merely because older validation files exist.
+- Chapter 1.5: 44/44 Topics deeply rebuilt, audited, re-audited, and sealed.
+- Chapter 1.6: 40/40 Topics deeply rebuilt, audited, re-audited, canonically synchronized, and sealed.
+- Chapters 1.7–1.21 remain in the existing corpus and are not represented as deep-rebuilt merely because older validation files exist.
 
 ## Chapter 1.9 reconciliation item
 
@@ -171,9 +173,9 @@ The graph is derived infrastructure. Do not describe all 1,361 edges as deep sem
 
 ## Exact next task
 
-### Chapter 1.4 — Sensation and Perception
+### Chapter 1.7 — Learning and Behavior Change
 
-**Architecture entries: 62**
+**Architecture entries: 66**
 
 Execution order:
 
@@ -191,7 +193,7 @@ Execution order:
 12. Create the V2 final validation record.
 13. Synchronize repository metadata.
 
-For Chapter 1.4, the working rebuild stream was `knowledge/system-01/chapter-1.4/CHAPTER_1.4_REBUILD_V2_WORKING.md`; after completion and audit, its content is synchronized into the canonical `knowledge/system-01/chapter-1.4/CHAPTER_1.4.md`, with a V2 validation record and repository-state update.
+Chapter 1.6 has now completed the same deep-rebuild pipeline: exact architecture preservation, topic-level semantic reconstruction, structural audit, depth audit, neighbor/ownership audit, duplication audit, scientific-integrity audit, final re-audit, validation record, and canonical synchronization.
 
 **Do not optimize for passing structural tests alone. The target is actual semantic completeness, not validator-shaped prose.**
 
@@ -212,7 +214,7 @@ A takeover agent should:
 11. Validate before sealing.
 12. Keep graph, metadata, validation, and prose synchronized.
 13. Never modify `main` unless explicitly authorized.
-14. Chapter 1.4 is complete, audited, re-audited, and canonically synchronized. Chapter 1.5 is complete, audited, re-audited, and sealed. The next deep-rebuild target is **Chapter 1.6 — Attention and Executive Control**.
+14. Chapters 1.4–1.6 are complete, audited, re-audited, and canonically synchronized; Chapter 1.5 and Chapter 1.6 are semantically sealed. The next deep-rebuild target is **Chapter 1.7 — Learning and Behavior Change**.
 
 ## Final destination
 
