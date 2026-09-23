@@ -98,9 +98,16 @@ Project-wide metadata was reconciled against the live repository.
 - README, roadmap, register, chapter metadata, and graph state now describe the same live project state.
 
 ### Phase 10 — Continue Chapter 1.9 onward
-**State:** BLOCKED UNTIL PHASES 1–9 ARE SUFFICIENTLY COMPLETE
+**State:** COMPLETE — LOCKED
 
-Every future chapter must use the upgraded quality standard from its first draft.
+Chapter 1.9 was created directly under Constitution v2 from the locked 67-topic architecture.
+
+**Completion evidence:** 67/67 Topics preserved exactly; 22,769 words; Core Understanding average 107, minimum 105, maximum 109; 0 duplicate Core blocks; 0 duplicate Key-Principle sets; 0 literal placeholders; 0 generic chapter-membership signatures; V2 validation record present; P0/P1/P2/P3 = 0; knowledge graph expanded to 608 Topic nodes, 9 chapter nodes, 617 total nodes, and 1,361 typed edges.
+
+### Phase 11 — Continue canonical expansion
+**State:** NEXT
+
+Future chapters must use Constitution v2, preserve the locked ontology, integrate with the knowledge graph, and pass semantic, evidence, relationship, retrieval, and anti-template gates before sealing.
 
 ## Operating rule
 
