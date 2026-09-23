@@ -1,1484 +1,1049 @@
 # CHAPTER 1.6 — ATTENTION AND INFORMATION SELECTION
 
-**Status:** LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 2.0nonical Topic count:** 40
+**Status:** V2 DEEP REBUILD — SEMANTICALLY RE-AUDITED — CANONICALLY SEALED 🔒  
+**Canonical Topic count:** 40
 
-This chapter preserves the exact 40 Topics defined by the locked System 1 architecture. The knowledge layer has been rewritten to meet the Permanent Knowledge Object Writer Constitution's adaptive-depth, scientific-integrity, ownership, and retrieval standards.
+This chapter preserves the exact 40 Topics defined by the locked System 1 architecture. Every Topic retains the permanent six-section schema while its substantive content is rebuilt for conceptual depth, mechanism discipline, ownership precision, neighbor distinction, uncertainty, and machine retrieval.
 
 ---
 
 ## 1.6.1 Attention
 
 ## 1. Purpose
-Establish attention as the broad psychological system for prioritizing information and mental activity when many possible inputs, representations, or actions compete for limited processing and control.
+Establish the broad psychological architecture of attention as the regulation of relative processing priority.
 
 ## 2. Definition
-Attention is the set of processes that regulate the relative priority given to information or mental activity for further processing, maintenance, selection, or control. It is not a single mental substance or a guarantee that unattended information receives no processing.
+Attention is a family of processes that changes which information, representations, or activities receive relatively greater processing priority for perception, thought, memory, or action. It is not a single capacity, a literal mental spotlight, or a guarantee that unattended information is absent from processing.
 
 ## 3. Core Understanding
-### Core architecture
-Attention operates as a family of related selection and control processes rather than one unitary mechanism. Priority can be assigned by location, objects, features, task rules, goals, expected events, stimulus properties, or internally generated thought.
-
-### Selection and enhancement
-Attending to information can increase its processing priority, improve detection or discrimination under appropriate conditions, and influence what enters subsequent stages of cognition. Selection is usually relative: increasing priority for one source can reduce the processing available to competitors without requiring their complete suppression.
-
-### Control and competition
-Attention is shaped by both internally guided goals and properties of the environment. These influences can cooperate or conflict. A salient event may attract attention, while an established task goal may resist that capture. Attention therefore reflects competition among sources of priority rather than a simple switch that is either on or off.
-
-### Capacity and limits
-Attention is constrained by task demands, timing, similarity among competing inputs, practice, automaticity, and current state. Performance costs often appear when multiple demands require overlapping processing or control.
-
-### Evidence status
-Attention is strongly supported as a measurable family of selection phenomena, but no single theory captures every attentional effect. Different experimental paradigms isolate different components of selection, orienting, control, and limited processing capacity.
+Attention is best understood as a control-and-selection problem created by competition. Priority can be shaped by current goals, learned task rules, stimulus properties, spatial location, objects, features, temporal expectations, and internally generated thought. These influences may cooperate or conflict: an unexpected event can attract processing while a task goal attempts to maintain another priority. Attention therefore describes changes in relative access and processing, not an all-or-none switch. Its effects depend on what must be selected, how much competing information is present, when competition occurs, and what the person is trying to accomplish. Different paradigms reveal different components, so no single laboratory measure exhausts the construct. Attention also interacts with perception, working memory, consciousness, and action without being reducible to any one of them. Strong evidence supports attentional selection and limited processing, while the exact architecture of resources, bottlenecks, and control remains theory-dependent.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+The parent construct organizes the chapter. Selective, focused, spatial, feature-based, object-based, endogenous, exogenous, and executive attention specify different dimensions of prioritization; orienting and selection describe operations; control and inhibition describe regulation; failures describe situations in which allocation does not meet task demands.
 
 ## 5. Boundaries
 ### Owns
-Owns the general psychological construct of attention and its broad architecture. It is the parent concept for the specialized attentional processes defined throughout Chapter 1.6.
+Owns the general construct and its broad functional architecture.
 
 ### Defers
-Selective attention, spatial attention, executive attention, attentional capture, task switching, mind-wandering, and specific attentional failures receive their own Topics. Perceptual processing is owned by Chapter 1.4; consciousness by Chapter 1.5; memory by Chapter 1.8; broader executive functions by Chapter 1.9.
+Defers specialized attentional forms, perceptual coding to 1.4, consciousness to 1.5, memory to 1.8, and broader executive functions to 1.9.
 
 ## 6. Key Principles
-- Attention changes relative processing priority; it is not an all-or-none gate.
-- Different attentional mechanisms solve different selection and control problems.
-- Attentional effects are task- and context-dependent.
+- Attention changes relative priority rather than simply turning processing on or off.
+- Attentional effects depend on task, timing, competition, and current goals.
+- No single attentional paradigm should be treated as a complete measure of attention.
 
 ## 1.6.2 Selective attention
 
 ## 1. Purpose
-Explain how attention prioritizes some information while reducing the relative processing of competing information.
+Explain prioritization of some information while competitors remain present.
 
 ## 2. Definition
-Selective attention is the prioritization of selected information, representations, or task-relevant activity over competing alternatives.
+Selective attention is the allocation of greater processing priority to selected information, representations, or task-relevant alternatives than to competing alternatives.
 
 ## 3. Core Understanding
-### Why selection is necessary
-At any moment, an organism can receive more information than can be processed with equal depth. Selective attention helps allocate processing toward what is currently relevant.
-
-### Forms of selection
-Selection can be organized around locations, objects, features, sensory streams, task rules, or internal goals. It can operate with overt orienting, without overt movement, or through changes in processing priority within a broader representation.
-
-### Relative rather than absolute filtering
-Selective attention does not imply that ignored information is always eliminated. Some unattended information can continue to influence behavior, particularly when it is strong, meaningful, highly practiced, or relevant to current goals. The amount and stage of unattended processing varies with conditions.
-
-### Competition
-Selection is often studied by placing targets and distractors in competition. Target–distractor similarity, timing, spatial separation, perceptual organization, and task demands can alter how effectively selection operates.
-
-### Evidence status
-Selective attention is supported by converging behavioral and neuroscientific evidence, but theories disagree about exactly where and how selection is implemented in all tasks.
+Selection is necessary because simultaneous inputs can exceed the capacity for equally detailed processing. Selection may be based on location, feature, object, modality, temporal position, or task relevance, and several selection criteria can operate together. Importantly, selection is usually relative rather than absolute. Ignored material can sometimes influence behavior, especially when it is salient, strongly learned, meaningful, or processed before selection becomes effective. The degree of filtering also depends on perceptual similarity, target–distractor timing, task difficulty, and available control. Selective attention therefore cannot be equated with a fixed filter that always operates at one processing stage. Early-selection and late-selection findings capture different conditions under which information becomes influential. The robust conclusion is that attention changes competitive priority; the disputed question is exactly how and when that change is implemented.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+This is the central selection operation from which spatial, feature, object, and executive variants can be specified. It differs from focused attention, which emphasizes concentration, and from attentional control, which emphasizes regulation of selection.
 
 ## 5. Boundaries
 ### Owns
-Owns selection among competing information as the general attentional operation.
+Owns selection among competing information as a general attentional operation.
 
 ### Defers
-Focused, spatial, feature-based, object-based, endogenous, exogenous, and executive attention are specialized forms. Bottom-up and top-down perceptual processing remain in Chapter 1.4.
+Defers specific selection dimensions, attentional control, inhibition, and perceptual processing mechanisms to their dedicated owners.
 
 ## 6. Key Principles
-- Selection prioritizes information without requiring complete elimination of distractors.
-- What is selected depends on goals, stimulus properties, and task structure.
-- Unattended processing can vary rather than being uniformly absent.
+- Selection is relative, not equivalent to total exclusion.
+- Selection can operate along multiple dimensions simultaneously.
+- Claims about where selection occurs require attention to task conditions and competing theories.
 
 ## 1.6.3 Focused attention
 
 ## 1. Purpose
-Define the relatively concentrated allocation of attention to a restricted target, activity, or information source.
+Define concentrated allocation toward a restricted target or activity.
 
 ## 2. Definition
 Focused attention is the concentration of attentional priority on a relatively restricted target, representation, or task while competing information receives less priority.
 
 ## 3. Core Understanding
-### Concentration
-Focused attention narrows the effective field of processing toward what is currently selected. The target may be a visual object, sound, thought, task rule, or other information source.
-
-### Selectivity and stability
-Focus is not synonymous with perfect exclusion of all distractors. Competing information can still be processed, and the strength of focus can change as task demands or environmental events change.
-
-### Relationship to other forms
-Focused attention describes concentration on a target. Sustained attention adds the requirement of maintaining engagement over time; selective attention emphasizes competition among alternatives; spatial attention emphasizes location; executive attention emphasizes conflict and control.
-
-### Boundary conditions
-Focus can be weakened by competing demands, fatigue, low task relevance, unexpected events, or internal distraction. Practice and automaticity can change how much deliberate attentional control is required.
+Focus describes concentration, not necessarily duration or perfect filtering. A person can focus on a conversation, object, internal thought, or task while some peripheral information continues to be processed. The effective breadth of focus can change with task demands, perceptual organization, expectations, and the number and similarity of competing items. Focus can be narrow when precise discrimination is required and broader when several related elements must be integrated. It is also dynamic: maintaining a target may require repeated selection and protection against distraction rather than a single act of choosing. Focused attention therefore overlaps with selective attention but adds a descriptive emphasis on restricted allocation. Sustained attention adds persistence over time, whereas executive attention adds conflict and goal-control demands. These distinctions prevent the common mistake of treating every strong attentional state as the same phenomenon.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+Focused attention specifies the concentration dimension of attention. It is narrower than general selective attention and does not by itself imply prolonged vigilance, task switching, or executive conflict.
 
 ## 5. Boundaries
 ### Owns
-Owns the general concept of concentrating attention on a restricted target or task.
+Owns concentration of attentional priority around a restricted target or task.
 
 ### Defers
-Sustained attention owns duration of engagement; selective attention owns general competition; executive attention owns conflict and control; mind-wandering owns internally generated attentional decoupling.
+Defers duration to sustained attention, competition to selective attention, and conflict regulation to executive attention.
 
 ## 6. Key Principles
-- Focused attention concentrates processing around a restricted target.
-- Focus can coexist with residual processing of competing information.
-- Focus differs from sustained duration and from executive conflict control.
+- Focus can be narrow without being perfectly exclusive.
+- Focus is not synonymous with sustained attention.
+- The appropriate breadth of focus depends on task structure and information requirements.
 
 ## 1.6.4 Sustained attention
 
 ## 1. Purpose
-Explain how attention is maintained across time when a task requires continued monitoring or engagement.
+Explain maintenance of relevant attentional engagement across time.
 
 ## 2. Definition
-Sustained attention is the capacity and process of maintaining relevant attentional engagement over an extended period.
+Sustained attention is the maintenance of adequate attentional engagement with task-relevant information over an extended period.
 
 ## 3. Core Understanding
-### Temporal maintenance
-Sustained attention differs from merely orienting to a target. The defining problem is maintaining adequate priority when relevant events may be infrequent, predictable, or separated by long intervals.
-
-### Performance over time
-Performance can change with time-on-task. Lapses may become more frequent under monotonous conditions, low event rates, fatigue, or insufficient engagement, although decline is not inevitable and varies across tasks and people.
-
-### Vigilance and sustained attention
-Vigilance tasks often require detection of rare or unpredictable signals. Sustained attention is the broader construct; vigilance failure is a specific breakdown in prolonged monitoring.
-
-### State and context
-Sleep loss, circadian conditions, arousal, motivation, task value, stimulus discriminability, and feedback can influence sustained-attention performance. These factors do not imply that every attentional lapse has the same cause.
-
-### Evidence status
-Sustained attention is well supported as a measurable performance domain, but the mechanisms behind time-on-task effects are heterogeneous and can include changes in arousal, motivation, strategy, and control.
+The defining problem is temporal maintenance: the person must continue monitoring or engaging even when relevant events are infrequent, repetitive, or separated by long intervals. Performance can fluctuate with time-on-task, monotony, sleep state, circadian timing, motivation, stimulus discriminability, and feedback. Vigilance tasks are one important measurement context, but sustained attention is broader than detection of rare signals. A lapse may reflect transient disengagement, changing arousal, strategy, task uncertainty, or competing thought; it should not automatically be attributed to one mechanism. Practice can also change the stability of performance without eliminating all lapses. Sustained attention is therefore a functional domain rather than a single resource. Research consistently shows that prolonged tasks can expose fluctuations in performance, while the causes and size of these fluctuations vary across people and task designs.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+Its defining feature is duration of engagement. Focused attention concerns concentration, whereas sustained attention asks whether relevant priority can be maintained across time; vigilance failure names a breakdown within prolonged monitoring.
 
 ## 5. Boundaries
 ### Owns
-Owns attention maintained over time and the conditions that characterize prolonged attentional engagement.
+Owns prolonged maintenance of attentional engagement.
 
 ### Defers
-Vigilance failure owns breakdown during prolonged monitoring. Sleep and circadian mechanisms are owned by Chapter 1.5; broader motivation and arousal constructs have their canonical owners elsewhere.
+Defers sleep and circadian mechanisms to 1.5 and broader motivation, arousal, and fatigue constructs to their canonical owners.
 
 ## 6. Key Principles
-- Sustained attention concerns maintaining engagement across time.
-- Time-on-task effects are influenced by task and state conditions.
-- Vigilance failure is a specific failure within prolonged monitoring, not a synonym for sustained attention.
+- Time-on-task can alter performance without implying one universal fatigue mechanism.
+- Vigilance is a specific task context within sustained attention.
+- Individual lapses should not be treated as having a single cause.
 
 ## 1.6.5 Divided attention
 
 ## 1. Purpose
-Explain what happens when processing must be allocated across two or more concurrent demands.
+Explain allocation across concurrent demands.
 
 ## 2. Definition
-Divided attention refers to allocating attentional processing across multiple tasks, information streams, or goals within the same period.
+Divided attention refers to the allocation of attentional processing across two or more concurrent tasks, information streams, or goals.
 
 ## 3. Core Understanding
-### Concurrent demands
-Divided-attention situations require more than one activity to receive processing priority. The demands may occur in different sensory modalities or require overlapping cognitive operations.
-
-### Interference
-Performance often worsens when tasks compete for common processing operations, response channels, working-memory representations, or control. The size of interference depends on task similarity, timing, practice, automaticity, and modality.
-
-### Not all dual-task performance is equal
-Some activities can be combined with relatively small costs when they use partly independent processes or one has become highly practiced. Large costs occur when both tasks require the same limited operation at the same time.
-
-### Apparent multitasking
-People may experience themselves as performing tasks simultaneously even when attention is rapidly alternating between them. This distinction matters because switching itself can impose costs.
-
-### Evidence status
-Dual-task paradigms provide strong evidence that concurrent demands can interfere, but the underlying resource architecture is not adequately described by a single universal pool.
+Concurrent demands create interference when they require overlapping representations, control operations, response channels, or timing. The size of dual-task costs is therefore not constant: two tasks can sometimes coexist with relatively small interference when their processing requirements are sufficiently distinct or one task is highly practiced. Subjective experience of doing two things at once also does not establish that both are receiving equal parallel processing; rapid alternation can produce a sense of simultaneity. Divided-attention research consequently examines performance trade-offs rather than assuming a single general pool of attention. Task similarity, temporal overlap, stimulus-response compatibility, modality, practice, and task priority all influence the result. Automaticity can reduce some costs, but practice does not make all concurrent demands independent. The useful construct is the allocation problem created by concurrency, not a claim that the mind contains a fixed quantity of attention.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+Divided attention concerns concurrent allocation. Dual-task interference is the measurable performance cost, while task switching concerns changes between task sets and multitasking describes broader real-world multiple-task behavior.
 
 ## 5. Boundaries
 ### Owns
-Owns attentional allocation across concurrent demands.
+Owns attentional allocation across simultaneous demands.
 
 ### Defers
-Dual-task interference owns the measurable performance consequence; multitasking owns broader multiple-task behavior; task switching owns changes between task sets.
+Defers specific interference measures, task-set switching, and broader executive control.
 
 ## 6. Key Principles
-- Concurrent demands can compete for overlapping processing mechanisms.
-- Interference depends on task compatibility and practice.
-- Subjective simultaneity does not prove equal parallel processing.
+- Concurrent tasks interfere most when their processing requirements overlap.
+- Practice can reduce but does not universally remove dual-task costs.
+- Subjective simultaneity is not evidence of equal parallel processing.
 
 ## 1.6.6 Alternating attention
 
 ## 1. Purpose
-Explain the attentional process of moving focus between different targets, tasks, or information streams.
+Explain movement of attentional priority between targets or demands.
 
 ## 2. Definition
-Alternating attention is the deliberate or task-required shifting of attentional priority between different targets, activities, or information sources.
+Alternating attention is the shifting of attentional priority from one target, information source, or activity to another.
 
 ## 3. Core Understanding
-### Alternation
-Alternation requires attention to move away from one current target and become engaged with another. It can occur between sensory sources, objects, subtasks, or goals.
-
-### Disengagement and reorientation
-Effective alternation involves releasing the previous priority, establishing the new target, and applying the relevant task or response rules. These operations can occur quickly but are not cost-free.
-
-### Switching costs
-When alternation changes the task set as well as the attentional target, performance can suffer from task-switching costs. Merely moving attention between objects does not necessarily constitute a full task switch.
-
-### Flexibility
-Alternation supports adaptive behavior when task demands change. Excessive or unnecessary switching can reduce efficiency, especially when tasks compete for the same processing operations.
+Alternation involves releasing an existing priority and establishing another. It can occur between objects within the same task or between tasks that require different rules. The latter is more demanding because the person may need to retrieve or configure a new task set as well as redirect attention. Switching costs therefore should not be attributed to every attentional shift. Alternation can be adaptive when environmental demands change, but unnecessary switching can create repeated reorientation and control costs. The efficiency of alternation depends on preparation, cue clarity, similarity between tasks, working-memory demands, and whether the old task set remains active. Alternating attention is consequently best understood as a transition process, not simply as “multitasking.” It captures the movement of priority itself while leaving broader cognitive flexibility and task-set reconfiguration to related constructs.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+It bridges attentional shifting and task switching. A change of attentional target is sufficient for alternation; a change in task rules creates additional task-switching demands.
 
 ## 5. Boundaries
 ### Owns
-Owns alternation of attentional focus between targets or demands.
+Owns shifts of attentional focus between targets or demands.
 
 ### Defers
-Task switching owns changes in task rules or task sets. Attentional disengagement owns release from the current target; executive control owns broader cognitive flexibility.
+Defers task-set reconfiguration to task switching and broader flexibility to executive-function domains.
 
 ## 6. Key Principles
-- Alternation requires release from one focus and engagement with another.
-- Attention can alternate without changing the task rule.
-- When the task set changes, task-switching mechanisms add further demands.
+- Alternation can occur without a change of task rule.
+- Switching costs depend partly on whether task sets must be reconfigured.
+- Effective alternation requires both release and re-engagement.
 
 ## 1.6.7 Spatial attention
 
 ## 1. Purpose
-Explain how attention can prioritize information according to where it is located.
+Explain selection organized by location.
 
 ## 2. Definition
-Spatial attention is the allocation of processing priority to information at particular locations in perceptual space, whether or not the eyes or other sense organs move toward that location.
+Spatial attention is the allocation of processing priority to information at particular locations in perceptual space, with or without an accompanying orienting movement.
 
 ## 3. Core Understanding
-### Spatial selection
-Spatial attention can increase priority for information appearing at an attended location and reduce the relative priority of competing locations.
-
-### Overt and covert allocation
-Attention can accompany eye or head movements, but it can also shift covertly while gaze remains elsewhere. This separation shows that attentional priority is not identical to sensory orientation.
-
-### Cues
-Spatial cues can direct attention toward likely target locations. Valid cues can improve performance, whereas invalid cues can create costs because attention must be reoriented.
-
-### Limits
-Spatial attention is not necessarily a rigid spotlight. Selection can be shaped by objects, features, task goals, and the structure of the visual scene.
+Spatial selection can increase the efficiency or speed of processing for information at an attended location and create costs when attention must be redirected to an unexpected location. Covert shifts show that attentional priority can move independently of gaze, while overt orienting couples selection with sensory sampling. Spatial attention is not necessarily a rigid spotlight: attention can be shaped by object boundaries, features, task goals, and scene structure. Spatial cueing experiments demonstrate that valid information about likely target location can change performance, but the magnitude and interpretation of cueing effects depend on cue validity, timing, target difficulty, and competing locations. Spatial attention therefore describes location-based priority rather than the entire visual system. It is also distinct from visual pathways, which concern biological information transmission rather than psychological allocation.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+Spatial attention is one dimension of selective attention. It supplies the location component to overt/covert orienting and spatial cueing while remaining distinct from visual perception and visual pathways in 1.4.
 
 ## 5. Boundaries
 ### Owns
-Owns attentional allocation organized by spatial location.
+Owns location-based attentional prioritization.
 
 ### Defers
-Overt and covert attention own movement-linked and movement-independent forms. Spatial cueing owns cue-based spatial orienting. Visual pathways and visual perception are owned by Chapter 1.4.
+Defers visual coding and pathways to 1.4 and movement mechanics to biological systems.
 
 ## 6. Key Principles
-- Attention can prioritize locations independently of overt gaze.
-- Spatial selection can be voluntary or stimulus-driven.
-- Spatial attention is broader than spatial cueing and distinct from visual pathways.
+- Spatial attention can shift without eye movement.
+- Location is one selection dimension among several.
+- Spatial cueing effects depend on cue validity and timing.
 
 ## 1.6.8 Feature-based attention
 
 ## 1. Purpose
-Explain how attention can prioritize information because of a relevant feature such as color, orientation, motion, or another discriminative property.
+Explain selection according to stimulus features.
 
 ## 2. Definition
-Feature-based attention is the selective allocation of processing priority to information sharing a task-relevant feature value.
+Feature-based attention is the allocation of greater attentional priority to information sharing a task-relevant feature such as color, orientation, motion, or another discriminative property.
 
 ## 3. Core Understanding
-### Feature selection
-Instead of selecting only a location, attention can favor a feature such as a particular color or orientation. This can influence processing of multiple stimuli that share the selected feature.
-
-### Goal dependence
-Feature selection is strongly shaped by task goals and current attentional settings. A feature becomes more useful as a selection criterion when it distinguishes targets from distractors.
-
-### Interaction with perception
-Feature-based attention operates on information delivered by perceptual systems but is not identical to the perceptual coding of the feature itself. Attention changes priority; it does not create the underlying sensory feature.
-
-### Limits
-Feature selection can become inefficient when target and distractor features are highly similar, when the task changes unexpectedly, or when multiple feature dimensions compete.
+Feature-based selection can influence multiple items that share a relevant property even when they occupy different locations. It is especially useful when the target can be characterized by a feature before its exact location is known. The effect of feature selection depends on task goals, feature discriminability, distractor similarity, and the current attentional set. Attending to a feature is not the same as perceptually encoding that feature: sensory systems provide feature information, while attention changes which available information receives priority. Feature-based selection can also interact with spatial and object-based selection, so the mind need not choose only one dimension. When task rules change, a previously useful feature bias can become counterproductive. The construct therefore describes goal-relevant prioritization of feature information rather than a specialized perceptual receptor or feature detector.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+It provides the feature dimension of selection and complements spatial and object-based attention. It should not absorb perceptual coding of color, motion, or orientation, which belongs to 1.4.
 
 ## 5. Boundaries
 ### Owns
-Owns attentional selection organized by stimulus features.
+Owns attentional selection by stimulus feature.
 
 ### Defers
-Perceptual coding and color, motion, and orientation perception are owned by Chapter 1.4. Feature integration owns binding of features into object representations.
+Defers sensory feature coding and feature integration mechanisms to perception and biological systems.
 
 ## 6. Key Principles
-- Attention can prioritize a feature across multiple locations.
-- Feature selection depends on task goals and context.
-- Attending to a feature is not the same as perceptually encoding the feature.
+- Feature selection can operate across locations.
+- Attentional bias toward a feature is not identical to sensing the feature.
+- Feature relevance is task- and context-dependent.
 
 ## 1.6.9 Object-based attention
 
 ## 1. Purpose
-Explain how attentional selection can be organized around perceived objects rather than only locations or isolated features.
+Explain attentional organization around perceived objects.
 
 ## 2. Definition
-Object-based attention is the prioritization of information according to its membership in a perceived object or object representation.
+Object-based attention is the allocation of processing priority according to an object's representation or membership rather than location or isolated feature alone.
 
 ## 3. Core Understanding
-### Object organization
-When a scene contains multiple objects, attention can be distributed within an attended object or shifted between objects. Object boundaries can therefore influence attentional selection.
-
-### Beyond location
-Two stimuli at similar spatial locations can receive different priority when they belong to different objects, while separated features within the same object can sometimes benefit from shared attentional selection.
-
-### Interaction with perception
-Object-based effects depend partly on how the perceptual system organizes the scene. Attention does not independently define what an object is; it operates on representations that perception provides.
-
-### Boundary conditions
-Object-based effects vary with object structure, task demands, spatial arrangement, and the strength of perceptual grouping.
+When several stimuli form coherent objects, attending to one part can sometimes facilitate processing of other information belonging to the same object. This suggests that perceptual organization can constrain attentional selection. Object-based effects do not imply that objects receive indivisible packets of attention; selection can still vary within objects and interact with spatial distance, feature relevance, task demands, and object structure. The phenomenon is therefore best understood as an interaction between representation and selection. Because objecthood is partly supplied by perception, object-based attention depends on perceptual organization without being reducible to it. Recognizing an object and attending to an object are also different operations: recognition concerns what the object is, while object-based attention concerns how its information receives priority.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+Object-based attention connects attentional selection with perceptual object representations. It complements spatial and feature-based attention and depends partly on perceptual organization from 1.4.
 
 ## 5. Boundaries
 ### Owns
-Owns attentional selection organized around perceived objects.
+Owns attentional selection organized around object representations.
 
 ### Defers
-Object recognition and perceptual organization are owned by Chapter 1.4; feature-based and spatial attention own alternative selection dimensions.
+Defers perceptual grouping and object recognition to 1.4.
 
 ## 6. Key Principles
-- Object structure can organize attentional priority.
-- Object-based effects interact with perceptual organization.
-- Object-based attention is not the same as recognizing the object.
+- Object structure can influence attentional priority.
+- Object-based selection is not necessarily all-or-none within an object.
+- Object recognition and object-based attention are distinct operations.
 
 ## 1.6.10 Executive attention
 
 ## 1. Purpose
-Explain the attentional processes involved when goals, conflict, monitoring, and controlled selection must be maintained.
+Explain attentional regulation when goals and conflict must be maintained.
 
 ## 2. Definition
-Executive attention is the allocation and regulation of attention when task goals must be maintained, competing responses resolved, or conflicting information controlled.
+Executive attention is attentional allocation and regulation under conditions requiring goal maintenance, conflict resolution, monitoring, or controlled selection.
 
 ## 3. Core Understanding
-### Control under conflict
-Executive attention becomes especially relevant when several responses or representations compete and automatic processing does not reliably produce the intended response.
-
-### Goal maintenance
-Maintaining the current task rule helps determine what should receive attention and which information should be resisted. This makes executive attention closely related to, but not identical with, broader executive function.
-
-### Conflict monitoring
-Tasks that place incompatible responses or interpretations in competition can reveal the need for control. Control may then alter attention or response selection.
-
-### Evidence status
-Executive attention is supported by behavioral and neuroscientific research, but its exact boundaries with executive function, cognitive control, and inhibitory control depend on the theoretical framework used.
+Executive attention becomes especially important when automatic or salient responses compete with a current task goal. Maintaining the relevant rule biases what is selected; monitoring conflict can indicate that stronger control is required; subsequent control can alter attention or response selection. This makes executive attention closely related to cognitive control and executive function, but it is not identical to the whole executive system. The term is useful when the phenomenon of interest is specifically the attentional component of goal-directed control. Its boundaries vary among theoretical frameworks, and laboratory tasks often combine several operations at once. Consequently, performance on a conflict task should not be interpreted as a pure measure of one executive mechanism. Executive attention is best treated as a functional domain connecting selection with goal maintenance and conflict management.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+It is the control-oriented branch of the chapter. It overlaps with attentional control and task switching, while broader executive functions remain in 1.9.
 
 ## 5. Boundaries
 ### Owns
-Owns the attentional component of goal maintenance, conflict management, and controlled selection.
+Owns the attentional component of goal maintenance and conflict regulation.
 
 ### Defers
-Broader executive functions and cognitive control are owned by Chapter 1.9. Attentional inhibition owns the attentional suppression component; task switching owns changes in task sets.
+Defers broad executive function, working memory, and general cognitive control to 1.9.
 
 ## 6. Key Principles
-- Executive attention manages attention under goal conflict and control demands.
-- It is an attentional construct within the broader family of executive functions.
-- Its exact theoretical boundaries vary across models.
+- Executive attention is especially relevant under competition and conflict.
+- It is narrower than the full executive-function system.
+- Conflict-task performance usually reflects multiple processes.
 
 ## 1.6.11 Endogenous attention
 
 ## 1. Purpose
-Explain attention that is deliberately guided by internal goals, expectations, or intentions.
+Explain internally guided allocation based on goals or expectations.
 
 ## 2. Definition
-Endogenous attention is goal-directed allocation of attentional priority based on internally maintained intentions, expectations, or task instructions.
+Endogenous attention is attentional orienting guided by internally maintained goals, intentions, expectations, or task instructions.
 
 ## 3. Core Understanding
-### Voluntary guidance
-Endogenous attention allows a person to prepare for information expected to matter. A cue, rule, or current goal can establish where or what attention should prioritize.
-
-### Predictive selection
-When attention is directed toward an expected location or feature, processing can become more efficient if the expectation is useful. Benefits are not guaranteed when expectations are inaccurate.
-
-### Interaction with stimulus-driven input
-Endogenous control operates alongside externally triggered attention. A goal can protect against distraction, but an unexpected event can still compete for priority.
-
-### Evidence status
-Endogenous orienting is well established in cueing and attention paradigms, although its exact neural implementation and relationship to expectation vary across tasks.
+A person can prepare attention for a likely location, feature, or event before the target appears. Such preparation can improve processing when the expectation is valid and useful, but benefits are not guaranteed: incorrect expectations can bias selection toward the wrong information. Endogenous guidance can persist over time and can interact with external events that compete for priority. It is therefore not equivalent to conscious effort on every trial; learned task settings can establish goal-directed biases with varying degrees of explicit awareness. Cueing paradigms are a common method for measuring endogenous orienting, but the interpretation depends on cue validity, timing, and whether cues themselves attract attention. Endogenous attention is thus defined by the source of guidance—internal goals or expectations—rather than by a particular sensory modality.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+It is the internally guided counterpart of exogenous attention. It also contributes to attentional set and top-down attention but is narrower because it emphasizes the source of orienting.
 
 ## 5. Boundaries
 ### Owns
-Owns internally guided attentional allocation.
+Owns goal- and expectation-guided attentional orienting.
 
 ### Defers
-Exogenous attention owns externally triggered orienting. Top-down attention is the broader goal-guided attentional process; attentional set owns prepared selection biases.
+Defers exogenous orienting, attentional set, and broader top-down control to their specific owners.
 
 ## 6. Key Principles
-- Endogenous attention is guided by internal goals and expectations.
-- Goal-guided attention can improve selection without guaranteeing correct selection.
-- It operates alongside externally triggered attentional influences.
+- Internal guidance can improve selection when expectations are useful.
+- Endogenous guidance can be wrong and therefore costly.
+- Goal-directed does not mean effortful or consciously deliberated on every occasion.
 
 ## 1.6.12 Exogenous attention
 
 ## 1. Purpose
-Explain attention that is triggered by external events rather than deliberately selected by a current goal.
+Explain externally triggered shifts in attentional priority.
 
 ## 2. Definition
-Exogenous attention is attentional orienting elicited by an external event or stimulus property that changes processing priority with relatively little deliberate intention.
+Exogenous attention is attentional orienting initiated by external events or stimulus changes rather than by a currently selected internal goal.
 
 ## 3. Core Understanding
-### External triggering
-Sudden, unexpected, or task-relevant events can shift attention. Such shifts can occur rapidly because organisms must remain responsive to environmental change.
-
-### Benefit and cost
-An externally triggered shift can improve detection of an important event, but it can also interrupt an ongoing task when the event is irrelevant.
-
-### Context matters
-External stimulation does not automatically determine attention. Current goals, attentional settings, stimulus timing, and the relation between the event and the task influence whether and how strongly attention is redirected.
-
-### Relationship to capture
-Exogenous attention describes the source of attentional guidance. Attentional capture describes the resulting priority shift as a selection phenomenon; the concepts overlap but are not interchangeable.
+Sudden onset, movement, unexpected change, or other environmental events can rapidly alter attentional priority. Such reorienting is adaptive because important events can occur outside the current focus, but the same mechanism can interrupt ongoing behavior when the event is irrelevant. Exogenous orienting is not completely independent of goals: current task settings, stimulus relevance, timing, and prior learning can alter the magnitude and persistence of the shift. The distinction from attentional capture is useful because exogenous attention identifies an externally triggered source of guidance, whereas capture emphasizes the competitive priority shift produced by an event. External triggering therefore does not imply inevitable distraction or complete loss of control.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+It is the externally guided counterpart of endogenous attention and contributes to attentional capture. It should not be collapsed into salience, because stimulus prominence and actual attentional selection are related but distinct.
 
 ## 5. Boundaries
 ### Owns
 Owns externally triggered attentional orienting.
 
 ### Defers
-Endogenous attention owns internally guided orienting; attentional capture owns the selection phenomenon; salience owns relative stimulus prominence.
+Defers endogenous guidance, capture, and salience to their dedicated constructs.
 
 ## 6. Key Principles
-- External events can rapidly alter attentional priority.
-- Stimulus-driven orienting is not completely independent of goals and context.
-- Exogenous attention and attentional capture overlap but are not identical.
+- External events can rapidly redirect attention.
+- Exogenous effects remain sensitive to context and task settings.
+- Externally triggered orienting is not synonymous with distraction.
 
 ## 1.6.13 Overt attention
 
 ## 1. Purpose
-Explain attentional selection when attention is accompanied by an observable orienting movement.
+Explain attention coupled with observable orienting movements.
 
 ## 2. Definition
-Overt attention is attentional allocation accompanied by an overt movement of a sensory organ or body orientation, such as an eye movement toward a target.
+Overt attention is attentional allocation accompanied by an observable orienting movement, such as an eye, head, or body movement toward selected information.
 
 ## 3. Core Understanding
-### Coupling attention with sampling
-Overt orienting changes the sensory information being sampled. In vision, moving the eyes can place a selected object at a region of higher retinal resolution.
-
-### Attention before movement
-Attentional selection and overt movement are related but not identical. Attention can prepare or accompany a movement, and attention can sometimes be allocated covertly without moving the eyes.
-
-### Functional value
-Overt orienting allows the organism to acquire better information from selected locations and can coordinate perception with action.
-
-### Boundary
-The presence of an eye movement does not prove that the movement itself caused the attentional selection. The two processes can interact in both directions.
+Overt orienting changes the information sampled by the sensory system. In vision, an eye movement can place a selected object in a region of greater retinal resolution, so attention and sensory acquisition can reinforce one another. However, movement and attentional selection are not identical: attention can precede a movement, accompany it, or sometimes be allocated without moving the eyes. This means an observed eye movement cannot by itself establish why an item was selected. Overt attention is valuable because it coordinates internal priority with active information sampling, linking attention to action without reducing attention to motor behavior. Its study therefore requires distinguishing the psychological allocation of priority from the biomechanics of orienting.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+It is defined by coupling attentional priority with overt movement. Covert attention provides the complementary dissociation; spatial attention identifies the location dimension shared by both.
 
 ## 5. Boundaries
 ### Owns
-Owns attention expressed together with overt orienting movements.
+Owns movement-linked attentional allocation.
 
 ### Defers
-Covert attention owns attention without corresponding overt movement. Eye-movement mechanics and visual pathways are owned by Chapter 1.4 and biological systems chapters.
+Defers eye-movement mechanics, visual pathways, and covert selection to their canonical owners.
 
 ## 6. Key Principles
-- Overt attention couples attentional priority with observable orienting movement.
-- Movement and attention are related but separable.
-- Overt orienting changes the sensory information being sampled.
+- Overt orienting changes sensory sampling.
+- Movement and attention are functionally coupled but separable.
+- An orienting movement does not by itself reveal the cause of selection.
 
 ## 1.6.14 Covert attention
 
 ## 1. Purpose
-Explain attentional selection that changes processing priority without an accompanying overt orienting movement.
+Explain attentional shifts without corresponding overt movement.
 
 ## 2. Definition
-Covert attention is a shift in attentional priority that occurs without a corresponding observable orienting movement.
+Covert attention is allocation of attentional priority without an accompanying overt orienting movement.
 
 ## 3. Core Understanding
-### Dissociation from gaze
-A person can attend to a peripheral location while continuing to look elsewhere. This demonstrates that attentional selection and eye position are functionally related but separable.
-
-### Spatial and nonspatial use
-Covert attention is often studied spatially, but covert selection can also concern features, objects, or information streams.
-
-### Functional role
-Covert orienting allows rapid preparation for information that may become relevant before an overt movement is made.
-
-### Limits
-Covert attention does not imply that the attended information becomes fully processed independently of all other limits. Sensory quality, task demands, and competing information continue to matter.
+Covert selection demonstrates that attentional priority can change while gaze or another orienting organ remains fixed. In visual research, a person can prioritize a peripheral location before moving the eyes there, allowing attention to prepare processing in advance. Covert attention can also operate over features, objects, or information streams rather than only locations. The absence of movement does not mean the attended information is processed without limits; sensory quality, competition, task demands, and temporal uncertainty still constrain performance. Covert attention is therefore a functional dissociation, not a claim that attention is purely internal or independent of action. It is particularly important for separating attentional allocation from the mechanics of sensory sampling.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+It complements overt attention and often provides the experimental demonstration that attention and gaze are separable. Spatial attention is broader because it includes both covert and overt allocation by location.
 
 ## 5. Boundaries
 ### Owns
-Owns attentional allocation without an accompanying overt orienting movement.
+Owns attention without corresponding overt orienting movement.
 
 ### Defers
-Overt attention owns movement-linked orienting. Spatial attention owns the broader location-based selection construct.
+Defers overt orienting, spatial selection, and sensory-motor mechanics.
 
 ## 6. Key Principles
-- Attention can shift without moving the eyes or another sensory organ.
-- Covert orienting can prepare processing before overt movement.
-- Covert attention does not remove other processing limits.
+- Attention can move before the eyes move.
+- Covert selection remains constrained by perceptual and task limits.
+- Covert does not mean unconscious.
 
 ## 1.6.15 Orienting
 
 ## 1. Purpose
-Explain the general process by which attentional priority is directed toward potentially relevant information.
+Define the general process of directing attentional priority toward potentially relevant information.
 
 ## 2. Definition
-Orienting is the process of directing attentional priority toward a location, object, feature, sensory source, or other potentially relevant information.
+Orienting is the process of directing attentional priority toward a location, object, feature, sensory source, event, or internally generated target.
 
 ## 3. Core Understanding
-### Components
-Orienting can involve disengaging from the current focus, shifting priority, and engaging the new target. The relative contribution of these components depends on the task.
-
-### Sources of guidance
-Orienting can be internally guided by goals and expectations or externally triggered by environmental events. It can also occur with or without overt movement.
-
-### Function
-Orienting helps allocate limited processing to information that may become relevant before a full decision or action is made.
-
-### Evidence
-Orienting is studied through cueing, reaction-time, detection, search, and eye-movement paradigms. Different measures capture different aspects of the process.
+Orienting can be described as a transition with partially separable components: attention may disengage from its current target, shift toward a new candidate, and engage the new information. The relative importance of these components depends on the task. Orienting can be guided by goals or triggered by external events, and it can occur with or without overt movement. Cueing, detection, reaction-time, visual-search, and eye-movement paradigms measure different parts of the process rather than a single universal orienting capacity. Orienting is therefore broader than spatial cueing and narrower than attention as a whole. It answers the question of how priority is directed, not what the selected information ultimately means or how a response is chosen.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+Orienting connects the chapter's source-of-guidance and movement distinctions. Endogenous/exogenous identify how priority is initiated; overt/covert identify whether movement accompanies it; disengagement identifies release from the previous target.
 
 ## 5. Boundaries
 ### Owns
-Owns general attentional orienting as a process of directing priority.
+Owns the general directional process of attentional allocation.
 
 ### Defers
-Endogenous and exogenous attention own major sources of orienting; overt and covert attention own movement-linked distinctions; spatial cueing owns cue-based spatial orienting.
+Defers source-specific guidance, overt/covert forms, and downstream selection or response processes.
 
 ## 6. Key Principles
-- Orienting directs attention toward potentially relevant information.
-- It can be internally guided or externally triggered.
 - Orienting can involve disengagement, shifting, and engagement.
+- It can be internally guided or externally triggered.
+- Different paradigms isolate different orienting components.
 
 ## 1.6.16 Attentional selection
 
 ## 1. Purpose
-Provide the general mechanism-level account of how attention determines which information receives relatively greater processing priority.
+Define selection as the core operation that changes relative processing priority.
 
 ## 2. Definition
-Attentional selection is the operation by which attention assigns greater processing priority to some information, representations, or task-relevant alternatives than to competing alternatives.
+Attentional selection is the operation by which some information or representations receive greater processing priority than competing alternatives.
 
 ## 3. Core Understanding
-### Selection as prioritization
-Selection does not require complete deletion of distractors. It changes relative processing priority so that selected information has a greater opportunity to guide perception, memory, decision, or action.
-
-### Dimensions of selection
-Selection can operate by space, feature, object, sensory modality, task, temporal position, or internal goal. Multiple dimensions can operate together.
-
-### Timing
-Selection can be influenced by what occurs before a target, by the timing of competing events, and by the need to maintain or update task priorities.
-
-### Mechanistic theories
-Theories differ over where selection occurs in processing and how early or late attentional effects should be considered. Modern accounts generally allow selection to be distributed across stages rather than requiring one universal bottleneck.
-
-### Evidence status
-The existence of selective prioritization is strongly established; the exact architecture of selection remains theory-dependent.
+Selection can be organized by space, features, objects, sensory modality, temporal position, task rules, or internal goals. These dimensions can interact, so selecting one location may also favor the object or feature contained there. Selection is usually graded rather than equivalent to deletion: a distractor can receive reduced priority and still influence later behavior. Timing is also critical. Competition occurring before, during, or after target selection can produce different patterns, which is why theories differ about early versus late selection. Contemporary evidence supports multiple selection effects without requiring one universal bottleneck or a single anatomical stage. The concept is therefore an operation-level description: attention changes relative priority, while the exact mechanisms producing that change depend on the task and theoretical model.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+This is the mechanism-level counterpart to selective attention. Selective attention describes the broader phenomenon of prioritizing information; attentional selection names the operation that produces relative priority.
 
 ## 5. Boundaries
 ### Owns
-Owns selection as the general attentional operation.
+Owns the general selection operation.
 
 ### Defers
-Specific selection dimensions have dedicated Topics. Broader perception, working memory, and decision processes remain owned elsewhere.
+Defers specific selection dimensions and broader perceptual, memory, and decision operations.
 
 ## 6. Key Principles
-- Selection changes relative processing priority among competitors.
-- Selection can operate across space, features, objects, time, and goals.
-- No single selection stage explains every attentional effect.
+- Selection changes relative priority rather than necessarily deleting information.
+- Selection can be multidimensional.
+- The timing and mechanism of selection are empirical questions, not assumptions.
 
 ## 1.6.17 Attentional control
 
 ## 1. Purpose
-Explain how attention is regulated so that allocation remains aligned with current goals despite competition and distraction.
+Explain regulation of attention so that allocation remains aligned with current goals.
 
 ## 2. Definition
-Attentional control is the regulation of attentional allocation in accordance with task goals, priorities, and changing demands.
+Attentional control is the regulation of attentional allocation in response to goals, task demands, competition, and changing priorities.
 
 ## 3. Core Understanding
-### Maintaining priorities
-Control helps sustain the attentional setting that a task requires. It can bias selection toward relevant information and away from competing information.
-
-### Flexible adjustment
-Control is not only suppression. It can shift attention, update priorities, release an outdated target, or establish a new attentional set.
-
-### Conflict
-Control is particularly important when automatic tendencies conflict with current goals. The required control depends on the strength and similarity of competing responses or representations.
-
-### Costs
-Controlled attention consumes processing capacity and can itself be disrupted by fatigue, competing demands, or insufficient preparation.
-
-### Evidence status
-Attentional control is strongly supported as a functional domain, but its boundaries with executive control and working memory vary across theories.
+Control is needed when simply allowing the most salient or habitual information to dominate would produce a poor fit with the task. It can maintain an attentional set, strengthen relevant information, reduce competing information, update priorities, or release an obsolete target. Control is therefore not synonymous with suppression: sometimes the correct response is to shift attention, broaden it, or prepare for a predictable event. Control is also limited. Competing tasks, fatigue, time pressure, and poorly specified goals can reduce the stability of attentional allocation. Because executive attention, cognitive control, working memory, and response inhibition often co-occur, laboratory measures rarely isolate control perfectly. The construct should therefore be used to describe regulation of attention specifically, while broader executive mechanisms retain separate ownership.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+It is broader than attentional inhibition and narrower than general executive function. It explains how attention is kept aligned with goals across selection, shifting, and distraction.
 
 ## 5. Boundaries
 ### Owns
-Owns regulation of attentional allocation in relation to goals and task demands.
+Owns regulation of attentional allocation relative to goals and demands.
 
 ### Defers
-Executive function and cognitive control are broader constructs in Chapter 1.9. Attentional inhibition owns one control operation; attentional disengagement owns release from a current focus.
+Defers general executive control and response inhibition to 1.9.
 
 ## 6. Key Principles
-- Control aligns attentional allocation with current goals.
-- Control can maintain, shift, update, or suppress attention.
-- Control itself is limited and context-sensitive.
+- Control can maintain, shift, broaden, or suppress attention.
+- Control is itself capacity-limited and context-sensitive.
+- Attentional control should not be inferred from any single conflict task alone.
 
 ## 1.6.18 Attentional inhibition
 
 ## 1. Purpose
-Explain the reduction of attentional priority given to information that competes with current goals.
+Explain reduction of attentional priority for competing information.
 
 ## 2. Definition
-Attentional inhibition is the process of reducing the priority or influence of information that interferes with current attentional goals.
+Attentional inhibition is the reduction of attentional priority or influence of information that conflicts with current attentional goals.
 
 ## 3. Core Understanding
-### Suppression
-Inhibition can reduce the impact of distractors or previously relevant information. It does not necessarily mean that the inhibited information is completely unprocessed.
-
-### Active versus reactive control
-In some situations, control can prepare for likely distraction. In others, inhibition may respond after competing information becomes relevant or disruptive.
-
-### Context dependence
-Inhibition depends on task goals, distractor predictability, timing, similarity, and the current attentional setting. An item that is irrelevant in one task can become relevant in another.
-
-### Measurement
-Effects attributed to inhibition can sometimes be explained by alternative mechanisms such as selection, priming, or response competition. Interpretation therefore requires attention to the experimental design.
+Inhibition can make a distractor less likely to capture processing or can reduce the influence of information that was previously relevant. It does not necessarily imply that the inhibited representation is erased or never encoded. Some apparent inhibition effects can instead arise from ordinary selection, priming, expectancy, or response competition, so causal claims require careful task analysis. Inhibition may be proactive when a predictable distractor is anticipated or reactive when competing information becomes disruptive. Its strength depends on timing, distractor predictability, task relevance, and the current attentional set. The construct is therefore useful as a specific control operation, but it should not be expanded into a general explanation for every failure to respond to irrelevant information.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+It is a specific operation within attentional control. It differs from general response inhibition because the target of regulation is attentional priority rather than a motor response.
 
 ## 5. Boundaries
 ### Owns
-Owns inhibitory regulation specifically within attentional selection.
+Owns inhibitory regulation within attentional selection.
 
 ### Defers
-General response inhibition and broader executive inhibition are owned by Chapter 1.9. Attentional capture owns involuntary priority shifts; distraction owns attentional diversion.
+Defers response inhibition and broader executive inhibition to 1.9; defers capture and distraction to their distinct phenomena.
 
 ## 6. Key Principles
-- Inhibition can reduce the influence of competing information.
-- Reduced influence does not necessarily mean complete absence of processing.
-- Experimental evidence for inhibition must be distinguished from alternative selection mechanisms.
+- Reduced influence does not prove complete nonprocessing.
+- Inhibition effects require alternatives to be considered.
+- Attentional inhibition is narrower than general inhibitory control.
 
 ## 1.6.19 Attentional disengagement
 
 ## 1. Purpose
-Explain how attention releases its current priority so that another target can receive processing.
+Explain release from an existing attentional priority.
 
 ## 2. Definition
-Attentional disengagement is the release of attentional priority from a currently attended target, location, object, or information source.
+Attentional disengagement is the release of attentional priority from a currently attended location, object, representation, or information source.
 
 ## 3. Core Understanding
-### Release as a control operation
-Disengagement is necessary when the current target is no longer useful. Efficient release allows attention to be reallocated rather than remaining locked onto obsolete information.
-
-### Relation to shifting
-Disengagement is one component of attentional shifting. It should not be equated with the entire shift because a new target must also be selected and engaged.
-
-### Costs of delayed disengagement
-Some tasks reveal slower responses when attention must be released from a previously prioritized location or representation. Such effects depend on cueing, timing, target properties, and task structure.
-
-### Adaptive value
-Persistence can sometimes be useful when the current target remains important. Therefore rapid disengagement is not universally optimal; appropriate disengagement depends on goals.
+Disengagement is necessary when the current target ceases to be useful or another target becomes more relevant. It is one component of shifting rather than the whole shift: after release, attention must be redirected and engaged elsewhere. Experimental costs attributed to delayed disengagement can arise when a previously prioritized location or object slows responses to a new target, but such effects depend on cue validity, timing, target similarity, and task structure. Rapid disengagement is not universally optimal. Persistence is adaptive when the current target remains important, so the appropriate rate of release is determined by goals and environmental stability. The construct therefore describes a transition operation rather than a personality-like tendency to become distracted or stuck.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+It links focused attention with alternating attention and orienting. It is narrower than attentional shifting because it identifies the release component specifically.
 
 ## 5. Boundaries
 ### Owns
-Owns release of attentional priority from a current target.
+Owns release of attentional priority from the current target.
 
 ### Defers
-Alternating attention owns movement between targets; task switching owns task-set change; attentional capture can trigger a competing priority shift.
+Defers full orienting, re-engagement, task switching, and broader cognitive flexibility.
 
 ## 6. Key Principles
-- Disengagement releases an obsolete or competing attentional priority.
-- It is one component of attentional shifting rather than the entire shift.
-- Optimal disengagement depends on whether persistence or flexibility is useful.
+- Disengagement is necessary but not sufficient for attentional shifting.
+- Delayed disengagement can sometimes be adaptive persistence.
+- Disengagement effects depend strongly on task timing and cue structure.
 
 ## 1.6.20 Attentional set
 
 ## 1. Purpose
-Explain how current goals and task rules prepare attention to prioritize particular features, locations, objects, or categories.
+Explain prepared attentional priorities established by goals, expectations, or task rules.
 
 ## 2. Definition
-An attentional set is a prepared bias to prioritize information that matches the requirements of a current task or goal.
+An attentional set is a prepared bias toward selecting information with properties that match current task goals, expectations, or instructions.
 
 ## 3. Core Understanding
-### Preparation
-An attentional set can be established before relevant information appears. It functions as a selection rule that makes certain stimuli more likely to receive priority.
-
-### Efficiency
-A useful set reduces the search space and improves selection of task-relevant information. The same selectivity can create costs when unexpected information becomes important.
-
-### Flexibility
-Effective attention requires changing the set when task requirements change. A persistent but outdated set can cause systematic misses or capture by previously relevant features.
-
-### Distinction from perceptual set
-Attentional set concerns allocation of processing priority. Perceptual set concerns how expectations and context influence perceptual interpretation; the two can interact but are not identical.
+An attentional set changes what counts as a likely relevant signal before the next stimulus arrives. It can be spatial, feature-based, object-based, or task-specific, and it can make selection faster when the environment matches the prepared rule. The same bias can become costly when the environment changes because previously relevant information may continue to receive priority. Attentional set therefore illustrates the adaptive trade-off between preparation and flexibility. It is related to endogenous attention but is more specific about the prepared configuration of selection criteria. An attentional set can be maintained without requiring continuous conscious deliberation, particularly after repeated practice, while still being shaped by current goals. This makes it a useful bridge between attention, learning, expectations, and task control.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+It is the prepared configuration of selection priorities. Endogenous attention describes goal-guided orienting; attentional set describes the standing bias that guides repeated selection.
 
 ## 5. Boundaries
 ### Owns
-Owns prepared attentional bias established by current task goals or selection rules.
+Owns prepared attentional selection criteria.
 
 ### Defers
-Perceptual set is owned by Chapter 1.4. Goal-directed capture describes capture by goal-relevant stimuli; top-down attention describes broader goal-guided allocation.
+Defers learning of task rules to 1.7 and broader executive set shifting to 1.9.
 
 ## 6. Key Principles
-- Attentional set prepares selection according to task rules or goals.
-- A useful set increases efficiency but can cause misses when the environment changes.
-- Attentional set differs from perceptual set.
+- Attentional sets increase efficiency when environmental regularities are stable.
+- Prepared biases can become costs when task demands change.
+- An attentional set can operate without continuous conscious deliberation.
 
 ## 1.6.21 Bottom-up attention
 
 ## 1. Purpose
-Explain attentional priority generated by properties of incoming stimuli rather than solely by deliberate goals.
+Explain attentional influence arising from stimulus-driven properties.
 
 ## 2. Definition
-Bottom-up attention is attentional influence arising from stimulus properties that make some information more likely to receive processing priority.
+Bottom-up attention refers to attentional influence produced primarily by properties of incoming stimulation rather than an explicitly maintained task goal.
 
 ## 3. Core Understanding
-### Stimulus-driven influences
-Changes in contrast, intensity, novelty, motion, onset, or other differences can increase attentional priority. The relevant property depends on the sensory system and task.
-
-### Not purely stimulus-determined
-Stimulus properties interact with current goals and attentional settings. A physically prominent stimulus does not necessarily dominate attention in every context.
-
-### Relation to salience
-Salience describes how strongly an item stands out relative to its context. Bottom-up attention describes the attentional influence of stimulus-driven information; the two concepts overlap but are not synonyms.
-
-### Evidence status
-Stimulus-driven attentional effects are robust, but the extent to which they are genuinely independent of goals is a continuing theoretical issue.
+Changes in intensity, contrast, motion, novelty, onset, or other stimulus properties can alter attentional priority. Calling an influence bottom-up identifies the direction of explanation—from stimulus information toward attentional allocation—not a completely goal-free process. Stimulus-driven effects are filtered through current task settings, prior learning, perceptual organization, and context, so the same event need not capture everyone equally or at every moment. Bottom-up attention is therefore best treated as one source of priority among several. It also should not be equated with salience: a stimulus can be perceptually prominent without producing a large behavioral attentional shift, and a modest stimulus can become important because of goals or learned relevance.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+It is the stimulus-driven side of attentional guidance and contrasts with top-down attention. Exogenous attention overlaps with it but emphasizes externally triggered orienting; salience concerns relative stimulus prominence.
 
 ## 5. Boundaries
 ### Owns
-Owns stimulus-driven attentional selection.
+Owns stimulus-driven influences on attentional priority.
 
 ### Defers
-Bottom-up processing in Chapter 1.4 owns perceptual processing driven by incoming sensory information. Salience owns relative prominence; attentional capture owns priority shifts.
+Defers perceptual salience to 1.4 and goal-driven control to top-down/endogenous attention.
 
 ## 6. Key Principles
-- Stimulus properties can alter attentional priority.
-- Stimulus-driven influence is moderated by goals and context.
-- Bottom-up attention differs from bottom-up perceptual processing.
+- Bottom-up influence is not completely independent of context.
+- Stimulus prominence and attentional capture are not identical.
+- Bottom-up and top-down influences commonly interact.
 
 ## 1.6.22 Top-down attention
 
 ## 1. Purpose
-Explain attentional allocation guided by goals, expectations, knowledge, or task rules.
+Explain attentional influence arising from goals, expectations, and prior knowledge.
 
 ## 2. Definition
-Top-down attention is the deliberate or goal-guided biasing of attentional priority according to current goals, expectations, knowledge, or task demands.
+Top-down attention refers to goal-, expectation-, rule-, or knowledge-guided modulation of attentional priority.
 
 ## 3. Core Understanding
-### Goal guidance
-Top-down attention helps prioritize information because it matters for the current task, even when it is not the most physically prominent stimulus.
-
-### Predictive bias
-Expectations can prepare attention for likely locations, features, objects, or events. Useful expectations improve efficiency, but inaccurate expectations can bias selection in the wrong direction.
-
-### Interaction with bottom-up input
-Goal-driven and stimulus-driven influences continuously compete and cooperate. Effective attention is therefore dynamic rather than purely voluntary.
-
-### Distinction from top-down perception
-Top-down processing in perception concerns how expectations and knowledge influence perceptual interpretation. Top-down attention specifically concerns allocation of attentional priority.
+Current goals can bias what information is selected before relevant stimuli appear. Expectations can increase readiness for predicted features or locations, while task rules can suppress otherwise salient but irrelevant alternatives. Top-down influence is not synonymous with conscious effort: learned task settings and established expectations can guide attention efficiently. It is also not infallible. Incorrect expectations can bias selection toward the wrong information, and strong external events can compete with goal-directed priorities. Top-down attention therefore represents one direction of influence in a reciprocal system rather than a superior form of attention. Perceptual information constrains what can be selected, while goals determine what is worth prioritizing. The interaction between these sources is often more informative than treating them as isolated mechanisms.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+It is the goal-guided counterpart of bottom-up attention and overlaps with endogenous attention. Endogenous attention is narrower because it emphasizes internal guidance of orienting; top-down attention can include broader task and knowledge effects.
 
 ## 5. Boundaries
 ### Owns
-Owns goal- and knowledge-guided attentional allocation.
+Owns goal- and knowledge-guided attentional modulation.
 
 ### Defers
-Top-down processing is owned by Chapter 1.4. Attentional set owns prepared selection biases; endogenous attention owns internally guided orienting.
+Defers perceptual construction, endogenous orienting, and broader executive control to their owners.
 
 ## 6. Key Principles
-- Goals and expectations can bias attentional selection.
-- Top-down guidance can help or misdirect selection.
-- Top-down attention differs from top-down perceptual interpretation.
+- Goals can bias attention before target information arrives.
+- Top-down guidance can be wrong as well as useful.
+- Top-down and stimulus-driven influences interact continuously.
 
 ## 1.6.23 Attentional capture
 
 ## 1. Purpose
-Explain why attention can be pulled toward an event or stimulus that competes with the current attentional priority.
+Explain involuntary or priority-changing selection produced by competing stimuli.
 
 ## 2. Definition
-Attentional capture is a shift in attentional priority toward a stimulus or event that interrupts or competes with the current allocation of attention.
+Attentional capture is a shift of attentional priority toward a stimulus or event that competes with the current attentional set or task focus.
 
 ## 3. Core Understanding
-### Capture as competition
-Capture occurs when a competing event gains enough priority to redirect processing. It can be triggered by sudden sensory events, novelty, learned relevance, or a match to the current attentional setting.
-
-### Contingent capture
-Whether a stimulus captures attention can depend on what the observer is currently looking for. A feature that is irrelevant to the task may have weaker capture effects than a feature matching the attentional set.
-
-### Capture versus salience
-A stimulus can be salient without inevitably capturing attention. Capture is a relation between stimulus properties, attentional settings, goals, and context.
-
-### Costs and benefits
-Capture can rapidly redirect attention toward potentially important information, but irrelevant capture can impair ongoing performance.
-
-### Evidence status
-Capture is a well-studied phenomenon, but the relative roles of physical salience and top-down settings remain debated across paradigms.
+Capture is not simply synonymous with salience or exogenous attention. A stimulus can be salient without producing a substantial attentional capture effect, and whether a stimulus captures attention depends on current goals, learned relevance, timing, and competition. Capture can be useful when an unexpected event signals danger or opportunity, but it can also disrupt ongoing selection when the event is irrelevant. Experimental debates often concern whether capture is genuinely automatic or depends heavily on task settings and attentional control. This makes the construct especially sensitive to operational definitions: reaction-time slowing, eye movements, search errors, and subjective reports can reflect partly different processes. The robust idea is that competing information can redirect priority away from the current selection.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+It sits at the intersection of exogenous attention, salience, and attentional control. Goal-directed capture emphasizes cases in which capture itself is shaped by task goals.
 
 ## 5. Boundaries
 ### Owns
-Owns the attentional priority-shift phenomenon called capture.
+Owns the phenomenon of priority being redirected by a competing stimulus.
 
 ### Defers
-Exogenous attention owns externally triggered orienting; salience owns relative prominence; goal-directed capture owns capture caused by task relevance.
+Defers stimulus prominence to salience and source of orienting to exogenous/endogenous attention.
 
 ## 6. Key Principles
-- Capture is a competition-driven shift in attentional priority.
 - Capture depends on both stimulus properties and attentional settings.
-- Salience alone does not guarantee capture.
+- Salience does not guarantee capture.
+- Claims of automatic capture require careful operational and task analysis.
 
 ## 1.6.24 Salience
 
 ## 1. Purpose
-Explain why some stimuli stand out relative to their surroundings and thereby acquire greater potential to attract processing.
+Explain relative stimulus prominence that can influence attentional priority.
 
 ## 2. Definition
-Salience is the relative prominence of an item or event compared with surrounding information because of differences such as contrast, novelty, intensity, motion, or other feature variation.
+Salience is the degree to which a stimulus or event stands out relative to surrounding information on dimensions such as intensity, contrast, motion, novelty, or feature difference.
 
 ## 3. Core Understanding
-### Relative property
-Salience is relational. The same stimulus can be highly salient in one context and inconspicuous in another because surrounding information changes the contrast.
-
-### Sources
-Physical differences can produce stimulus salience, while learned relevance and context can contribute to what is behaviorally prominent. Different theories distinguish sensory salience from task relevance.
-
-### Salience and attention
-Salience can increase attentional priority, but it is not equivalent to attention and does not guarantee capture. Goals can enhance or suppress the behavioral impact of salient events.
-
-### Measurement and theory
-Salience can be operationalized through visual or other sensory contrasts, but there is no single universal scalar that predicts all attentional behavior.
+Salience is inherently relational: the same stimulus can be prominent in one context and unremarkable in another. A highly salient item can receive elevated processing priority, but salience alone does not determine whether it will dominate behavior because goals and learned relevance can alter selection. Computational salience maps are useful models of stimulus-driven prominence, but they are not identical to subjective awareness or actual attentional capture. Semantic relevance can also make a less physically distinctive item important. Thus, physical conspicuity, attentional priority, and behavioral relevance should be kept conceptually separate. Salience is best treated as one source of potential priority rather than a universal mechanism that automatically controls attention.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+It provides a stimulus-property concept for understanding bottom-up influence and capture. It differs from exogenous attention, which concerns orienting, and from capture, which concerns the resulting attentional priority shift.
 
 ## 5. Boundaries
 ### Owns
-Owns salience as a relative property of stimulus prominence relevant to attentional competition.
+Owns relative stimulus prominence as an attentional input factor.
 
 ### Defers
-Attentional capture owns the resulting priority shift. Bottom-up attention owns stimulus-driven attentional influence. Perceptual feature coding is owned by Chapter 1.4.
+Defers sensory feature coding to 1.4 and actual capture/selection effects to their attentional owners.
 
 ## 6. Key Principles
-- Salience is relative to surrounding information.
-- Salience can contribute to attentional priority without being identical to attention.
-- Behavioral relevance and physical prominence can diverge.
+- Salience is relative to context.
+- Salience can influence but does not determine attention.
+- Physical conspicuity and behavioral relevance are separable.
 
 ## 1.6.25 Goal-directed capture
 
 ## 1. Purpose
-Explain attentional capture produced because a stimulus matches what the observer is currently seeking or prepared to prioritize.
+Explain capture-like selection effects shaped by task goals or learned relevance.
 
 ## 2. Definition
-Goal-directed capture is a shift of attention toward a stimulus because it matches a current task goal, attentional set, or target-defining feature.
+Goal-directed capture refers to attentional priority shifts toward stimuli whose properties are relevant to the current task, even when the shift may appear rapid or involuntary.
 
 ## 3. Core Understanding
-### Contingent capture
-Capture is not always a response to the most physically salient item. When an observer is searching for a particular feature, stimuli matching that feature can gain priority because they are relevant to the current task.
-
-### Interaction with stimulus properties
-Goal-directed capture demonstrates that top-down settings can determine which external events are capable of strongly competing for attention.
-
-### Adaptive function
-Such capture is useful because it increases the probability that relevant information will be detected quickly. It can also produce errors when a distractor happens to match the current target definition.
-
-### Boundary
-The concept is narrower than top-down attention: it specifically concerns a stimulus-triggered priority shift whose effectiveness depends on goal relevance.
+A stimulus can attract attention because it matches an active attentional set rather than simply because it is physically conspicuous. For example, when a person searches for a particular feature, matching distractors can gain priority because the feature is currently relevant. This illustrates that capture and control are not always opposites. A rapid priority shift may be prepared by goals and learned selection rules. The phenomenon also clarifies why claims of completely automatic attention capture are difficult: the same physical event can have different effects under different task settings. Goal-directed capture is therefore a context-sensitive interaction between prepared priorities and incoming information rather than a separate attentional system.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+It refines attentional capture by specifying goal relevance as a determinant of the capture-like shift. It overlaps with attentional set and top-down attention but focuses on the resulting priority redirection.
 
 ## 5. Boundaries
 ### Owns
-Owns capture driven by a match between a stimulus and current task goals or attentional settings.
+Owns capture effects attributable to task-relevant stimulus matching.
 
 ### Defers
-Attentional set owns the prepared selection bias; attentional capture owns the broader capture phenomenon; salience owns stimulus prominence.
+Defers general capture, attentional set, and broader top-down control to their owners.
 
 ## 6. Key Principles
-- Task relevance can determine which stimuli capture attention.
-- Capture can reflect an interaction between goals and external events.
-- Goal-directed capture is narrower than general top-down attention.
+- Goals can make particular stimuli capture attention.
+- Rapid selection can still be goal-dependent.
+- Task settings are essential when interpreting capture effects.
 
 ## 1.6.26 Feature integration
 
 ## 1. Purpose
-Explain how attention contributes to combining separate stimulus features into coherent representations.
+Explain how attention contributes to combining separate features into coherent object representations.
 
 ## 2. Definition
-Feature integration is the process by which separately coded stimulus properties are combined into a representation of an object or event, with attention often contributing to accurate binding under task-dependent conditions.
+Feature integration concerns the binding of separately represented stimulus features into coherent perceptual objects, with attention contributing to the process under some conditions.
 
 ## 3. Core Understanding
-### Binding
-A perceived object may contain multiple properties such as color, shape, orientation, location, and motion. Feature integration concerns how these properties become associated with one another rather than remaining unrelated signals.
-
-### Role of attention
-Classic attention research suggests that under some conditions attention helps bind features into coherent object representations. When attentional resources are limited, illusory conjunctions or feature-binding errors can occur.
-
-### Relation to perception
-Feature integration is closely tied to perceptual organization and object representation. Chapter 1.6 owns its attentional mechanism; Chapter 1.4 owns the broader perceptual organization and object-recognition systems.
-
-### Evidence status
-Feature-binding effects are well established, while the precise mechanisms and extent to which attention is always required remain subjects of theoretical debate.
+A visual object may contain color, shape, orientation, location, and other properties that can initially be represented along partly distinct dimensions. Feature integration addresses how these properties become associated with the same object rather than being mistakenly combined across objects. Classic attentional accounts proposed a particularly strong role for focused attention in binding, while later evidence indicates that some integrations can occur efficiently without the simple all-or-none mechanism originally proposed. Binding is influenced by spatial proximity, perceptual organization, attention, timing, and object structure. The important distinction is between selecting a feature and binding features together. Attention can prioritize the information to be integrated, but the existence of a coherent object representation is a perceptual achievement rather than merely an attentional choice.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+It connects feature-based and object-based attention with perceptual organization. It should not be confused with feature-based attention, which selects a feature, or object recognition, which identifies an object.
 
 ## 5. Boundaries
 ### Owns
-Owns the attentional role in integrating separate features into coherent representations.
+Owns the attentional/perceptual problem of feature binding into objects.
 
 ### Defers
-General perceptual organization, feature coding, and object recognition are owned by Chapter 1.4. Working memory and conscious access remain elsewhere.
+Defers general perceptual organization and object recognition to 1.4.
 
 ## 6. Key Principles
-- Separate features can become bound into coherent representations.
-- Attention can contribute to accurate feature binding under some conditions.
-- The precise mechanisms of binding remain theoretically debated.
+- Feature selection and feature binding are different operations.
+- Attention can contribute to binding without being the sole determinant.
+- Binding depends on spatial, temporal, and perceptual organization.
 
 ## 1.6.27 Visual search
 
 ## 1. Purpose
-Explain how attention locates a target among competing visual information.
+Explain selection of target information among multiple visual items.
 
 ## 2. Definition
-Visual search is the process of finding a task-relevant visual target among distractors by selectively processing and comparing available visual information.
+Visual search is the process of locating or identifying a target among multiple visual items that may share relevant or irrelevant features.
 
 ## 3. Core Understanding
-### Search efficiency
-Search can be relatively efficient when a target differs from distractors by a distinctive feature. Search becomes more demanding when target and distractors share features and the target is defined by a conjunction.
-
-### Guidance
-Modern accounts generally treat search as guided by both target information and scene properties rather than requiring a strict all-or-none distinction between parallel and serial search.
-
-### Set size and similarity
-The number of distractors can affect performance, especially when target–distractor similarity is high. Similarity, spatial arrangement, feature discriminability, expectations, and task demands can be more informative than set size alone.
-
-### Errors
-Search can fail because a target is difficult to discriminate, attention is misdirected, the target is masked or briefly presented, or competing information receives greater priority.
-
-### Evidence status
-Visual-search paradigms provide a major experimental framework for studying selective attention, but the exact search architecture varies across tasks.
+Search difficulty depends on the relation between target and distractors, not simply on the number of items. When the target differs strongly on a single dimension, detection can sometimes be rapid across many items; when target identification requires combining features or resolving similar competitors, search becomes more demanding. Search can be guided by attentional sets, spatial selection, feature selection, object structure, expectations, and learned regularities. Search performance therefore provides a window into attentional selection but is not a pure measure of one attentional mechanism. Eye movements can also change the sensory information sampled during search, linking overt attention with selection. Differences between efficient and effortful search should be interpreted as properties of the target–distractor relationship and task, not as a simple division between automatic and controlled vision.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+It is an applied experimental domain within attention that combines several selection mechanisms. Feature integration, spatial attention, attentional set, and capture can all contribute to search.
 
 ## 5. Boundaries
 ### Owns
-Owns attentional mechanisms involved in locating visual targets among distractors.
+Owns the attentional process of locating targets among visual competitors.
 
 ### Defers
-Visual perception, object recognition, and perceptual organization are owned by Chapter 1.4. Feature-based, spatial, and object-based attention are component selection mechanisms.
+Defers basic visual perception and eye-movement mechanics to 1.4/biological systems.
 
 ## 6. Key Principles
-- Search difficulty depends on target–distractor relations as well as set size.
-- Feature and conjunction differences are useful but not absolute categories.
-- Visual search is a major experimental domain for studying attention.
+- Search difficulty depends strongly on target–distractor relations.
+- Efficient search is not proof of a single automatic mechanism.
+- Search can combine feature, spatial, object, and goal-based selection.
 
 ## 1.6.28 Spatial cueing
 
 ## 1. Purpose
-Explain how information about likely location changes attentional allocation and performance.
+Explain how cues about location alter subsequent attentional allocation.
 
 ## 2. Definition
-Spatial cueing is the use of location information to guide or measure attentional allocation toward or away from particular spatial positions.
+Spatial cueing is the use of information about likely target location to manipulate or measure spatial attentional orienting.
 
 ## 3. Core Understanding
-### Valid and invalid cues
-A valid cue indicates where a target is likely to appear and can facilitate detection or response. An invalid cue directs attention away from the target and can produce a reorienting cost.
-
-### Endogenous and exogenous cues
-Cues can be symbolic and goal-dependent or physically linked to an external event. These forms can produce different temporal and attentional effects.
-
-### What cueing measures
-Cueing paradigms can reveal benefits of preparing attention and costs of moving or reallocating it. The observed effect depends on cue validity, timing, target discriminability, and task instructions.
-
-### Boundary
-Spatial cueing is a method and phenomenon for studying spatial attention, not a complete theory of attention itself.
+A valid cue can allow attention to be prepared at the target location, while an invalid cue can require reorienting and thereby produce a cost. The magnitude of these effects depends on cue validity, cue-target interval, target discriminability, and whether the cue itself attracts attention independently of its informational value. Cueing can therefore reveal both the benefits of preparation and the costs of misdirected priority. Endogenous cues often depend on interpreting their relevance, whereas exogenous cues can trigger rapid orienting based on their physical occurrence. Spatial cueing is a method and phenomenon centered on location; it does not encompass all spatial attention. Nor does a cue benefit prove conscious awareness of the cue in every paradigm.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+It operationalizes spatial attention and can separate endogenous from exogenous orienting. It is narrower than spatial attention because it specifically concerns cue-induced allocation.
 
 ## 5. Boundaries
 ### Owns
-Owns location-based cueing as an attentional phenomenon and experimental paradigm.
+Owns cue-based spatial orienting effects.
 
 ### Defers
-Spatial attention owns the broader construct. Endogenous/exogenous attention own major cueing sources; visual perception remains in Chapter 1.4.
+Defers general spatial attention, cue perception, and broader endogenous/exogenous mechanisms.
 
 ## 6. Key Principles
-- Location cues can produce attentional benefits and costs.
-- Cue effects depend on validity, timing, and cue type.
-- Spatial cueing measures aspects of spatial attention rather than attention as a whole.
+- Valid cues can improve performance by preparing attention.
+- Invalid cues can reveal costs of misallocated priority.
+- Cue effects depend on timing, validity, and cue type.
 
 ## 1.6.29 Dual-task interference
 
 ## 1. Purpose
-Explain why performing two tasks can reduce performance when their processing demands overlap.
+Explain performance costs created by concurrent task demands.
 
 ## 2. Definition
-Dual-task interference is a reduction in performance or change in processing that occurs when two tasks compete for overlapping processing, representation, response, or control requirements.
+Dual-task interference is the reduction or alteration of performance that occurs when two tasks are performed concurrently and compete for overlapping processing resources or operations.
 
 ## 3. Core Understanding
-### Competition
-Two tasks interfere when they require the same limited operation at overlapping times. Interference can affect speed, accuracy, or both.
-
-### Task similarity
-Tasks that share response channels, perceptual processing, working-memory representations, or control demands tend to interfere more than tasks using relatively independent processes.
-
-### Practice and automaticity
-Practice can reduce interference when a task becomes more efficient or requires less controlled processing, although practice does not eliminate all dual-task costs.
-
-### Timing
-When task-critical operations occur simultaneously, interference can be greater. Temporal separation can reduce competition without necessarily making the tasks independent.
-
-### Evidence status
-Dual-task interference strongly supports capacity limitations and processing competition, but the exact underlying architecture differs across models.
+Interference is strongest when tasks require similar representations, response mechanisms, working-memory operations, or timing. Two tasks using different modalities or highly practiced routines may interfere less, although modality alone does not guarantee independence. Dual-task costs can appear as slower responses, more errors, reduced accuracy, or altered strategy, and different measures may reveal different forms of competition. The existence of interference supports limited concurrent processing but does not by itself establish a single-resource theory. Costs can arise from bottlenecks, strategic prioritization, response competition, memory demands, or control requirements. Consequently, interpreting dual-task performance requires specifying which component of the tasks overlaps rather than simply saying that “attention is divided.”
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+It is the performance consequence of divided attention, not a synonym for divided attention itself. Task switching and multitasking overlap in real-world settings but involve additional transitions and behavior.
 
 ## 5. Boundaries
 ### Owns
-Owns the performance interference produced by concurrent task demands.
+Owns measurable interference produced by concurrent task demands.
 
 ### Defers
-Divided attention owns allocation across concurrent demands; task switching owns changes between task sets; resource limitations owns general capacity constraints.
+Defers the attentional allocation process to divided attention and task-set transitions to task switching.
 
 ## 6. Key Principles
-- Concurrent tasks interfere when their processing demands overlap.
-- Interference varies with similarity, timing, modality, and practice.
-- Dual-task costs support capacity limitations without requiring one universal resource pool.
+- Interference depends on component overlap, not merely task count.
+- Dual-task cost does not prove one universal attentional resource.
+- Different performance measures can reflect different bottlenecks.
 
 ## 1.6.30 Task switching
 
 ## 1. Purpose
-Explain the cognitive and attentional costs associated with changing from one task rule or task set to another.
+Explain attentional and executive costs of changing task sets.
 
 ## 2. Definition
-Task switching is changing the active task set, rule, or goal that determines how information should be interpreted and how responses should be selected.
+Task switching is the process of moving from one task rule or task set to another, including reconfiguration of the operations needed for the new task.
 
 ## 3. Core Understanding
-### Task sets
-A task set contains the current rules, relevant information, response mappings, and goals needed to perform a task. Switching requires the new set to become sufficiently active while the previous set becomes less dominant.
-
-### Switch costs
-Switch trials often produce slower or less accurate performance than repeat trials. Costs can reflect reconfiguration, interference from the previous task, preparation limits, or residual activation.
-
-### Preparation
-Advance information about an upcoming task can reduce some switching costs, demonstrating that part of the transition can be prepared. Some costs remain even with preparation.
-
-### Mixing costs
-Performance can also differ between blocks containing one task and blocks requiring multiple task sets. Such effects indicate that maintaining a mixed-task environment itself changes control demands.
-
-### Boundary
-Task switching is more specific than alternating attention: moving attention between targets does not necessarily require changing the task rule.
+Switching differs from simply shifting attention between two targets because the person may need to retrieve a new rule, change response mappings, update relevant features, and suppress the previous task set. Switch costs can occur even when the new task is fully known in advance, indicating preparation and reconfiguration demands rather than mere surprise. Residual costs after preparation can reflect incomplete disengagement from the old set or incomplete activation of the new one. Switch costs also depend on cue clarity, task similarity, repetition structure, practice, and the time available to prepare. Task switching is therefore an executive-attentional transition rather than generic multitasking.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+It builds on alternating attention but adds a change in task rules or sets. Executive attention and attentional control support switching, while divided attention concerns simultaneous allocation.
 
 ## 5. Boundaries
 ### Owns
-Owns changes between task sets and the resulting switching costs.
+Owns changes between task sets and their attentional-control demands.
 
 ### Defers
-Alternating attention owns attentional shifts without necessarily changing task rules. Executive attention owns broader goal and conflict control; dual-task interference owns concurrent-task competition.
+Defers generic attention shifts to alternating attention and concurrent interference to divided attention.
 
 ## 6. Key Principles
-- Changing task sets creates measurable performance costs.
-- Preparation can reduce some switch costs but not necessarily eliminate them.
-- Task switching is distinct from merely alternating attention.
+- Task switching involves task-set change, not merely target change.
+- Preparation can reduce but not always eliminate switch costs.
+- Switch costs reflect multiple processes rather than one universal mechanism.
 
 ## 1.6.31 Multitasking
 
 ## 1. Purpose
-Explain the psychological organization of attempting to manage multiple tasks within the same period.
+Explain behavior involving multiple concurrent or rapidly alternating activities.
 
 ## 2. Definition
-Multitasking is the performance or management of multiple tasks within a shared time period, often involving a mixture of concurrent processing, rapid switching, prioritization, and interruption.
+Multitasking is the everyday behavioral pattern of managing multiple tasks within overlapping periods, often through a mixture of concurrent processing, rapid alternation, and prioritization.
 
 ## 3. Core Understanding
-### What multitasking can mean
-People use multitasking to describe genuine concurrent activities, rapid switching between tasks, or alternating between a primary task and interruptions. These are psychologically different situations.
-
-### Performance costs
-Costs can arise from switching, interference, incomplete attention to each task, memory for task goals, and the time required to resume a suspended task.
-
-### Task compatibility
-Some combinations are easier when tasks use different sensory or response channels or when one activity is highly practiced. Shared processing demands increase interference.
-
-### Subjective confidence
-People may feel productive while performance on one or more tasks declines. Subjective ease is therefore not a sufficient measure of objective performance.
-
-### Practical boundary
-Multitasking is an everyday behavioral description rather than a single laboratory mechanism. Its effects must be analyzed according to the component attentional and task processes involved.
+The term is broader and less mechanistically precise than divided attention. In many real-world situations, apparent simultaneous performance actually involves rapid switching between tasks, with costs arising each time the active task set changes. Some components may proceed relatively automatically while attention is directed elsewhere, allowing limited combinations with modest costs. Other combinations compete strongly and produce errors, omissions, or slower performance. Multitasking outcomes also depend on task stakes, interruptions, practice, environmental structure, and the person's strategy for prioritizing demands. Because the term describes a behavioral arrangement rather than one mechanism, it should not be used as evidence for a particular architecture of attention. Laboratory dual-task and switching paradigms provide more precise measures of the component processes.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+It is the broad real-world construct that can contain divided attention and task switching. It should not be treated as a separate universal attentional resource.
 
 ## 5. Boundaries
 ### Owns
-Owns the general phenomenon of managing multiple tasks within a shared time period.
+Owns the general multiple-task behavioral arrangement.
 
 ### Defers
-Divided attention and dual-task interference provide specific attentional mechanisms; task switching explains rapid transitions; executive functions explain broader control demands.
+Defers mechanisms of concurrent allocation and task transitions to divided attention, interference, and task switching.
 
 ## 6. Key Principles
-- Multitasking can involve switching, parallel processing, or both.
-- Performance costs depend on task overlap and control demands.
-- Subjective productivity does not guarantee preserved performance.
+- Multitasking can combine simultaneous processing and rapid switching.
+- The everyday label does not specify one cognitive mechanism.
+- Task stakes and practice can strongly alter multitasking performance.
 
 ## 1.6.32 Attentional load
 
 ## 1. Purpose
-Explain how the amount and nature of processing demanded by a task can alter how competing information is processed.
+Explain how task demands influence processing of competing information.
 
 ## 2. Definition
-Attentional load is the processing demand imposed by a task or selection requirement that affects the capacity available for other information.
+Attentional load is the amount and type of processing demand imposed by a task, particularly the extent to which relevant processing occupies available attentional capacity and changes distractor processing.
 
 ## 3. Core Understanding
-### Types of load
-Load can refer to perceptual demands, such as discriminating complex stimuli, or cognitive demands, such as maintaining and manipulating task-relevant information. These forms are not interchangeable.
-
-### Effects on distractors
-Under some conditions, high perceptual load reduces processing of irrelevant information because more selection capacity is occupied. Under other conditions, competing information can still influence performance, particularly when the load manipulation does not exhaust relevant processing or when distractors are highly potent.
-
-### Context dependence
-Load effects depend on task design, stimulus discriminability, timing, expectations, and the type of distractor. Therefore there is no universal rule that “high load prevents distraction.”
-
-### Theory and evidence
-Load theory provides one influential account of selective attention, but findings across paradigms indicate that attentional allocation depends on multiple interacting factors.
+Load is not simply the number of stimuli. A small display can be demanding if it requires difficult discrimination, complex working-memory operations, or conflict resolution, while many simple items may impose relatively little relevant processing demand. Load theories propose that available processing capacity is affected by the demands of the primary task, influencing how much irrelevant information is processed. However, empirical findings show that load interacts with perceptual similarity, task design, expectations, spatial organization, and control settings. Thus “high load” is not a universal state and should be operationalized according to the task. Attentional load is especially useful for explaining why distractor effects change as primary-task demands change, but it should not be treated as a direct readout of a single hidden resource.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+It connects capacity limitations with selective attention and distraction. It is a task-demand construct, not a synonym for cognitive load in every domain or for subjective effort.
 
 ## 5. Boundaries
 ### Owns
-Owns attentional demand as a condition that changes the processing of competing information.
+Owns attentional demand imposed by the primary task.
 
 ### Defers
-Resource limitations owns broader capacity constraints; working memory and executive control are owned elsewhere. Load theory is a model, not the definition of attention.
+Defers broader working-memory/cognitive load constructs and general capacity theories to their canonical owners.
 
 ## 6. Key Principles
-- Load describes processing demand imposed by a task.
-- High load does not universally eliminate distraction.
-- Load effects depend on the type and context of the demand.
+- Load must be defined by task demands, not item count alone.
+- High load can alter distractor processing without proving a single capacity pool.
+- Load interacts with control, expectation, and stimulus structure.
 
 ## 1.6.33 Resource limitations
 
 ## 1. Purpose
-Explain why attention cannot allocate unlimited processing to every competing demand at equal depth.
+Explain constraints on simultaneous or sequential attentional processing.
 
 ## 2. Definition
-Resource limitations are constraints on the amount, rate, or distribution of processing and control available to concurrent attentional demands.
+Resource limitations refer to constraints that make it difficult to process all competing information with equal depth, speed, or control.
 
 ## 3. Core Understanding
-### Functional capacity
-Attention is limited in the sense that performance can degrade when multiple demands require overlapping processing at the same time. The limitation can appear as slower responses, reduced accuracy, missed targets, or increased switching costs.
-
-### No single literal resource
-“Resource” is a useful theoretical description, not evidence for one measurable substance that all tasks consume identically. Different tasks may compete for partly distinct mechanisms.
-
-### Sources of limitation
-Competition can arise from sensory processing, working-memory maintenance, response selection, task-set control, temporal overlap, or limited preparation.
-
-### Individual and state factors
-Practice, expertise, fatigue, motivation, and current task structure can change how much demand a person can manage. This does not mean that capacity is unlimited with enough practice.
+The evidence for limited processing is strong, but the metaphor of a single fixed resource is too simple. Different tasks can interfere because they share representations, response channels, working-memory operations, timing bottlenecks, or executive control. Practice and automaticity can change these constraints, and strategic prioritization can redistribute performance costs rather than eliminate them. Resource limitations therefore describe functional constraints rather than a known quantity of mental energy. They can appear as slower responses, errors, omissions, reduced precision, or trade-offs between tasks. The exact architecture of limitation remains theoretical and may differ across cognitive systems and task conditions. This distinction prevents a common error: observing a capacity limit does not by itself reveal what mechanism creates it.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+It provides the capacity-level background for divided attention, dual-task interference, load, and attentional blink. It is broader than any one paradigm and should not replace mechanism-specific explanations.
 
 ## 5. Boundaries
 ### Owns
-Owns the general attentional constraint that limits simultaneous processing and control.
+Owns general functional constraints on attentional processing capacity.
 
 ### Defers
-Specific interference mechanisms are owned by dual-task interference and task switching. Broader working-memory capacity and executive resources belong to their canonical chapters.
+Defers specific bottlenecks, working memory, and executive limitations to their dedicated domains.
 
 ## 6. Key Principles
-- Attention cannot allocate unlimited processing to overlapping demands at equal depth.
-- Resource language is theoretical rather than evidence for one literal substance.
-- Practice changes efficiency but does not abolish all capacity constraints.
+- Limited processing does not prove a single universal resource.
+- Practice can alter functional capacity constraints.
+- Capacity limits are inferred from performance patterns rather than directly observed as a substance.
 
 ## 1.6.34 Inattentional blindness
 
 ## 1. Purpose
-Explain why an observer can fail to consciously notice an unexpected stimulus even when that stimulus is visible and the sensory system is functioning.
+Explain failure to consciously notice an unexpected stimulus when attention is engaged elsewhere.
 
 ## 2. Definition
-Inattentional blindness is the failure to consciously notice an unexpected stimulus when attention is engaged with another task or source of information.
+Inattentional blindness is failure to notice an unexpected but potentially visible stimulus when attention is strongly engaged in another task.
 
 ## 3. Core Understanding
-### Attention, not simple visibility
-A stimulus can be physically present and sufficiently visible while still failing to reach conscious report because attentional priority is directed elsewhere. Visibility and noticing are therefore not identical.
-
-### Experimental conditions
-Classic demonstrations typically require participants to perform a demanding primary task while an unexpected event occurs. Detection depends on task demands, stimulus properties, expectations, similarity to attended information, and the observer.
-
-### Not total unconsciousness
-Failure to report an unexpected event does not prove that the stimulus received no processing whatsoever. Some information may influence behavior without producing conscious recognition.
-
-### Practical interpretation
-The phenomenon illustrates limits of attention and awareness, but it should not be generalized into the claim that people routinely fail to see any unattended information.
+The phenomenon demonstrates that physical visibility does not guarantee conscious noticing. Whether an unexpected event is noticed depends on attentional allocation, task demands, similarity, expectation, timing, and the properties of the unexpected item. It does not mean that the visual system received no information from the stimulus, nor does it establish that attention is required for every form of processing. Awareness reports are also influenced by how detection is tested after the event. Inattentional blindness is therefore best understood as a failure of noticing under specific conditions of competing attentional demands. It is distinct from change blindness, where the challenge concerns detecting a change across views or moments, and from ordinary sensory loss.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+It is a failure phenomenon arising from attention and awareness interaction. It connects selective attention with consciousness without making either construct reducible to the other.
 
 ## 5. Boundaries
 ### Owns
-Owns the attentional phenomenon of failing to consciously notice an unexpected event when attention is occupied elsewhere.
+Owns failure to notice an unexpected stimulus under competing attentional demands.
 
 ### Defers
-Consciousness is owned by Chapter 1.5. Visual perception and sensory visibility are owned by Chapter 1.4. Change blindness concerns changes between visual representations and is distinct.
+Defers conscious awareness to 1.5 and visual processing to 1.4.
 
 ## 6. Key Principles
-- Noticing requires more than physical visibility.
-- Failure to report an unexpected stimulus does not prove zero processing.
-- The phenomenon depends strongly on task and stimulus conditions.
+- Visibility does not guarantee noticing.
+- Inattentional blindness is conditional, not evidence of complete absence of stimulus processing.
+- Detection and conscious report should be distinguished.
 
 ## 1.6.35 Change blindness
 
 ## 1. Purpose
-Explain why substantial changes in visual scenes can sometimes go unnoticed when attention or comparison is disrupted.
+Explain failure to notice visual changes when attention or comparison is disrupted.
 
 ## 2. Definition
-Change blindness is the failure to detect a visual change between successive or competing scene representations under conditions that make the change difficult to register.
+Change blindness is failure to detect a change in a visual scene when the change is obscured by interruption, eye movement, distraction, or other conditions that weaken comparison between representations.
 
 ## 3. Core Understanding
-### Comparison requirement
-Detecting a change requires information about the relevant scene elements to be available for comparison. Attention helps determine which elements are represented strongly enough for a change to be detected.
-
-### Disrupting transients
-Change detection becomes more difficult when an interruption, eye movement, blink, mask, or other event removes the transient signal that would normally draw attention to the change.
-
-### Scene structure
-Large or meaningful changes are not automatically detected. Detection depends on where attention is directed, the importance and conspicuousness of the change, scene organization, expectations, and the quality of the comparison.
-
-### Distinction from inattentional blindness
-Inattentional blindness concerns an unexpected object or event failing to be noticed. Change blindness concerns failure to detect a difference between visual states.
+The phenomenon shows that stable subjective experience does not imply that every scene detail is continuously represented with high fidelity. Detecting a change requires relevant information to be selected, encoded, retained, and compared across moments. Disruptions can prevent the relevant representations from being aligned, making a substantial change surprisingly difficult to notice. Change blindness therefore involves attention and memory-related comparison processes rather than simple visual acuity. It also varies with change location, semantic importance, expectations, and the observer's task. The phenomenon should not be interpreted as proof that the visual world is never represented outside attention; rather, it demonstrates limits on detailed change detection under particular conditions.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+It differs from inattentional blindness because the critical problem is detecting a change across representations, often with an interruption or visual transient masking the change. It links attention to perception and memory.
 
 ## 5. Boundaries
 ### Owns
-Owns attentional failure to detect changes between visual scene representations.
+Owns failure to detect scene changes under disrupted comparison conditions.
 
 ### Defers
-Visual perception and scene organization are owned by Chapter 1.4. Inattentional blindness owns unexpected-event non-detection; working memory owns broader representation and comparison processes.
+Defers visual representation to 1.4 and memory/comparison mechanisms to 1.8.
 
 ## 6. Key Principles
-- Change detection requires sufficiently available and comparable representations.
-- Interruptions can remove useful change signals.
-- Change blindness is distinct from failure to notice an unexpected object.
+- Change detection requires comparison across moments.
+- Interruptions can remove useful transient signals.
+- Scene stability in experience exceeds the detail that can always be explicitly compared.
 
 ## 1.6.36 Attentional blink
 
 ## 1. Purpose
-Explain the temporary reduction in detecting a second target when it follows a first target closely in a rapid stream.
+Explain the temporary reduction in detecting a second target after a first target.
 
 ## 2. Definition
-Attentional blink is a transient reduction in awareness or report of a second target when it appears shortly after a first target in a rapid sequence.
+The attentional blink is a temporary reduction in the ability to report a second target when it appears shortly after a first target in a rapid stream of stimuli.
 
 ## 3. Core Understanding
-### Rapid serial presentation
-In common paradigms, letters, words, or other items appear one after another at a rapid rate. When a first target must be identified, detection of a second target is often impaired during a subsequent temporal interval.
-
-### Temporal limitation
-The effect demonstrates that successfully selecting and consolidating one target can temporarily reduce the probability that another target will be detected.
-
-### Lag and target relationships
-The magnitude of the blink depends on the temporal separation between targets, target properties, distractor structure, and task demands. Under some conditions, a second target presented immediately after the first can show relatively better detection than targets appearing slightly later, a phenomenon known as lag-1 sparing.
-
-### Interpretation
-Accounts differ on whether the central limitation reflects consolidation, attentional gating, resource allocation, or related processes. The empirical phenomenon is better established than any single explanation.
+The phenomenon is commonly studied with rapid serial visual presentation, where participants identify two targets embedded among distractors. When the second target follows the first within a critical temporal interval, report can be impaired. Explanations differ: some emphasize limited consolidation of the first target, competition for access to working memory, temporary control engagement, or attentional gating. The effect is not a literal period in which the visual system stops processing. Its magnitude varies with task structure, target similarity, temporal spacing, practice, and how targets are reported. The attentional blink is therefore a useful demonstration of temporal limits on sequential selection rather than evidence for one universally accepted bottleneck mechanism.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+It is a temporal-selection failure and complements spatial, load, and resource-limit topics. Its theoretical interpretation remains more specific and contested than the existence of the performance effect.
 
 ## 5. Boundaries
 ### Owns
-Owns the temporal attentional limitation demonstrated by rapid successive target processing.
+Owns the characteristic temporal limitation in sequential target selection.
 
 ### Defers
-Conscious access and awareness are owned by Chapter 1.5; working memory and consolidation mechanisms are owned by Chapter 1.8 and related cognitive chapters.
+Defers broader working memory and consolidation mechanisms to 1.8 and general resource theories to their owners.
 
 ## 6. Key Principles
-- Processing one target can temporarily reduce detection of another.
-- The effect depends on temporal separation and task conditions.
-- The empirical blink is better established than any single explanatory mechanism.
+- The blink is a performance phenomenon, not a literal shutdown of attention.
+- Its magnitude depends on temporal and task conditions.
+- Multiple mechanisms have been proposed to explain it.
 
 ## 1.6.37 Vigilance failure
 
 ## 1. Purpose
-Explain breakdowns in detecting relevant events during prolonged monitoring.
+Explain breakdowns in prolonged monitoring for infrequent or uncertain signals.
 
 ## 2. Definition
-Vigilance failure is a lapse or decline in successful detection of relevant signals during sustained monitoring, especially when signals are infrequent or tasks are monotonous.
+Vigilance failure is a decline or lapse in detecting relevant signals during prolonged monitoring, particularly when targets are infrequent or difficult to discriminate.
 
 ## 3. Core Understanding
-### Monitoring conditions
-Vigilance tasks often require detection of rare or unpredictable signals over long periods. Performance can decline even when the person understands the task and remains motivated to perform it.
-
-### Time-on-task
-Long monitoring periods can increase attentional lapses. The trajectory is influenced by event rate, discriminability, workload, fatigue, arousal, and task structure.
-
-### Not inevitable
-Vigilance failure is probabilistic. Some tasks and individuals show stable performance, and changes in feedback, signal frequency, task design, or environmental conditions can alter performance.
-
-### Mechanisms
-Declines can reflect interactions among sustained attention, arousal, motivation, expectation, and decision criteria rather than one single mechanism.
+Vigilance tasks create a distinctive attentional problem: the observer must maintain readiness even when most moments contain no target. Performance can deteriorate or fluctuate with time-on-task, target rate, signal discriminability, fatigue, circadian state, motivation, and decision criteria. A missed target therefore does not uniquely identify a failure of attention; it may reflect perceptual ambiguity, response bias, uncertainty, or a changed decision threshold. This is why vigilance research often benefits from signal-detection measures rather than raw accuracy alone. Vigilance failure is a specific breakdown within sustained attention, not a synonym for tiredness or boredom. The underlying causes can differ across tasks and individuals.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+It is the failure-side counterpart of sustained attention in prolonged monitoring. It also connects to signal detection and response criterion from 1.4 without re-owning those concepts.
 
 ## 5. Boundaries
 ### Owns
-Owns failure of prolonged monitoring within the attentional domain.
+Owns breakdown during prolonged vigilance demands.
 
 ### Defers
-Sustained attention owns the maintained-engagement construct. Sleep and circadian mechanisms are owned by Chapter 1.5; signal-detection criteria and response bias belong to Chapter 1.4.
+Defers sustained attention, sleep/circadian state, and signal-detection theory to their canonical owners.
 
 ## 6. Key Principles
-- Prolonged monitoring can produce probabilistic detection failures.
-- Time-on-task effects are shaped by arousal, event rate, fatigue, and task design.
-- Vigilance failure is not inevitable and is not synonymous with sustained attention.
+- Misses can arise from attention, perception, or decision criteria.
+- Vigilance is specifically prolonged monitoring with infrequent signals.
+- Time-on-task effects are heterogeneous.
 
 ## 1.6.38 Distraction
 
 ## 1. Purpose
-Explain how competing information or activity can divert attention away from a current goal.
+Explain attentional diversion caused by competing information or activity.
 
 ## 2. Definition
-Distraction is a diversion or disruption of attentional processing caused by information, events, thoughts, or activities that compete with the current goal.
+Distraction is a shift or degradation of task-relevant attention caused by competing information, activity, thought, or environmental events.
 
 ## 3. Core Understanding
-### External and internal distraction
-Distraction can originate outside the person, such as a sound or notification, or internally, such as an unrelated thought or concern. The attentional consequences can differ.
-
-### Relevance matters
-A competing stimulus is not equally distracting in every context. Salience, task relevance, similarity to the target, predictability, current attentional settings, and task difficulty all influence disruption.
-
-### Performance effects
-Distraction can slow responses, increase errors, interrupt task-set maintenance, or reduce the quality of encoding and decision making. The magnitude depends on the overlap between distractor processing and the current task.
-
-### Control
-Attentional control can reduce some distraction, but complete resistance is not guaranteed. Attempts to suppress distraction can themselves consume control resources.
+Distraction is a functional outcome rather than one mechanism. It can result from exogenous capture, goal conflict, attentional switching, competing working-memory contents, emotionally salient information, or internally generated thought. The same stimulus can be distracting in one context and irrelevant in another because task goals and attentional settings alter priority. Distraction can be measured through slower responses, errors, missed targets, reduced persistence, or subjective disruption, and these measures need not agree. A competing event need not be consciously noticed to alter performance, while a noticed event need not produce measurable impairment. Therefore distraction should not be equated with salience, capture, or mind-wandering. It is best treated as interference with the current allocation of attention.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+It is an outcome-level construct linking capture, inhibition, task switching, and mind-wandering. It differs from attentional failure because distraction specifies competing influence as the source of disruption.
 
 ## 5. Boundaries
 ### Owns
-Owns attentional diversion or disruption by competing information or activity.
+Owns attentional disruption attributable to competing information or activity.
 
 ### Defers
-Attentional capture owns priority shifts triggered by competing stimuli. Mind-wandering owns internally generated task-unrelated thought. Salience owns relative stimulus prominence.
+Defers specific mechanisms to capture, inhibition, switching, and internally generated thought.
 
 ## 6. Key Principles
-- Distraction is relative to a current task or goal.
-- External and internal distraction can arise through different mechanisms.
-- Control can reduce distraction without guaranteeing complete resistance.
+- Distraction is context-dependent.
+- A distracting event need not be consciously noticed.
+- Distraction is an outcome and can have multiple mechanisms.
 
 ## 1.6.39 Attention failure
 
 ## 1. Purpose
-Provide the general category for situations in which attention does not adequately select, maintain, shift, or regulate information for the current task.
+Provide a general category for cases in which attentional allocation does not meet task demands.
 
 ## 2. Definition
-Attention failure is a breakdown or insufficiency in attentional selection, maintenance, shifting, or control that produces a meaningful loss of task-relevant processing.
+Attention failure is a broad description of performance or awareness breakdown attributable to inadequate, misdirected, unstable, or poorly coordinated attentional allocation.
 
 ## 3. Core Understanding
-### Forms
-Attention failures include lapses, missed targets, inappropriate selection, poor disengagement, excessive distraction, and breakdowns in prolonged monitoring.
-
-### Causes
-Failure can arise from competition, fatigue, task difficulty, weak cues, divided demands, unexpected events, state changes, or poorly calibrated attentional settings. A single observed failure does not identify its cause.
-
-### Measurement
-Different paradigms measure different failures. A missed target in a visual-search task, a lapse during vigilance, and a failure to notice an unexpected event should not automatically be treated as the same mechanism.
-
-### Adaptive interpretation
-Attention failure is not always evidence of a stable deficit. Performance is strongly dependent on task and context.
+Attention can fail through several routes: selection of the wrong information, insufficient sustained engagement, delayed disengagement, excessive capture, divided-task interference, mind-wandering, or inappropriate control. The category therefore should not be treated as a single mechanism. Good diagnosis of an attentional failure requires specifying what the task required, what information was prioritized, what competing demand existed, and which observable consequence occurred. Errors can also arise from perception, memory, knowledge, motivation, or decision processes without attention being the primary cause. The label is most useful as a higher-level classification that prompts mechanism-specific analysis. It should not become a catch-all explanation for every cognitive mistake.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+It is the chapter's broad failure category. Specific failure phenomena such as inattentional blindness, change blindness, vigilance failure, and attentional blink should be preferred when their defining conditions are present.
 
 ## 5. Boundaries
 ### Owns
-Owns the general category of attentional breakdown.
+Owns the general classification of attentional breakdowns.
 
 ### Defers
-Inattentional blindness, change blindness, attentional blink, vigilance failure, distraction, and disengagement difficulties have more specific Topics. Clinical conditions affecting attention belong to the appropriate clinical chapters.
+Defers specific failure mechanisms and non-attentional causes of errors to their canonical domains.
 
 ## 6. Key Principles
-- Attention failure is a broad category rather than one mechanism.
-- Different failures require different explanations.
-- Task context strongly affects whether a lapse occurs.
+- “Attention failure” is not a single mechanism.
+- A behavioral error requires mechanism-specific analysis.
+- Perceptual, memory, motivational, and decision failures can mimic attentional failure.
 
 ## 1.6.40 Mind-wandering
 
 ## 1. Purpose
-Explain attention that shifts away from the immediate task toward internally generated thought.
+Explain attention becoming decoupled from the immediate task toward internally generated thought.
 
 ## 2. Definition
-Mind-wandering is a state in which attention becomes substantially decoupled from the immediate external task or environment and is directed toward internally generated thoughts or concerns.
+Mind-wandering is a state or episode in which attention becomes substantially oriented toward internally generated thoughts, concerns, memories, plans, or imagery rather than the immediate external task.
 
 ## 3. Core Understanding
-### Task-unrelated thought
-Mind-wandering often involves thoughts about memories, plans, worries, fantasies, or other internally generated content that is not required by the current task.
-
-### Spontaneous and deliberate forms
-Mind-wandering can arise without intention or can be deliberately initiated. Deliberate internal thought may be useful for planning or reflection, whereas spontaneous episodes can interfere with tasks requiring continuous external attention.
-
-### Meta-awareness
-A person may or may not realize that attention has drifted. Awareness of the current mental state can therefore vary independently of the occurrence of internally directed thought.
-
-### Costs and possible benefits
-Mind-wandering can impair performance when sustained external attention is required. In other contexts, internally generated thought can support planning, autobiographical reflection, problem solving, or future simulation. The adaptive value depends on timing and task context.
-
-### Evidence status
-Mind-wandering is studied using experience sampling, thought probes, behavioral measures, and self-report. Definitions and measurement methods vary, so estimates of frequency and consequences depend on methodology.
+Mind-wandering is not simply the absence of attention. Attention may remain highly organized around an internal target while becoming less coupled to current sensory input. Episodes vary in intentionality, controllability, content, emotional tone, and relevance to the current task. Some forms are spontaneous, while others are deliberately initiated for planning or reflection. Task performance can decline when internal thought competes with external monitoring, but internally generated thought can also support future planning, problem solving, autobiographical processing, and other adaptive functions. Mind-wandering therefore has to be described in relation to the task context and the person's current goal. Measures include experience sampling, thought probes, performance variability, and self-report, each capturing different aspects and carrying different limitations.
 
 ## 4. Relationship to This Chapter
-This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
+It is an internally directed attentional state that connects attention with consciousness, memory, planning, and self-generated thought. It should not be equated with distraction because some mind-wandering is intentional and not experienced as unwanted.
 
 ## 5. Boundaries
 ### Owns
-Owns mind-wandering as an attentional state involving reduced coupling to the immediate external task.
+Owns attentional decoupling toward internally generated content.
 
 ### Defers
-Consciousness and subjective experience are owned by Chapter 1.5. Memory, future thinking, and broader thought processes have their canonical cognitive owners. Distraction owns competing attentional diversion rather than the specific internally generated state.
+Defers specific thought contents to memory, planning, emotion, and executive domains, and consciousness to 1.5.
 
 ## 6. Key Principles
-- Mind-wandering involves internally directed attention that is not required by the immediate external task.
-- It can be spontaneous or deliberate.
-- Its consequences depend on timing, task demands, and the usefulness of the internal thought.
+- Mind-wandering can be spontaneous or intentional.
+- Internal attention is still attention.
+- Mind-wandering is not inherently maladaptive or equivalent to distraction.
 
