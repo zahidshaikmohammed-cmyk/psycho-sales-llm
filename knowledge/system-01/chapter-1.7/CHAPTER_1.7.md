@@ -27,6 +27,9 @@ Learning includes conditioning, observation, cognitive acquisition, habituation,
 ### Constraints
 What is learned depends on prior experience, biological preparedness, task structure, consequences, context, and opportunity to express the acquired capability.
 
+### Additional depth
+For **TOPIC**, the central analytical question is what changed because of experience and how that change can be distinguished from temporary performance. Evidence should consider persistence, transfer, context, motivation, and alternative explanations. Learning can be acquired without immediate expression, and expression can vary when opportunity, consequences, or environmental cues change. The construct therefore concerns acquired capacity or tendency rather than a single successful or unsuccessful performance.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -58,6 +61,9 @@ Organisms learn from relationships, prediction errors, consequences, and absence
 
 ### Expression
 Learned effects may generalize, remain context-bound, or appear only when motivation and opportunity permit.
+
+### Additional depth
+For **TOPIC**, the central issue is how prior experience changes the information available for later behavior. The same event can teach different things depending on prior knowledge, attention, biological preparedness, and consequences. Learned effects may generalize or remain context-bound. A careful account therefore specifies the learning history, the information made predictive, the conditions under which learning is expressed, and whether later behavior could instead reflect a temporary state change.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -91,6 +97,9 @@ A temporary behavioral change does not establish learning. Stable change across 
 ### Maintenance
 Behavior learned under one contingency can weaken when cues, consequences, or contexts change. Maintenance therefore depends on continuing learning conditions and competing learning.
 
+### Additional depth
+For **TOPIC**, the central issue is how experience changes the probability or organization of behavior. Observable change is stronger evidence of learning when it persists across relevant conditions and cannot be explained by fatigue, motivation, maturation, opportunity, or immediate consequence value. Learning can alter response selection, timing, persistence, or efficiency, while the same learned tendency can be suppressed or expressed differently when contingencies and contexts change.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -122,6 +131,9 @@ Associative learning is sensitive to informativeness and prediction error rather
 
 ### Competition
 Blocking, overshadowing, latent inhibition, and related effects show that prior experience changes what a new cue can acquire.
+
+### Additional depth
+For **TOPIC**, analysis focuses on what relationship has been acquired and what evidence shows that relationship exists. Associations can involve stimuli, outcomes, responses, or consequences, and previous associations can compete with new ones. Timing, predictiveness, salience, and biological constraints matter. Associative learning therefore cannot be reduced to counting pairings or repetitions; the informational structure of experience determines what is acquired and how later events modify it.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -155,6 +167,9 @@ A constraint changes probability or difficulty; it does not necessarily make lea
 ### Interaction
 Biology determines available learning pathways while experience determines which pathways are exercised.
 
+### Additional depth
+For **TOPIC**, the key scientific issue is how organism-level characteristics alter learning opportunity without making learning predetermined. Sensory capacities, motor systems, developmental state, and evolved predispositions can change acquisition rate, stimulus relevance, generalization, and persistence. A biological constraint should be treated as a probabilistic influence unless evidence demonstrates a stronger limit. Environmental experience remains necessary for learned change even when some learning pathways are especially prepared.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -186,6 +201,9 @@ Taste-aversion learning illustrates that temporal and stimulus relations can dif
 
 ### Boundary
 Preparedness is not a claim that behavior is genetically programmed without experience, nor is it identical to familiarity or practice.
+
+### Additional depth
+For **TOPIC**, the important distinction is between a predisposition and an automatic behavioral program. Preparedness means that some relationships are easier to acquire, often because they have biological relevance, not that the response appears without experience. Learning history, stimulus arrangement, timing, and context can still modify the effect. Evidence is strongest when acquisition differs systematically between comparable learning possibilities rather than merely appearing rapid in one condition.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -219,6 +237,9 @@ Acquisition depends on contingency, timing, salience, prior learning, and inform
 ### Extinction
 Reduced responding during extinction often reflects new learning rather than guaranteed erasure, explaining later recovery.
 
+### Additional depth
+For **TOPIC**, the defining problem is how a predictive relation is acquired between stimuli. Classical conditioning research shows that simple temporal pairing is not a complete account: contingency, prediction error, cue competition, timing, salience, and prior experience influence acquisition. Extinction can reduce responding without necessarily erasing earlier learning, and later recovery phenomena demonstrate why conditioned performance should not be treated as a permanent property of the stimulus.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -250,6 +271,9 @@ A stimulus can have learning history and still function as unconditioned for a p
 
 ### Conditioning role
 It supplies the outcome around which a conditioned predictor can acquire significance.
+
+### Additional depth
+For **TOPIC**, its functional role depends on the response and conditioning arrangement rather than on the physical stimulus alone. The relevant event supplies the outcome around which predictive learning can be organized. Intensity, timing, physiological state, and context can change its effect. Consequently, the term should be applied to the demonstrated stimulus-response relation and should not be interpreted as a claim that the stimulus has no learning history.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -283,6 +307,9 @@ Even unconditioned responding varies with physiological state, stimulus intensit
 ### Boundary
 Not every automatic response is an unconditioned response; the relevant stimulus-response relation defines the term.
 
+### Additional depth
+For **TOPIC**, its meaning is defined by the response elicited by the relevant unconditioned event. Magnitude and expression can vary with state, stimulus intensity, context, and organism. The response provides a baseline for understanding later conditioned responding, but the conditioned response need not duplicate it. The term is therefore functional rather than a claim that every occurrence is an identical innate reflex.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -314,6 +341,9 @@ Its effectiveness depends on contingency, timing, salience, context, and prior l
 
 ### Extinction and recovery
 Responding can decline while the learned relation remains recoverable under changed conditions.
+
+### Additional depth
+For **TOPIC**, acquired predictive significance is the central mechanism. Once learning establishes a reliable relation, the cue can influence anticipation and behavior before the outcome occurs. Subsequent extinction, context change, discrimination training, or competing learning can alter its expression. A conditioned stimulus should therefore be understood as a learned functional role that can change with later experience rather than as a permanent property of an object or signal.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -347,6 +377,9 @@ Conditioning can be inferred from changes in response probability, magnitude, la
 ### Boundary
 The term concerns the learned relation, not whether the response is voluntary or consciously expected.
 
+### Additional depth
+For **TOPIC**, the observed response is an index of acquired learning rather than a complete readout of the underlying association. Response magnitude, latency, probability, and physiological measures can all provide evidence, but they can be influenced by context, motivation, extinction, and competing learning. Interpretation should therefore distinguish changes in performance from claims about whether the original learned relation has been fully removed.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -378,6 +411,9 @@ Contingency, timing, salience, prior learning, motivation, and biological constr
 
 ### Evidence
 Increasing performance is evidence only when alternative explanations such as maturation, changing motivation, or repeated exposure are considered.
+
+### Additional depth
+For **TOPIC**, acquisition is best understood as changing control across experience rather than as a single moment when learning “appears.” Rate of acquisition depends on contingency, timing, salience, prior learning, motivational conditions, and biological constraints. Different acquisition curves can arise from different combinations of these factors, so the pattern should be interpreted in relation to the learning arrangement rather than treated as a universal law.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -411,6 +447,9 @@ Recovery effects show that extinction often adds competing learning rather than 
 ### Context
 Extinction is frequently context-sensitive, so a response suppressed in one environment can return when conditions change.
 
+### Additional depth
+For **TOPIC**, the central mechanism is new learning produced by a changed contingency. In classical conditioning, the expected outcome is omitted; in operant learning, a previously effective consequence no longer follows the behavior. Reduced responding can coexist with preserved earlier learning, which explains return phenomena. Extinction should therefore be interpreted as a change in behavioral control and not automatically as deletion of the original association.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -442,6 +481,9 @@ Spontaneous recovery is time-related. Renewal concerns context change; reinstate
 
 ### Interpretation
 Recovery supports models in which extinction learning competes with earlier learning, although the exact mechanism varies across conditions.
+
+### Additional depth
+For **TOPIC**, the defining evidence is a return of previously reduced conditioned responding after a delay. This matters because the response can reappear without direct retraining of the original association. The phenomenon therefore constrains simple erasure accounts of extinction. Its magnitude remains sensitive to context, time, prior training, and the exact extinction arrangement, so recovery should not be treated as inevitable or uniform.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -475,6 +517,9 @@ Generalization lets learned information guide behavior when exact repetition is 
 ### Interaction
 Discrimination and generalization jointly determine how broadly learning applies; context and the dimension of similarity influence the pattern.
 
+### Additional depth
+For **TOPIC**, the adaptive problem is deciding how far a learned response should extend beyond the exact training stimulus. Generalization permits useful prediction when stimuli vary, but excessive generalization can produce responding to irrelevant cues. The similarity dimension matters: organisms can generalize strongly along one dimension while discriminating another. Consequently, “similarity” must be defined relative to the features that actually control the learned response.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -506,6 +551,9 @@ Differential responding can occur without verbal awareness of the distinction.
 
 ### Balance
 Discrimination narrows learning around meaningful differences while generalization extends it. Context and changed contingencies can shift the learned boundary.
+
+### Additional depth
+For **TOPIC**, the central function is restricting responding when differences among stimuli predict different outcomes. Discrimination can be strengthened through differential consequences or differential conditioning, but it remains dependent on training history and context. Discrimination is not the opposite of generalization in an absolute sense; effective learning requires both sufficient spread to permit transfer and sufficient restriction to avoid inappropriate responding.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -539,6 +587,9 @@ Training, discrimination procedures, stimulus dimension, context, and prior lear
 ### Interpretation
 The gradient is a measurement pattern. Its shape describes behavioral distribution but does not by itself establish one underlying mechanism.
 
+### Additional depth
+For **TOPIC**, the gradient provides quantitative information about how broadly learning generalizes across a defined stimulus dimension. Its slope and shape can change with discrimination training, prior exposure, context, and stimulus properties. Because it is an empirical distribution of responding, a gradient does not by itself identify the mechanism producing it. Interpretation requires specifying the tested dimension and the learning history that produced the pattern.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -570,6 +621,9 @@ Summation and retardation procedures are used to evaluate inhibitory properties.
 
 ### Boundary
 Conditioned inhibition concerns learned outcome prediction, not general attentional inhibition or behavioral suppression.
+
+### Additional depth
+For **TOPIC**, inhibitory meaning must be distinguished from mere absence of excitation. A cue is considered inhibitory when its learned relation predicts reduced likelihood of an expected outcome under appropriate testing conditions. Summation and retardation procedures can provide evidence. The effect is relational and context-sensitive, so low responding to the cue alone is insufficient to establish conditioned inhibition.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -603,6 +657,9 @@ Learned predictive value can therefore be transmitted through stimulus relations
 ### Limits
 Higher-order conditioning is often weaker than direct conditioning and depends on timing, salience, prior learning, and sequence structure.
 
+### Additional depth
+For **TOPIC**, the learning sequence is critical: an already established conditioned cue provides the basis for conditioning a second cue. This demonstrates that predictive significance can itself become information used in later learning. Higher-order effects can be weaker than direct conditioning and depend on cue salience, timing, prior learning, and the exact sequence of pairings.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -634,6 +691,9 @@ Blocking demonstrates that pairing alone is insufficient; learning depends on wh
 
 ### Boundary
 Blocking depends on cue history, timing, salience, and contingency. It is not a universal inability to learn compound stimuli.
+
+### Additional depth
+For **TOPIC**, the important mechanism is redundancy. When one cue already predicts an outcome, a newly added cue can provide little prediction error, so little additional learning occurs about it. This demonstrates that conditioning is sensitive to informational value rather than mere exposure. Blocking is especially useful theoretically because the novel cue can be physically paired with the outcome while acquiring comparatively little control.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -667,6 +727,9 @@ Overshadowing occurs during compound acquisition. Blocking requires prior learni
 ### Boundary
 Overshadowing is a learned competition effect, not simply a statement that people attend to whatever is physically strongest.
 
+### Additional depth
+For **TOPIC**, simultaneous cues compete for predictive control during acquisition. A more salient or informative cue can dominate learning while a less salient cue receives weaker associative control. This differs from blocking because no prior conditioning of one cue is required before the compound is trained. The phenomenon demonstrates that learning about compound stimuli is structured and competitive rather than evenly distributed.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -698,6 +761,9 @@ The effect depends on exposure amount, context, stimulus properties, and later c
 
 ### Distinction
 Latent inhibition concerns prior exposure to the same cue. Blocking concerns prior learning about a different cue predicting the outcome.
+
+### Additional depth
+For **TOPIC**, prior exposure changes the later learning value of the same stimulus. A cue that was repeatedly encountered without consequence can become slower to condition when it later predicts an outcome. The effect shows that acquisition has a history and that the organism does not treat every new pairing as equally informative. Exposure conditions, context, and later conditioning procedures all matter.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -731,6 +797,9 @@ Shaping can build new responses and chaining can organize them into sequences. S
 ### Performance distinction
 Behavior frequency can change because motivation or opportunity changes, so contingency analysis is required when inferring learning.
 
+### Additional depth
+For **TOPIC**, the central unit of analysis is the behavior-consequence relation. Reinforcement increases behavior and punishment decreases it, but antecedent cues determine when consequences are available and motivational conditions influence their value. Complex behavior can be constructed through shaping and chaining, while schedules alter persistence and response patterns. Operant analysis therefore requires the full contingency rather than a consequence viewed in isolation.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -762,6 +831,9 @@ Timing, contingency, motivational state, prior learning, and consequence value i
 
 ### Boundary
 Praise, money, attention, or relief are not automatically reinforcers; their function must be demonstrated by behavior change.
+
+### Additional depth
+For **TOPIC**, functional classification depends on whether the consequence actually increases behavior. A consequence can be pleasant, intended as a reward, or socially described as encouraging without functioning as reinforcement. Timing, contingency, motivational state, prior learning, and competing consequences influence the effect. The term therefore identifies a behavioral relation rather than a category of inherently rewarding objects.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -795,6 +867,9 @@ Reinforcer effectiveness depends on current value, deprivation/satiation, histor
 ### Boundary
 A consequence intended as encouragement is not necessarily reinforcing if behavior does not increase.
 
+### Additional depth
+For **TOPIC**, the defining feature is presentation of a consequence followed by increased behavior. The word “positive” describes addition, not desirability. The same physical consequence may reinforce one behavior or person and have little effect under another condition. Functional assessment must therefore compare behavior under relevant conditions rather than infer reinforcement from the consequence's appearance.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -823,6 +898,9 @@ A behavior becomes more likely because the behavior removes, reduces, or prevent
 
 ### Common confusion
 Negative reinforcement increases behavior; punishment decreases behavior. The two should never be classified by whether the consequence feels unpleasant alone.
+
+### Additional depth
+For **TOPIC**, the defining feature is removal or reduction of an aversive condition followed by increased behavior. The word “negative” describes subtraction, not moral value. Escape and avoidance are important applications but differ in timing: one terminates an ongoing condition, while the other prevents or delays it. This functional definition prevents negative reinforcement from being confused with punishment.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -856,6 +934,9 @@ Punishment can suppress behavior without teaching an alternative response. Effec
 ### Boundary
 An unpleasant event is not automatically punishment unless the target behavior actually decreases.
 
+### Additional depth
+For **TOPIC**, the key question is whether future behavior decreases following the consequence. The term is not defined by harshness, unpleasantness, or intention. Punishment can suppress behavior without teaching a useful alternative, and its effect depends on immediacy, contingency, intensity, consistency, competing reinforcement, and learning history. A reduction in behavior should therefore be evaluated against a meaningful baseline.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -887,6 +968,9 @@ Effect depends on timing, contingency, intensity, predictability, competing cons
 
 ### Boundary
 Any unpleasant consequence is not automatically positive punishment; the behavioral effect determines classification.
+
+### Additional depth
+For **TOPIC**, presentation is the physical form of the consequence, while decreased behavior is its functional criterion. The same event can have different effects depending on timing, contingency, value, and competing outcomes. Positive punishment therefore should not be identified simply by describing something as unpleasant; its defining evidence is a reliable reduction in the target behavior.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -920,6 +1004,9 @@ Removal alone is not enough; the consequence must alter future behavior.
 ### Distinction
 Negative punishment differs from negative reinforcement because one decreases behavior while the other increases it.
 
+### Additional depth
+For **TOPIC**, removal is the physical form of the consequence, while decreased behavior establishes its function. The removed activity, privilege, or stimulus must matter to the organism, and alternative reinforcement can alter the effect. Negative punishment should therefore be distinguished from ordinary loss or deprivation that has no measurable influence on the behavior under study.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -951,6 +1038,9 @@ Primary reinforcers can support acquisition of secondary reinforcers through ass
 
 ### Boundary
 Primary does not mean permanently reinforcing or independent of all experience.
+
+### Additional depth
+For **TOPIC**, biological value is a major source of reinforcing effectiveness, but current physiological state changes that value. Deprivation, satiation, and opportunity influence how strongly a primary reinforcer affects behavior. “Primary” therefore describes the basis of value rather than an invariant property. The distinction is important because a biologically relevant outcome can still lose reinforcing effectiveness temporarily.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -984,6 +1074,9 @@ Some secondary reinforcers acquire value through multiple sources of reinforceme
 ### Boundary
 Being called a reward does not make a stimulus a reinforcer; behavioral increase establishes function.
 
+### Additional depth
+For **TOPIC**, reinforcing value is acquired rather than intrinsic in the primary sense. Association with valued outcomes can make a previously neutral stimulus behaviorally effective. Because its value is learned, it can also change when supporting outcomes change. Generalized secondary reinforcers can draw value from multiple sources, reducing dependence on any one motivational condition.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -1015,6 +1108,9 @@ Fixed and variable ratio schedules use response requirements; fixed and variable
 
 ### Boundary
 A schedule specifies delivery structure, not the value of the reinforcer.
+
+### Additional depth
+For **TOPIC**, the schedule specifies the relation between behavior and consequence delivery. Response-based and time-based schedules produce different patterns because the learner is responding to different contingency structures. Schedule history also matters: changing from one schedule to another can temporarily preserve old response patterns before new learning stabilizes.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -1048,6 +1144,9 @@ Ratio size, reinforcer magnitude, prior training, and organism influence the pat
 ### Contrast
 The requirement is response-based and fixed, unlike variable-ratio or interval schedules.
 
+### Additional depth
+For **TOPIC**, the predictable response requirement provides a clear behavioral rule. Fixed-ratio performance often includes relatively high responding interrupted by post-reinforcement pauses, but ratio size and reinforcer value alter the pattern. The schedule should therefore be treated as a contingency structure that produces tendencies rather than a guarantee of one response rate.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -1076,6 +1175,9 @@ The exact requirement cannot be predicted on each trial. This often supports hig
 
 ### Contrast
 Variable-ratio schedules vary response count; variable-interval schedules vary elapsed time. The distinction concerns what controls reinforcement availability.
+
+### Additional depth
+For **TOPIC**, uncertainty is attached to the number of responses required, not necessarily to whether reinforcement exists. Because the next reinforcement cannot be predicted from a fixed response count, responding can remain persistent. Exact response patterns still depend on average ratio, reinforcer value, prior schedule history, and the transition conditions.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -1109,6 +1211,9 @@ The organism learns temporal regularity and organizes responding around it.
 ### Contrast
 Unlike fixed-ratio schedules, time rather than response count establishes eligibility.
 
+### Additional depth
+For **TOPIC**, predictable elapsed time becomes part of the contingency. Responding often changes as the organism learns when reinforcement becomes available, producing characteristic temporal patterns. The effect depends on interval duration, reinforcer value, prior schedule history, and opportunity to respond, so the schedule label alone does not determine exact performance.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -1137,6 +1242,9 @@ The organism cannot predict exactly when reinforcement becomes available. This o
 
 ### Contrast
 The varying unit is elapsed time, unlike variable-ratio schedules where the response requirement varies.
+
+### Additional depth
+For **TOPIC**, changing intervals make reinforcement availability difficult to predict precisely from elapsed time. This can support relatively steady responding because the organism cannot identify one reliable moment when the next opportunity will occur. Response rate nevertheless remains sensitive to interval distribution, reinforcer value, and previous learning history.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -1170,6 +1278,9 @@ Criterion changes that are too abrupt can prevent acquisition; criteria that are
 ### Boundary
 Shaping is not mere repetition. Its defining feature is selective reinforcement of increasingly appropriate forms.
 
+### Additional depth
+For **TOPIC**, the critical operation is progressive adjustment of the reinforcement criterion. Early approximations create a bridge toward a response that may initially be absent or rare. If the criterion changes too quickly, acquisition can stall; if it changes too slowly, an imprecise form can stabilize. Shaping therefore depends on carefully organized differential reinforcement.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -1201,6 +1312,9 @@ Forward and backward chaining alter where training begins. Both build an ordered
 
 ### Distinction
 Shaping changes the form of a response through approximations; chaining connects distinct responses.
+
+### Additional depth
+For **TOPIC**, a chain is learned as an ordered set of transitions rather than one indivisible response. Stimuli can acquire control over individual links, and consequences can maintain progression through the sequence. Forward and backward procedures change training order but not the fundamental principle that component responses become functionally connected.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -1234,6 +1348,9 @@ A discriminative stimulus does not mechanically cause behavior. Its control depe
 ### Distinction
 It differs from a conditioned stimulus in classical conditioning: the discriminative stimulus signals consequences for an operant response.
 
+### Additional depth
+For **TOPIC**, discriminative control depends on a history in which consequences differ across conditions. The cue signals opportunity rather than mechanically causing the response. If the contingency becomes equally available across cue conditions, control should weaken. This makes the construct distinct from any stimulus that merely happens to occur before a behavior.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -1265,6 +1382,9 @@ Avoidance prevents or delays an aversive event before it begins; escape terminat
 
 ### Context
 If the response no longer produces termination, its reinforcing function changes and behavior may decline.
+
+### Additional depth
+For **TOPIC**, the behavior is strengthened because an aversive condition already exists and the response terminates or reduces it. This timing distinction is essential: the response changes an ongoing event rather than merely preventing a future one. If termination is no longer contingent on the response, the learned function changes and behavior may decline.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -1298,6 +1418,9 @@ Escape terminates an ongoing aversive event; avoidance changes behavior before t
 ### Boundary
 Avoidance is a learning relation, not a synonym for fear or anxiety.
 
+### Additional depth
+For **TOPIC**, the behavior is strengthened because it prevents or delays an anticipated aversive event. Successful prevention can make learning difficult to extinguish because the expected event is never directly experienced under the new contingency. Avoidance is therefore a behavioral learning relation, not simply a label for fear, anxiety, or dislike.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -1329,6 +1452,9 @@ Reduced responding after devaluation can indicate sensitivity to current outcome
 
 ### Habit relation
 Extensive training can sometimes make behavior more stimulus-driven and less sensitive to immediate outcome value, making devaluation a useful diagnostic manipulation.
+
+### Additional depth
+For **TOPIC**, the contingency can remain unchanged while the outcome's current value changes. This makes devaluation useful for examining whether behavior remains sensitive to consequences or has become more stimulus-driven. Interpretation must account for satiation, aversive change, motivational state, and training history before attributing a response decrease to one mechanism.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -1362,6 +1488,9 @@ Attention, retention, capability, and motivation influence whether observed info
 ### Consequences
 Observed reinforcement or punishment can alter behavior without direct exposure to the consequence.
 
+### Additional depth
+For **TOPIC**, observation can transmit information about actions, strategies, environmental structure, and consequences. Learning can occur without immediate reproduction. Effective observational learning depends on what the observer attends to, retains, can perform, and is motivated to use. Thus observed behavior is an input to learning, not a guarantee of copying.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -1393,6 +1522,9 @@ Attention can be affected by perceived competence, similarity, relevance, status
 
 ### Distinction
 Modeling is the demonstrative function of an example; imitation is reproduction of behavior. A model can teach a rule or strategy without exact copying.
+
+### Additional depth
+For **TOPIC**, a model can provide both the form of a behavior and information about when or why it works. Model characteristics can influence attention, but the observer still interprets and organizes what is seen. Modeling is therefore a route for transmitting behavioral information rather than a mechanical copying process.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -1426,6 +1558,9 @@ Imitation can efficiently transmit useful behavior without direct trial-and-erro
 ### Boundary
 Observed similarity alone does not prove imitation; similar behavior can arise independently. Evidence must connect the later behavior to the observed model.
 
+### Additional depth
+For **TOPIC**, reproduction can preserve some features of the model while omitting others. The relevant unit of fidelity depends on the action's goal and structure. Similar behavior can also arise without observation, so evidence for imitation requires a plausible connection between the observed model and the later reproduced action.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -1457,6 +1592,9 @@ The observer obtains consequence information without directly experiencing the o
 
 ### Moderators
 Perceived similarity, identification, credibility, observed outcome value, and prior expectations can affect the effect.
+
+### Additional depth
+For **TOPIC**, observing another person's outcome can provide information about the likely consequences of a behavior without direct exposure. The effect depends on how the observer interprets the model, outcome, and relevance to self. Vicarious learning therefore adds consequence information to observational learning rather than requiring direct reinforcement.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -1490,6 +1628,9 @@ People do not simply copy social input. Attention, interpretation, prior knowled
 ### Boundary
 Social learning is broader than imitation and does not require direct copying of visible behavior.
 
+### Additional depth
+For **TOPIC**, social learning is broader than copying because people can acquire rules, expectations, strategies, and norms through communication and interaction. Social information is filtered through attention, interpretation, prior knowledge, motivation, and group context. The same social environment can therefore produce different learning in different observers.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -1521,6 +1662,9 @@ Cognitive learning concerns what information is acquired and organized, not nece
 
 ### Boundary
 It remains a learning construct; memory owns retention/retrieval and attention owns selection of information.
+
+### Additional depth
+For **TOPIC**, acquired representations can change what relationships the learner expects and how later information is interpreted. Cognitive learning is therefore not limited to strengthening one visible response. It can support flexible behavior when a situation requires applying a learned relation rather than reproducing a previously reinforced action.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -1554,6 +1698,9 @@ Classic maze-learning work helped demonstrate that reinforcement is not required
 ### Limits
 Later performance alone does not prove earlier hidden learning; new learning, maturation, or changed motivation can provide alternatives.
 
+### Additional depth
+For **TOPIC**, the distinction between acquisition and performance is central. An organism may encode useful information without displaying it while the immediate task provides no reason or opportunity to use it. Later expression can reveal that learning, but only when alternative explanations such as new learning and changed motivation are controlled.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -1585,6 +1732,9 @@ Gestalt-inspired problem-solving studies highlighted abrupt solution rather than
 
 ### Interpretation
 Sudden performance does not prove absence of prior learning or conscious processing. Earlier experience can prepare the representations from which a solution emerges.
+
+### Additional depth
+For **TOPIC**, sudden solution can reflect restructuring of relationships among already available information. Earlier experience and failed attempts may prepare the representation even when the final performance appears abrupt. Insight therefore should not be treated as learning from nothing or as proof that all intermediate processing was unconscious.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -1618,6 +1768,9 @@ Later performance can reveal acquisition that was previously unexpressed, but co
 ### Boundary
 The construct separates acquisition from expression; it does not imply that learning is inherently unmeasurable.
 
+### Additional depth
+For **TOPIC**, absence of immediate behavior cannot by itself establish absence of learning. Conversely, later success cannot automatically prove that the relevant information was acquired earlier. Strong inference requires examining intervening experience, motivation, opportunity, and task changes that could have produced the later performance.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -1649,6 +1802,9 @@ Dishabituation can restore responding after a strong novel event; spontaneous re
 
 ### Distinction
 Habituation differs from sensory adaptation and fatigue because its defining pattern is learned response change across repeated stimulation.
+
+### Additional depth
+For **TOPIC**, acquisition and expression should be treated as separable levels of analysis. Retention, transfer, response flexibility, and performance under changed motivational conditions can reveal different aspects of what was learned. This distinction prevents a single performance measure from being treated as a complete measure of learning.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -1682,6 +1838,9 @@ Habituation reduces responses to repeated harmless input; sensitization can incr
 ### Limits
 Effects depend on intensity, timing, state, and context and are not equivalent to enduring anxiety or generalized arousal.
 
+### Additional depth
+For **TOPIC**, repeated harmless stimulation can produce efficient response reduction, but the effect remains sensitive to stimulus identity and recovery conditions. Novel stimulation can restore responsiveness, helping distinguish habituation from global fatigue or permanent sensory loss. Habituation is therefore an adaptive change in response allocation rather than simple exhaustion.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -1713,6 +1872,9 @@ Improvement depends on useful repetition, correction, task difficulty, and feedb
 
 ### Transfer
 Skill transfer depends on overlap between learning and new task structure.
+
+### Additional depth
+For **TOPIC**, sensitization can increase responsiveness beyond the exact stimulus that produced the change. It can coexist with habituation when a repeated stimulus becomes familiar while a strong event raises broader readiness. Intensity, timing, physiological state, and context determine how strongly sensitization is expressed.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -1746,6 +1908,9 @@ Spacing, variability, and contextual diversity can affect retention and transfer
 ### Feedback
 Feedback can support correction but excessive dependence can reduce later independent performance.
 
+### Additional depth
+For **TOPIC**, skilled performance depends on coordination among perception, decisions, action selection, timing, and execution. Improvement can therefore occur in several dimensions simultaneously. A learner may become faster while also becoming more accurate or more economical, and these changes can have different training requirements.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -1777,6 +1942,9 @@ One successful performance is insufficient evidence of acquisition; retention an
 
 ### Correction
 Improvement depends on detecting performance errors and adjusting procedures.
+
+### Additional depth
+For **TOPIC**, practice should be judged by durable performance rather than by repetitions alone. Spacing, variability, task difficulty, retrieval, and feedback can change what is retained and transferred. Repetition without error correction can strengthen an inefficient procedure, showing why quantity of practice is not equivalent to quality of learning.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -1810,6 +1978,9 @@ Practice contributes, but instruction, feedback, opportunity, motivation, prior 
 ### Limits
 Expertise does not imply general superiority or immunity to bias and error, especially outside familiar conditions.
 
+### Additional depth
+For **TOPIC**, acquisition commonly changes the balance between controlled and more automatic components of performance. Early learning can require explicit monitoring of rules and steps; later performance may depend more on organized procedures and pattern recognition. Stable competence still requires adaptation when task conditions depart from practiced routines.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -1841,6 +2012,9 @@ Transfer is usually stronger when underlying structures overlap. Superficial sim
 
 ### Measurement
 A transfer claim requires comparison with an appropriate baseline and evidence that prior learning, rather than merely additional practice, explains improvement.
+
+### Additional depth
+For **TOPIC**, expertise reflects extensive organization of domain-specific knowledge rather than a general increase in every cognitive ability. Experts often recognize meaningful patterns quickly in familiar conditions, but unfamiliar situations can remove those advantages. Expertise therefore represents specialized adaptation rather than immunity to error or bias.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -1874,6 +2048,9 @@ Learners must select and apply strategies appropriately. Subjective fluency can 
 ### Boundary
 Strategies support learning but are not themselves equivalent to the learning mechanism.
 
+### Additional depth
+For **TOPIC**, transfer depends on whether prior learning shares functional or structural relations with the new task. Surface resemblance can produce inappropriate transfer when the underlying rule differs. Strong transfer often requires learners to recognize principles that remain relevant after superficial details change.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -1905,6 +2082,9 @@ External feedback can support early acquisition but excessive reliance can impai
 
 ### Boundary
 Feedback is information, not automatically reinforcement and not automatically effective.
+
+### Additional depth
+For **TOPIC**, a strategy is useful only relative to a learning objective. Retrieval, elaboration, spacing, organization, and varied practice solve different problems. Learners can also misjudge effectiveness because fluency or familiarity feels like mastery, making strategy evaluation and evidence-based adjustment part of learning itself.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -1938,6 +2118,9 @@ Effective regulation depends on accurate judgments of knowledge and strategy eff
 ### Constraints
 Motivation, environment, attention, habits, and competing demands can limit regulation. Self-regulation therefore is active control within constraints, not unlimited conscious control.
 
+### Additional depth
+For **TOPIC**, feedback is most useful when the learner can use it to identify and correct a meaningful error. Timing, specificity, and opportunity for self-diagnosis matter. External feedback can support early acquisition but excessive dependence can reduce independent monitoring when feedback is later removed.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -1969,6 +2152,9 @@ Interventions should track behavior over time and examine maintenance and genera
 
 ### Boundary
 Technical effectiveness and ethical desirability are separate questions; learning principles describe how behavior changes, not whether an intervention ought to be used.
+
+### Additional depth
+For **TOPIC**, self-regulation is a cycle of planning, action, monitoring, and adjustment. Effective regulation depends on calibration: a learner must distinguish actual competence from confidence and select strategies accordingly. Motivation, attention, habits, environment, and competing goals constrain how successfully the cycle operates.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -2002,6 +2188,9 @@ A familiar cue can trigger a routine before deliberate outcome evaluation occurs
 ### Boundary
 Habitual does not mean irresistible or permanently automatic.
 
+### Additional depth
+For **TOPIC**, systematic behavior change requires operational definitions, measurement, and analysis of maintaining contingencies. An intervention can produce short-term suppression without durable change, so maintenance, generalization, and alternative behavior should be assessed. Technical effectiveness does not itself establish ethical desirability.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -2033,6 +2222,9 @@ Devaluation can reveal whether behavior remains responsive to current outcome va
 
 ### Measurement
 Self-report, behavioral automaticity, cue-response consistency, and frequency measure different aspects and should not be treated as interchangeable.
+
+### Additional depth
+For **TOPIC**, stable cue-response repetition can make a routine increasingly likely in the presence of familiar contextual signals. Reward can support acquisition, but repetition and cue stability also matter. Changing the environment can therefore alter behavior even when explicit goals remain unchanged.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
@@ -2066,6 +2258,9 @@ Old routines can return when familiar cues or contexts return, so disruption doe
 ### Boundary
 Habit disruption is a learning change, not a guarantee of permanent behavioral change.
 
+### Additional depth
+For **TOPIC**, habit strength includes cue dependence, automaticity, persistence, and history, not simply frequency. Self-report, observed automaticity, cue-triggered responding, and sensitivity to outcome devaluation capture different dimensions. A strong habit can still be overridden or modified under suitable conditions.
+
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
 
@@ -2097,6 +2292,9 @@ Context can affect what is learned and also whether existing learning is express
 
 ### Recovery and transfer
 Context changes can alter extinction expression and return of learned responses; relevant similarity supports transfer.
+
+### Additional depth
+For **TOPIC**, disruption can occur by removing cues, changing context, altering consequences, or establishing a competing response. Replacement learning is important because simply suppressing an old routine can leave the original cue-response relation available. Return of old behavior after cue re-exposure does not necessarily mean that intervention failed to produce learning.
 
 ## 4. Relationship to This Chapter
 This Topic belongs to Chapter 1.7 because it addresses learning, acquired behavioral change, conditioning, consequence-based learning, socially mediated learning, nonassociative learning, skill development, or habit formation within the chapter's canonical learning architecture.
