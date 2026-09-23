@@ -17,11 +17,12 @@
 | 1.7 | 66 | 13,965 | 2.0 | V2 CERTIFIED / LOCKED & SEALED |
 | 1.8 | 76 | 16,852 | 2.0 | V2 CERTIFIED / LOCKED & SEALED |
 | 1.9 | 67 | 22,769 | 2.0 | V2 CERTIFIED / LOCKED & SEALED |
-| **TOTAL** | **608** | **158,574** | — | **1.1–1.9 COMPLETE** |
+| 1.10 | 65 | 16,425 | 2.0 | V2 CERTIFIED / LOCKED & SEALED |
+| **TOTAL** | **673** | **174,999** | — | **1.1–1.10 COMPLETE** |
 
 ## Canonical validation controls
 
-Every Chapter 1.1–1.9 validation record contains the V2 semantic gate with:
+Every Chapter 1.1–1.10 validation record contains the V2 semantic gate with:
 
 - ontology
 - structural integrity
@@ -35,15 +36,15 @@ Every Chapter 1.1–1.9 validation record contains the V2 semantic gate with:
 - cross-chapter boundaries
 - final validation
 
-**P0/P1/P2/P3: 0 across all eight certified chapters.**
+**P0/P1/P2/P3: 0 across all ten certified chapters.**
 
 ## Knowledge graph state
 
 - Graph: `graph/SYSTEM_1_KNOWLEDGE_GRAPH_V1.json`
-- Topic nodes: **608**
-- Chapter nodes: **9**
-- Total nodes: **617**
-- Typed edges: **1,361**
+- Topic-layer nodes: **673**
+- Chapter nodes: **10**
+- Total nodes: **683**
+- Typed edges: **1,484**
 - Dangling references: **0**
 - Duplicate edges: **0**
 - Validation: `graph/SYSTEM_1_KNOWLEDGE_GRAPH_V1_VALIDATION.md`
@@ -70,7 +71,7 @@ Implemented relationship classes:
 - Phase 7: COMPLETE
 - Phase 8: COMPLETE
 - **Phase 9: COMPLETE**
-- Phase 10: NEXT — continue Chapter 1.9 onward under Constitution v2.
+- Phase 10: IN PROGRESS — continue Chapter 1.11 onward under Constitution v2.
 
 ## Phase 9 integrity rule
 
