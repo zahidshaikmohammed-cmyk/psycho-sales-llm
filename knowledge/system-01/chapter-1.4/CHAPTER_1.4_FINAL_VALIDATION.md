@@ -102,7 +102,7 @@ The existing surgical ownership decisions remain preserved:
 
 No sales, persuasion, buyer, or conversion framework is used to redefine System 1 constructs.
 
-## 7. V2 Semantic Gate — Required for Canonical Seal
+## V2 Semantic Gate — Required for Canonical Seal
 
 - Ontology match: PASS
 - Structural integrity: PASS
