@@ -1448,17 +1448,17 @@ Evaluation describes how psychological systems assign significance, value, relev
 Evaluation is the process of assessing information, situations, representations, or outcomes along dimensions relevant to goals, needs, beliefs, values, expectations, or current states. Evaluation can influence emotion, motivation, judgment, decision-making, and action.
 
 ## 3. Core Understanding
-Evaluation can be rapid or deliberate. A person may immediately detect something as threatening or appealing, or may carefully compare alternatives. Evaluations can change when new information arrives or when goals change.
+Evaluation is the psychological process of assigning value, importance, desirability, threat, usefulness, adequacy, or significance to an object, event, option, self-state, or outcome. Evaluation transforms descriptive information into information that can guide emotion, motivation, judgment, preference, and action. It can be deliberate or rapid and can depend on goals, standards, prior learning, social norms, and current state.
 
-Evaluation is not identical to objective value. Two people can evaluate the same outcome differently because of differences in experience, preferences, expectations, or context. Evaluations can also be biased or inaccurate.
+Evaluation is not identical to perception or interpretation. Perception concerns what information is detected and organized; interpretation concerns what it means; evaluation concerns how it is assessed relative to some criterion. The distinctions can overlap in real cognition, but they are analytically useful because different processes and evidence may underlie each stage.
 
-Some evaluations are explicitly conscious; others are reflected indirectly in attention, choice, physiological response, or behavior. These indicators are not interchangeable, so inference requires care.
+Evaluations can be comparative or absolute, explicit or implicit, stable or context-sensitive. The same outcome can be evaluated differently depending on reference points, expectations, alternatives, social comparison, time horizon, or current needs. This context dependence is central to motivation and decision-making and helps explain why objective properties alone do not determine subjective value.
 
-### Deeper Conceptual Structure
+Evaluation can also change through learning and feedback. Outcomes provide information about whether previous evaluations were useful, and social environments can teach standards of approval, fairness, success, danger, or status. Repeated evaluation can become habitual, but established standards can be revised when evidence or goals change.
 
-Evaluation is the process of assigning significance, value, desirability, threat, relevance, or priority to information or possible outcomes. Evaluation helps determine what matters for current goals and what response may be appropriate.
+Scientific claims about evaluation should identify the criterion being used and distinguish subjective valuation from objective properties. Calling an option “better” is incomplete unless the dimension, reference standard, evaluator, and time frame are specified.
 
-Evaluations can be deliberate or rapid, explicit or implicit, and can change when goals, information, or context change. An evaluation is not necessarily an objective property of the evaluated object. It reflects an interaction between information and the person's needs, standards, expectations, and circumstances.
+
 ## 4. Relationship to This Chapter
 Evaluation sits between representation and response selection and connects strongly to emotion, motivation, judgment, decision-making, and action.
 
@@ -1470,10 +1470,15 @@ The general process of assigning psychological significance or value.
 Appraisal, valuation, preference, judgment, and decision-making to their canonical Topics.
 
 ## 6. Key Principles
-1. Evaluation assigns psychological significance to information or outcomes.
-2. Evaluation depends on goals, values, expectations, and context.
-3. Evaluations can change with new information.
-4. Psychological evaluation is not necessarily objectively accurate.
+1. Evaluation assigns significance or value relative to a criterion, goal, or standard.
+2. Evaluation differs analytically from perception and interpretation.
+3. Evaluations can be explicit or implicit and stable or context-sensitive.
+4. Reference points, expectations, alternatives, and needs can alter evaluation.
+5. Evaluation influences emotion, motivation, judgment, preference, and action.
+6. Learning and feedback can modify evaluative standards.
+7. Subjective value is not identical to objective properties.
+8. Evaluative claims should specify the dimension, standard, evaluator, and timescale.
+
 
 ---
 
@@ -1488,17 +1493,17 @@ People often have multiple possible responses to the same situation. Response se
 Response selection is the process through which a psychological system identifies, evaluates, prioritizes, and selects among available behavioral, cognitive, emotional, or action responses to a situation or internal state.
 
 ## 3. Core Understanding
-Selection can depend on goals, expected outcomes, habits, learned associations, social norms, emotional states, available resources, and situational constraints. The selected response is therefore not determined solely by the stimulus.
+Response selection is the process of choosing among available actions, reactions, or behavioral outputs after information has been processed and relevant goals, values, constraints, and consequences have been considered or activated. Selection can be deliberate, habitual, automatic, socially regulated, or constrained by what responses are physically and psychologically available. It links internal processing to observable behavior without implying that every response is consciously chosen.
 
-Selection can be deliberate or automatic. A skilled behavior may be selected rapidly because practice has made alternatives easier to evaluate, while unfamiliar decisions may require conscious comparison.
+Selection depends on the available response set. A person cannot choose an action that is not represented, accessible, physically possible, socially permissible, or sufficiently salient. Environmental design therefore influences behavior partly by shaping which responses are easy to notice and execute. Prior learning also changes response availability by strengthening habits and skills.
 
-Sometimes selection is constrained before conscious deliberation because only a limited set of responses is represented or available. The environment can therefore influence selection by making certain actions easier or harder.
+Competing responses can be activated simultaneously. Selection may require inhibition, comparison, valuation, conflict resolution, or reliance on learned contingencies. Under time pressure or high cognitive load, people may rely more heavily on habitual or highly accessible responses. Under controlled conditions, deliberate processes can sometimes override an initially dominant response, although control itself is limited.
 
-### Deeper Conceptual Structure
+Response selection should be distinguished from action execution. Selecting an action does not guarantee successful performance; motor constraints, interruptions, emotional arousal, and environmental changes can alter execution. It should also be distinguished from intention: a stated intention can influence selection without necessarily predicting later behavior perfectly.
 
-Response selection is the process of choosing among available or generated responses after information has been processed and evaluated. Selection can involve competing actions, thoughts, emotional responses, social behaviors, or decisions.
+A complete analysis specifies the response alternatives, information available, selection criteria, constraints, competing tendencies, and consequences. This makes response selection a process concept rather than a vague claim that a person “decided what to do.”
 
-The selected response depends on goals, expected outcomes, habits, available options, learned associations, perceived control, current state, and environmental constraints. Selection does not require that every possible response be consciously considered. Many responses are selected through learned or relatively automatic processes.
+
 ## 4. Relationship to This Chapter
 Response selection links evaluation to action, behavior, self-regulation, feedback, and the later action-control chapter.
 
@@ -1510,10 +1515,15 @@ The general process of selecting among possible responses.
 Decision-making, action selection, behavioral inhibition, and motor control to their canonical Topics.
 
 ## 6. Key Principles
-1. Psychological systems often select among multiple possible responses.
-2. Selection depends on goals, learning, context, and available alternatives.
-3. Selection can be controlled or automatic.
-4. The available environment can constrain possible responses.
+1. Response selection chooses among available behavioral outputs.
+2. The available response set constrains what can be selected.
+3. Selection can be controlled, automatic, habitual, or socially regulated.
+4. Competing responses can require inhibition or conflict resolution.
+5. Time pressure and cognitive load can alter selection strategies.
+6. Selection is distinct from action execution and from stated intention.
+7. Learning and environment shape response availability and accessibility.
+8. Response-selection explanations should specify alternatives, criteria, constraints, and consequences.
+
 
 ---
 
@@ -1528,17 +1538,17 @@ Action is a central bridge between psychological organization and behavior. It d
 An action is an organized behavior directed toward an outcome or function, often involving some degree of selection, initiation, execution, and monitoring. In many psychological theories, action implies a structured relation between an agent, a goal or outcome, and an executed response, although the exact definition varies by framework.
 
 ## 3. Core Understanding
-Actions can be deliberate or partly automatic. A person may intentionally begin walking toward a destination while many component movements are controlled automatically. Action therefore has multiple levels of organization.
+Action is behavior organized around an outcome, goal, intention, or functional sequence rather than merely an isolated movement or response. An action can contain multiple component behaviors and can be evaluated at different levels of abstraction. Walking toward a door, for example, includes many movements but can be understood as one goal-directed action when analyzed functionally.
 
-Actions can be goal-directed or habitual. Goal-directed action is sensitive to expected outcomes and current goals; habitual action can be triggered more automatically by familiar contexts. These forms are not mutually exclusive in every behavior.
+Action can be intentional without being completely consciously controlled. Skilled activities often become partly automatic while remaining organized around goals. Conversely, behavior can occur without a consciously represented goal. The distinction between action and behavior therefore concerns organization and function rather than a simple conscious/unconscious divide.
 
-Action changes the environment and produces feedback. The person can compare outcomes with goals, detect errors, adjust behavior, and learn from consequences. Action therefore belongs within a dynamic person–environment system.
+Actions are shaped by goals, beliefs, expectations, habits, environmental affordances, social norms, bodily capacities, and anticipated consequences. People can also act under conflicting goals, creating hesitation, substitution, partial completion, or shifts in strategy. Action is therefore embedded in broader motivational, cognitive, emotional, and social systems.
 
-### Deeper Conceptual Structure
+Actions change environments. A person's communication can elicit responses; a choice can create new opportunities or constraints; and repeated actions can establish routines and social patterns. Action is therefore both an output of psychological processes and an input into later psychological and environmental conditions.
 
-Action is behavior organized toward some immediate or longer-term outcome, whether or not the person can state the goal explicitly. Actions can be deliberate, habitual, automatic, socially coordinated, or constrained by circumstances.
+Scientific analysis benefits from distinguishing action selection, execution, outcome, and interpretation. The same physical movement can constitute different actions depending on goal and context, while one action can be accomplished through different physical behaviors. This distinction is essential for connecting observable behavior with psychological organization without assuming that movements transparently reveal intention.
 
-Action links psychological processes to observable change in the world. It can alter the environment and thereby create feedback that affects later processing. An action should therefore be studied both as an outcome of preceding processes and as a cause of subsequent environmental and psychological events.
+
 ## 4. Relationship to This Chapter
 Action follows response selection in the chapter’s processing architecture and connects behavior, feedback, regulation, learning, motivation, and action control. Chapter 1.21 owns detailed action architecture.
 
@@ -1550,10 +1560,15 @@ The general psychological concept of organized action.
 Detailed action selection, initiation, execution, monitoring, and motor control to Chapter 1.21.
 
 ## 6. Key Principles
-1. Action is organized behavior directed toward an outcome or function.
-2. Actions can include both controlled and automatic components.
-3. Actions can be goal-directed or habitual.
-4. Action changes the environment and creates feedback.
+1. Action is organized behavior understood in relation to goals, outcomes, or functional sequences.
+2. An action can contain many component behaviors.
+3. Intentional action can include substantial automatic execution.
+4. Actions are shaped by goals, beliefs, habits, affordances, norms, and constraints.
+5. Action can alter the environment and generate feedback.
+6. Physical movement and psychological action are not identical levels of description.
+7. Action selection, execution, outcome, and interpretation should be distinguished.
+8. The same physical behavior can serve different actions depending on context and goal.
+
 
 ---
 
@@ -1568,17 +1583,17 @@ Feedback explains how the consequences or results of psychological activity prov
 Feedback is information about the result, consequence, or current state of a process that can be used to modify subsequent processing, behavior, or system operation. Feedback can come from the environment, from bodily signals, from other people, or from internal comparison with a goal or standard.
 
 ## 3. Core Understanding
-Feedback can be positive or negative in the descriptive sense of increasing or decreasing a process, but it should not be confused automatically with praise or punishment. Feedback can also be immediate or delayed, accurate or noisy, explicit or implicit.
+Feedback is information about the consequences, outcomes, errors, or current state of a process that can influence subsequent psychological activity or behavior. Feedback allows systems to compare actual states with desired states, update predictions, modify strategies, strengthen or weaken responses, and regulate performance. It can be internal, such as awareness of error or bodily state, or external, such as social response, reward, correction, or environmental outcome.
 
-A person can compare an outcome with a goal and adjust future action. Repeated feedback can support skill learning. Social feedback can change behavior through information about norms or relationships. Internal feedback can signal errors, fatigue, or bodily conditions.
+Feedback is not inherently corrective. Positive feedback can amplify an existing process, while negative feedback can reduce deviation from a target. In everyday language “positive” and “negative” are often confused with good and bad; in systems terms they describe effects on change or deviation, not moral value. Feedback can therefore improve, maintain, destabilize, or intensify a pattern depending on its structure.
 
-Feedback loops can stabilize behavior or create change. The effect depends on how the feedback is interpreted and what response options are available.
+Timing matters. Immediate feedback can support rapid adjustment, while delayed feedback may be less informative or may affect different learning processes. Feedback can also be noisy, ambiguous, or misleading. People interpret feedback through expectations, beliefs, goals, and social meaning rather than simply copying it into behavior.
 
-### Deeper Conceptual Structure
+Feedback is central to learning, self-regulation, skill acquisition, decision-making, social interaction, and adaptation. A behavior can produce an outcome, the outcome changes expectations or valuation, and those changes alter later behavior. Repeated feedback can create stable loops, but loops can also drift when environmental contingencies change.
 
-Feedback is information produced by the consequences of a process or action that can influence subsequent processing, behavior, or system state. Feedback can indicate progress, error, success, failure, change, or mismatch between current and desired conditions.
+A rigorous feedback account specifies the signal, comparator or reference, timing, interpretation, target, and resulting change. Merely stating that “feedback improves performance” ignores conditions under which feedback can confuse, overload, discourage, reinforce error, or become irrelevant.
 
-Feedback does not automatically produce learning or correction. Its effect depends on whether it is noticed, interpreted, trusted, relevant, timely, and usable. Feedback can stabilize a pattern when it confirms current behavior or change it when it signals that adjustment is needed.
+
 ## 4. Relationship to This Chapter
 Feedback links action and behavior back to processing, evaluation, self-regulation, learning, adaptation, and environmental transactions.
 
@@ -1590,10 +1605,15 @@ The general concept of information from outcomes or system states that can influ
 Reinforcement, punishment, error monitoring, and specific learning feedback to their canonical Topics.
 
 ## 6. Key Principles
-1. Feedback provides information about outcomes or current states.
-2. Feedback can come from internal or external sources.
-3. Feedback can support correction, learning, or stability.
-4. Feedback is not synonymous with reward or praise.
+1. Feedback provides information about outcomes, errors, or current states that can alter later processing or behavior.
+2. Feedback can amplify, correct, stabilize, or destabilize a process.
+3. Positive and negative feedback refer to system effects, not good and bad outcomes.
+4. Timing and quality of feedback influence its usefulness.
+5. Feedback can be noisy, ambiguous, or misinterpreted.
+6. Feedback is central to learning, regulation, adaptation, and social interaction.
+7. Feedback loops can produce persistent patterns over time.
+8. Strong feedback models specify signal, reference, timing, interpretation, and resulting change.
+
 
 ---
 
@@ -1608,17 +1628,17 @@ Self-regulation is foundational because people often need to modify thoughts, em
 Self-regulation is the process by which a person monitors, evaluates, and modifies aspects of their internal state or behavior in relation to goals, standards, values, or environmental demands. It can involve attention, emotion, motivation, cognition, action, and behavior.
 
 ## 3. Core Understanding
-Self-regulation usually involves some form of discrepancy or comparison: the person has a current state and a desired, required, or valued state. Regulation can then involve changing behavior, changing the environment, changing interpretation, or revising the goal.
+Self-regulation is the organized process through which a person monitors, evaluates, and modifies internal states, attention, motivation, cognition, or behavior in relation to goals, standards, values, or situational demands. It includes processes such as goal maintenance, monitoring, inhibition, emotion regulation, effort allocation, strategy adjustment, and management of environmental cues. Self-regulation is therefore broader than willpower.
 
-Self-regulation is not always conscious or successful. People can regulate automatically, fail to regulate, regulate one domain while disrupting another, or choose not to pursue a previously held goal.
+Regulation can be proactive or reactive. A person can arrange the environment to reduce temptation before a difficult task, or intervene after distraction has already occurred. Effective regulation often depends on planning, feedback, habits, external structure, and social support rather than effort alone. People also regulate by changing the environment rather than directly suppressing an internal state.
 
-Regulation depends on available resources and context. Stress, fatigue, competing goals, emotional intensity, and environmental constraints can affect performance. Effective regulation is therefore not simply a matter of willpower.
+Self-regulation is constrained. Competing goals, fatigue, stress, cognitive load, emotional arousal, limited knowledge, strong habits, and environmental pressures can reduce available control. A failure to regulate therefore does not automatically imply weak character or absent motivation. It may reflect a mismatch between regulatory demands and available resources or strategies.
 
-### Deeper Conceptual Structure
+Regulation involves standards and trade-offs. The same behavior can be regulatory under one goal and counterproductive under another. Suppressing an emotion may help immediate task performance but carry later costs in some circumstances; delaying gratification can support a long-term goal but be unnecessary when immediate action is appropriate.
 
-Self-regulation is the process of influencing one's own thoughts, emotions, attention, motivation, or behavior in relation to goals, standards, needs, or environmental demands. It can involve monitoring, planning, inhibition, reappraisal, persistence, adjustment, and recovery after failure.
+Self-regulation is closely connected to feedback, motivation, executive functions, learning, emotion, and environment. A complete account specifies the goal or standard, monitoring process, intervention, competing forces, context, and outcome rather than treating self-control as a single internal force.
 
-Self-regulation is not synonymous with suppression or willpower. It can operate through habits, environmental design, attention control, goal selection, emotional processes, and learned strategies. Its effectiveness depends on available resources, goal clarity, competing demands, and the fit between strategy and situation.
+
 ## 4. Relationship to This Chapter
 Self-regulation connects goals, feedback, action, behavior, motivation, emotion, attention, and adaptation. Chapter 1.12 owns the detailed motivation and self-regulation domain.
 
@@ -1630,10 +1650,15 @@ The general concept of regulating psychological states and behavior toward goals
 Self-control, motivation regulation, emotion regulation, goal pursuit, and specific regulatory strategies to their canonical Topics.
 
 ## 6. Key Principles
-1. Self-regulation involves monitoring and modifying functioning.
-2. Regulation can target thoughts, emotions, attention, motivation, or behavior.
-3. Regulation depends on goals, standards, context, and available resources.
-4. Self-regulation can be automatic or deliberate.
+1. Self-regulation coordinates thoughts, feelings, motivation, and behavior with goals or standards.
+2. Regulation can be proactive or reactive.
+3. Regulation can involve changing the environment as well as changing internal states.
+4. Goals, standards, monitoring, inhibition, and feedback interact in regulation.
+5. Fatigue, stress, load, habits, and environmental pressures constrain regulation.
+6. Regulatory failure does not automatically indicate lack of motivation or character.
+7. A regulatory strategy can have short-term benefits and long-term costs.
+8. Self-regulation is a distributed process, not a single “willpower” mechanism.
+
 
 ---
 
@@ -1648,15 +1673,17 @@ Psychological systems often involve two-way causal influence. Reciprocal causati
 Reciprocal causation is a pattern in which two or more variables influence one another over time, so that earlier changes in one can affect later changes in another and vice versa. In psychology, it commonly describes dynamic relations among person, behavior, environment, and psychological processes.
 
 ## 3. Core Understanding
-Reciprocal causation is temporal. A person’s behavior can change another person’s response, which then changes the original person’s later behavior. A learned expectation can influence behavior, and the consequences of that behavior can provide evidence that changes the expectation.
+Reciprocal causation refers to a pattern in which two or more variables influence one another over time. In psychology, a person's behavior can alter the environment, the environment can alter the person's state or behavior, and the resulting changes can continue the cycle. Reciprocal causation is therefore inherently temporal: the direction of influence can differ at different moments rather than being a single fixed arrow.
 
-Reciprocal influence does not mean every variable causes every other variable. Specific causal pathways must be supported by evidence. Longitudinal and experimental designs can help distinguish reciprocal processes from simple correlations.
+Reciprocity can occur between psychological processes as well as between person and environment. Emotion can influence interpretation, while interpretation changes emotion; expectations influence behavior, while outcomes update expectations; social behavior affects others' responses, which then affect subsequent behavior. These loops can stabilize patterns, amplify change, or produce oscillation.
 
-### Deeper Conceptual Structure
+Reciprocal causation should not be inferred merely because two variables correlate. Cross-sectional association cannot establish which variable influences the other, whether both are driven by a third process, or whether reciprocal effects actually occur. Longitudinal, experimental, intensive repeated-measures, and time-series designs provide stronger opportunities to test temporal ordering and feedback.
 
-Reciprocal causation describes a pattern in which variables influence one another over time rather than only moving in a one-way chain. A person's behavior can change an environment, which then changes the person, whose later behavior again changes the environment.
+Reciprocity also does not imply symmetry. One variable may have a stronger effect, operate on a faster timescale, or influence the other only under particular conditions. Feedback can be delayed and mediated by additional processes. A rigorous account therefore specifies direction, timing, magnitude, pathway, and boundary conditions.
 
-Reciprocal influence does not mean every variable causes every other variable equally. Direction, timing, strength, and mechanism must be established for each proposed relationship. The concept is especially useful when feedback makes simple linear explanations misleading.
+The concept is central to understanding development, personality, relationships, learning, stress, and adaptation because psychological systems can reproduce their own conditions. It helps explain why causes and consequences can become entangled over time.
+
+
 ## 4. Relationship to This Chapter
 Reciprocal causation connects person–environment interaction, behavior–environment transaction, feedback, learning, adaptation, and dynamic interaction.
 
@@ -1668,10 +1695,15 @@ The general concept of two-way causal influence over time.
 Specific reciprocal mechanisms in learning, social relationships, development, and health to their canonical Topics.
 
 ## 6. Key Principles
-1. Psychological causation can be bidirectional.
-2. Reciprocal causation unfolds over time.
-3. Mutual influence does not mean unrestricted causation.
-4. Evidence must establish the proposed temporal pathways.
+1. Reciprocal causation involves mutual influence unfolding over time.
+2. Causal direction can change across moments and timescales.
+3. Reciprocal effects can occur within psychological systems and between persons and environments.
+4. Feedback loops can stabilize, amplify, or destabilize patterns.
+5. Correlation alone does not establish reciprocal causation.
+6. Reciprocal effects need not be equal, simultaneous, or symmetric.
+7. Temporal and longitudinal evidence is especially important for reciprocity claims.
+8. Reciprocal causation can make causes and consequences dynamically interdependent.
+
 
 ---
 
@@ -1686,17 +1718,17 @@ Dynamic interaction describes psychological systems as changing patterns of mutu
 Dynamic interaction is ongoing, time-dependent interaction among psychological, biological, behavioral, social, and environmental components in which changes in one component can alter the conditions affecting other components.
 
 ## 3. Core Understanding
-Dynamic interactions can create feedback loops, temporary patterns, thresholds, and changing trajectories. A stressful event can alter attention and emotion; those changes can alter behavior; behavior can change social feedback; and that feedback can alter later stress.
+Dynamic interaction refers to ongoing, time-dependent interplay among psychological components, persons, environments, and processes in which relationships can change as the system evolves. Unlike a static interaction, a dynamic interaction emphasizes trajectories: current states influence later states, feedback changes subsequent relationships, and the strength or direction of influence can vary over time.
 
-Dynamic does not mean chaotic. Systems can show stable patterns, predictable regularities, or repeated cycles while still changing over time.
+Dynamic interactions can involve multiple timescales. A thought can alter emotion within seconds; repeated behavior can reshape a relationship over months; developmental processes can alter capacities across years. Processes operating at one timescale can constrain or amplify processes operating at another. Psychological explanation therefore benefits from identifying whether a claimed relationship is momentary, recurring, developmental, or cumulative.
 
-The appropriate timescale matters. A process that looks stable over minutes may change substantially across years. Psychological explanation should therefore match the timescale of the question.
+Dynamic interactions can produce nonlinear patterns. Small changes may accumulate into substantial shifts when feedback is reinforcing, while large disturbances may have limited effects when the system is buffered. Thresholds, delays, competing feedback loops, and changing constraints can all produce trajectories that are difficult to predict from isolated variables.
 
-### Deeper Conceptual Structure
+Dynamic interaction is not synonymous with complexity for its own sake. A useful dynamic model identifies the components, state variables, feedback relations, temporal sequence, and conditions under which relationships change. Without those specifications, “dynamic” can become an adjective rather than an explanation.
 
-Dynamic interaction refers to ongoing mutual influence among psychological processes, the person, and relevant environmental conditions. The emphasis is on change across time rather than a static list of variables.
+This concept provides a bridge between psychological mechanisms and systems perspectives. Mechanisms explain specific pathways; dynamic interaction describes how multiple pathways operate together through time, potentially producing emergent patterns of stability, change, adaptation, or breakdown.
 
-Dynamic interaction can create feedback loops, thresholds, adaptation, persistence, or rapid shifts. Small changes can sometimes matter greatly when a system is near a transition, while large changes can have little effect when the system is strongly constrained. Such claims require evidence appropriate to the temporal and system-level question.
+
 ## 4. Relationship to This Chapter
 Dynamic interaction connects reciprocal causation, temporal dynamics, systems, behavior–environment transactions, adaptation, and psychological change.
 
@@ -1708,10 +1740,15 @@ The general concept of time-dependent interacting psychological systems.
 Specific dynamic models and developmental systems approaches to their canonical owners.
 
 ## 6. Key Principles
-1. Psychological systems can change through ongoing interaction.
-2. Feedback can create stable or changing patterns.
-3. Different timescales reveal different forms of dynamics.
-4. Dynamic interaction does not imply unpredictability.
+1. Dynamic interaction emphasizes time-dependent relationships among changing components.
+2. Influence can vary in strength or direction across time.
+3. Psychological processes operate on multiple timescales.
+4. Feedback, delay, thresholds, and competing processes can produce nonlinear trajectories.
+5. Dynamic interaction is not established merely by saying a system is complex.
+6. Useful dynamic models specify components, temporal sequence, feedback, and changing constraints.
+7. Dynamic interactions can produce emergent stability or change.
+8. Dynamic interaction connects mechanism-level processes with system-level trajectories.
+
 
 ---
 
@@ -1726,17 +1763,17 @@ Psychological phenomena unfold over time. Temporal dynamics are necessary to dis
 Temporal dynamics refer to how psychological states, processes, behaviors, and relationships change, persist, fluctuate, or influence one another across time. They include timing, duration, sequence, rate of change, feedback, and lagged effects.
 
 ## 3. Core Understanding
-Timing can matter as much as presence. A stress response that lasts minutes differs from chronic stress lasting months. A delayed consequence can influence behavior differently from an immediate one. Developmental processes involve much longer timescales.
+Temporal dynamics concerns how psychological states, processes, behaviors, and relationships unfold, persist, change, and interact across time. Time is not merely a measurement axis added after the fact; temporal structure can determine what a psychological phenomenon means and which causal interpretation is plausible. A short-lived emotional reaction, a recurring habit, and a developmental trait pattern require different temporal models.
 
-Temporal patterns can include stability, fluctuation, cycles, escalation, recovery, and abrupt transitions. Measurement frequency must therefore match the phenomenon being studied.
+Temporal dynamics include onset, duration, frequency, recurrence, sequencing, rate of change, lagged effects, accumulation, and recovery. A cause can precede an outcome by seconds, days, or years. Some effects are immediate and transient, while others accumulate gradually or emerge only after repeated exposure. Delayed effects can also create apparent contradictions if data are examined only at one time point.
 
-A temporal association does not automatically prove causation, but temporal order is necessary for many causal interpretations.
+Temporal patterns can reveal mechanisms. If a proposed mediator changes before an outcome and repeatedly predicts subsequent changes, it provides stronger evidence for a process than simultaneous association alone. Intensive longitudinal designs, experience sampling, daily diaries, repeated behavioral measures, and time-series approaches can help characterize such patterns, although temporal precedence alone is not sufficient for causality.
 
-### Deeper Conceptual Structure
+Different psychological phenomena have characteristic temporal scales. Working memory may operate over seconds, emotional states over seconds or hours, habits over repeated episodes, personality over months or years, and development across decades. These scales can interact rather than remain isolated.
 
-Temporal dynamics concerns how psychological phenomena unfold, persist, fluctuate, and change across time. Time can operate at multiple scales: milliseconds for perceptual processing, minutes for emotional episodes, months for learning, and years for development or personality change.
+A comprehensive temporal account therefore asks what changes, when it changes, how quickly it changes, what persists, what precedes what, and whether the same relationship holds across timescales.
 
-A psychological relationship can look different at different time scales. A short-term increase in distress may coexist with long-term improvement, and a stable average may hide meaningful fluctuations. Temporal analysis therefore asks not only whether something changes, but when, how quickly, and in what pattern.
+
 ## 4. Relationship to This Chapter
 Temporal dynamics connect change, stability, reciprocal causation, development, learning, feedback, and psychological states.
 
@@ -1748,10 +1785,15 @@ The general temporal organization of psychological phenomena.
 Specific developmental trajectories, memory timing, circadian processes, and treatment change to their canonical Topics.
 
 ## 6. Key Principles
-1. Psychological phenomena unfold across time.
-2. Timing, duration, and sequence can affect psychological effects.
-3. Different phenomena require different temporal scales of measurement.
-4. Temporal order alone does not establish causation.
+1. Temporal dynamics describe how psychological phenomena unfold and change over time.
+2. Onset, duration, recurrence, sequencing, rate, lag, accumulation, and recovery can all matter.
+3. Different psychological phenomena operate on different timescales.
+4. Delayed effects can be missed by cross-sectional measurement.
+5. Temporal precedence strengthens process inference but does not by itself prove causality.
+6. Intensive longitudinal methods can reveal within-person dynamics.
+7. Processes at different timescales can interact.
+8. Psychological claims should specify the relevant time frame when timing affects interpretation.
+
 
 ---
 
@@ -1766,20 +1808,16 @@ Continuity explains how psychological functioning remains connected across time 
 Psychological continuity is the persistence of meaningful organization, information, dispositions, or patterns of functioning across time such that earlier psychological states or experiences remain connected to later functioning.
 
 ## 3. Core Understanding
-Continuity can arise through memory, stable traits, repeated environments, relationships, learned skills, values, and ongoing self-representations. It does not require complete sameness.
+Psychological continuity is the persistence of organization, identity, functioning, representation, or relational patterns across time despite ongoing change. Continuity allows a person to experience themselves and be recognized as the same individual across different episodes while acknowledging that beliefs, abilities, roles, relationships, and states can change. It is therefore a property of organized persistence, not literal sameness.
 
-A person can change substantially while retaining enough continuity to experience a coherent life history. Development therefore often involves both continuity and transformation.
+Continuity can arise through memory, stable goals, enduring relationships, personality patterns, habits, bodily continuity, narratives of self, and repeated environmental structures. Different forms can reinforce one another but need not always agree. A person may retain a strong sense of identity while experiencing major changes in occupation, beliefs, or social role.
 
-Continuity can be disrupted by severe memory impairment, major environmental changes, or other conditions, but ordinary psychological development usually preserves many links between past and present.
+Continuity is also constructed. Autobiographical memory and self-narratives organize experiences into a coherent temporal story, but coherence does not guarantee complete factual accuracy. Social recognition and institutional records can also support continuity, while disruptions such as severe memory impairment, role transition, or major environmental change can challenge particular forms of continuity.
 
-### Deeper Conceptual Structure
+Continuity should be distinguished from stability and identity. Stability concerns persistence of a characteristic or pattern; identity concerns who or what is considered the same entity; continuity emphasizes the connections linking states across time. A system can preserve continuity while changing substantially.
 
-Psychological continuity is the persistence of meaningful organization, identity, functioning, or psychological patterns across time despite change in individual states or components. Continuity does not require every feature to remain unchanged.
+Scientific analysis should specify which aspect is continuous and what evidence demonstrates persistence. Broad claims such as “the person stayed the same” are too vague to be informative without identifying the psychological property and timescale involved.
 
-Continuity can be supported by memory, stable goals, habits, relationships, traits, narratives, biological organization, or repeated environments. It is therefore compatible with development and change. A person can remain recognizably continuous while changing beliefs, roles, abilities, and emotional patterns.
-### Depth enhancement
-
-Continuity concerns the persistence and connectedness of psychological functioning across time. It does not require that a person remain psychologically unchanged. Memory, identity, goals, learned patterns, relationships, and stable dispositions can provide continuity while states and behaviors change. Continuity can therefore be partial, domain-specific, and disrupted by development, major experiences, neurological change, or contextual transitions.
 
 ## 4. Relationship to This Chapter
 Continuity connects stability, change, memory, identity, development, personality, and temporal dynamics.
@@ -1792,10 +1830,15 @@ The general concept of connected psychological functioning across time.
 Autobiographical memory, identity, personality continuity, and developmental continuity to their canonical Topics.
 
 ## 6. Key Principles
-1. Psychological functioning can remain connected across time.
-2. Continuity does not require complete sameness.
-3. Memory, traits, relationships, skills, and environments can support continuity.
-4. Continuity and change can coexist.
+1. Psychological continuity is persistence of organization or connectedness across time.
+2. Continuity permits identity and functioning across change without requiring literal sameness.
+3. Memory, goals, relationships, habits, traits, and narratives can support continuity.
+4. Continuity can be partly constructed through autobiographical organization.
+5. Coherent self-narrative does not guarantee complete factual accuracy.
+6. Continuity differs from stability and identity.
+7. Different forms of continuity can strengthen or conflict with one another.
+8. Continuity claims should identify what persists and across what timescale.
+
 
 ---
 
@@ -1810,17 +1853,17 @@ Some psychological patterns arise from interactions among components rather than
 Psychological emergence refers to the appearance of patterns or properties at a higher level of organization that arise from interactions among lower-level components and cannot be adequately described by examining any single component in isolation.
 
 ## 3. Core Understanding
-Emotion, coordinated social behavior, complex skills, and some forms of self-regulation can involve interactions among many processes. The system-level pattern may therefore have properties that are not obvious from one component alone.
+Psychological emergence refers to the appearance of properties or patterns at a higher level of organization that depend on interactions among components and are not adequately characterized by examining those components independently. Emergent properties do not have to be mysterious or irreducible; they can arise from known interactions, feedback, coordination, and constraints within a system.
 
-Emergence does not mean that higher-level phenomena violate biology or lack mechanisms. It means that explaining the phenomenon may require a level of organization that captures interactions among components.
+Examples include coherent group behavior emerging from individual interactions, stable habits emerging from repeated episodes, or a recognizable cognitive strategy emerging from coordination among multiple processes. The important point is organizational: the higher-level pattern depends on component relations, not merely on the existence of components.
 
-Claims of emergence should be specific. Saying that something is emergent should not become a substitute for explaining how the interacting components produce the observed pattern.
+Emergence can be weak or strong in different theoretical uses. In a scientifically tractable sense, a pattern can be emergent because it becomes visible only at a higher level while remaining explainable through lower-level interactions. Stronger claims that higher-level properties cannot in principle be explained through lower-level processes require much more argument and should not be assumed.
 
-### Deeper Conceptual Structure
+Emergence is often linked to nonlinearity and feedback. Components can influence one another so that the resulting system settles into a stable pattern, switches between states, or develops new organization after a small perturbation. The resulting pattern may then constrain subsequent component behavior.
 
-Psychological emergence refers to properties or patterns that arise from interactions among components and cannot be adequately described by looking at one component alone. Emergent properties are not mysterious additions; they result from organization and interaction.
+A rigorous use of emergence therefore does not replace explanation with mystery. It asks what components interact, through which rules or mechanisms, over what timescale, and how their organization produces the higher-level pattern.
 
-Emergence does not mean higher-level phenomena have no lower-level basis. It means that the explanatory pattern at one level may require concepts about organization, relationships, or dynamics that are not captured by listing lower-level parts.
+
 ## 4. Relationship to This Chapter
 Emergence connects psychological systems, mechanisms, dynamic interaction, levels of analysis, and multilevel explanation.
 
@@ -1832,10 +1875,15 @@ The general concept of system-level psychological properties arising from compon
 Specific emergent phenomena and computational or developmental models to their canonical Topics.
 
 ## 6. Key Principles
-1. Some psychological patterns arise from interactions among components.
-2. Emergence does not imply absence of mechanisms.
-3. Emergent claims must identify the relevant system organization.
-4. Higher-level explanation can complement lower-level explanation.
+1. Emergence concerns higher-level patterns arising from interactions among components.
+2. Emergent properties depend on organization, not merely component presence.
+3. Emergence need not imply that a phenomenon is scientifically inexplicable.
+4. Nonlinearity and feedback can generate emergent patterns.
+5. Higher-level organization can constrain later component behavior.
+6. Strong claims of irreducibility require separate justification.
+7. “Emergent” should not be used as a substitute for mechanism.
+8. Useful emergence accounts specify components, interactions, timescales, and resulting organization.
+
 
 ---
 
