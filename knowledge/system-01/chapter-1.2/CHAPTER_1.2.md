@@ -657,45 +657,15 @@ Scientific inference is the disciplined movement from observations or data to co
 Scientific inference is the process of drawing reasoned conclusions from empirical evidence while accounting for uncertainty, study design, measurement, assumptions, and competing explanations.
 
 ## 3. Core Understanding
+Scientific inference connects observed data to conclusions about psychological phenomena, mechanisms, or populations. It requires moving from what was measured to what is claimed while accounting for design, measurement, sampling, uncertainty, and alternatives. Inference is therefore not the same as observation. A difference in scores is an observation; interpreting it as evidence for a psychological construct or causal process is an inferential step.
 
-Inference can concern what happened in the observed data, what may characterize a broader population, whether variables are related, whether an intervention caused an outcome, or which explanation is better supported. These are different inferential tasks.
+Inference can be descriptive, predictive, causal, or theoretical. Each requires different assumptions. Statistical output does not automatically determine the appropriate interpretation because the same result can support different explanations. Researchers must ask what design generated the data, which variables were controlled or manipulated, how measurements relate to constructs, and whether the sample supports the intended generalization.
 
-A key distinction is between **data description** and **inference**. A sample mean describes the observed sample. Inferring a population parameter requires assumptions about sampling and measurement. Inferring causation requires additional design or analytic assumptions.
+Good inference is proportionate. Strong designs can justify stronger conclusions, but even randomized experiments can have limits in construct validity, external validity, implementation, and measurement. Observational data can support valuable descriptive and predictive conclusions without becoming causal evidence merely through sophisticated analysis.
 
-Inference is therefore constrained by the information-producing process. A highly precise analysis of biased data does not automatically produce a valid conclusion. Likewise, statistical significance does not by itself establish practical importance or causal truth.
-
-### Alternative explanations
-
-Strong inference considers plausible alternatives. If two variables are associated, possible explanations can include direct causation, reverse causation, common causes, selection processes, measurement artifacts, or chance.
-
-### Uncertainty
-
-Inference should represent uncertainty rather than hide it. Confidence intervals, probability statements, sensitivity analyses, replication, and explicit limitations can all contribute to calibrated conclusions.
-
-### Deductive and inductive reasoning
-
-Scientific work can involve deductive reasoning from theories to predictions and inductive or abductive reasoning from observations toward generalizations or explanations. Scientific practice often combines these forms of reasoning.
-
-### Evidence status
-
-Inference is a methodological process. The strength of an inference depends on the evidence, assumptions, design, measurement, and inferential method used.
+Scientific inference also benefits from converging evidence. Different methods that point toward the same conclusion can reduce dependence on any one measurement or assumption. Competing explanations should remain visible until evidence distinguishes them.
 
 
-### Inferential chain
-
-Scientific inference connects observations to claims that extend beyond the immediate data. It requires assumptions about measurement, sampling, design, models, and alternative explanations.
-
-### Inductive and deductive elements
-
-Researchers may use deduction to derive predictions from theories and induction or other inferential reasoning to generalize patterns from observations. Scientific work commonly combines several forms of reasoning rather than following one universal logical template.
-
-### Strength of inference
-
-The strength of an inference depends on the evidence, design, assumptions, and competing explanations. A conclusion can be logically possible but weakly supported if important alternatives remain unaddressed.
-
-### Evidence status
-
-Inference is the reasoning connecting evidence to a claim. It should not be confused with the evidence itself.
 ## 4. Relationship to This Chapter
 
 Scientific inference connects research design, variables, statistics, causal inference, evidence quality, and generalizability. It is the bridge between obtaining observations and making scientifically meaningful claims.
@@ -711,12 +681,15 @@ The general concept and logic of drawing scientific conclusions from evidence.
 Specific statistical methods, causal inference, measurement validity, and substantive psychological conclusions.
 
 ## 6. Key Principles
+Inference moves from observations to bounded conclusions.
+2. Inference is distinct from measurement and description.
+3. Different inferential goals require different designs and assumptions.
+4. Statistical results do not automatically determine causal or theoretical interpretation.
+5. Generalization depends on sampling and measurement as well as analysis.
+6. Strong inference is proportional to design strength and evidential convergence.
+7. Alternative explanations should be considered explicitly.
+8. Scientific inference remains revisable.
 
-1. Data require interpretation through an inferential framework.
-2. Different questions require different forms of inference.
-3. Inference is limited by design, measurement, sampling, and assumptions.
-4. Alternative explanations should be considered.
-5. Uncertainty is part of scientific inference, not a defect to hide.
 
 ---
 
@@ -733,45 +706,15 @@ Falsifiability is the property of a claim being formulated so that some logicall
 Falsifiability does not mean that a claim must already be false or that every scientific claim has a simple one-test refutation.
 
 ## 3. Core Understanding
+Falsifiability is the property of a claim or theory being structured such that some conceivable observations would count against it. It is important because scientific propositions must constrain expectations enough to be meaningfully tested. A claim that can accommodate every possible result provides little opportunity for evidence to distinguish it from alternatives.
 
-A claim is more empirically constrained when it makes predictions that exclude possible outcomes. If every possible result can be explained after the fact as supporting the claim, the claim has limited capacity to discriminate among explanations.
+Falsifiability does not mean that every scientific hypothesis must be tested by one decisive experiment or that a failed prediction instantly proves a theory false. Tests depend on auxiliary assumptions about measurement, sampling, implementation, and background conditions. A surprising result may therefore challenge a particular hypothesis, an auxiliary assumption, or the measurement procedure rather than the entire theoretical framework.
 
-### Test conditions
+Falsifiability is also distinct from simplicity or truth. A complex theory can be falsifiable if it makes precise predictions, while a simple but vague statement may be difficult to test. Likewise, a falsifiable claim can still be false; testability is a property of the claim, not evidence that it is correct.
 
-Falsifiability depends partly on how a claim is operationalized and tested. A theoretical proposition may become testable only after specifying measurable consequences and relevant conditions.
-
-### Auxiliary assumptions
-
-Scientific tests rarely evaluate one proposition in complete isolation. Measurement assumptions, sampling, implementation, statistical models, and background theories can affect the interpretation of a failed prediction. A surprising result therefore does not automatically identify which component is wrong.
-
-### Falsifiability and evidence
-
-A falsifiable claim can still be well supported, weakly supported, or unsupported. Falsifiability concerns testability, not evidential strength.
-
-### Misconception
-
-Falsifiability is not a requirement that every scientific statement be reduced to one dramatic experiment. Many scientific claims are evaluated through converging evidence, multiple measurements, and cumulative testing.
-
-### Evidence status
-
-Falsifiability is a methodological and philosophical criterion concerning scientific testability. Its usefulness depends on the form of the claim and the scientific context.
+In psychology, falsifiability is especially useful when evaluating broad claims about behavior or mental processes. Definitions should identify what observations would support, weaken, or contradict the proposed account.
 
 
-### Meaning of falsifiability
-
-A claim is falsifiable when there are conceivable observations or experimental outcomes that would count against it under specified conditions. Falsifiability makes a proposition vulnerable to empirical correction.
-
-### Not a complete definition of science
-
-Falsifiability is useful for distinguishing testable scientific claims from propositions that are insulated from evidence, but scientific quality also involves measurement, evidence, explanatory power, coherence, replication, and appropriate methodology.
-
-### Auxiliary assumptions
-
-A failed prediction does not always identify which part of a theoretical system is wrong. Measurement assumptions, implementation, background conditions, and other auxiliary claims can affect whether a test is genuinely informative.
-
-### Boundary
-
-A claim can be meaningful or philosophically important without being empirically falsifiable. The concept concerns empirical testability, not the overall value of a proposition.
 ## 4. Relationship to This Chapter
 
 Falsifiability connects theory, hypothesis, prediction, explanation, and scientific inference. It provides one reason researchers should formulate claims that expose themselves to possible empirical challenge.
@@ -787,12 +730,15 @@ The concept of empirical testability through possible disconfirming observations
 Specific theories, hypotheses, research designs, and statistical tests used to evaluate particular claims.
 
 ## 6. Key Principles
+1. Falsifiability means that some possible observations could count against a claim.
+2. Testability requires sufficiently constrained expectations.
+3. A failed prediction can challenge hypotheses or auxiliary assumptions.
+4. Falsifiability does not establish truth.
+5. Vagueness can make a claim difficult to falsify.
+6. Psychological theories should make discriminating predictions where possible.
+7. Measurement and design assumptions affect interpretation of falsification attempts.
+8. Scientific claims should make clear what evidence would weaken them.
 
-1. A testable claim should constrain possible observations.
-2. Falsifiability concerns testability, not whether a claim is true.
-3. Tests usually depend on auxiliary assumptions.
-4. A failed prediction requires interpretation rather than automatic rejection of an entire theory.
-5. Claims that accommodate every possible outcome have weak discriminating power.
 
 ---
 
@@ -809,49 +755,15 @@ Scientific evidence is information obtained through systematic observation, meas
 Evidence does not have one universal strength. Its value depends on relevance, quality, reliability, design, measurement, analysis, and the claim being evaluated.
 
 ## 3. Core Understanding
+Evidence is information that bears on a scientific claim. In psychology, evidence can come from observations, experiments, measurements, longitudinal patterns, qualitative material, computational models, replications, and systematic syntheses. Evidence is not synonymous with “data point”: its evidential meaning depends on how it was produced, what claim it addresses, and which alternative explanations remain possible.
 
-Evidence can take many forms: behavioral observations, self-report data, experimental outcomes, longitudinal patterns, qualitative accounts, physiological measurements, psychometric results, and systematic syntheses. Different forms answer different questions.
+Evidence can support different kinds of conclusions. A representative survey may provide evidence about prevalence; an experiment may provide evidence about causal effects under specified conditions; repeated longitudinal measures may inform temporal processes; and converging methods may strengthen construct interpretation. The same dataset can be relevant to one claim while being weak evidence for another.
 
-### Relevance
+Evidence must therefore be evaluated relative to claim and design. Sample size, measurement validity, missing data, researcher flexibility, statistical uncertainty, replication, and selective reporting can alter evidential strength. A statistically unusual result is not automatically strong evidence if many analyses were possible or the measurement was poorly defined.
 
-Evidence must bear on the claim. Evidence that a variable is associated with an outcome may be relevant to a causal hypothesis but may not establish causation.
-
-### Quality
-
-Evidence is stronger when measurements are appropriate, procedures are sound, data are analyzed appropriately, alternative explanations are addressed, and results are sufficiently transparent for evaluation.
-
-### Convergence
-
-Confidence can increase when independent methods point toward the same conclusion. Convergence does not require every study to produce identical results because legitimate variation can arise from populations, contexts, measures, and sampling.
-
-### Evidence hierarchy is question-dependent
-
-There is no single study design that is strongest for every scientific question. Randomized experiments can be powerful for certain causal questions, while longitudinal, observational, qualitative, or psychometric designs may be more appropriate for other questions.
-
-### Evidence and certainty
-
-Evidence supports degrees of confidence. A result can be informative without proving a universal claim.
-
-### Evidence status
-
-Evidence is a general epistemic concept. Its scientific value must be evaluated relative to the claim and the method that produced it.
+Evidence also accumulates. One study rarely resolves a complex psychological question completely. Confidence can increase when independent studies converge across methods and populations, or decrease when effects fail to replicate or depend strongly on narrow conditions.
 
 
-### Evidence as support
-
-Evidence is information that bears on a claim or question. In science, evidence can include observations, measurements, experimental results, qualitative data, records, replications, and systematic syntheses.
-
-### Evidence is claim-relative
-
-The same observation can support one claim while being irrelevant to another. Evidence must therefore be evaluated relative to the specific proposition, measurement, comparison, and inference being made.
-
-### Strength
-
-Evidence can be stronger or weaker depending on measurement quality, design, sample, consistency, independence, precision, and alternative explanations. A large amount of weak evidence does not automatically become strong evidence.
-
-### Evidence versus interpretation
-
-Observed data are not identical to the conclusion drawn from them. Interpretation connects evidence to a claim and must preserve uncertainty and assumptions.
 ## 4. Relationship to This Chapter
 
 Evidence is the central bridge among scientific inquiry, inference, research designs, statistics, measurement, replication, open science, and scientific consensus.
@@ -867,12 +779,15 @@ The general concept of empirical information used to evaluate scientific claims.
 Evidence quality, specific methods, statistical inference, replication, and the substantive claim being evaluated.
 
 ## 6. Key Principles
-
 1. Evidence is information relevant to evaluating a claim.
-2. Evidence quality depends on how it was produced and what claim it addresses.
-3. Converging evidence can strengthen confidence.
-4. No single method is universally strongest for every question.
-5. Evidence supports calibrated conclusions rather than automatic certainty.
+2. Evidential value depends on the claim, design, measurement, and alternatives.
+3. Different methods provide different kinds of evidence.
+4. Statistical significance is not identical to evidential strength.
+5. Evidence accumulates across studies and methods.
+6. Replication and convergence can increase confidence.
+7. Selective reporting and measurement problems can weaken evidence.
+8. Claims should not exceed what the evidence actually bears upon.
+
 
 ---
 
@@ -887,57 +802,15 @@ Evidence quality determines how much confidence a body of evidence can reasonabl
 Evidence quality is the degree to which evidence is trustworthy, relevant, appropriately measured, methodologically sound, sufficiently precise, and capable of supporting the scientific claim for which it is being used.
 
 ## 3. Core Understanding
+Evidence quality refers to how strongly and appropriately evidence supports a particular scientific claim. Quality is multidimensional: it can involve measurement validity, design strength, sampling adequacy, statistical precision, transparency, replication, independence, ecological relevance, and fit between evidence and inference. There is therefore no universal hierarchy in which one method is always “high quality” regardless of question.
 
-Quality is multidimensional. A study may have precise measurement but poor sampling, strong internal control but limited generalizability, or a large sample but a weak construct measure.
+A randomized experiment may provide strong evidence for a causal effect under controlled conditions but weak evidence about long-term generalization. A representative survey can provide strong population description while being unable to establish causality. A qualitative study can provide detailed evidence about meaning and process without being designed to estimate population prevalence. Quality must therefore be judged against the question.
 
-### Relevance
+Evidence quality also concerns bias and uncertainty. Selective samples, unreliable measures, uncontrolled confounding, flexible analyses, missing data, publication bias, and poor reporting can reduce confidence. Conversely, transparent methods, precise measurement, appropriate design, preregistration where useful, replication, and convergent evidence can strengthen confidence.
 
-Evidence should directly bear on the claim. A measure of a related construct is not automatically adequate evidence for the target construct.
-
-### Measurement quality
-
-Reliability, validity, and measurement error influence whether observed differences represent meaningful psychological differences or noise.
-
-### Design quality
-
-Research design determines which alternative explanations can be addressed. Randomization can reduce certain confounding problems; longitudinal designs can clarify temporal ordering; qualitative designs can provide depth about experiences and processes.
-
-### Analysis quality
-
-Statistical methods should fit the data and research question. Incorrect models, selective analyses, or unexamined assumptions can weaken otherwise valuable data.
-
-### Transparency
-
-Evidence is easier to evaluate when procedures, exclusions, measures, analyses, and relevant materials are sufficiently transparent.
-
-### Convergence and replication
-
-A single study can be informative, but repeated evidence across researchers, samples, methods, and settings can provide stronger grounds for confidence.
-
-### Evidence quality versus evidence quantity
-
-Many low-quality studies do not automatically outweigh a smaller number of high-quality studies. Conversely, one high-quality study does not necessarily settle a complex question.
-
-### Evidence status
-
-Evidence quality is a methodological evaluation. It should be assessed relative to the particular claim rather than reduced to one universal score.
+The correct question is not “Is this study good?” in isolation but “How well does this evidence support this specific claim, compared with plausible alternatives?”
 
 
-### Dimensions of quality
-
-Evidence quality depends on factors such as measurement validity, reliability, design appropriateness, sample quality, precision, transparency, replication, and the plausibility of alternative explanations.
-
-### Question dependence
-
-There is no universal ranking in which one study design is always “highest quality.” The appropriate evidence depends on the question. Causal questions require credible causal identification; prevalence questions require appropriate sampling and measurement; questions about meaning may require qualitative evidence.
-
-### Convergence
-
-Confidence can increase when independent studies using appropriate methods converge on compatible conclusions. Convergence is more informative when studies do not share the same vulnerabilities.
-
-### Evidence status
-
-Evidence quality is an evaluative judgment about how well evidence supports a particular claim, not a property of a paper independent of the claim being made.
 ## 4. Relationship to This Chapter
 
 Evidence quality is the evaluative bridge connecting research designs, measurement, inference, statistics, replication, open science, and scientific consensus.
@@ -953,12 +826,15 @@ Criteria and reasoning for evaluating the quality of scientific evidence.
 Specific validity forms, reliability, research designs, statistical methods, and evidence about particular psychological claims.
 
 ## 6. Key Principles
+1. Evidence quality is claim-relative, not a universal ranking of methods.
+2. Design, measurement, sampling, precision, transparency, and replication all matter.
+3. A design can be strong for one inference and weak for another.
+4. Bias and uncertainty can reduce evidential strength.
+5. Convergence across independent methods can strengthen confidence.
+6. Qualitative and quantitative evidence can be high quality for different questions.
+7. Quality should be judged against plausible alternatives.
+8. Strong evidence supports a bounded claim rather than unlimited generalization.
 
-1. Evidence quality is multidimensional.
-2. Relevance, measurement, design, analysis, transparency, and replication all matter.
-3. More evidence is not automatically better evidence.
-4. Quality must be judged relative to the scientific claim.
-5. Confidence should track the quality and convergence of evidence.
 
 ---
 
@@ -975,47 +851,15 @@ Scientific uncertainty is the state in which the exact value, relationship, expl
 Uncertainty can arise from measurement error, sampling variability, incomplete information, model assumptions, conflicting evidence, limited replication, or genuine complexity.
 
 ## 3. Core Understanding
+Scientific uncertainty is the degree of unresolved limitation, imprecision, variability, or competing explanation surrounding a scientific claim. Uncertainty is not simply ignorance and does not mean that nothing is known. A claim can have strong evidence while retaining uncertainty about magnitude, mechanism, generalization, or rare exceptions.
 
-### Types of uncertainty
+Uncertainty can arise from sampling variability, measurement error, model assumptions, missing data, limited study populations, inconsistent findings, imprecise estimates, untested boundary conditions, or competing explanations. Different uncertainties require different responses. Larger or better samples can reduce some sampling uncertainty; improved measures can reduce measurement uncertainty; broader research can address generalization; and new designs can distinguish mechanisms.
 
-Uncertainty may be statistical, measurement-related, theoretical, methodological, sampling-based, or epistemic. These forms should not be treated as interchangeable.
+Scientific communication should not hide uncertainty, but it should not exaggerate it either. Saying “we cannot know” when evidence is strong is as misleading as presenting a preliminary finding as settled fact. Useful reporting specifies what is uncertain and what is comparatively well supported.
 
-### Quantifying uncertainty
-
-Confidence intervals, probability distributions, standard errors, prediction intervals, Bayesian posterior distributions, and sensitivity analyses can quantify some forms of uncertainty. Quantification does not eliminate uncertainty; it makes certain aspects more explicit.
-
-### Uncertainty versus ignorance
-
-Uncertainty means that multiple possibilities remain plausible or that a quantity is estimated with limited precision. Ignorance can mean that relevant information is simply unavailable. The distinction matters when communicating what is known.
-
-### Scientific disagreement
-
-Researchers can disagree because evidence is incomplete, measurements differ, theoretical assumptions differ, or analyses produce different interpretations. Disagreement does not automatically mean that all positions have equal evidential support.
-
-### Communicating uncertainty
-
-Scientific communication should neither exaggerate certainty nor create false doubt. The appropriate statement depends on the evidence.
-
-### Evidence status
-
-Uncertainty is an inherent part of scientific reasoning. Strong evidence can reduce uncertainty without making it zero.
+Uncertainty can also be quantitative, such as an interval around an estimate, or qualitative, such as unresolved theoretical disagreement. Both belong in scientific reasoning.
 
 
-### Sources of uncertainty
-
-Scientific uncertainty can arise from sampling variation, measurement error, model assumptions, limited data, competing explanations, incomplete theory, heterogeneity, and unknown conditions.
-
-### Productive uncertainty
-
-Uncertainty is not a failure of science. Quantifying and communicating uncertainty allows decisions and theories to remain proportionate to what the evidence supports.
-
-### Different meanings
-
-A confidence interval, predictive interval, Bayesian posterior, qualitative uncertainty statement, and unresolved theoretical question represent different kinds of uncertainty. They should not be treated as interchangeable.
-
-### Calibration
-
-Good scientific communication avoids both false certainty and vague skepticism. The appropriate level of confidence should track the strength and limitations of the evidence.
 ## 4. Relationship to This Chapter
 
 Scientific uncertainty connects evidence, inference, statistics, measurement, replication, and scientific consensus. It provides the epistemic discipline needed to prevent overstatement.
@@ -1031,12 +875,15 @@ The general concept of uncertainty in scientific knowledge and its sources and c
 Specific statistical uncertainty estimates, measurement error, contested theories, and evidence concerning individual psychological claims.
 
 ## 6. Key Principles
+1. Uncertainty concerns unresolved limits around a claim.
+2. Uncertainty can concern magnitude, mechanism, generalization, measurement, or theory.
+3. Uncertainty does not mean that all claims are equally unsupported.
+4. Different sources of uncertainty require different research responses.
+5. Quantitative intervals and qualitative uncertainty are distinct forms.
+6. Scientific communication should neither hide nor exaggerate uncertainty.
+7. Strong evidence can coexist with bounded uncertainty.
+8. Good claims specify what is known, uncertain, and still unresolved.
 
-1. Scientific knowledge can be strong without being absolutely certain.
-2. Uncertainty has multiple sources.
-3. Some uncertainty can be quantified; some is conceptual or epistemic.
-4. Uncertainty should be communicated proportionately to evidence.
-5. Strong evidence reduces uncertainty but does not guarantee zero uncertainty.
 
 ---
 
@@ -1053,47 +900,15 @@ Scientific consensus is a broad, evidence-based convergence of expert judgment a
 Consensus is not determined by popularity or vote alone. It emerges from accumulated evidence, critical scrutiny, replication, theoretical coherence, and professional evaluation.
 
 ## 3. Core Understanding
+Scientific consensus is the convergence of expert judgment around a proposition after considering an accumulated body of evidence, methodological standards, replication, and competing explanations. Consensus is an evidence-informed social state of a scientific community, not a substitute for the evidence itself. It can be strong or weak, broad or narrow, and can change as new evidence accumulates.
 
-### Consensus is claim-specific
+Consensus is not established by counting every published paper as one equal vote. Evidence quality, methodological independence, replication, study design, expertise, and synthesis matter. A large literature can still provide weak support if studies share the same bias or measurement problem. Conversely, a smaller body of highly convergent evidence can support substantial confidence.
 
-Researchers can agree strongly on one aspect of a topic while remaining divided about mechanisms, effect sizes, boundary conditions, or unresolved details. Consensus should therefore be described at the level of the claim actually supported.
+Consensus also varies by claim. Experts may broadly agree that a phenomenon exists while disagreeing about its mechanism, magnitude, boundary conditions, or practical implications. Treating a complex domain as a single yes/no consensus can therefore obscure important uncertainty.
 
-### Consensus is dynamic
-
-Scientific consensus can change when high-quality new evidence alters the balance of evidence. This does not mean science is unreliable; revision is part of scientific self-correction.
-
-### Minority views
-
-A minority position is not automatically wrong, but it also does not receive equal evidential weight merely because it exists. Scientific assessment should consider the quality and convergence of evidence.
-
-### Indicators
-
-Consensus can be reflected through converging research findings, professional reviews, systematic reviews, authoritative scientific reports, and broad agreement among relevant experts. No single indicator is infallible.
-
-### Consensus versus unanimity
-
-Consensus does not require every scientist to agree. Scientific fields can contain residual disagreement while still having strong agreement about central propositions.
-
-### Evidence status
-
-Consensus is a social and epistemic state of a scientific community, not direct evidence that a proposition is true. Its credibility depends on the quality of the evidence and processes producing the convergence.
+Scientific consensus is valuable because individual researchers can be wrong and evidence is distributed across many studies, but consensus remains revisable. It should be used as a summary of the state of evidence, not as an argument that bypasses evidence.
 
 
-### What consensus means
-
-Scientific consensus is a broad convergence of informed expert judgment about a body of evidence or proposition. It develops through accumulated research, critical scrutiny, replication, debate, and synthesis rather than by a formal vote that makes a claim true.
-
-### Consensus versus unanimity
-
-Consensus does not require every researcher to agree on every detail. Substantive disagreement can remain about mechanisms, boundary conditions, effect sizes, or policy implications while the broader evidence supports a common core conclusion.
-
-### Evidence and authority
-
-Consensus is informative because it reflects accumulated expertise and evidence, but consensus itself is not the primary empirical evidence for a claim. Its credibility depends on the quality and openness of the underlying scientific process.
-
-### Change
-
-Consensus can change when strong new evidence, better measurement, or improved theory changes the evidential landscape.
 ## 4. Relationship to This Chapter
 
 Scientific consensus connects evidence, replication, systematic review, meta-analysis, peer review, and uncertainty. It provides a way to describe the current state of scientific agreement without treating agreement itself as proof.
@@ -1109,12 +924,15 @@ The concept of evidence-based convergence of expert scientific judgment.
 The empirical evidence producing consensus, specific theories, meta-analytic methods, and peer-review processes.
 
 ## 6. Key Principles
+1. Scientific consensus reflects convergence of informed scientific judgment around evidence.
+2. Consensus is not a substitute for examining evidence.
+3. Evidence quality and independence matter more than raw publication counts.
+4. Experts can agree on existence while disagreeing about mechanism or scope.
+5. Consensus can vary by claim and strength.
+6. Scientific consensus remains revisable.
+7. Strong consensus usually reflects convergent evidence rather than authority alone.
+8. Consensus should summarize evidence, not replace it.
 
-1. Consensus is agreement about defined scientific claims, not universal agreement about everything.
-2. Consensus is based on accumulated evidence and critical evaluation.
-3. Consensus can change as evidence changes.
-4. A minority view is not automatically equally supported.
-5. Consensus is not itself a substitute for evidence.
 
 ---
 
@@ -1131,45 +949,15 @@ Pseudoscience refers to systems of claims, methods, or practices presented as sc
 The label should be applied to the characteristics of a claim or practice, not merely because a claim is unusual or controversial.
 
 ## 3. Core Understanding
+Pseudoscience refers to practices or claims presented as scientific while failing to meet important standards of scientific inquiry, evidence, testability, transparency, or self-correction. The problem is not that a claim is unusual or unpopular; scientifically legitimate ideas can initially be controversial. The distinction concerns whether claims are exposed to meaningful empirical evaluation and whether contrary evidence can genuinely change the position.
 
-### Common characteristics
+Warning signs can include unfalsifiable explanations, selective use of evidence, immunity to disconfirmation, reliance on anecdotes as primary proof, moving goalposts after failed predictions, misuse of scientific terminology, suppression of criticism, or claims of certainty far beyond available evidence. No single feature is necessarily decisive, and evaluation should focus on the whole evidential practice.
 
-Potential warning signs include claims that are insulated from disconfirmation, reliance on anecdotes as primary proof, selective use of supportive evidence, vague or shifting definitions, excessive appeals to authority, resistance to credible negative evidence, and inability to produce reliable empirical support.
+Pseudoscientific claims can resemble science because they may use measurements, technical language, references, or experiments. The presence of scientific-looking features is therefore not enough. The crucial question is whether methods and reasoning allow independent evaluation and correction.
 
-No single feature is sufficient in every case. Scientific assessment should consider the whole evidential and methodological pattern.
-
-### Scientific disagreement versus pseudoscience
-
-A legitimate scientific minority view can be unconventional while still being testable, evidence-responsive, and methodologically serious. Unusualness alone is not pseudoscience.
-
-### Evidence misuse
-
-Pseudoscientific claims can misuse technical language, isolated studies, statistical results, or scientific credentials to create an appearance of certainty. Scientific vocabulary does not substitute for valid evidence.
-
-### Boundary conditions
-
-Some fields or claims may exist on a spectrum of development, with evidence quality changing over time. Careful classification should therefore distinguish weak science, preliminary research, contested science, and pseudoscientific practice rather than collapsing them into one category.
-
-### Evidence status
-
-The identification of pseudoscientific characteristics is partly methodological and philosophical. Specific judgments require examination of the actual practices, claims, and evidence.
+The category should also be applied carefully. A weak scientific study is not automatically pseudoscience; poor methodology can occur within legitimate research. Pseudoscience concerns a broader pattern in which scientific appearance is not matched by scientific epistemic practice.
 
 
-### Pattern of pseudoscientific reasoning
-
-Pseudoscience presents claims as scientific while failing to meet important standards of empirical testability, evidence, methodological transparency, self-correction, or appropriate engagement with disconfirming evidence.
-
-### Common features
-
-Potential warning signs include unfalsifiable claims, selective use of supportive anecdotes, resistance to contrary evidence, exaggerated certainty, reliance on scientific-sounding terminology without valid measurement, and claims that cannot be independently evaluated.
-
-### Not simply “wrong science”
-
-A scientific claim can be false or poorly supported without being pseudoscience. Pseudoscience concerns the way claims are presented, tested, defended, and connected to evidence.
-
-### Evidence status
-
-The boundary can be contested in particular cases. Classification should therefore rely on concrete methodological features rather than dismissive labels.
 ## 4. Relationship to This Chapter
 
 Pseudoscience belongs in the Science section because scientific literacy requires knowing not only how science works but also how scientific appearance can be separated from scientific practice.
@@ -1185,12 +973,15 @@ The general concept and identifying features of pseudoscientific claims and prac
 Specific disputed fields, empirical studies, scientific consensus, evidence quality, and research methodology.
 
 ## 6. Key Principles
+1. Pseudoscience presents claims as scientific without meeting important scientific standards.
+2. Unpopularity or novelty alone does not make a claim pseudoscientific.
+3. Unfalsifiability, selective evidence, and resistance to disconfirmation are important warning signs.
+4. Technical language and measurement do not guarantee scientific validity.
+5. A weak study is not automatically pseudoscience.
+6. The relevant unit of evaluation is the broader evidential practice.
+7. Genuine science permits criticism and correction.
+8. Classification should be evidence-based rather than rhetorical.
 
-1. Scientific appearance is not the same as scientific validity.
-2. Testability, evidence, transparency, and openness to correction are important safeguards.
-3. Unusual or minority ideas are not automatically pseudoscientific.
-4. Anecdotes and authority cannot substitute for appropriate empirical evidence.
-5. Classification should be based on methodological characteristics, not personal disagreement.
 
 ---
 
@@ -1207,47 +998,15 @@ Replication is the deliberate repetition of research to assess whether a previou
 Replications can vary in how closely they reproduce the original methods and context.
 
 ## 3. Core Understanding
+Replication is the attempt to obtain relevantly similar evidence for a previous empirical finding using the same or appropriately adapted procedures. Replication is important because a single result can arise from sampling variation, measurement problems, analytical flexibility, context-specific effects, or chance. Repeated evidence can reveal whether a finding is robust, conditional, or difficult to reproduce.
 
-### Direct replication
+Direct replication seeks to reproduce important features of an earlier study, while conceptual replication tests a related theoretical claim using different methods or operationalizations. Both can be informative, but they answer somewhat different questions. Failure to reproduce an effect does not automatically prove that the original finding was false; differences in sample, implementation, power, measurement, or context may matter. Conversely, a successful replication does not guarantee universal generalization.
 
-A direct replication aims to reproduce important procedures of an earlier study as closely as practical. It tests whether the original result can recur under similar conditions.
+Replication is strongest when it is independent, appropriately powered, transparent, and faithful to the inferential target. A pattern of replications can also reveal heterogeneity: an effect may appear reliably under some conditions and not others. This can improve theory by identifying moderators rather than reducing the literature to “works” versus “does not work.”
 
-### Conceptual replication
-
-A conceptual replication tests the same theoretical proposition using different methods, measures, populations, or operationalizations. It examines whether the underlying claim survives a change in implementation.
-
-### Why replication matters
-
-A result can fail to replicate because the original effect was unstable, the original estimate was exaggerated, the phenomenon depends on specific conditions, the replication differed in a meaningful way, or statistical variation produced different observations. Failure to replicate is therefore informative but not self-interpreting.
-
-### Replication and generality
-
-Repeated findings across varied conditions can strengthen confidence in a robust phenomenon. Consistent failure under relevant conditions can weaken confidence or reveal important boundary conditions.
-
-### Replication versus exact numerical agreement
-
-Replication does not require identical numerical results. Sampling variability and contextual differences mean that repeated studies can produce different estimates while still supporting the same general phenomenon.
-
-### Evidence status
-
-Replication is an empirical strategy for evaluating stability and generality. Its interpretation depends on the quality of the replication and how closely the tested conditions correspond to the original claim.
+Replication therefore contributes to cumulative evidence, not merely to policing individual researchers.
 
 
-### Replication as evidential test
-
-Replication is a new attempt to investigate whether a previously reported finding or pattern can be observed again under the same or meaningfully related conditions. It can be close to the original procedure or intentionally vary conditions to test robustness.
-
-### Conceptual replication
-
-A conceptual replication tests the same underlying idea using different operationalizations or methods. It can strengthen confidence in a theoretical relationship while also testing whether the original operationalization was unusually influential.
-
-### Failure to replicate
-
-A failed replication does not automatically prove that the original finding was false. Differences in sample, measurement, power, implementation, context, or random variation can produce different results. Repeated failures under well-matched conditions are more informative than one failure.
-
-### Cumulative value
-
-Replication is strongest when interpreted across multiple studies rather than as a binary pass/fail label for a single claim.
 ## 4. Relationship to This Chapter
 
 Replication connects evidence, reproducibility, generalizability, scientific uncertainty, and open science. It is one component of cumulative evidence rather than a standalone guarantee of truth.
@@ -1263,12 +1022,15 @@ The concept of repeating research to assess stability or generality of findings.
 Reproducibility, generalizability, specific replication results, and statistical interpretation.
 
 ## 6. Key Principles
+1. Replication tests whether relevant evidence recurs.
+2. Direct and conceptual replication answer different questions.
+3. Nonreplication can reflect false original findings, moderators, implementation differences, or power.
+4. Successful replication does not imply universal generalization.
+5. Independent and transparent replication is especially informative.
+6. Replication can reveal heterogeneity and boundary conditions.
+7. A single replication should not be treated as final proof.
+8. Replication strengthens cumulative scientific correction.
 
-1. Replication tests whether findings recur.
-2. Direct and conceptual replication answer somewhat different questions.
-3. Replication failure requires interpretation.
-4. Successful replication strengthens confidence but does not prove universal truth.
-5. Replication contributes to cumulative evidence.
 
 ---
 
@@ -1285,47 +1047,15 @@ Reproducibility is the ability to obtain the same or appropriately consistent an
 The term is used differently across disciplines, so the exact meaning should be stated when precision matters.
 
 ## 3. Core Understanding
+Reproducibility concerns the ability to obtain consistent results when the same data, materials, code, or procedures are used again, depending on the specific meaning intended. The term is used inconsistently, so scientific writing should specify whether it means computational reproducibility, procedural repeatability, or independent replication. Reproducibility is therefore related to replication but not identical to it.
 
-### Computational reproducibility
+Computational reproducibility may require access to data, analysis code, software versions, preprocessing decisions, and documentation. If another analyst cannot reproduce a reported statistic from the stated materials, confidence in the transparency of the analysis is reduced. Procedural repeatability concerns whether a process can be carried out consistently under specified conditions.
 
-When research depends on data processing and statistical code, another researcher may be able to reproduce reported results by using the same data and procedures. This requires sufficient documentation and access to the relevant materials.
+Independent replication asks whether a finding recurs when new data are collected. A result can be computationally reproducible yet fail independent replication, or be independently reproduced despite limited access to the original computational pipeline. These are different tests of scientific reliability.
 
-### Reproducibility versus replication
-
-Reproducibility and replication are related but distinct. Reproducibility can concern obtaining results from the same underlying research materials. Replication usually concerns collecting new data to test whether a finding recurs.
-
-### Barriers
-
-Results may be difficult to reproduce because of missing data, unavailable code, undocumented preprocessing, proprietary software, unclear exclusion rules, unstable computational environments, or undocumented researcher decisions.
-
-### Reproducibility is not validity
-
-A result can be perfectly reproducible and still be wrong because the measurement, design, or statistical model is flawed. Reproducibility checks consistency of the analytic process; it does not by itself establish truth.
-
-### Transparency
-
-Documentation, version control, data dictionaries, analysis scripts, and clear reporting can improve reproducibility where ethical and legal constraints permit.
-
-### Evidence status
-
-Reproducibility is a methodological property. Its importance varies with the type of research, and the exact operational meaning should be made explicit.
+Reproducibility also depends on adequate documentation and stable materials. Hidden researcher decisions, undocumented exclusions, unavailable dependencies, or ambiguous procedures can make reproduction difficult even when the underlying finding is genuine.
 
 
-### Reproducibility versus replication
-
-Reproducibility concerns whether the same analysis, materials, code, or data-processing procedure can produce the same result when repeated under sufficiently equivalent conditions. Replication asks whether the empirical finding recurs in new data or a new study.
-
-### Sources of failure
-
-Reproducibility can fail because of missing data, undocumented preprocessing, unavailable software, random seeds, coding errors, changing dependencies, or incomplete methodological records.
-
-### Transparency
-
-Reproducible research requires enough documentation, materials, code, and data access for the relevant analysis to be reconstructed, subject to ethical and legal limits.
-
-### Evidence status
-
-Reproducibility strengthens confidence in the integrity of an analysis but does not by itself establish that the underlying finding is causal, generalizable, or theoretically correct.
 ## 4. Relationship to This Chapter
 
 Reproducibility complements replication and open science. Together they help distinguish whether a result can be re-obtained from the same research process and whether the underlying phenomenon recurs with new data.
@@ -1341,12 +1071,15 @@ The concept of obtaining research results again from sufficiently specified or s
 Replication, data sharing, open-science practices, and the validity of the substantive finding.
 
 ## 6. Key Principles
+1. Reproducibility concerns obtaining consistent results under a specified form of repetition.
+2. Computational reproducibility and independent replication are distinct.
+3. Reproducibility depends on transparent data, code, materials, and documentation where appropriate.
+4. A reproducible analysis can still fail independent replication.
+5. Independent replication can succeed even when original computational materials are unavailable.
+6. Terminology should specify what kind of reproducibility is meant.
+7. Hidden analytic decisions can undermine reproducibility.
+8. Reproducibility supports but does not by itself establish general truth.
 
-1. Reproducibility concerns the ability to re-obtain results from the same or specified research materials.
-2. It is distinct from replication with new data.
-3. Reproducibility does not prove that a finding is valid.
-4. Documentation and transparent analysis improve reproducibility.
-5. Terminology should be defined because usage varies across fields.
 
 ---
 
@@ -1363,51 +1096,15 @@ Generalizability is the extent to which a finding, relationship, measurement, or
 Generalizability is not automatic. It must be supported by evidence or justified by an appropriate theory of the relevant conditions.
 
 ## 3. Core Understanding
+Generalizability is the extent to which a finding, relationship, measurement, or mechanism applies beyond the specific people, settings, tasks, times, or conditions in which it was studied. Generalizability is multidimensional. A result can generalize across people but not contexts, across contexts but not developmental stages, or across measures while failing under different implementation conditions.
 
-### Population generalizability
+External validity and generalizability are related but should not be treated as identical. Generalization requires identifying the target population or setting and the conditions under which transfer is expected. A representative sample helps population generalization, while replication across settings helps contextual generalization. Neither guarantees generalization if the construct or measurement changes meaning.
 
-A finding from a sample may or may not apply to a broader population. Probability sampling can support some forms of population inference, but sampling method is only one factor.
+Generalizability also depends on mechanisms. If a finding reflects a robust process, it may transfer across surface differences; if it depends on a narrow contextual cue, transfer may be limited. Heterogeneous effects can therefore be theoretically informative rather than simply inconvenient.
 
-### Contextual generalizability
-
-A psychological effect can depend on setting, task, culture, social environment, technology, incentives, or time period. A result may therefore generalize to some contexts but not others.
-
-### Measurement generalizability
-
-A finding obtained with one measure may not transfer to another measure if the measures capture different aspects of the construct or differ in reliability and validity.
-
-### Boundary conditions
-
-Generalization is strongest when the relevant conditions are known. Discovering moderators can replace a simple universal claim with a more precise conditional claim.
-
-### External validity
-
-Generalizability is closely related to external validity but should not be treated as identical to every use of that term. External validity is a broader evaluation of whether conclusions hold beyond the study conditions.
-
-### Evidence
-
-Generalizability can be supported by diverse samples, varied settings, conceptual replications, theory specifying stable mechanisms, and direct tests across contexts.
-
-### Evidence status
-
-Generalizability is an empirical and inferential property of particular findings. It cannot be determined solely from sample size.
+Researchers should avoid universal language when evidence comes from narrow samples or tasks. At the same time, a nonrepresentative sample does not make every finding useless; it may support a narrower claim. Generalization is best treated as an empirical question requiring evidence rather than an automatic property of publication.
 
 
-### Dimensions of generalization
-
-Generalizability concerns whether findings obtained under particular conditions can reasonably inform other populations, settings, times, measures, interventions, or outcomes. It is therefore multidimensional rather than a single property.
-
-### Statistical and analytical generalization
-
-Statistical generalization often depends on sampling from a defined population. Analytical generalization extends a theoretical mechanism or explanation to other contexts when the relevant conditions are sufficiently similar. These are different inferential routes.
-
-### Heterogeneity
-
-Effects can vary across people and contexts. Such variation is not merely an inconvenience; it can reveal moderators and boundary conditions. A finding that holds only under narrow conditions should be described that way.
-
-### Evidence status
-
-Generalizability is an inference supported by evidence about populations, contexts, mechanisms, and heterogeneity. It should not be assumed simply because a study has a large sample.
 ## 4. Relationship to This Chapter
 
 Generalizability closes the Science section because it asks where scientific conclusions travel after they have been produced. It connects directly to sampling, replication, external validity, ecological validity, measurement, and contextual moderation.
@@ -1423,12 +1120,15 @@ The general concept of extending findings beyond the original study conditions.
 Population sampling, external validity, ecological validity, replication, moderators, and the substantive psychological findings being generalized.
 
 ## 6. Key Principles
+1. Generalizability concerns transfer beyond the original study conditions.
+2. Generalization can differ across people, settings, times, tasks, and measures.
+3. Representative sampling supports some population claims but not all forms of generalization.
+4. Replication across contexts supports contextual generalization.
+5. Construct and measurement equivalence matter for transfer.
+6. Mechanisms and boundary conditions influence generalizability.
+7. Narrow evidence can support narrow claims without being worthless.
+8. Generalization should be demonstrated rather than assumed.
 
-1. Findings have scope conditions.
-2. Generalizability is not guaranteed by sample size alone.
-3. Population and contextual generalizability are distinct questions.
-4. Replication across conditions can strengthen generalizability.
-5. Boundary conditions can make a finding conditionally rather than universally general.
 
 ---
 ## 1.2.21 Experimental research
