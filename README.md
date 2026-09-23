@@ -75,7 +75,7 @@ It contains all 78 canonical Topics in the current biological ontology. The form
 
 ### Chapter 1.4 — Sensation and Perception
 
-**Status: LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 1.1**
+**Status: LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 2.0**
 
 The canonical Chapter 1.4 writing is contained in:
 
@@ -85,7 +85,7 @@ It contains all 62 canonical Topics. The two exact ownership collisions identifi
 
 ### Chapter 1.5 — Consciousness, Sleep, and Altered States
 
-**Status: LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 1.1**
+**Status: LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 2.0**
 
 The canonical Chapter 1.5 writing is contained in:
 
@@ -277,3 +277,19 @@ The v2 standard adds mandatory semantic requirements for:
 - `quality/TEMPORARY_EXECUTION_ROADMAP.md`
 
 The repository itself remains the project source of truth. Memory, old chat drafts, screenshots, and external summaries must never override live canonical files.
+
+
+## Phase 4 — Chapter 1.5 V2 Semantic Remediation
+
+Chapter 1.5 — Consciousness, Sleep, and Altered States has completed the V2 semantic remediation pass.
+
+- **44/44 Topics preserved exactly**
+- **13,580 total words**
+- **Average Core Understanding: ~120 words**
+- **Minimum Core Understanding: 97 words**
+- **Maximum Core Understanding: 143 words**
+- Topic-specific mechanism, evidence, uncertainty, measurement, boundaries, and neighboring-concept distinctions deepened
+- Universal-psychology boundary preserved
+- Final validation record: `knowledge/system-01/chapter-1.5/CHAPTER_1.5_FINAL_VALIDATION.md`
+- **Status: LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 2.0**
+
