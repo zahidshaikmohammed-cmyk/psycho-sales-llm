@@ -2248,9 +2248,849 @@ Top-down processing to 1.4.15; expectation effects to 1.4.31; response bias to 1
 
 ---
 
+
+
+---
+
+## 1.4.31 Expectation effects
+
+## 1. Purpose
+
+Expectation effects describe changes in perception or perceptual performance associated with what an observer anticipates will be present or occur.
+
+## 2. Definition
+
+An **expectation effect** is a systematic change in perceptual experience, judgment, or performance associated with prior information about the likely identity, location, timing, or properties of incoming sensory information.
+
+**What it is not:** An expectation effect is not automatically a change in sensory encoding. Expectations can influence attention, perceptual interpretation, memory, or response strategy, so the locus of an observed effect must be established rather than assumed.
+
+## 3. Core Understanding
+
+Expectations function as prior constraints on uncertain input. When evidence is weak or ambiguous, anticipating one interpretation can increase the probability that compatible evidence is interpreted accordingly. Expectations can also improve perceptual efficiency when environmental regularities are reliable.
+
+Expectation effects are therefore not uniformly errors. A prediction that accurately reflects the environment can reduce uncertainty; an inaccurate prediction can bias interpretation. Their expression depends on the reliability of the expectation, the reliability of sensory evidence, task demands, and the level at which the effect is measured.
+
+A critical distinction is between perceptual and post-perceptual effects. Faster responses or changed reports can result from decision strategy without altered perceptual experience. Stronger evidence for perceptual effects comes from designs that measure discrimination, thresholds, subjective appearance, or other indicators that constrain purely response-based explanations.
+
+## 4. Relationship to This Chapter
+
+Expectation effects are a specific class of top-down influence and connect to perceptual set, context effects, perceptual inference, and perceptual learning. They provide experimentally testable instances of the broader interaction between prior information and sensory evidence.
+
+## 5. Boundaries
+
+### Owns
+
+Expectation-related changes in perceptual processing or perceptual performance within sensory tasks.
+
+### Defers
+
+Perceptual set to 1.4.30; top-down processing to 1.4.15; attention to Chapter 1.6; general expectancy and decision processes to their broader canonical owners.
+
+## 6. Key Principles
+
+- Expectations can constrain interpretation without determining perception completely.
+- Accurate expectations can improve processing as well as produce errors.
+- Behavioral expectation effects do not automatically establish perceptual change.
+- The strength of an expectation effect depends on evidence quality, task, and context.
+
+---
+
+## 1.4.32 Context effects
+
+## 1. Purpose
+
+Context effects describe changes in perception caused by the sensory, spatial, temporal, or environmental information surrounding a target.
+
+## 2. Definition
+
+A **context effect in perception** is a systematic change in the perceived properties or interpretation of a stimulus produced by information surrounding, preceding, accompanying, or otherwise structuring that stimulus.
+
+**What it is not:** Context effects are not limited to social context and should not be equated with broad contextual influences on behavior.
+
+## 3. Core Understanding
+
+Perception is relational. A target is often interpreted relative to neighboring colors, shapes, sounds, objects, spatial arrangements, recent stimulation, or scene structure. Consequently, physically identical targets can produce different percepts in different contexts.
+
+Context can provide useful information about the likely source or meaning of sensory input. It can also generate illusions when contextual assumptions are inappropriate. The same mechanism that normally improves perceptual stability can therefore create systematic error under artificial conditions.
+
+Context can operate at multiple temporal scales. Immediate surround information can alter appearance; preceding stimulation can alter adaptation; broader scene structure can alter object or color interpretation. Context can also interact with attention and expectation, making causal attribution difficult unless experiments isolate the relevant manipulation.
+
+Context effects are measured by holding the target constant while changing surrounding information and comparing perceptual judgments, thresholds, discrimination, or subjective appearance.
+
+## 4. Relationship to This Chapter
+
+Context effects connect perceptual organization, constancy, expectation, adaptation, and perceptual inference. They demonstrate why sensory information cannot always be interpreted independently of its surrounding structure.
+
+## 5. Boundaries
+
+### Owns
+
+Context-dependent changes in sensory and perceptual interpretation.
+
+### Defers
+
+Social and interpersonal context to relevant social chapters; treatment context to Chapter 1.20; expectation effects to 1.4.31; general cognitive context effects outside perception to their respective owners.
+
+## 6. Key Principles
+
+- Perceptual interpretation is often relational rather than stimulus-isolated.
+- Context can improve interpretation or produce systematic illusion.
+- Immediate, recent, and scene-level context can operate differently.
+- Context effects must be separated from expectation, attention, and response bias when causal interpretation matters.
+
+---
+
+## 1.4.33 Perceptual learning
+
+## 1. Purpose
+
+Perceptual learning describes relatively lasting improvements or changes in the ability to detect, discriminate, identify, or organize sensory information as a consequence of experience.
+
+## 2. Definition
+
+**Perceptual learning** is a change in perceptual performance or perceptual representation produced by experience with sensory stimuli or tasks, often increasing sensitivity to task-relevant distinctions.
+
+**What it is not:** It is not simply exposure, general knowledge acquisition, or any improvement caused by better decision strategy.
+
+## 3. Core Understanding
+
+Perceptual learning can improve discrimination of subtle features, detection under noise, category identification, or extraction of relevant structure. Learning may reflect changes in how sensory information is represented, weighted, attended to, or mapped onto decisions.
+
+The locus of learning is therefore an empirical question. A performance improvement can arise because the observer learned to attend to informative features, developed a better response strategy, acquired task knowledge, or experienced changes in perceptual processing.
+
+Specificity is an important property. Some learning transfers broadly across stimuli, while other learning is highly specific to orientation, retinal location, stimulus class, context, or task. The degree of transfer provides evidence about what has changed.
+
+Learning can also interact with expertise. Extensive experience can make complex regularities easier to detect, but expertise should not be treated as a single mechanism or as uniformly superior perception.
+
+Measurement commonly compares thresholds, discrimination, recognition, or detection before and after training and tests transfer to novel stimuli or contexts.
+
+## 4. Relationship to This Chapter
+
+Perceptual learning connects experience with the plasticity of sensation and perception. It is distinct from general learning in Chapter 1.7 because its canonical scope is learning expressed in sensory discrimination and perceptual organization.
+
+## 5. Boundaries
+
+### Owns
+
+Experience-dependent change in perceptual sensitivity, discrimination, identification, or organization.
+
+### Defers
+
+General learning mechanisms to Chapter 1.7; memory to Chapter 1.8; attention to Chapter 1.6.
+
+## 6. Key Principles
+
+- Perceptual learning can change what distinctions an observer can reliably detect.
+- Performance gains do not automatically prove sensory-level change.
+- Specificity and transfer reveal important properties of the learned process.
+- Experience can reshape perceptual processing without creating a wholly new sensory system.
+
+---
+
+## 1.4.34 Perceptual bias
+
+## 1. Purpose
+
+Perceptual bias describes systematic departures in perceptual interpretation from the physical properties of a stimulus or from an unbiased benchmark, when those departures arise from properties of the perceptual system or interpretive context.
+
+## 2. Definition
+
+A **perceptual bias** is a systematic tendency for perception or perceptual judgment to favor particular interpretations or values under specified stimulus and contextual conditions.
+
+**What it is not:** Perceptual bias is not synonymous with response bias, prejudice, or intentional distortion.
+
+## 3. Core Understanding
+
+Bias can arise because perceptual systems use assumptions that are usually useful in natural environments. If an assumption mismatches the current stimulus, perception can become systematically displaced rather than randomly noisy.
+
+A bias can occur at different levels. Sensory adaptation can shift perceived intensity or color; contextual structure can alter perceived size or contrast; learned expectations can favor one interpretation; decision criteria can shift reports without changing perceptual experience.
+
+This makes localization essential. A change in reported magnitude does not by itself establish a perceptual bias because the response could have changed after perception.
+
+Perceptual biases can be quantified by comparing judgments against physical measurements or controlled reference conditions. Bias should be distinguished from variability: bias concerns systematic displacement, whereas variability concerns dispersion or inconsistency.
+
+Bias can be stable within a task while changing across contexts, modalities, individuals, and time.
+
+## 4. Relationship to This Chapter
+
+Perceptual bias integrates findings from adaptation, context, expectation, inference, and sensory coding. It is narrower than the general family of cognitive or social biases elsewhere in System 1.
+
+## 5. Boundaries
+
+### Owns
+
+Systematic perceptual or perceptual-judgment deviations attributable to sensory/perceptual processing.
+
+### Defers
+
+Response bias to 1.4.12; social and cognitive biases to their canonical owners; general individual differences to broader chapters.
+
+## 6. Key Principles
+
+- Bias is systematic deviation, not merely random error.
+- A biased report does not automatically prove biased perception.
+- Perceptual bias can arise from mechanisms that are normally adaptive.
+- Bias must be defined relative to a physical or theoretical reference.
+
+---
+
+## 1.4.35 Visual perception
+
+## 1. Purpose
+
+Visual perception is the modality-specific organization and interpretation of light-derived information into representations of objects, surfaces, space, color, motion, and events.
+
+## 2. Definition
+
+**Visual perception** is the set of perceptual processes by which information carried by light and transformed by the visual system is organized into usable representations of the visual environment.
+
+**What it is not:** Visual perception is not equivalent to the eye alone, retinal sensation, or conscious visual awareness.
+
+## 3. Core Understanding
+
+Visual perception begins with optical information reaching the eyes but depends on transformations across multiple levels of the visual system. Information about luminance, contrast, wavelength, spatial structure, depth, and motion is progressively and recurrently organized.
+
+Visual perception is inherently underdetermined: retinal images do not directly specify object identity, physical size, three-dimensional shape, or illumination. The system therefore combines sensory evidence with contextual and learned constraints.
+
+Different visual functions can rely on partially distinct processing routes and representations. Color, motion, depth, object recognition, and spatial organization interact but should not be reduced to one generic “visual processor.”
+
+Visual perception is also temporally dynamic. Information accumulates over time, recent stimulation alters responsiveness, and movement changes the available evidence. Perception can therefore depend on both current and preceding visual information.
+
+Measurement includes psychophysical thresholds, discrimination, detection, recognition, visual search, perceptual reports, eye-movement measures, and neural responses. Each measures a different component and should not be treated as a direct readout of the whole perceptual process.
+
+## 4. Relationship to This Chapter
+
+Visual perception is the major modality-level construct for the visual Topics that follow, including color, pathways, depth, motion, recognition, faces, and biological motion. It integrates earlier general principles of sensation and perception.
+
+## 5. Boundaries
+
+### Owns
+
+The general visual modality as a perceptual system and its organized perceptual functions.
+
+### Defers
+
+Visual pathways to 1.4.37; color vision to 1.4.36; depth to 1.4.38; object and face recognition to 1.4.42–1.4.44.
+
+## 6. Key Principles
+
+- Visual perception is constructed from transformed optical information.
+- Retinal stimulation does not uniquely specify the perceived environment.
+- Visual functions are interdependent but not reducible to one mechanism.
+- Visual perception is dynamic and context-sensitive.
+
+---
+
+## 1.4.36 Color vision
+
+## 1. Purpose
+
+Color vision describes the sensory and perceptual capacity to distinguish and organize information associated with the spectral composition of light.
+
+## 2. Definition
+
+**Color vision** is the capacity to detect, discriminate, and perceptually organize differences in light that depend on wavelength composition and the visual system's responses to it.
+
+**What it is not:** Color is not a direct property of wavelength alone. Perceived color depends on the spectrum, illumination, surrounding context, adaptation, and the observer's visual system.
+
+## 3. Core Understanding
+
+Color vision begins with wavelength-sensitive photoreceptors, but perceived color is produced through later neural comparisons and contextual processing. Human color vision commonly relies on three classes of cone photoreceptors with overlapping spectral sensitivities, followed by opponent and higher-level processing.
+
+Because cone responses overlap, the visual system does not receive a unique “wavelength label” from a single receptor. Color is inferred from patterns of activity across receptor classes and later processing stages.
+
+Opponent processing helps organize chromatic differences along dimensions such as red–green and blue–yellow, while luminance-related signals provide additional information. These are functional descriptions, not claims that single neurons are literally dedicated to simple named colors.
+
+Color vision varies across individuals because of genetic variation, receptor differences, aging, ocular conditions, adaptation, and other factors. Color appearance also changes with illumination and context, which is why color constancy is a separate but related construct.
+
+Color deficits demonstrate that color vision depends on the available receptor and neural mechanisms. They should not be interpreted as a single continuum from “normal” to “abnormal,” because different forms affect different dimensions of color discrimination.
+
+## 4. Relationship to This Chapter
+
+Color vision provides the modality-specific sensory/perceptual foundation for color constancy and visual color phenomena. It links receptor transduction and coding with higher-level color perception.
+
+## 5. Boundaries
+
+### Owns
+
+General visual capacity for chromatic discrimination and organization.
+
+### Defers
+
+Color constancy to 1.4.29; sensory receptor/transduction to 1.4.3–1.4.4; broader visual pathways to 1.4.37.
+
+## 6. Key Principles
+
+- Color vision depends on patterns of receptor and neural responses, not wavelength alone.
+- Cone responses overlap and require comparative processing.
+- Color perception is strongly affected by adaptation and context.
+- Individual variation can alter particular dimensions of color discrimination.
+
+---
+
+## 1.4.37 Visual pathways
+
+## 1. Purpose
+
+Visual pathways describe the major anatomical and functional routes through which visual information travels from the retina into the brain and is transformed across processing stages.
+
+## 2. Definition
+
+**Visual pathways** are the anatomical and functional routes carrying and transforming visual information from retinal photoreceptors through subcortical and cortical structures.
+
+**What it is not:** A pathway is not a one-to-one map from a brain region to a complete psychological function. Most perceptual functions emerge from distributed, interacting systems.
+
+## 3. Core Understanding
+
+Light is transduced in the retina, where signals are transformed through retinal circuits before leaving the eye through the optic nerve. Information reaches subcortical targets including the lateral geniculate nucleus of the thalamus and visual cortical systems, with additional routes supporting reflexive, orienting, and visuomotor functions.
+
+Visual processing is partly organized hierarchically but also involves extensive recurrent and parallel interactions. Distinct pathways have been associated with different functional emphases, including processing important for object identity and processing important for spatial relationships and visually guided action. These are useful functional distinctions, not absolute anatomical separations.
+
+Retinotopic organization preserves relationships between neighboring regions of visual space across multiple stages, while receptive-field properties become more complex at later stages.
+
+Damage to particular pathways can produce selective perceptual or visuomotor impairments, providing causal evidence about function. However, lesion effects are rarely perfectly modular because networks interact and can reorganize.
+
+## 4. Relationship to This Chapter
+
+Visual pathways provide the anatomical substrate for the visual-perceptual processes described elsewhere in 1.4. They should be understood as implementation-level structures supporting, rather than replacing, psychological descriptions of perception.
+
+## 5. Boundaries
+
+### Owns
+
+Modality-specific anatomical and functional organization of visual information pathways.
+
+### Defers
+
+General sensory pathways to Chapter 1.3; visual perception to 1.4.35; attention to Chapter 1.6.
+
+## 6. Key Principles
+
+- Visual processing is distributed, parallel, and recurrent.
+- Anatomical pathways support functions but do not map one-to-one onto psychological constructs.
+- Retinotopic organization is a major organizing property of early visual systems.
+- Lesion evidence is informative but must be interpreted within network organization.
+
+---
+
+## 1.4.38 Depth perception
+
+## 1. Purpose
+
+Depth perception explains how visual systems estimate three-dimensional distance, relative depth, and spatial layout from inherently two-dimensional retinal input.
+
+## 2. Definition
+
+**Depth perception** is the perceptual estimation of distance, relative position in depth, and three-dimensional spatial organization from available sensory cues.
+
+**What it is not:** Depth perception is not provided by binocular vision alone; people can perceive depth using monocular and dynamic information.
+
+## 3. Core Understanding
+
+Depth is inferred from multiple cues. Binocular disparity provides information from differences between the two eyes, while monocular cues include occlusion, relative size, perspective, texture gradients, shading, and motion-based information.
+
+The cues differ in reliability and applicability. The visual system combines them rather than using one universal depth mechanism. When cues agree, depth estimates can become robust; when they conflict, perceptual ambiguity or systematic illusion can occur.
+
+Depth perception also has a temporal component. Motion parallax and changes in viewpoint reveal spatial relationships that cannot be recovered as easily from a single static image.
+
+Depth estimates support size constancy, object segmentation, navigation, and action. Yet perceptual depth and physically measured distance are not identical; judgments can be biased by context, display geometry, and unfamiliar environments.
+
+Measurement includes depth-discrimination thresholds, distance judgments, stereoscopic tasks, motion-parallax tasks, and spatial reconstruction.
+
+## 4. Relationship to This Chapter
+
+Depth perception integrates monocular and binocular cues and supports size/shape constancy, figure–ground organization, object recognition, and motion-based scene interpretation.
+
+## 5. Boundaries
+
+### Owns
+
+Perceptual estimation of three-dimensional spatial relations and depth.
+
+### Defers
+
+Monocular cues to 1.4.39; binocular cues to 1.4.40; motion perception to 1.4.41.
+
+## 6. Key Principles
+
+- Three-dimensional perception is inferred from multiple cues.
+- Binocular information is useful but not necessary for all depth perception.
+- Cue reliability and conflict affect depth judgments.
+- Perceived depth can diverge systematically from physical distance.
+
+---
+
+## 1.4.39 Monocular cues
+
+## 1. Purpose
+
+Monocular cues describe depth information available from one eye or from visual information that does not require binocular disparity.
+
+## 2. Definition
+
+**Monocular cues** are visual properties that provide information about depth or three-dimensional layout without requiring simultaneous comparison of the two eyes' images.
+
+**What it is not:** A monocular cue is not necessarily consciously noticed, and monocular depth does not imply that one eye alone supplies all visual information.
+
+## 3. Core Understanding
+
+Important monocular cues include occlusion, relative size, linear perspective, texture gradients, interposition, aerial perspective, shading, familiar size, relative height, and motion parallax. These cues provide different forms of evidence about distance and spatial arrangement.
+
+Some cues depend on assumptions about the environment. Occlusion is generally strong because nearer surfaces block farther ones, whereas familiar size depends more heavily on learned knowledge. Perspective cues are informative because of regularities in natural environments but can be manipulated in artificial displays.
+
+Motion parallax provides depth information as the observer or scene changes position: nearer objects generally undergo larger retinal displacement than farther objects for a given viewpoint change. This is a dynamic cue rather than a static pictorial cue.
+
+Monocular cues can cooperate or conflict. When conflicting, perception reflects the relative strength and reliability of the cues, as well as prior knowledge and task.
+
+## 4. Relationship to This Chapter
+
+Monocular cues are the single-eye/depth-information branch of depth perception. They complement binocular disparity rather than replace it.
+
+## 5. Boundaries
+
+### Owns
+
+Depth information obtainable without requiring binocular disparity.
+
+### Defers
+
+Binocular cues to 1.4.40; general depth perception to 1.4.38; broader spatial cognition to other chapters.
+
+## 6. Key Principles
+
+- Many sources of depth information are available without binocular disparity.
+- Different monocular cues depend on different environmental regularities.
+- Dynamic cues can provide depth information through movement.
+- Cue conflict can produce systematic depth illusions.
+
+---
+
+## 1.4.40 Binocular cues
+
+## 1. Purpose
+
+Binocular cues describe depth information derived from the relationship between the visual signals arriving at the two eyes.
+
+## 2. Definition
+
+**Binocular cues** are visual depth cues that depend on information available from both eyes, especially differences between their retinal images.
+
+**What it is not:** Binocular depth is not synonymous with all stereoscopic experience, nor is it the only basis of three-dimensional perception.
+
+## 3. Core Understanding
+
+The principal binocular cue for fine stereoscopic depth is binocular disparity: the small difference in the location of corresponding features in the two retinal images because the eyes occupy different positions in space.
+
+The visual system uses these differences to estimate relative depth. Disparity is particularly useful at near viewing distances and for precise spatial discrimination, although its usefulness depends on viewing geometry and stimulus conditions.
+
+Vergence—the coordinated orientation of the eyes—also provides information related to viewing distance, especially at relatively close distances. It should not be confused with disparity: disparity is a difference between retinal images, whereas vergence is an eye-movement state.
+
+Binocular cues interact with monocular cues. Stereoscopic displays can produce strong depth even when other cues are weak, while conflicting disparity and monocular information can produce unusual percepts.
+
+Measurement includes stereoacuity, disparity thresholds, stereoscopic depth judgments, and binocular matching tasks.
+
+## 4. Relationship to This Chapter
+
+Binocular cues form the complementary branch to monocular cues within depth perception and contribute to object segmentation, size constancy, and spatial interaction.
+
+## 5. Boundaries
+
+### Owns
+
+Depth information specifically dependent on coordinated two-eye information.
+
+### Defers
+
+Monocular cues to 1.4.39; general depth perception to 1.4.38; visual pathways to 1.4.37.
+
+## 6. Key Principles
+
+- Binocular disparity provides powerful information about relative depth.
+- Vergence and disparity are related but distinct cues.
+- Binocular information is integrated with monocular information.
+- Stereoscopic depth is especially informative under appropriate viewing geometry.
+
+---
+
+## 1.4.41 Motion perception
+
+## 1. Purpose
+
+Motion perception describes how changes in sensory stimulation over time are organized into representations of movement, direction, speed, and dynamic events.
+
+## 2. Definition
+
+**Motion perception** is the perceptual processing of temporal changes in sensory input into representations of movement or dynamic change.
+
+**What it is not:** Motion perception is not equivalent to physical movement alone; apparent motion can occur without continuous physical motion.
+
+## 3. Core Understanding
+
+Motion information can arise from changes in image position, optic flow, temporal frequency, contrast, and coordinated movement among elements. Visual systems estimate direction and speed from patterns distributed across space and time.
+
+Apparent motion demonstrates that perception is not a frame-by-frame recording. When discrete stimuli are presented with appropriate timing and spatial separation, observers can experience continuous movement even though no physical object traverses the intervening path.
+
+Motion perception also distinguishes self-motion from object motion using global patterns such as optic flow. Relative motion can contribute to figure–ground organization and common-fate grouping.
+
+Motion processing is influenced by stimulus context, adaptation, spatial structure, and attention. Neural mechanisms are distributed across multiple stages rather than being localized to one “motion center.”
+
+Measurement includes direction discrimination, speed estimation, motion coherence, motion aftereffects, and detection thresholds.
+
+## 4. Relationship to This Chapter
+
+Motion perception supports common-fate grouping, depth through motion parallax, biological-motion perception, object segregation, and dynamic scene interpretation.
+
+## 5. Boundaries
+
+### Owns
+
+Perceptual representation of movement and temporal visual change.
+
+### Defers
+
+Common fate to 1.4.24; biological motion to 1.4.45; attention to Chapter 1.6.
+
+## 6. Key Principles
+
+- Motion is inferred from spatial-temporal patterns.
+- Apparent motion can occur without continuous physical movement.
+- Relative and global motion provide information about objects and self-motion.
+- Motion perception is context-sensitive and distributed across processing systems.
+
+---
+
+## 1.4.42 Object recognition
+
+## 1. Purpose
+
+Object recognition explains how sensory structure is organized into representations that allow an observer to identify or categorize objects across changing viewpoints, sizes, lighting, and contexts.
+
+## 2. Definition
+
+**Object recognition** is the perceptual-cognitive process of identifying or categorizing an object from sensory information despite variations in its appearance.
+
+**What it is not:** Recognition is not identical to detecting an object or organizing its boundaries. An object can be segmented without being identified.
+
+## 3. Core Understanding
+
+Recognition requires linking current sensory structure to stored or learned representations. Relevant information can include shape, contours, surface properties, spatial relations, motion, and characteristic features.
+
+Recognition must tolerate transformations such as viewpoint, scale, illumination, occlusion, and partial degradation. Different theories emphasize viewpoint-specific representations, structural descriptions, distributed features, or learned statistical representations. Evidence does not require one universal recognition algorithm.
+
+Object recognition can be rapid and partly automatic, but performance depends on familiarity, task, image quality, context, and competing objects. Context can facilitate recognition by narrowing plausible interpretations, while misleading context can create errors.
+
+Recognition should also be separated from naming. An observer may recognize an object category without retrieving its verbal label, demonstrating that perceptual identification and language access are related but distinct.
+
+Measurement includes identification accuracy, reaction time, priming, viewpoint generalization, recognition under noise, and neuropsychological dissociations.
+
+## 4. Relationship to This Chapter
+
+Object recognition follows perceptual organization because grouping and segmentation provide candidate objects. It connects to shape constancy, pattern recognition, face perception, and perceptual learning.
+
+## 5. Boundaries
+
+### Owns
+
+General recognition of objects from visual perceptual information.
+
+### Defers
+
+Pattern recognition to 1.4.43; face perception to 1.4.44; language-based naming to Chapter 1.11.
+
+## 6. Key Principles
+
+- Recognition requires mapping sensory structure onto learned representations.
+- Recognition must tolerate substantial changes in appearance.
+- Context can facilitate or distort identification.
+- Detecting or segmenting an object is not equivalent to recognizing it.
+
+---
+
+## 1.4.43 Pattern recognition
+
+## 1. Purpose
+
+Pattern recognition describes the detection and identification of structured regularities in sensory input, including configurations that may not correspond to a discrete object.
+
+## 2. Definition
+
+**Pattern recognition** is the process of detecting, classifying, or identifying meaningful regularities or configurations in sensory information.
+
+**What it is not:** Pattern recognition is broader than object recognition and is not restricted to conscious classification.
+
+## 3. Core Understanding
+
+Patterns can be defined by spatial arrangement, temporal sequence, statistical regularity, feature combinations, or relationships among elements. Recognizing a pattern therefore requires sensitivity to structure rather than merely detecting individual features.
+
+Perceptual systems can extract regularities automatically, but what counts as a meaningful pattern depends partly on learned experience and task. Expertise can increase sensitivity to domain-specific structure without implying a universal enhancement of all perception.
+
+Pattern recognition can operate at multiple levels. Local features can combine into global configurations; repeated temporal relationships can form auditory or visual sequences; statistical regularities can support prediction.
+
+Recognition errors can occur when superficial similarity is mistaken for deeper structure or when learned regularities are applied outside the environment in which they were acquired.
+
+Measurement includes categorization, discrimination, sequence detection, pattern completion, search, and transfer to novel exemplars.
+
+## 4. Relationship to This Chapter
+
+Pattern recognition is the broader structural counterpart to object recognition. It connects with perceptual organization, perceptual learning, and recognition of faces and biological motion.
+
+## 5. Boundaries
+
+### Owns
+
+Recognition of structured regularities that need not constitute discrete objects.
+
+### Defers
+
+Object recognition to 1.4.42; face perception to 1.4.44; perceptual learning to 1.4.33.
+
+## 6. Key Principles
+
+- Patterns can be spatial, temporal, statistical, or relational.
+- Recognition depends on learned structure as well as current sensory evidence.
+- Pattern recognition is broader than identifying objects.
+- Expertise can produce domain-specific perceptual sensitivity.
+
+---
+
+## 1.4.44 Face perception
+
+## 1. Purpose
+
+Face perception describes the specialized perceptual processes involved in detecting, discriminating, representing, and interpreting human faces and face-like configurations.
+
+## 2. Definition
+
+**Face perception** is the perceptual processing of facial configuration, identity, expression, gaze, and other socially relevant facial information.
+
+**What it is not:** Face perception is not a single isolated “face area” or a process restricted to conscious recognition of identity.
+
+## 3. Core Understanding
+
+Faces contain highly structured information about identity, expression, gaze direction, age-related appearance, and other properties. Perception must integrate individual features with their spatial configuration.
+
+Face processing often shows sensitivity to configuration: relationships among features can matter more than isolated features. Inversion effects and other findings demonstrate that changing the relational configuration of a familiar face can disproportionately impair recognition.
+
+Face perception is shaped by experience. Expertise with a particular class of faces can influence discrimination, and perceptual learning can alter sensitivity to identity-relevant differences. Cultural and developmental experience also contribute to how faces are processed, while broad human perceptual capacities provide common constraints.
+
+Identity, expression, gaze, and attractiveness judgments are related but not identical tasks. A system can represent one property accurately while performance on another is impaired.
+
+Measurement includes identity recognition, expression discrimination, gaze judgments, detection thresholds, adaptation, and neuropsychological performance.
+
+## 4. Relationship to This Chapter
+
+Face perception is a specialized form of visual pattern and object processing. It depends on organization, shape, motion, learning, and social relevance while remaining a perceptual construct rather than a complete theory of social cognition.
+
+## 5. Boundaries
+
+### Owns
+
+Perceptual processing of faces and facial information.
+
+### Defers
+
+General object recognition to 1.4.42; pattern recognition to 1.4.43; social interpretation beyond perceptual facial information to Chapter 1.16.
+
+## 6. Key Principles
+
+- Face perception relies strongly on relational configuration.
+- Identity, expression, and gaze are separable perceptual tasks.
+- Experience shapes face discrimination and representation.
+- Neural specialization should not be interpreted as a single isolated mechanism.
+
+---
+
+## 1.4.45 Biological motion
+
+## 1. Purpose
+
+Biological motion describes the perception of movement patterns produced by living organisms, especially the extraction of meaningful structure from highly reduced motion information.
+
+## 2. Definition
+
+**Biological motion perception** is the ability to detect and interpret movement patterns characteristic of living organisms from dynamic sensory information.
+
+**What it is not:** It is not merely motion detection. Biological-motion perception requires extracting organized patterns that can convey body structure, action, or agent-related information.
+
+## 3. Core Understanding
+
+A classic demonstration uses sparse displays in which small points are attached to the major joints of a moving person. Even without visible body surfaces, observers can often perceive a walking or other action pattern.
+
+The perceptual system can therefore derive meaningful structure from coordinated trajectories rather than requiring detailed static form. Temporal relations among points are crucial because biological movement contains characteristic coordination patterns.
+
+Biological motion is influenced by viewpoint, familiarity, attention, noise, and prior knowledge. Recognition can remain possible when substantial visual information is degraded, but performance declines as the motion structure becomes less coherent.
+
+Biological-motion perception connects perceptual processing to later judgments about actions and agents. The perceptual representation of movement should nevertheless be distinguished from social inference about intentions, emotions, or traits.
+
+Measurement includes action recognition, direction discrimination, coherence thresholds, point-light displays, and comparisons of biological versus scrambled motion.
+
+## 4. Relationship to This Chapter
+
+Biological motion extends motion perception and pattern recognition into ecologically meaningful dynamic structure. It also links visual perception with object and action representation without transferring ownership to social cognition.
+
+## 5. Boundaries
+
+### Owns
+
+Perceptual extraction of characteristic biological movement patterns.
+
+### Defers
+
+General motion perception to 1.4.41; pattern recognition to 1.4.43; social inference about agents to Chapter 1.16.
+
+## 6. Key Principles
+
+- Coordinated motion can reveal biological structure without detailed body images.
+- Temporal relations are central to biological-motion perception.
+- Perceiving biological motion is distinct from inferring an agent's mental state.
+- Noise, viewpoint, experience, and attention can affect performance.
+
+---
+
+## 1.4.46 Auditory perception
+
+## 1. Purpose
+
+Auditory perception describes how temporal and spectral patterns of sound are organized into percepts of sources, events, speech-like structure, pitch, timbre, rhythm, and spatial location.
+
+## 2. Definition
+
+**Auditory perception** is the perceptual processing of acoustic information into organized representations of sounds, sound sources, events, and their properties.
+
+**What it is not:** Auditory perception is not simply hearing energy at the ear. The perceptual system must organize complex mixtures into meaningful sources and events.
+
+## 3. Core Understanding
+
+The auditory system encodes changes in air-pressure patterns across frequency and time. Perception depends on spectral composition, temporal structure, intensity, phase-related information, and relationships among simultaneous and successive sounds.
+
+A major computational problem is auditory scene analysis: multiple sources can overlap in frequency and time, yet listeners often perceive separate streams. Grouping can depend on harmonic relations, onset timing, spatial cues, continuity, and learned regularities.
+
+Pitch and timbre illustrate that perception involves relationships among components rather than a one-to-one mapping between a single physical property and a perceptual quality.
+
+Auditory perception is strongly temporal. Rapid changes can carry important information, and temporal context can alter interpretation of later sounds. Spatial hearing uses differences between the ears and environmental acoustics to estimate source location.
+
+Measurement includes detection and discrimination thresholds, pitch and timbre judgments, localization, speech-sound identification, temporal resolution, and auditory streaming tasks.
+
+## 4. Relationship to This Chapter
+
+Auditory perception is the modality-level construct for the auditory system and provides the foundation for auditory pathways, vestibular distinctions, multisensory integration, and cross-modal processing.
+
+## 5. Boundaries
+
+### Owns
+
+General perceptual organization of acoustic information.
+
+### Defers
+
+Auditory pathways to 1.4.47; vestibular perception to 1.4.48; broader language processing to Chapter 1.11.
+
+## 6. Key Principles
+
+- Auditory perception depends strongly on temporal and spectral structure.
+- Complex sound mixtures require source grouping.
+- Perceptual qualities such as pitch and timbre depend on patterns, not single physical variables.
+- Auditory perception is context-sensitive and learned as well as stimulus-constrained.
+
+---
+
+## 1.4.47 Auditory pathways
+
+## 1. Purpose
+
+Auditory pathways describe the anatomical and functional routes through which acoustic information is transformed from the ear through subcortical and cortical systems.
+
+## 2. Definition
+
+**Auditory pathways** are the anatomical and functional routes by which auditory signals are transmitted, transformed, and integrated from peripheral auditory structures through central nervous-system processing.
+
+**What it is not:** They are not a simple linear cable from ear to “sound center.” Processing is distributed, parallel, recurrent, and bilateral.
+
+## 3. Core Understanding
+
+Mechanical vibrations are converted into neural signals in the cochlea, after which information travels through brainstem nuclei, the midbrain, thalamic structures, and auditory cortical systems. Processing preserves and transforms information about frequency, timing, intensity, and spatial relationships.
+
+Auditory pathways contain extensive bilateral interactions. Information from each ear reaches processing structures on both sides, which supports comparison and localization.
+
+Tonotopic organization is a major property: neighboring frequencies are represented systematically at several stages. Yet higher auditory functions depend on distributed patterns rather than one frequency map acting as a complete perceptual representation.
+
+Auditory pathways also interact with non-auditory systems. Attention, motor prediction, language, and multisensory signals can modulate auditory processing, although these influences belong to distinct psychological constructs.
+
+Lesion and stimulation evidence can reveal causal contributions of particular structures, but deficits must be interpreted within the network and task in which they occur.
+
+## 4. Relationship to This Chapter
+
+Auditory pathways provide the implementation-level foundation for auditory perception. They parallel the visual-pathway Topic while preserving modality-specific anatomy and function.
+
+## 5. Boundaries
+
+### Owns
+
+Modality-specific anatomical and functional organization of auditory information pathways.
+
+### Defers
+
+Auditory perception to 1.4.46; broader sensory pathways to Chapter 1.3; attention and language to Chapters 1.6 and 1.11.
+
+## 6. Key Principles
+
+- Auditory processing is distributed and bilateral.
+- Tonotopy is an organizing principle, not a complete explanation of perception.
+- Frequency, timing, intensity, and spatial information are transformed across stages.
+- Anatomical pathways support psychological functions without being identical to them.
+
+---
+
+## 1.4.48 Vestibular perception
+
+## 1. Purpose
+
+Vestibular perception describes the perceptual use of information about head motion, orientation, and acceleration to support spatial orientation and balance.
+
+## 2. Definition
+
+**Vestibular perception** is the perceptual processing of signals from the vestibular system concerning head movement, acceleration, and orientation relative to gravity.
+
+**What it is not:** Vestibular perception is not equivalent to balance as a behavior, nor is it limited to detecting whether the body is upright.
+
+## 3. Core Understanding
+
+The vestibular system contains semicircular canals that respond primarily to angular acceleration and otolith organs that respond to linear acceleration and gravitational orientation. Their signals contribute to estimates of head and body motion.
+
+Vestibular information is integrated with visual and proprioceptive information. When these sources disagree, observers can experience altered self-motion or orientation percepts, demonstrating that spatial perception is multisensory.
+
+Vestibular signals also contribute to stabilization of gaze and coordination of movement, but those motor functions should not be collapsed into vestibular perception itself.
+
+The perceptual system must distinguish self-generated and externally induced motion and infer stable orientation from signals that can be ambiguous during movement. Adaptation can occur under prolonged unusual sensory conditions, such as sustained visual-vestibular conflict.
+
+Measurement includes thresholds for detecting angular or linear motion, subjective visual vertical, self-motion judgments, vestibular stimulation, and multisensory conflict tasks.
+
+## 4. Relationship to This Chapter
+
+Vestibular perception expands sensation and perception beyond the conventional five-sense framework and provides an important bridge to multisensory integration and bodily spatial representation.
+
+## 5. Boundaries
+
+### Owns
+
+Perceptual processing of vestibular signals concerning motion and orientation.
+
+### Defers
+
+Broader balance behavior and motor control to relevant biological/action chapters; multisensory integration to 1.4.57.
+
+## 6. Key Principles
+
+- Vestibular signals encode aspects of acceleration and orientation.
+- Vestibular perception is inherently multisensory in natural conditions.
+- Visual-vestibular conflict can alter self-motion and orientation perception.
+- Vestibular perception and vestibularly driven motor control are related but distinct.
+
+---
+
 # Rebuild Status
 
-**Completed in this rebuild pass:** 1.4.1–1.4.30  
-**Remaining:** 1.4.31–1.4.62  
+**Completed in this rebuild pass:** 1.4.1–1.4.48  
+**Remaining:** 1.4.49–1.4.62  
 **Canonical seal:** NOT GRANTED  
 **Architecture:** preserved at exactly 62 Topics
