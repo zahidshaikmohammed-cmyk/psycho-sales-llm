@@ -338,3 +338,18 @@ Chapters 1.1, 1.2, 1.3, and 1.6 have completed V2 semantic re-certification.
 - **1.6:** 40 Topics — V2 certified after removal of 40 generic relationship signatures
 - All four retain their canonical ontology.
 - **P0/P1/P2/P3 = 0 across all four validation records.**
+
+## Phase 8 — Knowledge Graph
+
+The project now contains a canonical machine-readable System 1 relationship graph derived from Chapters 1.1–1.8.
+
+- **541** canonical Topic nodes
+- **8** chapter nodes
+- **549** total nodes
+- **1,227** typed relationship edges
+- **0** dangling references
+- **0** duplicate relationship records
+- Canonical graph: `graph/SYSTEM_1_KNOWLEDGE_GRAPH_V1.json`
+- Graph validation: `graph/SYSTEM_1_KNOWLEDGE_GRAPH_V1_VALIDATION.md`
+
+The graph is a derived reasoning substrate, not a competing definition layer. Future evidence-attested semantic edges can expand it without weakening provenance.
