@@ -47,13 +47,15 @@ Required work:
 - Executable V2 attestation: all gates PASS; P0/P1/P2/P3 = 0.
 
 ### Chapter 1.7 — Learning and Behavior Change
-Current signal: structural quality is strong but repeated template signatures are visible.
-Required work:
-- remove literal placeholders and fixed prose patterns;
-- make every Relationship section Topic-specific;
-- deepen conditioning mechanisms, prediction error, extinction, generalization, reinforcement, punishment, social learning, skill learning, habit formation, and context dependence;
-- strengthen evidence distinctions between laboratory learning paradigms and broad human behavior;
-- run anti-template audit before resealing.
+**Status: COMPLETE — V2 CERTIFIED / LOCKED & SEALED**
+
+- 66/66 canonical Topics preserved exactly.
+- 13,965 total words; average Core Understanding ~89 words; minimum 66; maximum 106.
+- Removed all literal `TOPIC` placeholders and generic chapter-membership signatures.
+- Deepened conditioning, prediction error, cue competition, extinction/recovery, reinforcement/punishment, schedules, shaping/chaining, social/cognitive learning, nonassociative learning, skills, transfer, feedback, self-regulated learning, habit formation, and contextual learning.
+- V2 validation record: `knowledge/system-01/chapter-1.7/CHAPTER_1.7_FINAL_VALIDATION.md`.
+- Executable attestation: all gates PASS; P0/P1/P2/P3 = 0.
+
 
 ### Chapter 1.8 — Memory
 Current signal: materially stronger than the earlier chapters, but still requires v2 semantic audit.
