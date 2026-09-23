@@ -37,18 +37,9 @@ Make **LOCKED & SEALED** impossible unless the chapter passes:
 Primary control:
 - `quality/SEMANTIC_DEPTH_AUDIT_PROTOCOL_V1.md`
 
-### Phase 3 — Remediate Chapter 1.4
-**State:** PENDING
+### Phase 3 — Remediate Chapter 1.4 — COMPLETE — LOCKED
 
-Deep semantic remediation of the existing exact 62-topic ontology.
-
-Rules:
-- preserve Topic IDs/names;
-- do not invent Topics;
-- deepen only where the subject requires it;
-- preserve ownership;
-- validate again.
-
+Phase 4 — Remediate Chapter 1.5 — COMPLETE — LOCKED
 ### Phase 4 — Remediate Chapter 1.5
 **State:** PENDING
 
@@ -124,3 +115,7 @@ At every phase:
 
 After Phase 2, proceed sequentially unless a repository-discovered dependency requires a different order.
 
+
+
+## Phase 4 Completion — Chapter 1.5
+Chapter 1.5 is now V2 semantic-depth certified and locked/sealed. Evidence: 44/44 Topics preserved; 13,580 words; Core Understanding average ~120 words; minimum 97; maximum 143; Topic-specific semantic deepening applied; ownership and universal-psychology boundaries preserved. Next phase should follow the live remediation register rather than altering the canonical ontology.
