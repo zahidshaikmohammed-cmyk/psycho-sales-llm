@@ -96,7 +96,7 @@ These are **not a new phase**. They are the remaining encyclopedia implementatio
 
 ### Chapter 1.11 — Language and Intelligence
 
-Before sealing Chapter 1.10:
+Before sealing Chapter 1.11:
 
 1. verify its exact architecture;
 2. resolve canonical ownership using the precision registry;
