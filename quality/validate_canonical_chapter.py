@@ -84,7 +84,7 @@ def validate(chapter_path, architecture_path, validation_path=None):
         core=d['Core Understanding']
         wc=len(re.findall(r'\b\w+[\w’\'-]*\b',core))
         if wc<45: errors.append('%s %s: Core Understanding below executable minimum (%d<45)' % (tid,name,wc))
-        if re.search(r'\bTOPIC\b|For\s+\*\*TOPIC\*\*|This Topic belongs to Chapter|This chapter covers this Topic',block,re.I): errors.append('%s %s: template/generic signature' % (tid,name))
+        if re.search(r'\bTOPIC\b|For\s+\*\*TOPIC\*\*',block) or re.search(r'This Topic belongs to Chapter|This chapter covers this Topic',block,re.I): errors.append('%s %s: template/generic signature' % (tid,name))
     core_sections=[dict(sections(b)).get('Core Understanding','').strip() for _,_,b in blocks]
     rel_sections=[dict(sections(b)).get('Relationship to This Chapter','').strip() for _,_,b in blocks]
     key_sections=[dict(sections(b)).get('Key Principles','').strip() for _,_,b in blocks]
