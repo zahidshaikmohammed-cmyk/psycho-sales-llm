@@ -15,6 +15,8 @@
 | 1.6 | 40 | 12224 | 126 | 97 | 211 |
 | 1.7 | 66 | 13965 | 113 | 88 | 141 |
 | 1.8 | 76 | 16852 | 96 | 69 | 156 |
+| 1.9 | 67 | 22769 | 107 | 105 | 109 |
+| 1.10 | 65 | 16425 | 74 | 62 | 94 |
 
 ## Priority 0 — infrastructure
 
@@ -147,3 +149,26 @@ The project should optimize for **knowledge completeness and reasoning quality**
 - 0 duplicate Core blocks; 0 duplicate Key-Principle sets; 0 literal placeholders; 0 generic membership signatures.
 - V2 validation record: `knowledge/system-01/chapter-1.9/CHAPTER_1.9_FINAL_VALIDATION.md`.
 - P0/P1/P2/P3 = 0.
+
+
+### Chapter 1.10 — Judgment, Decision-Making, and Choice
+**Status: COMPLETE — V2 CERTIFIED / LOCKED & SEALED**
+
+- 65/65 architecture entries preserved exactly.
+- 16,425 words; average Core Understanding 74; minimum 62; maximum 94.
+- 60 independent canonical construct/process/phenomenon owners.
+- 4 theory/model-layer entries; 1 application/relationship node.
+- Zero duplicate Core, Relationship, or Key-Principle blocks; zero placeholders; zero generic membership signatures.
+- High-risk neighbor distinctions and cross-chapter ownership boundaries explicitly audited.
+- Validation record: `knowledge/system-01/chapter-1.10/CHAPTER_1.10_FINAL_VALIDATION.md`.
+- P0/P1/P2/P3 = 0.
+
+## Phase 8 — Knowledge Graph
+**Status: BASE GRAPH COMPLETE — EXPANDED THROUGH CHAPTER 1.10**
+
+- Topic-layer nodes: 673.
+- Chapter nodes: 10.
+- Total nodes: 683.
+- Typed edges: 1,484.
+- 0 duplicate relationship records.
+- Known non-owner exceptions for 1.9 were corrected in the graph: Bounded rationality and Expertise and thinking are not independent 1.9 owners.
