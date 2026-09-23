@@ -117,3 +117,17 @@ The project should optimize for **knowledge completeness and reasoning quality**
 - Added Topic-specific mechanism, measurement, interpretation, uncertainty, boundary, and neighboring-concept distinctions.
 - Preserved universal-psychology boundary and existing cross-chapter ownership.
 - V2 validation record updated and chapter sealed at canonical version 2.0.
+
+
+## Phase 8 — Knowledge Graph
+**Status: COMPLETE — LOCKED**
+
+- Canonical System 1 graph built from Chapters 1.1–1.8.
+- 541 Topic nodes + 8 chapter nodes = 549 nodes.
+- 1,227 typed edges.
+- Edge classes: `owned_by`, `part_of`, `defers_to`, `interacts_with`.
+- 0 dangling references; 0 duplicate relationship records.
+- Graph: `graph/SYSTEM_1_KNOWLEDGE_GRAPH_V1.json`.
+- Validation: `graph/SYSTEM_1_KNOWLEDGE_GRAPH_V1_VALIDATION.md`.
+- The graph is derived infrastructure; canonical prose remains authoritative.
+- Unsupported causal or mechanistic edges were not inferred without explicit source support.
