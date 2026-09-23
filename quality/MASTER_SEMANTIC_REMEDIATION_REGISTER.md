@@ -8,12 +8,12 @@
 | Chapter | Topics | Words | Avg Core | Min Core | Max Core |
 |---|---:|---:|---:|---:|---:|
 | 1.1 | 57 | 22594 | 206 | 148 | 831 |
-| 1.2 | 118 | 55117 | 288 | 199 | 431 |
-| 1.3 | 78 | 23077 | 159 | 122 | 238 |
+| 1.2 | 118 | 55118 | 288 | 199 | 431 |
+| 1.3 | 78 | 23078 | 159 | 122 | 238 |
 | 1.4 | 62 | 18514 | 79 | 66 | 96 |
 | 1.5 | 44 | 13580 | 120 | 97 | 143 |
-| 1.6 | 40 | 12223 | 126 | 97 | 211 |
-| 1.7 | 66 | 15536 | 113 | 88 | 141 |
+| 1.6 | 40 | 12224 | 126 | 97 | 211 |
+| 1.7 | 66 | 13965 | 113 | 88 | 141 |
 | 1.8 | 76 | 16852 | 96 | 69 | 156 |
 
 ## Priority 0 — infrastructure
@@ -72,7 +72,13 @@ Required work:
 
 ## Priority 2 — chapters requiring semantic certification
 
-Chapters 1.1, 1.2, 1.3, and 1.6 have strong existing remediation records but must be re-certified against Constitution v2 before being treated as final intelligence-grade knowledge.
+**Status: COMPLETE — Chapters 1.1, 1.2, 1.3, and 1.6 are V2 CERTIFIED / LOCKED & SEALED.**
+
+- 1.1: 57/57 Topics
+- 1.2: 118/118 Topics
+- 1.3: 78/78 Topics
+- 1.6: 40/40 Topics; generic membership signatures removed
+- All four V2 validation records contain PASS gates and P0/P1/P2/P3 = 0.
 
 ## Priority 3 — architecture continuation
 
