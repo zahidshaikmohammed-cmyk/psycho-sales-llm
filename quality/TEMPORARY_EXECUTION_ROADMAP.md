@@ -60,10 +60,12 @@ Run the V2 semantic audit against Memory before accepting its existing sealed st
 
 ### Phase 7
 ### Phase 7 — Re-certify Chapters 1.1, 1.2, 1.3, and 1.6
-**State:** PENDING
+**State:** COMPLETE — LOCKED
 
-Do not automatically rewrite. Re-certify against the new semantic standard and remediate only verified gaps.
+All four chapters were audited against Constitution v2. No broad rewrite was justified for 1.1–1.3; their existing semantic remediation was sufficient for V2 certification. Chapter 1.6 required and received a targeted anti-template correction removing all 40 generic Relationship-to-Chapter signatures.
 
+**Completion evidence:** 57/57, 118/118, 78/78, and 40/40 Topics preserved respectively; V2 validation records present for all four; all semantic gates PASS; P0/P1/P2/P3 = 0.
+### Phase 8
 ### Phase 8 — Build the actual knowledge graph
 **State:** PENDING
 
