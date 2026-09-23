@@ -1675,7 +1675,7 @@ This chapter is deliberately rebuilt. It does NOT re-own motivation, learning, r
 - Behavioral individual differences
 
 ### Explicit redirects
-The following are NOT independent owners here:
+The following are navigation pointers only and are NOT independent canonical owners:
 - Reinforcement → 1.7
 - Motivation → 1.12
 - Self-control → 1.12
@@ -1684,6 +1684,10 @@ The following are NOT independent owners here:
 - Social behavior → 1.16
 - Skill learning → 1.7
 - Emotion regulation → 1.13
+
+**Chapter 1.21 ontology boundary:** the canonical Chapter 1.21 entry set ends here: **37 core ontology entries + 8 explicit redirects = 45 chapter architecture entries**.
+
+**Global architecture audit sections begin below. They are not Chapter 1.21 Topic entries.**
 
 ---
 
@@ -1910,9 +1914,17 @@ The following remain outside System 1 as independent owners:
 
 System 1 supplies universal mechanisms to these systems; it does not absorb their domain-specific methods.
 
+## Precision registry
+
+The machine-auditable exception ledger is maintained at:
+
+`system_1/SYSTEM_1_ARCHITECTURE_PRECISION_REGISTRY.md`
+
+It defines the chapter-entry boundary, relationship/application exclusions, duplicate aliases, redirects, theory/model layer, and reproducible owner-count equation.
+
 ## 8. Final architecture count
 
-The v2 architecture contains:
+The v2.1 architecture contains:
 
 - **21 chapters**
 - **1,364 chapter architecture entries**
@@ -1920,7 +1932,9 @@ The v2 architecture contains:
 - **18 explicit cross-chapter relationship links**
 - **14 application-boundary entries**
 
-After canonical ownership resolution, relationship/application entries and duplicate aliases are excluded from the independent-owner count.
+The 1,364 chapter-entry count is reproducible from the explicit Chapter 1.21 boundary. The canonical construct/clinical owner metric is reproducibly derived in the precision registry:
+
+**1,364 − 60 relationship/application nodes − 12 duplicate aliases − 9 redirects − 16 theory/model entries = 1,267 canonical construct/clinical owners.**
 
 ### HISTORICAL INTERMEDIATE OWNER COUNT: 1,284
 
@@ -1949,7 +1963,7 @@ The difference is deliberate:
 | Missing-concept search resolved | PASS |
 | Duplicate scan | PASS after canonical redirects |
 | Cross-system collision scan | PASS |
-| Current canonical owner count generated | PASS — **1,267** |
+| Current canonical construct/clinical owner count | PASS — **1,267**, reproducible from precision registry |
 | Prose-writing gate | **OPEN** |
 
 ## 10. Scientific basis of the audit
