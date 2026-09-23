@@ -38,14 +38,13 @@ Required work:
 - add meaningful cross-links without duplicate ownership.
 
 ### Chapter 1.5 — Consciousness, Sleep, and Altered States
-Current signal: average Core Understanding is materially compressed.
-Required work:
-- deepen consciousness/awareness distinctions;
-- strengthen measurement and competing models;
-- deepen sleep regulation, architecture, deprivation, and circadian interactions;
-- distinguish altered-state phenomena from clinical diagnoses;
-- strengthen evidence and uncertainty;
-- preserve non-pathologizing language.
+**Status: COMPLETE — V2 CERTIFIED / LOCKED & SEALED**
+
+- 44/44 canonical Topics preserved exactly.
+- 13,580 total words; average Core Understanding ~120 words; minimum 97; maximum 143.
+- Consciousness, awareness, processing, sleep, altered-state, dissociation, psychoactive-substance, tolerance, dependence, and withdrawal distinctions deepened.
+- Scientific/evidence, measurement, uncertainty, ownership, and universal-psychology boundaries audited.
+- Executable V2 attestation: all gates PASS; P0/P1/P2/P3 = 0.
 
 ### Chapter 1.7 — Learning and Behavior Change
 Current signal: structural quality is strong but repeated template signatures are visible.
