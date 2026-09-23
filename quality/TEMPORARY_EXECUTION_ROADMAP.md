@@ -1,0 +1,120 @@
+# PSYCHO SALES — TEMPORARY EXECUTION ROADMAP
+
+**Status:** WORKING CONTROL DOCUMENT — NOT CANONICAL KNOWLEDGE  
+**Purpose:** Prevent project drift during the current remediation program.  
+**Authority:** This file records execution order only. Canonical architecture, ontology, knowledge, and validation files remain authoritative.
+
+> **SOURCE OF TRUTH: THE LIVE REPOSITORY.**
+>
+> This roadmap is a pointer/control record, not a replacement for canonical files.
+
+## Execution sequence
+
+### Phase 1 — Lock the new quality constitution
+**State:** IN PROGRESS / FOUNDATION CREATED
+
+Lock the upgraded semantic-quality standard without changing the existing ontology.
+
+Primary control:
+- `constitution/CANONICAL_KNOWLEDGE_OBJECT_CONSTITUTION_V2.md`
+
+### Phase 2 — Upgrade validation
+**State:** NEXT
+
+Make **LOCKED & SEALED** impossible unless the chapter passes:
+- ontology
+- structural integrity
+- ownership
+- semantic depth
+- neighboring-concept distinctions
+- scientific/evidence integrity
+- relationships
+- retrieval
+- anti-template
+- cross-chapter boundaries
+- final validation
+
+Primary control:
+- `quality/SEMANTIC_DEPTH_AUDIT_PROTOCOL_V1.md`
+
+### Phase 3 — Remediate Chapter 1.4
+**State:** PENDING
+
+Deep semantic remediation of the existing exact 62-topic ontology.
+
+Rules:
+- preserve Topic IDs/names;
+- do not invent Topics;
+- deepen only where the subject requires it;
+- preserve ownership;
+- validate again.
+
+### Phase 4 — Remediate Chapter 1.5
+**State:** PENDING
+
+Apply the same semantic remediation standard while preserving the exact 44-topic ontology.
+
+### Phase 5 — Remediate Chapter 1.7
+**State:** PENDING
+
+Preserve all 66 Topics while:
+- removing detectable template signatures;
+- making relationship/boundary prose Topic-specific;
+- deepening learning mechanisms and distinctions where necessary;
+- re-running scientific/evidence audits.
+
+### Phase 6 — Audit Chapter 1.8
+**State:** PENDING
+
+Run the v2 semantic audit against Memory before accepting its existing sealed status as intelligence-grade.
+
+### Phase 7 — Re-certify Chapters 1.1, 1.2, 1.3, and 1.6
+**State:** PENDING
+
+Do not automatically rewrite. Re-certify against the new semantic standard and remediate only verified gaps.
+
+### Phase 8 — Build the actual knowledge graph
+**State:** PENDING
+
+Derive the graph from canonical Topics, ownership, and validated relationships.
+
+Primary control:
+- `quality/KNOWLEDGE_GRAPH_SPEC_V1.md`
+
+The graph must not become a competing source of psychological definitions.
+
+### Phase 9 — Synchronize repository metadata
+**State:** PENDING
+
+Synchronize:
+- README
+- project progress/handoff records
+- validation records
+- version/status metadata
+- canonical file maps
+
+All metadata must describe the actual live repository state.
+
+### Phase 10 — Continue Chapter 1.9 onward
+**State:** BLOCKED UNTIL PHASES 1–9 ARE SUFFICIENTLY COMPLETE
+
+Every future chapter must use the upgraded quality standard from its first draft.
+
+## Operating rule
+
+At every phase:
+
+1. Read the live repository first.
+2. Treat canonical files as authoritative.
+3. Never use memory or old chat text as project evidence.
+4. Never silently change locked ontology.
+5. Preserve existing Topic IDs/names unless an authorized architecture change is made.
+6. Validate before declaring completion.
+7. Update this roadmap only to record actual repository state.
+
+## Current target
+
+**Immediate execution target: Phase 2 — Upgrade validation.**
+
+After Phase 2, proceed sequentially unless a repository-discovered dependency requires a different order.
+
