@@ -137,6 +137,7 @@ Glial function to 1.3.2, neural communication to 1.3.3, action potentials to 1.3
 - Cellular activity does not map one-to-one onto a complex psychological function.
 - The relevant mechanism operates within interacting cells and circuits, not in isolation.
 - Timing, receptor or membrane state, and network context can change functional consequences.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -186,6 +187,7 @@ Myelination to 1.3.13, neural plasticity to 1.3.11, and immune–behavior intera
 - Neural function depends on neuron–glia interactions.
 - The relevant mechanism operates within interacting cells and circuits, not in isolation.
 - Timing, receptor or membrane state, and network context can change functional consequences.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -235,6 +237,7 @@ Electrical signaling to 1.3.4, action potentials to 1.3.5, synaptic transmission
 - Complex psychological functions arise from coordinated communication across neural systems.
 - The relevant mechanism operates within interacting cells and circuits, not in isolation.
 - Timing, receptor or membrane state, and network context can change functional consequences.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -287,6 +290,7 @@ Action potential generation and propagation to 1.3.5.
 - Electrical signaling is inseparable from membrane and ion-channel physiology.
 - The relevant mechanism operates within interacting cells and circuits, not in isolation.
 - Timing, receptor or membrane state, and network context can change functional consequences.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -339,6 +343,7 @@ Myelination to 1.3.13 and synaptic transmission to 1.3.6.
 - Their timing and pattern matter for neural information processing.
 - The relevant mechanism operates within interacting cells and circuits, not in isolation.
 - Timing, receptor or membrane state, and network context can change functional consequences.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -388,6 +393,7 @@ Neurotransmitter identity and receptor-mediated signaling to 1.3.9; synaptic cha
 - Synaptic transmission can be modified by experience and activity.
 - The relevant mechanism operates within interacting cells and circuits, not in isolation.
 - Timing, receptor or membrane state, and network context can change functional consequences.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -437,6 +443,7 @@ Inhibition to 1.3.8 and neurotransmitter identity to 1.3.9.
 - Neural computation depends on excitation interacting with inhibition.
 - The relevant mechanism operates within interacting cells and circuits, not in isolation.
 - Timing, receptor or membrane state, and network context can change functional consequences.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -486,6 +493,7 @@ Specific inhibitory neurotransmitters and receptors to 1.3.9.
 - Inhibitory effects are context-dependent rather than absolute.
 - The relevant mechanism operates within interacting cells and circuits, not in isolation.
 - Timing, receptor or membrane state, and network context can change functional consequences.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -535,6 +543,7 @@ Broader diffuse regulation to 1.3.10 and synaptic change to 1.3.12.
 - Chemical signaling is integrated with electrical and network processes.
 - The relevant mechanism operates within interacting cells and circuits, not in isolation.
 - Timing, receptor or membrane state, and network context can change functional consequences.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -584,6 +593,7 @@ Specific neurotransmitters to 1.3.9 and neural plasticity to 1.3.11.
 - Neuromodulation is not synonymous with a single psychological function.
 - The relevant mechanism operates within interacting cells and circuits, not in isolation.
 - Timing, receptor or membrane state, and network context can change functional consequences.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -636,6 +646,7 @@ Synaptic plasticity to 1.3.12 and neural pruning to 1.3.14.
 - Change can be adaptive, maladaptive, or compensatory depending on context.
 - The relevant mechanism operates within interacting cells and circuits, not in isolation.
 - Timing, receptor or membrane state, and network context can change functional consequences.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -685,6 +696,7 @@ General plasticity to 1.3.11 and learning as a psychological process to the rele
 - Synaptic change is one mechanism within larger neural systems.
 - The relevant mechanism operates within interacting cells and circuits, not in isolation.
 - Timing, receptor or membrane state, and network context can change functional consequences.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -737,6 +749,7 @@ Glial-cell classification to 1.3.2 and neural pruning to 1.3.14.
 - Myelin is essential to normal neural communication but is not itself a psychological trait.
 - The relevant mechanism operates within interacting cells and circuits, not in isolation.
 - Timing, receptor or membrane state, and network context can change functional consequences.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -789,6 +802,7 @@ General plasticity to 1.3.11 and synaptic plasticity to 1.3.12.
 - Pruning is not equivalent to generalized brain deterioration.
 - The relevant mechanism operates within interacting cells and circuits, not in isolation.
 - Timing, receptor or membrane state, and network context can change functional consequences.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -838,6 +852,7 @@ Functional connectivity to 1.3.16 and brain-wide organization to 1.3.28.
 - Network function depends on context and dynamic state.
 - The relevant mechanism operates within interacting cells and circuits, not in isolation.
 - Timing, receptor or membrane state, and network context can change functional consequences.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -887,6 +902,7 @@ Anatomical pathways to sensory and motor pathway topics and measurement methods 
 - Association does not establish causal direction.
 - The relevant mechanism operates within interacting cells and circuits, not in isolation.
 - Timing, receptor or membrane state, and network context can change functional consequences.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -936,6 +952,7 @@ Peripheral nervous system to 1.3.18 and specific brain structures to Topics 1.3.
 - CNS function depends on interaction with peripheral systems.
 - Function depends on connectivity and coordinated activity across pathways.
 - Participation in a function is not equivalent to exclusive ownership or simple one-region causation.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -985,6 +1002,7 @@ Somatic nervous system to 1.3.19 and autonomic nervous system to 1.3.20.
 - Peripheral and central systems operate as an integrated nervous system.
 - Function depends on connectivity and coordinated activity across pathways.
 - Participation in a function is not equivalent to exclusive ownership or simple one-region causation.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -1034,6 +1052,7 @@ Autonomic regulation to 1.3.20 and motor-system organization to 1.3.25.
 - Somatic and autonomic functions are distinct but interact.
 - Function depends on connectivity and coordinated activity across pathways.
 - Participation in a function is not equivalent to exclusive ownership or simple one-region causation.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -1083,6 +1102,7 @@ Sympathetic, parasympathetic, and enteric systems to 1.3.21–1.3.23.
 - Autonomic activity is integrated with central, endocrine, and bodily processes.
 - Function depends on connectivity and coordinated activity across pathways.
 - Participation in a function is not equivalent to exclusive ownership or simple one-region causation.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 ## 1.3.21 Sympathetic nervous system
@@ -1131,6 +1151,7 @@ The overall ANS to 1.3.20 and parasympathetic and enteric divisions to 1.3.22–
 - It operates as part of an integrated autonomic system.
 - Function depends on connectivity and coordinated activity across pathways.
 - Participation in a function is not equivalent to exclusive ownership or simple one-region causation.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -1180,6 +1201,7 @@ The overall ANS to 1.3.20 and sympathetic and enteric divisions to 1.3.21 and 1.
 - Autonomic function is coordinated across organs and contexts.
 - Function depends on connectivity and coordinated activity across pathways.
 - Participation in a function is not equivalent to exclusive ownership or simple one-region causation.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -1229,6 +1251,7 @@ The general ANS to 1.3.20 and immune–behavior interaction to 1.3.67.
 - Complexity does not make the enteric system equivalent to the brain.
 - Function depends on connectivity and coordinated activity across pathways.
 - Participation in a function is not equivalent to exclusive ownership or simple one-region causation.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -1275,6 +1298,7 @@ Specific motor and sensory pathways to 1.3.25–1.3.27 and injury consequences t
 - Spinal function depends on interaction with the brain and peripheral systems.
 - Function depends on connectivity and coordinated activity across pathways.
 - Participation in a function is not equivalent to exclusive ownership or simple one-region causation.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -1324,6 +1348,7 @@ Motor cortex to 1.3.42, basal ganglia to 1.3.33, cerebellum to 1.3.30, and motor
 - Motor behavior reflects both neural commands and bodily/environmental constraints.
 - Function depends on connectivity and coordinated activity across pathways.
 - Participation in a function is not equivalent to exclusive ownership or simple one-region causation.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -1373,6 +1398,7 @@ Specific sensory psychology to Chapter 1.4 and somatosensory cortex to 1.3.43.
 - Central processing and feedback influence sensory signaling.
 - Function depends on connectivity and coordinated activity across pathways.
 - Participation in a function is not equivalent to exclusive ownership or simple one-region causation.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -1422,6 +1448,7 @@ The integrated motor system to 1.3.25 and specific structures to their own Topic
 - Sensory feedback is integral to effective motor output.
 - Function depends on connectivity and coordinated activity across pathways.
 - Participation in a function is not equivalent to exclusive ownership or simple one-region causation.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -1471,6 +1498,7 @@ Specific structures and methods to Topics 1.3.29–1.3.78.
 - Complex psychological functions generally involve interacting systems.
 - Anatomical location, functional association, and causal necessity are distinct claims.
 - Complex psychological functions generally depend on distributed and interacting systems.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -1520,6 +1548,7 @@ Specific autonomic divisions to 1.3.20–1.3.23 and cerebellar function to 1.3.3
 - Its functions emerge from multiple interacting nuclei and circuits.
 - Anatomical location, functional association, and causal necessity are distinct claims.
 - Complex psychological functions generally depend on distributed and interacting systems.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -1566,6 +1595,7 @@ Motor-system organization to 1.3.25 and cortical motor control to 1.3.42.
 - Its functions extend beyond movement, but nonmotor claims require specific evidence.
 - Anatomical location, functional association, and causal necessity are distinct claims.
 - Complex psychological functions generally depend on distributed and interacting systems.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -1612,6 +1642,7 @@ Specific sensory systems to their modality pathways and consciousness to Chapter
 - Thalamic function depends heavily on interactions with cortical and subcortical networks.
 - Anatomical location, functional association, and causal necessity are distinct claims.
 - Complex psychological functions generally depend on distributed and interacting systems.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -1658,6 +1689,7 @@ The endocrine system to 1.3.47 and hormones to 1.3.48.
 - Its effects arise through interacting neural and endocrine pathways.
 - Anatomical location, functional association, and causal necessity are distinct claims.
 - Complex psychological functions generally depend on distributed and interacting systems.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -1704,6 +1736,7 @@ Motor-system architecture to 1.3.25 and neurotransmitter mechanisms to 1.3.9.
 - Different loops support partly different functions.
 - Anatomical location, functional association, and causal necessity are distinct claims.
 - Complex psychological functions generally depend on distributed and interacting systems.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -1750,6 +1783,7 @@ Specific functions of cortical and subcortical structures to their canonical Top
 - Complex emotion and motivation depend on distributed networks.
 - Anatomical location, functional association, and causal necessity are distinct claims.
 - Complex psychological functions generally depend on distributed and interacting systems.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -1799,6 +1833,7 @@ Specific lobes and cortical regions to Topics 1.3.36–1.3.43.
 - Complex psychological functions cannot generally be assigned to one cortical point.
 - Anatomical location, functional association, and causal necessity are distinct claims.
 - Complex psychological functions generally depend on distributed and interacting systems.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -1845,6 +1880,7 @@ Specific frontal, parietal, and temporal regions to their respective Topics.
 - Complex cognition depends on interactions between association and primary systems.
 - Anatomical location, functional association, and causal necessity are distinct claims.
 - Complex psychological functions generally depend on distributed and interacting systems.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -1894,6 +1930,7 @@ Prefrontal cortex to 1.3.41 and motor cortex to 1.3.42.
 - Frontal damage produces location-dependent effects.
 - Anatomical location, functional association, and causal necessity are distinct claims.
 - Complex psychological functions generally depend on distributed and interacting systems.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -1940,6 +1977,7 @@ Somatosensory cortex to 1.3.43 and lateralization to 1.3.46.
 - Parietal processing links perception with action.
 - Anatomical location, functional association, and causal necessity are distinct claims.
 - Complex psychological functions generally depend on distributed and interacting systems.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -1989,6 +2027,7 @@ Specific medial temporal structures where separately owned and psychological mem
 - Memory is a network function rather than a single-lobe function.
 - Anatomical location, functional association, and causal necessity are distinct claims.
 - Complex psychological functions generally depend on distributed and interacting systems.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -2035,6 +2074,7 @@ Perceptual phenomena and visual experience to Chapter 1.4 and broader brain orga
 - Visual perception depends on more than occipital activity alone.
 - Anatomical location, functional association, and causal necessity are distinct claims.
 - Complex psychological functions generally depend on distributed and interacting systems.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 ## 1.3.41 Prefrontal cortex
@@ -2083,6 +2123,7 @@ General thinking and decision processes to their canonical psychological chapter
 - Complex control depends on broader brain networks.
 - Anatomical location, functional association, and causal necessity are distinct claims.
 - Complex psychological functions generally depend on distributed and interacting systems.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -2132,6 +2173,7 @@ The integrated motor system to 1.3.25 and descending pathways to 1.3.27.
 - Sensory feedback and subcortical circuits shape motor output.
 - Anatomical location, functional association, and causal necessity are distinct claims.
 - Complex psychological functions generally depend on distributed and interacting systems.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -2181,6 +2223,7 @@ Pain as a psychological perceptual phenomenon to Chapter 1.4 and interoception t
 - Sensory and motor systems interact continuously.
 - Anatomical location, functional association, and causal necessity are distinct claims.
 - Complex psychological functions generally depend on distributed and interacting systems.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -2230,6 +2273,7 @@ Hemispheric specialization to 1.3.45 and lateralization to 1.3.46.
 - Interhemispheric communication is distributed across multiple pathways.
 - Anatomical location, functional association, and causal necessity are distinct claims.
 - Complex psychological functions generally depend on distributed and interacting systems.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -2279,6 +2323,7 @@ The anatomical asymmetry concept to 1.3.46 and specific psychological functions 
 - Individual and task variation matter.
 - Anatomical location, functional association, and causal necessity are distinct claims.
 - Complex psychological functions generally depend on distributed and interacting systems.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -2328,6 +2373,7 @@ Specific specialization patterns to 1.3.45.
 - Development and individual variation shape lateralization.
 - Anatomical location, functional association, and causal necessity are distinct claims.
 - Complex psychological functions generally depend on distributed and interacting systems.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -2377,6 +2423,7 @@ Individual hormones to 1.3.48 and neuroendocrine coupling to 1.3.49.
 - Neural and endocrine regulation are closely integrated.
 - Biological influence should not be equated with deterministic control of behavior.
 - Population-level evidence does not automatically specify an individual's mechanism or outcome.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -2426,6 +2473,7 @@ Endocrine-system organization to 1.3.47 and reproductive hormones to 1.3.69.
 - Hormonal regulation interacts continuously with neural systems.
 - Biological influence should not be equated with deterministic control of behavior.
 - Population-level evidence does not automatically specify an individual's mechanism or outcome.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -2475,6 +2523,7 @@ Specific endocrine organs and hormones to their canonical Topics.
 - Context, timing, and receptor distribution shape hormonal effects.
 - Biological influence should not be equated with deterministic control of behavior.
 - Population-level evidence does not automatically specify an individual's mechanism or outcome.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -2521,6 +2570,7 @@ Variation across genes to 1.3.51 and expression to 1.3.52.
 - Complex psychological traits are not normally controlled by single genes.
 - Biological influence should not be equated with deterministic control of behavior.
 - Population-level evidence does not automatically specify an individual's mechanism or outcome.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -2570,6 +2620,7 @@ Heritability to 1.3.53 and gene–environment interaction to 1.3.54.
 - Genetic difference does not imply genetic determinism.
 - Biological influence should not be equated with deterministic control of behavior.
 - Population-level evidence does not automatically specify an individual's mechanism or outcome.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -2619,6 +2670,7 @@ Epigenetic processes to 1.3.55 and genetic variation to 1.3.51.
 - Expression is dynamic rather than a fixed readout of DNA alone.
 - Biological influence should not be equated with deterministic control of behavior.
 - Population-level evidence does not automatically specify an individual's mechanism or outcome.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -2665,6 +2717,7 @@ Behavioral-genetic study designs to 1.3.76 and twin/adoption methods to 1.3.77�
 - Heritability does not imply genetic determinism.
 - Biological influence should not be equated with deterministic control of behavior.
 - Population-level evidence does not automatically specify an individual's mechanism or outcome.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -2714,6 +2767,7 @@ General development and psychological environment effects to their relevant chap
 - Interaction claims require evidence beyond simple association.
 - Biological influence should not be equated with deterministic control of behavior.
 - Population-level evidence does not automatically specify an individual's mechanism or outcome.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -2763,6 +2817,7 @@ General gene expression to 1.3.52 and gene–environment interaction to 1.3.54.
 - Psychological claims require evidence linking molecular changes to functional outcomes.
 - Biological influence should not be equated with deterministic control of behavior.
 - Population-level evidence does not automatically specify an individual's mechanism or outcome.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -2812,6 +2867,7 @@ Natural selection to 1.3.57 and evolutionary adaptation to 1.3.58.
 - Evolutionary explanations require evidence and should not be assumed from trait existence alone.
 - Timescale matters: regulation within an organism is different from evolutionary change across generations.
 - An existing trait or behavior is not automatically evidence that it is adaptive.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -2858,6 +2914,7 @@ The broader evolutionary framework to 1.3.56 and adaptation as an outcome to 1.3
 - Natural selection is not synonymous with evolution as a whole.
 - Timescale matters: regulation within an organism is different from evolutionary change across generations.
 - An existing trait or behavior is not automatically evidence that it is adaptive.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -2904,6 +2961,7 @@ General evolution to 1.3.56 and natural selection to 1.3.57.
 - Adaptations are environment-specific and constrained.
 - Timescale matters: regulation within an organism is different from evolutionary change across generations.
 - An existing trait or behavior is not automatically evidence that it is adaptive.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -2953,6 +3011,7 @@ Specific developmental, genetic, or neural mechanisms to their canonical Topics.
 - Environmental learning occurs within biological architecture.
 - Timescale matters: regulation within an organism is different from evolutionary change across generations.
 - An existing trait or behavior is not automatically evidence that it is adaptive.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -3002,6 +3061,7 @@ Allostasis to 1.3.61 and specific biological rhythms to 1.3.62.
 - Regulated variables operate within ranges rather than fixed single values.
 - Timescale matters: regulation within an organism is different from evolutionary change across generations.
 - An existing trait or behavior is not automatically evidence that it is adaptive.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 ## 1.3.61 Allostasis
@@ -3050,6 +3110,7 @@ Homeostatic regulation to 1.3.60 and stress psychology to its canonical chapter.
 - Adaptation can carry cumulative physiological costs.
 - Timescale matters: regulation within an organism is different from evolutionary change across generations.
 - An existing trait or behavior is not automatically evidence that it is adaptive.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -3099,6 +3160,7 @@ Circadian rhythms to 1.3.63 and specific sleep processes to Chapter 1.5.
 - Rhythms interact with rather than replace other regulatory systems.
 - Timescale matters: regulation within an organism is different from evolutionary change across generations.
 - An existing trait or behavior is not automatically evidence that it is adaptive.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -3148,6 +3210,7 @@ General biological rhythms to 1.3.62 and sleep psychology to Chapter 1.5.
 - Circadian timing interacts with sleep homeostasis and behavior.
 - Timescale matters: regulation within an organism is different from evolutionary change across generations.
 - An existing trait or behavior is not automatically evidence that it is adaptive.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -3194,6 +3257,7 @@ Interoception to 1.3.66, immune–behavior interaction to 1.3.67, and neuroendoc
 - Psychological interpretation requires pathway-specific evidence.
 - Biological processes interact continuously with developmental and environmental conditions.
 - A biological measure is evidence about a mechanism or correlate, not automatically a complete psychological explanation.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -3243,6 +3307,7 @@ Specific interoceptive mechanisms to 1.3.66 and broader psychological constructs
 - Strong embodied claims require phenomenon-specific evidence.
 - Biological processes interact continuously with developmental and environmental conditions.
 - A biological measure is evidence about a mechanism or correlate, not automatically a complete psychological explanation.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -3292,6 +3357,7 @@ Subjective emotion and cognition to their psychological owners.
 - Interoceptive signals contribute to regulation as well as subjective experience.
 - Biological processes interact continuously with developmental and environmental conditions.
 - A biological measure is evidence about a mechanism or correlate, not automatically a complete psychological explanation.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -3338,6 +3404,7 @@ The broader interdisciplinary field to 1.3.68.
 - Correlation does not establish a causal psychological pathway.
 - Biological processes interact continuously with developmental and environmental conditions.
 - A biological measure is evidence about a mechanism or correlate, not automatically a complete psychological explanation.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -3384,6 +3451,7 @@ Specific immune mechanisms to immune biology and specific psychological mechanis
 - Broad mind–body claims should not exceed the evidence.
 - Biological processes interact continuously with developmental and environmental conditions.
 - A biological measure is evidence about a mechanism or correlate, not automatically a complete psychological explanation.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -3433,6 +3501,7 @@ Sexuality, identity, and social behavior to their psychological owners.
 - Hormonal biology does not provide a complete explanation of complex human sexuality or identity.
 - Biological processes interact continuously with developmental and environmental conditions.
 - A biological measure is evidence about a mechanism or correlate, not automatically a complete psychological explanation.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -3482,6 +3551,7 @@ Specific genetic, neural, hormonal, and psychological constructs to their canoni
 - Group averages do not determine individual outcomes.
 - Biological processes interact continuously with developmental and environmental conditions.
 - A biological measure is evidence about a mechanism or correlate, not automatically a complete psychological explanation.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -3528,6 +3598,7 @@ Specific brain injury to 1.3.72 and lesion methods to 1.3.75.
 - Neuropsychology connects biological and psychological levels without reducing one to the other.
 - Methods answer different causal and measurement questions and should not be treated as interchangeable.
 - Converging evidence and explicit inferential limits strengthen biological explanations of psychological function.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -3574,6 +3645,7 @@ Clinical diagnosis and rehabilitation methods to relevant clinical systems; lesi
 - Recovery can involve plasticity and compensation.
 - Methods answer different causal and measurement questions and should not be treated as interchangeable.
 - Converging evidence and explicit inferential limits strengthen biological explanations of psychological function.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -3620,6 +3692,7 @@ EEG to 1.3.74 and lesion methods to 1.3.75.
 - Correlation between brain activity and behavior does not automatically establish causation.
 - Methods answer different causal and measurement questions and should not be treated as interchangeable.
 - Converging evidence and explicit inferential limits strengthen biological explanations of psychological function.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -3666,6 +3739,7 @@ General neuroimaging to 1.3.73 and lesion methods to 1.3.75.
 - EEG interpretation requires attention to source and signal limitations.
 - Methods answer different causal and measurement questions and should not be treated as interchangeable.
 - Converging evidence and explicit inferential limits strengthen biological explanations of psychological function.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -3712,6 +3786,7 @@ General neuropsychology to 1.3.71 and brain injury consequences to 1.3.72.
 - Converging methods strengthen inference.
 - Methods answer different causal and measurement questions and should not be treated as interchangeable.
 - Converging evidence and explicit inferential limits strengthen biological explanations of psychological function.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -3761,6 +3836,7 @@ Specific study designs to 1.3.77–1.3.78 and molecular gene processes to 1.3.50
 - Study design strongly affects interpretation.
 - Methods answer different causal and measurement questions and should not be treated as interchangeable.
 - Converging evidence and explicit inferential limits strengthen biological explanations of psychological function.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -3807,6 +3883,7 @@ General heritability to 1.3.53 and behavioral genetics to 1.3.76.
 - Complementary molecular and longitudinal evidence can strengthen interpretation.
 - Methods answer different causal and measurement questions and should not be treated as interchangeable.
 - Converging evidence and explicit inferential limits strengthen biological explanations of psychological function.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
 
@@ -3853,5 +3930,6 @@ General behavioral genetics to 1.3.76 and heritability to 1.3.53.
 - Results are population-level evidence, not individual genetic diagnoses.
 - Methods answer different causal and measurement questions and should not be treated as interchangeable.
 - Converging evidence and explicit inferential limits strengthen biological explanations of psychological function.
+- Interpretation should remain at the stated biological level and should not be inflated into a broader psychological claim without additional evidence.
 
 ---
