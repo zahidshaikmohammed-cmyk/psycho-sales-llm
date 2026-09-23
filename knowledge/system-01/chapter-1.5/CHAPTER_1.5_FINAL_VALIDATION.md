@@ -80,6 +80,22 @@ The chapter is structurally complete, ontology-preserving, ownership-aware, and 
 
 ## V2 Semantic Gate — Required for Canonical Seal
 
+- Ontology match: PASS
+- Structural integrity: PASS
+- Ownership: PASS
+- Semantic depth: PASS
+- Neighbor distinctions: PASS
+- Scientific/evidence integrity: PASS
+- Relationships: PASS
+- Retrieval: PASS
+- Anti-template: PASS
+- Cross-chapter boundaries: PASS
+- Final validation: PASS
+- P0: 0
+- P1: 0
+- P2: 0
+- P3: 0
+
 - **Ontology integrity:** 44/44 Topics preserved; no additions, removals, renames, or renumbering.
 - **Required structure:** 44/44 Knowledge Objects retain Purpose, Definition, Core Understanding, Relationship to This Chapter, Boundaries, and Key Principles in order.
 - **Semantic depth:** 44/44 Core Understanding blocks deepened with Topic-specific mechanism, interpretation, boundary, evidence, or uncertainty detail.
