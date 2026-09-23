@@ -19,7 +19,7 @@ Primary control:
 - `constitution/CANONICAL_KNOWLEDGE_OBJECT_CONSTITUTION_V2.md`
 
 ### Phase 2 — Upgrade validation
-**State:** NEXT
+**State:** COMPLETE — LOCKED
 
 Make **LOCKED & SEALED** impossible unless the chapter passes:
 - ontology
@@ -116,7 +116,9 @@ At every phase:
 
 **Phase 1 completion evidence:** The permanent constitution now contains the project-wide v2 semantic upgrade and is the single authoritative constitution. The v2 companion explicitly defers to the permanent constitution and cannot become a competing standard.
 
-**Immediate execution target: Phase 2 — Upgrade validation.**
+**Phase 2 completion evidence:** Executable v2 sealing infrastructure is now present and CI-verified. Added `quality/CANONICAL_SEAL_CONTRACT_V2.md`, `quality/validate_canonical_chapter.py`, `quality/V2_SEMANTIC_ATTESTATION_TEMPLATE.md`, `.github/workflows/canonical-quality-v2.yml`, and validator self-tests under `quality/tests/`. The validator self-test suite passed in GitHub Actions run `35871099492` on commit `958216f9c62a61beb760f128d84577d47ab7c9a1`. The CI gate also passed its changed-canonical detection step. Existing chapters are intentionally not retroactively called v2-certified; that work remains in Phases 3–7.
+
+**Immediate execution target: Phase 3 — Remediate Chapter 1.4.**
 
 After Phase 2, proceed sequentially unless a repository-discovered dependency requires a different order.
 
