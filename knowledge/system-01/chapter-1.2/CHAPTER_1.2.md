@@ -4187,41 +4187,9 @@ Preregistration records important aspects of a research plan before researchers 
 Preregistration is the public or otherwise time-stamped specification of research questions, hypotheses, design, measures, analysis plans, or other study decisions before the relevant results are known.
 
 ## 3. Core Understanding
-
-Preregistration can specify hypotheses, primary outcomes, exclusion criteria, sample size rules, analysis models, stopping rules, and other decisions.
-
-### Confirmatory transparency
-
-Preregistration helps distinguish analyses planned before seeing results from analyses developed after observing data.
-
-### Not a guarantee
-
-A preregistered study can still have poor measurement, weak design, inadequate power, or incorrect assumptions. Registration improves transparency; it does not automatically improve scientific quality.
-
-### Exploratory work
-
-Exploration remains scientifically useful. Exploratory analyses should be identified as exploratory rather than relabeled as preregistered confirmation.
-
-### Amendments
-
-Plans may sometimes need legitimate changes. Transparent documentation of deviations preserves the distinction between original plans and later decisions.
-
-### Evidence status
-
-Preregistration is an open-science practice designed to reduce selective flexibility and improve interpretability.
+Preregistration records specified research questions, hypotheses, outcomes, analyses, or design decisions before researchers inspect the relevant outcome data, creating a timestamped distinction between planned and later exploratory decisions. It can reduce undisclosed flexibility and hindsight reinterpretation. It does not guarantee good science, because a poorly designed preregistration can remain poorly designed and justified deviations can sometimes be scientifically appropriate.
 
 
-### Timing and scope
-
-Preregistration records specified research questions, hypotheses, methods, outcomes, or analyses before researchers inspect or analyze data in ways that could influence those decisions. Its purpose is to distinguish planned confirmatory analyses from later exploratory decisions.
-
-### What it does not guarantee
-
-Preregistration does not make a study correct, prevent all bias, or eliminate legitimate changes to a protocol. Deviations can be appropriate when disclosed clearly and distinguished from the original plan.
-
-### Value
-
-Preregistration can reduce undisclosed flexibility, improve transparency, and make hindsight distinctions between prediction and discovery easier to evaluate.
 ## 4. Relationship to This Chapter
 
 Preregistration connects directly to researcher degrees of freedom, HARKing, p-hacking, selective reporting, and open science.
@@ -4237,12 +4205,15 @@ The practice of recording research plans before outcome-dependent decisions.
 Registered reports, selective reporting, specific hypotheses, and statistical methods.
 
 ## 6. Key Principles
+1. Preregistration has a specific scientific or ethical function.
+2. Transparency and rigor must be matched to the relevant research context.
+3. Methodological safeguards reduce particular risks but do not guarantee perfect evidence.
+4. Ethical decisions depend on foreseeable consequences, context, and alternatives.
+5. Participant protection and scientific validity are interconnected but distinct.
+6. Openness must be balanced with privacy, consent, security, and other legitimate constraints where applicable.
+7. Claims about research quality should remain proportional to the safeguards actually used.
+8. The concept should be applied precisely rather than as a generic label for “good research.”
 
-1. Preregistration distinguishes planned from post hoc decisions.
-2. It can improve transparency.
-3. It does not guarantee good science.
-4. Deviations can be legitimate when transparently reported.
-5. Exploratory findings should remain identifiable as exploratory.
 
 ---
 
@@ -4257,37 +4228,9 @@ Registered reports separate evaluation of a research question and proposed metho
 A registered report is a publication format in which a research proposal is peer reviewed before data collection or outcome analysis, with publication decisions made partly on the basis of the question and methodology rather than only the eventual results.
 
 ## 3. Core Understanding
-
-The process commonly includes an initial protocol review followed, when accepted, by data collection and a later report.
-
-### Benefit
-
-Pre-result review can reduce incentives to change hypotheses, analyses, or outcomes in response to findings and can make null or unexpected results more publishable.
-
-### Limitations
-
-Registered reports do not eliminate all methodological problems. Designs can still be weak, implementation can deviate from plans, and some research questions are exploratory or difficult to preregister completely.
-
-### Difference from preregistration
-
-Preregistration records a plan. A registered report is a publication process involving peer review and a commitment structure around the planned study.
-
-### Evidence status
-
-Registered reports are an established open-science publication practice.
+Registered reports are a publication format in which a study's rationale, hypotheses, methods, and analysis plan are peer reviewed before the results are known, with publication commitment contingent on meeting agreed standards rather than on obtaining a preferred result. They separate evaluation of research quality from outcome novelty and can reduce publication bias and outcome-driven methodological changes.
 
 
-### Registered-report structure
-
-A registered report separates evaluation of the research question, rationale, and planned methods from knowledge of the eventual results. In many formats, a study receives in-principle acceptance before data collection, subject to completing the approved work.
-
-### What it changes
-
-Because publication is less dependent on obtaining a particular result, registered reports can reduce incentives to selectively report surprising or statistically significant findings. They can also encourage stronger design review before data are collected.
-
-### Limits
-
-Registration does not guarantee sound theory, adequate measurement, or successful execution. Protocol changes and deviations still require transparent documentation.
 ## 4. Relationship to This Chapter
 
 Registered reports build on preregistration and address researcher degrees of freedom, selective reporting, and publication bias.
@@ -4303,12 +4246,15 @@ The publication format involving pre-data peer review and result-independent pub
 Preregistration, peer review, publication bias, and the substantive research question.
 
 ## 6. Key Principles
+1. Registered reports has a specific scientific or ethical function.
+2. Transparency and rigor must be matched to the relevant research context.
+3. Methodological safeguards reduce particular risks but do not guarantee perfect evidence.
+4. Ethical decisions depend on foreseeable consequences, context, and alternatives.
+5. Participant protection and scientific validity are interconnected but distinct.
+6. Openness must be balanced with privacy, consent, security, and other legitimate constraints where applicable.
+7. Claims about research quality should remain proportional to the safeguards actually used.
+8. The concept should be applied precisely rather than as a generic label for “good research.”
 
-1. Registered reports review methods before outcome data are known.
-2. They differ from preregistration.
-3. They can reduce outcome-dependent publication incentives.
-4. They do not guarantee methodological quality.
-5. Exploratory research can still require flexible approaches.
 
 ---
 
@@ -4323,41 +4269,9 @@ Researcher degrees of freedom describe the legitimate or discretionary choices r
 Researcher degrees of freedom are the choices available to researchers concerning design, measurement, exclusions, data processing, statistical models, outcomes, stopping rules, and reporting that can affect results.
 
 ## 3. Core Understanding
-
-Flexibility is not inherently unethical or harmful. Scientific research often requires judgment. The problem arises when many possible choices are tried and only favorable results are presented without transparent accounting.
-
-### Examples
-
-Choices can include when to stop collecting data, which participants to exclude, which outcome to emphasize, which transformation to use, which covariates to include, or which subgroup to analyze.
-
-### Transparency
-
-Preregistration, transparent reporting, sharing analysis code where appropriate, and distinguishing exploratory from confirmatory analyses can make flexibility more visible.
-
-### Relation to p-hacking
-
-P-hacking is one possible consequence of exploiting analytic flexibility to obtain desirable significance results. Degrees of freedom are broader than p-hacking.
-
-### Evidence status
-
-Researcher degrees of freedom are a recognized methodological issue in reproducibility and false-positive research.
+Researcher degrees of freedom are the legitimate or flexible choices researchers can make about sampling, exclusions, measurement, coding, analysis, stopping, and reporting. Flexibility is often necessary, but undisclosed flexibility can increase the chance that a preferred pattern is selected from many possibilities. Transparency and prespecification where appropriate make these choices visible.
 
 
-### Sources of researcher flexibility
-
-Researcher degrees of freedom are the legitimate and sometimes consequential choices researchers can make about sampling, exclusions, transformations, measures, outcomes, covariates, models, stopping rules, and reporting.
-
-### Why flexibility matters
-
-A single analysis may be defensible, but choosing among many plausible analyses after inspecting data increases the chance that some specification will produce a favorable result by chance or selective interpretation.
-
-### Not all flexibility is misconduct
-
-Exploratory analysis and methodological adaptation are legitimate scientific activities. The problem arises when undisclosed flexibility is used in a way that creates misleading certainty or hides the breadth of analyses considered.
-
-### Safeguards
-
-Preregistration, registered reports, multiverse or specification analyses, transparent reporting, and replication can make analytical flexibility more visible.
 ## 4. Relationship to This Chapter
 
 This Topic links open-science practices with p-hacking, HARKing, selective reporting, and preregistration.
@@ -4373,12 +4287,15 @@ The concept of discretionary research choices that can influence results.
 P-hacking, HARKing, preregistration, and publication bias.
 
 ## 6. Key Principles
+1. Researcher degrees of freedom has a specific scientific or ethical function.
+2. Transparency and rigor must be matched to the relevant research context.
+3. Methodological safeguards reduce particular risks but do not guarantee perfect evidence.
+4. Ethical decisions depend on foreseeable consequences, context, and alternatives.
+5. Participant protection and scientific validity are interconnected but distinct.
+6. Openness must be balanced with privacy, consent, security, and other legitimate constraints where applicable.
+7. Claims about research quality should remain proportional to the safeguards actually used.
+8. The concept should be applied precisely rather than as a generic label for “good research.”
 
-1. Research often contains legitimate analytic flexibility.
-2. Unreported flexibility can distort evidential interpretation.
-3. Transparency helps distinguish planned and exploratory choices.
-4. Degrees of freedom are broader than p-hacking.
-5. Flexibility should be documented rather than hidden.
 
 ---
 
@@ -4393,41 +4310,9 @@ P-hacking describes practices in which researchers exploit analytic flexibility 
 P-hacking is the use of data-analysis flexibility, repeated testing, selective stopping, outcome selection, or related practices in ways that increase the likelihood of obtaining a desirable p-value without transparently accounting for the resulting multiplicity.
 
 ## 3. Core Understanding
-
-P-hacking can involve trying many outcomes, subgroups, exclusions, transformations, models, or stopping points and reporting only the favorable result.
-
-### Why it matters
-
-If many analyses are explored, at least one can appear statistically significant by chance even when the underlying null hypotheses are true.
-
-### Intent
-
-P-hacking does not require conscious fraud. Flexible decisions can accumulate through ordinary analytic experimentation if the final report hides how many alternatives were considered.
-
-### Prevention
-
-Preregistration, transparent reporting, correction for multiple comparisons, independent replication, and clear distinction between exploratory and confirmatory analyses can reduce risk.
-
-### Evidence status
-
-P-hacking is a recognized methodological threat to statistical inference and reproducibility.
+P-hacking refers to analytic or data-collection practices that exploit researcher flexibility to obtain or retain statistically significant results, intentionally or unintentionally. Examples can include trying many analyses, selectively excluding observations, optional stopping, or choosing outcomes after inspecting results. The core problem is that the reported error rate no longer matches the apparent testing procedure.
 
 
-### Mechanism of p-hacking
-
-P-hacking refers to practices that exploit analytical or reporting flexibility to obtain or emphasize conventionally “significant” p-values. It can involve repeated testing, selective exclusions, changing outcomes or covariates, stopping data collection opportunistically, or trying multiple models without transparent disclosure.
-
-### Why it matters
-
-When many analyses are tried, the nominal error rate of one chosen test no longer describes the overall search process. A reported significant result can therefore appear stronger than the evidence warrants.
-
-### Prevention
-
-Preregistration, transparent reporting of analyses, multiplicity-aware inference, replication, and clear separation of exploratory from confirmatory work can reduce the problem.
-
-### Evidence status
-
-P-hacking is a methodological risk supported by statistical reasoning and empirical demonstrations of how flexible analysis can inflate false-positive findings. It is not synonymous with any unexpected or statistically significant result.
 ## 4. Relationship to This Chapter
 
 P-hacking connects researcher degrees of freedom, Type I error, multiple comparisons, selective reporting, and preregistration.
@@ -4443,12 +4328,15 @@ The methodological problem of exploiting or accumulating analytic flexibility to
 Researcher degrees of freedom, multiple-comparison procedures, publication bias, and scientific misconduct as a broader category.
 
 ## 6. Key Principles
+1. P-hacking has a specific scientific or ethical function.
+2. Transparency and rigor must be matched to the relevant research context.
+3. Methodological safeguards reduce particular risks but do not guarantee perfect evidence.
+4. Ethical decisions depend on foreseeable consequences, context, and alternatives.
+5. Participant protection and scientific validity are interconnected but distinct.
+6. Openness must be balanced with privacy, consent, security, and other legitimate constraints where applicable.
+7. Claims about research quality should remain proportional to the safeguards actually used.
+8. The concept should be applied precisely rather than as a generic label for “good research.”
 
-1. P-hacking exploits analytic flexibility to increase favorable statistical results.
-2. It can occur without deliberate fraud.
-3. Multiple testing is a major mechanism.
-4. Transparent exploratory analysis reduces misleading interpretation.
-5. A small p-value is less informative when the analysis process was highly flexible and undisclosed.
 
 ---
 
@@ -4463,39 +4351,9 @@ HARKing addresses the practice of presenting a hypothesis developed after observ
 HARKing, or hypothesizing after the results are known, is the presentation of a post hoc hypothesis as if it had been predicted before observing the relevant data.
 
 ## 3. Core Understanding
-
-### Discovery versus confirmation
-
-Post hoc pattern discovery can be scientifically useful. The problem is not generating hypotheses after seeing data; it is misrepresenting their temporal origin.
-
-### Evidential consequences
-
-A hypothesis generated from the same data used to support it is not equivalent to a genuinely prospective prediction. The distinction affects how surprising the finding was and therefore how strongly it tests the theory.
-
-### Transparency
-
-Researchers can preserve the value of exploratory findings by labeling them as exploratory and testing them in new data when confirmation is needed.
-
-### Relation to preregistration
-
-Preregistration can document planned hypotheses before data analysis, making deviations and post hoc discoveries easier to identify.
-
-### Evidence status
-
-HARKing is a recognized reporting and inference problem.
+HARKing, or hypothesizing after the results are known, occurs when an observation discovered through data analysis is presented as though it had been predicted in advance. Exploratory discovery is legitimate and often valuable; the problem is misrepresenting discovery as confirmation. Clear labeling preserves the distinction between generating and testing hypotheses.
 
 
-### Retrospective hypothesis formation
-
-HARKing occurs when a hypothesis developed after observing data is presented as though it had been specified before the data were examined. This can make an exploratory discovery appear to have been a successful prediction.
-
-### Discovery versus confirmation
-
-Post hoc hypotheses can be scientifically valuable because data can reveal unexpected patterns. The problem is misrepresenting the temporal origin of the hypothesis, which changes how readers interpret the evidential strength.
-
-### Safeguard
-
-Researchers can preserve the scientific value of discovery by labeling hypotheses as exploratory and then testing them in new data or a preregistered confirmatory study.
 ## 4. Relationship to This Chapter
 
 HARKing connects directly to hypotheses, preregistration, researcher degrees of freedom, p-hacking, and selective reporting.
@@ -4511,11 +4369,15 @@ The misrepresentation of post hoc hypotheses as a priori predictions.
 Hypothesis generation generally, preregistration, p-hacking, and publication bias.
 
 ## 6. Key Principles
+1. HARKing has a specific scientific or ethical function.
+2. Transparency and rigor must be matched to the relevant research context.
+3. Methodological safeguards reduce particular risks but do not guarantee perfect evidence.
+4. Ethical decisions depend on foreseeable consequences, context, and alternatives.
+5. Participant protection and scientific validity are interconnected but distinct.
+6. Openness must be balanced with privacy, consent, security, and other legitimate constraints where applicable.
+7. Claims about research quality should remain proportional to the safeguards actually used.
+8. The concept should be applied precisely rather than as a generic label for “good research.”
 
-1. Discovering a hypothesis after seeing data is not inherently wrong.
-2. Presenting it as preregistered or prospective is misleading.
-3. Exploratory findings can generate valuable future hypotheses.
-4. Confirmation is stronger when tested on appropriately independent evidence.
 
 ---
 
@@ -4530,47 +4392,9 @@ Selective reporting concerns the incomplete reporting of research findings, anal
 Selective reporting is the practice or outcome of reporting only a subset of relevant research results, analyses, outcomes, or study information in a way that can systematically influence the interpretation of the evidence.
 
 ## 3. Core Understanding
-
-### Outcome selection
-
-Researchers may report favorable outcomes while omitting unfavorable or null outcomes. This can exaggerate the apparent support for an intervention or theory.
-
-### Analysis selection
-
-Multiple analyses may be conducted but only one may be reported. Without transparency, readers cannot evaluate how much analytic choice occurred.
-
-### Participant exclusions
-
-Unreported exclusions can alter results and conceal the sensitivity of conclusions to inclusion criteria.
-
-### Study-level reporting
-
-Selective reporting can occur within a study and across studies. At the publication level, results may be more likely to appear when they are positive or interesting.
-
-### Prevention
-
-Protocols, preregistration, reporting guidelines, data and code sharing where appropriate, and transparent disclosure of deviations can reduce selective reporting.
-
-### Evidence status
-
-Selective reporting is a recognized threat to scientific evidence synthesis.
+Selective reporting occurs when researchers choose which outcomes, analyses, conditions, participants, or findings to disclose in ways that distort the evidence available to readers. It can occur at the study level or within a study. Selective reporting can exaggerate apparent effects, hide null findings, and make replication or cumulative synthesis difficult.
 
 
-### Forms of selectivity
-
-Selective reporting occurs when researchers, analyses, outcomes, participants, time points, or results are reported in a way that systematically emphasizes favorable or interesting findings while obscuring relevant alternatives.
-
-### Consequences
-
-Selective reporting can distort the apparent evidence base because readers see a nonrepresentative subset of what was measured or analyzed. It can contribute to exaggerated effect estimates and difficulty reproducing findings.
-
-### Prevention
-
-Complete outcome reporting, preregistration, registered reports, transparent supplementary material, and clear documentation of deviations can reduce selective reporting.
-
-### Boundary
-
-Not every omission is selective reporting. Space, relevance, privacy, and legitimate methodological choices require researchers to prioritize information. The concern is systematic omission that changes the interpretation of the evidence.
 ## 4. Relationship to This Chapter
 
 Selective reporting connects p-hacking and researcher degrees of freedom with publication bias, meta-analysis, and open science.
@@ -4586,12 +4410,15 @@ Incomplete or outcome-dependent reporting that can distort interpretation of res
 Publication bias, p-hacking, preregistration, and data transparency.
 
 ## 6. Key Principles
+1. Selective reporting has a specific scientific or ethical function.
+2. Transparency and rigor must be matched to the relevant research context.
+3. Methodological safeguards reduce particular risks but do not guarantee perfect evidence.
+4. Ethical decisions depend on foreseeable consequences, context, and alternatives.
+5. Participant protection and scientific validity are interconnected but distinct.
+6. Openness must be balanced with privacy, consent, security, and other legitimate constraints where applicable.
+7. Claims about research quality should remain proportional to the safeguards actually used.
+8. The concept should be applied precisely rather than as a generic label for “good research.”
 
-1. Selective reporting can distort the apparent evidence.
-2. It can occur within studies and across publications.
-3. Transparency about outcomes and analyses is important.
-4. Unreported null results can matter scientifically.
-5. Evidence synthesis should consider reporting selection.
 
 ---
 
@@ -4606,41 +4433,9 @@ Publication bias concerns systematic differences between studies that are conduc
 Publication bias is systematic distortion of the accessible research literature caused by the selective publication, dissemination, or availability of studies or results based on their findings or characteristics.
 
 ## 3. Core Understanding
-
-Studies with statistically significant, novel, or favorable findings may be more likely to be submitted, accepted, or published than studies with null or unfavorable results.
-
-### Consequences
-
-If visible literature overrepresents positive findings, effect estimates can be exaggerated and uncertainty underestimated.
-
-### Beyond journals
-
-Selective availability can occur through conference presentations, repositories, registered reports, organizational reports, dissertations, and other dissemination channels.
-
-### Detection
-
-Methods such as funnel-plot inspection and statistical tests can provide clues, but publication bias is difficult to identify perfectly because asymmetry can have other causes.
-
-### Prevention
-
-Study registration, registered reports, preprints, data repositories, and policies supporting dissemination of null results can reduce selective availability.
-
-### Evidence status
-
-Publication bias is a well-established concern in evidence synthesis, though its magnitude varies by field and topic.
+Publication bias occurs when the probability that research becomes publicly available depends on its results or characteristics, such as statistical significance, novelty, or direction. If positive studies are more likely to appear than null studies, the published literature can overestimate effects. Publication bias is one reason systematic evidence should seek beyond easily published findings.
 
 
-### Mechanisms
-
-Publication bias occurs when the probability that a study is published, disseminated, or remains visible depends on characteristics of its results, such as direction, statistical significance, novelty, or perceived importance.
-
-### Distortion of evidence synthesis
-
-If studies with null or unfavorable results are less visible, the published literature can overstate average effects or make some findings appear more consistent than they are. This affects systematic reviews and meta-analyses that rely on available studies.
-
-### Detection and limits
-
-Funnel-plot asymmetry and related methods can provide clues but do not uniquely identify publication bias because asymmetry can arise from heterogeneity, small-study effects, or other mechanisms. Prevention includes study registration, results reporting, and publication practices that value informative results regardless of direction.
 ## 4. Relationship to This Chapter
 
 Publication bias connects selective reporting with meta-analysis, systematic review, open science, and citation bias.
@@ -4656,12 +4451,15 @@ Selective availability of studies or results based on findings or related charac
 Selective reporting within studies, citation bias, meta-analysis, and research publication systems.
 
 ## 6. Key Principles
+1. Publication bias has a specific scientific or ethical function.
+2. Transparency and rigor must be matched to the relevant research context.
+3. Methodological safeguards reduce particular risks but do not guarantee perfect evidence.
+4. Ethical decisions depend on foreseeable consequences, context, and alternatives.
+5. Participant protection and scientific validity are interconnected but distinct.
+6. Openness must be balanced with privacy, consent, security, and other legitimate constraints where applicable.
+7. Claims about research quality should remain proportional to the safeguards actually used.
+8. The concept should be applied precisely rather than as a generic label for “good research.”
 
-1. Published literature may not represent all conducted research.
-2. Positive findings can become disproportionately visible.
-3. Publication bias can inflate apparent effects.
-4. Registration and result-independent publication can reduce the problem.
-5. Evidence synthesis should consider the possibility of missing studies.
 
 ---
 
@@ -4676,41 +4474,9 @@ Citation bias concerns unequal citation or visibility of research findings based
 Citation bias is systematic variation in which studies or findings are cited or emphasized according to characteristics of their results or sources rather than solely their relevance and evidential value.
 
 ## 3. Core Understanding
-
-Positive, statistically significant, novel, or attention-grabbing findings may receive more citations than null or contradictory findings.
-
-### Consequences
-
-Highly cited studies can appear more representative of the evidence than they actually are. Literature reviews based heavily on citation frequency can therefore be distorted.
-
-### Citation cascades
-
-Frequently cited findings may receive still more citations because later authors rely on previous references rather than independently evaluating the primary evidence.
-
-### Prevention
-
-Balanced searching, systematic review methods, citation of contradictory evidence, and attention to primary studies can reduce citation-driven distortion.
-
-### Evidence status
-
-Citation bias is an established concern in scientific communication and synthesis, though its magnitude differs across fields.
+Citation bias occurs when some findings, studies, authors, or viewpoints are cited more often because of their results, prestige, visibility, novelty, or other factors rather than simply their evidential relevance. Citation patterns can shape perceived consensus and influence later literature. A highly cited claim is not automatically better supported than a less cited one.
 
 
-### Citation as a selection process
-
-Citation bias occurs when some findings, authors, studies, or perspectives are cited more often or more readily because of their results, visibility, prestige, novelty, accessibility, or other characteristics rather than solely because of their evidential relevance.
-
-### Distortion
-
-A highly cited literature can give the impression that a claim has stronger or broader support than it does if contradictory, null, or lower-visibility evidence is systematically omitted from citation networks. Citation counts therefore are not direct measures of evidential truth.
-
-### Mechanisms
-
-Selective citation can arise from confirmation preferences, narrative convenience, journal visibility, disciplinary boundaries, language barriers, or the tendency of highly cited work to attract further citations.
-
-### Responsible practice
-
-Literature synthesis should seek relevant evidence systematically, acknowledge conflicting findings when they materially affect interpretation, and avoid using citation frequency as a substitute for evidence quality.
 ## 4. Relationship to This Chapter
 
 Citation bias complements publication bias and connects to systematic review, meta-analysis, peer review, and scientific consensus.
@@ -4726,12 +4492,15 @@ Bias in which scientific findings receive citation and visibility.
 Publication bias, selective reporting, evidence synthesis, and peer review.
 
 ## 6. Key Principles
+1. Citation bias has a specific scientific or ethical function.
+2. Transparency and rigor must be matched to the relevant research context.
+3. Methodological safeguards reduce particular risks but do not guarantee perfect evidence.
+4. Ethical decisions depend on foreseeable consequences, context, and alternatives.
+5. Participant protection and scientific validity are interconnected but distinct.
+6. Openness must be balanced with privacy, consent, security, and other legitimate constraints where applicable.
+7. Claims about research quality should remain proportional to the safeguards actually used.
+8. The concept should be applied precisely rather than as a generic label for “good research.”
 
-1. Citation counts are not measures of evidential truth.
-2. Positive or novel findings can become disproportionately visible.
-3. Citation cascades can amplify early claims.
-4. Evidence review should not rely only on citation frequency.
-5. Contradictory and null evidence can be scientifically important.
 
 ---
 ## 1.2.103 Meta-analysis
@@ -4745,55 +4514,9 @@ Meta-analysis statistically combines results from multiple studies addressing a 
 Meta-analysis is a statistical method for quantitatively synthesizing effect estimates or other comparable results from multiple studies.
 
 ## 3. Core Understanding
-
-### Effect estimates
-
-Studies must provide results that can be represented on a common or transformable metric. Different outcomes can require standardized or other appropriate effect measures.
-
-### Weighting
-
-Studies may be weighted according to their precision or other statistical properties. Weighting affects the combined estimate.
-
-### Fixed and random effects
-
-Different meta-analytic models make different assumptions about the distribution of true effects. A model should be chosen for the scientific question and evidence structure, not merely by convention.
-
-### Heterogeneity
-
-Studies can differ in effect magnitude because populations, interventions, contexts, measures, and other factors differ. Heterogeneity is therefore scientifically meaningful, not automatically statistical noise.
-
-### Publication bias
-
-A meta-analysis can be distorted when available studies are not representative of all relevant studies. Statistical corrections cannot guarantee removal of this bias.
-
-### Evidence quality
-
-A precise pooled estimate based on weak or biased studies does not automatically become strong evidence.
-
-### Evidence status
-
-Meta-analysis is an established synthesis method. Its value depends on study selection, comparability, model assumptions, and evidence quality.
+Meta-analysis is a statistical approach for quantitatively synthesizing effect estimates or other results across multiple studies. It can increase precision, examine heterogeneity, test moderators, and reveal patterns that individual studies cannot resolve. Its conclusions depend on study quality, dependence among estimates, measurement compatibility, publication selection, model assumptions, and the appropriateness of combining studies.
 
 
-### Synthesis logic
-
-Meta-analysis statistically combines quantitative results from multiple studies to estimate an overall effect or characterize the distribution of effects. It requires decisions about which studies and effects are comparable, how estimates are weighted, and how dependence and heterogeneity are handled.
-
-### Effect-size preparation
-
-Studies often report different metrics. Meta-analysis may transform results into a common effect-size representation while preserving appropriate direction and uncertainty. Poorly chosen transformations can distort the synthesis.
-
-### Fixed and random effects
-
-Different meta-analytic models make different assumptions about the distribution of underlying effects. A random-effects model generally allows effects to vary across studies; it does not automatically solve bias or guarantee generalizability.
-
-### Heterogeneity and bias
-
-An overall mean can conceal meaningful variation. Heterogeneity, publication bias, study quality, dependence among estimates, and selective reporting must be considered when interpreting the pooled result.
-
-### Evidence status
-
-Meta-analysis can increase precision and reveal patterns across studies, but the synthesis is only as credible as the included evidence, assumptions, and analytical choices.
 ## 4. Relationship to This Chapter
 
 Meta-analysis connects effect size, systematic review, publication bias, heterogeneity, evidence quality, and scientific consensus.
@@ -4809,12 +4532,15 @@ The quantitative synthesis of comparable study results.
 Systematic review, heterogeneity, individual studies, publication bias, and substantive conclusions.
 
 ## 6. Key Principles
+1. Meta-analysis has a specific scientific or ethical function.
+2. Transparency and rigor must be matched to the relevant research context.
+3. Methodological safeguards reduce particular risks but do not guarantee perfect evidence.
+4. Ethical decisions depend on foreseeable consequences, context, and alternatives.
+5. Participant protection and scientific validity are interconnected but distinct.
+6. Openness must be balanced with privacy, consent, security, and other legitimate constraints where applicable.
+7. Claims about research quality should remain proportional to the safeguards actually used.
+8. The concept should be applied precisely rather than as a generic label for “good research.”
 
-1. Meta-analysis quantitatively combines study results.
-2. The validity of the synthesis depends on the included evidence.
-3. Heterogeneity can be scientifically informative.
-4. Model choice affects interpretation.
-5. A pooled estimate does not automatically overcome biased evidence.
 
 ---
 
@@ -4829,51 +4555,9 @@ Systematic review provides a structured method for identifying, evaluating, and 
 A systematic review is a structured evidence synthesis that uses predefined or explicitly documented methods to identify, select, appraise, and synthesize research relevant to a focused question.
 
 ## 3. Core Understanding
-
-### Search strategy
-
-Systematic reviews use explicit search procedures intended to identify relevant evidence comprehensively within the defined scope.
-
-### Eligibility criteria
-
-Inclusion and exclusion criteria specify which studies qualify. These criteria should correspond to the research question.
-
-### Quality appraisal
-
-Reviewers evaluate study quality or risk of bias using methods appropriate to the evidence type.
-
-### Synthesis
-
-Synthesis can be qualitative, quantitative, or both. Meta-analysis is one possible component, not a requirement.
-
-### Transparency
-
-Protocols, search strategies, screening decisions, extraction procedures, and deviations can be documented to improve reproducibility.
-
-### Limitations
-
-A systematic review can inherit biases from the available literature, search limitations, publication bias, inconsistent measures, and reviewer decisions.
-
-### Evidence status
-
-Systematic review is an established evidence-synthesis method. Its strength depends on review methodology and the underlying evidence.
+A systematic review uses an explicit, reproducible process to identify, select, evaluate, and synthesize research addressing a defined question. It differs from an informal narrative review through transparent search, inclusion, exclusion, and appraisal procedures. A systematic review can synthesize qualitative or quantitative evidence and can still reach uncertain conclusions when the underlying literature is weak or heterogeneous.
 
 
-### Review process
-
-A systematic review uses a predefined and transparent process to identify, select, evaluate, and synthesize research addressing a defined question. Typical stages include protocol development, search strategy, eligibility criteria, screening, data extraction, risk-of-bias assessment, and synthesis.
-
-### Reproducibility
-
-Search strings, databases, dates, inclusion decisions, extraction procedures, and deviations should be documented sufficiently for others to understand how the evidence base was assembled.
-
-### Narrative versus quantitative synthesis
-
-A systematic review may synthesize findings narratively or include meta-analysis when quantitative combination is justified. Meta-analysis is therefore a possible component of a systematic review, not a synonym for it.
-
-### Evidence status
-
-Systematic reviews can provide broad evidence summaries, but their conclusions depend on the comprehensiveness of the search, quality of included studies, risk-of-bias judgments, and synthesis methods.
 ## 4. Relationship to This Chapter
 
 Systematic review provides the methodological framework within which meta-analysis and heterogeneity are often interpreted. It also connects directly to publication bias and scientific consensus.
@@ -4889,12 +4573,15 @@ The systematic process of identifying, appraising, and synthesizing research evi
 Meta-analysis, individual-study quality, publication bias, and substantive conclusions.
 
 ## 6. Key Principles
+1. Systematic review has a specific scientific or ethical function.
+2. Transparency and rigor must be matched to the relevant research context.
+3. Methodological safeguards reduce particular risks but do not guarantee perfect evidence.
+4. Ethical decisions depend on foreseeable consequences, context, and alternatives.
+5. Participant protection and scientific validity are interconnected but distinct.
+6. Openness must be balanced with privacy, consent, security, and other legitimate constraints where applicable.
+7. Claims about research quality should remain proportional to the safeguards actually used.
+8. The concept should be applied precisely rather than as a generic label for “good research.”
 
-1. Systematic review uses explicit methods to synthesize evidence.
-2. Meta-analysis is optional, not synonymous with systematic review.
-3. Search and eligibility decisions affect conclusions.
-4. Review quality cannot exceed the quality of its methods and evidence base.
-5. Transparency is essential for reproducibility.
 
 ---
 
@@ -4909,47 +4596,9 @@ Meta-analytic heterogeneity describes variation in estimated effects across stud
 Meta-analytic heterogeneity is the extent to which study effect estimates differ across a collection of studies, reflecting statistical variation that may arise from genuine differences in underlying effects, methods, populations, contexts, or other sources.
 
 ## 3. Core Understanding
-
-### Sources
-
-Heterogeneity can arise from differences in participants, interventions, comparison conditions, outcome measures, study quality, timing, implementation, or contextual moderators.
-
-### Statistical heterogeneity
-
-Statistics such as Cochran's Q and I² summarize aspects of between-study variation, but they do not by themselves identify its cause.
-
-### Substantive interpretation
-
-High heterogeneity can indicate that a single average effect is incomplete. Researchers may examine moderators or subgroups when such analyses are theoretically justified.
-
-### Low heterogeneity
-
-Low statistical heterogeneity does not prove that all studies are identical or that the pooled effect is universally generalizable.
-
-### Model choice
-
-Random-effects models allow for variation among underlying effects, but the model's assumptions must still be considered.
-
-### Evidence status
-
-Heterogeneity is a formal statistical and substantive concept in evidence synthesis.
+Meta-analytic heterogeneity is variation in estimated effects across studies beyond what would be expected from sampling error alone under a chosen model. Heterogeneity can reflect differences in populations, interventions, measures, settings, implementation, moderators, or study quality. It is not merely a nuisance: understanding why effects differ can reveal boundary conditions and improve theory.
 
 
-### Sources of heterogeneity
-
-Meta-analytic heterogeneity means that study estimates differ more than would be expected from sampling error alone under the chosen model. Differences can arise from populations, interventions, measures, settings, study quality, implementation, or genuine effect modification.
-
-### Statistical summaries
-
-Common statistics include Cochran's Q, I², and estimates such as tau-squared. These quantify different aspects of between-study variation and should not be interpreted as interchangeable measures of “inconsistency.”
-
-### Interpretation
-
-High heterogeneity does not automatically mean a meta-analysis is invalid, and low heterogeneity does not prove that studies are substantively identical. Researchers should investigate plausible sources when the evidence permits.
-
-### Consequences
-
-A pooled estimate may be less informative when effects vary substantially across meaningful contexts. Prediction intervals and subgroup or meta-regression analyses can sometimes help, but such analyses introduce their own assumptions and multiplicity concerns.
 ## 4. Relationship to This Chapter
 
 Meta-analytic heterogeneity connects meta-analysis to moderators, generalizability, evidence quality, and interpretation of pooled effects.
@@ -4965,12 +4614,15 @@ Variation among study effects in quantitative evidence synthesis.
 Meta-analysis, statistical heterogeneity measures, substantive moderators, and study-level bias.
 
 ## 6. Key Principles
+1. Meta-analytic heterogeneity has a specific scientific or ethical function.
+2. Transparency and rigor must be matched to the relevant research context.
+3. Methodological safeguards reduce particular risks but do not guarantee perfect evidence.
+4. Ethical decisions depend on foreseeable consequences, context, and alternatives.
+5. Participant protection and scientific validity are interconnected but distinct.
+6. Openness must be balanced with privacy, consent, security, and other legitimate constraints where applicable.
+7. Claims about research quality should remain proportional to the safeguards actually used.
+8. The concept should be applied precisely rather than as a generic label for “good research.”
 
-1. Study effects can legitimately differ.
-2. Heterogeneity can reveal meaningful boundary conditions.
-3. Statistical heterogeneity does not identify its cause by itself.
-4. A pooled average can conceal important variation.
-5. Moderator analyses require theoretical and statistical justification.
 
 ---
 
@@ -4985,45 +4637,9 @@ Open science describes practices that increase transparency, accessibility, repr
 Open science is a broad approach to conducting and communicating research that increases transparency, accessibility, sharing, preregistration, reproducibility, and public or scientific access to appropriate research materials and outputs.
 
 ## 3. Core Understanding
-
-Open-science practices can include preregistration, registered reports, open materials, data and code sharing where appropriate, transparent reporting, preprints, open-access publication, replication, and documentation of analytic decisions.
-
-### Transparency
-
-Transparency allows researchers and readers to distinguish planned analyses from exploratory analyses and understand how conclusions were produced.
-
-### Accessibility
-
-Making research outputs accessible can improve verification, reuse, education, and cumulative science. Accessibility must be balanced with privacy, confidentiality, intellectual property, and participant consent.
-
-### Reproducibility
-
-Open materials and code can support reproducibility, but sharing does not guarantee that an analysis is correct.
-
-### Ethical limits
-
-Not all data can or should be publicly released. Sensitive human data may require restricted access, de-identification, controlled repositories, or non-sharing.
-
-### Evidence status
-
-Open science is a methodological and cultural approach rather than a single intervention. Individual practices have different purposes and evidential effects.
+Open science is a broad movement toward making research methods, materials, data, code, analyses, and reporting more transparent, accessible, reproducible, and accountable where ethically and legally appropriate. It includes practices such as preregistration, registered reports, data and code sharing, open materials, and transparent reporting. Openness is not absolute; privacy, consent, security, intellectual property, and participant protection can limit what should be shared.
 
 
-### Scope
-
-Open science is a set of practices intended to increase transparency, accessibility, reproducibility, and accountability across the research lifecycle. It can include preregistration, registered reports, open materials, code, data sharing where appropriate, transparent reporting, and open-access dissemination.
-
-### Benefits and trade-offs
-
-Transparency can make research easier to inspect and reproduce, but openness is not absolute. Privacy, confidentiality, intellectual property, participant consent, security, and ethical restrictions can limit what should be shared.
-
-### Cultural dimension
-
-Open science also concerns incentives and norms. Researchers may face pressures related to publication, career progression, data ownership, or resource constraints. Improving practice therefore involves infrastructure and incentives as well as individual behavior.
-
-### Evidence status
-
-Open-science practices are methodological and institutional approaches rather than a single empirical intervention. Evidence for particular practices varies by outcome and context.
 ## 4. Relationship to This Chapter
 
 Open science integrates preregistration, registered reports, transparency, sharing, replication, peer review, and bias-reduction practices.
@@ -5039,12 +4655,15 @@ The general framework of transparent, accessible, reproducible research practice
 Specific open-science practices, data governance, ethics, and replication.
 
 ## 6. Key Principles
+1. Open science has a specific scientific or ethical function.
+2. Transparency and rigor must be matched to the relevant research context.
+3. Methodological safeguards reduce particular risks but do not guarantee perfect evidence.
+4. Ethical decisions depend on foreseeable consequences, context, and alternatives.
+5. Participant protection and scientific validity are interconnected but distinct.
+6. Openness must be balanced with privacy, consent, security, and other legitimate constraints where applicable.
+7. Claims about research quality should remain proportional to the safeguards actually used.
+8. The concept should be applied precisely rather than as a generic label for “good research.”
 
-1. Open science increases transparency and accessibility where appropriate.
-2. Different practices solve different problems.
-3. Openness must respect privacy, confidentiality, and other ethical constraints.
-4. Sharing does not guarantee scientific correctness.
-5. Transparency improves the ability to evaluate research.
 
 ---
 
@@ -5059,41 +4678,9 @@ Data transparency concerns making sufficient information about research data and
 Data transparency is the clear documentation and, where appropriate, accessibility of information about research data, including their origin, structure, processing, exclusions, transformations, and limitations.
 
 ## 3. Core Understanding
-
-Transparency can involve data dictionaries, documentation, codebooks, preprocessing records, missing-data rules, exclusion criteria, and appropriate access to underlying datasets.
-
-### Transparency versus public release
-
-A study can be transparent without publicly releasing sensitive participant-level data. Controlled access and detailed documentation can preserve scientific accountability while protecting participants.
-
-### Processing
-
-Data often undergo cleaning, recoding, transformation, aggregation, and exclusion. Undocumented processing can make results difficult to evaluate or reproduce.
-
-### Privacy
-
-Human data may contain direct or indirect identifiers. Public release must consider re-identification risk and consent.
-
-### Evidence status
-
-Data transparency is an open-science practice. Its appropriate form depends on the data and ethical context.
+Data transparency is the clear documentation of what data were collected, how they were processed, which observations or variables were excluded or transformed, and how analyses were conducted. Transparency enables readers and other researchers to understand the evidential path from raw observations to reported conclusions. Transparency can be achieved through documentation even when sensitive data cannot be publicly released.
 
 
-### What transparency requires
-
-Data transparency means making sufficiently clear what data were collected, how they were processed, which exclusions or transformations occurred, and how the reported analyses connect to the underlying observations.
-
-### Transparency without unrestricted disclosure
-
-Transparent reporting does not require public release of sensitive participant-level data. Researchers can describe datasets, codebooks, processing rules, analysis code, and access procedures while restricting information that cannot ethically or legally be exposed.
-
-### Auditability
-
-Good transparency allows another researcher to understand how the reported result was produced and identify important analytical decisions. It therefore supports scrutiny even when raw data cannot be openly released.
-
-### Limits
-
-Transparency can be incomplete when documentation is missing, data are unavailable, or proprietary systems prevent inspection. Such limitations should be disclosed rather than hidden.
 ## 4. Relationship to This Chapter
 
 Data transparency supports reproducibility, open science, peer review, and evaluation of selective reporting.
@@ -5109,12 +4696,15 @@ Transparency concerning research data and their preparation.
 Data sharing, privacy, confidentiality, reproducibility, and statistical analysis.
 
 ## 6. Key Principles
+1. Data transparency has a specific scientific or ethical function.
+2. Transparency and rigor must be matched to the relevant research context.
+3. Methodological safeguards reduce particular risks but do not guarantee perfect evidence.
+4. Ethical decisions depend on foreseeable consequences, context, and alternatives.
+5. Participant protection and scientific validity are interconnected but distinct.
+6. Openness must be balanced with privacy, consent, security, and other legitimate constraints where applicable.
+7. Claims about research quality should remain proportional to the safeguards actually used.
+8. The concept should be applied precisely rather than as a generic label for “good research.”
 
-1. Transparency means documenting how data support conclusions.
-2. Transparency does not require unrestricted public release.
-3. Data processing and exclusions should be documented.
-4. Privacy and consent constrain sharing.
-5. Clear documentation supports reproducibility.
 
 ---
 
@@ -5129,43 +4719,9 @@ Data sharing concerns making research data available to other authorized researc
 Data sharing is the provision of research data to other researchers or authorized users under conditions that permit appropriate verification, reuse, or secondary analysis.
 
 ## 3. Core Understanding
-
-### Benefits
-
-Sharing can support independent verification, replication, secondary research, methodological development, and cumulative science.
-
-### Constraints
-
-Human participant data may require consent limitations, de-identification, controlled access, data-use agreements, or restrictions because re-identification can remain possible even after identifiers are removed.
-
-### Data quality
-
-Shared data require documentation, codebooks, metadata, and information about preprocessing to be useful.
-
-### Responsible sharing
-
-Not every dataset should be public. Ethical data governance can require restricted access rather than open release.
-
-### Evidence status
-
-Data sharing is an open-science practice whose value depends on responsible implementation.
+Data sharing is making research data available to other authorized researchers under conditions appropriate to consent, privacy, security, and law. Shared data can support reanalysis, error detection, replication, synthesis, and new questions. Sharing is not always unrestricted: de-identification may be insufficient for sensitive datasets, and participant consent can constrain secondary use.
 
 
-### Forms of sharing
-
-Data sharing can involve public release, controlled-access repositories, data-use agreements, secure environments, or sharing with qualified collaborators. The appropriate form depends on sensitivity, consent, legal requirements, and scientific value.
-
-### Privacy and confidentiality
-
-Participant-level data may contain direct or indirect identifiers. Removing names does not guarantee anonymity when combinations of variables can re-identify individuals. Sharing plans therefore require risk assessment and appropriate safeguards.
-
-### Scientific value
-
-Shared data can support replication, secondary analyses, methodological development, and cumulative research. Documentation, metadata, codebooks, and provenance are necessary for reuse; a dataset without sufficient context may be difficult to interpret correctly.
-
-### Boundaries
-
-Open data are not an absolute scientific requirement. Ethical and legal restrictions can appropriately limit access. The goal is responsible accessibility, not disclosure regardless of risk.
 ## 4. Relationship to This Chapter
 
 Data sharing connects open science and transparency with privacy, confidentiality, informed consent, and reproducibility.
@@ -5181,12 +4737,15 @@ The practice of providing research data to authorized users for verification or 
 Data transparency, privacy, confidentiality, consent, and data analysis.
 
 ## 6. Key Principles
+1. Data sharing has a specific scientific or ethical function.
+2. Transparency and rigor must be matched to the relevant research context.
+3. Methodological safeguards reduce particular risks but do not guarantee perfect evidence.
+4. Ethical decisions depend on foreseeable consequences, context, and alternatives.
+5. Participant protection and scientific validity are interconnected but distinct.
+6. Openness must be balanced with privacy, consent, security, and other legitimate constraints where applicable.
+7. Claims about research quality should remain proportional to the safeguards actually used.
+8. The concept should be applied precisely rather than as a generic label for “good research.”
 
-1. Sharing can improve verification and reuse.
-2. Ethical and legal restrictions may limit access.
-3. Data need adequate documentation to be reusable.
-4. De-identification does not always eliminate re-identification risk.
-5. Responsible sharing balances scientific value and participant protection.
 
 ---
 
@@ -5201,47 +4760,9 @@ Peer review is a formal mechanism through which research is evaluated by knowled
 Peer review is the evaluation of research by qualified peers or experts according to procedures intended to assess its methodological quality, significance, clarity, or suitability for a scientific venue.
 
 ## 3. Core Understanding
-
-### Functions
-
-Review can identify conceptual problems, methodological weaknesses, unclear reporting, statistical issues, missing literature, and unsupported conclusions.
-
-### Models
-
-Peer review can be single-blind, double-blind, open, post-publication, or organized in other ways. Each model has potential strengths and limitations.
-
-### Limitations
-
-Reviewers can make errors, disagree, miss problems, be influenced by biases, or evaluate work under differing standards.
-
-### Publication is not proof
-
-A peer-reviewed article remains a scientific claim subject to replication, criticism, and new evidence.
-
-### Registered reports
-
-Peer review can occur before data collection in registered reports, shifting some evaluation toward research questions and methods rather than results.
-
-### Evidence status
-
-Peer review is an established scientific communication process. Its effectiveness varies with implementation and field.
+Peer review is the evaluation of research by people with relevant expertise before or after publication, depending on the model. Review can identify conceptual, methodological, statistical, ethical, and reporting problems and can improve manuscripts. Peer review is a quality-control process, not proof that a published claim is correct; reviewers can miss errors, disagree, or be influenced by limitations of the process.
 
 
-### Functions of peer review
-
-Peer review is a process in which research is evaluated by people with relevant expertise before or after dissemination, depending on the review system. Review can identify methodological problems, unclear reasoning, unsupported claims, missing literature, and presentation issues.
-
-### Forms
-
-Review may be single-blind, double-blind, open, editorial, post-publication, or involve other models. Each changes what reviewers and authors know and therefore changes some potential biases and accountability mechanisms.
-
-### Limits
-
-Peer review is quality control, not proof that a paper is correct. Reviewers can miss errors, disagree legitimately, be influenced by preferences, or lack expertise in a specific method. Replication and cumulative evidence remain important.
-
-### Evidence status
-
-Peer review can improve manuscripts and filter some problems, but publication after peer review should not be treated as a guarantee of truth or causal validity.
 ## 4. Relationship to This Chapter
 
 Peer review connects research quality, scientific consensus, publication, registered reports, and open science.
@@ -5257,12 +4778,15 @@ The scientific evaluation process in which research is critically assessed by pe
 Publication bias, research quality itself, replication, and substantive evidence.
 
 ## 6. Key Principles
+1. Peer review has a specific scientific or ethical function.
+2. Transparency and rigor must be matched to the relevant research context.
+3. Methodological safeguards reduce particular risks but do not guarantee perfect evidence.
+4. Ethical decisions depend on foreseeable consequences, context, and alternatives.
+5. Participant protection and scientific validity are interconnected but distinct.
+6. Openness must be balanced with privacy, consent, security, and other legitimate constraints where applicable.
+7. Claims about research quality should remain proportional to the safeguards actually used.
+8. The concept should be applied precisely rather than as a generic label for “good research.”
 
-1. Peer review provides critical scrutiny.
-2. Peer review is not proof of correctness.
-3. Review systems have strengths and limitations.
-4. Published research remains open to later correction.
-5. Independent replication and cumulative evidence remain important.
 
 ---
 
@@ -5277,45 +4801,9 @@ Researcher bias describes systematic influence of researchers' expectations, pre
 Researcher bias is systematic distortion introduced by researchers' expectations, judgments, preferences, behavior, analytic choices, or reporting decisions at any stage of research.
 
 ## 3. Core Understanding
-
-Bias can enter through question wording, participant interaction, observation, coding, exclusion decisions, statistical analysis, interpretation, or reporting.
-
-### Expectancy effects
-
-Researchers may unintentionally communicate expectations to participants or coders. Blinding can reduce some expectancy effects.
-
-### Interpretive bias
-
-Qualitative and interpretive research requires researcher judgment. Reflexivity and transparent analytic procedures can make that influence visible rather than pretending it does not exist.
-
-### Analytic bias
-
-Flexible analytic choices can favor particular conclusions. Preregistration and transparent reporting can reduce hidden flexibility.
-
-### Publication and reporting
-
-Researchers may be more likely to emphasize novel, positive, or theoretically supportive findings. This can interact with publication and citation bias.
-
-### Evidence status
-
-Researcher bias is a recognized methodological concern. Not every researcher judgment creates bias; the issue is systematic distortion of inference.
+Researcher bias refers to systematic influence of researchers' expectations, preferences, identities, incentives, or assumptions on study design, measurement, analysis, interpretation, or reporting. Bias need not be deliberate. Blinding, preregistration, standardized procedures, independent coding, transparent analysis, and disclosure of relevant decisions can reduce some forms, although no method eliminates all judgment.
 
 
-### Entry points for bias
-
-Researcher bias can enter through question selection, theory choice, recruitment, measurement, coding, exclusions, analysis, interpretation, literature review, and reporting. It can operate without deliberate misconduct.
-
-### Reflexivity
-
-Researchers can reduce hidden influence by documenting assumptions, using standardized procedures, blinding where feasible, preregistering decisions, involving multiple analysts, and explicitly considering alternative interpretations. In qualitative research, reflexivity can be part of methodological rigor rather than an attempt to pretend the researcher has no perspective.
-
-### Distinction from error
-
-A researcher preference becomes methodologically important when it systematically affects the evidence or its interpretation. Not every judgment or theoretical commitment is bias.
-
-### Evidence status
-
-Researcher influence is a recognized methodological concern. Its magnitude and direction depend on the specific research process and safeguards.
 ## 4. Relationship to This Chapter
 
 Researcher bias integrates the open-science topics with peer review, p-hacking, selective reporting, qualitative reflexivity, and evidence quality.
@@ -5331,12 +4819,15 @@ Systematic influence of researcher expectations or decisions on evidence generat
 Specific cognitive biases, p-hacking, publication bias, and research misconduct.
 
 ## 6. Key Principles
+1. Researcher bias has a specific scientific or ethical function.
+2. Transparency and rigor must be matched to the relevant research context.
+3. Methodological safeguards reduce particular risks but do not guarantee perfect evidence.
+4. Ethical decisions depend on foreseeable consequences, context, and alternatives.
+5. Participant protection and scientific validity are interconnected but distinct.
+6. Openness must be balanced with privacy, consent, security, and other legitimate constraints where applicable.
+7. Claims about research quality should remain proportional to the safeguards actually used.
+8. The concept should be applied precisely rather than as a generic label for “good research.”
 
-1. Researcher influence can enter many stages of research.
-2. Bias can be intentional or unintentional.
-3. Blinding, preregistration, transparency, and replication can reduce some forms.
-4. Scientific rigor does not require pretending researchers have no perspective.
-5. Bias should be assessed by its effect on inference.
 
 ---
 
@@ -5351,51 +4842,9 @@ Informed consent protects research participants' autonomy by requiring meaningfu
 Informed consent is a process through which a competent participant receives sufficient relevant information about research participation, has an opportunity to understand and ask questions, and voluntarily agrees to participate without inappropriate coercion or undue influence.
 
 ## 3. Core Understanding
-
-### Information
-
-Consent commonly includes information about procedures, purposes, foreseeable risks and benefits, confidentiality, voluntary participation, and relevant alternatives or withdrawal rights as appropriate.
-
-### Understanding
-
-Providing information is not enough if participants cannot reasonably understand it. Consent procedures should be appropriate to participants' language, literacy, capacity, and circumstances.
-
-### Voluntariness
-
-Agreement should not be produced through coercion or inappropriate pressure. Excessive incentives can also raise concerns about undue influence depending on context.
-
-### Ongoing process
-
-Consent can be an ongoing process, especially in longitudinal or changing research. Important new information may require renewed consent.
-
-### Exceptions
-
-Some research contexts have ethically or legally defined exceptions or altered consent requirements. These require appropriate oversight and justification.
-
-### Evidence status
-
-Informed consent is a core research-ethics principle, with exact requirements governed by applicable ethical and regulatory frameworks.
+Informed consent is an ethical process through which prospective participants receive understandable information about relevant aspects of research and voluntarily agree to participate. It includes information about procedures, risks, benefits, alternatives where applicable, confidentiality, and the right to decline or withdraw within the study's constraints. Consent is not merely a signature; comprehension and voluntariness matter.
 
 
-### Elements of meaningful consent
-
-Informed consent normally requires relevant information, reasonable comprehension, voluntary choice, and an opportunity to ask questions. Depending on the study, information can include purpose, procedures, risks, benefits, confidentiality, compensation, withdrawal, and contact information.
-
-### Capacity and communication
-
-Consent procedures should account for decision-making capacity, language, literacy, developmental level, and context. Providing a form is not equivalent to establishing understanding.
-
-### Ongoing process
-
-Consent may need to be revisited when procedures, risks, data uses, or study circumstances materially change. Participants may also retain withdrawal rights subject to the study's ethical and regulatory framework.
-
-### Undue influence
-
-Compensation and authority relationships require careful consideration. Incentives can compensate time and burden without necessarily invalidating consent, but excessive pressure or dependency can compromise voluntariness.
-
-### Exceptions
-
-Some research designs permit altered or waived consent under defined ethical and regulatory conditions. Such exceptions require appropriate justification and oversight.
 ## 4. Relationship to This Chapter
 
 Informed consent begins the participant-protection ethics block and connects to confidentiality, privacy, deception, risk–benefit assessment, and vulnerable populations.
@@ -5411,12 +4860,15 @@ The ethical process of obtaining voluntary, adequately informed agreement to res
 Privacy, confidentiality, risk assessment, deception, and legal or institutional requirements.
 
 ## 6. Key Principles
+1. Informed consent has a specific scientific or ethical function.
+2. Transparency and rigor must be matched to the relevant research context.
+3. Methodological safeguards reduce particular risks but do not guarantee perfect evidence.
+4. Ethical decisions depend on foreseeable consequences, context, and alternatives.
+5. Participant protection and scientific validity are interconnected but distinct.
+6. Openness must be balanced with privacy, consent, security, and other legitimate constraints where applicable.
+7. Claims about research quality should remain proportional to the safeguards actually used.
+8. The concept should be applied precisely rather than as a generic label for “good research.”
 
-1. Consent protects participant autonomy.
-2. Information must be understandable and relevant.
-3. Participation should be voluntary.
-4. Consent can require ongoing communication.
-5. Exceptions require appropriate ethical justification and oversight.
 
 ---
 
@@ -5431,43 +4883,9 @@ Confidentiality concerns the researcher's responsibility to protect information 
 Confidentiality is the ethical and procedural obligation to limit access to participant information and use or disclose it according to stated commitments, permissions, and applicable requirements.
 
 ## 3. Core Understanding
-
-### Confidentiality versus anonymity
-
-Confidentiality means identities or information may be known to authorized researchers but are protected from unauthorized disclosure. Anonymity means identity is not collected or cannot reasonably be linked to the data under the relevant system.
-
-### Data handling
-
-Confidentiality requires secure storage, access controls, appropriate retention, careful reporting, and procedures for transferring or sharing data.
-
-### Limits
-
-Researchers should not promise absolute confidentiality when legal reporting requirements, safety obligations, institutional rules, or technological limitations create exceptions.
-
-### Indirect identification
-
-Even without names, combinations of demographic or contextual details can identify participants, especially in small or unusual populations.
-
-### Evidence status
-
-Confidentiality is an established research-ethics principle whose specific requirements depend on jurisdiction, study, and institutional framework.
+Confidentiality is the obligation to protect information provided or collected in research from unauthorized disclosure and to follow the promises and procedures governing its handling. It differs from anonymity: confidential data may be linked to identities but access is restricted, whereas anonymous data are not linked to an identifiable person under the relevant procedures. Confidentiality requires technical, organizational, and procedural safeguards.
 
 
-### Protection after collection
-
-Confidentiality concerns how information entrusted to researchers is protected after it has been obtained. Measures can include access controls, secure storage, encryption, coded identifiers, restricted reporting, retention limits, and controlled sharing.
-
-### Confidentiality versus anonymity
-
-Anonymity means identity is not collected or cannot reasonably be linked to the data under the relevant system. Confidentiality means identity or information may be known to authorized parties but is protected from unauthorized disclosure.
-
-### Re-identification risk
-
-Small samples, unusual combinations of characteristics, longitudinal records, photographs, genetic information, or linked datasets can permit identification even after direct identifiers are removed.
-
-### Honest commitments
-
-Researchers should not promise absolute confidentiality when law, safety obligations, institutional rules, or technical limits create exceptions. Participants need an accurate description of meaningful limits.
 ## 4. Relationship to This Chapter
 
 Confidentiality connects informed consent and data sharing with privacy and responsible research-data management.
@@ -5483,12 +4901,15 @@ The protection of information entrusted to researchers from unauthorized disclos
 Privacy, anonymity, informed consent, data sharing, and legal requirements.
 
 ## 6. Key Principles
+1. Confidentiality has a specific scientific or ethical function.
+2. Transparency and rigor must be matched to the relevant research context.
+3. Methodological safeguards reduce particular risks but do not guarantee perfect evidence.
+4. Ethical decisions depend on foreseeable consequences, context, and alternatives.
+5. Participant protection and scientific validity are interconnected but distinct.
+6. Openness must be balanced with privacy, consent, security, and other legitimate constraints where applicable.
+7. Claims about research quality should remain proportional to the safeguards actually used.
+8. The concept should be applied precisely rather than as a generic label for “good research.”
 
-1. Confidentiality protects participant information.
-2. Confidentiality differs from anonymity.
-3. Indirect identification remains possible.
-4. Researchers should state meaningful limits to confidentiality.
-5. Secure data handling is part of confidentiality protection.
 
 ---
 
@@ -5503,47 +4924,9 @@ Privacy protects a person's control over access to personal information, activit
 Privacy in research is the ethical protection of individuals' reasonable control over whether, how, and under what conditions personal information, behavior, communications, or private spaces are observed or accessed.
 
 ## 3. Core Understanding
-
-### Privacy and confidentiality
-
-Privacy concerns the conditions under which information or behavior is accessed. Confidentiality concerns how information obtained by researchers is protected afterward.
-
-### Context
-
-What is reasonably private depends on context, expectations, setting, culture, technology, and the nature of the information.
-
-### Digital research
-
-Online behavior can involve complex expectations about privacy. Public availability does not automatically mean unrestricted ethical use for every research purpose.
-
-### Data minimization
-
-Collecting only information necessary for the research can reduce privacy risk.
-
-### Consent and transparency
-
-Participants should be informed about relevant data collection and uses when consent or notification is required.
-
-### Evidence status
-
-Privacy is a core ethical and legal concern. Specific standards vary across jurisdictions and research contexts.
+Privacy concerns a person's control, expectation, or legitimate interest regarding access to information about themselves, their body, behavior, communications, or personal space. Research can affect privacy through recruitment, observation, data collection, linkage, or secondary use. Privacy is distinct from confidentiality because a study can collect information in a way that violates privacy even if the resulting data are later securely stored.
 
 
-### Access versus subsequent protection
-
-Privacy concerns whether, when, and under what conditions a person's information, behavior, communications, or private space is accessed. Confidentiality concerns protection of information after researchers obtain it. Strong confidentiality does not repair an unjustified invasion of privacy.
-
-### Contextual expectations
-
-Privacy expectations depend on setting, relationship, technology, culture, sensitivity, and reasonable expectations. Information being technically accessible does not automatically make every research use ethically equivalent.
-
-### Digital research
-
-Online environments can blur public and private boundaries. Researchers should consider platform context, user expectations, identifiability, data linkage, and the sensitivity of observed behavior.
-
-### Data minimization
-
-Collecting only information necessary for the research can reduce privacy risk. Retention, linkage, and sharing should also be limited to legitimate purposes.
 ## 4. Relationship to This Chapter
 
 Privacy complements confidentiality and connects to informed consent, data sharing, data transparency, and research ethics.
@@ -5559,12 +4942,15 @@ The ethical concept of individual control and reasonable expectations concerning
 Confidentiality, consent, legal privacy requirements, and data security.
 
 ## 6. Key Principles
+1. Privacy has a specific scientific or ethical function.
+2. Transparency and rigor must be matched to the relevant research context.
+3. Methodological safeguards reduce particular risks but do not guarantee perfect evidence.
+4. Ethical decisions depend on foreseeable consequences, context, and alternatives.
+5. Participant protection and scientific validity are interconnected but distinct.
+6. Openness must be balanced with privacy, consent, security, and other legitimate constraints where applicable.
+7. Claims about research quality should remain proportional to the safeguards actually used.
+8. The concept should be applied precisely rather than as a generic label for “good research.”
 
-1. Privacy concerns access to personal information or activity.
-2. Privacy and confidentiality are different protections.
-3. Context determines reasonable privacy expectations.
-4. Public availability does not automatically eliminate ethical privacy concerns.
-5. Data minimization can reduce privacy risk.
 
 ---
 
@@ -5579,47 +4965,9 @@ Deception concerns intentionally withholding or misrepresenting relevant informa
 Research deception is the deliberate provision of false or incomplete information to participants about relevant aspects of a study in order to achieve a research objective.
 
 ## 3. Core Understanding
-
-### Methodological rationale
-
-Deception may be considered when knowledge of the true purpose or condition would substantially alter behavior and the research question cannot reasonably be answered otherwise.
-
-### Ethical requirements
-
-Ethical use generally requires strong scientific justification, minimization of harm, appropriate oversight, and debriefing when applicable.
-
-### Limits
-
-Deception should not be treated as a routine convenience. The deception should be proportionate to the scientific value and participant risk.
-
-### Consent tension
-
-Deception limits what participants can know before participation. Ethical frameworks therefore require specific safeguards and justification.
-
-### Evidence status
-
-Research deception is an established ethical issue governed by research-ethics standards and institutional oversight.
+Deception in research occurs when participants are intentionally given incomplete, misleading, or false information about relevant aspects of a study. It can sometimes be scientifically justified when disclosure would invalidate the question and when risks are minimized, no adequate nondeceptive alternative exists, and appropriate ethical oversight is present. Deception can affect trust and must therefore be carefully constrained.
 
 
-### When deception may be considered
-
-Research deception can be considered only when withholding or misrepresenting information is scientifically necessary or materially useful to the research question and adequate alternatives are unavailable or substantially inferior. Convenience alone is not a sufficient ethical rationale.
-
-### Proportionality
-
-The scientific value should be weighed against foreseeable physical, psychological, social, informational, and autonomy-related harms. Deception should be limited to what is necessary and should not expose participants to avoidable serious harm.
-
-### Consent tension
-
-Deception creates an unavoidable tension with fully informed consent because participants cannot be told everything relevant in advance. Ethical oversight therefore becomes especially important.
-
-### Debriefing
-
-Where appropriate, participants should be informed afterward about the deception, its purpose, and relevant concerns. Debriefing does not automatically eliminate harm or make an unjustified deception ethical.
-
-### Evidence status
-
-Deception is an established research-ethics issue governed by applicable standards and oversight rather than a general-purpose research technique.
 ## 4. Relationship to This Chapter
 
 Deception connects directly to informed consent, debriefing, risk–benefit assessment, and privacy.
@@ -5635,12 +4983,15 @@ The ethical and methodological concept of intentionally misleading or withholdin
 Consent, debriefing, risk assessment, and specific regulatory standards.
 
 ## 6. Key Principles
+1. Deception has a specific scientific or ethical function.
+2. Transparency and rigor must be matched to the relevant research context.
+3. Methodological safeguards reduce particular risks but do not guarantee perfect evidence.
+4. Ethical decisions depend on foreseeable consequences, context, and alternatives.
+5. Participant protection and scientific validity are interconnected but distinct.
+6. Openness must be balanced with privacy, consent, security, and other legitimate constraints where applicable.
+7. Claims about research quality should remain proportional to the safeguards actually used.
+8. The concept should be applied precisely rather than as a generic label for “good research.”
 
-1. Deception intentionally limits or alters participant information.
-2. It requires strong methodological justification and ethical oversight.
-3. Harm and burden should be minimized.
-4. Deception should not be used merely for convenience.
-5. Debriefing is often an important safeguard.
 
 ---
 
@@ -5655,43 +5006,9 @@ Debriefing provides participants with appropriate information after research par
 Debriefing is the process of providing participants with relevant information about the research after participation, including clarification of procedures, purposes, deception when used, and appropriate support or contact information.
 
 ## 3. Core Understanding
-
-### Purpose
-
-Debriefing can explain why information was withheld, clarify the true research purpose, correct misunderstandings, and address participant concerns.
-
-### Timing
-
-It should occur as soon as ethically and methodologically appropriate, while considering whether immediate disclosure could affect ongoing research.
-
-### Deception
-
-When deception is used, participants should ordinarily be informed about the deception and its rationale when the applicable ethical framework requires it.
-
-### Distress
-
-Some studies may produce emotional discomfort or concern. Debriefing can provide appropriate support information but is not a substitute for preventing avoidable harm.
-
-### Evidence status
-
-Debriefing is an established research-ethics practice, particularly relevant to deception.
+Debriefing is the process of informing participants after research about relevant aspects of the study that could not appropriately be disclosed beforehand, particularly when deception or concealment was used. It can clarify the purpose, procedures, risks, and reasons for nondisclosure and provide opportunities for questions or support. Debriefing does not automatically erase harms created by poor study design.
 
 
-### Functions of debriefing
-
-Debriefing can explain the study's true purpose, reveal withheld or misleading information, correct misunderstandings, answer questions, and provide appropriate support information. It is particularly relevant when deception or incomplete disclosure was necessary.
-
-### Timing
-
-Immediate disclosure is not always possible if it would compromise an ongoing study, but delay should have a legitimate methodological reason and remain within the approved ethical framework.
-
-### Participant welfare
-
-Debriefing should address foreseeable concerns and distress. It is not a substitute for minimizing risk before and during participation.
-
-### Scientific integrity
-
-A good debriefing preserves the distinction between what participants were initially told and what was actually done. It should not manipulate participants into believing that an ethically problematic procedure was harmless simply because the study is complete.
 ## 4. Relationship to This Chapter
 
 Debriefing follows deception and connects to informed consent and risk–benefit assessment.
@@ -5707,12 +5024,15 @@ The ethical process of informing participants after research participation.
 Deception, consent, risk assessment, and participant support.
 
 ## 6. Key Principles
+1. Debriefing has a specific scientific or ethical function.
+2. Transparency and rigor must be matched to the relevant research context.
+3. Methodological safeguards reduce particular risks but do not guarantee perfect evidence.
+4. Ethical decisions depend on foreseeable consequences, context, and alternatives.
+5. Participant protection and scientific validity are interconnected but distinct.
+6. Openness must be balanced with privacy, consent, security, and other legitimate constraints where applicable.
+7. Claims about research quality should remain proportional to the safeguards actually used.
+8. The concept should be applied precisely rather than as a generic label for “good research.”
 
-1. Debriefing restores relevant information after participation.
-2. It is especially important when deception or incomplete disclosure was used.
-3. Timing must consider both participant welfare and research integrity.
-4. Debriefing does not erase avoidable harm.
-5. Procedures should follow the applicable ethical framework.
 
 ---
 
@@ -5727,51 +5047,9 @@ Risk–benefit assessment evaluates whether the potential scientific and social 
 Risk–benefit assessment is the systematic ethical evaluation of reasonably foreseeable harms, burdens, and benefits associated with a research study and the justification for conducting the study under appropriate safeguards.
 
 ## 3. Core Understanding
-
-### Risks
-
-Risks can be physical, psychological, social, economic, legal, informational, reputational, or privacy-related.
-
-### Benefits
-
-Potential benefits may include direct participant benefit, scientific knowledge, improved practice, or broader social value. Researchers should not exaggerate uncertain benefits.
-
-### Probability and severity
-
-Ethical assessment considers both likelihood and magnitude of possible harms. Rare severe harms may require different safeguards from frequent minor burdens.
-
-### Minimization
-
-Researchers should reduce unnecessary risk through design changes, safety procedures, privacy protection, monitoring, and appropriate participant selection.
-
-### Uncertainty
-
-Risk assessment is conducted under uncertainty. Researchers should consider plausible adverse outcomes rather than only expected benefits.
-
-### Evidence status
-
-Risk–benefit assessment is an ethical decision framework rather than a statistical proof of acceptable research.
+Risk–benefit assessment is the ethical evaluation of foreseeable burdens, harms, discomforts, privacy risks, and other adverse consequences against the potential scientific, social, or participant benefits of research. It requires attention to probability, severity, reversibility, alternatives, mitigation, and distribution of risk. Scientific value does not automatically justify any level of participant risk.
 
 
-### Risk domains
-
-Research risk can be physical, psychological, social, economic, legal, informational, reputational, or privacy-related. Risks can affect participants directly or arise through disclosure, group consequences, or downstream use of data.
-
-### Probability and magnitude
-
-Assessment should consider both how likely a harm is and how serious it would be if it occurred. Rare but severe risks may warrant stronger safeguards than frequent minor inconveniences.
-
-### Benefits
-
-Potential benefits can be direct to participants, indirect through improved services, or broader scientific and social benefits. Uncertain benefits should not be represented as guaranteed outcomes.
-
-### Minimization
-
-Researchers should modify procedures, eligibility, monitoring, privacy protections, compensation, or other elements when changes can reduce risk without undermining the scientific question.
-
-### Uncertainty
-
-Risk assessment is necessarily prospective and uncertain. Ethical review should consider plausible adverse outcomes rather than only the most likely scenario.
 ## 4. Relationship to This Chapter
 
 Risk–benefit assessment integrates consent, deception, privacy, confidentiality, vulnerable populations, and research ethics.
@@ -5787,12 +5065,15 @@ The ethical evaluation and balancing of research risks, burdens, safeguards, and
 Specific risks, consent procedures, privacy protections, and institutional or regulatory decisions.
 
 ## 6. Key Principles
+1. Risk–benefit assessment has a specific scientific or ethical function.
+2. Transparency and rigor must be matched to the relevant research context.
+3. Methodological safeguards reduce particular risks but do not guarantee perfect evidence.
+4. Ethical decisions depend on foreseeable consequences, context, and alternatives.
+5. Participant protection and scientific validity are interconnected but distinct.
+6. Openness must be balanced with privacy, consent, security, and other legitimate constraints where applicable.
+7. Claims about research quality should remain proportional to the safeguards actually used.
+8. The concept should be applied precisely rather than as a generic label for “good research.”
 
-1. Research risks should be identified and minimized.
-2. Potential benefits should not be exaggerated.
-3. Severity and probability both matter.
-4. Ethical review considers uncertainty.
-5. Scientific value does not justify unlimited participant risk.
 
 ---
 
@@ -5809,43 +5090,9 @@ Vulnerable populations are groups or individuals whose circumstances may increas
 Vulnerability is context-dependent and should not be treated as a permanent characteristic of an entire group.
 
 ## 3. Core Understanding
-
-### Sources of vulnerability
-
-Vulnerability can arise from limited decision-making capacity, dependence on authorities, institutionalization, severe illness, economic disadvantage, language barriers, legal status, social marginalization, age, or other circumstances.
-
-### Avoiding overgeneralization
-
-A group label does not automatically mean every member has the same vulnerability. Researchers should identify the specific risk and safeguard needed.
-
-### Inclusion versus protection
-
-Protective measures should not unnecessarily exclude people from research that could benefit them or generate knowledge relevant to their needs. Ethical research balances inclusion with appropriate protection.
-
-### Consent
-
-When decision-making capacity is limited, additional consent or assent procedures may be required under the applicable ethical framework.
-
-### Evidence status
-
-Vulnerability is an established research-ethics concept, but exact categories and requirements vary across contexts and regulations.
+Vulnerable populations are groups or individuals who may have increased risk of coercion, undue influence, exploitation, impaired consent capacity, dependence on researchers or institutions, or disproportionate research burden. Vulnerability is contextual rather than a permanent label attached to an identity group. Ethical safeguards should address the specific source of vulnerability without unnecessarily excluding people from research.
 
 
-### Sources of vulnerability
-
-Vulnerability can arise from impaired or developing decision-making capacity, dependency on authorities, institutionalization, severe illness, economic disadvantage, language barriers, legal circumstances, social marginalization, or other conditions that increase susceptibility to harm or undue influence.
-
-### Context rather than labels
-
-A population should not be treated as uniformly vulnerable merely because it carries a category label. The relevant question is what specific circumstance creates increased risk or reduced autonomy in the particular study.
-
-### Protection and inclusion
-
-Additional safeguards may include adapted consent procedures, independent advocates, limits on risk, additional monitoring, or carefully justified recruitment criteria. Protection should not become automatic exclusion from research that could benefit or represent the population.
-
-### Evidence status
-
-Vulnerability is a well-established ethical concept, but specific categories, protections, and legal requirements vary across jurisdictions and research contexts.
 ## 4. Relationship to This Chapter
 
 Vulnerable populations connect informed consent, risk–benefit assessment, privacy, confidentiality, and equitable research participation.
@@ -5861,12 +5108,15 @@ The ethical concept of increased susceptibility to research-related harm, coerci
 Consent procedures, risk assessment, legal definitions, and substantive characteristics of particular populations.
 
 ## 6. Key Principles
+1. Vulnerable populations has a specific scientific or ethical function.
+2. Transparency and rigor must be matched to the relevant research context.
+3. Methodological safeguards reduce particular risks but do not guarantee perfect evidence.
+4. Ethical decisions depend on foreseeable consequences, context, and alternatives.
+5. Participant protection and scientific validity are interconnected but distinct.
+6. Openness must be balanced with privacy, consent, security, and other legitimate constraints where applicable.
+7. Claims about research quality should remain proportional to the safeguards actually used.
+8. The concept should be applied precisely rather than as a generic label for “good research.”
 
-1. Vulnerability is context-dependent.
-2. Additional safeguards may be required.
-3. Protection should not automatically mean exclusion.
-4. Specific risks should be identified rather than assumed from labels.
-5. Ethical requirements depend on the population and research context.
 
 ---
 
@@ -5881,55 +5131,9 @@ Animal research ethics concerns the moral and scientific responsibilities involv
 Animal research ethics is the ethical framework governing the justification, design, conduct, care, and oversight of research involving nonhuman animals.
 
 ## 3. Core Understanding
-
-### Scientific justification
-
-Animal research should have a defensible scientific purpose and should not be conducted merely because an animal model is convenient.
-
-### Replacement
-
-Where scientifically appropriate, researchers should consider whether non-animal methods can answer the research question.
-
-### Reduction
-
-Researchers should use designs that obtain the needed information with as few animals as scientifically justified, without compromising the study's validity.
-
-### Refinement
-
-Procedures should be designed to minimize pain, distress, fear, and unnecessary suffering and to improve housing, handling, anesthesia, analgesia, and care where relevant.
-
-### Species and model choice
-
-The selected species should be scientifically appropriate to the question, and researchers should consider whether the model adequately represents the biological or behavioral process being studied.
-
-### Oversight
-
-Animal research is generally subject to institutional, professional, and legal oversight appropriate to the jurisdiction.
-
-### Evidence status
-
-Animal research ethics is a normative and scientific governance domain. Specific requirements differ across jurisdictions and institutions.
+Animal research ethics concerns the moral and scientific responsibilities involved in using nonhuman animals in research. Ethical evaluation includes scientific necessity, alternatives, reduction of animal numbers, refinement of procedures to minimize pain or distress, appropriate housing and care, humane endpoints, and qualified oversight. Scientific importance does not eliminate obligations to minimize avoidable harm and justify animal use.
 
 
-### Scientific necessity
-
-Animal research should have a defensible scientific purpose and should use an animal model only when the model is appropriate to the research question and justified under the applicable ethical framework.
-
-### Replacement, reduction, refinement
-
-Replacement asks whether a scientifically adequate non-animal method can answer the question. Reduction seeks to obtain the required information with no more animals than scientifically justified. Refinement seeks to minimize pain, distress, fear, and unnecessary suffering through study design, handling, anesthesia, analgesia, housing, and care where relevant.
-
-### Model validity
-
-Ethical justification also depends on whether the chosen species and model can answer the question. Scientifically weak animal research can impose animal costs without producing reliable knowledge.
-
-### Oversight
-
-Animal research is generally subject to institutional and legal oversight, with requirements varying by jurisdiction and species. Ethical review should consider necessity, welfare, humane endpoints, and appropriate expertise.
-
-### Evidence status
-
-Animal research ethics is a normative and governance domain informed by scientific necessity and welfare evidence. Ethical standards and regulatory requirements are context-dependent.
 ## 4. Relationship to This Chapter
 
 Animal research ethics completes the ethics section by addressing research subjects beyond human participants and complements the broader principles of scientific necessity, harm minimization, and responsible conduct.
@@ -5945,13 +5149,15 @@ The ethical principles and governance of research involving nonhuman animals.
 Specific animal models, experimental procedures, legal requirements, and substantive psychological findings.
 
 ## 6. Key Principles
+1. Animal research ethics has a specific scientific or ethical function.
+2. Transparency and rigor must be matched to the relevant research context.
+3. Methodological safeguards reduce particular risks but do not guarantee perfect evidence.
+4. Ethical decisions depend on foreseeable consequences, context, and alternatives.
+5. Participant protection and scientific validity are interconnected but distinct.
+6. Openness must be balanced with privacy, consent, security, and other legitimate constraints where applicable.
+7. Claims about research quality should remain proportional to the safeguards actually used.
+8. The concept should be applied precisely rather than as a generic label for “good research.”
 
-1. Animal research requires scientific and ethical justification.
-2. Replacement should be considered when scientifically appropriate.
-3. Reduction seeks to minimize animal use without undermining valid research.
-4. Refinement seeks to minimize pain and distress.
-5. Species choice and welfare are part of ethical scientific design.
-6. Oversight requirements depend on applicable standards and jurisdiction.
 
 ---
 
@@ -5962,5 +5168,6 @@ Specific animal models, experimental procedures, legal requirements, and substan
 **Status:** FINAL VALIDATION PASSED — READY FOR LOCK/SEAL REVIEW
 
 The duplicate Knowledge Object defects in 1.2.52 and 1.2.82 have been resolved. Ownership boundaries, six-section structure, scientific integrity, and retrieval architecture have been revalidated.
+
 
 
