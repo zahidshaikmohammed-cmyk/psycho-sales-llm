@@ -46,7 +46,7 @@ jobs:
           fi
           for path in "${chapters[@]}"; do
             echo "Validating $path"
-            python3 quality/validate_canonical_chapter.py --chapter "$path" --architecture "system_1/SYSTEM_1_SURGICAL_CANONICAL_ARCHITECTURE_v2.md"
+            python3 quality/validate_canonical_chapter.py --chapter "$path" --architecture "system_1/SYSTEM_1_SURGICAL_CANONICAL_ARCHITECTURE_v2.md" --validation "${path%.md}_FINAL_VALIDATION.md"
           done
           for path in "${validations[@]}"; do
             chapter="${path%_FINAL_VALIDATION.md}.md"
@@ -55,5 +55,5 @@ jobs:
               exit 1
             fi
             echo "Validation record changed; enforcing v2 seal contract for $chapter"
-            python3 quality/validate_canonical_chapter.py --chapter "$chapter" --architecture "system_1/SYSTEM_1_SURGICAL_CANONICAL_ARCHITECTURE_v2.md"
+            python3 quality/validate_canonical_chapter.py --chapter "$chapter" --architecture "system_1/SYSTEM_1_SURGICAL_CANONICAL_ARCHITECTURE_v2.md" --validation "$path"
           done
