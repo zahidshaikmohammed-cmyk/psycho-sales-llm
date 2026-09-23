@@ -40,10 +40,9 @@ Primary control:
 ### Phase 3 — Remediate Chapter 1.4 — COMPLETE — LOCKED
 
 Phase 4 — Remediate Chapter 1.5 — COMPLETE — LOCKED
-### Phase 4 — Remediate Chapter 1.5
-**State:** PENDING
+**State:** COMPLETE — LOCKED
 
-Apply the same semantic remediation standard while preserving the exact 44-topic ontology.
+V2 semantic remediation completed across all 44 Topics while preserving the exact 44-topic ontology. Final validation record contains executable V2 attestation with all gates PASS and P0/P1/P2/P3 = 0.
 
 ### Phase 5 — Remediate Chapter 1.7
 **State:** PENDING
