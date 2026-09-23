@@ -1,8 +1,7 @@
 # CHAPTER 1.2 — PSYCHOLOGICAL SCIENCE, RESEARCH, MEASUREMENT, AND EVIDENCE
 
 **System:** 1 — HUMAN PSYCHOLOGY  
-**Status:** LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 1.1  
-**Ontology:** Locked 118-topic Chapter 1.2 index  
+**Status:** LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 2.0ntology:** Locked 118-topic Chapter 1.2 index  
 **Writing standard:** PSYCHO SALES Permanent Knowledge Object Writing Constitution  
 **Canonical rule:** This chapter owns the scientific concepts explicitly assigned to it. Other System 1 chapters may use these concepts but do not redefine their general scientific meaning.
 
