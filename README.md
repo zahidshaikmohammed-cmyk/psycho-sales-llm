@@ -157,3 +157,21 @@ This structure is intentionally minimal and reflects the current canonical repos
 - Chapter 1.5 — CONSCIOUSNESS, SLEEP, AND ALTERED STATES — 44 Topics — LOCKED & SEALED
 - Completed System 1 Chapters: 1.1–1.5
 - Completed canonical Topic count: **359**
+
+
+## System 1 Architecture Precision Pass — Completed
+
+The architecture precision pass added the machine-auditable registry:
+
+`system_1/SYSTEM_1_ARCHITECTURE_PRECISION_REGISTRY.md`
+
+The Chapter 1.21 ontology boundary is now explicit. The reproducible architecture accounting is:
+
+- Chapter architecture entries: **1,364**
+- Relationship/application nodes excluded from construct/clinical ownership: **60**
+- Duplicate-name non-owner appearances: **12**
+- Explicit redirects: **9**
+- Theory/model entries maintained in the separate model registry: **16**
+- Canonical construct/clinical owners: **1,267**
+
+No sealed Knowledge Object prose was rewritten and no canonical Topic name was changed by this precision pass.
