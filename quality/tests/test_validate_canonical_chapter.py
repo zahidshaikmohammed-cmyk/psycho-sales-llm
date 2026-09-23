@@ -65,7 +65,7 @@ class ValidatorTests(unittest.TestCase):
             (p/'chapter.md').write_text(chapter(False),encoding='utf-8')
             (p/'architecture.md').write_text('# CHAPTER 9.9 — TEST\n- Example construct\n',encoding='utf-8')
             (p/'validation.md').write_text('',encoding='utf-8')
-            errors=validator.validate(p/'chapter.md',p/'architecture.md')
+            errors=validator.validate(p/'chapter.md',p/'architecture.md',p/'validation.md')
             self.assertTrue(any('attestation' in e for e in errors))
 
 if __name__ == '__main__': unittest.main()
