@@ -228,3 +228,52 @@ Chapter 1.7 — Learning and Behavior Change has been written and depth-audited 
 **Source-of-truth note:** The live architecture currently exposes 66 named Topics for Chapter 1.7. No additional Topics were invented to reconcile any separate count.
 
 **Next target:** Chapter 1.8.
+
+
+---
+
+# Quality Constitution v2.0 — Project-Wide Status
+
+**Phase 1 implementation status: COMPLETE — LOCKED**
+
+The project-wide semantic quality constitution is now integrated into:
+
+`constitution/PERMANENT_KNOWLEDGE_OBJECT_WRITER_CONSTITUTION.md`
+
+This permanent constitution is the **single authoritative writing standard**.
+
+The companion:
+
+`constitution/CANONICAL_KNOWLEDGE_OBJECT_CONSTITUTION_V2.md`
+
+is a non-competing audit pointer only.
+
+The v2 standard adds mandatory semantic requirements for:
+- semantic completeness;
+- neighboring-concept distinction;
+- mechanism integrity;
+- evidence and uncertainty;
+- meaningful ownership boundaries;
+- explicit relationships;
+- retrieval robustness;
+- anti-template protection;
+- universal-psychology boundaries;
+- machine composability;
+- semantic gates before LOCKED & SEALED.
+
+**Important:** Existing sealed chapters are not retroactively re-sealed by Phase 1. Their re-certification is governed by the execution roadmap and occurs in later phases.
+
+## Current live System 1 state
+
+- Chapters completed: **1.1–1.8**
+- Canonical chapter Topics: **541**
+- Next canonical target: **Chapter 1.9**
+
+## Quality-control controls
+
+- `quality/SEMANTIC_DEPTH_AUDIT_PROTOCOL_V1.md`
+- `quality/KNOWLEDGE_GRAPH_SPEC_V1.md`
+- `quality/MASTER_SEMANTIC_REMEDIATION_REGISTER.md`
+- `quality/TEMPORARY_EXECUTION_ROADMAP.md`
+
+The repository itself remains the project source of truth. Memory, old chat drafts, screenshots, and external summaries must never override live canonical files.
