@@ -2,7 +2,7 @@
 
 **Chapter:** 1.5 — CONSCIOUSNESS, SLEEP, AND ALTERED STATES  
 **System:** 1 — HUMAN PSYCHOLOGY  
-**Validation status:** PASSED — CANONICAL KNOWLEDGE OBJECT STRUCTURE VERIFIED  
+**Validation status:** PASSED — V2 SEMANTIC DEPTH CERTIFIED  
 **Validated against:** Live System 1 architecture, Permanent Knowledge Object Writer Constitution, and Chapter 1.5 ownership remediation record.
 
 ## 1. Ontology Integrity
@@ -76,3 +76,18 @@ No sales framework, buyer model, persuasion framework, or sales tactic was used 
 The chapter is structurally complete, ontology-preserving, ownership-aware, and compliant with the locked six-section Knowledge Object constitution.
 
 **Validation commit:** recorded after final structural verification.
+
+
+## V2 Semantic Gate — Required for Canonical Seal
+
+- **Ontology integrity:** 44/44 Topics preserved; no additions, removals, renames, or renumbering.
+- **Required structure:** 44/44 Knowledge Objects retain Purpose, Definition, Core Understanding, Relationship to This Chapter, Boundaries, and Key Principles in order.
+- **Semantic depth:** 44/44 Core Understanding blocks deepened with Topic-specific mechanism, interpretation, boundary, evidence, or uncertainty detail.
+- **Corpus metrics:** 13,580 total words; average Core Understanding 120 words; minimum 97; maximum 143.
+- **Duplicate-content gate:** no identical Core Understanding blocks introduced by the remediation; Topic-specific additions were keyed to each canonical construct.
+- **Neighbor distinction gate:** consciousness/awareness/self-awareness/access; conscious/unconscious/subliminal processing; automaticity/automatic/controlled processing; sleep regulation/homeostasis/circadian/sleep pressure; NREM/REM/dreams; sleep-memory/learning/emotion; chronotype/misalignment; dissociation/dissociative states; psychoactive classes/tolerance/dependence/withdrawal remain explicitly differentiated.
+- **Scientific integrity:** claims are conditional where evidence is context-dependent; theoretical mechanisms are not presented as settled facts; altered states are not pathologized by definition.
+- **System boundary:** no sales, persuasion, buyer, or downstream application framework is used to define universal psychology.
+- **Ownership:** existing cross-chapter owners remain authoritative; Chapter 1.5 does not silently absorb neighboring constructs.
+
+**Final result:** CHAPTER 1.5 — CONSCIOUSNESS, SLEEP, AND ALTERED STATES: V2 CERTIFIED / LOCKED & SEALED
