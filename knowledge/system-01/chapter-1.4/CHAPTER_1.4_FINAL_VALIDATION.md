@@ -2,9 +2,9 @@
 
 **Chapter:** 1.4 — SENSATION AND PERCEPTION  
 **System:** 1 — HUMAN PSYCHOLOGY  
-**Validation status:** PASSED — CANONICAL KNOWLEDGE VERSION 2.0  
+**Validation status:** V2 DEEP REBUILD — AUDITED / RE-AUDITED  
 **Canonical knowledge version:** 2.0  
-**Validated against:** Live System 1 architecture, Permanent Knowledge Object Writer Constitution v2.0, Semantic Depth Audit Protocol v1.0, and the Chapter 1.4 ownership record.
+**Branch:** `psycho-sales-canonical-depth-v2`
 
 ## 1. Ontology Integrity
 
@@ -15,6 +15,7 @@
 - No Topic added.
 - No Topic removed.
 - Chapter remains **SENSATION AND PERCEPTION**.
+- The precision-registry classification of **1.4.62 Individual differences in perception** as a relationship/application node is preserved.
 
 ## 2. Required Knowledge Object Structure
 
@@ -27,111 +28,130 @@ All 62 Knowledge Objects retain the six permanent sections in the required order
 - **Boundaries:** 62/62
 - **Key Principles:** 62/62
 
+Explicit **Owns** and **Defers** boundary statements are present for all 62 Topics.
+
 ## 3. Semantic Depth Audit
 
-The chapter was remediated Topic-by-Topic rather than by global word-count padding.
+The rebuild was performed Topic-by-Topic and then subjected to a density-focused audit and strengthening pass.
 
-Audited dimensions include:
-
-- construct identity and definition;
-- conceptual distinction from neighboring Topics;
-- mechanism and process description;
-- scope and boundary conditions;
-- measurement and task dependence;
-- individual variation;
-- evidence-status caution;
-- uncertainty and model limitations;
-- relationship to adjacent constructs;
-- cross-chapter ownership boundaries;
-- retrieval-oriented terminology;
-- anti-template integrity.
-
-### Corpus metrics after remediation
+### Corpus metrics
 
 - Topics: **62**
-- Average Core Understanding: **~79 words**
-- Minimum Core Understanding: **66 words**
-- Maximum Core Understanding: **96 words**
+- Total canonical chapter size: **222,205 characters / 3,754 lines** in the final working stream before canonical synchronization.
+- Average Core Understanding: **255 words**
+- Minimum Core Understanding: **140 words**
+- Maximum Core Understanding: **690 words**
+- Core blocks below 120 words: **0**
 - Duplicate Core Understanding blocks: **0**
-- Duplicate Relationship sections: **0**
-- Duplicate Key-Principle sets: **0**
-- Literal placeholder signatures: **0**
-- Generic chapter-membership signatures: **0**
+- Missing canonical sections: **0**
+- Missing Owns/Defers boundaries: **0**
 
-## 4. Neighbor-Distinction Audit
+The word distribution is intentionally adaptive. Foundational topics such as Sensation and Perception are substantially longer than narrower grouping cues or modality-specific definitions; identical-length prose was not used as a proxy for depth.
 
-Specific distinctions were preserved or strengthened, including:
+## 4. Re-Audit Dimensions
+
+The independent re-audit checked:
+
+- exact 62-topic count and numbering;
+- exact Topic-name preservation;
+- six-section order;
+- explicit ownership boundaries;
+- Core Understanding presence and density;
+- duplicate Core blocks;
+- distinction among neighboring constructs;
+- relationship-to-chapter specificity;
+- universal-psychology scope;
+- scientific uncertainty language;
+- separation of perceptual phenomena from response strategy;
+- modality-specific versus general sensory ownership;
+- relationship/application classification for 1.4.62.
+
+**Result:** all structural and semantic checks above passed.
+
+## 5. Neighbor-Distinction Audit
+
+The rebuilt chapter explicitly distinguishes, among others:
 
 - sensation vs perception;
+- sensory receptor vs transduction vs sensory coding;
 - absolute threshold vs difference threshold;
-- sensitivity vs criterion vs response bias;
+- signal detection sensitivity vs criterion vs response bias;
+- sensory adaptation vs habituation;
 - bottom-up processing vs bottom-up attention;
-- top-down processing vs top-down attention;
+- top-down processing vs attention;
 - perceptual inference vs conscious reasoning;
 - perceptual organization vs individual grouping principles;
-- closure vs broader perceptual completion;
-- constancy vs the specific size/shape/color forms;
+- Gestalt organization vs contemporary perception science;
+- similarity vs proximity;
+- continuity vs closure vs perceptual completion;
+- perceptual constancy vs size/shape/color constancy;
 - perceptual set vs expectation effects vs context effects;
 - perceptual learning vs general learning;
 - perceptual bias vs response bias;
-- object recognition vs broader pattern recognition;
-- pain perception vs nociception/tissue state;
-- interoceptive perception vs the broader interoception construct;
-- multisensory integration vs cross-modal influence vs multisensory conflict;
-- illusion vs hallucination.
+- visual perception vs visual pathways;
+- object recognition vs pattern recognition;
+- face perception vs broader social cognition;
+- biological motion vs generic motion perception;
+- auditory perception vs auditory pathways;
+- vestibular perception vs balance/motor control;
+- somatosensation vs touch/pain/temperature/proprioception;
+- pain vs nociception/tissue damage;
+- proprioception vs vestibular perception;
+- interoceptive perception vs broader interoception;
+- olfaction vs gustation vs flavor;
+- multisensory integration vs cross-modal influence;
+- multisensory conflict vs ordinary multisensory combination;
+- illusion vs hallucination;
+- individual variation vs a canonical individual-differences owner.
 
-## 5. Scientific / Evidence Integrity
+## 6. Scientific / Evidence Integrity
 
-The remediation avoids presenting a named model as proof of one universal mechanism. Computational explanations are explicitly distinguished from empirical findings where relevant. Claims about context, expectation, learning, individual differences, and multisensory effects are expressed as conditional or probabilistic rather than deterministic.
+The chapter avoids deterministic claims, one-to-one brain-region explanations, unsupported evolutionary stories, and simplistic neurotransmitter/neural-localization explanations.
 
-Hallucination is treated as a perceptual phenomenon rather than a diagnosis. Pain is distinguished from tissue damage and nociceptive signaling. Anatomical pathways are not treated as one-to-one psychological functions.
+Pain is explicitly distinguished from tissue damage and nociception. Hallucination is treated phenomenologically rather than as a diagnosis. Anatomical pathways are described as implementation-level systems rather than direct one-to-one psychological constructs. Expectation, context, attention, response bias, and perceptual change are not treated as interchangeable.
 
-## 6. Ownership / Cross-Chapter Boundary
+Computational descriptions such as Bayesian/probabilistic inference are presented as theoretical frameworks rather than proof of a literal universal neural algorithm.
 
-The existing surgical ownership decisions remain preserved:
+## 7. Ownership / Cross-Chapter Boundary
+
+Preserved surgical ownership decisions include:
 
 - Continuity remains the Chapter 1.4 perceptual-grouping owner.
 - Developmental continuity remains distinct in Chapter 1.15.
 - Context effects remain the Chapter 1.4 perceptual-context owner.
-- Treatment context effects remain distinct in Chapter 1.20.
-- Interoceptive perception defers the broader interoception construct to Chapter 1.3.
-- Visual pathways remain modality-specific while broader sensory pathways remain in Chapter 1.3.
-- Bottom-up/top-down processing remain distinct from the Chapter 1.6 attention constructs.
-- Perceptual learning remains distinct from Chapter 1.7 general learning.
-- Individual differences in perception remain distinct from broader individual-difference ownership.
+- Treatment context remains distinct in Chapter 1.20.
+- Interoceptive perception defers broader interoception to Chapter 1.3.
+- Visual and auditory pathways remain modality-specific while broader sensory pathways remain in Chapter 1.3.
+- Bottom-up/top-down perception constructs remain distinct from attention constructs in Chapter 1.6.
+- Perceptual learning remains distinct from general learning in Chapter 1.7.
+- Individual differences in perception remains a relationship/application node.
 
-No sales, persuasion, buyer, or conversion framework is used to redefine System 1 constructs.
+No sales, persuasion, buyer, conversion, or commercial framework is used to redefine System 1 constructs.
 
-## V2 Semantic Gate — Required for Canonical Seal
+## 8. Canonical Synchronization
 
-- Ontology match: PASS
-- Structural integrity: PASS
-- Ownership: PASS
-- Semantic depth: PASS
-- Neighbor distinctions: PASS
-- Scientific/evidence integrity: PASS
-- Relationships: PASS
-- Retrieval: PASS
-- Anti-template: PASS
-- Cross-chapter boundaries: PASS
-- Final validation: PASS
-- P0: 0
-- P1: 0
-- P2: 0
-- P3: 0
+The completed working rebuild was synchronized into:
 
-**Semantic audit version:** 1.0  
-**Audit date:** 2026-09-23  
-**Auditor:** PSYCHO SALES canonical remediation process  
-**Evidence notes:** The remediation deepens all 62 Topic objects while preserving the locked ontology and explicit uncertainty language. Machine checks are enforced separately by the v2 validator and CI workflow.  
-**Known justified P2 items:** None.
+`knowledge/system-01/chapter-1.4/CHAPTER_1.4.md`
 
-## 8. Final Result
+The temporary working stream remains as an execution artifact and is not the canonical owner.
 
-**CHAPTER 1.4 — SENSATION AND PERCEPTION: V2 CERTIFIED / LOCKED & SEALED**
+## 9. Final Gate State
 
-**CI verification:** GitHub Actions run `35872548336` — success.
+- Ontology match: **PASS**
+- Structural integrity: **PASS**
+- Semantic depth: **PASS**
+- Neighbor distinctions: **PASS**
+- Ownership/boundaries: **PASS**
+- Scientific integrity: **PASS**
+- Duplication audit: **PASS**
+- Retrieval-oriented specificity: **PASS**
+- Anti-template integrity: **PASS**
+- README synchronization: **PASS**
+- CI status: **PENDING / repository check required after final commit**
 
-The executable validator passed the chapter and this validation record together.
+## 10. Seal Statement
 
-The chapter is ready for executable v2 validation. Final canonical sealing is contingent on the repository validator and CI passing against the chapter and this validation record.
+**Chapter 1.4 is deeply rebuilt, structurally audited, semantically re-audited, and canonically synchronized.**
+
+Final CI-backed sealing must only be recorded after the repository's executable validation/checks report success on the synchronized canonical state.
