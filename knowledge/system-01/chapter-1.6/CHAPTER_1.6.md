@@ -1,10 +1,6 @@
 # CHAPTER 1.6 — ATTENTION AND INFORMATION SELECTION
 
-**Status:** LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 2.0
-
-**System:** 1 — HUMAN PSYCHOLOGY
-
-**Canonical Topic count:** 40
+**Status:** LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 2.0nonical Topic count:** 40
 
 This chapter preserves the exact 40 Topics defined by the locked System 1 architecture. The knowledge layer has been rewritten to meet the Permanent Knowledge Object Writer Constitution's adaptive-depth, scientific-integrity, ownership, and retrieval standards.
 
