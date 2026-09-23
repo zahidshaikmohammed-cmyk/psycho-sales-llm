@@ -875,9 +875,721 @@ Formal detection modeling to 1.4.9; criterion to 1.4.11; response bias to 1.4.12
 
 ---
 
+
+
+---
+
+## 1.4.11 Criterion
+
+## 1. Purpose
+
+Criterion is the decision boundary used when uncertain sensory evidence must be classified into response categories. It is essential for understanding why identical sensory evidence can produce different reports from the same observer at different times or from different observers.
+
+## 2. Definition
+
+A **criterion** is the decision rule or evidence boundary used to determine which response will be made when internal sensory evidence is uncertain.
+
+**What it is not:** Criterion is not the same thing as sensory sensitivity. A criterion can change while the quality or discriminability of the sensory representation remains unchanged.
+
+## 3. Core Understanding
+
+### Decision position
+
+In a basic detection task, the observer can be conceptualized as receiving a noisy internal evidence value and comparing it with a response boundary. Evidence above the boundary may produce a “present” response and evidence below it a “absent” response. The boundary is the criterion.
+
+A liberal criterion requires relatively little evidence before saying “present.” A conservative criterion requires more evidence. Moving the criterion therefore changes the balance of hits, misses, false alarms, and correct rejections.
+
+### Why criterion moves
+
+Criterion can be influenced by the expected prevalence of a signal, consequences of errors, incentives, instructions, fatigue, uncertainty, prior information, and the observer's goals. A person who expects that missing a real signal will be costly may adopt a more liberal rule; a person concerned about false alarms may adopt a more conservative rule.
+
+These influences do not necessarily alter sensory encoding. They can alter how existing evidence is converted into a response.
+
+### Criterion as a model quantity
+
+Criterion is not always directly observable as a physical location in the nervous system. In signal detection theory it is an inferred parameter of a decision model. Its interpretation depends on the assumptions of the model and the task.
+
+A shift in an estimated criterion should therefore not automatically be described as proof that a specific brain region “moved the threshold.” The behavioral model and its neural implementation are different levels of explanation.
+
+### Relation to base rates
+
+Signal prevalence can influence response strategy. When signals are rare, observers may require stronger evidence to avoid excessive false alarms; when signals are common, the response strategy can shift. Base-rate effects are not universal or mechanically determined, however, because observers also use task instructions, feedback, learned regularities, and environmental statistics.
+
+### Measurement
+
+Criterion can be estimated from hit and false-alarm patterns using signal-detection models. Accuracy alone is insufficient because accuracy can change when criterion changes. Comparing sensitivity and criterion jointly gives a more informative description of detection behavior.
+
+### Evidence Status
+
+Criterion is a well-established construct in psychophysical decision modeling. Its precise interpretation depends on task assumptions, the form of the evidence distributions, and the statistical model used to estimate it.
+
+### Misconceptions
+
+A conservative criterion does not necessarily mean that someone has poor senses, and a liberal criterion does not necessarily mean that someone has unusually sensitive senses. Response strategy and sensory sensitivity are separable dimensions.
+
+## 4. Relationship to This Chapter
+
+Criterion follows signal detection theory because SDT supplies the framework in which criterion is distinguished from discriminability. It also connects to response bias because criterion placement is one formal expression of a response tendency under uncertainty.
+
+## 5. Boundaries
+
+### Owns
+
+The decision-boundary construct used to characterize response placement in uncertain sensory detection.
+
+### Defers
+
+Sensitivity/discriminability to 1.4.9; broader response bias to 1.4.12; general decision-making and judgment to Chapter 1.10.
+
+## 6. Key Principles
+
+- Criterion determines how much internal evidence is required for a particular response.
+- Criterion changes can alter hits and false alarms without changing sensory sensitivity.
+- Base rates, costs, instructions, goals, and expectations can influence criterion.
+- Criterion is a model-based decision construct, not a directly observed sensory threshold.
+
+---
+
+## 1.4.12 Response bias
+
+## 1. Purpose
+
+Response bias describes systematic tendencies to favor one response over another when evidence is ambiguous. It prevents the encyclopedia from treating every response difference as a difference in perception or sensory sensitivity.
+
+## 2. Definition
+
+**Response bias** is a systematic tendency for an observer to favor particular response outcomes independently of, or in interaction with, the sensory evidence available on a given trial.
+
+**What it is not:** Response bias is not necessarily a stable personality trait, intentional distortion, or lack of sensory ability. It can be temporary, task-specific, adaptive, strategic, or induced by the structure of the decision environment.
+
+## 3. Core Understanding
+
+### Response tendency versus sensory evidence
+
+When a task contains uncertainty, an observer must map imperfect evidence onto a discrete response. A response bias can shift this mapping so that one response is more likely than another. This is why a high rate of “yes” responses does not automatically establish strong sensory detection.
+
+In SDT terms, response bias is closely related to criterion placement. The terms are not always interchangeable across all literatures: response bias is a broader descriptive idea, whereas criterion is a formal decision parameter within a specified model.
+
+### Sources of bias
+
+Response bias can arise from instructions, payoffs, expected prevalence, social consequences, prior beliefs, fatigue, uncertainty, learned response habits, and task structure. The same observer can therefore show different response biases in different contexts.
+
+### Measurement problem
+
+Observed accuracy combines multiple influences. A response pattern must be examined jointly with signal-present and signal-absent trials to distinguish sensitivity from response tendency. Measures such as hit rate, false-alarm rate, and ROC analysis are especially useful because they reveal how response behavior changes across evidence conditions.
+
+### Temporal and contextual variation
+
+Response bias can change within a session. Feedback, changing stimulus prevalence, repeated errors, fatigue, or shifts in perceived costs can change the response rule. This makes it dangerous to infer a fixed “bias” from one short task.
+
+### Individual differences
+
+People can differ systematically in how strongly they favor conservative or liberal responses, but such differences can reflect strategy and context rather than a broad psychological trait. The same person may reverse the direction of bias when the task demands change.
+
+### Evidence Status
+
+Response bias is strongly supported as a feature of decision behavior under uncertainty. The causal source of a bias must be inferred from the experimental design rather than assumed from the response pattern alone.
+
+### Misconceptions
+
+A biased response is not necessarily a dishonest response. Bias in this context means systematic response tendency, not moral wrongdoing.
+
+## 4. Relationship to This Chapter
+
+Response bias provides the broader behavioral concept surrounding criterion. It is especially important for interpreting thresholds, detection, and perceptual reports because observable responses are produced after sensory evidence has been evaluated.
+
+## 5. Boundaries
+
+### Owns
+
+Systematic response tendencies in uncertain sensory/perceptual tasks.
+
+### Defers
+
+Formal criterion estimation to 1.4.11; signal-detection framework to 1.4.9; broader social, judgmental, or cognitive biases to their canonical owners elsewhere in System 1.
+
+## 6. Key Principles
+
+- Response bias concerns the mapping of uncertain evidence onto responses.
+- A response tendency can change without a corresponding change in sensory sensitivity.
+- Bias can be state-dependent and task-specific.
+- Bias is a descriptive scientific term, not a judgment about honesty or competence.
+
+---
+
+## 1.4.13 Sensory adaptation
+
+## 1. Purpose
+
+Sensory adaptation describes changes in sensory responsiveness produced by continuing or repeated stimulation. It is fundamental to understanding how sensory systems remain useful across changing environmental conditions.
+
+## 2. Definition
+
+**Sensory adaptation** is a change in the responsiveness of a sensory system during or following sustained or repeated stimulation, often reducing responsiveness to relatively constant stimulation while preserving or emphasizing change.
+
+**What it is not:** Adaptation does not simply mean that a person “gets bored” with a stimulus. It is a sensory and neural process with modality-specific mechanisms and multiple time scales.
+
+## 3. Core Understanding
+
+### Functional logic
+
+Sensory systems face environments in which some stimulation remains relatively stable while other information changes. If neural responses remained maximally devoted to every constant stimulus, dynamic changes could become harder to detect. Adaptation can shift the operating range of the system so that changes become more informative.
+
+The consequence is not universally a simple decrease in all responses. Some adaptive effects alter gain, dynamic range, selectivity, after-responses, or the relative weighting of new versus persistent information.
+
+### Levels and mechanisms
+
+Adaptation can occur at peripheral receptors and at later neural stages. The mechanisms vary across modalities and include changes in receptor responsiveness, synaptic transmission, network gain, inhibitory interactions, and central recalibration.
+
+Therefore, an observed perceptual aftereffect does not automatically identify a single peripheral mechanism.
+
+### Time course
+
+Adaptation has temporal structure. Some changes emerge within milliseconds or seconds; others develop over minutes or longer and can persist after stimulation ends. Recovery also varies by system. The time course can provide evidence about the level and mechanism of adaptation but does not by itself prove one specific mechanism.
+
+### Context dependence
+
+The same physical stimulus can be perceived differently depending on the recent stimulation history. Adaptation can alter perceived intensity, contrast, color, motion, temperature, or other sensory qualities. These changes show that perception is partly calibrated relative to the recent sensory environment.
+
+### Adaptation versus habituation
+
+Sensory adaptation should be distinguished from habituation. Adaptation primarily concerns changes in sensory responsiveness and neural processing caused by stimulation; habituation is a broader form of learning in which behavioral responding to repeated stimulation decreases. The two can interact, but they are not synonyms.
+
+### Measurement
+
+Adaptation can be measured through changes in receptor or neural responses, detection/discrimination thresholds, perceived intensity, aftereffects, or performance before and after controlled exposure. Different measures can reveal different levels of the process.
+
+### Evidence Status
+
+Sensory adaptation is a well-established phenomenon across sensory modalities. The detailed mechanisms and functional significance vary across systems, and adaptation can sometimes enhance rather than simply suppress sensitivity to relevant changes.
+
+### Misconceptions
+
+Adaptation does not mean the stimulus stops existing or becomes objectively weaker. It means the organism's response to it changes. Nor does every reduction in behavior after repetition qualify as sensory adaptation.
+
+## 4. Relationship to This Chapter
+
+Adaptation links sensation, receptor activity, coding, thresholds, and perception. It is especially important for understanding why sensory judgments are relative to recent stimulation rather than determined solely by current physical input.
+
+## 5. Boundaries
+
+### Owns
+
+The sensory and perceptual phenomenon of responsiveness changing as a function of recent or sustained stimulation.
+
+### Defers
+
+General habituation and learning to Chapter 1.7; biological homeostasis and broader adaptation processes to Chapter 1.3/other canonical owners where applicable.
+
+## 6. Key Principles
+
+- Sensory responsiveness depends partly on stimulation history.
+- Adaptation can alter gain, dynamic range, selectivity, and perceptual experience rather than merely suppressing activity.
+- Adaptation operates over multiple time scales and levels of the sensory system.
+- Sensory adaptation is distinct from behavioral habituation.
+- Recent context can change the interpretation of current sensory input.
+
+---
+
+## 1.4.14 Bottom-up processing
+
+## 1. Purpose
+
+Bottom-up processing describes perceptual processing driven primarily by information supplied by the current sensory input and its transformations. The construct is needed to distinguish evidence arising from the stimulus from influences supplied by prior knowledge, expectations, and context.
+
+## 2. Definition
+
+**Bottom-up processing** is perceptual processing in which representations are constrained primarily by information derived from the current sensory input, progressing from available stimulus information toward increasingly organized representations.
+
+**What it is not:** Bottom-up processing does not mean “purely objective” perception, nor does it imply that perception can occur without any prior neural organization or learned structure.
+
+## 3. Core Understanding
+
+### Information flow
+
+Bottom-up processing emphasizes the information contained in the current stimulus: edges, contrast, frequency structure, spatial arrangement, motion, intensity, and other modality-specific features. These signals can be combined into more complex representations.
+
+The concept is therefore primarily about the direction and source of information used in processing, not about a rigid anatomical staircase in which every perception must pass through identical stages.
+
+### Constraints
+
+Even stimulus-driven processing depends on pre-existing sensory architecture. Receptors, receptive fields, neural pathways, and learned biological organization constrain what information is available and how it can be represented. Thus “bottom-up” should not be interpreted as “unprocessed raw data.”
+
+### Ambiguous stimuli
+
+Bottom-up information can be insufficient to uniquely specify the source of a stimulus. When multiple interpretations are compatible with available evidence, higher-level information may influence the resulting percept. Bottom-up processing therefore provides constraints rather than necessarily determining the final interpretation by itself.
+
+### Measurement and inference
+
+Researchers can manipulate stimulus information while holding expectations relatively constant, or compare perceptual performance across conditions that differ in sensory evidence. However, isolating a purely bottom-up process is difficult because real perception involves interacting levels of processing.
+
+### Relation to attention
+
+Bottom-up perceptual processing should not be equated with bottom-up attention. Salient stimuli can capture attention, but attentional selection is a distinct construct owned by Chapter 1.6. The same stimulus-driven evidence can influence perception without necessarily producing attentional capture.
+
+### Evidence Status
+
+The distinction between stimulus-driven and knowledge-dependent processing is useful and widely used. The strictness of the separation is theoretical: perceptual systems are highly recurrent and interactive, so real processing is rarely purely bottom-up.
+
+### Misconceptions
+
+Bottom-up does not mean unbiased, conscious, simple, or necessarily early. It means that the current sensory evidence plays the primary constraining role in the processing being described.
+
+## 4. Relationship to This Chapter
+
+Bottom-up processing belongs to the chapter's general account of how sensory evidence becomes perception. It is contrasted with top-down processing and interacts with perceptual inference, organization, context, and recognition.
+
+## 5. Boundaries
+
+### Owns
+
+The perceptual processing concept describing stimulus-derived constraints as the primary information source.
+
+### Defers
+
+Top-down processing to 1.4.15; attention to Chapter 1.6; general information processing to Chapter 1.1 and cognitive chapters where applicable.
+
+## 6. Key Principles
+
+- Bottom-up processing emphasizes information supplied by current sensory input.
+- It is constrained by pre-existing biological and perceptual architecture.
+- Bottom-up information can constrain perception without uniquely determining it.
+- “Bottom-up” does not mean purely unbiased or cognitively isolated.
+- Bottom-up perceptual processing is distinct from bottom-up attentional capture.
+
+---
+
+## 1.4.15 Top-down processing
+
+## 1. Purpose
+
+Top-down processing describes the influence of higher-level information on the organization and interpretation of sensory input. It explains why the same physical signal can support different percepts depending on prior knowledge, expectations, goals, or contextual information.
+
+## 2. Definition
+
+**Top-down processing** is perceptual processing in which higher-level information—such as prior knowledge, learned structure, expectations, task goals, or contextual interpretation—influences the processing or interpretation of sensory input.
+
+**What it is not:** Top-down processing is not evidence that perception is freely invented by beliefs. Its influence remains constrained by sensory evidence and depends on the task and uncertainty of the input.
+
+## 3. Core Understanding
+
+### Sources of top-down information
+
+Top-down influences can arise from learned regularities, expectations, categorical knowledge, task instructions, goals, contextual information, and prior perceptual experience. Their contribution is often greatest when sensory evidence is ambiguous, noisy, incomplete, or compatible with several interpretations.
+
+### Mechanism and interaction
+
+Top-down information can change which interpretation is favored, which features receive greater weight, or how ambiguous sensory evidence is resolved. Contemporary accounts often emphasize recurrent interactions between levels rather than a one-way “higher brain overrides lower brain” process.
+
+The important scientific claim is therefore functional: information represented at a higher level can influence processing at another level. The exact neural pathway depends on modality and task.
+
+### Precision and uncertainty
+
+The influence of prior information should depend on how reliable it is relative to incoming evidence. Strong, unambiguous sensory evidence can constrain interpretation strongly; weak or ambiguous evidence leaves greater scope for prior information.
+
+This is one reason expectations can sometimes improve perception and sometimes produce systematic errors.
+
+### Expectation versus attention
+
+Top-down processing should not be collapsed into attention. Goals can influence both attention and perception, but attentional selection and perceptual interpretation are distinct processes. Likewise, an expectation can alter perceptual interpretation without necessarily changing where attention is directed.
+
+### Learning
+
+Repeated experience can create expectations about regularities in the environment. Perceptual learning can therefore strengthen top-down constraints, but learning and top-down processing remain distinct concepts.
+
+### Evidence Status
+
+Top-down influences on perception are supported across many perceptual domains. The size, timing, and neural implementation of the influence vary, and some apparently top-down effects can be explained partly by changes in attention, response strategy, or task interpretation. Strong claims therefore require designs that distinguish these alternatives.
+
+### Misconceptions
+
+Top-down processing does not mean that expectations always dominate evidence. Nor does an expectation effect prove that the sensory input was ignored. Perception is usually the result of interaction between incoming evidence and existing structure.
+
+## 4. Relationship to This Chapter
+
+Top-down processing is the principal conceptual counterpart to bottom-up processing. Together they help explain perceptual inference, context effects, perceptual set, recognition, and ambiguity. The Topic also connects to attention and cognition but does not re-own those broader processes.
+
+## 5. Boundaries
+
+### Owns
+
+The perceptual processing concept describing the influence of higher-level information on sensory interpretation.
+
+### Defers
+
+Bottom-up processing to 1.4.14; perceptual inference to 1.4.16; attention to Chapter 1.6; learning to Chapter 1.7; memory to Chapter 1.8.
+
+## 6. Key Principles
+
+- Top-down processing allows prior knowledge, expectations, goals, and context to influence perception.
+- Its influence is constrained by sensory evidence and is generally context-dependent.
+- Ambiguity and uncertainty create greater opportunity for prior information to shape interpretation.
+- Top-down processing is not synonymous with attention, memory, or expectation, although these can contribute to it.
+- Evidence for top-down influence must be distinguished from response bias or other non-perceptual explanations.
+
+---
+
+## 1.4.16 Perceptual inference
+
+## 1. Purpose
+
+Perceptual inference explains how perceptual systems select among possible interpretations when sensory information is incomplete, ambiguous, noisy, or underdetermined. It provides a deeper account of perception than the simple statement that the brain “interprets” sensory input.
+
+## 2. Definition
+
+**Perceptual inference** is the process of using sensory evidence together with prior information and constraints to estimate or select plausible interpretations of the causes of sensory input.
+
+**What it is not:** Perceptual inference does not imply conscious reasoning. It is not necessarily deliberate, verbal, or accessible to awareness.
+
+## 3. Core Understanding
+
+### The inverse problem
+
+Sensory signals often do not uniquely specify their causes. A retinal pattern can be produced by multiple three-dimensional arrangements; an acoustic pattern can arise from different combinations of sources and environments; bodily signals can reflect multiple physiological states.
+
+Perceptual inference addresses this underdetermination by combining available evidence with learned regularities and structural constraints.
+
+### Generative interpretation
+
+A useful theoretical description is that the perceptual system behaves as though it estimates likely causes of sensory signals. Some models describe this using probabilistic or Bayesian language, where prior expectations and sensory likelihood are combined to form posterior estimates.
+
+This is a model of computation, not proof that the nervous system literally performs textbook Bayesian arithmetic in every perceptual task.
+
+### Reliability weighting
+
+The relative influence of prior information and current sensory evidence can depend on their reliability. When sensory evidence is precise, it may dominate; when it is noisy or ambiguous, prior information can have greater influence.
+
+This provides a principled explanation for context effects and some perceptual illusions without treating perception as arbitrary.
+
+### Temporal inference
+
+Perception can integrate information over time. The system may use recent sensory history to interpret current input, particularly in motion, speech, and multisensory events. Temporal integration creates both stability and the possibility of systematic error when the environment changes unexpectedly.
+
+### Learning and development
+
+Perceptual inference is shaped by experience because repeated exposure changes the regularities available to the system. However, not all priors are consciously learned; some constraints arise from biological organization and long-term statistical structure.
+
+### Competing explanations
+
+Not every perceptual phenomenon requires an inference model, and not every Bayesian-looking result uniquely supports one mechanism. Alternative explanations can involve neural adaptation, attention, learned associations, decision criteria, or stimulus-specific processing.
+
+### Evidence Status
+
+Perceptual inference is an important theoretical framework supported by converging evidence from psychophysics, computational modeling, neuroscience, and comparative perceptual research. The exact algorithms implemented by biological systems remain an active area of investigation.
+
+### Misconceptions
+
+“Inference” does not mean perception is consciously guessed. It also does not mean that percepts are false. Inference is a way of describing how a system can generate useful representations from incomplete evidence.
+
+## 4. Relationship to This Chapter
+
+Perceptual inference integrates bottom-up and top-down processing and helps explain organization, constancy, recognition, context effects, and illusions. It provides a mechanistic/theoretical bridge between raw sensory constraints and structured perceptual experience.
+
+## 5. Boundaries
+
+### Owns
+
+The general process and theoretical framework of inferring likely causes or interpretations from sensory evidence under uncertainty.
+
+### Defers
+
+Top-down processing to 1.4.15; perceptual organization to 1.4.17; specific constancy mechanisms to 1.4.26–1.4.29; general reasoning to Chapter 1.9.
+
+## 6. Key Principles
+
+- Sensory input is often compatible with multiple possible causes.
+- Perceptual systems can combine evidence with prior constraints to resolve ambiguity.
+- The influence of prior information should depend on the reliability of sensory evidence and the task.
+- Bayesian or probabilistic descriptions are theoretical models, not automatic proof of a literal neural algorithm.
+- Perceptual inference can produce both useful stability and systematic errors.
+
+---
+
+## 1.4.17 Perceptual organization
+
+## 1. Purpose
+
+Perceptual organization explains how sensory elements are grouped into structured units such as objects, surfaces, events, and spatial relations. Without organization, sensory features would remain a collection of disconnected signals rather than coherent perceptual structure.
+
+## 2. Definition
+
+**Perceptual organization** is the process by which sensory information is grouped, segregated, structured, and related into coherent perceptual units and spatial or temporal configurations.
+
+**What it is not:** Perceptual organization is not identical to object recognition. Organization can determine which elements belong together before the observer has identified what the resulting object is.
+
+## 3. Core Understanding
+
+### Grouping and segregation
+
+Perceptual systems must determine which sensory elements likely arise from the same source and which belong to different sources. Grouping can depend on proximity, similarity, continuity, common motion, common region, synchrony, and other regularities.
+
+Segregation is equally important: an observer must separate an object from its background and distinguish simultaneous sources.
+
+### Figure–ground structure
+
+Perceptual organization often involves assigning some information to a foreground object and other information to background. This assignment can be reversible or context-sensitive, particularly in ambiguous displays.
+
+### Hierarchical and recurrent processing
+
+Organization can occur across levels. Local features can form contours, contours can form surfaces, and surfaces can form objects or scenes. Feedback and contextual interactions can influence grouping, meaning that organization is not necessarily a strictly feed-forward process.
+
+### Temporal organization
+
+Perceptual organization is not restricted to static spatial displays. Temporal regularities can bind events that occur together or separate events that differ in timing. In audition, for example, temporal structure is central to grouping sound components into sources.
+
+### Object and scene structure
+
+Grouping provides a foundation for later recognition but does not guarantee correct identification. The same organized shape can be interpreted differently depending on context, learned knowledge, or viewpoint.
+
+### Measurement
+
+Researchers study organization through grouping judgments, detection of contours, visual search, figure–ground tasks, motion grouping, auditory stream segregation, and other psychophysical paradigms. Different paradigms isolate different organizational principles.
+
+### Evidence Status
+
+Perceptual organization is a well-established domain with extensive evidence across vision, audition, and other modalities. Specific grouping principles can interact and sometimes compete; no single rule explains all perceptual grouping.
+
+### Misconceptions
+
+Perceptual organization is not simply “what the eyes see.” It is an active process of structuring sensory information. Nor is it equivalent to Gestalt theory as a whole; Gestalt organization is a historically important theoretical framework within the broader empirical study of grouping.
+
+## 4. Relationship to This Chapter
+
+Perceptual organization is the parent process for several dedicated Topics in this chapter, including Gestalt organization, figure–ground, similarity, proximity, continuity, closure, common fate, and perceptual completion. It also supports later recognition and constancy.
+
+## 5. Boundaries
+
+### Owns
+
+The general process of grouping and segregating sensory information into coherent perceptual structure.
+
+### Defers
+
+Gestalt organization to 1.4.18; individual grouping principles to 1.4.20–1.4.24; perceptual completion to 1.4.25; object recognition to 1.4.42.
+
+## 6. Key Principles
+
+- Perception requires grouping and segregation, not merely feature detection.
+- Multiple grouping cues can cooperate or compete.
+- Organization operates across spatial and temporal structure.
+- Grouping does not guarantee correct object identification.
+- Perceptual organization is broader than any single Gestalt principle.
+
+---
+
+## 1.4.18 Gestalt organization
+
+## 1. Purpose
+
+Gestalt organization captures the historically influential family of principles and theoretical ideas emphasizing that perceptual wholes have structured properties that cannot always be predicted by considering isolated sensory elements independently.
+
+## 2. Definition
+
+**Gestalt organization** refers to the tradition of perceptual theory and associated grouping principles proposing that perceptual systems organize elements into structured wholes according to relations such as proximity, similarity, continuity, closure, and figure–ground organization.
+
+**What it is not:** Gestalt principles are not a complete modern theory of every perceptual process, nor should they be treated as rigid universal algorithms that operate independently of context.
+
+## 3. Core Understanding
+
+### Historical contribution
+
+Gestalt psychology challenged approaches that treated perception as a simple accumulation of elementary sensations. It emphasized organization, structure, relations among parts, and the importance of the perceptual whole.
+
+This historical contribution remains important because many grouping phenomena continue to be studied experimentally even though contemporary perception science uses a broader set of computational, ecological, neural, and probabilistic explanations.
+
+### Grouping principles
+
+Traditional Gestalt discussions include proximity, similarity, continuity, closure, common fate, and figure–ground organization. These principles describe tendencies for elements to be grouped under particular stimulus conditions.
+
+They are not necessarily independent. Several cues can support the same grouping, while conflicting cues can produce ambiguity or competition.
+
+### Whole–part relations
+
+The central insight is relational: the perceptual organization of one element can depend on surrounding elements. A feature may be perceived differently when embedded in a different configuration.
+
+This does not imply mystical “wholes” that violate physical or neural mechanisms. It means that perceptual properties can depend on relationships within the stimulus and the processing system.
+
+### Modern status
+
+Modern research has refined, formalized, and sometimes challenged classical formulations. Some grouping effects can be described using principles of probabilistic inference, ecological regularity, neural interactions, or image statistics.
+
+Therefore, “Gestalt” should be used as a historical and conceptual framework, while specific empirical claims should be tied to their evidence.
+
+### Evidence Status
+
+Many grouping phenomena are robust, but the original Gestalt theoretical system is not treated as a single experimentally established mechanism. Contemporary explanations are plural and may differ by phenomenon.
+
+### Misconceptions
+
+Gestalt principles are not simply “rules the brain follows” in a rigid checklist. They are empirical tendencies and theoretical concepts whose expression depends on stimulus configuration, context, and competing cues.
+
+## 4. Relationship to This Chapter
+
+Gestalt organization is a major historical framework within perceptual organization. Its individual principles receive separate Topics so the machine can retrieve their specific mechanisms and distinguish them rather than storing “Gestalt” as an undifferentiated explanation.
+
+## 5. Boundaries
+
+### Owns
+
+The Gestalt theoretical tradition and its general account of perceptual wholes and grouping.
+
+### Defers
+
+General perceptual organization to 1.4.17; individual grouping principles to their dedicated Topics; broader theories of perceptual inference to 1.4.16.
+
+## 6. Key Principles
+
+- Gestalt psychology emphasized relational structure and organized perceptual wholes.
+- Classical grouping principles describe tendencies, not infallible algorithms.
+- Grouping cues can interact and compete.
+- The historical Gestalt framework should not be confused with the entirety of modern perception science.
+- Empirical grouping effects can remain scientifically useful even when theoretical explanations evolve.
+
+---
+
+## 1.4.19 Figure–ground
+
+## 1. Purpose
+
+Figure–ground organization describes how perceptual systems segregate a scene into regions experienced as foreground figures and background. This distinction is foundational for object perception and spatial organization.
+
+## 2. Definition
+
+**Figure–ground organization** is the perceptual assignment of some regions or elements as foreground figures against a surrounding background.
+
+**What it is not:** It is not simply a physical distinction between an object and its surroundings. Figure and ground are perceptual roles that can depend on configuration and context.
+
+## 3. Core Understanding
+
+### Segregation
+
+Figure–ground organization allows sensory elements to be grouped into candidate objects or surfaces while other information is treated as background. The figure typically receives greater perceptual organization, boundary ownership, and object-like status.
+
+### Cues
+
+Figure–ground assignment can depend on enclosure, relative size, symmetry, convexity, orientation, familiar shape, motion, depth cues, texture, and other scene properties. No single cue is sufficient in every display.
+
+### Reversible organization
+
+Ambiguous figures can alternate between interpretations. When the assignment reverses, the same physical stimulus can support different perceptual organizations without any corresponding change in the retinal input.
+
+This demonstrates that perceptual organization is an interpretive process constrained by stimulus structure rather than a direct physical readout.
+
+### Relation to object perception
+
+Figure–ground organization contributes to object segmentation but should not be equated with complete object recognition. A region can be perceived as a figure without the observer knowing what object it represents.
+
+### Temporal and motion cues
+
+Movement can strongly influence figure–ground assignment. A region moving differently from its surroundings may be segregated as a figure, showing that figure–ground organization is not exclusively a static spatial process.
+
+### Measurement
+
+Figure–ground organization can be measured through reversible-figure reports, boundary-ownership judgments, segmentation tasks, visual search, and physiological measures of neural responses to figure–ground structure.
+
+### Evidence Status
+
+Figure–ground organization is strongly supported as a fundamental aspect of perceptual organization. The relative contribution of specific cues and neural mechanisms depends on the stimulus and task.
+
+### Misconceptions
+
+Figure–ground is not synonymous with attention. Attention can favor a figure, but figure–ground assignment can occur without deliberate attention and can itself influence attentional selection.
+
+## 4. Relationship to This Chapter
+
+Figure–ground is a specific form of perceptual organization and a major component of object segregation. It connects Gestalt organization with object recognition, depth, motion, and perceptual completion.
+
+## 5. Boundaries
+
+### Owns
+
+The perceptual assignment of figure and ground within organized sensory scenes.
+
+### Defers
+
+General perceptual organization to 1.4.17; Gestalt theory to 1.4.18; object recognition to 1.4.42; attention to Chapter 1.6.
+
+## 6. Key Principles
+
+- Figure–ground assignment is a perceptual relation, not merely a physical property.
+- Multiple cues can determine which region becomes figure.
+- Figure–ground organization can reverse without changes in physical stimulation.
+- Segregating a figure does not necessarily identify the object.
+- Figure–ground processing interacts with depth, motion, context, and attention without being identical to them.
+
+---
+
+## 1.4.20 Similarity
+
+## 1. Purpose
+
+Similarity is a perceptual grouping principle in which elements sharing relevant features tend to be experienced as belonging together. It helps explain how complex displays are organized into meaningful groups.
+
+## 2. Definition
+
+**Similarity** is the tendency for perceptual elements that share relevant features—such as color, shape, size, orientation, or texture—to be grouped together.
+
+**What it is not:** Similarity is not a universal numerical rule that guarantees grouping, and perceptual similarity is not identical to conceptual similarity or semantic relatedness.
+
+## 3. Core Understanding
+
+### Feature dimensions
+
+Similarity can arise from shared color, form, orientation, size, texture, motion, or other perceptually represented properties. The effective dimension depends on the stimulus and task.
+
+Two elements can be similar on one dimension and different on another. Grouping therefore depends on which feature dimensions are perceptually salient and how they interact.
+
+### Relative organization
+
+Similarity influences relations among elements rather than operating on each element independently. A red item among many blue items may group with other red items even when they are spatially separated. Conversely, strong proximity can sometimes override weaker similarity.
+
+### Interaction among grouping cues
+
+Similarity rarely acts alone. Proximity, continuity, common fate, figure–ground structure, and other cues can support or compete with similarity. The resulting organization reflects the combined structure of the display.
+
+### Attention and search
+
+Similarity also affects visual search and attentional selection, but the perceptual grouping principle should not be reduced to attention. Grouping can influence which elements are perceived as units before or alongside deliberate selection.
+
+### Measurement
+
+Similarity-based grouping can be studied through grouping reports, search efficiency, discrimination of grouped versus ungrouped elements, and measures of perceptual segmentation. Experimental manipulations must specify which stimulus dimension defines similarity.
+
+### Evidence Status
+
+Similarity is a robust perceptual grouping principle. The strength of grouping varies with feature dimension, discriminability, context, and competing organizational cues.
+
+### Misconceptions
+
+Similarity does not mean that every physically similar pair will be grouped. It is a tendency whose strength depends on the perceptual system and the larger configuration.
+
+## 4. Relationship to This Chapter
+
+Similarity is one of the dedicated grouping principles nested within perceptual organization and Gestalt organization. It should be distinguished from proximity, which depends primarily on spatial or relational closeness.
+
+## 5. Boundaries
+
+### Owns
+
+Similarity as a perceptual grouping relation based on shared relevant features.
+
+### Defers
+
+General perceptual organization to 1.4.17; Gestalt framework to 1.4.18; proximity to 1.4.21; conceptual/semantic similarity in higher cognition to relevant cognitive chapters.
+
+## 6. Key Principles
+
+- Shared perceptual features can promote grouping.
+- Similarity is dimension-specific and context-dependent.
+- Similarity interacts with other grouping cues rather than operating in isolation.
+- Perceptual similarity should not be equated with conceptual or semantic similarity.
+- Grouping strength depends on the discriminability and relevance of the shared feature.
+
+---
+
 # Rebuild Status
 
-**Completed in this working pass:** 1.4.1–1.4.10  
-**Remaining:** 1.4.11–1.4.62  
+**Completed in this rebuild pass:** 1.4.1–1.4.20  
+**Remaining:** 1.4.21–1.4.62  
 **Canonical seal:** NOT GRANTED  
-**Next rebuild block:** Criterion → Response bias → Sensory adaptation → perceptual processing and organization
+**Architecture:** preserved at exactly 62 Topics
