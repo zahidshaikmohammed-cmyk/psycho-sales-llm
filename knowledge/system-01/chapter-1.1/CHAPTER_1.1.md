@@ -82,21 +82,15 @@ Psychology therefore includes both what people do and the internal processes tha
 **What it is not:** Psychology is not simply common-sense advice, personality typing, the study of mental illness alone, or the assumption that behavior always has one hidden cause. Those are narrower or potentially misleading views of the field.
 
 ## 3. Core Understanding
-Psychology studies a human being as an organized system rather than as a collection of isolated events. A person perceives a situation, represents it, evaluates it, experiences internal states, remembers previous events, pursues goals, responds emotionally, acts, receives consequences, and changes through learning and development. These processes influence one another.
+Psychology is a scientific field concerned with organized human functioning across biological, psychological, developmental, social, cultural, and environmental levels. Its subject matter includes observable behavior as well as the internal processes, states, representations, capacities, mechanisms, and individual differences that help organize behavior. This makes psychology inherently pluralistic: no single level of analysis can answer every psychological question.
 
-The field is broad because human functioning is broad. Biological psychology examines nervous-system and bodily processes. Cognitive psychology studies processes such as attention, memory, reasoning, and language. Motivation and emotion examine forces that influence direction, persistence, valuation, and feeling. Personality examines relatively stable individual differences and the processes behind them. Developmental psychology studies change and continuity across the lifespan. Social and cultural psychology examine how other people, groups, norms, identities, and cultural systems shape psychological functioning. Clinical and health psychology examine distress, disorder, treatment, health, and adaptation.
+A psychological explanation connects phenomena rather than merely naming them. Avoidance, for example, can be described behaviorally, examined as a learned response, understood through threat representation and appraisal, situated in emotion and motivation, or explained partly by social expectations and consequences. These explanations can be complementary when they answer different questions. Strong explanation therefore identifies the level, mechanism, evidence, and boundary conditions being claimed.
 
-Psychology uses multiple levels of explanation because the same phenomenon can be understood in more than one valid way. A fear response can involve neural activity, learned associations, appraisal, bodily arousal, personal history, social meaning, and cultural context. These explanations need not compete when they answer different questions.
+Psychological science also separates observation from inference. A measured response is not identical to the construct used to explain it; a correlation does not by itself establish a causal mechanism; and a theory is an organized explanatory model rather than automatically established fact. Measurement quality, sampling, task design, ecological context, replication, and alternative explanations affect what evidence can support.
 
-Psychological science also distinguishes description from explanation. Observing that people who experience X often show Y is different from establishing that X causes Y. A theory organizes evidence and proposes mechanisms; it is not automatically a fact. Individual differences also matter: a general psychological tendency can exist while people vary substantially in its strength, expression, or consequences.
+The field is therefore best understood as an interconnected science of human functioning. Perception, learning, memory, reasoning, emotion, motivation, personality, development, social interaction, health, and clinical phenomena become more intelligible when their distinct mechanisms and relationships are preserved rather than collapsed into one generic notion of “mind.”
 
-Psychology is therefore best understood as a science of organized human functioning. Its central task is not to label every behavior but to build evidence-based explanations of how people and psychological systems operate.
 
-### Deeper Conceptual Structure
-
-Psychology is best treated as a family of complementary scientific approaches rather than one single explanatory method. Different questions require different methods and levels of analysis, and a strong psychological explanation states what question it answers and what it cannot establish. This keeps System 1 broad enough to include biological, cognitive, emotional, developmental, social, and cultural processes without reducing one level to another.
-
-A useful distinction is between the subject matter of psychology and the methods used to study it. Psychology studies psychological phenomena; experiments, longitudinal studies, observations, interviews, psychophysiological measures, and other methods are tools for learning about them. The field therefore remains open to multiple methods while retaining a common commitment to systematic evidence.
 ## 4. Relationship to This Chapter
 Psychology is the umbrella concept for Chapter 1.1. Behavior, mental processes, person, situation, context, psychological mechanisms, systems, adaptation, plasticity, stability, and change are all more specific parts of the architecture established here. The chapter moves from the broad scientific domain toward the objects and relationships needed to describe human functioning precisely.
 
@@ -108,12 +102,15 @@ The general scientific concept of psychology and its scope as the study of human
 Behavior, mental processes, mental states, mechanisms, development, social psychology, culture, disorders, treatment, and research methodology have their own authoritative Topics. Psychology should not absorb those topics into one broad definition.
 
 ## 6. Key Principles
-1. Psychology studies behavior and mental life scientifically.
-2. Human functioning can require multiple levels of explanation.
-3. Description, explanation, and causal inference are not the same.
-4. Psychological phenomena are shaped by interacting biological, psychological, social, cultural, and contextual factors.
-5. Individual variation is part of psychology, not an exception to it.
-6. Psychology is broader than the study of mental disorders.
+1. Psychology studies behavior and mental life through systematic evidence.
+2. Psychological phenomena can require biological, psychological, social, cultural, developmental, and contextual explanations.
+3. Description, explanation, prediction, and causal inference are different scientific tasks.
+4. A construct is not identical to any single measure used to operationalize it.
+5. General psychological patterns can coexist with substantial individual and contextual variation.
+6. Multiple levels of explanation can be complementary rather than mutually exclusive.
+7. Theories organize evidence and generate explanations; they are not automatically established facts.
+8. Strong psychological claims specify mechanism, evidence, scope, and uncertainty.
+
 
 ---
 
@@ -132,50 +129,17 @@ Behavior is not identical to the mental processes that may contribute to it. A p
 **What it is not:** behavior is not synonymous with conscious action, habit, response, or conduct. Those terms overlap but have narrower or context-dependent meanings.
 
 ## 3. Core Understanding
-Behavior is best understood as activity occurring within a person–environment system. What a person does at a given moment can reflect immediate circumstances, internal states, previous learning, current goals, expectations, social pressures, biological conditions, and the consequences that followed earlier behavior. These influences interact rather than forming a single universal chain.
+Behavior is activity expressed by an organism within a particular biological and environmental context. It includes actions, responses, verbal activity, movement, interaction, avoidance, approach, performance, and measurable patterns of responding across time. What counts as behavior depends partly on the level of analysis: a spoken sentence can be treated as an observable act, a communicative behavior, a learned response, or part of a larger social sequence.
 
-Behavior can be directly observed more easily than many psychological processes, but observation does not automatically reveal cause. Seeing someone avoid a room does not establish whether the cause is fear, lack of interest, social convention, physical discomfort, habit, or another factor. Behavioral data are evidence; they require interpretation within an appropriate measurement and explanatory framework.
+Behavior is generated by interacting influences rather than a universal single cause. Immediate stimuli, goals, expectations, learning history, reinforcement contingencies, bodily states, social roles, perceived consequences, available response options, and environmental constraints can all affect what a person does. Their relative contribution can change across situations. Identical behavior therefore does not guarantee identical psychological causes, and one goal can produce different behaviors.
 
-Behavior varies across situations. A person may speak frequently with close friends and remain quiet in a formal meeting. This does not necessarily mean the person has two contradictory personalities. The difference may reflect social expectations, perceived consequences, confidence, role demands, or other contextual factors. Behavioral variability can therefore be informative rather than merely measurement noise.
+Observation provides important evidence while remaining underdetermined with respect to internal causes. Avoidance may reflect fear, fatigue, preference, convention, strategy, physical limitation, or learning. Inferring a mental state from behavior therefore requires converging evidence and an appropriate measurement framework rather than intuition alone.
 
-Behavior also changes over time. Learning can increase or decrease particular patterns. Reinforcement and punishment can alter behavior; observational learning can introduce new responses; development can change available capacities; changes in health or environment can alter performance; and feedback from behavior can change the conditions that produce later behavior. A behavior can therefore participate in a feedback loop with its environment.
+Behavior is dynamic. Consequences can alter future responding; behavior can modify the environment; environmental changes can alter later behavior. Development, learning, practice, health, stress, social feedback, and changing incentives can reshape behavioral patterns. Variability can therefore be scientifically informative when it reveals the conditions under which behavior appears, disappears, or changes form.
 
-Behavior may be individual or social. Speaking, helping, withdrawing, cooperating, competing, and conforming are all behavioral phenomena, but their psychological interpretation depends on the person, situation, relationships, norms, and consequences involved.
+Behavior is not equivalent to mental process. A person may experience a thought without acting on it, while two people may produce the same action for different reasons. Intentional, conscious, observable, and voluntary are also distinct properties. Behavior is a central observable component of psychology, but it is not a transparent window into the entire psychological system.
 
-The distinction between behavior and mental process is central. A person can remember something without immediately displaying that memory, and two people can produce the same behavior while having different thoughts or emotions. Conversely, a similar internal state can produce different behavior because the environment changes what responses are possible or useful.
 
-Behavior can be intentional without being fully conscious. People sometimes initiate actions deliberately but rely on automatic processes during execution. Other behavior occurs with little or no conscious intention. Therefore, “intentional” and “observable” are different dimensions.
-
-The same behavior can have different meanings in different contexts. Silence may reflect concentration, fear, respect, disagreement, fatigue, or deliberate withholding. A smile may express enjoyment, politeness, embarrassment, or a socially required response. Behavioral form alone is often insufficient to determine psychological meaning.
-
-Behavior is also shaped by consequences, but not every behavior has a predictable outcome. Consequences can affect future learning, relationships, social reputation, environmental conditions, and later opportunities. These effects can be immediate or delayed and can differ across people and contexts.
-
-A scientific account of behavior therefore requires attention to measurement. Researchers must specify what behavior is being counted, how often it occurs, under what conditions, and how reliably it can be observed. Behavioral observations can be powerful because they provide evidence that is often externally measurable, but they are limited when the underlying psychological process cannot be observed directly.
-
-### Important distinctions
-**Behavior vs mental process:** behavior is activity or responding; mental processes are internal psychological operations that may not be directly observable.
-
-**Behavior vs action:** action often refers to a more organized or intentional form of behavior, but terminology varies across theories.
-
-**Behavior vs response:** response often denotes a particular reaction to a stimulus, event, or situation; behavior is broader.
-
-**Behavior vs habit:** a habit is a repeated pattern with relatively automatic execution; behavior includes habitual and non-habitual activity.
-
-**Behavior vs conduct:** conduct usually refers to a broader pattern or manner of behaving, often in a social or normative context.
-
-### Examples
-Walking away from a dangerous object, answering a question, helping another person, avoiding a social setting, practicing a skill, and remaining silent can all be behavior. Their causes cannot be inferred from their outward form alone.
-
-### Evidence status
-The definition of behavior as organismic activity is foundational. Claims about why a particular behavior occurs require evidence appropriate to the proposed mechanism. Associations between behavior and a factor do not by themselves prove that factor caused the behavior.
-
-### Deeper Conceptual Structure
-
-Behavior is not limited to dramatic or deliberate acts. It includes observable activity across time, including speech, movement, choices, avoidance, persistence, social responses, and patterns of action. A behavior can be intentional, habitual, automatic, or partly outside awareness. The same outward act can arise from different internal processes, so observing behavior does not by itself reveal its psychological cause.
-
-Behavior is also embedded in feedback. People act in situations, encounter consequences, update their knowledge or expectations, and may alter later behavior. This does not mean every behavior is consciously learned or optimally adapted. Behavior can persist because it is reinforced, practiced, constrained, habitual, emotionally driven, socially regulated, or simply difficult to change.
-
-For scientific analysis, behavior should be described at the level actually observed before explanations are added. "He avoided the call" is an observation; "he avoided it because he feared rejection" is an explanation that requires evidence. This distinction protects against reading unobserved motives directly into observable action.
 ## 4. Relationship to This Chapter
 Behavior is one of the central observable anchors of Chapter 1.1. It connects to person, situation, context, mental processes, psychological mechanisms, action, feedback, regulation, and adaptation. The chapter uses behavior to show why psychological explanation requires both observable activity and the systems that shape it.
 
@@ -187,13 +151,15 @@ The general psychological concept of behavior, its defining characteristics, bro
 Mental processes, cognition, emotion, motivation, learning, action as a distinct construct, psychological mechanisms, and adaptation as broader concepts. Later chapters own those constructs.
 
 ## 6. Key Principles
-1. Behavior is activity or responding by an organism.
-2. Behavior can be intentional or unintentional, simple or complex, individual or social.
-3. Observable behavior does not by itself reveal its psychological cause.
-4. Behavior is shaped by interacting person, internal, environmental, social, and learning factors.
-5. The same behavior can arise from different causes, and the same internal state can produce different behavior.
-6. Context can change the form, frequency, meaning, and consequences of behavior.
-7. Behavior can change through learning, development, feedback, and environmental change.
+1. Behavior is organismic activity occurring within context.
+2. Observable behavior and inferred causes must not be treated as identical.
+3. The same behavior can have different causes; the same goal can produce different behaviors.
+4. Learning, consequences, biological state, goals, and environmental constraints alter behavioral patterns.
+5. Behavioral variability can reveal context sensitivity rather than merely noise.
+6. Behavior participates in feedback loops with its environment.
+7. Intentional, conscious, observable, and voluntary are distinct dimensions.
+8. Behavioral evidence is strongest when interpreted alongside converging measures and alternatives.
+
 
 ---
 
@@ -210,21 +176,15 @@ Mental processes are internal psychological operations through which an organism
 Mental processes are not necessarily conscious. Some are accessible to awareness, some are only partly accessible, and some operate with little or no conscious awareness. They are also not identical to mental states or mental contents: a process is something the system does, while a state is a condition the system is in and a content is what a representation or experience is about.
 
 ## 3. Core Understanding
-Mental processes are dynamic activities rather than static objects. Attending involves selecting information; remembering involves encoding, maintaining, and retrieving information; reasoning involves transforming representations; emotion involves coordinated appraisal, experience, physiological, and action-related processes; motivation involves processes that influence direction and persistence.
+Mental processes are temporally organized operations through which an organism acquires, transforms, maintains, retrieves, evaluates, or uses information and regulates activity. Attention, perception, learning, memory, reasoning, language, appraisal, planning, decision-making, and emotion-related processing are examples. A process is defined by what it does and how it unfolds, not simply by occurring “inside the mind.”
 
-Mental processes can interact. Attention affects what is encoded into memory. Memory can influence perception and interpretation. Emotion can change attention and decision-making. Motivation can influence what information is pursued. These relationships are cross-links, not reasons to collapse the concepts into one process.
+Processes differ from states and contents. A memory can refer to information or representation, whereas remembering is an operation through which information is accessed or reconstructed. A belief can be treated as a relatively enduring state or representation, whereas belief updating describes a process that changes it. Keeping these distinctions explicit prevents static concepts from being mistaken for operations.
 
-A mental process may be inferred rather than directly observed. Researchers may infer memory from recall performance or attention from response patterns, while recognizing that the same observed behavior can sometimes be explained by different processes. Good psychological inference therefore depends on measurement design and competing explanations.
+Processes can involve inputs, transformations, intermediate representations, outputs, monitoring, feedback, and later changes. Some are rapid and relatively automatic; others require deliberate control and available cognitive resources. Automaticity does not imply simplicity, and controlled processing does not guarantee accuracy. Context, goals, prior knowledge, affect, fatigue, social setting, and task demands can change how a process operates.
 
-Processes can be fast or slow, automatic or controlled, stable across contexts or highly context-sensitive. These dimensions are not always binary. A process can begin automatically and later become subject to conscious control, or become more efficient through learning and practice.
+Psychological science usually infers mental processes from converging evidence such as behavior, response time, accuracy, errors, reports, physiological measures, developmental patterns, experimental manipulations, and computational models. Because processes are not directly observable in the same manner as overt behavior, the proposed process must be distinguished from the evidence used to infer it. Different mechanisms can sometimes generate similar outputs, making experimental discrimination important.
 
-Mental processes also operate over different timescales. A perceptual interpretation can occur rapidly, while personality development unfolds over years. The same person can therefore be studied at multiple temporal levels without assuming that one level is the only real one.
 
-### Deeper Conceptual Structure
-
-Mental processes are activities through which information is selected, represented, interpreted, evaluated, integrated, remembered, imagined, or used to guide action. They are not necessarily conscious. Attention can operate with limited awareness; memory can influence behavior without deliberate recollection; evaluations can occur rapidly before a person can report them.
-
-Processes are defined partly by what they do and partly by how they unfold. They can be momentary or extended, serial or overlapping, automatic or controlled, and stable or highly context-sensitive. A process should not be treated as a hidden object simply because it is not directly visible. It is a scientific construct inferred from patterns of behavior, reports, physiology, or other evidence.
 ## 4. Relationship to This Chapter
 Mental processes are paired with behavior as one of the two broad foundations of psychological study. They connect directly to mental states, mental contents, functions, mechanisms, and processing architecture. The chapter treats them as internal operations within a larger psychological system.
 
@@ -236,12 +196,15 @@ The general concept of internal psychological processing.
 Operation-level psychological processing to 1.1.27 Psychological processing; internal representation to 1.1.30 Representation; specific processes such as attention, memory, emotion, motivation, reasoning, and decision-making to their canonical Topics; mental states and contents to their distinct owners.
 
 ## 6. Key Principles
-1. Mental processes are internal psychological operations.
-2. They can occur with or without conscious awareness.
-3. They are not identical to behavior, mental states, or mental contents.
-4. Mental processes interact across domains.
-5. They are often inferred from observable evidence rather than directly observed.
-6. Context, learning, and individual differences can change their operation.
+1. A mental process is an operation or transformation, not simply a mental object.
+2. Processes can be automatic, controlled, or dynamically coordinated.
+3. Processes unfold over time and can include inputs, transformations, monitoring, and feedback.
+4. Process, state, and content are analytically distinct.
+5. Goals, prior knowledge, affect, context, and resources can alter processing.
+6. Mental processes are generally inferred through converging measurements.
+7. Similar behavior can arise from different underlying processes.
+8. A process explanation should specify its operation, conditions, and discriminating evidence.
+
 
 ---
 
@@ -258,19 +221,17 @@ A mental state is a relatively bounded condition of a person’s psychological s
 A state is usually time-sensitive. It can arise, change, and disappear without becoming a stable characteristic of the person. Some states are strongly influenced by the immediate environment; others emerge from internal processes, bodily conditions, learning, or longer-term dispositions.
 
 ## 3. Core Understanding
-Mental states are useful because psychological functioning changes from moment to moment. The same person can be attentive at one time and distracted at another, calm in one setting and anxious in another. A state therefore describes current organization rather than the whole person.
+A mental state is a condition or configuration of psychological functioning at a particular time or bounded interval. Examples include being anxious, attentive, motivated, sleepy, confident, confused, emotionally aroused, or actively remembering. States can vary in intensity, duration, accessibility, and stability. They are generally more time- and context-sensitive than traits, although some states can persist for extended periods.
 
-States can contain several elements. A fearful state may involve bodily arousal, threat-related attention, conscious feeling, expectations, and action tendencies. These components can change together but need not always move in perfect synchrony.
+State variation is fundamental to psychology because the same person can show different attention, emotion, motivation, confidence, or cognitive control at different times. States can arise from external events, internal changes, bodily conditions, social interaction, learned cues, or combinations of these influences. A state can also change how later information is processed and how behavior is selected.
 
-A state can be influenced by external events, internal representations, bodily conditions, goals, social context, sleep, stress, and previous learning. The presence of a state does not prove one specific cause.
+A state should not automatically be treated as the hidden cause of every associated behavior. Anxiety accompanying avoidance does not by itself establish that anxiety caused the avoidance, which aspect of anxiety mattered, or whether another process produced both. States can be causes, consequences, correlates, or components of reciprocal feedback.
 
-Mental states also differ from traits. A state is generally more temporary and context-sensitive, while a trait describes a relatively stable pattern of individual difference. The distinction is useful but not absolute: repeated states can contribute to longer-term patterns, and traits can influence the likelihood of entering particular states.
+Measurement also matters. A state can be represented through subjective report, observable performance, physiological configuration, or multiple indicators, and these indicators need not agree perfectly. A person can report calmness while showing physiological activation, or perform accurately without reporting strong effort. State claims therefore require a defined time frame and measurement basis.
 
-### Deeper Conceptual Structure
+States interact with traits, processes, situations, and contexts. A trait can alter the probability of entering a state; a situation can trigger it; the state can alter processing and behavior; and behavior can change the situation. The most useful state models preserve this dynamic rather than treating states as isolated labels.
 
-Mental states are relatively bounded conditions of a person at a particular time or period, such as feeling anxious, being highly attentive, experiencing confusion, or holding a particular level of motivation. A state is defined by its current condition, not by whether it is visible. States can arise from internal processes, external circumstances, bodily conditions, learning, or combinations of these.
 
-States vary in duration, intensity, stability, and awareness. Some change within seconds; others persist for days or longer. A temporary state should not automatically be interpreted as a trait. Repeated states may contribute to longer-term patterns, but the relationship is not one-to-one.
 ## 4. Relationship to This Chapter
 Mental states sit between the broad concepts of mental processes and mental contents. They provide the changing condition in which processing occurs. They connect with person, context, psychological systems, stability, flexibility, and temporal dynamics.
 
@@ -282,11 +243,15 @@ The general concept of temporary or condition-like psychological organization.
 Specific emotions, motivational states, consciousness states, personality traits, and clinical states to their canonical Topics.
 
 ## 6. Key Principles
-1. Mental states describe conditions of psychological functioning at particular times.
-2. States can change in intensity, duration, and content.
-3. A state is not the same as a trait or process.
-4. States can reflect multiple interacting influences.
-5. Context can strongly affect psychological states.
+1. Mental states describe time-bounded configurations of psychological functioning.
+2. States vary in intensity, duration, accessibility, and stability.
+3. State, trait, process, and content are distinct analytical categories.
+4. Subjective, behavioral, and physiological indicators can converge or diverge.
+5. States can be causes, consequences, correlates, or components of reciprocal processes.
+6. Situations and contexts alter the probability and expression of states.
+7. State variability is a normal feature of human functioning.
+8. Claims about a state should specify indicators, timing, and boundaries.
+
 
 ---
 
@@ -303,19 +268,17 @@ Mental contents are the information, representations, meanings, images, proposit
 Contents can be conscious or unconscious, accurate or inaccurate, simple or complex, verbal or nonverbal. They can also be externally triggered, retrieved from memory, generated internally, or constructed through interpretation.
 
 ## 3. Core Understanding
-A person can process information without being consciously aware of the content being processed. Conversely, a person can consciously hold a representation while the processes that maintain or transform it remain partly automatic.
+Mental contents are the information, representations, meanings, experiences, beliefs, images, memories, thoughts, intentions, goals, and other psychological material that can be present in or made available to mental functioning. The concept concerns what psychological activity represents or carries rather than the operation by which that material is processed. A remembered event is content; remembering is a process; confidence in the memory is a different psychological property.
 
-Mental contents include beliefs about the world, memories of events, imagined future situations, goals, perceptions of objects, interpretations of social events, and subjective feelings. These contents are not necessarily accurate copies of reality. Perception and memory involve constructive processes, and beliefs can be mistaken while still guiding behavior.
+Contents vary in format and accessibility. Some are verbal or symbolic, some perceptual or imagistic, some affective or evaluative, and some are difficult to report directly. Explicit accessibility and conscious awareness are related but not interchangeable with storage, existence, or accuracy. A representation may influence behavior without being consciously accessible, while a consciously accessible representation can be inaccurate.
 
-Content can change through attention, learning, reasoning, communication, social influence, and experience. A remembered event may be reconstructed; an expectation can alter interpretation; a new goal can change what information becomes relevant.
+Mental content is not necessarily a literal copy of external reality. Perception organizes sensory input; memory can reconstruct; beliefs incorporate inference and prior knowledge; and imagery can recombine information. A content can therefore be psychologically real and causally influential without being factually correct.
 
-The distinction between content and process is especially important. “Remembering that a meeting occurred” is content; retrieving that memory is a process. “Believing that an event is dangerous” is content; evaluating evidence for that belief is a process.
+Contents interact continuously with processes and states. A threat representation can bias attention; an expectation can shape interpretation; a goal can organize planning; and an emotionally significant memory can alter later appraisal. Repeated processing can strengthen, elaborate, transform, contextualize, or weaken accessible content.
 
-### Deeper Conceptual Structure
+Scientific treatment requires distinguishing content from the construct used to describe it and from the measurement used to infer it. A questionnaire response, reaction-time effect, verbal report, or physiological measure can provide evidence about content without being identical to the content itself.
 
-Mental contents are the information or material represented in the mind, such as beliefs, memories, images, concepts, expectations, goals, perceptions, and thoughts. Content answers what is represented; process answers what the mind is doing with that content. The same content can be processed differently depending on attention, context, emotion, goals, and prior knowledge.
 
-Mental content is not necessarily accurate. A person can represent an event incorrectly, remember it incompletely, or hold a belief that conflicts with available evidence. For this reason, the existence of a mental representation and the truth of what it represents must be kept conceptually separate.
 ## 4. Relationship to This Chapter
 Mental contents form the representational material on which psychological processing operates. They connect to representation, interpretation, evaluation, memory, thought, perception, goals, and beliefs while remaining conceptually distinct from those processes.
 
@@ -327,11 +290,15 @@ The general concept of psychological information or representational content.
 Specific beliefs, memories, concepts, perceptions, goals, and emotions to their canonical Topics.
 
 ## 6. Key Principles
-1. Mental content concerns what a psychological representation or experience is about.
-2. Content and process are different levels of description.
-3. Mental contents can be conscious or unconscious.
-4. Content can be inaccurate while still influencing behavior.
-5. Content can change through learning, interpretation, memory, and experience.
+1. Mental content concerns what psychological activity represents, carries, or is about.
+2. Content is distinct from the process operating on it and the state in which it occurs.
+3. Accessibility is not equivalent to existence, accuracy, or consciousness.
+4. Contents can be constructed, transformed, inferred, and reconstructed.
+5. Contents can influence attention, interpretation, emotion, goals, and action.
+6. One content can be represented in multiple formats or levels of abstraction.
+7. Evidence about content is indirect and measurement-dependent.
+8. A representation can influence behavior without accurately mirroring external reality.
+
 
 ---
 
@@ -348,17 +315,17 @@ Psychological functions are organized capacities or operations through which a p
 A function describes what a system does or enables, not necessarily the specific mechanism by which it does it. The same function may be supported by multiple interacting processes.
 
 ## 3. Core Understanding
-Functions are useful at an intermediate level of explanation. For example, memory supports retention and later use of information, while multiple mechanisms contribute to encoding, consolidation, storage, and retrieval. Attention supports selective processing, but it is implemented through multiple processes and systems.
+Psychological functions are organized capacities or operations that contribute to an organism's ability to detect information, maintain internal organization, regulate activity, learn, adapt, pursue goals, communicate, relate socially, and respond to changing conditions. The term is functional: it asks what organized activity accomplishes rather than merely where a process occurs.
 
-Functional descriptions should not be confused with claims about evolutionary purpose. Saying that a process serves a function does not automatically prove that it evolved for that function. Psychological functions can be shaped by learning, development, culture, and immediate demands as well as biological history.
+Examples include perception, attention, memory, learning, emotion regulation, motivation, planning, decision-making, communication, social coordination, and self-regulation. A function can depend on multiple mechanisms and can be implemented through different processes under different conditions. Conversely, one mechanism can contribute to several functions. Psychological architecture is therefore often many-to-many rather than one-to-one.
 
-Functions can operate cooperatively or competitively. A system may need to maintain information while also responding to new stimuli. A goal can support persistence while another process signals that the goal should be abandoned. Human functioning therefore involves coordination and trade-offs.
+Functional description also differs from evolutionary purpose. Saying that a process contributes to threat regulation describes a current functional contribution; it does not by itself prove that the process evolved specifically for that purpose. Historical evolutionary claims require separate evidence.
 
-### Deeper Conceptual Structure
+Functions often involve trade-offs. Threat attention can facilitate detection while consuming resources. Habitual responding can improve efficiency while reducing flexibility when conditions change. A behavior can therefore be functional relative to one environment and costly in another. Function must be evaluated against goals, constraints, timescale, and environment.
 
-Psychological functions describe what a psychological process, capacity, or system enables an organism to do. Functions can include detecting relevant information, regulating arousal, learning from experience, selecting actions, maintaining goals, coordinating social behavior, or adapting to changing demands. A function is therefore an explanatory description of a role, not automatically a claim that the role evolved for that exact purpose.
+Functions can emerge from interacting components. Effective decision-making may require perception, memory, valuation, emotion, inhibitory control, and external information rather than a single “decision function.” A precise account therefore identifies inputs, operations, outputs, interactions, conditions of success, and characteristic failure modes.
 
-Functional language is useful because the same function can be supported by multiple mechanisms, and one mechanism can contribute to multiple functions. A functional explanation should remain compatible with evidence about mechanisms and should not be mistaken for proof of evolutionary design.
+
 ## 4. Relationship to This Chapter
 Psychological functions connect constructs, processes, mechanisms, and systems. They help explain why the architecture contains different components without assuming that each component operates independently.
 
@@ -370,10 +337,15 @@ The general functional level of psychological explanation.
 Specific mechanisms, processes, capacities, and systems to their canonical owners.
 
 ## 6. Key Principles
-1. A function describes what psychological activity accomplishes or enables.
-2. One function can depend on multiple mechanisms.
-3. Functional description is not automatically an evolutionary explanation.
-4. Psychological functions can interact and compete.
+1. Psychological functions describe what organized psychological activity accomplishes.
+2. Functions are not identical to anatomical structures or single mechanisms.
+3. One function can depend on multiple interacting processes.
+4. One mechanism can contribute to multiple functions.
+5. Functional contribution does not by itself establish evolutionary purpose.
+6. Functions often involve trade-offs among speed, accuracy, efficiency, and flexibility.
+7. A function can be beneficial in one context and costly in another.
+8. Strong functional explanations identify inputs, operations, outputs, conditions, and failure modes.
+
 
 ---
 
@@ -390,19 +362,17 @@ A psychological mechanism is an organized process or set of interacting processe
 Mechanisms can operate at different levels and may involve cognitive, affective, motivational, biological, social, or environmental components. They are explanatory structures, not simply correlations.
 
 ## 3. Core Understanding
-A mechanism answers a “how” question. If repeated experience changes a response, a mechanism-level explanation asks what processes connect experience to later behavior. If a social cue changes judgment, the mechanism might involve attention, interpretation, memory retrieval, norms, or evaluation.
+A psychological mechanism is an organized process or causal system through which psychological phenomena are generated, maintained, transformed, or regulated. Mechanisms answer a stronger question than “what is associated with what?” They specify how a change in one component can produce or alter another through intermediate operations, representations, constraints, feedback, or interactions.
 
-A mechanism can be supported by converging evidence from experiments, longitudinal designs, behavioral measures, physiological measures, computational models, or other methods. Evidence for a mechanism is stronger when alternative explanations are tested rather than assumed away.
+Mechanisms can operate at biological, cognitive, emotional, interpersonal, behavioral, or environmental levels. A learning mechanism can explain how consequences alter future responding; an attentional mechanism can explain selection under limited capacity; an appraisal mechanism can explain how interpretation contributes to emotion; and a social mechanism can explain how perceived norms alter behavior. A psychological mechanism is therefore not automatically a neural mechanism, although psychological mechanisms can be implemented by biological systems.
 
-Mechanisms may be nested. A broad behavior-change mechanism can contain more specific learning, motivational, and action-control processes. This does not mean every mechanism should become a separate owner. Ownership depends on the canonical architecture.
+Mechanisms must be distinguished from descriptive labels, correlations, and statistical mediation. A variable that statistically mediates a relationship is not automatically the mechanism producing it. Strong mechanistic claims require evidence about temporal ordering, intervention, process structure, alternative explanations, and ideally converging methods.
 
-Mechanisms can also be context-sensitive. A mechanism may operate strongly under one condition and weakly under another. A mechanism should therefore not be treated as a universal deterministic machine unless evidence supports such generality.
+Mechanisms are frequently conditional. Their operation can depend on goals, learning history, cognitive resources, social context, bodily state, or environmental structure. Feedback can also make influence reciprocal over time: behavior changes conditions, changed conditions alter processing, and altered processing changes later behavior.
 
-### Deeper Conceptual Structure
+Multiple mechanisms can generate the same observed outcome. A rigorous encyclopedia therefore preserves candidate mechanisms until evidence discriminates among them rather than converting a plausible explanation into an established fact.
 
-Psychological mechanisms explain how a psychological phenomenon is produced, maintained, transformed, or linked to another phenomenon. A mechanism is more informative than simply naming a correlation because it specifies an organized process through which change can occur. Mechanisms can involve cognition, emotion, learning, motivation, attention, bodily regulation, social interaction, or combinations of levels.
 
-Mechanistic claims vary in evidence strength. A proposed mechanism may be strongly supported, partly supported, theoretically plausible, or unresolved. Naming a mechanism does not make it established. A good mechanism account identifies the process, the conditions under which it operates, and the evidence supporting the proposed link.
 ## 4. Relationship to This Chapter
 Psychological mechanisms are the explanatory bridge between the broad architecture and the specific processes and behaviors described in later Topics. They connect person, situation, processing, action, feedback, and outcomes.
 
@@ -414,11 +384,15 @@ The general concept and logic of mechanism-based psychological explanation.
 Specific mechanisms such as reinforcement, appraisal, attentional capture, and cognitive dissonance-like processes to their canonical owners where established in the architecture.
 
 ## 6. Key Principles
-1. Mechanisms explain how phenomena are generated or changed.
-2. A correlation is not automatically a mechanism.
-3. Mechanisms can contain interacting processes.
-4. Mechanisms can be context-sensitive.
-5. Mechanistic claims require evidence that supports the proposed process.
+1. Mechanisms explain how psychological outcomes are produced or changed.
+2. Mechanistic explanation is stronger than naming a correlation.
+3. A statistical mediator is not automatically a proven mechanism.
+4. Mechanisms can operate across biological, psychological, social, and environmental levels.
+5. Mechanisms often have moderators, constraints, and boundary conditions.
+6. Reciprocal feedback can create bidirectional causal influence over time.
+7. Multiple mechanisms can produce similar observable outcomes.
+8. Mechanistic claims require evidence that distinguishes the proposed process from alternatives.
+
 
 ---
 
@@ -435,17 +409,17 @@ A psychological system is an organized set of interacting components that collec
 A psychological system is not necessarily a physically separate structure. It can be a theoretical or functional organization used to explain coordinated activity.
 
 ## 3. Core Understanding
-Systems thinking emphasizes interaction. Attention can influence memory encoding; memory can influence interpretation; motivation can change attention; emotion can alter decision processes; action can change the environment and thereby create new information. These interactions mean that psychological outcomes often emerge from coordinated activity rather than one isolated cause.
+A psychological system is an organized set of interacting processes, states, representations, capacities, mechanisms, and regulatory relations that together produce a recognizable pattern of functioning. The system concept is necessary because psychological phenomena rarely operate as isolated variables. Attention interacts with memory, emotion alters valuation, goals influence selection, learning changes expectations, and social feedback modifies later behavior.
 
-Systems can have relatively stable organization while remaining capable of change. Learning can modify connections among components. Development can reorganize capacities. Stress can change priorities and available resources. Context can activate different parts of the system.
+Systems have components, relations, inputs, outputs, constraints, boundaries, and dynamics. Their organization can produce properties that cannot be understood by examining components independently. Self-regulation, for example, can depend on goal representation, monitoring, motivation, inhibitory control, emotion regulation, environmental cues, and feedback rather than one isolated faculty.
 
-A system can also contain subsystems. A broader self-regulatory system can involve monitoring, goal representation, emotional regulation, action control, and feedback. The existence of subsystems does not imply that the system is perfectly modular or independent.
+Systems can be nested. A memory process participates in cognition; cognition participates in whole-person functioning; the person is embedded in interpersonal, institutional, cultural, and physical environments. Describing one subsystem therefore does not eliminate the need to understand its participation in larger organization.
 
-### Deeper Conceptual Structure
+Systems can be relatively stable while remaining capable of reorganization. Learning, development, stress, illness, practice, social relationships, and environmental change can alter component relations. Systems may also display nonlinear behavior: small changes can have large effects under some conditions, whereas large inputs can produce little change when buffering or constraints are strong.
 
-Psychological systems are organized sets of interacting processes, structures, or functions that together support a broader pattern of psychological activity. A system is not simply a list of parts. Its parts interact, constrain one another, exchange information or resources, and can produce properties that are not obvious from any single part.
+The systems perspective emphasizes organization, interaction, feedback, emergence, and temporal change. It should not become a vague substitute for mechanism. A scientifically useful system model specifies components, relationships, boundaries, inputs, outputs, constraints, and dynamics sufficiently clearly to generate testable expectations.
 
-Systems can be nested. A psychological system may contain smaller processes and may itself operate within larger biological, social, and cultural systems. This makes system boundaries useful analytical choices rather than absolute walls. The correct boundary depends on the question being studied.
+
 ## 4. Relationship to This Chapter
 Psychological systems provide the structural layer connecting constructs, functions, mechanisms, person, environment, processing architecture, and temporal dynamics.
 
@@ -457,10 +431,15 @@ The general systems concept in psychological explanation.
 Specific neural, cognitive, motivational, social, developmental, and clinical systems to their canonical domains.
 
 ## 6. Key Principles
-1. Psychological systems contain interacting components.
-2. Systems can be stable while remaining changeable.
-3. System-level outcomes can emerge from interactions among components.
-4. Psychological systems are connected to bodily and environmental conditions.
+1. A psychological system is an organized network of interacting components.
+2. Components can acquire properties from their relationships within the system.
+3. Psychological systems are nested within larger biological, social, and environmental systems.
+4. Feedback and reciprocal influence are central to many systems.
+5. Systems can remain organized while changing through learning, development, stress, or environmental shifts.
+6. Nonlinear and emergent behavior can arise from component interactions.
+7. “System” does not substitute for specifying mechanisms and relationships.
+8. Useful system models identify components, boundaries, inputs, outputs, constraints, and dynamics.
+
 
 ---
 
@@ -477,17 +456,17 @@ A psychological construct is a theoretically defined concept used to represent, 
 A construct is a scientific concept, not necessarily a directly observable entity. Researchers operationalize constructs through measures, tasks, reports, behavioral indicators, physiological indicators, or combinations of evidence.
 
 ## 3. Core Understanding
-Constructs make scientific communication possible. Researchers can study a phenomenon across different studies only when they specify what they mean and how it is measured. The same label can nevertheless be used differently across theories, so conceptual definition matters.
+A psychological construct is an abstract scientific concept used to represent a pattern, capacity, process, state, or individual difference that is not reducible to a single directly observed event. Constructs include concepts such as intelligence, anxiety, self-efficacy, working-memory capacity, impulsivity, and conscientiousness. They organize observations and theories, but they require careful operationalization because the construct itself is not identical to any one measurement procedure.
 
-A construct should not be treated as real simply because a measurement has been given a name. Measurement validity asks whether the operationalization actually represents the intended construct. A score can be reliable yet fail to measure the intended concept.
+Constructs are inferred from indicators such as behavioral performance, self-report, informant ratings, physiological measures, experimental tasks, or combinations of methods. Different indicators can capture different aspects of a construct, while one indicator can be influenced by several constructs. A familiar label therefore does not guarantee valid measurement.
 
-Constructs can be broad or narrow. Some are foundational, while others are domain-specific. They can also relate to processes, states, traits, mechanisms, or outcomes. The ontology distinguishes these types to avoid collapsing fundamentally different concepts.
+Construct validity includes questions of content coverage, convergent evidence, discriminant evidence, structural organization, criterion relations, and theoretical coherence. A construct should distinguish itself from neighboring concepts while remaining connected to phenomena it is theoretically expected to explain or predict. Poorly bounded constructs can become explanatory labels that merely rename the outcome they are supposed to explain.
 
-### Deeper Conceptual Structure
+Constructs can change as evidence accumulates. A broad construct may be decomposed into dimensions, two proposed constructs may prove highly overlapping, or a measurement model may reveal that an apparently unitary concept is heterogeneous. This is why conceptual definitions must be distinguished from particular scales, diagnostic categories, experimental tasks, or scores.
 
-Psychological constructs are conceptual tools used to represent patterns or properties that cannot always be observed directly as a single physical object. Examples include motivation, anxiety, intelligence, self-control, and trust. A construct becomes scientifically useful when its meaning, measurement, relationships, and limits are specified clearly.
+Constructs are indispensable because scientific explanation requires abstraction, but abstraction creates reification risks. Treating an abstract construct as a simple physical object with one fixed cause, location, or expression obscures its relationship to indicators, mechanisms, contexts, and consequences.
 
-Constructs should not be treated as concrete hidden objects merely because they have names. Different measures may capture different aspects of the same construct, and a measure can contain error or overlap with neighboring constructs. Good construct definition therefore includes both what the construct represents and what it does not claim to represent.
+
 ## 4. Relationship to This Chapter
 Psychological constructs are the basic conceptual units of the PSYCHO SALES ontology. Every later Knowledge Object must have a clear conceptual status and owner.
 
@@ -499,11 +478,15 @@ The general concept of a psychological construct and its role in scientific theo
 Individual constructs such as behavior, motivation, memory, personality, and intelligence to their canonical Topics.
 
 ## 6. Key Principles
-1. A construct is a scientific concept, not necessarily a directly observable object.
-2. Clear definition is required before valid measurement.
-3. Reliability does not guarantee construct validity.
-4. Different theories may define related constructs differently.
-5. One canonical owner prevents conceptual duplication.
+1. A construct is an abstract scientific concept inferred from observable indicators.
+2. A construct is not identical to a test, questionnaire, task, or physiological measure.
+3. Construct validity requires convergent and discriminating evidence.
+4. One indicator can reflect multiple constructs, and one construct can require multiple indicators.
+5. Constructs need boundaries that distinguish them from neighboring concepts.
+6. Reification can turn an abstraction into a misleading pseudo-object.
+7. Constructs can be refined, split, combined, or reconceptualized as evidence develops.
+8. Strong construct definitions connect meaning, measurement, mechanisms, and expected relationships.
+
 
 ---
 
@@ -518,17 +501,17 @@ Traits describe relatively stable patterns of individual difference. They requir
 A psychological trait is a relatively enduring characteristic or tendency that differs among people and is associated with patterns of behavior, experience, cognition, emotion, or motivation across situations and time. Traits describe probabilistic tendencies rather than fixed predictions.
 
 ## 3. Core Understanding
-Traits are best understood as dimensions, not rigid categories. A person may be higher or lower on a trait, and the behavioral expression of that trait can depend on the situation. Trait concepts therefore complement rather than replace person–situation analysis.
+A psychological trait is a relatively enduring individual-difference characteristic describing a person's typical tendency, capacity, style, or pattern of responding across time and situations. Traits are probabilistic descriptions, not guarantees. A person high on a trait may be more likely to behave in a corresponding way, while situational demands, current states, goals, learning, roles, and social context can substantially alter actual behavior.
 
-Traits can show substantial stability while also changing over development. Stability does not mean permanence. Measurement also matters: a trait score reflects the construct plus measurement error and context-sensitive expression.
+Trait concepts are useful because people display meaningful regularities. Individuals differ systematically in characteristics such as extraversion, conscientiousness, emotional stability, openness, and other empirically defined dimensions. Trait measurement can use self-report, informant reports, behavioral indicators, or combinations of methods. Reliability, validity, response biases, cultural interpretation, and the chosen trait model affect what can be inferred.
 
-Traits can influence the probability of entering certain states or selecting certain behaviors, but they do not mechanically determine every action. A highly conscientious person can still procrastinate; an emotionally stable person can still experience intense distress under extreme conditions.
+Traits should not be confused with states. A trait describes relatively stable differences among people; a state describes a person's condition at a particular time. Traits can influence the probability of entering or expressing states, while repeated experiences and developmental processes can contribute to trait change. Stability and change therefore coexist.
 
-### Deeper Conceptual Structure
+Trait consistency also does not mean identical behavior across situations. Role expectations, incentives, relationships, environmental affordances, and person–situation interactions can alter expression. Trait psychology is therefore most informative when it describes regularities while specifying where and when they generalize.
 
-Psychological traits describe relatively enduring patterns of individual difference. A trait is not a permanent behavior and does not imply that a person will respond identically in every situation. Traits change more slowly than momentary states, but they can develop, interact with context, and show meaningful variation across time.
+Traits also should not automatically be treated as fixed biological essences. Biological influences can contribute to individual differences, but developmental history, learning, socialization, environment, and gene–environment interplay also matter. A precise trait account asks how stable the characteristic is, across which situations, measured by which method, and through which processes it affects functioning.
 
-Trait concepts are useful when they summarize recurring patterns without pretending to explain every occurrence. A person may have a stable tendency toward a behavior while still behaving differently when goals, roles, incentives, stress, relationships, or situations change. Trait explanations are therefore strongest when combined with situational and process information.
+
 ## 4. Relationship to This Chapter
 Traits connect individual differences with behavior, states, personality, development, and person–situation interaction. Chapter 1.14 owns the broader personality and trait domain.
 
@@ -540,11 +523,15 @@ The general concept of relatively enduring psychological individual differences.
 Specific personality traits and trait models to Chapter 1.14.
 
 ## 6. Key Principles
-1. Traits describe relatively stable individual differences.
-2. Traits are probabilistic, not deterministic.
-3. Trait expression depends partly on context.
-4. Stability and change can coexist.
-5. Traits are distinct from temporary states.
+1. Traits describe relatively enduring individual differences in tendencies or characteristics.
+2. A trait changes probabilities; it does not mechanically determine behavior.
+3. Trait expression depends on situations, states, goals, roles, and environmental affordances.
+4. Traits and states are distinct but dynamically related.
+5. Trait inference depends on reliable and valid measurement.
+6. Trait stability does not imply immutability.
+7. Trait differences can reflect interacting biological, developmental, learning, and environmental influences.
+8. Trait explanations are strongest when linked to the situations and processes through which differences are expressed.
+
 
 ---
 
