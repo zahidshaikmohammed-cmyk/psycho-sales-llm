@@ -1587,9 +1587,670 @@ General perceptual organization to 1.4.17; Gestalt framework to 1.4.18; proximit
 
 ---
 
+
+
+---
+
+## 1.4.21 Proximity
+
+## 1. Purpose
+
+Proximity is a perceptual grouping principle in which elements that are spatially or temporally close tend to be organized together. It helps explain why a display can be perceived as structured even before individual elements are identified.
+
+## 2. Definition
+
+**Proximity** is the tendency for perceptual elements that are sufficiently close to one another, relative to other elements and task conditions, to be grouped as belonging together.
+
+**What it is not:** Proximity is not simply physical distance in isolation. Grouping depends on relative spacing, scale, orientation, modality, and competing organizational cues.
+
+## 3. Core Understanding
+
+### Relative spacing
+
+The effect of proximity is relational. An element can appear close to one group when the same physical distance would appear far from another group. What matters is the configuration of distances and the alternative groupings available.
+
+### Spatial and temporal forms
+
+In vision, spatial proximity can organize dots, lines, shapes, and regions. In audition and other modalities, temporal proximity or synchrony can contribute to grouping events into a common stream. The general principle is therefore broader than simple physical closeness in two-dimensional space.
+
+### Interaction with other cues
+
+Proximity can compete with similarity, continuity, common fate, and figure–ground organization. When cues conflict, perceptual grouping can become ambiguous or can favor the cue that provides stronger or more reliable evidence under the circumstances.
+
+### Measurement
+
+Proximity effects can be studied by manipulating inter-element spacing while holding other properties constant and measuring grouping reports, search performance, segmentation, or discrimination. The relevant threshold is not universal because grouping depends on the complete configuration.
+
+### Evidence Status
+
+Proximity is a robust grouping tendency, particularly in visual organization. Its quantitative expression depends on stimulus scale, density, competing cues, and task.
+
+### Misconceptions
+
+Proximity does not guarantee grouping. Closely spaced elements can remain separate when other cues strongly indicate different sources, and distant elements can sometimes be grouped by stronger similarity or common motion.
+
+## 4. Relationship to This Chapter
+
+Proximity is a specific grouping cue within perceptual organization and Gestalt organization. It is conceptually paired with similarity but answers a different question: similarity concerns shared features, whereas proximity concerns relational closeness.
+
+## 5. Boundaries
+
+### Owns
+
+Proximity as a perceptual grouping relation.
+
+### Defers
+
+Similarity to 1.4.20; continuity to 1.4.22; common fate to 1.4.24; general perceptual organization to 1.4.17.
+
+## 6. Key Principles
+
+- Proximity promotes grouping when elements are relatively close.
+- The effect depends on configuration rather than absolute distance alone.
+- Proximity can be spatial or, in appropriate modalities, temporal.
+- Other grouping cues can strengthen, weaken, or override proximity.
+
+---
+
+## 1.4.22 Continuity
+
+## 1. Purpose
+
+Continuity describes the tendency for perceptual systems to organize elements into smooth, coherent trajectories or structures rather than arbitrary abrupt changes when the available evidence supports a continuous interpretation.
+
+## 2. Definition
+
+**Continuity** is the perceptual tendency to group aligned or smoothly progressing elements into continuous contours, trajectories, or structures.
+
+**What it is not:** Continuity is not the same as temporal continuity in development or personality, and it does not imply that the physically continuous interpretation is always correct.
+
+## 3. Core Understanding
+
+### Spatial continuity
+
+In vision, contours that follow a smooth path tend to be perceived as belonging together. This can allow an object boundary to remain perceptually coherent even when portions are interrupted or occluded.
+
+### Ecological usefulness
+
+Continuous contours are common consequences of physical surfaces and object boundaries. Favoring smooth interpretations can therefore provide useful structure for recovering objects from incomplete sensory input.
+
+### Interaction with occlusion
+
+Continuity often interacts with occlusion and figure–ground organization. A contour may be perceived as continuing behind another object rather than terminating at the occluding boundary. This contributes to perceptual completion.
+
+### Temporal continuity
+
+Temporal sequences can also be organized according to smooth change. However, temporal continuity should not be treated as identical to the spatial grouping principle; the specific mechanisms and cues differ by modality.
+
+### Measurement
+
+Continuity can be tested through contour integration, interrupted-line displays, path-following judgments, and grouping tasks. The degree of curvature, spacing, alignment, and interruption can be manipulated experimentally.
+
+### Evidence Status
+
+Smooth-contour grouping is well established in visual perception. The specific computational mechanisms underlying contour integration involve multiple levels of neural processing and remain an active research area.
+
+### Misconceptions
+
+Continuity is a perceptual tendency, not a rule that forces every ambiguous stimulus into the smoothest possible interpretation. Stronger cues can produce discontinuous percepts.
+
+## 4. Relationship to This Chapter
+
+Continuity belongs to perceptual organization and interacts closely with closure and perceptual completion. It differs from closure because continuity concerns coherent trajectories, whereas closure concerns completing an incomplete structure into a bounded whole.
+
+## 5. Boundaries
+
+### Owns
+
+Continuity as a perceptual grouping tendency for coherent trajectories and contours.
+
+### Defers
+
+Closure to 1.4.23; perceptual completion to 1.4.25; developmental continuity to Chapter 1.15.
+
+## 6. Key Principles
+
+- Smooth and aligned structures tend to be perceptually grouped.
+- Continuity can support contour integration across interruptions.
+- Continuity interacts with occlusion and other grouping cues.
+- It is distinct from developmental or temporal continuity as a general psychological concept.
+
+---
+
+## 1.4.23 Closure
+
+## 1. Purpose
+
+Closure describes the tendency for perceptual systems to organize incomplete elements into coherent bounded forms when the available structure supports such an interpretation.
+
+## 2. Definition
+
+**Closure** is the tendency to perceive incomplete or fragmented elements as forming a complete, bounded configuration when the stimulus provides sufficient structural cues.
+
+**What it is not:** Closure is not a conscious act of filling every missing piece, and it is not synonymous with all forms of perceptual completion.
+
+## 3. Core Understanding
+
+### Organization into wholes
+
+When a contour contains gaps but the remaining segments strongly imply a closed shape, observers may perceive a complete figure. The perceptual system uses relations among visible elements to construct a more coherent organization than the raw local features alone would provide.
+
+### Relation to completion
+
+Closure is one route by which incomplete information can be organized into a coherent form. Perceptual completion is broader: it includes the representation of missing contours, surfaces, objects, or events when evidence supports their continuation.
+
+Thus closure is a specific organizational tendency, not the entire phenomenon of completion.
+
+### Context and prior structure
+
+Closure effects depend on the geometry of the visible elements, spacing, orientation, symmetry, familiarity, and competing interpretations. Familiar objects can sometimes be completed more readily, but familiarity should not be assumed to be the only mechanism.
+
+### Measurement
+
+Researchers can manipulate gap size, contour alignment, curvature, symmetry, and other features and measure recognition, grouping, discrimination, or subjective completion. Performance can reveal how much structure is sufficient for a coherent percept.
+
+### Evidence Status
+
+Closure is a robust perceptual phenomenon and an important component of Gestalt descriptions. Its contemporary explanation can involve multiple processes, including contour integration, object completion, and perceptual inference.
+
+### Misconceptions
+
+Closure does not mean the brain “ignores missing information.” It means the system forms a structured interpretation despite incomplete sensory input.
+
+## 4. Relationship to This Chapter
+
+Closure sits between classical Gestalt organization and modern study of perceptual completion. It should be retrieved separately from continuity because the two describe different organizational relationships.
+
+## 5. Boundaries
+
+### Owns
+
+The grouping tendency toward coherent bounded forms from appropriately structured incomplete input.
+
+### Defers
+
+Continuity to 1.4.22; perceptual completion to 1.4.25; Gestalt organization to 1.4.18.
+
+## 6. Key Principles
+
+- Structured gaps can be organized into coherent forms.
+- Closure depends on the available configuration and competing cues.
+- Closure is narrower than perceptual completion.
+- The phenomenon does not require conscious reasoning or literal reconstruction of every missing detail.
+
+---
+
+## 1.4.24 Common fate
+
+## 1. Purpose
+
+Common fate explains grouping based on shared movement or change. It is particularly important for perceiving objects and agents in dynamic environments.
+
+## 2. Definition
+
+**Common fate** is the tendency for elements that move or change together in a coordinated way to be perceptually grouped as belonging to the same unit or source.
+
+**What it is not:** Common fate is not simply motion perception. Motion can be detected without grouping, while common fate concerns the organizational relationship between multiple moving elements.
+
+## 3. Core Understanding
+
+### Shared movement
+
+When multiple elements move in the same direction with related timing or trajectory, they are more likely to be perceived as a coherent group. This can help distinguish an object from a stationary or differently moving background.
+
+### Ecological significance
+
+Coordinated movement often occurs because parts of the same physical object move together, or because multiple elements share a common source. Common-fate grouping can therefore provide useful information about object structure and scene dynamics.
+
+### Relative motion
+
+Grouping depends on relative motion rather than movement alone. Two elements moving independently in the same broad direction may not group as strongly as elements whose motion is tightly coordinated.
+
+### Temporal structure
+
+Timing matters. Synchronous onset, acceleration, direction change, or trajectory can increase grouping. Delayed or conflicting movement can weaken it.
+
+### Measurement
+
+Common-fate effects are studied by manipulating motion coherence, direction, velocity, temporal synchrony, and spatial arrangement while measuring grouping or object perception.
+
+### Evidence Status
+
+Motion-based grouping is well established in visual perception. The exact interaction between common fate, attention, object tracking, and higher-level expectations varies with task and stimulus.
+
+### Misconceptions
+
+Common fate does not mean that all co-moving elements are necessarily perceived as one object. Strong shape, depth, or source cues can lead to different organizations.
+
+## 4. Relationship to This Chapter
+
+Common fate extends perceptual organization into dynamic scenes and links grouping with motion perception and object segregation. It complements static cues such as similarity and proximity.
+
+## 5. Boundaries
+
+### Owns
+
+Shared movement/change as a perceptual grouping relation.
+
+### Defers
+
+Motion perception to 1.4.41; similarity to 1.4.20; proximity to 1.4.21; object recognition to 1.4.42.
+
+## 6. Key Principles
+
+- Coordinated movement can bind elements into perceptual groups.
+- Relative motion and temporal coordination are important.
+- Common fate is an organizational cue, not the same as motion detection.
+- Other object and scene cues can compete with motion-based grouping.
+
+---
+
+## 1.4.25 Perceptual completion
+
+## 1. Purpose
+
+Perceptual completion explains how coherent perceptual representations can be formed when portions of an object, surface, contour, or event are absent from direct sensory input.
+
+## 2. Definition
+
+**Perceptual completion** is the process by which the perceptual system represents structure that is partly occluded, interrupted, degraded, or otherwise absent from the immediate sensory signal, using available evidence to construct a coherent interpretation.
+
+**What it is not:** Completion is not arbitrary imagination and does not imply that the system reconstructs every missing physical detail exactly.
+
+## 3. Core Understanding
+
+### Types
+
+Completion can involve contours, surfaces, object boundaries, textures, sounds, and other sensory structures. In vision, an occluded object may be represented as continuing behind an occluder even though the relevant contour is not directly visible.
+
+### Mechanism
+
+Completion can be supported by continuity, symmetry, texture, motion, depth cues, object knowledge, and other regularities. Different forms of completion can therefore rely on different combinations of sensory and learned information.
+
+### Amodal versus modal completion
+
+A distinction is sometimes made between **amodal completion**, where an object or structure is represented as continuing despite being physically hidden, and **modal completion**, where an illusory perceptual surface or contour is experienced in the absence of corresponding local stimulation. The distinction is useful because the phenomenology and mechanisms can differ.
+
+### Inference and uncertainty
+
+Completion is an example of perceptual inference under incomplete information. The resulting representation is often useful because natural environments contain occlusion and missing information, but it can also produce systematic errors when the assumed continuation is inconsistent with the actual scene.
+
+### Measurement
+
+Researchers study completion using contour-interruption tasks, occlusion displays, illusory contours, object recognition, depth judgments, and neural measures. Performance can reveal which stimulus cues are sufficient for a completed representation.
+
+### Evidence Status
+
+Perceptual completion is well established as a broad phenomenon. Specific mechanisms differ across forms of completion and remain an active research area.
+
+### Misconceptions
+
+Completion is not proof that the brain stores a complete hidden picture. It is better understood as a constrained perceptual representation that supports coherent interpretation under incomplete sensory evidence.
+
+## 4. Relationship to This Chapter
+
+Perceptual completion integrates several earlier grouping principles, especially continuity, closure, figure–ground, and depth cues. It also connects forward to object recognition and constancy.
+
+## 5. Boundaries
+
+### Owns
+
+The general perceptual phenomenon of representing missing or occluded structure coherently.
+
+### Defers
+
+Closure to 1.4.23; continuity to 1.4.22; object recognition to 1.4.42; depth perception to 1.4.38; perceptual inference to 1.4.16.
+
+## 6. Key Principles
+
+- Perception can represent structure that is not directly present in the sensory input.
+- Completion is constrained by available cues and learned regularities.
+- Modal and amodal forms can be distinguished conceptually.
+- Completion supports useful perception but can generate systematic errors when assumptions are inappropriate.
+
+---
+
+## 1.4.26 Perceptual constancy
+
+## 1. Purpose
+
+Perceptual constancy explains how perceived properties of objects can remain relatively stable despite substantial changes in the sensory input produced by distance, viewpoint, illumination, or other conditions.
+
+## 2. Definition
+
+**Perceptual constancy** is the tendency for perceived properties of objects or environments to remain relatively stable across changes in the sensory information produced by viewing or sensing conditions.
+
+**What it is not:** Constancy does not mean perception is perfectly invariant. It is a relative stability that can break down when contextual cues change or become unreliable.
+
+## 3. Core Understanding
+
+### The problem of variable input
+
+An object can produce very different retinal images as it moves closer or farther away, rotates, becomes partly occluded, or is illuminated differently. Yet people can often perceive the object as the same size, shape, or color.
+
+Constancy therefore illustrates that perception is not a direct readout of proximal sensory stimulation.
+
+### Forms
+
+Major forms include size constancy, shape constancy, and color constancy. They share the general problem of maintaining stable object properties while the sensory signal varies, but their cues and mechanisms differ.
+
+### Inference and context
+
+Constancy depends on contextual information that helps estimate the underlying property of the object or environment. Depth cues can support size constancy; viewpoint and object geometry can support shape constancy; illumination and surrounding colors can support color constancy.
+
+The system therefore uses relational information rather than relying only on the local sensory measurement.
+
+### Failure conditions
+
+Constancy is strongest when the relevant environmental assumptions remain valid. Unusual viewpoints, artificial lighting, ambiguous depth cues, unfamiliar objects, or conflicting context can reduce constancy and expose the transformations involved.
+
+### Measurement
+
+Constancy can be measured by comparing judgments of object properties across changes in viewing conditions and by estimating how strongly perceived properties track physical changes versus contextual corrections.
+
+### Evidence Status
+
+Perceptual constancies are robust phenomena, but the relative contribution of low-level sensory mechanisms, learned regularities, object knowledge, and inference varies across modality and task.
+
+### Misconceptions
+
+Constancy is not evidence that the brain literally ignores sensory changes. The changes remain represented; the perceptual system interprets them as consequences of viewpoint, distance, or illumination rather than as changes in the object itself.
+
+## 4. Relationship to This Chapter
+
+Perceptual constancy is a higher-level organizing construct that unifies size, shape, and color constancy while preserving their modality-specific mechanisms. It also connects directly to depth, object recognition, and perceptual inference.
+
+## 5. Boundaries
+
+### Owns
+
+The general construct of stable perceptual representation across changing sensory conditions.
+
+### Defers
+
+Size constancy to 1.4.27; shape constancy to 1.4.28; color constancy to 1.4.29; perceptual inference to 1.4.16.
+
+## 6. Key Principles
+
+- Stable perception can coexist with changing sensory input.
+- Constancy depends on contextual and relational information.
+- Constancy is relative rather than perfect.
+- Different constancies rely on different cues and should not be treated as one identical mechanism.
+- Failure of constancy can reveal the assumptions normally supporting stable perception.
+
+---
+
+## 1.4.27 Size constancy
+
+## 1. Purpose
+
+Size constancy explains why perceived object size can remain relatively stable as viewing distance changes even though retinal image size changes substantially.
+
+## 2. Definition
+
+**Size constancy** is the tendency to perceive an object's physical size as relatively stable across changes in viewing distance that alter the object's retinal image size.
+
+**What it is not:** It is not simply a correction for retinal image size using one fixed formula. Perceived size depends on depth information, context, object knowledge, and viewing conditions.
+
+## 3. Core Understanding
+
+### Retinal-size problem
+
+The visual angle occupied by an object decreases as the object moves farther away. If perception simply represented retinal image size, distant objects would appear to shrink dramatically. Instead, depth information can support an estimate of the object's physical dimensions.
+
+### Depth–size relationship
+
+A major principle is that perceived size depends partly on the estimated distance of the object. Two objects with similar retinal image sizes can be perceived as different physical sizes when one is judged to be farther away.
+
+This relation is sometimes described through size–distance scaling, but the exact relationship is not a universal literal computation applied identically in every context.
+
+### Context and familiar size
+
+Surrounding objects, texture gradients, binocular information, motion-based depth, and learned knowledge can all influence perceived size. Familiar objects can provide additional constraints, although familiar-size effects depend on conditions and should not be treated as the sole mechanism of size constancy.
+
+### Failure conditions
+
+Size constancy can weaken when depth cues are absent, conflicting, or misleading. Visual illusions demonstrate that contextual information can produce systematic deviations from physical size.
+
+### Measurement
+
+Researchers compare size judgments across viewing distances, retinal image sizes, depth cues, and contextual manipulations. The resulting data can separate contributions from retinal stimulation and inferred physical size.
+
+### Evidence Status
+
+Size constancy is a robust perceptual phenomenon. Its quantitative expression varies with depth cues, context, familiarity, and task.
+
+### Misconceptions
+
+Size constancy does not mean the retinal image is ignored. Retinal image size remains informative; it is interpreted in relation to estimated distance and other cues.
+
+## 4. Relationship to This Chapter
+
+Size constancy is a specific form of perceptual constancy and depends heavily on depth perception. It provides a concrete example of perceptual inference solving an underdetermined sensory problem.
+
+## 5. Boundaries
+
+### Owns
+
+Relative stability of perceived physical object size across changes in viewing distance.
+
+### Defers
+
+General perceptual constancy to 1.4.26; depth perception to 1.4.38; monocular and binocular cues to 1.4.39–1.4.40.
+
+## 6. Key Principles
+
+- Retinal image size changes with distance while perceived physical size can remain relatively stable.
+- Depth information is central to size constancy.
+- Context and familiarity can contribute without fully determining perceived size.
+- Constancy can fail when depth information is weak or misleading.
+
+---
+
+## 1.4.28 Shape constancy
+
+## 1. Purpose
+
+Shape constancy explains how objects can be perceived as maintaining stable shape despite changes in the two-dimensional image produced by changes in viewpoint.
+
+## 2. Definition
+
+**Shape constancy** is the tendency to perceive an object's shape as relatively stable across changes in viewing angle or orientation that alter its retinal projection.
+
+**What it is not:** It is not a complete disregard of viewpoint-dependent image changes. The visual system uses those changes as information about three-dimensional structure.
+
+## 3. Core Understanding
+
+### Projection problem
+
+A three-dimensional object produces different retinal shapes as it rotates or is viewed from different positions. A circular object, for example, can produce an elliptical projection when viewed obliquely. Yet observers can perceive the underlying object as circular.
+
+### Geometric and contextual information
+
+Shape constancy depends on information about orientation, depth, symmetry, contours, surface structure, and familiar object geometry. The visual system interprets changes in projection as potentially caused by viewpoint rather than necessarily by physical deformation.
+
+### Object knowledge
+
+Familiarity and prior knowledge can contribute to shape judgments, particularly under ambiguous viewing conditions. However, shape constancy is not reducible to recognition or conscious knowledge of an object's name.
+
+### Failure conditions
+
+Constancy can weaken with unfamiliar shapes, unusual viewpoints, ambiguous depth, or conflicting contextual cues. Such failures are informative because they reveal the conditions under which the system can no longer reliably infer stable three-dimensional structure.
+
+### Measurement
+
+Shape constancy can be studied through matching, identification, orientation judgments, and psychophysical comparisons across viewpoints. Researchers can manipulate viewpoint, object familiarity, depth cues, and contour information.
+
+### Evidence Status
+
+Shape constancy is robustly documented, while the contribution of viewpoint-specific representations, object-centered representations, image-based processing, and learned object structure remains an important theoretical issue.
+
+### Misconceptions
+
+Shape constancy does not mean that the brain stores only a single canonical two-dimensional image of each object. Nor does it require one universal representation; different tasks can recruit different levels of representation.
+
+## 4. Relationship to This Chapter
+
+Shape constancy is a specific form of perceptual constancy and interacts with object recognition, depth perception, and perceptual completion.
+
+## 5. Boundaries
+
+### Owns
+
+Stable perception of object shape across viewpoint-dependent changes in sensory projection.
+
+### Defers
+
+General constancy to 1.4.26; object recognition to 1.4.42; depth perception to 1.4.38.
+
+## 6. Key Principles
+
+- Viewpoint changes alter sensory projection without necessarily changing perceived object shape.
+- Shape constancy depends on depth, geometry, context, and learned regularities.
+- Stable object perception does not require ignoring viewpoint information.
+- Different tasks can reveal different representational contributions to shape constancy.
+
+---
+
+## 1.4.29 Color constancy
+
+## 1. Purpose
+
+Color constancy explains how perceived surface color can remain relatively stable when the illumination falling on a scene changes, despite substantial changes in the physical spectrum reaching the eye.
+
+## 2. Definition
+
+**Color constancy** is the tendency for perceived surface color to remain relatively stable across changes in illumination and viewing conditions.
+
+**What it is not:** It is not a perfect recovery of an object's objective reflectance and does not imply that perceived color is independent of surrounding colors or illumination.
+
+## 3. Core Understanding
+
+### Illumination problem
+
+The light reaching the eye from a surface depends on both the surface's reflectance properties and the illumination under which it is viewed. Different illuminants can therefore change the physical light entering the eye even when the surface itself has not changed.
+
+Perception must estimate which changes are due to illumination and which reflect differences between surfaces.
+
+### Contextual comparison
+
+Color perception is strongly relational. Surrounding surfaces, spatial context, shadows, and scene structure can influence the perceived color of a target. The visual system can use relationships among multiple surfaces to infer properties of the illumination and maintain relative color stability.
+
+### Mechanisms and models
+
+Accounts of color constancy include adaptation to the prevailing illuminant, spatial comparison among surfaces, assumptions about illumination, and learned scene regularities. No single simple mechanism explains every color-constancy condition.
+
+### Failure conditions
+
+Constancy can fail under unusual illuminants, sparse scenes, ambiguous contexts, or displays that violate normal environmental regularities. These failures demonstrate the inferential nature of color perception.
+
+### Measurement
+
+Researchers compare color judgments across controlled changes in illumination and context, measuring perceived color, discrimination, matching, or neural responses. Physical wavelength and perceived color must be distinguished.
+
+### Evidence Status
+
+Color constancy is a robust perceptual phenomenon. Its mechanisms are multi-level and depend on both sensory adaptation and contextual interpretation.
+
+### Misconceptions
+
+Color constancy does not mean color perception is subjective in an unconstrained sense. Nor does it mean that the visual system literally calculates an object's reflectance perfectly.
+
+## 4. Relationship to This Chapter
+
+Color constancy is the color-specific member of the constancy family. It connects sensory coding, color vision, context, adaptation, and perceptual inference.
+
+## 5. Boundaries
+
+### Owns
+
+Relative stability of perceived surface color across changes in illumination.
+
+### Defers
+
+Color vision to 1.4.36; sensory adaptation to 1.4.13; general constancy to 1.4.26; broader context effects to 1.4.32.
+
+## 6. Key Principles
+
+- Surface color perception depends on illumination as well as reflectance.
+- Color constancy requires interpreting relational scene information.
+- Adaptation and contextual comparison can both contribute.
+- Constancy is incomplete and can fail when normal environmental assumptions are violated.
+
+---
+
+## 1.4.30 Perceptual set
+
+## 1. Purpose
+
+Perceptual set describes a predisposition to perceive or interpret sensory information in particular ways because of prior expectations, knowledge, goals, emotional relevance, or task context.
+
+## 2. Definition
+
+A **perceptual set** is a readiness or predisposition to perceive certain interpretations, features, or objects under conditions in which more than one perceptual interpretation is possible.
+
+**What it is not:** Perceptual set is not a general statement that expectations always determine perception, nor is it synonymous with response bias or top-down processing.
+
+## 3. Core Understanding
+
+### Sources
+
+Perceptual set can be influenced by prior experience, expectations, instructions, goals, learned categories, and contextual cues. The effect is especially relevant when the stimulus is ambiguous or weak.
+
+### Selection and interpretation
+
+A set can make some features or interpretations more accessible than alternatives. This can improve efficiency when the expected interpretation matches the environment, but it can also increase systematic errors when expectations are inappropriate.
+
+### Relation to top-down processing
+
+Perceptual set is a specific phenomenon or state of readiness. Top-down processing is the broader processing concept describing higher-level influence on perception. A perceptual set can be one manifestation of top-down influence without exhausting the concept.
+
+### Relation to response bias
+
+A response bias can produce a similar behavioral pattern without changing perception itself. Evidence for perceptual set is stronger when measures show changes in perceptual discrimination, organization, or subjective experience rather than only changes in overt response.
+
+### Temporal dynamics
+
+Sets can be induced temporarily by instructions or recent context, while longer-term sets can arise from expertise or learned environmental regularities.
+
+### Measurement
+
+Researchers manipulate expectations, cues, instructions, or prior exposure and assess perceptual reports, discrimination, reaction time, ambiguous figures, recognition, or physiological indices.
+
+### Evidence Status
+
+Expectation and set effects are well documented, but their size and locus vary. Some effects attributed to perception can be explained by attention, decision strategy, memory, or response bias.
+
+### Misconceptions
+
+A perceptual set does not guarantee that the expected object will be perceived. Strong contradictory sensory evidence can overcome expectations.
+
+## 4. Relationship to This Chapter
+
+Perceptual set connects top-down processing, expectation effects, context, perceptual bias, and recognition. It is a useful intermediate construct between general top-down influence and specific expectation manipulations.
+
+## 5. Boundaries
+
+### Owns
+
+The predisposition toward particular perceptual interpretations arising from prior information, task context, goals, or expectations.
+
+### Defers
+
+Top-down processing to 1.4.15; expectation effects to 1.4.31; response bias to 1.4.12; general attention to Chapter 1.6.
+
+## 6. Key Principles
+
+- Perceptual set changes the readiness to favor some interpretations.
+- Sets can improve efficiency when expectations match environmental regularities.
+- Set effects are strongest when sensory evidence leaves interpretive uncertainty.
+- Behavioral changes alone do not prove that perception itself changed.
+
+---
+
 # Rebuild Status
 
-**Completed in this rebuild pass:** 1.4.1–1.4.20  
-**Remaining:** 1.4.21–1.4.62  
+**Completed in this rebuild pass:** 1.4.1–1.4.30  
+**Remaining:** 1.4.31–1.4.62  
 **Canonical seal:** NOT GRANTED  
 **Architecture:** preserved at exactly 62 Topics
