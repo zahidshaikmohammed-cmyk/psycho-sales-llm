@@ -124,7 +124,7 @@ Remaining Chapters 1.10–1.21 are **not a new phase**. They are continued execu
 
 Current repository state:
 - Chapters 1.1–1.3: completed deep rebuilds.
-- Chapter 1.4: 62/62 Topics deeply rebuilt, with a density-focused semantic audit pass completed and low-density Topics strengthened before final canonical synchronization. The final independent structural/semantic re-audit is now the remaining gate before seal.
+- Chapter 1.4: 62/62 Topics deeply rebuilt; canonical prose synchronized after structural, semantic, ownership, boundary, neighbor, duplication, and density audits. Final validation record is synchronized below.
 - Chapters 1.5–1.21 remain in the existing corpus and are not represented as deep-rebuilt merely because older validation files exist.
 - Chapters 1.5–1.21 remain in the existing corpus and are not represented as deep-rebuilt merely because older validation files exist.
 
