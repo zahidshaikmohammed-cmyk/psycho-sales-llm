@@ -353,3 +353,13 @@ The project now contains a canonical machine-readable System 1 relationship grap
 - Graph validation: `graph/SYSTEM_1_KNOWLEDGE_GRAPH_V1_VALIDATION.md`
 
 The graph is a derived reasoning substrate, not a competing definition layer. Future evidence-attested semantic edges can expand it without weakening provenance.
+
+## Phase 9 — Repository Metadata Synchronization
+
+Project-wide metadata has been synchronized against the live repository.
+
+- **System 1:** Chapters 1.1–1.8 complete, **541 Topics**, **135,805 words**
+- **All eight chapters:** Canonical Knowledge Version 2.0 — V2 certified / locked & sealed
+- **Graph:** 549 nodes, 1,227 typed edges, 0 dangling references, 0 duplicate edges
+- **Repository state index:** `quality/CANONICAL_REPOSITORY_STATE_V1.md`
+- **Roadmap:** Phase 9 complete; Phase 10 is the next execution target
