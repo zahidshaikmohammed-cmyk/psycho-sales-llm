@@ -58,13 +58,17 @@ Required work:
 
 
 ### Chapter 1.8 — Memory
-Current signal: materially stronger than the earlier chapters, but still requires v2 semantic audit.
-Required work:
-- verify neighbor distinctions across memory-system clusters;
-- strengthen measurement and retrieval implications where relevant;
-- verify relationship nodes against the graph specification;
-- ensure clinical memory objects do not silently become diagnostic claims;
-- rerun anti-template and evidence audit.
+**Status: COMPLETE — V2 CERTIFIED / LOCKED & SEALED**
+
+- 76/76 canonical Topics preserved exactly.
+- Existing corpus remains ~16,852 words; average Core Understanding ~96 words; minimum 69; maximum 156.
+- V2 audit found no ontology drift, normalized duplicate Core blocks, repeated Key-Principle sets, placeholder signatures, generic membership signatures, ownership failure, or cross-chapter boundary failure.
+- Neighbor distinctions across memory systems, retrieval, forgetting, memory errors, metacognition, and clinical memory were explicitly audited.
+- Scientific/evidence boundaries verified, including reconsolidation uncertainty, confidence-vs-accuracy, non-simple decay, and context-dependent stress/emotion/sleep effects.
+- V2 validation record: `knowledge/system-01/chapter-1.8/CHAPTER_1.8_FINAL_VALIDATION.md`.
+- Executable attestation: all gates PASS; P0/P1/P2/P3 = 0.
+- **No content rewrite was required; Phase 6 is a semantic re-certification.**
+
 
 ## Priority 2 — chapters requiring semantic certification
 
