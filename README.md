@@ -4,8 +4,8 @@
 **Stage:** Encyclopedia-wide execution of the original **10-phase quality pipeline**  
 **Current rebuild:** **Chapter 1.4 — Sensation and Perception**  
 **Chapter 1.4:** **62/62 Topics deeply rebuilt and audited**  
-**Chapter 1.5:** **44/44 Topics deeply rebuilt, re-audited, and SEALED 🔒**  
-**Next after Chapter 1.4:** **Chapter 1.5 — Consciousness, Sleep, and Altered States**  
+**Chapter 1.5:** **44/44 Topics deeply rebuilt, structurally audited, semantically re-audited, ownership-audited, canonically synchronized, and SEALED 🔒**  
+**Next after Chapter 1.4:** **Chapter 1.5 — Consciousness, Sleep, and Altered States — SEALED 🔒**  
 **Architecture:** **21 locked chapters / 1,364 chapter entries / 1,267 canonical construct-clinical owners**
 
 > **Simple on the surface. Deep underneath. Precise throughout.**
