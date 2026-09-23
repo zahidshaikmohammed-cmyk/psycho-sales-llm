@@ -56,13 +56,15 @@ class ValidatorTests(unittest.TestCase):
             p=Path(d)
             (p/'chapter.md').write_text(chapter(),encoding='utf-8')
             (p/'architecture.md').write_text('# CHAPTER 9.9 — TEST\n- Example construct\n',encoding='utf-8')
-            self.assertEqual(validator.validate(p/'chapter.md',p/'architecture.md'), [])
+            (p/'validation.md').write_text(ATTEST,encoding='utf-8')
+            self.assertEqual(validator.validate(p/'chapter.md',p/'architecture.md',p/'validation.md'), [])
 
     def test_missing_attestation_fails(self):
         with tempfile.TemporaryDirectory() as d:
             p=Path(d)
             (p/'chapter.md').write_text(chapter(False),encoding='utf-8')
             (p/'architecture.md').write_text('# CHAPTER 9.9 — TEST\n- Example construct\n',encoding='utf-8')
+            (p/'validation.md').write_text('',encoding='utf-8')
             errors=validator.validate(p/'chapter.md',p/'architecture.md')
             self.assertTrue(any('attestation' in e for e in errors))
 
