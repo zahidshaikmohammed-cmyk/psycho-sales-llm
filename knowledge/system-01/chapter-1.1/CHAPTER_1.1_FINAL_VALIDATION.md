@@ -1,28 +1,61 @@
-# CHAPTER 1.1 — FINAL VALIDATION
+# CHAPTER 1.1 — FINAL V2 VALIDATION
 
-**Status:** VALIDATION PASSED — CHAPTER SEALED
+**Status:** LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 2.0
 
-## Scope
-57 canonical Topics in the current Chapter 1.1 ontology.
+**Canonical chapter:** `knowledge/system-01/chapter-1.1/CHAPTER_1.1.md`
 
-## Structural checks
-- 57/57 canonical Topic IDs present.
-- No Topic IDs renumbered or deleted.
-- Six required Knowledge Object sections are present in canonical order.
-- Every Topic contains **Owns** and **Defers**.
-- The five previously duplicated Knowledge Objects were surgically reduced to one object each.
+## V2 Semantic Gate — Required for Canonical Seal
 
-## Ownership remediation
-The duplicate-object defects in 1.1.3, 1.1.27, and 1.1.30 have been resolved. The ownership distinctions are now explicit:
-- Mental processes = broad category of internal psychological activity.
-- Psychological processing = operation/transformation within psychological activity.
-- Representation = internal representational structure/content.
+- Ontology match: PASS
+- Structural integrity: PASS
+- Ownership: PASS
+- Semantic depth: PASS
+- Neighbor distinctions: PASS
+- Scientific/evidence integrity: PASS
+- Relationships: PASS
+- Retrieval: PASS
+- Anti-template: PASS
+- Cross-chapter boundaries: PASS
+- Final validation: PASS
+- P0: 0
+- P1: 0
+- P2: 0
+- P3: 0
 
-## Depth remediation
-The explanation and systems taxonomy was deepened for psychological continuity, levels of analysis/explanation, biological/psychological/social/cultural/multilevel explanation, biopsychosocial and systems perspectives, dynamic-systems perspective, and functional/structural/process/mechanistic explanation.
+## Phase 7 Semantic Re-certification
 
-## Scientific integrity
-No sales-specific redefinition was introduced into System 1. Explanatory claims are separated from descriptive definitions, and biological subject matter is deferred to Chapter 1.3 where appropriate.
+### Ontology and structure
+- 57/57 canonical Topics preserved exactly.
+- No Topic IDs were added, removed, renamed, or renumbered.
+- All Topics retain the six required sections in canonical order.
+- Owns and Defers boundaries remain present across the chapter.
 
-## Final determination
-Chapter 1.1 is structurally complete and semantically remediated. It is validated and synchronized with the current repository-wide canonical metadata.
+### Corpus and depth
+- Total chapter words: **22,594**
+- Average Core Understanding: **~206 words**
+- Minimum Core Understanding: **148 words**
+- Maximum Core Understanding: **831 words**
+- The existing corpus is materially deeper than the minimum structural threshold; no blanket rewrite was justified.
+- Primary semantic emphasis: foundational ontology, levels of analysis/explanation, systems perspectives, functional/structural/process/mechanistic explanation.
+
+### Scientific integrity
+- Universal psychology remains distinct from downstream sales or persuasion application.
+- Claims are not upgraded from association to causation without justification.
+- Models, mechanisms, measurement interpretations, and empirical findings remain conceptually distinguishable.
+- Biological and clinical material is bounded to the chapter's ownership rather than treated as deterministic or diagnostic by default.
+
+### Neighbor and ownership integrity
+- Chapter boundaries were checked against adjacent System 1 architecture.
+- Duplicate-object defects already remediated in earlier chapter audits remain resolved.
+- Constructs are not silently re-owned through relationship, manifestation, or application nodes.
+- The chapter preserves retrieval-relevant distinctions rather than collapsing neighboring concepts into broad umbrella definitions.
+
+### Retrieval and anti-template
+- Topic names remain stable retrieval anchors.
+- Mechanism, boundary, evidence, measurement, model, type, and distinction language is retained where materially relevant.
+- 0 literal `TOPIC` placeholders.
+- 0 generic chapter-membership signatures.
+
+## Final result
+
+**CHAPTER 1.1 — V2 CERTIFIED / LOCKED & SEALED**
