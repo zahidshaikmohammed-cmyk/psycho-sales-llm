@@ -265,9 +265,10 @@ The v2 standard adds mandatory semantic requirements for:
 
 ## Current live System 1 state
 
-- Chapters completed: **1.1–1.8**
-- Canonical chapter Topics: **541**
-- Next canonical target: **Chapter 1.9**
+- Chapters completed: **1.1–1.9**
+- Canonical chapter Topics: **608**
+- Canonical corpus words: **158,574**
+- Next canonical target: **Chapter 1.10**
 
 ## Quality-control controls
 
@@ -363,3 +364,20 @@ Project-wide metadata has been synchronized against the live repository.
 - **Graph:** 549 nodes, 1,227 typed edges, 0 dangling references, 0 duplicate edges
 - **Repository state index:** `quality/CANONICAL_REPOSITORY_STATE_V1.md`
 - **Roadmap:** Phase 9 complete; Phase 10 is the next execution target
+
+## Phase 10 — Chapter 1.9 V2 Expansion
+
+Chapter 1.9 — Thinking, Representation, Reasoning, and Problem Solving is now V2 certified and locked/sealed.
+
+- **67/67 Topics preserved exactly**
+- **22,769 words**
+- **Core Understanding average: 107 words**
+- **Minimum: 105 / Maximum: 109**
+- **0 duplicate Core blocks**
+- **0 duplicate Key-Principle sets**
+- **0 literal placeholders**
+- **0 generic chapter-membership signatures**
+- **P0/P1/P2/P3 = 0**
+- Knowledge graph expanded to **608 Topic nodes, 9 chapter nodes, 617 total nodes, 1,361 typed edges**
+- Validation: `knowledge/system-01/chapter-1.9/CHAPTER_1.9_FINAL_VALIDATION.md`
+- **Status: LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 2.0**
