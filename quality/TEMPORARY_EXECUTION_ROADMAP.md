@@ -51,12 +51,14 @@ Preserve all 66 Topics while removing detectable template signatures and deepeni
 
 **Completion evidence:** 66/66 Topics; 13,965 words; Core Understanding average ~89; min 66; max 106; 0 literal placeholders; 0 generic chapter-membership signatures; V2 validation record present; all executable attestation gates PASS; P0/P1/P2/P3 = 0.
 
-### Phase 6
 ### Phase 6 — Audit Chapter 1.8
-**State:** PENDING
+**State:** COMPLETE — LOCKED
 
-Run the v2 semantic audit against Memory before accepting its existing sealed status as intelligence-grade.
+Run the V2 semantic audit against Memory before accepting its existing sealed status as intelligence-grade.
 
+**Completion evidence:** 76/76 Topics preserved; ~16,852 words; Core Understanding average ~96; min 69; max 156; no normalized duplicate Core blocks; no repeated Key-Principle sets; 0 literal placeholders; 0 generic membership signatures; V2 validation record present; all attestation gates PASS; P0/P1/P2/P3 = 0. No rewrite required.
+
+### Phase 7
 ### Phase 7 — Re-certify Chapters 1.1, 1.2, 1.3, and 1.6
 **State:** PENDING
 
