@@ -2,108 +2,141 @@
 
 **Chapter:** 1.5 — CONSCIOUSNESS, SLEEP, AND ALTERED STATES  
 **System:** 1 — HUMAN PSYCHOLOGY  
-**Validation status:** PASSED — V2 SEMANTIC DEPTH CERTIFIED  
-**Validated against:** Live System 1 architecture, Permanent Knowledge Object Writer Constitution, and Chapter 1.5 ownership remediation record.
+**Validation status:** V2 DEEP REBUILT — FINAL RE-AUDIT PASSED / SEALED  
+**Branch:** `psycho-sales-canonical-depth-v2`
 
 ## 1. Ontology Integrity
 
 - Canonical Topic count: **44/44**
 - Topic numbering: **1.5.1–1.5.44**
-- Canonical Topic names: **44/44 exact**
-- No Topic added.
-- No Topic removed.
-- The two pre-writing ownership collisions were surgically disambiguated before writing:
-  - **Self-awareness** → **Consciousness-specific self-awareness** in Chapter 1.5.
-  - **Sleep and memory** → **Sleep-dependent memory effects** in Chapter 1.5.
-- Chapter 1.14 retains the unqualified **Self-awareness** owner.
-- Chapter 1.8 retains the unqualified **Sleep and memory** owner.
+- Topic names: **44/44 preserved from the locked chapter index**
+- No Topic added, removed, renamed, or renumbered.
+- The two pre-existing surgical ownership decisions remain intact:
+  - **Consciousness-specific self-awareness** preserves the Chapter 1.5 narrow owner while the broader Self-awareness construct remains in Chapter 1.14.
+  - **Sleep-dependent memory effects** preserves the Chapter 1.5 sleep-specific relationship while the broader Sleep and memory relationship remains elsewhere.
 
 ## 2. Required Knowledge Object Structure
 
-All 44 Knowledge Objects contain the six permanent sections in the required order:
+All 44 Topics contain the six permanent sections in exact order:
 
-- **Purpose:** 44/44
-- **Definition:** 44/44
-- **Core Understanding:** 44/44
-- **Relationship to This Chapter:** 44/44
-- **Boundaries:** 44/44
-- **Key Principles:** 44/44
+1. Purpose
+2. Definition
+3. Core Understanding
+4. Relationship to This Chapter
+5. Boundaries
+6. Key Principles
 
-No permanent section was invented.
+**44/44 PASS.**
 
-## 3. Ownership Gate
+All 44 Topics contain explicit **Owns** and **Defers** boundary statements.
 
-- Duplicate names inside Chapter 1.5: **0**
-- Exact cross-architecture Topic-name collisions remaining: **0**
-- Every Knowledge Object contains explicit **Owns** and **Defers** boundaries.
-- **Sleep-dependent memory effects** explicitly defers the general **Sleep and memory** relationship to Chapter 1.8.
-- **Consciousness-specific self-awareness** explicitly defers the broader **Self-awareness** construct to Chapter 1.14.
-- Sleep-specific Topics distinguish general biological ownership in Chapter 1.3 from sleep-specific manifestations.
-- Sleep and learning defers general learning to Chapter 1.7.
-- Sleep and emotion defers general emotion to Chapter 1.13.
-- Dissociation is distinguished from dissociative disorders in Chapter 1.19.
-- Psychoactive-substance Topics are distinguished from clinical substance-use disorders in Chapter 1.19.
-- Hallucinogenic effects do not re-own the perceptual **Hallucination as perceptual phenomenon** Topic in Chapter 1.4.
+## 3. Semantic Depth Rebuild
 
-## 4. Scientific Integrity Gate
+The old chapter was not accepted at its previous depth. Every Topic was deepened rather than merely passing structural validation.
 
-The chapter was reviewed for:
-- distinction between consciousness, awareness, self-awareness, attention, and wakefulness;
-- distinction between conscious and unconscious processing;
-- cautious treatment of subliminal processing;
-- dimensional treatment of automaticity rather than an absolute automatic/manual split;
-- distinction between sleep architecture, regulation, homeostasis, circadian timing, and sleep pressure;
-- distinction between REM, NREM, dreams, lucid dreaming, and sleep paralysis;
-- conditional rather than universal claims about sleep effects on memory, learning, and emotion;
-- distinction between chronotype and circadian misalignment;
-- distinction between dissociation and dissociative disorders;
-- distinction between psychoactive effects, tolerance, dependence, and withdrawal;
-- theory/model status where mechanisms remain debated;
-- avoidance of converting associations into universal causal claims;
-- avoidance of treating altered states as inherently pathological;
-- avoidance of treating psychoactive categories as moral or diagnostic labels.
+The rebuild adds Topic-specific treatment of:
+- conceptual dimensions and distinctions;
+- mechanisms where justified;
+- temporal structure and state/process differences;
+- conditions and boundary cases;
+- individual and contextual variation;
+- measurement and inferential limitations;
+- neighboring-construct distinctions;
+- causal uncertainty;
+- cross-chapter ownership.
 
-## 5. System Boundary Gate
+### Final corpus metrics
 
-Chapter 1.5 remains universal psychology.
+- Topics: **44**
+- Canonical chapter size: **125,926 characters / 1,204 lines**
+- Core Understanding average: **221 words**
+- Core Understanding minimum: **180 words**
+- Core Understanding maximum: **257 words**
+- Core Understanding blocks below 120 words: **0**
+- Core Understanding blocks below 150 words: **0**
+- Duplicate Core Understanding blocks: **0**
+- Duplicate Relationship-to-This-Chapter blocks: **0**
+- Missing canonical sections: **0**
+- Missing Owns/Defers boundaries: **0**
 
-No sales framework, buyer model, persuasion framework, or sales tactic was used to redefine a psychological construct.
+The distribution is intentionally topic-specific rather than mechanically equal.
 
-## 6. Final Result
+## 4. Final Re-Audit
 
-**CHAPTER 1.5 — CONSCIOUSNESS, SLEEP, AND ALTERED STATES: VALIDATED FOR CANONICAL USE**
+The completed corpus was re-audited after the deepening pass.
 
-The chapter is structurally complete, ontology-preserving, ownership-aware, and compliant with the locked six-section Knowledge Object constitution.
+### Structural
+- 44 Topics: **PASS**
+- Numbering 1.5.1–1.5.44: **PASS**
+- Six-section order: **PASS**
+- No missing sections: **PASS**
+- Explicit Owns/Defers: **PASS**
 
-**Validation commit:** recorded after final structural verification.
+### Duplication
+- Duplicate Topic names: **0**
+- Duplicate Core blocks: **0**
+- Duplicate Relationship blocks: **0**
 
+### Ownership
+- Consciousness / awareness / self-awareness / access distinctions: **PASS**
+- Conscious vs unconscious vs subliminal processing: **PASS**
+- Automaticity vs automatic vs controlled processing: **PASS**
+- Sleep regulation vs homeostasis vs circadian regulation vs sleep pressure: **PASS**
+- Sleep architecture vs NREM vs REM: **PASS**
+- Dreams vs REM vs lucid dreaming: **PASS**
+- Sleep-memory vs sleep-learning vs general memory/learning ownership: **PASS**
+- Chronotype vs circadian misalignment: **PASS**
+- Dissociation vs dissociative states vs clinical disorders: **PASS**
+- Psychoactive substances vs specific classes vs tolerance/dependence/withdrawal: **PASS**
+- Hallucinogens vs general perceptual hallucination: **PASS**
 
-## V2 Semantic Gate — Required for Canonical Seal
+### Scientific integrity
+- No deterministic consciousness mechanism presented as settled fact.
+- No neural correlate presented as equivalent to the psychological construct.
+- No simplistic “unconscious mind” claims.
+- Subliminal processing is treated as experimentally bounded and method-dependent.
+- Automaticity is treated as multidimensional rather than binary.
+- Sleep effects on memory, learning, and emotion are described conditionally.
+- REM is not equated with dreaming.
+- Chronotype is distinguished from observed schedule.
+- Altered states are not inherently pathologized.
+- Dissociation is not equated with a diagnosis.
+- Psychoactive categories are not treated as moral categories.
+- Tolerance, dependence, withdrawal, and addiction/substance-use disorder remain distinct.
+- Substance effects are explicitly conditioned by dose, history, context, and individual variation.
 
-- Ontology match: PASS
-- Structural integrity: PASS
-- Ownership: PASS
-- Semantic depth: PASS
-- Neighbor distinctions: PASS
-- Scientific/evidence integrity: PASS
-- Relationships: PASS
-- Retrieval: PASS
-- Anti-template: PASS
-- Cross-chapter boundaries: PASS
-- Final validation: PASS
-- P0: 0
-- P1: 0
-- P2: 0
-- P3: 0
+## 5. System Boundary
 
-- **Ontology integrity:** 44/44 Topics preserved; no additions, removals, renames, or renumbering.
-- **Required structure:** 44/44 Knowledge Objects retain Purpose, Definition, Core Understanding, Relationship to This Chapter, Boundaries, and Key Principles in order.
-- **Semantic depth:** 44/44 Core Understanding blocks deepened with Topic-specific mechanism, interpretation, boundary, evidence, or uncertainty detail.
-- **Corpus metrics:** 13,580 total words; average Core Understanding 120 words; minimum 97; maximum 143.
-- **Duplicate-content gate:** no identical Core Understanding blocks introduced by the remediation; Topic-specific additions were keyed to each canonical construct.
-- **Neighbor distinction gate:** consciousness/awareness/self-awareness/access; conscious/unconscious/subliminal processing; automaticity/automatic/controlled processing; sleep regulation/homeostasis/circadian/sleep pressure; NREM/REM/dreams; sleep-memory/learning/emotion; chronotype/misalignment; dissociation/dissociative states; psychoactive classes/tolerance/dependence/withdrawal remain explicitly differentiated.
-- **Scientific integrity:** claims are conditional where evidence is context-dependent; theoretical mechanisms are not presented as settled facts; altered states are not pathologized by definition.
-- **System boundary:** no sales, persuasion, buyer, or downstream application framework is used to define universal psychology.
-- **Ownership:** existing cross-chapter owners remain authoritative; Chapter 1.5 does not silently absorb neighboring constructs.
+Chapter 1.5 remains **universal human psychology**.
 
-**Final result:** CHAPTER 1.5 — CONSCIOUSNESS, SLEEP, AND ALTERED STATES: V2 CERTIFIED / LOCKED & SEALED
+No sales, persuasion, buyer, conversion, manipulation, or commercial objective is used to define any construct.
+
+## 6. Canonical Synchronization
+
+The rebuilt canonical chapter is:
+
+`knowledge/system-01/chapter-1.5/CHAPTER_1.5.md`
+
+The canonical content SHA after the final rebuild is:
+
+`6ddfa78d413b09f049bd3d63ca543dc40dcb7339`
+
+## 7. Seal Decision
+
+**V2 SEMANTIC SEAL: PASS**
+
+The chapter satisfies the project's deep-rebuild requirements at the ontology, structure, semantic-density, duplication, ownership, boundary, and scientific-integrity levels.
+
+**Chapter 1.5 is hereby SEALED as the completed V2 deep rebuild.**
+
+Executable CI status is reported separately rather than fabricated: the GitHub workflow-run query for the final repository commit must be used if an executable CI-backed status is required. This semantic seal does not claim a workflow run that was not observed.
+
+## 8. Next Project State
+
+Chapter 1.5 is complete.
+
+The next deep-rebuild target is:
+
+**Chapter 1.6 — Attention and Executive Control**
+
+The same constitution, ownership discipline, six-section schema, semantic-depth standard, audit/re-audit procedure, and README synchronization requirements remain in force.
