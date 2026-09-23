@@ -5,11 +5,11 @@
 
 ## V2 / Graph Gate
 
-- Canonical source chapters: **1.1–1.9**
-- Canonical Topic nodes: **608/608**
-- Chapter nodes: **9/9**
-- Total graph nodes: **617**
-- Total graph edges: **1,361**
+- Canonical source chapters: **1.1–1.10**
+- Topic-layer nodes: **673/673**
+- Chapter nodes: **10/10**
+- Total graph nodes: **683**
+- Total graph edges: **1,484**
 - Dangling references: **0**
 - Duplicate relationship records: **0**
 - Canonical chapter Topic counts preserved exactly.
@@ -23,10 +23,10 @@
 ## Relationship classes implemented
 
 ### owned_by
-Every canonical Topic points to exactly one authoritative chapter.
+Every independently owned Topic points to exactly one authoritative chapter. Model-layer and application/relationship nodes remain retrievable chapter members without being counted as independent construct/clinical owners.
 
 ### part_of
-Every canonical Topic is explicitly attached to its System 1 chapter architecture.
+Every topic-layer entry is explicitly attached to its System 1 chapter architecture.
 
 ### defers_to
 Only explicit Topic-ID references found in canonical ownership-boundary text are materialized. No unsupported targets are invented.
