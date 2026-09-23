@@ -1,30 +1,77 @@
-# PSYCHO SALES
+# PSYCHO SALES — System 1 Canonical Human Psychology Encyclopedia
 
-## Canonical Psychological Knowledge System
+**Branch:** `psycho-sales-canonical-depth-v2`  
+**Stage:** Encyclopedia-wide execution of the original **10-phase quality pipeline**  
+**Written through:** **Chapter 1.9**  
+**Next:** **Chapter 1.10 — Judgment, Decision-Making, and Choice**  
+**Architecture:** **21 locked chapters / 1,364 chapter entries / 1,267 canonical construct-clinical owners**
 
-PSYCHO SALES is an ontology-first psychological knowledge system designed for human understanding and precise machine retrieval.
+> **Simple on the surface. Deep underneath. Precise throughout.**
 
-> **Simple language. Deep thinking.**
+## Mission
 
-The repository is deliberately kept minimal. Canonical knowledge must have one authoritative home, stable terminology, explicit boundaries, and no duplicate competing sources.
+System 1 is a universal psychological knowledge substrate for human understanding, precise machine retrieval, canonical ownership, typed relationships, evidence-aware reasoning, and downstream intelligence.
 
----
+It does not redefine universal psychology through sales, persuasion, buyer behavior, negotiation, brokerage, or commercial tactics.
 
-# Governing Build Law
+The objective is **knowledge completeness and reasoning quality, not word count**.
 
-> **Architecture → Ontology → Ownership Audit → Lock → Knowledge Writing → Validation → Versioning**
+## Source-of-truth hierarchy
 
-Knowledge is not expanded merely for length. Each Knowledge Object must contain the minimum sufficient information required for complete and accurate understanding.
+When files disagree:
 
----
+1. **Locked architecture:** `system_1/SYSTEM_1_SURGICAL_CANONICAL_ARCHITECTURE_v2.md`
+2. **Ownership/counting registry:** `system_1/SYSTEM_1_ARCHITECTURE_PRECISION_REGISTRY.md`
+3. **Permanent writing constitution:** `constitution/PERMANENT_KNOWLEDGE_OBJECT_WRITER_CONSTITUTION.md`
+4. **V2 quality controls:** `constitution/CANONICAL_KNOWLEDGE_OBJECT_CONSTITUTION_V2.md`, `quality/SEMANTIC_DEPTH_AUDIT_PROTOCOL_V1.md`, `quality/CANONICAL_SEAL_CONTRACT_V2.md`, `quality/KNOWLEDGE_GRAPH_SPEC_V1.md`
+5. **Canonical prose:** `knowledge/system-01/chapter-1.x/`
+6. **Derived graph:** `graph/SYSTEM_1_KNOWLEDGE_GRAPH_V1.json`
+7. **Control/index files:** remediation register, roadmap, repository state, README
 
-# Permanent Writing Standard
+The live repository is project evidence. Chat history, memory, screenshots, and old summaries never override it.
 
-The authoritative writing format is:
+## Locked 21-chapter architecture
 
-constitution/PERMANENT_KNOWLEDGE_OBJECT_WRITER_CONSTITUTION.md
+| Chapter | Domain | Entries |
+|---|---|---:|
+| 1.1 | Foundations and Architecture of Human Psychology | 57 |
+| 1.2 | Psychological Science, Research, Measurement, and Evidence | 118 |
+| 1.3 | Biological Bases of Human Behavior and Mental Life | 78 |
+| 1.4 | Sensation and Perception | 62 |
+| 1.5 | Consciousness, Sleep, and Altered States | 44 |
+| 1.6 | Attention and Information Selection | 40 |
+| 1.7 | Learning and Behavior Change | 66 |
+| 1.8 | Memory | 76 |
+| 1.9 | Thinking, Representation, Reasoning, and Problem Solving | 67 |
+| 1.10 | Judgment, Decision-Making, and Choice | 65 |
+| 1.11 | Language and Intelligence | 60 |
+| 1.12 | Motivation, Needs, Goals, and Self-Regulation | 75 |
+| 1.13 | Emotion and Affect | 62 |
+| 1.14 | Personality and Individual Differences | 67 |
+| 1.15 | Human Development Across the Lifespan | 62 |
+| 1.16 | Social Psychology and Social Behavior | 101 |
+| 1.17 | Culture and Human Psychology | 53 |
+| 1.18 | Stress, Health, Well-Being, and Resilience | 58 |
+| 1.19 | Psychological Disorders and Abnormal Psychology | 64 |
+| 1.20 | Psychological Treatment and Intervention Science | 44 |
+| 1.21 | Human Behavior, Action, and Action Control | 45 |
+| **TOTAL** | **21 chapters** | **1,364** |
 
-Every canonical Knowledge Object follows these six sections, in this exact order:
+The 1,364 figure is the raw architecture-entry count, not the independent-construct count.
+
+### Ownership accounting
+
+- Relationship/application nodes: **60**
+- Duplicate-name non-owner appearances: **12**
+- Explicit redirects: **9**
+- Theory/model entries: **16**
+- Canonical construct/clinical owners: **1,267**
+
+**One construct = one authoritative owner.**
+
+## Permanent Knowledge Object standard
+
+Every canonical Topic uses these six sections, in this exact order:
 
 1. Purpose
 2. Definition
@@ -33,351 +80,138 @@ Every canonical Knowledge Object follows these six sections, in this exact order
 5. Boundaries
 6. Key Principles
 
-The constitution governs conceptual precision, adaptive depth, scientific integrity, concept ownership, human readability, AI retrieval, evidence status, boundaries, relationship handling, and final quality validation.
+The standard requires semantic completeness, conceptual distinction, adaptive depth, mechanism integrity where applicable, evidence/uncertainty, explicit ownership, meaningful deferrals, retrieval robustness, machine-composable relationships, and minimum sufficient words.
 
-**One concept = one canonical owner.**
+Never convert correlation into causation, theory into fact, interpretation into established finding, speculation into evidence, or contested questions into certainty.
 
----
+System 1 must remain universal psychology; downstream sales/persuasion applications must not redefine its constructs.
 
-# Current Canonical Knowledge
+## The original 10-phase program
 
-## System 1 — Human Psychology
+**There are exactly 10 phases. There is no Phase 11.**
 
-### Chapter 1.1 — Foundations and Architecture of Human Psychology
+The ten phases are now the **encyclopedia-wide quality pipeline** applied across all 21 chapters.
 
-**Status: LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 1.1**
+1. **Constitution and Quality Standard** — infrastructure complete.
+2. **Validation Infrastructure** — infrastructure complete.
+3. **Semantic Remediation** — in progress across the encyclopedia.
+4. **Conceptual Distinction** — in progress across the encyclopedia.
+5. **Scientific and Evidence Integrity** — in progress across the encyclopedia.
+6. **Ownership and Cross-Chapter Boundaries** — in progress across the encyclopedia.
+7. **Retrieval and Machine Composability** — in progress across the encyclopedia.
+8. **Knowledge Graph Integration** — base graph complete; expansion continues.
+9. **Repository Synchronization** — recurring project-wide control.
+10. **Final Encyclopedia Certification** — not complete until all 21 chapters and global controls pass.
 
-The canonical Chapter 1.1 writing is contained in:
+Remaining Chapters 1.10–1.21 are **not a new phase**. They are continued execution of the existing ten-phase pipeline.
 
-`knowledge/system-01/chapter-1.1/CHAPTER_1.1.md`
+## Current live knowledge state
+
+| Chapter | Entries | Status |
+|---|---:|---|
+| 1.1 | 57 | V2 CERTIFIED / LOCKED & SEALED |
+| 1.2 | 118 | V2 CERTIFIED / LOCKED & SEALED |
+| 1.3 | 78 | V2 CERTIFIED / LOCKED & SEALED |
+| 1.4 | 62 | V2 CERTIFIED / LOCKED & SEALED |
+| 1.5 | 44 | V2 CERTIFIED / LOCKED & SEALED |
+| 1.6 | 40 | V2 CERTIFIED / LOCKED & SEALED |
+| 1.7 | 66 | V2 CERTIFIED / LOCKED & SEALED |
+| 1.8 | 76 | V2 CERTIFIED / LOCKED & SEALED |
+| 1.9 | 67 | V2 CERTIFIED / LOCKED & SEALED* |
+| 1.10–1.21 | — | NOT YET WRITTEN |
 
-It contains all 57 canonical Topics. Duplicate-object defects and the identified explanation-taxonomy depth gaps have been remediated. Validation record: `knowledge/system-01/chapter-1.1/CHAPTER_1.1_FINAL_VALIDATION.md`.
+Current written corpus:
+- **608 chapter entries**
+- **158,574 words**
+- Written coverage: **1.1–1.9**
 
-### Chapter 1.2 — Psychological Science, Research, Measurement, and Evidence
+## Chapter 1.9 reconciliation item
 
-**Status: LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 1.1**
+The global precision registry identifies two 1.9 entries that must not become independent canonical owners:
 
-The canonical Chapter 1.2 writing is contained in:
+- **Bounded rationality** → canonical owner **1.10**; 1.9 occurrence is a duplicate/non-owner appearance.
+- **Expertise and thinking** → **relationship/application node**, not an independent construct owner.
 
-`knowledge/system-01/chapter-1.2/CHAPTER_1.2.md`
+This is an ontology-classification reconciliation item. It does not authorize renaming or inventing Topics and must be resolved before final encyclopedia certification.
 
-It contains all 118 canonical Topics. Duplicate-object defects in 1.2.52 and 1.2.82 have been remediated. Validation record: `knowledge/system-01/chapter-1.2/CHAPTER_1.2_FINAL_VALIDATION.md`.
+## Knowledge graph
 
-### Chapter 1.3 — Biological Bases of Human Behavior and Mental Life
+`graph/SYSTEM_1_KNOWLEDGE_GRAPH_V1.json`
 
-**Status: LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 1.1**
+Current state after Chapter 1.9:
 
-The canonical Chapter 1.3 writing is contained in:
+- Topic-like chapter nodes: **608**
+- Chapter nodes: **9**
+- Total nodes: **617**
+- Typed edges: **1,361**
+- Dangling references: **0**
+- Duplicate relationship records: **0**
 
-`knowledge/system-01/chapter-1.3/CHAPTER_1.3.md`
+Relationship classes include `owned_by`, `part_of`, `defers_to`, and `interacts_with`.
 
-It contains all 78 canonical Topics in the current biological ontology. The former 70-topic “Dynamics of Human Thinking” architecture is obsolete and is no longer the canonical Chapter 1.3. A full depth remediation pass has been completed across all 78 Topics. Validation record: `knowledge/system-01/chapter-1.3/CHAPTER_1.3_FINAL_VALIDATION.md`.
+The graph is derived infrastructure. Do not describe all 1,361 edges as deep semantic causal relationships; the 1.9 expansion primarily added ownership/membership edges. Rich evidence-attested semantic edge expansion remains part of the quality pipeline.
 
-### Chapter 1.4 — Sensation and Perception
+## Control files
 
-**Status: LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 2.0**
+- Master architecture: `system_1/SYSTEM_1_SURGICAL_CANONICAL_ARCHITECTURE_v2.md`
+- Precision registry: `system_1/SYSTEM_1_ARCHITECTURE_PRECISION_REGISTRY.md`
+- Permanent constitution: `constitution/PERMANENT_KNOWLEDGE_OBJECT_WRITER_CONSTITUTION.md`
+- V2 companion: `constitution/CANONICAL_KNOWLEDGE_OBJECT_CONSTITUTION_V2.md`
+- Semantic audit: `quality/SEMANTIC_DEPTH_AUDIT_PROTOCOL_V1.md`
+- Graph specification: `quality/KNOWLEDGE_GRAPH_SPEC_V1.md`
+- Remediation register: `quality/MASTER_SEMANTIC_REMEDIATION_REGISTER.md`
+- 10-phase contract: `quality/ENCYCLOPEDIA_WIDE_10_PHASE_EXECUTION_CONTRACT.md`
+- Roadmap: `quality/TEMPORARY_EXECUTION_ROADMAP.md`
+- Repository state: `quality/CANONICAL_REPOSITORY_STATE_V1.md`
+- Graph: `graph/SYSTEM_1_KNOWLEDGE_GRAPH_V1.json`
 
-The canonical Chapter 1.4 writing is contained in:
+## Exact next task
 
-`knowledge/system-01/chapter-1.4/CHAPTER_1.4.md`
+### Chapter 1.10 — Judgment, Decision-Making, and Choice
 
-It contains all 62 canonical Topics. The two exact ownership collisions identified during the pre-write audit were surgically remediated in the wider architecture, and specialized cross-chapter boundaries were documented. Validation record: `knowledge/system-01/chapter-1.4/CHAPTER_1.4_FINAL_VALIDATION.md`.
+**Architecture entries: 65**
 
-### Chapter 1.5 — Consciousness, Sleep, and Altered States
+Execution order:
 
-**Status: LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 2.0**
-
-The canonical Chapter 1.5 writing is contained in:
-
-`knowledge/system-01/chapter-1.5/CHAPTER_1.5.md`
-
-It contains all 44 canonical Topics. Two exact ownership collisions were surgically disambiguated before writing, with existing Chapter 1.8 and 1.14 owners preserved. Validation record: `knowledge/system-01/chapter-1.5/CHAPTER_1.5_FINAL_VALIDATION.md`.
-
-## System 1 Ownership Remediation
-
-The cross-chapter ownership audit has been updated for the current **359-topic canonical System 1 state (Chapters 1.1–1.5)**. Material ownership collisions were remediated without renumbering or deleting canonical Topics. See:
-
-`knowledge/system-01/CROSS_CHAPTER_OWNERSHIP_REMEDIATION.md`
-
-The six completed System 1 chapters are formally LOCKED & SEALED as canonical knowledge. Chapters 1.1–1.5 are canonical knowledge version 1.1 after structural, scientific-integrity, and ownership validation.
-
----
-
-# Repository Integrity Rules
-
-- Canonical knowledge must have one authoritative location.
-- Superseded drafts must not compete with canonical knowledge.
-- Historical audits and research dumps do not belong beside locked knowledge unless explicitly preserved as project history.
-- Topic names are stable once locked.
-- Canonical definitions must not be silently changed.
-- Universal psychology must not be rewritten around downstream sales applications.
-- Scientific uncertainty must remain visible.
-- Future expansion must preserve existing ownership and architecture.
-
----
-
-# Current Repository Shape
-
-```
-psycho-sales-llm/
-├── README.md
-├── PROJECT_PROGRESS_AND_WRITER_HANDOFF.md
-├── constitution/
-│   └── PERMANENT_KNOWLEDGE_OBJECT_WRITER_CONSTITUTION.md
-├── system_1/
-│   └── SYSTEM_1_SURGICAL_CANONICAL_ARCHITECTURE_v2.md
-└── knowledge/
-    └── system-01/
-        ├── CROSS_CHAPTER_OWNERSHIP_REMEDIATION.md
-        ├── chapter-1.1/
-        │   ├── CHAPTER_1.1.md
-        │   └── CHAPTER_1.1_FINAL_VALIDATION.md
-        ├── chapter-1.2/
-        │   ├── CHAPTER_1.2.md
-        │   ├── CHAPTER_1.2_DEPTH_AUDIT.md
-        │   └── CHAPTER_1.2_FINAL_VALIDATION.md
-        ├── chapter-1.3/
-        │   ├── CHAPTER_1.3.md
-        │   └── CHAPTER_1.3_FINAL_VALIDATION.md
-        └── chapter-1.4/
-            ├── CHAPTER_1.4.md
-            └── CHAPTER_1.4_FINAL_VALIDATION.md
-```
-
-This structure is intentionally minimal and reflects the current canonical repository state.
-
-# Final Standard
-
-> **Complete understanding. Scientific precision. Conceptual ownership. Machine retrievability. Human readability. No redundancy. No filler. No unnecessary complexity.**
-
-> **Simple on the surface. Deep underneath. Precise throughout.**
-
-## Current System 1 State
-
-- Chapter 1.5 — CONSCIOUSNESS, SLEEP, AND ALTERED STATES — 44 Topics — LOCKED & SEALED
-- Chapter 1.6 — ATTENTION AND INFORMATION SELECTION — 40 Topics — LOCKED & SEALED — Canonical Knowledge v1.2
-- Completed System 1 Chapters: 1.1–1.6
-- Completed canonical Topic count: **399**
-
-
-## System 1 Architecture Precision Pass — Completed
-
-The architecture precision pass added the machine-auditable registry:
-
-`system_1/SYSTEM_1_ARCHITECTURE_PRECISION_REGISTRY.md`
-
-The Chapter 1.21 ontology boundary is now explicit. The reproducible architecture accounting is:
-
-- Chapter architecture entries: **1,364**
-- Relationship/application nodes excluded from construct/clinical ownership: **60**
-- Duplicate-name non-owner appearances: **12**
-- Explicit redirects: **9**
-- Theory/model entries maintained in the separate model registry: **16**
-- Canonical construct/clinical owners: **1,267**
-
-No sealed Knowledge Object prose was rewritten and no canonical Topic name was changed by this precision pass.
-
-
-## Chapter 1.6 — Completed
-
-**Chapter:** 1.6 — ATTENTION AND INFORMATION SELECTION  
-**Topics:** 40  
-**Status:** LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 1.1  
-
-Canonical file: `knowledge/system-01/chapter-1.6/CHAPTER_1.6.md`  
-Validation file: `knowledge/system-01/chapter-1.6/CHAPTER_1.6_FINAL_VALIDATION.md`
-
-Ownership audit result: **40/40 exact Topics, zero exact-name collisions, zero Topic renames required.**
-
-
-## Chapter 1.6 Depth Revision — Completed
-
-The Chapter 1.6 knowledge layer was re-audited for depth after the initial structural validation. The original shallow/generic Knowledge Objects were replaced with a full adaptive-depth revision while preserving the exact locked 40-topic ontology.
-
-- Total chapter words after revision: **12,220**
-- Average Core Understanding: **~126 words/topic**
-- Minimum Core Understanding: **97 words**
-- Maximum Core Understanding: **211 words**
-- Generic templated definitions remaining: **0**
-- Repeated Key-Principle sets: **0**
-- Cross-architecture exact-name collisions: **0**
-- Final status: **LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 1.2**
-- Final validation: `knowledge/system-01/chapter-1.6/CHAPTER_1.6_FINAL_VALIDATION.md`
-
-No Chapter 1.6 Topic was added, removed, or renamed.
-
-
-## Chapter 1.7 — Full-Depth Canonical Revision
-
-Chapter 1.7 — Learning and Behavior Change has been written and depth-audited against the Permanent Knowledge Object Writer Constitution.
-
-- Live architecture Topics exposed: **66**
-- Exact ontology match: **66/66**
-- Total chapter words: **15,533**
-- Average Core Understanding: **~114 words/topic**
-- Minimum Core Understanding: **89 words**
-- Maximum Core Understanding: **142 words**
-- Generic definitions: **0**
-- Repeated Key-Principle sets: **0**
-- Exact cross-architecture collisions: **0**
-- Six-section objects: **66/66**
-- Owns boundaries: **66/66**
-- Defers boundaries: **66/66**
-- Final state: **LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 1.0**
-
-**Source-of-truth note:** The live architecture currently exposes 66 named Topics for Chapter 1.7. No additional Topics were invented to reconcile any separate count.
-
-**Next target:** Chapter 1.8.
-
-
----
-
-# Quality Constitution v2.0 — Project-Wide Status
-
-**Phase 1 implementation status: COMPLETE — LOCKED**
-
-The project-wide semantic quality constitution is now integrated into:
-
-`constitution/PERMANENT_KNOWLEDGE_OBJECT_WRITER_CONSTITUTION.md`
-
-This permanent constitution is the **single authoritative writing standard**.
-
-The companion:
-
-`constitution/CANONICAL_KNOWLEDGE_OBJECT_CONSTITUTION_V2.md`
-
-is a non-competing audit pointer only.
-
-The v2 standard adds mandatory semantic requirements for:
-- semantic completeness;
-- neighboring-concept distinction;
-- mechanism integrity;
-- evidence and uncertainty;
-- meaningful ownership boundaries;
-- explicit relationships;
-- retrieval robustness;
-- anti-template protection;
-- universal-psychology boundaries;
-- machine composability;
-- semantic gates before LOCKED & SEALED.
-
-**Important:** Existing sealed chapters are not retroactively re-sealed by Phase 1. Their re-certification is governed by the execution roadmap and occurs in later phases.
-
-## Current live System 1 state
-
-- Chapters completed: **1.1–1.9**
-- Canonical chapter Topics: **608**
-- Canonical corpus words: **158,574**
-- Next canonical target: **Chapter 1.10**
-
-## Quality-control controls
-
-- `quality/SEMANTIC_DEPTH_AUDIT_PROTOCOL_V1.md`
-- `quality/KNOWLEDGE_GRAPH_SPEC_V1.md`
-- `quality/MASTER_SEMANTIC_REMEDIATION_REGISTER.md`
-- `quality/TEMPORARY_EXECUTION_ROADMAP.md`
-
-The repository itself remains the project source of truth. Memory, old chat drafts, screenshots, and external summaries must never override live canonical files.
-
-
-## Phase 4 — Chapter 1.5 V2 Semantic Remediation
-
-Chapter 1.5 — Consciousness, Sleep, and Altered States has completed the V2 semantic remediation pass.
-
-- **44/44 Topics preserved exactly**
-- **13,580 total words**
-- **Average Core Understanding: ~120 words**
-- **Minimum Core Understanding: 97 words**
-- **Maximum Core Understanding: 143 words**
-- Topic-specific mechanism, evidence, uncertainty, measurement, boundaries, and neighboring-concept distinctions deepened
-- Universal-psychology boundary preserved
-- Final validation record: `knowledge/system-01/chapter-1.5/CHAPTER_1.5_FINAL_VALIDATION.md`
-- **Status: LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 2.0**
-
-
-## Phase 5 — Chapter 1.7 V2 Semantic Remediation
-
-Chapter 1.7 — Learning and Behavior Change is now V2 semantic-depth certified and locked/sealed.
-
-- **66/66 Topics preserved exactly**
-- **13,965 total words**
-- **Average Core Understanding: ~89 words**
-- **Minimum:** 66 words
-- **Maximum:** 106 words
-- **0 literal TOPIC placeholders**
-- **0 generic chapter-membership signatures**
-- Learning mechanisms and neighbor distinctions deepened
-- V2 validation record and executable attestation completed
-- **P0/P1/P2/P3 = 0**
-- **Status: LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 2.0**
-
-## Phase 6 — Chapter 1.8 V2 Semantic Re-certification
-
-Chapter 1.8 — Memory has completed its V2 semantic audit and is now certified/locked.
-
-- **76/76 Topics preserved exactly**
-- **~16,852 words**
-- **Average Core Understanding: ~96 words**
-- **Minimum:** 69 words
-- **Maximum:** 156 words
-- 0 normalized duplicate Core blocks
-- 0 repeated Key-Principle sets
-- 0 literal TOPIC placeholders
-- 0 generic chapter-membership signatures
-- Neighbor, evidence, retrieval, ownership, and cross-chapter boundary audits passed
-- No content rewrite required
-- **P0/P1/P2/P3 = 0**
-- **Status: LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 2.0**
-
-## Phase 7 — System 1 V2 Re-certification
-
-Chapters 1.1, 1.2, 1.3, and 1.6 have completed V2 semantic re-certification.
-
-- **1.1:** 57 Topics — V2 certified
-- **1.2:** 118 Topics — V2 certified
-- **1.3:** 78 Topics — V2 certified
-- **1.6:** 40 Topics — V2 certified after removal of 40 generic relationship signatures
-- All four retain their canonical ontology.
-- **P0/P1/P2/P3 = 0 across all four validation records.**
-
-## Phase 8 — Knowledge Graph
-
-The project now contains a canonical machine-readable System 1 relationship graph derived from Chapters 1.1–1.8.
-
-- **541** canonical Topic nodes
-- **8** chapter nodes
-- **549** total nodes
-- **1,227** typed relationship edges
-- **0** dangling references
-- **0** duplicate relationship records
-- Canonical graph: `graph/SYSTEM_1_KNOWLEDGE_GRAPH_V1.json`
-- Graph validation: `graph/SYSTEM_1_KNOWLEDGE_GRAPH_V1_VALIDATION.md`
-
-The graph is a derived reasoning substrate, not a competing definition layer. Future evidence-attested semantic edges can expand it without weakening provenance.
-
-## Phase 9 — Repository Metadata Synchronization
-
-Project-wide metadata has been synchronized against the live repository.
-
-- **System 1:** Chapters 1.1–1.8 complete, **541 Topics**, **135,805 words**
-- **All eight chapters:** Canonical Knowledge Version 2.0 — V2 certified / locked & sealed
-- **Graph:** 549 nodes, 1,227 typed edges, 0 dangling references, 0 duplicate edges
-- **Repository state index:** `quality/CANONICAL_REPOSITORY_STATE_V1.md`
-- **Roadmap:** Phase 9 complete; Phase 10 is the next execution target
-
-## Phase 10 — Chapter 1.9 V2 Expansion
-
-Chapter 1.9 — Thinking, Representation, Reasoning, and Problem Solving is now V2 certified and locked/sealed.
-
-- **67/67 Topics preserved exactly**
-- **22,769 words**
-- **Core Understanding average: 107 words**
-- **Minimum: 105 / Maximum: 109**
-- **0 duplicate Core blocks**
-- **0 duplicate Key-Principle sets**
-- **0 literal placeholders**
-- **0 generic chapter-membership signatures**
-- **P0/P1/P2/P3 = 0**
-- Knowledge graph expanded to **608 Topic nodes, 9 chapter nodes, 617 total nodes, 1,361 typed edges**
-- Validation: `knowledge/system-01/chapter-1.9/CHAPTER_1.9_FINAL_VALIDATION.md`
-- **Status: LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 2.0**
+1. Read the live 1.10 architecture.
+2. Cross-check every entry against the precision registry.
+3. Classify canonical owners, theory/model entries, and relationship/application nodes.
+4. Preserve exact Topic names.
+5. Write each Topic under the permanent six-section constitution.
+6. Use adaptive depth; do not force identical Core structures.
+7. Distinguish nearest-neighbor concepts.
+8. Preserve evidence and uncertainty.
+9. Establish cross-chapter boundaries.
+10. Validate the chapter.
+11. Integrate validated graph relationships.
+12. Create the V2 final validation record.
+13. Synchronize repository metadata.
+
+**Do not optimize for passing structural tests alone. The target is actual semantic completeness, not validator-shaped prose.**
+
+## Handoff rules
+
+A takeover agent should:
+
+1. Read this README.
+2. Read the master architecture.
+3. Read the precision registry.
+4. Read the permanent constitution.
+5. Read the 10-phase execution contract.
+6. Inspect live chapter/validation files before making assumptions.
+7. Never silently rename or invent Topics.
+8. Never count relationship/application nodes as independent owners.
+9. Never count aliases or redirects as new owners.
+10. Keep theory/model objects distinct from constructs.
+11. Validate before sealing.
+12. Keep graph, metadata, validation, and prose synchronized.
+13. Never modify `main` unless explicitly authorized.
+14. Continue with **Chapter 1.10** under the existing ten phases.
+
+## Final destination
+
+**21 chapters → 1,364 architecture entries → 1,267 canonical construct/clinical owners + separate model/relationship layers → semantically deep Knowledge Objects → explicit relationships → evidence-aware knowledge → machine-retrievable ontology → typed knowledge graph → downstream intelligence substrate.**
+
+The finish line is not “a lot of Markdown.”
+
+> **A competent human should understand every important concept, while a capable machine can retrieve, distinguish, connect, and reason over those concepts without hidden assumptions or fabricated certainty.**
