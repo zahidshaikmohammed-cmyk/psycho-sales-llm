@@ -1,9 +1,9 @@
 # CHAPTER 1.4 — SENSATION AND PERCEPTION
 
 **System:** 1 — HUMAN PSYCHOLOGY  
-**Status:** LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 1.1  
+**Status:** V2 SEMANTIC REMEDIATION — AWAITING FINAL SEAL 🔒 — CANONICAL KNOWLEDGE VERSION 2.0  
 **Ontology:** Locked 62-topic Chapter 1.4 index  
-**Writing standard:** PSYCHO SALES Permanent Knowledge Object Writing Constitution  
+**Writing standard:** PSYCHO SALES Permanent Knowledge Object Writing Constitution v2.0  
 **Ownership gate:** Surgical remediation completed before writing  
 **Canonical rule:** One authoritative owner per construct; cross-chapter relationships are links, not duplicate owners.
 
