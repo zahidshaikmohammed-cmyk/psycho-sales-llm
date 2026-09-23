@@ -58,14 +58,12 @@ Run the V2 semantic audit against Memory before accepting its existing sealed st
 
 **Completion evidence:** 76/76 Topics preserved; ~16,852 words; Core Understanding average ~96; min 69; max 156; no normalized duplicate Core blocks; no repeated Key-Principle sets; 0 literal placeholders; 0 generic membership signatures; V2 validation record present; all attestation gates PASS; P0/P1/P2/P3 = 0. No rewrite required.
 
-### Phase 7
 ### Phase 7 — Re-certify Chapters 1.1, 1.2, 1.3, and 1.6
 **State:** COMPLETE — LOCKED
 
 All four chapters were audited against Constitution v2. No broad rewrite was justified for 1.1–1.3; their existing semantic remediation was sufficient for V2 certification. Chapter 1.6 required and received a targeted anti-template correction removing all 40 generic Relationship-to-Chapter signatures.
 
 **Completion evidence:** 57/57, 118/118, 78/78, and 40/40 Topics preserved respectively; V2 validation records present for all four; all semantic gates PASS; P0/P1/P2/P3 = 0.
-### Phase 8
 ### Phase 8 — Build the actual knowledge graph
 **State:** COMPLETE — LOCKED
 
@@ -84,7 +82,6 @@ Built the canonical machine-readable System 1 base graph from Chapters 1.1–1.8
 
 The graph is derived infrastructure; canonical chapter Knowledge Objects remain authoritative. Unsupported causal/mechanistic relationships were intentionally not fabricated. Rich evidence-attested semantic edge expansion remains a later graph-quality layer, not a reason to weaken Phase 8 provenance controls.
 
-### Phase 9
 ### Phase 9 — Synchronize repository metadata
 **State:** PENDING
 
@@ -122,9 +119,9 @@ At every phase:
 
 **Phase 3 completion evidence:** Chapter 1.4's 62 canonical Topics were semantically remediated and v2-certified. Final metrics: 62 Topics; Core Understanding average ~79 words; minimum 66; maximum 96; zero duplicate Core, Relationship, or Key-Principle blocks; zero literal placeholder signatures; zero generic chapter-membership signatures. GitHub Actions run `35872548336` passed self-tests and full canonical validation. Chapter 1.4 is now LOCKED & SEALED under Knowledge Version 2.0.
 
-**Immediate execution target: Phase 9 — Synchronize repository metadata.**
+**Phase 9 completion target:** All project-wide metadata now reflects the live repository state. Phase 10 is the next execution target.
 
-After Phase 2, proceed sequentially unless a repository-discovered dependency requires a different order.
+After Phase 9, proceed to Chapter 1.9 only under Constitution v2 and the graph/retrieval quality controls.
 
 
 
