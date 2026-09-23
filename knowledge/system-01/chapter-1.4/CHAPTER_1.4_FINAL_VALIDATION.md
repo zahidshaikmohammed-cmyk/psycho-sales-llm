@@ -2,7 +2,7 @@
 
 **Chapter:** 1.4 — SENSATION AND PERCEPTION  
 **System:** 1 — HUMAN PSYCHOLOGY  
-**Validation status:** V2 SEMANTICALLY REMEDIATED — AWAITING CI SEAL  
+**Validation status:** PASSED — CANONICAL KNOWLEDGE VERSION 2.0  
 **Canonical knowledge version:** 2.0  
 **Validated against:** Live System 1 architecture, Permanent Knowledge Object Writer Constitution v2.0, Semantic Depth Audit Protocol v1.0, and the Chapter 1.4 ownership record.
 
@@ -128,6 +128,10 @@ No sales, persuasion, buyer, or conversion framework is used to redefine System 
 
 ## 8. Final Result
 
-**CHAPTER 1.4 — SENSATION AND PERCEPTION: V2 CERTIFICATION CANDIDATE**
+**CHAPTER 1.4 — SENSATION AND PERCEPTION: V2 CERTIFIED / LOCKED & SEALED**
+
+**CI verification:** GitHub Actions run `35872369015` — success.
+
+The executable validator passed the chapter and this validation record together.
 
 The chapter is ready for executable v2 validation. Final canonical sealing is contingent on the repository validator and CI passing against the chapter and this validation record.

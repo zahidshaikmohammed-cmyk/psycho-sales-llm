@@ -118,7 +118,9 @@ At every phase:
 
 **Phase 2 completion evidence:** Executable v2 sealing infrastructure is now present and CI-verified. Added `quality/CANONICAL_SEAL_CONTRACT_V2.md`, `quality/validate_canonical_chapter.py`, `quality/V2_SEMANTIC_ATTESTATION_TEMPLATE.md`, `.github/workflows/canonical-quality-v2.yml`, and validator self-tests under `quality/tests/`. The validator self-test suite passed in GitHub Actions run `35871099492` on commit `958216f9c62a61beb760f128d84577d47ab7c9a1`. The CI gate also passed its changed-canonical detection step. Existing chapters are intentionally not retroactively called v2-certified; that work remains in Phases 3–7.
 
-**Immediate execution target: Phase 3 — Remediate Chapter 1.4.**
+**Phase 3 completion evidence:** Chapter 1.4's 62 canonical Topics were semantically remediated and v2-certified. Final metrics: 62 Topics; Core Understanding average ~79 words; minimum 66; maximum 96; zero duplicate Core, Relationship, or Key-Principle blocks; zero literal placeholder signatures; zero generic chapter-membership signatures. GitHub Actions run `35872369015` passed self-tests and full canonical validation. Chapter 1.4 is now LOCKED & SEALED under Knowledge Version 2.0.
+
+**Immediate execution target: Phase 4 — Remediate Chapter 1.5.**
 
 After Phase 2, proceed sequentially unless a repository-discovered dependency requires a different order.
 
