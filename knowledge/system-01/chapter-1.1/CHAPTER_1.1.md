@@ -546,17 +546,15 @@ Capacities describe what a person is able to do or potentially able to do under 
 A psychological capacity is an ability or potential to perform a psychological function, such as remembering information, regulating attention, reasoning, learning, communicating, or adapting behavior. Capacity concerns potential functioning rather than guaranteed performance at every moment.
 
 ## 3. Core Understanding
-Capacity and performance are not identical. A person may have the capacity to solve a problem but perform poorly when tired, distracted, stressed, unfamiliar with the task, or insufficiently motivated. Conversely, strong performance on one task does not prove a broad capacity.
+A psychological capacity is an ability or potential to perform a class of psychological operations or achieve a class of psychological outcomes under appropriate conditions. Capacities include abilities relevant to learning, memory, reasoning, attention, emotional regulation, social understanding, language, planning, and adaptation. A capacity is not identical to current performance: performance reflects the capacity available together with motivation, fatigue, opportunity, knowledge, task demands, and environmental support.
 
-Capacities can develop through maturation, learning, practice, education, and environmental support. Some are constrained by biological conditions, while many show substantial plasticity.
+Capacities can be constrained by both internal and external conditions. Someone may possess the capacity to remember information but perform poorly when distracted or sleep-deprived. A person may have strong reasoning ability but fail to apply it when the task is unfamiliar or when incentives favor speed. Capacity therefore describes potential functioning, whereas performance describes what is actually expressed in a particular setting.
 
-Capacity is also domain-specific. A person can have high verbal ability and weaker spatial performance, or strong emotional regulation under familiar conditions but difficulty under extreme stress. Claims about capacity therefore require appropriate measurement.
+Capacities can differ quantitatively and qualitatively. People may differ in level, efficiency, flexibility, strategy repertoire, or the conditions under which a capacity can be expressed. Development, learning, practice, health, education, and environmental opportunity can alter capacities or the ability to deploy them. Some capacities are relatively broad, whereas others are highly task-specific.
 
-### Deeper Conceptual Structure
+Measurement is especially important because many capacity estimates are inferred from performance. A single task can underestimate a capacity if it depends on irrelevant knowledge, motivation, language, sensory ability, or situational familiarity. Conversely, repeated practice can improve performance without implying a broad change in the underlying capacity. Good assessment therefore samples relevant conditions and distinguishes competence from opportunity to demonstrate competence.
 
-Psychological capacities refer to abilities or potentialities that enable psychological functioning, such as learning, remembering, regulating attention, understanding others, solving problems, or adapting behavior. A capacity is not identical to performance. Performance depends on the person's current state, task demands, resources, practice, and environment.
 
-Capacities can vary across people and within the same person across circumstances. Some are broad, while others are task-specific. Capacity language should therefore avoid treating a measured ability as a fixed ceiling on what a person can ever do.
 ## 4. Relationship to This Chapter
 Capacity connects person-level potential to behavior, psychological functions, individual differences, development, plasticity, and performance.
 
@@ -568,10 +566,15 @@ The general distinction between psychological ability/potential and current perf
 Specific capacities such as intelligence, working memory, self-regulation, and emotion regulation to their canonical Topics.
 
 ## 6. Key Principles
-1. Capacity is potential functioning, not guaranteed performance.
-2. Performance depends on capacity and conditions.
-3. Capacities can differ across domains.
-4. Some capacities can change through learning and development.
+1. Capacity refers to potential ability, not guaranteed performance.
+2. Performance depends on capacity plus motivation, state, knowledge, opportunity, and task conditions.
+3. Capacities can vary in level, flexibility, efficiency, and generality.
+4. Development and learning can alter capacities or their expression.
+5. A single performance measure can underestimate or misrepresent a capacity.
+6. Practice can improve performance without implying a broad capacity change.
+7. Capacity claims require attention to task demands and environmental support.
+8. Competence and opportunity to demonstrate competence should be distinguished.
+
 
 ---
 
@@ -586,17 +589,17 @@ Psychological organization describes how psychological components are arranged a
 Psychological organization is the structured arrangement and coordination of psychological processes, states, representations, capacities, traits, goals, and mechanisms within an individual. It concerns how components relate to one another rather than treating each component as independent.
 
 ## 3. Core Understanding
-Organization can be relatively stable while remaining adaptable. A person develops characteristic patterns in attention, interpretation, emotion, motivation, memory, and action, but these patterns can change through experience, development, learning, relationships, and major environmental changes.
+Psychological organization refers to the way psychological components are structured and coordinated into an ordered pattern rather than existing as an undifferentiated collection of processes. Organization concerns relations among representations, motives, emotions, memories, habits, traits, goals, self-processes, and regulatory mechanisms. It asks how components are arranged, prioritized, integrated, differentiated, and coordinated over time.
 
-Organization can be hierarchical, interactive, and context-sensitive. Some processes influence others; some compete; some cooperate. A goal can organize attention and memory, while an emotional state can change which goals become salient.
+Organization can be hierarchical, parallel, modular, distributed, or dynamically coordinated depending on the phenomenon. Goals can organize attention and action; schemas can organize knowledge; personality dimensions can summarize correlated tendencies; and self-regulatory systems can coordinate competing motives. The appropriate organizational description depends on the level and purpose of analysis.
 
-Psychological organization should not be confused with a claim that the mind is a single perfectly integrated unit. Human functioning can involve conflict, inconsistency, and partial independence among processes.
+Organization also explains why the same components can produce different outcomes when their relations change. A person may possess knowledge, motivation, and behavioral skills but fail to act effectively if the components are poorly coordinated under a particular context. Conversely, environmental structure can reduce the need for internal control by making relevant cues and consequences easier to detect.
 
-### Deeper Conceptual Structure
+Psychological organization is not necessarily fixed. Development, learning, trauma, practice, social relationships, and changing environments can alter how components interact. Reorganization can involve differentiation of previously broad representations, integration of previously separate processes, or changes in which goals and regulatory systems dominate.
 
-Psychological organization concerns how psychological elements are arranged and coordinated into patterns rather than merely how many elements exist. Organization can involve hierarchy, networks, priorities, dependencies, integration, and differentiation. The same components can function differently when their relationships change.
+A useful organizational account therefore specifies components and relations rather than merely listing traits or functions. It should also distinguish organization from mechanism: organization describes the arrangement and coordination of components, whereas mechanisms describe processes through which those components produce change or outcomes.
 
-Organization helps explain why psychological functioning can remain coherent while individual processes change. It also explains why isolated measures can miss important structure. A person is not simply the sum of independent traits, states, memories, and goals; their relationships form an organized pattern.
+
 ## 4. Relationship to This Chapter
 This concept links psychological systems, mechanisms, person, traits, states, processing architecture, stability, flexibility, and change.
 
@@ -608,10 +611,15 @@ The general concept of how psychological components are organized and coordinate
 Specific architectures such as working memory models, personality structures, or neural organization to their canonical Topics.
 
 ## 6. Key Principles
-1. Psychological components operate within an organized system.
-2. Organization can be stable without being fixed.
-3. Components can cooperate, compete, or operate partly independently.
-4. Experience and context can change organization.
+1. Psychological organization concerns relationships and coordination among psychological components.
+2. Components can be organized hierarchically, modularly, distributively, or dynamically.
+3. Organization can determine how otherwise similar components combine into different outcomes.
+4. Goals, schemas, motives, and regulatory systems can organize processing and action.
+5. Organization can change through development, learning, experience, and environmental change.
+6. Organization is distinct from a list of components.
+7. Organization describes arrangement; mechanism explains processes of change or influence.
+8. Useful organizational models specify components, relations, priorities, and coordination conditions.
+
 
 ---
 
@@ -628,17 +636,17 @@ Human functioning is the overall pattern of a person's psychological, behavioral
 Functioning is multidimensional and context-dependent. It is not equivalent to mental health or performance alone.
 
 ## 3. Core Understanding
-A person can function well in one domain and struggle in another. Functioning can also vary by context. Someone may perform effectively at work while struggling socially, or function well under predictable conditions but have difficulty under rapid change.
+Human functioning refers to the integrated operation of psychological, biological, behavioral, interpersonal, and environmental capacities that allow a person to perceive conditions, maintain activity, pursue goals, regulate behavior, learn, adapt, form relationships, and participate in social life. It is broader than the absence of disorder and broader than any single trait, skill, or symptom.
 
-Functioning emerges from interactions among capacities, states, traits, skills, environments, social resources, health, and demands. It should therefore not be reduced to an internal property of the person.
+Functioning is multidimensional. A person can perform strongly in one domain while experiencing substantial difficulty in another. Cognitive performance, emotional regulation, social participation, physical health, occupational functioning, autonomy, and goal pursuit can vary independently to some degree. Functional evaluation therefore needs to specify the domain, context, time period, demands, and standards being used.
 
-Changes in functioning can be temporary or persistent. Sleep loss, illness, stress, learning, development, environmental instability, and social support can all influence functioning.
+Functioning is also relational. What counts as effective functioning depends partly on the demands and affordances of an environment. A behavior that is useful in one setting can be maladaptive in another, and environmental barriers can impair functioning even when individual capacity is intact. This makes person–environment fit an important component of functional analysis.
 
-### Deeper Conceptual Structure
+Functioning changes across the lifespan and across circumstances. Development, illness, stress, learning, social support, resources, discrimination, role transitions, and environmental opportunities can all alter what a person can do and how effectively they can do it. Temporary impairment should therefore not automatically be interpreted as a fixed characteristic.
 
-Human functioning is the integrated operation of psychological, biological, behavioral, and environmental processes that allow a person to operate in everyday life. It includes basic regulation, cognition, emotion, motivation, social participation, goal pursuit, adaptation, and the ability to respond to demands.
+A comprehensive account distinguishes observed functioning from underlying capacity and from diagnostic labels. Diagnosis can be relevant in clinical contexts, but functioning is a broader construct that can be assessed without assuming that every limitation represents a disorder.
 
-Functioning is multidimensional. Strength in one area can coexist with difficulty in another, and functioning can change with context and time. It should not be reduced to a single score or judged solely by whether a person produces a socially valued outcome.
+
 ## 4. Relationship to This Chapter
 Human functioning is the broad integrative concept toward which the foundational architecture points. It connects behavior, mental life, person, context, adaptation, stability, flexibility, and change.
 
@@ -650,10 +658,15 @@ The general integrated concept of psychological functioning.
 Specific domains such as health, well-being, disorder, intelligence, performance, and adaptation to their canonical Topics.
 
 ## 6. Key Principles
-1. Human functioning is multidimensional.
-2. Functioning changes across contexts and time.
-3. Functioning emerges from person–environment interaction.
-4. Strong functioning in one domain does not imply strength in every domain.
+1. Human functioning concerns integrated performance across psychological, biological, behavioral, social, and environmental domains.
+2. Functioning is multidimensional and context-dependent.
+3. Capacity, current performance, and diagnosis are not interchangeable.
+4. Environmental demands and barriers can change functional outcomes.
+5. Effective functioning depends partly on person–environment fit.
+6. Functioning can change across development and circumstances.
+7. Strength in one domain can coexist with difficulty in another.
+8. Functional claims should specify domain, context, time frame, and relevant standard.
+
 
 ---
 
@@ -668,17 +681,17 @@ People do not respond identically to the same conditions. Individual differences
 Individual differences are systematic and meaningful variations among people in psychological characteristics, processes, capacities, states, behavior, and patterns of responding. They can involve relatively stable characteristics as well as differences in development, experience, or current condition.
 
 ## 3. Core Understanding
-Individual differences are not simply measurement noise. People differ in personality, intelligence, motivation, emotional reactivity, learning history, attention, social experiences, health, and many other characteristics. These differences can influence how a common mechanism is expressed.
+Individual differences are systematic ways in which people vary in psychological characteristics, capacities, states, responses, development, and patterns of behavior. They include differences in personality, cognitive ability, temperament, motivation, emotional reactivity, learning history, social behavior, and many other characteristics. Individual differences are not merely statistical noise; they can be stable, meaningful, and theoretically informative while remaining probabilistic.
 
-At the same time, individual differences should not be exaggerated into complete uniqueness. People share many psychological mechanisms, and general principles can coexist with variation in their strength or expression.
+Differences can arise from interacting genetic, biological, developmental, experiential, social, cultural, and environmental influences. The existence of a group-level effect does not imply that every person shows the same effect, and a distribution of individual scores does not automatically reveal the causes of that distribution. Heritability, for example, concerns variation within a population under particular conditions and is not a measure of how genetically determined an individual's trait is.
 
-Differences can arise from interacting biological, developmental, environmental, cultural, and experiential influences. Heritability of a trait, for example, does not mean the trait is genetically fixed or that environmental influence is unimportant.
+Individual differences can be relatively stable without being immutable. Rank-order stability can coexist with mean-level change, and a person can retain a relative position on a trait while the trait's absolute expression changes. Situation-specific patterns can also reveal that a person's behavior is conditional rather than globally consistent.
 
-### Deeper Conceptual Structure
+Measurement introduces additional complexity. Observed differences can reflect true variation, measurement error, context, response style, opportunity, familiarity, or differences in interpretation. Cross-cultural comparisons require particular care because instruments may not have identical meanings or measurement properties across populations.
 
-Individual differences arise from differences in biology, development, learning history, personality, cognition, motivation, social experience, culture, and current circumstances. They can be relatively stable or highly context-dependent.
+A mature psychology therefore treats individual differences as part of explanation rather than as exceptions to general laws. The relevant question is not whether psychology should study universal patterns or individual variation, but how general processes and person-specific characteristics interact to produce observed outcomes.
 
-A general psychological principle and individual variation are not opposites. A process may operate broadly while differing in strength, timing, expression, or consequences across people. Understanding variation requires identifying which features are common, which vary, and which conditions account for the variation.
+
 ## 4. Relationship to This Chapter
 Individual differences connect person, traits, capacities, states, stability, plasticity, development, and person–situation interaction. Chapter 1.14 owns the detailed personality and individual-difference domain.
 
@@ -690,10 +703,15 @@ The general principle that people vary systematically in psychological character
 Specific trait and ability differences to personality, intelligence, development, motivation, and other canonical owners.
 
 ## 6. Key Principles
-1. People differ meaningfully in psychological characteristics and functioning.
-2. Individual differences coexist with shared psychological mechanisms.
-3. Differences can reflect interacting biological and environmental influences.
-4. Variation does not imply that every person requires a unique theory.
+1. Individual differences are systematic variation among people in psychological characteristics and functioning.
+2. Group averages do not imply identical individual responses.
+3. Individual differences can reflect interacting biological, developmental, experiential, social, and cultural influences.
+4. Stability does not imply immutability.
+5. Rank-order stability and mean-level change can coexist.
+6. Observed differences can reflect both true variation and measurement/context effects.
+7. Heritability describes population variation under specified conditions, not an individual's genetic determination.
+8. General psychological processes and individual differences should be modeled together.
+
 
 ---
 
@@ -708,17 +726,17 @@ The person is the central unit of individual psychological functioning. A founda
 A person is an individual human organism considered as an integrated psychological, biological, social, and embodied system with a history, current state, capacities, dispositions, relationships, and environment. In psychology, “person” refers to the individual as a whole unit of analysis rather than to any one trait or process.
 
 ## 3. Core Understanding
-The person contains interacting levels of functioning. Biology provides bodily and neural conditions; psychological processes interpret and respond to information; social relationships provide roles, expectations, support, and constraints; culture provides meanings, norms, and practices; and environments provide opportunities and demands.
+A person is an individual human organism considered as an integrated psychological and biological agent embedded in social, cultural, and physical environments. The concept is foundational because many psychological constructs are ultimately properties, processes, or patterns instantiated within persons, while persons themselves are shaped by relationships and environments. A person is therefore neither an isolated mind nor merely the sum of measurable traits.
 
-A person is not fully explained by a list of traits. Current states and situations can change behavior. Nor is the person simply a passive receiver of environmental influence: people select environments, change situations, pursue goals, build relationships, and alter their surroundings.
+Personhood in psychological analysis includes continuity across time, embodied functioning, subjective experience, agency, social relationships, learned history, and participation in cultural systems. Different theories emphasize different aspects, but no single component exhausts the concept. A person's current behavior reflects both internal organization and the circumstances in which that organization operates.
 
-The person is also temporally extended. Current functioning reflects previous development and learning while remaining capable of change.
+The person concept also supports the distinction between person variables and situation variables without treating them as independent worlds. Traits, goals, beliefs, states, capacities, and histories influence how situations are perceived and responded to; situations provide affordances, constraints, cues, and consequences that influence the person in return.
 
-### Deeper Conceptual Structure
+A person can therefore be relatively stable and simultaneously capable of substantial change. Identity, habits, skills, beliefs, and relationships can persist, while learning, development, illness, social transitions, and deliberate intervention reorganize functioning. Continuity is not the absence of change.
 
-The person is the individual human organism viewed as a psychological unit of analysis. The concept provides a boundary around the individual without implying that the person can be understood independently of relationships, situations, environments, or culture.
+Scientific descriptions of persons should avoid turning abstractions into complete identities. A diagnosis, trait score, demographic category, or behavioral pattern may describe one aspect of functioning without defining the whole person.
 
-A person includes enduring characteristics and changing states and processes. Personal history matters because current responses are shaped partly by learning and development, but the person is not reducible to the sum of past events. The person remains an active participant in ongoing transactions with the environment.
+
 ## 4. Relationship to This Chapter
 Person is one pole of the person–situation and person–environment architecture. It contains the organized psychological characteristics whose interaction with situations produces context-dependent functioning.
 
@@ -730,10 +748,15 @@ The individual-level unit of psychological analysis.
 Specific traits, states, processes, mechanisms, and social identities to their canonical Topics.
 
 ## 6. Key Principles
-1. A person is an integrated psychological and biological individual.
-2. Person-level functioning includes both stable tendencies and changing states.
-3. People influence their environments as well as being influenced by them.
-4. A person cannot be understood from traits alone.
+1. The person is an integrated, embodied psychological agent embedded in environments.
+2. Persons cannot be fully understood as isolated collections of traits or states.
+3. Person variables and situation variables interact continuously.
+4. Persons show both continuity and change across time.
+5. Agency operates within biological, psychological, social, and environmental constraints.
+6. A single construct, diagnosis, or score never exhausts the person.
+7. Social and cultural relationships are part of person-level functioning.
+8. Person-level explanation should preserve both organization and individual variation.
+
 
 ---
 
@@ -748,17 +771,17 @@ Psychological functioning does not occur in a vacuum. Situation identifies the i
 A situation is the set of immediate external conditions, events, social circumstances, tasks, demands, opportunities, and cues present or perceived by a person at a particular time. A situation can be objectively described and subjectively interpreted, and those two aspects need not be identical.
 
 ## 3. Core Understanding
-The same objective situation can be experienced differently by different people. A public-speaking task may be seen as a challenge by one person and a threat by another. Psychological responses therefore depend partly on how the situation is represented and evaluated.
+A situation is the configuration of immediate circumstances, stimuli, affordances, demands, social roles, expectations, resources, constraints, and consequences that a person encounters at a particular time. A situation is more than a physical location. The same room can constitute different psychological situations depending on who is present, what is expected, what is at stake, and how the person interprets the circumstances.
 
-Situations can influence attention, emotion, motivation, decision-making, and behavior by changing available information, expected consequences, social norms, opportunities, and constraints. Situation is therefore not simply background scenery.
+Situations provide opportunities and constraints for behavior. A formal interview, emergency, classroom, family dinner, laboratory task, and competitive game can make different actions salient, acceptable, rewarding, or costly. Situation effects therefore operate partly by changing available responses, attention, expectations, incentives, and social norms.
 
-Situations can also change over time. A person’s behavior can alter the situation, and other people can respond to that behavior, creating a new situation.
+The psychological meaning of a situation is not necessarily identical to its objective description. Two people can occupy the same physical environment while construing it differently because of prior experience, goals, knowledge, identity, or current state. This distinction between objective features and perceived or construed situation is essential for explaining individual variation.
 
-### Deeper Conceptual Structure
+Situations can also be partly selected or created by people. A person chooses relationships, occupations, activities, media environments, and routines that expose them to recurring circumstances. Their behavior then alters those circumstances. Situation and person are therefore linked through selection, interpretation, and transaction rather than simple one-way influence.
 
-A situation is the set of immediate circumstances confronting a person at a particular time. It includes relevant people, tasks, events, opportunities, constraints, cues, and demands. Situations are defined in relation to the psychological question; not every objectively present feature is equally relevant to every person.
+Situation should also be distinguished from broader context. A situation generally emphasizes the immediate configuration of circumstances relevant to a particular episode, whereas context can include wider temporal, cultural, institutional, historical, or relational conditions that shape the meaning and consequences of that episode.
 
-Situations can influence behavior without determining it. People perceive and interpret the same objective circumstances differently, and their responses can alter what happens next. Situation therefore belongs in explanation alongside person-level characteristics rather than as a complete alternative to them.
+
 ## 4. Relationship to This Chapter
 Situation forms the contextual pole of person–situation interaction. It connects directly with context, environment, behavior, interpretation, feedback, and reciprocal causation.
 
@@ -770,10 +793,15 @@ The immediate situational level of psychological context.
 Broader environment, culture, social systems, and internal interpretation to their canonical owners.
 
 ## 6. Key Principles
-1. Situations provide immediate conditions for psychological functioning.
-2. The same situation can be interpreted differently by different people.
-3. Situations can constrain or enable behavior.
-4. People can change situations through their own behavior.
+1. A situation is an immediate configuration of circumstances relevant to an episode of functioning.
+2. Situations include physical, social, motivational, normative, and consequential features.
+3. The same physical setting can constitute different psychological situations.
+4. Objective situation and perceived situation are not identical.
+5. Situations constrain and afford behavior without mechanically determining it.
+6. People can select, construct, and transform situations.
+7. Situation and person influence one another over time.
+8. Situation is narrower and more episode-focused than broader context.
+
 
 ---
 
@@ -788,17 +816,17 @@ Context specifies the surrounding conditions that give psychological events thei
 Context is the surrounding set of environmental, social, cultural, temporal, relational, developmental, and situational conditions within which psychological processes and behavior occur. Context can influence what a person perceives, expects, values, can do, and experiences as consequential.
 
 ## 3. Core Understanding
-Context operates at multiple scales. Immediate context may include a conversation or task. Social context may include relationships, roles, and group norms. Cultural context may include values, language, institutions, and shared meanings. Developmental context includes age-related capacities and life circumstances.
+Context is the wider set of conditions that gives a psychological event its meaning, constraints, opportunities, and consequences. Context can include social relationships, institutions, culture, history, developmental stage, economic conditions, physical environment, prior events, and temporal circumstances. It operates beyond the immediate stimulus or episode and helps determine how that episode is interpreted and what effects it has.
 
-Context can alter both behavior and its meaning. The same words may communicate respect in one setting and sarcasm in another. The same emotional response may be adaptive in one environment and costly in another.
+Context is not simply “background.” It can alter the operation of psychological processes themselves. A behavior that appears irrational in isolation may be understandable given social risk, limited resources, historical experience, or institutional constraints. Likewise, an intervention that works under one set of conditions may have weaker or different effects elsewhere because the surrounding system changes the available cues, incentives, meanings, or supports.
 
-Context should not be treated as a vague explanation that can explain anything. A useful contextual claim identifies the specific condition expected to matter and the pathway through which it could affect functioning.
+Context can be proximal or distal. Immediate relational context can influence an interaction in seconds, while cultural norms or developmental history may shape expectations over years. These levels can interact: a cultural norm can influence a family practice, which shapes learning, which influences how an individual interprets a current event.
 
-### Deeper Conceptual Structure
+Context should not become an unfalsifiable explanation for everything. A useful contextual claim specifies which conditions matter, through what pathway, for whom, and over what time frame. Otherwise “context” becomes a label for unexplained variation.
 
-Context is the broader set of conditions that gives a psychological event meaning and shapes its possible causes and consequences. Context can include time, relationships, institutions, culture, history, physical surroundings, economic conditions, and prior events.
+Context also differs from situation. A situation concerns the immediate configuration of an episode; context includes the wider conditions within which that episode occurs and acquires meaning. The distinction allows psychological analysis to connect momentary events with larger systems without collapsing them.
 
-Context differs from situation mainly in scope and framing. A situation often refers to immediate conditions; context can include the wider background that makes those conditions understandable. The distinction is analytical rather than absolute, so the correct boundary depends on the question.
+
 ## 4. Relationship to This Chapter
 Context organizes situation, environment, culture, development, person–environment interaction, and behavioral feedback. It is a major modifier of the foundational architecture.
 
@@ -810,10 +838,15 @@ The general concept of surrounding conditions that shape psychological functioni
 Specific cultural, social, developmental, and environmental mechanisms to their canonical chapters.
 
 ## 6. Key Principles
-1. Psychological phenomena occur within context.
-2. Context can change expression, meaning, and consequences.
-3. Context operates at multiple levels.
-4. Contextual explanations should identify specific relevant conditions.
+1. Context consists of wider conditions that shape the meaning and operation of psychological events.
+2. Context can include social, cultural, institutional, historical, developmental, economic, and physical conditions.
+3. Context can modify mechanisms, not merely add background description.
+4. Proximal and distal contexts can interact across timescales.
+5. A contextual explanation should identify relevant conditions and pathways.
+6. Context should not be used as an unfalsifiable explanation for unexplained variation.
+7. Situation refers more directly to an immediate episode; context is broader.
+8. Context can explain why the same process has different effects across environments.
+
 
 ---
 
@@ -828,17 +861,17 @@ Person–situation interaction explains why behavior cannot be understood by con
 Person–situation interaction refers to the way characteristics of an individual and features of a situation jointly influence psychological responses, behavior, and experience. The same person can respond differently across situations, and the same situation can produce different responses across people.
 
 ## 3. Core Understanding
-A trait may increase the probability of a response, while a situation determines whether that tendency is expressed. For example, a person who generally prefers social interaction may behave quietly when the situation is threatening or highly formal.
+Person–situation interaction describes the way characteristics of a person and features of an immediate situation jointly influence psychological responses and behavior. It rejects both extremes in which behavior is attributed entirely to stable personality or entirely to external circumstances. The same situation can produce different responses in different people, and the same person can respond differently across situations.
 
-Interaction can involve moderation: the effect of a situation may depend on a person's characteristics, or the effect of a characteristic may depend on the situation. It can also involve person-driven selection of situations, in which people seek, avoid, create, or change environments.
+Interaction can take several forms. A trait may moderate the effect of a situation; a situation may activate different aspects of a person's psychological organization; people may interpret the same event differently; or a person's behavior may alter the situation and thereby change later responses. Interactions can therefore be statistical, psychological, behavioral, or transactional, and these meanings should not be conflated.
 
-Interaction does not mean that every behavior requires a unique person-by-situation explanation. Some behaviors show strong situational effects; others show substantial stability. The scientific question is which factors matter for which outcome under which conditions.
+Person–situation interaction is particularly important for understanding conditional behavior. Someone may become highly organized when external structure is strong but less organized when structure is absent. Another person may become especially vigilant under social evaluation but function normally in private settings. Such patterns do not require choosing between “trait” and “situation”; they describe how trait-relevant tendencies are expressed under particular conditions.
 
-### Deeper Conceptual Structure
+Interaction claims require careful evidence. A statistical interaction means the effect of one variable differs across levels of another; it does not automatically reveal the psychological mechanism producing that pattern. Researchers must consider measurement, range restriction, sampling, task specificity, and replication.
 
-Person–situation interaction means that behavior and experience arise from the joint contribution of characteristics of the person and characteristics of the immediate situation. The same person can respond differently across situations, and different people can respond differently to the same situation.
+The concept is therefore a bridge between individual differences and contextual psychology. It makes conditionality itself an object of study rather than treating variation across situations as unexplained inconsistency.
 
-Interaction can take several forms: situations may activate tendencies, people may select or create situations, and personal characteristics may change the meaning or impact of the same external event. This makes simple person-only or situation-only explanations incomplete when both contribute materially.
+
 ## 4. Relationship to This Chapter
 This concept connects person, situation, traits, behavior, context, reciprocal causation, and individual differences. It is a central organizing principle of Chapter 1.1.
 
@@ -850,10 +883,15 @@ The general person-by-situation interaction framework.
 Specific traits, social situations, cultural effects, and behavioral mechanisms to their canonical Topics.
 
 ## 6. Key Principles
-1. Behavior can reflect both person and situation.
-2. The same person can behave differently across contexts.
-3. The same situation can affect different people differently.
-4. Person–situation interaction is empirical, not a claim that everything interacts equally.
+1. Person–situation interaction means person characteristics and situational features jointly shape outcomes.
+2. The same situation can produce different responses across people.
+3. The same person can respond differently across situations.
+4. Interaction can involve moderation, interpretation, activation, or reciprocal behavior–situation change.
+5. Statistical interaction does not automatically identify a psychological mechanism.
+6. Conditional behavior is compatible with meaningful traits.
+7. Interaction research requires attention to measurement and task specificity.
+8. Person and situation should be modeled as interacting sources of psychological variation.
+
 
 ---
 
@@ -868,17 +906,17 @@ The broader environment includes more than immediate situations. Person–enviro
 Person–environment interaction is the ongoing relationship in which characteristics of a person influence how they encounter, select, interpret, respond to, and modify environmental conditions, while those environmental conditions simultaneously influence the person’s psychological functioning and development.
 
 ## 3. Core Understanding
-People do not merely receive environmental influence. They select settings, form relationships, create routines, seek information, alter physical spaces, and influence other people. The environment also provides opportunities, constraints, feedback, resources, and risks.
+Person–environment interaction concerns the ongoing relationship between a person and the broader environment in which the person develops, functions, and acts. The environment includes physical settings, social relationships, institutions, cultural systems, resources, opportunities, constraints, and ecological conditions. The concept is broader than an immediate situation because it addresses sustained or repeated relations between the person and surrounding systems.
 
-Interaction can accumulate over time. Repeated experiences may shape skills, beliefs, habits, expectations, and relationships, which then influence later environments. This creates reciprocal developmental pathways.
+The environment affects people through exposure, affordances, constraints, learning opportunities, socialization, stressors, reinforcement, resources, and social meaning. People simultaneously select, avoid, modify, and create environments. These reciprocal processes help explain why individuals with similar initial characteristics can develop differently and why people can become increasingly specialized to the environments they repeatedly inhabit.
 
-The environment includes physical, social, cultural, technological, economic, and institutional conditions. Psychology should not treat all environmental influence as immediate stimulation; broader structures can shape what options are available.
+Several forms of interaction are possible. An environment may amplify an existing tendency, compensate for a limitation, create opportunities for growth, or impose chronic constraints. Person–environment fit concerns the degree to which environmental demands and resources correspond to a person's characteristics, needs, values, or capacities. Poor fit can generate strain without implying that either the person or environment is inherently defective.
 
-### Deeper Conceptual Structure
+Environmental effects also depend on time. Developmental exposure, cumulative stress, repeated opportunities, and social transitions can have different implications from one-time events. People can also change environments through their behavior, producing feedback loops that alter subsequent exposure.
 
-Person–environment interaction is broader than an immediate situation. It concerns the continuing relationship between a person and the physical, social, institutional, and cultural environment in which the person lives. People respond to environments, but they also choose, modify, avoid, construct, and help maintain environments.
+A precise account therefore avoids treating “environment” as a single causal variable. It identifies which environmental features matter, how the person encounters them, which mechanisms connect them to outcomes, and whether the relationship is reciprocal.
 
-The relationship is often reciprocal and developmental. Repeated environmental exposure can shape skills, expectations, habits, and preferences, while those characteristics can later influence which environments a person enters or how they respond to them.
+
 ## 4. Relationship to This Chapter
 Person–environment interaction extends person–situation interaction to broader and longer-term contexts. It connects directly to adaptation, plasticity, stability, development, culture, and behavior–environment transaction.
 
@@ -890,10 +928,15 @@ The general reciprocal relation between individual and broader environment.
 Specific developmental, cultural, social, and health environments to their canonical owners.
 
 ## 6. Key Principles
-1. People are influenced by their environments.
-2. People also select and modify environments.
-3. Person–environment interaction can accumulate over time.
-4. Environments provide both constraints and opportunities.
+1. Person–environment interaction concerns sustained reciprocal relations with broader environments.
+2. Environments include physical, social, institutional, cultural, and resource conditions.
+3. People are affected by environments and also select, modify, and create environments.
+4. Environmental effects depend on exposure, interpretation, affordances, constraints, and timing.
+5. Person–environment fit concerns correspondence between person characteristics and environmental demands/resources.
+6. Poor fit can produce difficulty without locating the problem solely in the person.
+7. Repeated exposure can create cumulative and developmental effects.
+8. Environmental explanations should specify features, pathways, timing, and reciprocity.
+
 
 ---
 
@@ -908,15 +951,17 @@ Behavior can change the environment that later influences behavior. This transac
 A behavior–environment transaction is a reciprocal process in which behavior changes environmental conditions, and those changed conditions subsequently influence later behavior or psychological functioning. The transaction can involve other people, physical surroundings, social structures, or consequences.
 
 ## 3. Core Understanding
-A person who repeatedly avoids a social setting may receive short-term relief, which changes both their future behavior and the social opportunities available to them. A person who practices a skill changes their own environment by creating new feedback and opportunities for improvement. A child’s behavior can also alter parental responses, which then affects later behavior.
+Behavior–environment transaction describes a reciprocal process in which a person's behavior changes aspects of the environment and those environmental changes subsequently influence the person's later behavior. Unlike a one-way stimulus–response account, a transactional model treats behavior as both outcome and source of future conditions. This is especially important when behavior changes social responses, opportunities, routines, or physical surroundings.
 
-Transactions can be immediate or cumulative. They can produce stabilizing loops or change trajectories. Importantly, not every behavior produces a strong transaction, and causal claims require evidence.
+Transactions can occur at multiple timescales. A child's behavior can evoke different reactions from caregivers, which can alter later learning opportunities. An adult's communication style can shape how colleagues respond, which changes future expectations and interaction patterns. Repeated choices can also structure environments through friendships, occupations, routines, media exposure, and living arrangements.
 
-### Deeper Conceptual Structure
+Transactions can become self-reinforcing, self-correcting, or mutually constraining. Helpful behavior can generate support that makes later functioning easier. Avoidance can reduce immediate discomfort while preserving the conditions that maintain future avoidance. A person's behavior can also provoke resistance or adaptation from others, changing the social environment in ways that feed back into the person.
 
-Behavior–environment transaction emphasizes repeated reciprocal change between what a person does and what the environment subsequently provides. A behavior can alter access to people, resources, feedback, rewards, constraints, or opportunities, and those environmental changes can influence later behavior.
+Transactional explanations should distinguish temporal sequence from simple correlation. The fact that behavior and environment covary does not show which component changed first or which mechanism connects them. Longitudinal, experimental, intensive repeated-measures, and process-oriented designs can provide stronger evidence about reciprocal dynamics.
 
-Transaction therefore adds time and mutual influence to a simple stimulus-response picture. It is especially useful for understanding stable patterns that are partly maintained by the environments people help create. It does not imply that every behavior is consciously selected to produce the resulting environment.
+The concept is closely related to person–environment interaction but emphasizes environmental change generated by behavior itself. It therefore highlights feedback, selection, elicitation, and niche construction within ordinary psychological functioning.
+
+
 ## 4. Relationship to This Chapter
 This concept connects behavior, environment, feedback, learning, adaptation, person–environment interaction, and temporal dynamics.
 
@@ -928,10 +973,15 @@ The general transactional relation between behavior and environmental conditions
 Specific reinforcement, social interaction, learning, and developmental mechanisms to their canonical Topics.
 
 ## 6. Key Principles
-1. Behavior can alter the conditions that later influence behavior.
-2. Transactions can occur across short or long timescales.
-3. Feedback can stabilize or change behavioral patterns.
-4. Transactional claims require evidence for the proposed causal pathway.
+1. Behavior can change the environment that later influences behavior.
+2. Transactional models treat person and environment as mutually influencing over time.
+3. Transactions can operate within seconds or across development.
+4. Social responses can be elicited by behavior and become part of later conditions.
+5. Transactions can create reinforcing, stabilizing, or corrective feedback loops.
+6. Covariation alone does not establish transactional causality.
+7. Transactional evidence benefits from temporal and repeated-measures designs.
+8. Behavior–environment transaction emphasizes environmental change generated by the person's own activity.
+
 
 ---
 
