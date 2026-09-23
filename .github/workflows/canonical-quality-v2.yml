@@ -44,16 +44,16 @@ jobs:
             echo "No canonical chapter or validation record changed; governance-only change passes."
             exit 0
           fi
-          for path in "${chapters[@]}"; do
-            echo "Validating $path"
-            python3 quality/validate_canonical_chapter.py --chapter "$path" --architecture "system_1/SYSTEM_1_SURGICAL_CANONICAL_ARCHITECTURE_v2.md" --validation "${path%.md}_FINAL_VALIDATION.md"
-          done
+          if [ "${#chapters[@]}" -gt 0 ] && [ "${#validations[@]}" -eq 0 ]; then
+            echo "Canonical chapter changed without a v2 validation record."
+            exit 1
+          fi
           for path in "${validations[@]}"; do
             chapter="${path%_FINAL_VALIDATION.md}.md"
             if [ ! -f "$chapter" ]; then
               echo "Missing canonical chapter for validation record: $chapter"
               exit 1
             fi
-            echo "Validation record changed; enforcing v2 seal contract for $chapter"
+            echo "Enforcing v2 seal contract for $chapter using $path"
             python3 quality/validate_canonical_chapter.py --chapter "$chapter" --architecture "system_1/SYSTEM_1_SURGICAL_CANONICAL_ARCHITECTURE_v2.md" --validation "$path"
           done
