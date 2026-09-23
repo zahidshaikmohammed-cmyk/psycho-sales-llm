@@ -156,44 +156,14 @@ It is not one single method. Different psychological questions require different
 **What it is not:** psychological science is not the same as popular psychology, personal intuition, clinical opinion, self-help advice, or any claim merely because it uses psychological vocabulary.
 
 ## 3. Core Understanding
+Psychological science is the organized scientific enterprise through which psychological phenomena are observed, measured, modeled, explained, tested, criticized, and accumulated into revisable knowledge. Its subject matter includes behavior and mental phenomena, but its defining feature is not the topic itself; it is the disciplined relationship among questions, concepts, methods, evidence, inference, and correction. Psychology can therefore use experiments, longitudinal studies, surveys, observational designs, qualitative inquiry, psychometric models, computational approaches, and evidence synthesis while remaining one scientific enterprise.
 
-Psychological science has several linked functions.
+A central distinction is between a phenomenon and the evidence used to study it. A construct such as anxiety, memory, intelligence, or motivation is not identical to a questionnaire score or experimental task. Scientific conclusions depend on whether operationalizations capture the intended construct, whether the design permits the claimed inference, whether alternative explanations have been considered, and whether findings converge across methods and samples. Publication alone does not settle these questions.
 
-### Description
+Psychological science is cumulative but corrigible. A single study can provide evidence without establishing a universal principle; replication, improved measurement, broader sampling, stronger designs, and synthesis can increase, restrict, or overturn confidence. Scientific knowledge therefore has an evidence status rather than a permanent binary status of “proved” or “disproved.” The appropriate conclusion depends on the quality, consistency, precision, and scope of the available evidence.
 
-Researchers first need to establish what occurs. Description may concern behavior, experiences, mental processes, individual differences, relationships between variables, or changes across time. A descriptive claim can be scientifically useful without explaining why the phenomenon occurs.
+The field also requires boundary discipline. A finding from a particular population, laboratory task, cultural setting, or measurement model cannot automatically be generalized to all humans. Good psychological science makes the inferential chain visible: what was measured, in whom, under what conditions, what was found, what explanation is supported, and what remains uncertain.
 
-### Explanation
-
-Scientific explanation goes beyond describing a pattern. It proposes processes, mechanisms, conditions, or relationships that account for the observed phenomenon. Explanations must remain proportionate to the evidence supporting them.
-
-### Prediction
-
-Scientific knowledge can sometimes support predictions about observations under specified conditions. Prediction is not the same as explanation, and accurate prediction does not automatically establish the mechanism producing the predicted outcome.
-
-### Measurement
-
-Psychological phenomena are often not directly observable in the same way as physical objects. Psychological science therefore uses operational definitions, behavioral indicators, self-report, performance measures, physiological measures, and other measurement approaches. The quality of a conclusion depends partly on whether the chosen measure represents the intended phenomenon adequately.
-
-### Theory and evidence
-
-Theories organize observations and propose relationships among concepts. Evidence tests particular predictions or claims derived from theories. A theory may be useful while still containing propositions that remain uncertain or contested. Scientific progress often involves refinement, restriction, integration, or replacement of explanations as evidence accumulates.
-
-### Critical correction
-
-Scientific knowledge is designed to be corrigible. Findings can be challenged by new evidence, better measurement, stronger designs, failed replications, or improved theoretical explanations. A published result is therefore not automatically a permanent fact.
-
-### Cumulative knowledge
-
-Psychological science advances cumulatively when individual studies contribute to a broader evidence base. A single study can be informative, but conclusions become more trustworthy when evidence converges across appropriate methods, samples, settings, and researchers.
-
-### Evidence boundaries
-
-Scientific claims always have boundaries. A result obtained with a particular population, measure, task, or context does not automatically apply to every person or situation. Good psychological science states what the evidence supports and avoids extending a finding beyond its justified scope.
-
-### Evidence status
-
-Psychological science is an established scientific field. Individual findings within it vary greatly in evidential strength. Some propositions have substantial converging evidence; others remain provisional, context-dependent, theoretically disputed, or poorly established.
 
 ## 4. Relationship to This Chapter
 
@@ -210,13 +180,15 @@ The general concept of psychological science as a scientific knowledge enterpris
 Specific research methods, statistical procedures, measurement theories, psychological constructs, and ethical rules are owned by their respective Topics within this chapter or by other chapters where their substantive subject matter belongs.
 
 ## 6. Key Principles
+1. Psychological science is defined by disciplined empirical inquiry, not by one research method.
+2. Constructs, measures, observations, and explanations are distinct.
+3. Description, prediction, and causal explanation require different evidential support.
+4. Evidence has degrees of strength, precision, consistency, and scope.
+5. Scientific conclusions remain open to correction.
+6. Replication and convergence strengthen confidence but do not create certainty by themselves.
+7. Generalization must respect population, context, measurement, and design boundaries.
+8. Strong scientific claims make their evidential chain and uncertainty explicit.
 
-1. Psychological science uses systematic empirical methods to study psychological phenomena.
-2. Science requires more than collecting observations; it requires disciplined inference and critical evaluation.
-3. Description, prediction, and explanation are different scientific functions.
-4. Evidence varies in strength and scope.
-5. Scientific knowledge remains open to correction.
-6. A finding should not be generalized beyond the evidence supporting it.
 
 ---
 
@@ -233,42 +205,14 @@ Scientific inquiry is a systematic process of asking empirically answerable ques
 Scientific inquiry is iterative rather than a single fixed sequence. Questions may emerge from theory, observation, anomalies, practical problems, previous findings, or unresolved disagreements.
 
 ## 3. Core Understanding
+Scientific inquiry is the iterative logic by which an empirical question is made sufficiently precise to investigate, evidence is gathered using an appropriate design, observations are analyzed, competing interpretations are considered, and conclusions are revised when evidence warrants. It is not a rigid recipe in which every investigation must proceed through identical steps. Exploratory research, confirmatory testing, qualitative inquiry, measurement development, and theory-driven experiments can follow different workflows while sharing commitments to systematic evidence and criticism.
 
-### Question formation
+Inquiry begins with a question but requires conceptualization before measurement. Broad ideas must be translated into constructs, observable indicators, comparisons, or patterns that evidence can address. A question about “stress,” for example, can concern subjective experience, physiological response, environmental exposure, coping, or functional impairment; different questions require different operationalizations. Precision at the conceptual stage prevents later statistical sophistication from compensating for a poorly defined target.
 
-Inquiry begins with a question that can be investigated. A useful scientific question identifies a phenomenon clearly enough that evidence can distinguish among possible answers.
+Inquiry also requires matching method to inference. Experiments can manipulate variables and support causal claims under appropriate conditions; correlational and observational studies can reveal associations and natural variation; longitudinal designs can examine temporal ordering; qualitative approaches can investigate meanings and processes that standardized measures may miss. No design is universally superior because inferential strength depends on the question.
 
-### Conceptualization
+Scientific inquiry is self-correcting only when criticism is possible. Transparent procedures, appropriate analysis, replication, competing explanations, and willingness to revise conclusions allow evidence to constrain interpretation. Exploratory findings can generate hypotheses, but they should not be presented as though they were preregistered predictions. The distinction preserves the evidential meaning of a result without devaluing discovery.
 
-Researchers translate broad concepts into sufficiently precise constructs and relationships. For example, a question about stress requires decisions about what aspect of stress is being studied and how it will be observed or measured.
-
-### Hypothesis and prediction
-
-When appropriate, a researcher specifies hypotheses and derives predictions that could be compared with observations. Not every scientific investigation requires a simple hypothesis; exploratory and qualitative work can investigate phenomena where the relevant structure is not yet sufficiently known.
-
-### Evidence collection
-
-Data must be collected using procedures suited to the question. The design determines what kinds of conclusions are justified. An experiment can support stronger causal inference under appropriate conditions than a simple correlational observation, but even an experiment has limits.
-
-### Analysis and interpretation
-
-Analysis summarizes and evaluates patterns in the data. Interpretation connects those results back to the research question while considering uncertainty, alternative explanations, measurement limitations, sampling, and design constraints.
-
-### Revision
-
-A scientific conclusion is provisional to the extent that it depends on evidence that can be challenged or expanded. Replication, new methods, better measures, or broader samples can change confidence in a claim.
-
-### Transparency and criticism
-
-Scientific inquiry depends on the possibility of scrutiny. Other researchers should be able, where appropriate, to understand how a conclusion was produced and evaluate whether the evidence supports it.
-
-### Exploratory and confirmatory inquiry
-
-Exploratory work can identify patterns and generate hypotheses. Confirmatory work tests specified predictions or hypotheses. The distinction matters because discovering a pattern after examining many possibilities is different from predicting that pattern before examining the data.
-
-### Evidence status
-
-Scientific inquiry is a foundational methodological principle rather than a single empirical finding. Specific standards of good inquiry vary by research question and design, but systematic evidence, transparent reasoning, and openness to correction are central.
 
 ## 4. Relationship to This Chapter
 
@@ -285,13 +229,15 @@ The general process and logic of systematic scientific investigation.
 Specific hypotheses, research designs, statistical procedures, measurement models, and research ethics to their respective Topics.
 
 ## 6. Key Principles
+1. Inquiry converts questions into evidence-bearing investigations and revisable conclusions.
+2. Conceptual precision must precede or accompany measurement.
+3. Methods should be selected according to the inference required.
+4. Exploration and confirmation serve different purposes.
+5. Data do not interpret themselves; competing explanations matter.
+6. Transparency and criticism are part of scientific reasoning.
+7. Conclusions should be revised when stronger evidence changes their support.
+8. Scientific inquiry is iterative rather than a single universal recipe.
 
-1. Scientific inquiry begins with questions that can be investigated.
-2. Methods must fit the question.
-3. Evidence must be interpreted within the limits of the design and measurement.
-4. Scientific conclusions are open to revision.
-5. Exploration and confirmation answer different methodological needs.
-6. Transparency and criticism help make scientific knowledge self-correcting.
 
 ---
 
@@ -310,28 +256,14 @@ Basic research can eventually have major practical consequences even when no dir
 **What it is not:** basic research does not mean unimportant research, purely theoretical speculation, or research with no possible application.
 
 ## 3. Core Understanding
+Basic research primarily seeks fundamental understanding of psychological phenomena, mechanisms, structures, processes, or relationships rather than an immediate solution to a practical problem. Its defining feature is purpose, not method. An experiment investigating attention, a longitudinal study of personality development, a psychometric investigation of memory measurement, and a computational model of decision-making can all be basic research if their primary objective is general understanding.
 
-Basic research can ask questions such as how memory operates, how attention is allocated, how learning changes behavior, how perception is organized, or how social information affects judgment. Its immediate objective is understanding.
+The distinction matters because foundational knowledge often precedes recognizable application. A process may be studied because it clarifies how learning works long before anyone knows which educational intervention will benefit from that knowledge. Conversely, practical problems can generate basic discoveries when real-world observations reveal mechanisms that require explanation.
 
-### Mechanism-oriented knowledge
+Basic research is not synonymous with speculation. Strong basic research still requires operational definitions, appropriate designs, valid measurement, transparent analysis, and evidence proportionate to the claim. Nor does “basic” mean universally generalizable. A laboratory discovery can reveal a mechanism while remaining uncertain about its magnitude or expression in natural settings.
 
-Basic research often investigates mechanisms and conditions. A researcher may ask what process produces a behavioral pattern rather than simply whether the pattern exists.
+The relationship between basic and applied research is therefore better understood as a knowledge cycle than a hierarchy. Basic research can supply concepts and mechanisms for application; applied research can reveal boundary conditions and ecological constraints that refine basic theories. The distinction is useful for describing research purpose, but it should never be used as a proxy for rigor, importance, or evidential quality.
 
-### General principles
-
-Basic research can contribute to general principles that later inform applied research. However, findings do not automatically transfer to every applied setting. Application requires additional evidence about the relevant population, environment, task, and constraints.
-
-### Methods
-
-Basic research can use experiments, observational methods, longitudinal designs, psychometric studies, computational approaches, qualitative methods, and other designs. “Basic” describes the primary purpose of the research, not a particular methodology.
-
-### Cumulative role
-
-A body of basic research can provide the conceptual foundation for later applied work. Conversely, practical problems can reveal phenomena that lead back to basic questions.
-
-### Evidence status
-
-The distinction between basic and applied research concerns research purpose, not evidential quality. Basic research can be rigorous or weak, and applied research can be rigorous or weak. The label does not determine the strength of the evidence.
 
 ## 4. Relationship to This Chapter
 
@@ -348,12 +280,15 @@ The concept of research primarily aimed at fundamental understanding rather than
 Applied research, specific research methods, and the substantive psychological mechanisms being investigated.
 
 ## 6. Key Principles
-
 1. Basic research primarily seeks fundamental understanding.
-2. It can study mechanisms, processes, relationships, and general principles.
-3. Basic research can eventually support practical applications.
-4. Research purpose does not determine research quality.
-5. Basic research is not synonymous with useless or purely theoretical work.
+2. “Basic” describes research purpose, not methodology or quality.
+3. Basic research can investigate mechanisms, structures, processes, and general principles.
+4. Foundational findings can later support practical applications.
+5. Applied problems can also generate basic theoretical knowledge.
+6. Basic research still requires rigorous measurement and inference.
+7. Laboratory generality and real-world applicability are separate questions.
+8. Basic and applied research can form a cumulative knowledge cycle.
+
 
 ---
 
@@ -370,34 +305,14 @@ Applied research is research primarily intended to address a practical problem o
 Applied research can also contribute to fundamental knowledge when practical investigations reveal mechanisms or patterns that generalize beyond the immediate problem.
 
 ## 3. Core Understanding
+Applied research primarily investigates questions connected to practical problems, decisions, interventions, environments, or outcomes. It can concern education, health, organizations, technology, public services, assessment, human factors, or other settings in which psychological knowledge must inform action. Its practical orientation does not reduce the need for scientific rigor; if anything, consequences of incorrect conclusions can make careful inference especially important.
 
-### Practical problem orientation
+Applied questions often involve complex environments where multiple variables operate simultaneously. This creates a tension between control and relevance. A tightly controlled study can isolate a mechanism but may omit features that determine whether the effect appears in ordinary life. A field study can better represent real conditions but may make causal attribution harder. Applied research therefore often benefits from combining designs across stages: mechanism studies, effectiveness trials, implementation studies, and longer-term outcome evaluation can answer different parts of the same practical question.
 
-Applied research begins with a problem or decision context. The research question should still be scientifically precise. A practical objective does not justify weak measurement or unsupported causal claims.
+Application also requires specifying the target population, setting, intervention or decision, comparator, outcome, time horizon, and implementation conditions. A statistically detectable effect is not automatically practically useful, and an intervention that works under intensive research support may not work when resources, training, adherence, or institutional conditions differ.
 
-### Context dependence
+Applied research can generate basic knowledge as well. Unexpected constraints, heterogeneous effects, implementation failures, and contextual variation can reveal mechanisms or boundary conditions that refine general theory. The basic/applied distinction therefore describes primary purpose, not a one-way flow from laboratory knowledge to practice.
 
-Real-world environments contain many interacting variables. Applied research therefore often faces greater contextual complexity than tightly controlled laboratory research. This can make generalization difficult but can also increase relevance to actual conditions.
-
-### Evaluation
-
-Applied research frequently evaluates programs, interventions, policies, technologies, assessments, or organizational practices. Evaluation requires specifying the outcome, comparison, time frame, population, and conditions under which an effect is expected.
-
-### Translation
-
-Translating basic findings into practice requires more than assuming that a laboratory effect will work identically in a natural environment. Implementation conditions, population differences, adherence, resources, incentives, and unintended consequences can all matter.
-
-### Evidence quality
-
-Applied research can use randomized experiments, quasi-experiments, observational designs, qualitative studies, mixed methods, and other approaches. The appropriate design depends on the practical question and feasibility.
-
-### Basic and applied research are not opposites
-
-A practical investigation can produce basic scientific insight, and basic findings can eventually become practically important. The distinction is primarily about the immediate purpose of the research.
-
-### Evidence status
-
-Applied research is a broad research category, not a guarantee of effectiveness. Claims about whether an application works depend on the evidence from the specific intervention, population, outcome, and context.
 
 ## 4. Relationship to This Chapter
 
@@ -414,12 +329,15 @@ The concept of research primarily directed toward practical problems and decisio
 Basic research, intervention-specific evidence, research designs, statistical inference, measurement, and the psychological mechanisms being applied.
 
 ## 6. Key Principles
+1. Applied research addresses practical problems while retaining scientific standards.
+2. Real-world complexity creates trade-offs between control and ecological relevance.
+3. Practical conclusions require attention to population, setting, implementation, and outcomes.
+4. Statistical significance does not establish practical usefulness.
+5. Research efficacy and real-world effectiveness are distinct questions.
+6. Applied research can reveal mechanisms and boundary conditions.
+7. Practical context can change the expression of psychological effects.
+8. Research purpose should not be confused with evidence quality.
 
-1. Applied research addresses practical questions using systematic evidence.
-2. Practical importance does not remove the need for scientific rigor.
-3. Real-world context can change the observed effect of an intervention or relationship.
-4. Translation from research to practice requires evidence appropriate to the application.
-5. Applied and basic research can inform one another.
 
 ---
 
@@ -438,42 +356,16 @@ A theory is not merely a guess. In science, a theory can be strongly supported w
 **What it is not:** a scientific theory is not a personal opinion, an unsupported speculation, or simply a hypothesis. A theory is broader and more organized than an individual hypothesis.
 
 ## 3. Core Understanding
+A scientific theory is an organized system of concepts, propositions, assumptions, and relationships that explains a domain of observations and generates testable expectations. A theory does more than summarize findings: it provides a structure for deciding which observations belong together, which mechanisms may connect them, what should occur under specified conditions, and what evidence would challenge the account.
 
-### Components
+Theories vary in scope and formalization. Some are narrow models of a particular process; others organize broad domains such as learning, personality, development, or decision-making. A useful theory can contain propositions with different evidential statuses. The existence of a named theory therefore does not mean every statement associated with it is equally established.
 
-A theory may contain constructs, definitions, propositions, relationships, assumptions, boundary conditions, and mechanisms. Different theories vary in formal structure.
+Scientific theories are evaluated through empirical consequences. Researchers examine whether predictions are supported, whether competing theories explain the same data more successfully, whether the theory survives attempts at falsification, whether it accommodates anomalies, and whether it produces new successful predictions. Fit to existing data is informative but can be misleading when a model has excessive flexibility or was adjusted after seeing the data.
 
-### Organization
+Theories can be revised without every component being discarded. A theory may be restricted to particular boundary conditions, decomposed into submodels, integrated with another framework, or replaced when evidence accumulates against central assumptions. Theory change is therefore part of scientific progress rather than evidence that science has failed.
 
-A theory reduces disconnected observations into an explanatory framework. It can show how multiple findings relate and identify predictions that would be difficult to derive from isolated facts.
+A strong theory connects constructs to mechanisms, predictions, measurements, and boundaries. A vague framework that can explain every possible result is difficult to test because it does not meaningfully constrain expectation.
 
-### Explanation
-
-A strong theory proposes why a pattern occurs, not merely that it occurs. The proposed explanation must remain distinguishable from the evidence used to evaluate it.
-
-### Prediction
-
-Theories generate predictions that can be tested. A theory becomes scientifically useful partly through its ability to expose itself to evidence that could support, limit, modify, or challenge its propositions.
-
-### Scope
-
-Every theory has a domain. A theory developed to explain one class of phenomena should not automatically be treated as a universal explanation of human behavior.
-
-### Theory and model
-
-A model may represent a narrower mechanism, structure, process, or set of relationships. The distinction between theory and model varies across scientific traditions. A model can operationalize part of a broader theoretical account.
-
-### Theory change
-
-Theories can be refined when some predictions fail, boundary conditions become clearer, measurements improve, or competing explanations account for the evidence more effectively. A failed prediction does not always mean the entire theory is false because auxiliary assumptions or measurement issues may be responsible.
-
-### Evidence status
-
-The evidential status of a theory depends on the evidence supporting its propositions and predictions. The word “theory” in science does not mean “unproven guess,” but neither does a recognized theory mean that every proposition associated with it is settled.
-
-### Example
-
-A theory of memory may propose mechanisms connecting encoding, storage, retrieval, and context. Individual experiments test particular predictions rather than proving the entire theory in one step.
 
 ## 4. Relationship to This Chapter
 
@@ -490,13 +382,14 @@ The general concept of scientific theory as an organized explanatory framework.
 Theory construction, individual hypotheses, predictions, specific psychological theories, and the evidence supporting any particular theory.
 
 ## 6. Key Principles
-
-1. A scientific theory organizes concepts and evidence into an explanatory framework.
-2. Theories are broader than individual hypotheses.
-3. Scientific theories generate testable implications.
-4. A theory has a scope and boundary conditions.
-5. Theories remain open to refinement when evidence changes.
-6. Calling something a theory does not mean every claim within it is equally established.
+1. A theory organizes concepts and relationships into an explanatory system.
+2. Theories should generate testable consequences.
+3. Named theories can contain claims with different evidential status.
+4. Empirical fit must be evaluated against alternative explanations and model flexibility.
+5. Theories can be refined, restricted, integrated, or replaced.
+6. An explanation that accommodates every outcome may have little falsifiable content.
+7. Strong theories connect constructs, mechanisms, predictions, measures, and boundaries.
+8. Theory revision is a normal part of cumulative science.
 
 
 ---
@@ -514,34 +407,16 @@ Theory construction is the systematic development of a coherent explanatory fram
 **What it is not:** theory construction is not the act of inventing an attractive story and treating it as established knowledge. A constructed theory remains an explanatory proposal until its claims receive appropriate empirical evaluation.
 
 ## 3. Core Understanding
+Theory construction is the process of developing, organizing, refining, and connecting concepts and propositions into an explanatory model that can guide research. Construction begins with observations, existing findings, conceptual distinctions, anomalies, or practical questions and seeks an internally coherent account of how relevant phenomena relate. It includes defining constructs, specifying relationships, identifying mechanisms, establishing assumptions, and deriving empirical predictions.
 
-### Concept specification
+Good construction is constrained by existing evidence. A theory should distinguish what is observed from what is inferred and should not introduce unnecessary constructs merely to rescue every unexpected result. Parsimony can be useful, but simplicity is not automatically truth: a slightly more complex model may be justified if it captures meaningful structure and produces better predictions.
 
-A theory begins with concepts that are sufficiently clear to distinguish them from neighboring concepts. Ambiguous concepts make later testing difficult because different researchers may interpret the same theoretical statement differently.
+Construction also requires conceptual boundaries. Closely related concepts need definitions that make their differences explicit, while apparently different concepts may need integration when evidence shows that they reflect one process. Operational definitions help connect theory to measurement, but a measurement procedure should not silently become the conceptual definition of the construct.
 
-### Relationship specification
+The process is iterative. Evidence can expose ambiguous concepts, unsupported assumptions, missing moderators, or mechanisms that do not generalize. Researchers can revise the theory, test the revised predictions, and compare it with alternatives. Formal models, diagrams, verbal propositions, computational simulations, and mathematical formulations can all contribute depending on the domain.
 
-A theory must state how its concepts are related. Relationships may describe association, sequence, moderation, mediation, reciprocal influence, or proposed causation. The wording should match the intended claim.
+A theory is scientifically useful when it reduces conceptual ambiguity, organizes existing evidence, generates discriminating predictions, and makes clear what observations would count against it.
 
-### Mechanism
-
-Mechanisms explain how or through what process one condition could produce or influence another. A mechanism should not be treated as established merely because it makes a theory intuitively appealing.
-
-### Boundary conditions
-
-A useful theory states where it should apply and where it may not. Boundary conditions can involve population, context, time, intensity, developmental stage, or other conditions.
-
-### Derivation of predictions
-
-Theoretical propositions become scientifically useful when they imply observations that could support or challenge them. A theory that can accommodate every possible result without restriction has limited empirical discriminability.
-
-### Iteration
-
-Theory construction is often iterative. Evidence can reveal unclear definitions, missing variables, incorrect assumptions, unexpected moderators, or competing mechanisms. The theory can then be refined and retested.
-
-### Evidence status
-
-Theory construction is a scientific reasoning activity. The quality of a constructed theory depends on conceptual coherence, empirical adequacy, explanatory usefulness, predictive implications, and the quality of evidence used to evaluate it.
 
 ## 4. Relationship to This Chapter
 
@@ -558,12 +433,15 @@ The general process of constructing and refining scientific theories.
 The completed theory itself, individual hypotheses, statistical tests, research designs, and specific psychological constructs.
 
 ## 6. Key Principles
+1. Theory construction turns observations and concepts into an organized explanatory model.
+2. Constructs, assumptions, mechanisms, and predictions should be explicit.
+3. Theory should be constrained by evidence rather than retrofitted to every result.
+4. Parsimony is useful but not an absolute requirement of simplicity.
+5. Operationalization should connect to theory without replacing conceptual meaning.
+6. Conceptual boundaries are necessary for discriminating predictions.
+7. Theories can be iteratively revised through evidence.
+8. Useful theory makes both predictions and possible disconfirmation clearer.
 
-1. Theory construction requires clear concepts and explicit relationships.
-2. A theory should have identifiable scope and boundary conditions.
-3. Mechanisms are proposals until appropriately supported.
-4. Good theories generate testable implications.
-5. Theories can be revised when evidence exposes weaknesses or new conditions.
 
 ---
 
@@ -580,47 +458,17 @@ A hypothesis is a specific, empirically testable proposition about an expected r
 A hypothesis is narrower than a scientific theory. It is a proposition to be evaluated, not a conclusion that has already been established.
 
 ## 3. Core Understanding
+A hypothesis is a specific, empirically testable proposition about a relationship, difference, process, distribution, or expected observation. It translates part of a broader research question or theory into a claim that data can support, weaken, or fail to support. A hypothesis is therefore not simply a prediction in everyday language; it is a proposition whose terms and implications are sufficiently specified for empirical evaluation.
 
-### Testability
+Hypotheses can be directional or nondirectional, simple or multivariable, mechanistic or descriptive. A directional hypothesis predicts the direction of an effect; a nondirectional hypothesis predicts that a difference or association exists without specifying direction. The appropriate form depends on prior evidence and the research question. Exploratory research may generate hypotheses rather than begin with them.
 
-A scientific hypothesis must connect to observations that could provide evidence for or against it. A statement that cannot be meaningfully evaluated by evidence is not a useful empirical hypothesis.
+A good hypothesis identifies the relevant constructs or variables, population or conditions where appropriate, and expected relationship. It should be distinguishable from tautological claims. “Stress causes stress” provides no informative test, whereas a proposition linking a defined stress exposure to a specified outcome under stated conditions can be evaluated.
 
-### Direction and specificity
+Hypotheses should be separated from post hoc explanations. If a researcher examines many outcomes and only afterward selects one successful pattern as though it had been predicted, the evidential meaning differs from a genuinely prespecified hypothesis. This is one reason preregistration can be useful for confirmatory research.
 
-A hypothesis may specify that two variables are related, that one condition produces a difference in an outcome, or that a particular pattern should occur. More specific hypotheses can provide stronger tests when their assumptions are justified.
-
-### Null and alternative formulations
-
-Statistical testing often distinguishes a null hypothesis from an alternative hypothesis. These are analytical formulations and should not be confused with the complete scientific meaning of the research hypothesis.
-
-### Deduction from theory
-
-Hypotheses can be derived from theories, prior findings, or observations. A theory can generate multiple hypotheses, allowing separate empirical tests of its propositions.
-
-### Exploratory hypotheses
-
-Researchers can develop hypotheses after exploring data, but such hypotheses should not automatically be described as though they were specified before seeing the same data. This distinction connects directly to HARKing and researcher degrees of freedom later in the chapter.
-
-### Evidence status
-
-A hypothesis is a proposition under investigation. Its status changes as evidence accumulates, but a single statistical result does not automatically establish a broad hypothesis in every context.
+Failure to support a hypothesis does not automatically prove its opposite or show that the underlying theory is false. Measurement problems, insufficient power, wrong boundary conditions, or an incorrect auxiliary assumption can explain a null result.
 
 
-### Structure of a hypothesis
-
-A hypothesis states a proposed relationship, difference, or pattern that can be evaluated with evidence. A useful hypothesis identifies the relevant variables or constructs and the conditions under which the prediction is expected to hold.
-
-### Hypothesis versus prediction
-
-A hypothesis is a proposition about what may be true. A prediction is an expected observation derived from a hypothesis, theory, model, or other assumptions. One hypothesis can generate multiple predictions, and a prediction can sometimes follow from several competing hypotheses.
-
-### Testability
-
-A scientific hypothesis should imply observations that could count against it under appropriate conditions. A vague statement that can accommodate every possible result has little discriminatory value.
-
-### Evidence status
-
-A hypothesis is not evidence merely because it is plausible. Its scientific status depends on the evidence obtained when its predictions are tested.
 ## 4. Relationship to This Chapter
 
 Hypothesis links theory construction with prediction, research design, statistical inference, and evidence. It is one of the principal units through which theoretical claims become empirically testable.
@@ -636,12 +484,15 @@ The general scientific concept of a testable research proposition.
 Scientific theory, prediction as an expected observable outcome, statistical significance, causal inference, and the substantive psychological constructs named in a hypothesis.
 
 ## 6. Key Principles
+1. A hypothesis is a specific empirical proposition.
+2. Hypotheses translate broader questions or theories into testable claims.
+3. They can be directional or nondirectional and descriptive or mechanistic.
+4. A useful hypothesis specifies constructs, conditions, and expected relationships.
+5. Exploratory work can generate hypotheses rather than prespecify them.
+6. Post hoc pattern selection should not be presented as prediction.
+7. An unsupported hypothesis does not automatically falsify an entire theory.
+8. Measurement, power, and boundary conditions affect hypothesis tests.
 
-1. A hypothesis is a testable proposition.
-2. It is narrower than a theory.
-3. A hypothesis must connect to observable evidence.
-4. The evidential status of a hypothesis depends on appropriate testing and replication.
-5. Exploratory discoveries should not be presented as preregistered predictions when they were not.
 
 ---
 
@@ -658,43 +509,17 @@ A prediction is a specific expected observation, outcome, pattern, or event deri
 Prediction concerns what is expected to occur. Explanation concerns why it occurs. The two can support one another but are not identical.
 
 ## 3. Core Understanding
+Prediction is an empirically testable expectation about what observation or outcome should occur under specified conditions. Prediction connects a theory or model to observable consequences, but it is not identical to explanation. A model can make accurate predictions while representing the underlying mechanism incompletely, and a plausible mechanism can fail to predict accurately if important variables or boundary conditions are missing.
 
-### Derivation
+Predictions can be point estimates, directional expectations, probability distributions, temporal patterns, or qualitative outcomes. Good predictions specify the population, conditions, timing, outcome, and relevant uncertainty. A statement such as “people will behave differently” is too vague to provide a meaningful test without specifying what behavior, relative to what comparator, and under which conditions.
 
-Predictions can be derived from theories, models, hypotheses, statistical relationships, or prior empirical patterns. The strength of the prediction depends on the quality of the underlying evidence and assumptions.
+Prediction can be prospective or retrospective. Prospective prediction is generally more informative for distinguishing a model because the prediction is evaluated before the outcome is known. Retrodiction can still be valuable for testing whether a model can account for existing observations, but flexible models may fit historical data without strong predictive power.
 
-### Conditional nature
+Predictive success must also be compared with alternatives and baseline expectations. A model that predicts common outcomes accurately may add little if a simpler baseline predicts them equally well. Out-of-sample prediction, cross-validation, replication, and preregistered predictions can help evaluate generalization beyond the data used to construct a model.
 
-A scientific prediction normally has conditions. It may depend on a particular population, manipulation, context, measurement, time period, or range of values. Removing those conditions can make a scientifically justified prediction appear more general than it is.
-
-### Prediction versus explanation
-
-A model may predict an outcome accurately without identifying the true causal mechanism. Conversely, an explanatory theory can be useful even when precise prediction is difficult because the phenomenon contains substantial variation or depends on poorly measured conditions.
-
-### Quantitative prediction
-
-Some models generate numerical predictions or probability distributions. These predictions can be compared with observed values using appropriate statistical methods.
-
-### Unexpected results
-
-A failed prediction is informative but not automatically decisive. Researchers must examine measurement quality, assumptions, implementation, sampling, statistical uncertainty, and competing explanations before concluding what failed.
-
-### Evidence status
-
-Prediction is a scientific function rather than an empirical claim. The reliability of a particular prediction depends on the model, evidence, conditions, and uncertainty involved.
+Prediction is therefore a key bridge between abstract psychological models and observable evidence, but predictive accuracy alone should not be treated as proof of mechanism or universal validity.
 
 
-### Prediction versus explanation
-
-Prediction specifies an expected observation under stated conditions. Explanation addresses why a phenomenon occurs or what mechanism, structure, or process accounts for it. A model can predict accurately without providing a satisfactory explanation of the underlying process.
-
-### Conditional predictions
-
-Scientific predictions should specify relevant conditions when the expected outcome depends on population, context, time, measurement, or intervention. Unqualified universal predictions are often stronger than the evidence warrants.
-
-### Evaluation
-
-Prediction can be assessed by comparing expected and observed outcomes using appropriate criteria. Repeated successful predictions can increase confidence in a model, but prediction alone does not establish causation or mechanism.
 ## 4. Relationship to This Chapter
 
 Prediction connects hypothesis and theory to empirical testing. It also provides a bridge to falsifiability because a prediction must be sufficiently constrained for evidence to distinguish among outcomes.
@@ -710,12 +535,15 @@ The general concept of expected observable outcomes derived from scientific prop
 Hypotheses, theories, statistical models, causal mechanisms, and empirical findings used to generate or evaluate predictions.
 
 ## 6. Key Principles
+1. Prediction specifies expected observations under defined conditions.
+2. Prediction and explanation are related but distinct.
+3. Predictions can be directional, quantitative, probabilistic, or temporal.
+4. Useful predictions specify outcome, conditions, timing, and uncertainty.
+5. Prospective prediction can provide stronger model-discrimination evidence than post hoc fit.
+6. Predictive performance should be compared with appropriate baselines and alternatives.
+7. Out-of-sample performance is important for evaluating generalization.
+8. Predictive accuracy alone does not establish the underlying mechanism.
 
-1. A prediction specifies an expected observation under conditions.
-2. Prediction is not identical to explanation.
-3. Predictions inherit limitations from their underlying models and evidence.
-4. Failed predictions require analysis rather than automatic rejection of an entire theory.
-5. Clear conditions make scientific predictions more interpretable.
 
 ---
 
@@ -730,47 +558,17 @@ Description establishes what occurs before scientists attempt to explain why it 
 Description is the systematic characterization of a phenomenon, pattern, behavior, population, experience, variable, or change without necessarily specifying its underlying cause or mechanism.
 
 ## 3. Core Understanding
+Description is the systematic characterization of what occurs, including its frequency, distribution, form, timing, variability, or association with other measured features. Description is sometimes treated as a preliminary or lesser scientific activity, but reliable description is foundational because causal explanation depends on knowing what phenomenon actually needs to be explained. Poor description can make later theory precise about the wrong target.
 
-### What description can establish
+Descriptive research can establish prevalence, distributions, developmental trajectories, behavioral patterns, subjective experiences, group differences, and naturally occurring associations. It can use surveys, observation, administrative records, qualitative interviews, experiments when the descriptive target is experimental behavior, and other methods. The design should match whether the goal is describing a population, process, episode, or relationship.
 
-Description can identify frequencies, distributions, patterns, sequences, characteristics, experiences, and changes over time. It can answer questions such as what happens, how often it happens, for whom, when, and under what observed conditions.
+Description must be distinguished from explanation. Finding that sleep deprivation is associated with poorer performance describes a relationship; claiming that a particular cognitive mechanism produces the decline is explanatory and requires additional evidence. Description can also be more or less measurement-dependent. If a construct is poorly operationalized, precise descriptive statistics can still misrepresent the phenomenon.
 
-### Measurement dependence
+Good description includes uncertainty and sampling boundaries. Prevalence in a convenience sample is not automatically prevalence in a population. An observed average does not describe the full distribution, and an aggregate can conceal substantial heterogeneity. Time and context also matter: a behavior observed during one episode may not represent typical functioning.
 
-Description depends on measurement. A description is only as precise as the operationalization and data collection supporting it. Poorly defined variables can produce misleading descriptions even when the analysis is technically correct.
-
-### Descriptive versus explanatory claims
-
-"People in this sample reported higher anxiety after the event" is descriptive. "The event caused anxiety by increasing perceived threat" is explanatory and potentially causal. The second claim requires evidence beyond the descriptive observation.
-
-### Descriptive statistics
-
-Descriptive statistics summarize observed data using quantities such as means, medians, proportions, ranges, and distributions. They describe the data rather than automatically establishing population-level causal claims.
-
-### Value of description
-
-Description can reveal previously unrecognized patterns, define populations, generate hypotheses, establish baselines, and identify changes that require explanation.
-
-### Evidence status
-
-A descriptive claim can be strong when the phenomenon is measured well and the sampling and observation procedures are appropriate. Its strength does not automatically extend to causal explanation.
+Descriptive accuracy is therefore an active scientific achievement, not merely data collection. It establishes the empirical map from which explanation, prediction, and intervention can proceed.
 
 
-### Descriptive knowledge
-
-Description establishes what is observed: frequencies, distributions, characteristics, sequences, experiences, behaviors, or relationships. It is the empirical starting point for more ambitious claims.
-
-### Description versus explanation
-
-A descriptive statement can be accurate without specifying why the phenomenon occurs. Confusing description with explanation can produce causal claims that the data do not support.
-
-### Quality of description
-
-Good description requires clear operational definitions, appropriate measurement, adequate coverage of the relevant population or context, and transparent handling of missing or ambiguous observations.
-
-### Scientific value
-
-Accurate descriptive work can reveal previously unknown patterns, establish baselines, test whether assumptions are plausible, and provide the empirical foundation for later theory and causal investigation.
 ## 4. Relationship to This Chapter
 
 Description is one of the fundamental functions of science and provides the empirical base for explanation and prediction. It connects directly to observational research, survey research, descriptive statistics, and generalizability.
@@ -786,12 +584,15 @@ The scientific function of systematically characterizing what is observed.
 Explanation, causal inference, statistical modeling, and the psychological phenomena being described.
 
 ## 6. Key Principles
+1. Description systematically characterizes what occurs.
+2. Reliable description is foundational to explanation.
+3. Descriptive findings can concern distributions, prevalence, patterns, trajectories, and associations.
+4. Description does not by itself establish mechanism or causality.
+5. Measurement quality determines what is actually being described.
+6. Sampling and context limit descriptive generalization.
+7. Averages can conceal meaningful heterogeneity.
+8. Good description reports uncertainty and relevant boundaries.
 
-1. Description answers what, who, when, where, and how much questions.
-2. Description does not automatically explain cause.
-3. Good description requires clear measurement.
-4. Descriptive evidence can generate important hypotheses.
-5. Explanatory claims require additional evidence.
 
 ---
 
@@ -808,38 +609,16 @@ Scientific explanation is an evidence-supported account of why or how a phenomen
 An explanation can be causal, mechanistic, functional, statistical, or theoretical depending on the scientific question. Not every explanation is a claim that one variable directly causes another.
 
 ## 3. Core Understanding
+Explanation is a scientific account of why or how a phenomenon occurs, usually by identifying mechanisms, relationships, conditions, structures, or processes that make the observation intelligible. Explanation is stronger than description because it proposes an account that could in principle be compared with alternatives. However, not every explanatory claim is causal: some explanations are mechanistic, functional, developmental, computational, or structural.
 
-### Explanatory structure
+A useful explanation specifies what it accounts for, through which proposed process, under what conditions, and with what evidence. It should distinguish observed findings from theoretical interpretation. A statistical association can motivate an explanation but does not by itself establish the proposed mechanism. Likewise, a plausible story can sound explanatory while failing to generate predictions that distinguish it from alternatives.
 
-An explanation connects observations to a proposed account. It may specify antecedent conditions, mechanisms, processes, consequences, or relationships that make the phenomenon intelligible.
+Explanations operate at different levels. A cognitive explanation may specify information processing, a biological explanation may describe implementation, a social explanation may identify interpersonal or institutional processes, and a developmental explanation may describe how a pattern emerges. These can be complementary when they answer different questions. The challenge is avoiding unjustified reduction or vague multi-level storytelling.
 
-### Mechanistic explanation
+Scientific explanation is also bounded. A mechanism that works under one task condition may not generalize to another; a developmental pathway observed in one population may differ elsewhere; and a functional benefit may reverse when environmental conditions change. Explanatory confidence should therefore track evidence for mechanism, boundary conditions, alternative models, and replication.
 
-A mechanistic explanation identifies the processes through which a phenomenon is generated. It can be especially useful when a causal claim requires understanding intermediate steps.
+A mature explanation does not merely provide a satisfying narrative. It organizes evidence, identifies testable consequences, clarifies uncertainty, and tells the reader what would count as evidence against the account.
 
-### Causal explanation
-
-A causal explanation claims that changing one condition would change an outcome under specified conditions. Such claims require evidence capable of addressing alternative explanations and the causal structure of the problem.
-
-### Functional explanation
-
-Some psychological phenomena can be described in terms of what they accomplish or how they contribute to functioning without claiming that the function itself is the immediate cause of the phenomenon. Functional language therefore needs careful interpretation.
-
-### Statistical explanation
-
-A statistical model can explain variation by representing systematic relationships among variables. Statistical association is not automatically a complete causal explanation.
-
-### Explanation versus description
-
-A description establishes a pattern. An explanation proposes why the pattern exists. The distinction is essential for preventing observations from being mistaken for mechanisms.
-
-### Competing explanations
-
-The same pattern can sometimes be explained by multiple mechanisms. Strong research designs, measurement, prediction, and converging evidence help distinguish among alternatives.
-
-### Evidence status
-
-Explanations vary in evidential support. A plausible mechanism is not equivalent to an established mechanism. Explanatory confidence should track the quality, convergence, and relevance of evidence.
 
 ## 4. Relationship to This Chapter
 
@@ -856,12 +635,15 @@ The general scientific function of accounting for why or how phenomena occur.
 Specific causal models, mechanisms, theories, statistical procedures, and psychological constructs being explained.
 
 ## 6. Key Principles
+1. Explanation accounts for why or how a phenomenon occurs.
+2. Explanations can be mechanistic, functional, developmental, structural, or computational.
+3. Association does not automatically establish the proposed explanation.
+4. Strong explanations specify mechanism, conditions, evidence, and alternatives.
+5. Multiple explanatory levels can be complementary.
+6. Explanations require boundary conditions and should not overgeneralize.
+7. A compelling narrative is not automatically a scientifically supported explanation.
+8. Good explanations generate discriminating expectations and remain revisable.
 
-1. Explanation addresses why or how a phenomenon occurs.
-2. Explanation can be causal, mechanistic, functional, statistical, or theoretical.
-3. Plausibility is not the same as empirical support.
-4. Causal explanations require evidence appropriate to causal claims.
-5. Competing explanations must be considered when multiple mechanisms can produce the same observation.
 
 ---
 ## 1.2.11 Scientific inference
