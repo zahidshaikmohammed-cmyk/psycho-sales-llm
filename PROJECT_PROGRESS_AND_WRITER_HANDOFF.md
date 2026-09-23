@@ -1050,7 +1050,7 @@ Historical records may be preserved when useful, but their status must remain ex
 
 **Completed canonical chapters:** 1.1, 1.2, 1.3, 1.4, 1.5
 
-**Completed Topic count:** 57 + 118 + 78 + 62 = **315 canonical Topics**
+**Completed Topic count:** 57 + 118 + 78 + 62 + 44 = **359 canonical Topics**
 
 **Current next target:** Chapter 1.6
 
@@ -1142,3 +1142,32 @@ Validation file:
 `knowledge/system-01/chapter-1.5/CHAPTER_1.5_FINAL_VALIDATION.md`
 
 The chapter passed ontology, six-section structural, scientific-integrity, and ownership validation. Two exact ownership collisions were remediated before writing; no existing sealed Knowledge Objects were rewritten.
+
+
+## System 1 Architecture Precision Pass — Completed
+
+A surgical architecture precision pass was completed after the whole-repository audit.
+
+### Structural correction
+Chapter 1.21 is now explicitly bounded. Its canonical chapter-entry set is **37 core ontology entries + 8 explicit redirects = 45 entries**. The global relationship architecture, theory/model registry, application boundary, clinical-separation notes, and audit metadata are explicitly outside the Chapter 1.21 ontology boundary.
+
+### Machine-auditable accounting
+The new registry is:
+
+`system_1/SYSTEM_1_ARCHITECTURE_PRECISION_REGISTRY.md`
+
+It reproducibly defines:
+
+- **1,364** chapter architecture entries
+- **60** relationship/application nodes
+- **12** duplicate-name non-owner appearances
+- **9** redirects
+- **16** theory/model entries in the chapter lists that are governed by the separate model registry
+- **1,267** canonical construct/clinical owners
+
+Equation: **1,364 − 60 − 12 − 9 − 16 = 1,267**.
+
+### Important status
+The counting/ownership accounting is now reproducible. The controlled ontology-type vocabulary is also formalized in the registry, but a complete per-entry primary-type assignment across all 1,364 entries remains a separate typing subgate and has **not** been silently invented in this pass.
+
+No sealed Knowledge Object prose was rewritten. No canonical Topic names were changed.
