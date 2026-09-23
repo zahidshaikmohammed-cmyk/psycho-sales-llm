@@ -2266,12 +2266,15 @@ An **expectation effect** is a systematic change in perceptual experience, judgm
 
 ## 3. Core Understanding
 
-Expectations function as prior constraints on uncertain input. When evidence is weak or ambiguous, anticipating one interpretation can increase the probability that compatible evidence is interpreted accordingly. Expectations can also improve perceptual efficiency when environmental regularities are reliable.
+Expectations supply prior information about what sensory evidence is likely to mean. They can concern an object's identity, a location, the timing of an event, the likely intensity of a stimulus, or the probability that a signal is present. Their influence is generally greatest when incoming evidence is uncertain enough to permit multiple interpretations.
 
-Expectation effects are therefore not uniformly errors. A prediction that accurately reflects the environment can reduce uncertainty; an inaccurate prediction can bias interpretation. Their expression depends on the reliability of the expectation, the reliability of sensory evidence, task demands, and the level at which the effect is measured.
+Expectation effects can improve perception when prior information matches environmental regularities. They can also produce systematic errors when the expectation is inappropriate. This dual character matters: a change in perception after an expectation manipulation is not inherently evidence of a defective process.
 
-A critical distinction is between perceptual and post-perceptual effects. Faster responses or changed reports can result from decision strategy without altered perceptual experience. Stronger evidence for perceptual effects comes from designs that measure discrimination, thresholds, subjective appearance, or other indicators that constrain purely response-based explanations.
+Expectation can influence several stages of a task. It may alter sensory or perceptual processing, attentional selection, memory for the stimulus, or the decision rule used to report it. Therefore, a changed response distribution alone cannot establish a perceptual effect. Designs using discrimination, appearance matching, psychophysical thresholds, or other measures can help distinguish perceptual changes from post-perceptual response changes.
 
+Expectations can be explicit, such as an instruction about the likely stimulus, or learned implicitly from regularities in the environment. They can be short-lived states or stable knowledge structures. Their reliability and precision matter: a precise but unreliable expectation can be less useful than a weaker but accurate one.
+
+Expectation effects interact with perceptual set, context, learning, and inference. They should not be used as a catch-all explanation for any top-down influence because attention, adaptation, and response bias can generate superficially similar outcomes.
 ## 4. Relationship to This Chapter
 
 Expectation effects are a specific class of top-down influence and connect to perceptual set, context effects, perceptual inference, and perceptual learning. They provide experimentally testable instances of the broader interaction between prior information and sensory evidence.
@@ -2587,16 +2590,15 @@ Depth perception explains how visual systems estimate three-dimensional distance
 
 ## 3. Core Understanding
 
-Depth is inferred from multiple cues. Binocular disparity provides information from differences between the two eyes, while monocular cues include occlusion, relative size, perspective, texture gradients, shading, and motion-based information.
+Depth perception solves an inverse problem: a two-dimensional retinal image must support estimates of three-dimensional layout, relative distance, surface orientation, and object position. No single retinal measurement uniquely specifies depth, so the system combines multiple cues.
 
-The cues differ in reliability and applicability. The visual system combines them rather than using one universal depth mechanism. When cues agree, depth estimates can become robust; when they conflict, perceptual ambiguity or systematic illusion can occur.
+Binocular disparity is especially useful for fine relative-depth judgments at appropriate distances, while monocular information such as occlusion, perspective, texture gradients, relative size, shading, and motion parallax supports depth even with one eye. Cue reliability varies with distance, lighting, viewpoint, display geometry, and environmental structure.
 
-Depth perception also has a temporal component. Motion parallax and changes in viewpoint reveal spatial relationships that cannot be recovered as easily from a single static image.
+Depth perception is context-sensitive. When cues agree, the percept can be stable and precise; when they conflict, observers may experience systematic distortions or ambiguous depth. Laboratory displays exploit this property to reveal weighting of different cues.
 
-Depth estimates support size constancy, object segmentation, navigation, and action. Yet perceptual depth and physically measured distance are not identical; judgments can be biased by context, display geometry, and unfamiliar environments.
+Depth estimates contribute to figure–ground organization, object recognition, size constancy, shape interpretation, navigation, and visually guided action. Perceived distance should not be equated with a consciously calculated metric coordinate system; the representation required for a perceptual task can be task-specific.
 
-Measurement includes depth-discrimination thresholds, distance judgments, stereoscopic tasks, motion-parallax tasks, and spatial reconstruction.
-
+Measurement includes stereoacuity, depth discrimination, distance estimation, surface-orientation judgments, motion-parallax tasks, and cue-conflict paradigms. Development, experience, visual acuity, and environmental exposure can produce individual differences in cue use.
 ## 4. Relationship to This Chapter
 
 Depth perception integrates monocular and binocular cues and supports size/shape constancy, figure–ground organization, object recognition, and motion-based scene interpretation.
@@ -2726,16 +2728,17 @@ Motion perception describes how changes in sensory stimulation over time are org
 
 ## 3. Core Understanding
 
-Motion information can arise from changes in image position, optic flow, temporal frequency, contrast, and coordinated movement among elements. Visual systems estimate direction and speed from patterns distributed across space and time.
+Motion perception requires estimating dynamic structure from changes in sensory stimulation over time. The visual system can extract direction, speed, trajectory, and relative movement from distributed patterns rather than tracking a single physical point in isolation.
 
-Apparent motion demonstrates that perception is not a frame-by-frame recording. When discrete stimuli are presented with appropriate timing and spatial separation, observers can experience continuous movement even though no physical object traverses the intervening path.
+Motion information can be local or global. Local motion describes changes at limited regions of the visual field, while global motion integrates many local signals into coherent movement or optic flow. Global patterns can provide information about self-motion and the structure of the surrounding environment.
 
-Motion perception also distinguishes self-motion from object motion using global patterns such as optic flow. Relative motion can contribute to figure–ground organization and common-fate grouping.
+Apparent motion demonstrates that perceived movement is not a direct recording of continuous physical trajectories. Appropriately timed discrete stimuli can produce a compelling moving percept because the visual system integrates spatially separated events over time.
 
-Motion processing is influenced by stimulus context, adaptation, spatial structure, and attention. Neural mechanisms are distributed across multiple stages rather than being localized to one “motion center.”
+Motion is also relational. Relative motion can segregate objects from backgrounds, support common-fate grouping, and provide depth information through motion parallax. Self-motion changes the entire retinal pattern, allowing optic flow to contribute to estimates of heading and environmental layout.
 
-Measurement includes direction discrimination, speed estimation, motion coherence, motion aftereffects, and detection thresholds.
+Motion adaptation can alter subsequent motion experience, producing aftereffects and demonstrating that recent stimulation changes responsiveness. Attention and expectation can influence motion judgments, but these influences should be distinguished from sensory mechanisms that extract motion itself.
 
+Measurement includes motion-detection thresholds, direction and speed discrimination, coherence thresholds, temporal resolution, apparent-motion judgments, and aftereffects. Different tasks probe different components of motion processing rather than one unitary ability.
 ## 4. Relationship to This Chapter
 
 Motion perception supports common-fate grouping, depth through motion parallax, biological-motion perception, object segregation, and dynamic scene interpretation.
@@ -2773,16 +2776,15 @@ Object recognition explains how sensory structure is organized into representati
 
 ## 3. Core Understanding
 
-Recognition requires linking current sensory structure to stored or learned representations. Relevant information can include shape, contours, surface properties, spatial relations, motion, and characteristic features.
+Object recognition requires converting variable sensory patterns into an identification or category judgment that remains sufficiently stable across changes in viewpoint, scale, illumination, occlusion, and surrounding context. The problem is therefore not merely detecting features but determining which features and relations belong to a candidate object.
 
-Recognition must tolerate transformations such as viewpoint, scale, illumination, occlusion, and partial degradation. Different theories emphasize viewpoint-specific representations, structural descriptions, distributed features, or learned statistical representations. Evidence does not require one universal recognition algorithm.
+Recognition depends on perceptual organization because the system must determine object boundaries and relevant structure before or during identification. It can then compare the resulting representation with learned regularities or stored knowledge. Theories differ on whether recognition relies primarily on viewpoint-specific representations, structural descriptions, distributed features, or learned statistical mappings; evidence supports contributions from multiple representational levels.
 
-Object recognition can be rapid and partly automatic, but performance depends on familiarity, task, image quality, context, and competing objects. Context can facilitate recognition by narrowing plausible interpretations, while misleading context can create errors.
+Familiarity can improve recognition, but familiar-object knowledge can also introduce error when contextual expectations conflict with the actual stimulus. Recognition is likewise not identical to naming: an object can be perceptually identified while its verbal label remains inaccessible.
 
-Recognition should also be separated from naming. An observer may recognize an object category without retrieving its verbal label, demonstrating that perceptual identification and language access are related but distinct.
+Occlusion and degraded input test the robustness of recognition. Perceptual completion can provide missing structure, while context can narrow the candidate set. These processes can increase efficiency but can also create false recognition when incomplete evidence is interpreted too strongly.
 
-Measurement includes identification accuracy, reaction time, priming, viewpoint generalization, recognition under noise, and neuropsychological dissociations.
-
+Measurement includes identification accuracy, response time, viewpoint generalization, recognition under noise, priming, and neuropsychological dissociations. A recognition deficit should be interpreted relative to the specific stage tested because detection, segmentation, object representation, semantic access, and naming can dissociate.
 ## 4. Relationship to This Chapter
 
 Object recognition follows perceptual organization because grouping and segmentation provide candidate objects. It connects to shape constancy, pattern recognition, face perception, and perceptual learning.
@@ -2820,16 +2822,15 @@ Pattern recognition describes the detection and identification of structured reg
 
 ## 3. Core Understanding
 
-Patterns can be defined by spatial arrangement, temporal sequence, statistical regularity, feature combinations, or relationships among elements. Recognizing a pattern therefore requires sensitivity to structure rather than merely detecting individual features.
+Pattern recognition involves detecting structure in sensory input that may be defined by spatial arrangement, temporal sequence, feature relations, or statistical regularities. The recognized unit does not have to be a discrete physical object: a rhythm, contour, texture, sequence, or relational configuration can all constitute a pattern.
 
-Perceptual systems can extract regularities automatically, but what counts as a meaningful pattern depends partly on learned experience and task. Expertise can increase sensitivity to domain-specific structure without implying a universal enhancement of all perception.
+Recognition depends on both current evidence and learned structure. Repeated exposure can make diagnostic relations easier to detect, allowing expertise to produce faster or more accurate discrimination of domain-specific patterns. Such expertise is usually selective rather than a general enhancement of perception.
 
-Pattern recognition can operate at multiple levels. Local features can combine into global configurations; repeated temporal relationships can form auditory or visual sequences; statistical regularities can support prediction.
+Pattern processing can operate hierarchically. Local features may combine into global configurations, and repeated events can form higher-order temporal structure. Global organization can sometimes dominate individual components, while in other tasks local details remain decisive. Which level controls perception depends on stimulus structure and task demands.
 
-Recognition errors can occur when superficial similarity is mistaken for deeper structure or when learned regularities are applied outside the environment in which they were acquired.
+A major source of error is overgeneralization of learned regularities. A system optimized for patterns common in one environment can misclassify unfamiliar configurations that share superficial features but differ in deeper structure.
 
-Measurement includes categorization, discrimination, sequence detection, pattern completion, search, and transfer to novel exemplars.
-
+Measurement can use categorization, discrimination, sequence detection, transfer tasks, visual search, and pattern completion. Researchers should distinguish recognition from detection: detecting a repeated structure is not necessarily the same as identifying what it represents.
 ## 4. Relationship to This Chapter
 
 Pattern recognition is the broader structural counterpart to object recognition. It connects with perceptual organization, perceptual learning, and recognition of faces and biological motion.
@@ -3055,16 +3056,15 @@ Vestibular perception describes the perceptual use of information about head mot
 
 ## 3. Core Understanding
 
-The vestibular system contains semicircular canals that respond primarily to angular acceleration and otolith organs that respond to linear acceleration and gravitational orientation. Their signals contribute to estimates of head and body motion.
+Vestibular perception provides information about head movement, acceleration, and orientation relative to gravity. Semicircular canals respond primarily to angular acceleration, while otolith organs provide information related to linear acceleration and gravitational orientation. These signals are transformed into estimates of self-motion rather than experienced as raw receptor outputs.
 
-Vestibular information is integrated with visual and proprioceptive information. When these sources disagree, observers can experience altered self-motion or orientation percepts, demonstrating that spatial perception is multisensory.
+Vestibular information is ambiguous on its own. The same acceleration signal can have different physical causes, so the brain combines vestibular input with visual and proprioceptive information. This is especially evident when visual and vestibular signals disagree during unusual motion or immersive displays.
 
-Vestibular signals also contribute to stabilization of gaze and coordination of movement, but those motor functions should not be collapsed into vestibular perception itself.
+Vestibular perception contributes to spatial orientation, perceived self-motion, and gaze stabilization. These functions interact with motor control, but perceptual representation and motor output remain conceptually distinct. A person can have altered self-motion perception without a proportionate change in every balance behavior.
 
-The perceptual system must distinguish self-generated and externally induced motion and infer stable orientation from signals that can be ambiguous during movement. Adaptation can occur under prolonged unusual sensory conditions, such as sustained visual-vestibular conflict.
+Adaptation can occur when the sensory environment systematically violates normal relationships among modalities. Repeated visual-vestibular conflict can change subsequent judgments, demonstrating plasticity rather than a fixed vestibular map.
 
-Measurement includes thresholds for detecting angular or linear motion, subjective visual vertical, self-motion judgments, vestibular stimulation, and multisensory conflict tasks.
-
+Measurement includes thresholds for detecting angular or linear motion, subjective visual vertical, perceived self-motion, vestibular stimulation, and multisensory conflict. Interpretation requires separating vestibular sensitivity from visual dependence, motor performance, and broader balance function.
 ## 4. Relationship to This Chapter
 
 Vestibular perception expands sensation and perception beyond the conventional five-sense framework and provides an important bridge to multisensory integration and bodily spatial representation.
@@ -3247,16 +3247,15 @@ Temperature perception describes how thermal stimulation is detected and experie
 
 ## 3. Core Understanding
 
-Thermal receptors in the skin respond to ranges of temperature and to changes in thermal state. The resulting signals contribute to judgments of warmth and coldness, while extreme temperatures can also engage nociceptive mechanisms.
+Thermal perception depends on receptors responsive to ranges of skin temperature and changes in thermal state. The resulting signals support experiences of warmth, coolness, and thermal change, while extreme temperatures can additionally recruit nociceptive mechanisms.
 
-Thermal perception depends on baseline skin temperature, rate of change, contact conditions, body region, and recent stimulation. A surface at one physical temperature can therefore feel different depending on what the skin experienced immediately beforehand.
+Perceived temperature is relational rather than thermometer-like. Baseline skin temperature, rate of heating or cooling, duration of contact, body region, and recent thermal exposure all influence the percept. A surface at the same physical temperature can therefore feel different after different preceding stimulation.
 
-Thermal adaptation demonstrates this relational character. After exposure to one temperature, a subsequent stimulus can be experienced differently because the sensory system has recalibrated.
+Thermal adaptation demonstrates this dependence on history. Following sustained exposure, a subsequent temperature can be experienced as warmer or cooler than it would have been without adaptation. Such effects show that the sensory system calibrates its operating range relative to recent conditions.
 
-Perception also depends on the dynamics of contact. Conductive properties of materials can influence the rate at which heat moves between object and skin, producing different sensations even when objects have the same physical temperature.
+Material properties also matter. Two objects at the same measured temperature can feel different because their thermal conductivity changes the rate at which heat moves between the object and skin. Perceived thermal quality therefore depends on the dynamics of interaction, not merely the object's temperature.
 
-Measurement includes thermal detection and discrimination thresholds, ratings of warmth/coldness, and responses to controlled heating or cooling.
-
+Measurement should distinguish detection threshold, discrimination, perceived intensity, rate-of-change sensitivity, and discomfort. Individual differences can reflect skin properties, age, body region, sensory history, and health. Thermal perception should also be distinguished from thermoregulatory control, which is a broader physiological function.
 ## 4. Relationship to This Chapter
 
 Temperature perception is the thermal specialization of somatosensation and interacts with sensory adaptation, pain, and multisensory bodily perception.
@@ -3388,16 +3387,15 @@ Olfaction describes the sensory and perceptual system that detects and organizes
 
 ## 3. Core Understanding
 
-Olfactory receptor neurons respond to overlapping sets of molecular features, producing combinatorial patterns rather than a dedicated receptor for each odor. Central processing transforms these patterns into perceptual representations.
+Olfactory perception begins when volatile molecules reach receptor neurons in the nasal epithelium. Individual receptor types respond to overlapping molecular features, so an odor is represented through a distributed pattern rather than a dedicated receptor for one named smell. Central processing transforms these patterns into percepts of quality, intensity, mixture structure, and likely source.
 
-Odor perception is highly context-dependent. Concentration, mixture composition, adaptation, prior experience, expectations, and concurrent sensory cues can alter perceived quality and intensity.
+Odor perception is unusually dependent on mixtures. Components can mask one another, dominate one another, or combine into a percept that is not experienced as a simple list of components. Concentration can also change qualitative description, so an odor's perceived identity is not necessarily invariant across intensity.
 
-Mixtures present a major computational problem because individual components can become difficult to identify once combined. Some mixtures produce emergent percepts rather than a simple sum of component odors.
+Recent stimulation produces adaptation, changing apparent intensity and sometimes quality. Context and expectation can alter identification and pleasantness, while learned associations can make the same chemical stimulus acquire different significance for different people. These effects do not imply that olfaction is unconstrained: receptor and stimulus chemistry continue to limit possible percepts.
 
-Olfaction is closely connected with learned associations and memory, but these relationships do not mean that an odor has one fixed emotional or autobiographical meaning for everyone. Experience, culture, exposure, and individual differences contribute substantially.
+Olfaction is tightly linked to flavor because retronasal odor information is experienced together with taste and oral somatosensation. Odors can also trigger vivid learned associations, but the strength and content of such associations vary substantially across individuals and cultures.
 
-Measurement includes detection thresholds, discrimination, identification, intensity ratings, similarity judgments, mixture perception, and adaptation.
-
+Measurement should distinguish detection threshold, discrimination, identification, intensity, quality similarity, mixture perception, and hedonic judgment. A person's ability to identify an odor is not the same construct as their ability to detect it at low concentration.
 ## 4. Relationship to This Chapter
 
 Olfaction is a chemical sensory modality that complements gustation and contributes strongly to flavor perception through multisensory integration.
@@ -3435,14 +3433,15 @@ Gustation describes the sensory and perceptual system responsible for detecting 
 
 ## 3. Core Understanding
 
-Taste receptor systems respond to classes of chemical stimuli through partially distinct transduction mechanisms. The resulting signals are combined with information about concentration, texture, temperature, oral somatosensation, and smell.
+Gustation begins with chemical detection in taste receptor cells and transformation of those signals into neural activity. The major taste qualities—sweet, salty, sour, bitter, and umami—arise from partly different receptor and transduction mechanisms, but natural foods usually activate multiple mechanisms simultaneously.
 
-Basic taste qualities are not complete descriptions of all gustatory experience. Individual differences in receptor biology, exposure, health, age, and learning influence sensitivity and preference.
+Taste coding is distributed and combinatorial rather than a simple one-receptor/one-quality system. Concentration, mixture composition, temperature, texture, and oral somatosensation all alter the resulting percept. Individual qualities can therefore be present at different strengths within the same food.
 
-Taste perception is strongly contextual. Expectations and visual or olfactory information can change reported flavor, demonstrating that gustation operates within a multisensory perceptual system.
+A crucial distinction is between sensory sensitivity and liking. A person can detect a bitter compound without disliking it, or show strong preference without having unusually low detection thresholds. Hedonic value also depends on learning, nutritional state, cultural experience, and context, none of which should be treated as properties of taste receptors themselves.
 
-Measurement includes detection and recognition thresholds, intensity ratings, discrimination, taste identification, and psychophysical scaling. Subjective preference should not be treated as equivalent to sensory sensitivity.
+Flavor extends beyond gustation. Retronasal olfaction, texture, temperature, and trigeminal oral sensations contribute substantially to the unified experience produced while eating. Manipulations that block smell can therefore reduce flavor identification even when basic taste sensitivity remains intact.
 
+Taste perception adapts over time and can be recalibrated by repeated exposure. Measurement must specify whether it concerns detection, discrimination, intensity, identification, or preference because these are different dependent variables. Population averages also conceal substantial individual variation in receptor biology, age, health, and experience.
 ## 4. Relationship to This Chapter
 
 Gustation provides the taste component of flavor perception and interacts closely with olfaction and oral somatosensation through multisensory integration.
@@ -3480,16 +3479,15 @@ Multisensory integration describes how information from different sensory modali
 
 ## 3. Core Understanding
 
-Integration is useful because different modalities can provide partially independent information about the same event. Vision can specify spatial structure, audition can provide precise timing, and touch or vestibular signals can provide information about bodily contact and movement.
+Multisensory integration is a special case of cross-modal processing in which information from different senses is combined so that the resulting percept or estimate differs from what would be expected from either modality considered alone. Integration is therefore defined by functional combination, not merely simultaneous stimulation.
 
-Integration depends on whether signals are likely to arise from a common source. Temporal and spatial correspondence, learned associations, reliability, and task demands influence the degree of combination.
+A central problem is causal inference: the system must estimate whether signals probably arose from the same event or from separate sources. Spatial proximity, temporal synchrony, semantic compatibility, and prior experience can influence this judgment. When a common source is likely, combining cues can reduce uncertainty; when separate sources are likely, segregation can prevent inappropriate fusion.
 
-When one modality is more reliable for a particular property, it may contribute more strongly to the combined estimate. This reliability weighting can improve accuracy under appropriate conditions.
+Reliability matters. If one cue is noisy and another precise, the combined estimate can be weighted toward the more reliable cue. Reliability can change dynamically, so the same pair of modalities may be weighted differently under different stimulus conditions.
 
-Integration can occur automatically or under task-dependent control, and it can influence perception without requiring conscious awareness of the individual component signals.
+Integration can occur across many systems: vision and audition during speech, vision and touch during object exploration, vestibular and visual signals during self-motion, and taste and olfaction during flavor perception. Mechanisms and time scales differ by modality.
 
-Measurement includes cross-modal discrimination, localization, temporal-order judgments, cue-combination tasks, and changes in perceptual estimates when one modality is manipulated.
-
+Measurement should compare unimodal estimates with bimodal estimates and test whether the combined response follows predictions of cue combination. A behavioral interaction alone is not sufficient to identify one neural mechanism; attention, expectation, learning, and decision processes can also contribute.
 ## 4. Relationship to This Chapter
 
 Multisensory integration is the broad combination process linking visual, auditory, somatosensory, vestibular, olfactory, and gustatory systems. It provides the general framework for the more specific cross-modal and conflict phenomena that follow.
@@ -3574,16 +3572,15 @@ Multisensory conflict describes situations in which sensory modalities provide i
 
 ## 3. Core Understanding
 
-Conflicting signals create a test of how perceptual systems determine which interpretation to adopt. The system may favor the more reliable modality, infer separate sources, compromise between cues, or switch between interpretations.
+Multisensory conflict occurs when concurrently available sensory signals specify different values, locations, timings, identities, or source interpretations. Conflict is informative because the system must determine whether signals probably belong to one event, arise from separate sources, or should be weighted differently.
 
-Classic audiovisual and body-ownership phenomena illustrate that temporal and spatial correspondence can determine whether conflict is resolved through integration or source separation.
+The response to conflict depends partly on cue reliability. A highly reliable cue can dominate a less reliable cue, while similarly reliable cues may produce a compromise percept or alternating interpretations. Temporal and spatial correspondence also matter because signals that occur together and occupy compatible locations are more likely to be treated as originating from a common cause.
 
-Conflict can be adaptive when one signal is noisy and another is reliable, because weighting can improve the estimate. It becomes problematic when the environment violates the regularities on which normal multisensory integration depends.
+Conflict can therefore produce several outcomes: integration, selective weighting, source segregation, perceptual ambiguity, or recalibration. Repeated exposure to a stable discrepancy can shift subsequent judgments, showing that multisensory systems can adapt their estimates rather than maintaining fixed weighting.
 
-Repeated exposure can produce recalibration: after sustained mismatch, perception in one modality may shift toward the other. Recalibration should be distinguished from a transient perceptual compromise.
+Conflict should not automatically be interpreted as perceptual failure. Natural environments contain uncertainty, and resolving disagreement between cues is an ordinary computational problem. A system that discounts a noisy cue may be functioning appropriately even when the observer reports a percept that differs from one physical signal.
 
-Measurement manipulates discrepancies in location, timing, identity, or magnitude and measures the resulting perceptual estimate, source judgment, or aftereffect.
-
+Measurement should specify the manipulated dimension—space, time, intensity, identity, or body location—and compare unimodal and conflict conditions. The resulting percept can reveal cue weighting, but the same behavioral outcome can sometimes arise from attention or decision processes, so mechanism requires converging evidence.
 ## 4. Relationship to This Chapter
 
 Multisensory conflict is the stress-test case for multisensory integration and cross-modal perception. It helps reveal the conditions under which signals are combined versus segregated.
