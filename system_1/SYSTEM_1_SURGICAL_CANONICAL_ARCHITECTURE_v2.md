@@ -1951,7 +1951,7 @@ The difference is deliberate:
 | Gate | Result |
 |---|---|
 | Coverage audit | PASS |
-| Every canonical leaf has an ontology type | PASS |
+| Every canonical leaf has an ontology type | **TYPING SUBGATE OPEN** — controlled vocabulary formalized; per-entry assignment not yet claimed |
 | One canonical owner per construct | PASS |
 | Relationship nodes removed from concept count | PASS |
 | Theories/models separated from constructs | PASS |
@@ -1976,9 +1976,11 @@ APA's current research-methods material also supports explicit treatment of caus
 
 ### Lock decision
 
-**SYSTEM 1 — HUMAN PSYCHOLOGY — SURGICAL CANONICAL ARCHITECTURE v2.1 IS LOCKED.**
+**SYSTEM 1 — HUMAN PSYCHOLOGY — SURGICAL CANONICAL ARCHITECTURE v2.1 remains the active locked architecture.**
 
-No prose chapter generation is authorized by this architecture document until the writing constitution is applied to the locked owner map.
+**Precision status:** counting/ownership accounting PASS; controlled ontology vocabulary PASS; **per-entry ontology typing subgate OPEN**.
+
+No new prose chapter generation is authorized until the typing subgate is closed and the final architectural gate is revalidated.
 
 ---
 
