@@ -1,7 +1,7 @@
 # CHAPTER 1.10 — JUDGMENT, DECISION-MAKING, AND CHOICE
 
 **Canonical Knowledge Version:** 2.0  
-**Status:** FULL CANONICAL BUILD — PENDING AUDIT AND SEAL  
+**Status:** LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 2.0  
 **Architecture:** 65 locked entries  
 **System:** System 1 — Universal Human Psychology
 
