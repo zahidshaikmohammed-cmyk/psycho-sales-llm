@@ -2,8 +2,8 @@
 
 **Branch:** `psycho-sales-canonical-depth-v2`  
 **Stage:** Encyclopedia-wide execution of the original **10-phase quality pipeline**  
-**Written through:** **Chapter 1.9**  
-**Next:** **Chapter 1.10 — Judgment, Decision-Making, and Choice**  
+**Written through:** **Chapter 1.10**  
+**Next:** **Chapter 1.11 — Language and Intelligence**  
 **Architecture:** **21 locked chapters / 1,364 chapter entries / 1,267 canonical construct-clinical owners**
 
 > **Simple on the surface. Deep underneath. Precise throughout.**
@@ -118,12 +118,13 @@ Remaining Chapters 1.10–1.21 are **not a new phase**. They are continued execu
 | 1.7 | 66 | V2 CERTIFIED / LOCKED & SEALED |
 | 1.8 | 76 | V2 CERTIFIED / LOCKED & SEALED |
 | 1.9 | 67 | V2 CERTIFIED / LOCKED & SEALED* |
-| 1.10–1.21 | — | NOT YET WRITTEN |
+| 1.10 | 65 | V2 CERTIFIED / LOCKED & SEALED |
+| 1.11–1.21 | — | NOT YET WRITTEN |
 
 Current written corpus:
-- **608 chapter entries**
-- **158,574 words**
-- Written coverage: **1.1–1.9**
+- **673 chapter entries**
+- **174,999 words**
+- Written coverage: **1.1–1.10**
 
 ## Chapter 1.9 reconciliation item
 
@@ -138,12 +139,12 @@ This is an ontology-classification reconciliation item. It does not authorize re
 
 `graph/SYSTEM_1_KNOWLEDGE_GRAPH_V1.json`
 
-Current state after Chapter 1.9:
+Current state after Chapter 1.10:
 
-- Topic-like chapter nodes: **608**
-- Chapter nodes: **9**
-- Total nodes: **617**
-- Typed edges: **1,361**
+- Topic-like chapter nodes: **673**
+- Chapter nodes: **10**
+- Total nodes: **683**
+- Typed edges: **1,484**
 - Dangling references: **0**
 - Duplicate relationship records: **0**
 
@@ -167,13 +168,13 @@ The graph is derived infrastructure. Do not describe all 1,361 edges as deep sem
 
 ## Exact next task
 
-### Chapter 1.10 — Judgment, Decision-Making, and Choice
+### Chapter 1.11 — Language and Intelligence
 
-**Architecture entries: 65**
+**Architecture entries: 60**
 
 Execution order:
 
-1. Read the live 1.10 architecture.
+1. Read the live 1.11 architecture.
 2. Cross-check every entry against the precision registry.
 3. Classify canonical owners, theory/model entries, and relationship/application nodes.
 4. Preserve exact Topic names.
@@ -206,7 +207,7 @@ A takeover agent should:
 11. Validate before sealing.
 12. Keep graph, metadata, validation, and prose synchronized.
 13. Never modify `main` unless explicitly authorized.
-14. Continue with **Chapter 1.10** under the existing ten phases.
+14. Continue with **Chapter 1.11** under the existing ten phases.
 
 ## Final destination
 
