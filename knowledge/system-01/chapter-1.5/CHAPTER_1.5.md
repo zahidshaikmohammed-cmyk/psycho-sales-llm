@@ -1,10 +1,10 @@
 # CHAPTER 1.5 — CONSCIOUSNESS, SLEEP, AND ALTERED STATES
 
 **System:** 1 — HUMAN PSYCHOLOGY  
-**Status:** V2 DEEP REBUILD — AUDITED / RE-AUDITED; FINAL SEAL PENDING  
+**Status:** V2 DEEP REBUILT — LOCKED & SEALED 🔒  
 **Ontology:** Locked 44-topic Chapter 1.5 index  
 **Writing standard:** PSYCHO SALES Permanent Knowledge Object Writing Constitution v2.0  
-**Ownership gate:** Preserved and re-audited during deep rebuild  
+**Ownership gate:** Preserved, audited, re-audited, and sealed  
 **Canonical rule:** One authoritative owner per construct; cross-chapter relationships are links, not duplicate owners. Six-section Knowledge Object schema preserved.
 
 ## Canonical Topic Index
