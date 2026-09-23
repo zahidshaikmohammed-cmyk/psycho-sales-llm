@@ -133,7 +133,7 @@ The global precision registry identifies two 1.9 entries that must not become in
 - **Bounded rationality** → canonical owner **1.10**; 1.9 occurrence is a duplicate/non-owner appearance.
 - **Expertise and thinking** → **relationship/application node**, not an independent construct owner.
 
-This is an ontology-classification reconciliation item. It does not authorize renaming or inventing Topics and must be resolved before final encyclopedia certification.
+This ontology-classification reconciliation has been applied to the graph: 1.9 Bounded rationality is non-owner and points to 1.10; 1.9 Expertise and thinking is represented as an application/relationship node. The chapter ontology names remain unchanged.
 
 ## Knowledge graph
 
