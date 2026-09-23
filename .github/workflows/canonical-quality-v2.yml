@@ -1,0 +1,58 @@
+name: Canonical Quality v2
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+      - psycho-sales-canonical-depth-v2
+
+permissions:
+  contents: read
+
+jobs:
+  canonical-quality:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Detect canonical chapter changes
+        shell: bash
+        run: |
+          BASE="${{ github.event.pull_request.base.sha || github.event.before }}"
+          HEAD="${{ github.sha }}"
+          if [ -z "$BASE" ] || [ "$BASE" = "0000000000000000000000000000000000000000" ]; then
+            git diff --name-only HEAD^ HEAD > /tmp/changed.txt
+          else
+            git diff --name-only "$BASE" "$HEAD" > /tmp/changed.txt
+          fi
+          grep -E '^knowledge/system-01/chapter-[0-9]+\.[0-9]+/CHAPTER_[0-9]+\.[0-9]+(_FINAL_VALIDATION)?\.md$' /tmp/changed.txt || true
+
+      - name: Validate changed canonical chapters
+        shell: bash
+        run: |
+          set -e
+          mapfile -t chapters < <(grep -E '^knowledge/system-01/chapter-[0-9]+\.[0-9]+/CHAPTER_[0-9]+\.[0-9]+\.md$' /tmp/changed.txt || true)
+          mapfile -t validations < <(grep -E '^knowledge/system-01/chapter-[0-9]+\.[0-9]+/CHAPTER_[0-9]+\.[0-9]+_FINAL_VALIDATION\.md$' /tmp/changed.txt || true)
+          if [ "${#chapters[@]}" -eq 0 ] && [ "${#validations[@]}" -eq 0 ]; then
+            echo "No canonical chapter or validation record changed; governance-only change passes."
+            exit 0
+          fi
+
+          for path in "${chapters[@]}"; do
+            echo "Validating $path"
+            python3 quality/validate_canonical_chapter.py --chapter "$path" --architecture "system_1/SYSTEM_1_SURGICAL_CANONICAL_ARCHITECTURE_v2.md"
+          done
+
+          for path in "${validations[@]}"; do
+            chapter="${path%_FINAL_VALIDATION.md}.md"
+            if [ ! -f "$chapter" ]; then
+              echo "Missing canonical chapter for validation record: $chapter"
+              exit 1
+            fi
+            echo "Validation record changed; enforcing v2 seal contract for $chapter"
+            python3 quality/validate_canonical_chapter.py --chapter "$chapter" --architecture "system_1/SYSTEM_1_SURGICAL_CANONICAL_ARCHITECTURE_v2.md"
+          done
