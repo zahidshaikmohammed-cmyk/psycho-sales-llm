@@ -34,16 +34,16 @@ Judgment supplies evaluative inputs to decision-making and choice. It draws on r
 ## 5. Boundaries
 Do not equate judgment with choice, action, opinion, or moral judgment. A judgment may be revised without any action following it.
 
-## 6. Key Principles
-• Judgments depend on evidence, representation, goals, and context.
-• Accuracy, confidence, and usefulness are separable.
-• Judgment is upstream of many choices but is not identical to choice.
-
 ### Owns
 Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
+## 6. Key Principles
+• Judgments depend on evidence, representation, goals, and context.
+• Accuracy, confidence, and usefulness are separable.
+• Judgment is upstream of many choices but is not identical to choice.
 
 ## 1.10.2 Decision-making
 
@@ -64,16 +64,16 @@ Decision-making integrates judgment, preferences, reasoning, memory, emotion, mo
 ## 5. Boundaries
 Do not define every behavior as a decision; habitual or reflexive behavior may occur without meaningful option evaluation. Do not judge a decision solely from its outcome.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Decisions connect alternatives, consequences, preferences, and action.
 • Process quality and outcome quality can diverge.
 • Constraints can make satisficing rational without implying irrationality.
-
-### Owns
-Decision-making is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.3 Choice
 
@@ -94,16 +94,16 @@ Choice receives inputs from preference, judgment, and decision processes and can
 ## 5. Boundaries
 Choice is not synonymous with free will, preference, or decision-making. An observed choice does not uniquely identify its psychological cause.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Choice is an outcome of selection, not a complete explanation of selection.
 • Choice sets and defaults can affect observed choices.
 • Behavioral choice alone may underdetermine underlying preference.
-
-### Owns
-Choice is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.4 Preference
 
@@ -124,16 +124,16 @@ Preferences connect values, goals, affect, motivation, and choice. Preference co
 ## 5. Boundaries
 Do not assume preferences are fixed traits, perfectly introspectable, or identical to observed choices. Preference is broader than economic utility.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Preferences are comparative and context-sensitive.
 • Reported, revealed, and modelled preferences can diverge.
 • Stable values can coexist with locally constructed preferences.
-
-### Owns
-Preference is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.5 Preference construction
 
@@ -154,16 +154,16 @@ Preference construction links choice architecture, framing, reference dependence
 ## 5. Boundaries
 Do not treat constructed preference as evidence that all preferences are unstable or fictitious. Construction concerns formation or elicitation, not mere preference change after new information.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Preferences can be assembled during comparison.
 • Elicitation procedures can affect what is observed.
 • Construction remains constrained by history, goals, values, and context.
-
-### Owns
-Preference construction is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.6 Preference reversal
 
@@ -184,16 +184,16 @@ Preference reversal follows naturally from preference construction and interacts
 ## 5. Boundaries
 Do not call every changed preference a reversal. New evidence, changed goals, or changed consequences may produce justified preference revision.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Reversal is defined relative to a comparison or elicitation change.
 • Different response tasks can activate different valuation processes.
 • Methodological control is essential before inferring inconsistency.
-
-### Owns
-Preference reversal is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.7 Decision under certainty
 
@@ -214,16 +214,16 @@ Certainty provides the baseline against which risk, uncertainty, and ambiguity a
 ## 5. Boundaries
 Do not equate certainty with complete knowledge, high confidence, or absence of cognitive bias. A person can feel certain while the environment remains uncertain.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Certainty concerns the structure of outcomes, not subjective confidence.
 • Deterministic consequences can still be psychologically complex.
 • Certainty is a useful limiting case for broader decision models.
-
-### Owns
-Decision under certainty is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.8 Decision under risk
 
@@ -244,16 +244,16 @@ Risk is the bridge between probability judgment and decision theory. Probability
 ## 5. Boundaries
 Do not equate risk with danger or loss. Risk can involve gains, losses, or neutral outcomes whenever probabilistic uncertainty matters.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Risk requires usable probability structure.
 • Objective probabilities and subjective probability beliefs can differ.
 • Risk perception is psychologically distinct from formal risk.
-
-### Owns
-Decision under risk is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.9 Decision under uncertainty
 
@@ -274,16 +274,16 @@ Uncertainty connects to subjective probability, bounded rationality, ambiguity a
 ## 5. Boundaries
 Do not use uncertainty as a synonym for low probability, risk, ignorance, or anxiety. Uncertainty concerns knowledge about possible outcomes and their probabilities.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Unknown probabilities distinguish uncertainty from standard risk.
 • Information acquisition can transform uncertainty into risk or certainty.
 • Psychological responses to uncertainty vary with stakes and context.
-
-### Owns
-Decision under uncertainty is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.10 Decision under ambiguity
 
@@ -304,16 +304,16 @@ Ambiguity underlies ambiguity aversion and interacts with risk perception, subje
 ## 5. Boundaries
 Do not define ambiguity as any confusing situation. The defining issue is incomplete or contested probability information.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Ambiguity concerns uncertainty about probabilities.
 • Risk and ambiguity can share outcomes while differing in likelihood information.
 • Responses to ambiguity depend on goals, experience, and information value.
-
-### Owns
-Decision under ambiguity is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.11 Expected value
 
@@ -334,16 +334,16 @@ Expected value is foundational for understanding expected utility and probabilit
 ## 5. Boundaries
 Do not equate expected value with expected utility or with the most likely outcome. Expected value is a calculation, not a psychological bias.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Expected value combines outcomes with probabilities.
 • It is distinct from subjective utility.
 • Its usefulness depends on meaningful outcome and probability representations.
-
-### Owns
-Expected value is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.12 Expected utility
 
@@ -364,16 +364,16 @@ Expected utility connects preference, subjective probability, risk, and rational
 ## 5. Boundaries
 Do not treat expected utility as a descriptive claim that humans literally calculate it. Do not equate utility with emotion or monetary amount.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Utility represents preference over consequences.
 • Expected utility combines utility and probability.
 • A normative model can be useful without being a literal cognitive algorithm.
-
-### Owns
-Expected utility is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.13 Subjective probability
 
@@ -394,16 +394,16 @@ Subjective probability links judgment to risk, uncertainty, calibration, Bayesia
 ## 5. Boundaries
 Do not equate subjective probability with confidence, certainty, frequency, or objective probability. Confidence can concern one's answer while probability concerns the event.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Subjective probability represents belief, not guaranteed truth.
 • It can be updated with evidence.
 • Calibration assesses correspondence between probabilities and outcomes over repeated cases.
-
-### Owns
-Subjective probability is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.14 Satisficing
 
@@ -424,16 +424,16 @@ Satisficing is central to bounded rationality and naturalistic decision-making. 
 ## 5. Boundaries
 Do not equate satisficing with laziness, irrationality, or settling without criteria. It requires an adequacy threshold and a stopping rule.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Search has costs as well as benefits.
 • Good-enough criteria can be adaptive under constraints.
 • Satisficing quality depends on the threshold and environment.
-
-### Owns
-Satisficing is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.15 Bounded rationality
 
@@ -454,16 +454,16 @@ This chapter owns bounded rationality. It links satisficing, heuristics, natural
 ## 5. Boundaries
 Do not treat bounded rationality as a synonym for cognitive bias, irrationality, or low intelligence. It is a framework for resource-constrained decision behavior.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Rational action is constrained by real resources.
 • Heuristic efficiency depends on environmental structure.
 • Normative and ecological standards can differ.
-
-### Owns
-Bounded rationality is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.16 Availability heuristic
 
@@ -484,16 +484,16 @@ Availability links judgment to memory accessibility in 1.8 and affective or perc
 ## 5. Boundaries
 Do not define availability as memory retrieval itself. Accessibility is the cue; the judgment concerns a different property such as frequency or probability.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Accessibility can serve as an inferential shortcut.
 • Retrieval ease can be informative or misleading.
 • Salience and exposure can decouple accessibility from frequency.
-
-### Owns
-Availability heuristic is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.17 Representativeness heuristic
 
@@ -514,16 +514,16 @@ Representativeness interfaces with categorization, prototypes, and reasoning in 
 ## 5. Boundaries
 Do not equate representativeness with stereotyping in every case. Similarity-based inference is broader and can operate outside social categories.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Similarity can be an efficient but incomplete cue.
 • Base rates remain relevant when they bear on the probability judgment.
 • Prototype activation shapes what counts as representative.
-
-### Owns
-Representativeness heuristic is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.18 Anchoring
 
@@ -544,16 +544,16 @@ Anchoring interacts with adjustment, reference dependence, framing, and numerica
 ## 5. Boundaries
 Do not treat every reference point as an anchoring error. Relevant baseline information can appropriately influence estimates.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Initial values can shift subsequent estimates.
 • Mechanisms vary across tasks and contexts.
 • Relevant reference information is not automatically bias.
-
-### Owns
-Anchoring is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.19 Adjustment
 
@@ -574,16 +574,16 @@ Adjustment is paired with anchoring but is not identical to it. It also draws on
 ## 5. Boundaries
 Do not define adjustment as inherently insufficient or erroneous. The construct refers to movement from an initial estimate; adequacy is an empirical question.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Anchoring concerns influence of a starting point.
 • Adjustment concerns movement away from that point.
 • Adequate adjustment can correct an informative or arbitrary starting value.
-
-### Owns
-Adjustment is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.20 Recognition heuristic
 
@@ -604,16 +604,16 @@ Recognition draws on memory and knowledge representation in 1.8 and 1.9 and exem
 ## 5. Boundaries
 Do not equate recognition with familiarity strength or expertise. The heuristic specifically concerns recognition status as a decision cue.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Simple cues can outperform complex strategies in suitable environments.
 • Cue validity determines adaptive value.
 • Recognition is information about exposure, not automatically about merit.
-
-### Owns
-Recognition heuristic is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.21 Affect heuristic
 
@@ -634,16 +634,16 @@ Affect-based judgment connects decision-making with emotion in Chapter 1.13, mem
 ## 5. Boundaries
 Do not equate affect heuristic with all emotional influence on decisions. It refers specifically to affective valence functioning as a judgmental cue.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Affect can serve as a rapid summary cue.
 • One global feeling can influence several attributed dimensions.
 • Emotional information can be useful yet criterion-incongruent.
-
-### Owns
-Affect heuristic is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.22 Attribute substitution
 
@@ -664,16 +664,16 @@ Attribute substitution provides a mechanistic bridge among several heuristics in
 ## 5. Boundaries
 Do not treat every shortcut as attribute substitution. The defining feature is replacement of a difficult target attribute with an easier proxy.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Difficult judgments can recruit easier proxy questions.
 • Proxy validity determines whether substitution helps.
 • The substituted attribute may not be consciously represented as a substitute.
-
-### Owns
-Attribute substitution is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.23 Framing effect
 
@@ -694,16 +694,16 @@ Framing interacts with reference dependence, loss aversion, choice architecture,
 ## 5. Boundaries
 Do not call any persuasive wording a framing effect. The construct requires a meaningful comparison of equivalent or substantively matched alternatives.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Representation can alter evaluation without altering core consequences.
 • Frame effects depend on context and task structure.
 • Apparent framing can disappear when alternatives are not actually equivalent.
-
-### Owns
-Framing effect is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.24 Reference dependence
 
@@ -724,16 +724,16 @@ Reference dependence is central to prospect theory and helps explain loss aversi
 ## 5. Boundaries
 Do not equate reference points with arbitrary anchors. Reference dependence concerns the evaluative baseline against which outcomes are coded.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Absolute outcomes can acquire different values relative to different baselines.
 • Reference points are psychologically constructed and context-sensitive.
 • Gains and losses are relational categories.
-
-### Owns
-Reference dependence is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.25 Loss aversion
 
@@ -754,16 +754,16 @@ Loss aversion depends on reference dependence and is distinct from risk aversion
 ## 5. Boundaries
 Do not assume every loss is more important than every gain, or that loss aversion is identical to risk aversion.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Losses are evaluated relative to reference points.
 • Asymmetry is context-sensitive.
 • Loss aversion and risk aversion are conceptually distinct.
-
-### Owns
-Loss aversion is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.26 Endowment effect
 
@@ -784,16 +784,16 @@ The endowment effect is related to reference dependence and loss aversion and ca
 ## 5. Boundaries
 Do not equate ownership with attachment, nor assume every owner values an object more. Experimental method and item type matter.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Possession can change valuation.
 • Giving up and acquiring can be psychologically asymmetric.
 • Alternative mechanisms must be considered in interpreting ownership effects.
-
-### Owns
-Endowment effect is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.27 Status quo bias
 
@@ -814,16 +814,16 @@ Status quo bias overlaps with default effects but is broader: a status quo can p
 ## 5. Boundaries
 Do not infer status quo bias whenever someone chooses the current option. Continuing may be objectively preferable or less costly.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • The current state can exert special psychological weight.
 • Multiple mechanisms can produce status quo persistence.
 • Persistence is not itself proof of bias.
-
-### Owns
-Status quo bias is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.28 Default effect
 
@@ -844,16 +844,16 @@ Default effects are a specific form of choice architecture and can contribute to
 ## 5. Boundaries
 Do not equate defaults with coercion. A default changes the structure of choice but does not necessarily eliminate alternatives.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Preselection can alter behavior without removing options.
 • Effort, interpretation, and social meaning can mediate default effects.
 • Effects depend on transparency and the quality of the default.
-
-### Owns
-Default effect is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.29 Present bias
 
@@ -874,16 +874,16 @@ Present bias is closely related to temporal and hyperbolic discounting but is no
 ## 5. Boundaries
 Do not equate present bias with impatience in every sense. The distinctive issue is disproportionate weighting of the present that can generate preference reversals.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Present bias can produce time-inconsistent preferences.
 • Immediate outcomes can receive extra relative weight.
 • Context and self-control resources influence its expression.
-
-### Owns
-Present bias is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.30 Temporal discounting
 
@@ -904,16 +904,16 @@ Temporal discounting provides the broader framework within which present bias an
 ## 5. Boundaries
 Do not equate discounting with present bias. A person can discount future value without exhibiting the distinctive time inconsistency associated with present bias.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Delay and subjective value are systematically related.
 • The discount function is empirically variable.
 • Discounting has multiple possible psychological determinants.
-
-### Owns
-Temporal discounting is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.31 Hyperbolic discounting
 
@@ -934,16 +934,16 @@ It formalizes one account of temporal discounting and helps explain present bias
 ## 5. Boundaries
 Do not claim that all human delay discounting is exactly hyperbolic or that the model alone identifies mechanism.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Functional form matters for predicted preference reversals.
 • Hyperbolic discounting is a model, not a universal law.
 • Model fit and psychological interpretation must be separated.
-
-### Owns
-Hyperbolic discounting is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.32 Probability weighting
 
@@ -964,16 +964,16 @@ Probability weighting links subjective probability to prospect theory, risk perc
 ## 5. Boundaries
 Do not treat every probability error as probability weighting. Estimation errors and decision weights are conceptually separable.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Decision weight need not equal stated probability.
 • Weighting can be nonlinear and context-sensitive.
 • Probability weighting belongs to valuation as well as probabilistic judgment.
-
-### Owns
-Probability weighting is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.33 Base-rate neglect
 
@@ -994,16 +994,16 @@ Base-rate neglect is strongly connected to representativeness and Bayesian reaso
 ## 5. Boundaries
 Do not call any disagreement with a base rate neglect. The base rate must be relevant and properly specified for the inference.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Background prevalence can be diagnostically important.
 • Case information and base rates should be distinguished.
 • Task framing and knowledge affect base-rate use.
-
-### Owns
-Base-rate neglect is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.34 Conjunction fallacy
 
@@ -1024,16 +1024,16 @@ Conjunction errors connect to representativeness, probability judgment, and ment
 ## 5. Boundaries
 Do not infer the fallacy from a verbal ranking unless the probability comparison is genuinely the same event structure.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Conjunction probability is bounded by component probability.
 • Narrative coherence can compete with formal probability.
 • Measurement of the judgment task matters.
-
-### Owns
-Conjunction fallacy is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.35 Gambler's fallacy
 
@@ -1054,16 +1054,16 @@ This phenomenon connects to probabilistic reasoning in 1.9 and to hot-hand belie
 ## 5. Boundaries
 Do not label all sequence-based predictions gambler's fallacy. Dependence in the generating process can make history genuinely informative.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Independence means prior outcomes do not alter the next-event probability.
 • Long-run frequency does not imply short-run balancing.
 • Sequence reasoning must begin with the process-generating structure.
-
-### Owns
-Gambler's fallacy is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.36 Hot-hand belief
 
@@ -1084,16 +1084,16 @@ Hot-hand belief contrasts with the gambler's fallacy and connects to causal reas
 ## 5. Boundaries
 Do not assume every observed streak proves a hot hand, nor that every belief in streaks is erroneous.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Predictive value of streaks depends on process dependence.
 • Selection and opportunity can create apparent streaks.
 • Statistical evaluation must distinguish belief from actual serial structure.
-
-### Owns
-Hot-hand belief is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.37 Overconfidence
 
@@ -1114,16 +1114,16 @@ Overconfidence connects to calibration, metacognitive monitoring in 1.9, and jud
 ## 5. Boundaries
 Do not infer overconfidence merely from confident language or from a wrong answer. Confidence must be evaluated against a suitable accuracy or calibration criterion.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Confidence and accuracy are separable.
 • Overconfidence has multiple operational forms.
 • Calibration requires repeated predictions or an appropriate benchmark.
-
-### Owns
-Overconfidence is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.38 Calibration
 
@@ -1144,16 +1144,16 @@ Calibration provides a key empirical counterpart to subjective probability and o
 ## 5. Boundaries
 Do not equate calibration with accuracy, intelligence, or confidence. Calibration concerns correspondence between stated probabilities and observed frequencies.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Calibration is assessed across repeated predictions.
 • Accuracy and calibration are distinct dimensions.
 • Reference class and sample size matter.
-
-### Owns
-Calibration is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.39 Confirmation bias
 
@@ -1174,16 +1174,16 @@ Confirmation bias connects to belief perseverance, belief revision, memory, and 
 ## 5. Boundaries
 Do not call ordinary belief-consistent reasoning confirmation bias. The defining issue is systematic asymmetry that impairs appropriate evidence evaluation.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Prior beliefs shape information processing.
 • Supporting evidence is not inherently biased evidence.
 • Diagnosticity and symmetry of evidence evaluation matter.
-
-### Owns
-Confirmation bias is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.40 Belief perseverance
 
@@ -1204,16 +1204,16 @@ Belief perseverance connects to belief revision and knowledge structures in 1.9 
 ## 5. Boundaries
 Do not label a stable belief as perseverance without showing that its supporting evidence was meaningfully undermined or withdrawn.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Belief persistence can outlast its initiating evidence.
 • Persistence and confirmation are related but distinct.
 • Evidence revision is constrained by existing representations.
-
-### Owns
-Belief perseverance is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.41 Self-serving bias
 
@@ -1234,16 +1234,16 @@ It connects social attribution in 1.16 with self, identity, emotion, and belief 
 ## 5. Boundaries
 Do not equate self-serving bias with lying, narcissism, or deliberate excuse-making. The process can occur without conscious intent.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Attribution can protect or enhance self-evaluation.
 • Cultural and situational factors moderate self-serving patterns.
 • Accurate self-attribution must be separated from biased asymmetry.
-
-### Owns
-Self-serving bias is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.42 Hindsight bias
 
@@ -1264,16 +1264,16 @@ Hindsight bias is crucial for evaluating decision quality without outcome contam
 ## 5. Boundaries
 Do not infer hindsight bias simply because an outcome now seems explainable. The relevant comparison is between post-outcome and reconstructed pre-outcome predictability.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Outcome knowledge changes retrospective interpretation.
 • Decision quality should be assessed using information available at the time.
 • Memory and causal coherence can contribute to hindsight effects.
-
-### Owns
-Hindsight bias is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.43 Outcome bias
 
@@ -1294,16 +1294,16 @@ Outcome bias complements hindsight bias but differs in target: hindsight concern
 ## 5. Boundaries
 Do not ignore outcomes entirely. Consequences can legitimately matter when the criterion is consequential performance; outcome bias concerns inappropriate substitution of result for process.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Outcome and decision quality are not identical.
 • Ex ante information matters for process evaluation.
 • Chance can separate decision quality from result.
-
-### Owns
-Outcome bias is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.44 Omission bias
 
@@ -1324,16 +1324,16 @@ Omission bias connects decision-making with moral judgment, responsibility attri
 ## 5. Boundaries
 Do not equate omission bias with every preference for non-action. Responsibility and outcome asymmetries may make omission objectively different.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Action and omission can receive different causal and moral weights.
 • Perceived responsibility influences the asymmetry.
 • Context determines whether omission is genuinely comparable to action.
-
-### Owns
-Omission bias is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.45 Planning fallacy
 
@@ -1354,16 +1354,16 @@ Planning fallacy links decision-making to prospective thinking and planning in 1
 ## 5. Boundaries
 Do not equate planning fallacy with any failed plan. Failure caused by unforeseeable events is not necessarily a systematic forecasting bias.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Inside-view detail can crowd out reference-class information.
 • Forecasts should distinguish intended execution from predicted duration.
 • Historical base rates can improve planning estimates.
-
-### Owns
-Planning fallacy is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.46 Optimism bias
 
@@ -1384,16 +1384,16 @@ Optimism bias connects to planning fallacy, risk perception, subjective probabil
 ## 5. Boundaries
 Do not equate optimism bias with positive mood, hope, confidence, or personality optimism. Bias requires an appropriate evidential comparison.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Optimistic expectations can affect both motivation and risk assessment.
 • Bias is defined relative to evidence or a suitable benchmark.
 • Optimism can be beneficial in some functions and costly in others.
-
-### Owns
-Optimism bias is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.47 Escalation of commitment
 
@@ -1414,16 +1414,16 @@ Escalation interacts with sunk-cost effects, self-serving processes, regret, and
 ## 5. Boundaries
 Do not label persistence irrational merely because a project has previously failed. New evidence can rationally justify continuation.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Past commitment can distort forward-looking decisions.
 • Continuation can still be rational when prospects improve.
 • Diagnostic evidence about future outcomes should dominate irrecoverable past costs.
-
-### Owns
-Escalation of commitment is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.48 Sunk-cost effect
 
@@ -1444,16 +1444,16 @@ Sunk-cost effects are one contributor to escalation of commitment and interact w
 ## 5. Boundaries
 Do not treat all continuation after spending as sunk-cost reasoning. Relevant new information can justify continuation.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Irrecoverable costs are not future costs.
 • Prior investment can still provide information about future prospects.
 • Emotional and identity mechanisms can make sunk costs psychologically salient.
-
-### Owns
-Sunk-cost effect is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.49 Choice overload
 
@@ -1474,16 +1474,16 @@ Choice overload connects to bounded rationality, attention, preference construct
 ## 5. Boundaries
 Do not claim that more choice always decreases satisfaction. Effects are conditional on task and option structure.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Choice-set size interacts with complexity and decision strategy.
 • More options can help or hinder depending on context.
 • Useful structure can reduce comparison costs without eliminating autonomy.
-
-### Owns
-Choice overload is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.50 Decision fatigue
 
@@ -1504,16 +1504,16 @@ Decision fatigue interfaces with cognitive control in 1.9 and self-regulation in
 ## 5. Boundaries
 Do not equate decision fatigue with general tiredness or claim a fixed resource depletion mechanism without evidence.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Sustained decision demands can alter later performance.
 • Multiple mechanisms can produce apparent fatigue effects.
 • Experimental context and alternative explanations matter.
-
-### Owns
-Decision fatigue is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.51 Regret
 
@@ -1534,16 +1534,16 @@ Regret connects emotion in 1.13 with counterfactual thinking in 1.9 and anticipa
 ## 5. Boundaries
 Do not equate regret with any negative emotion after failure. The counterfactual comparison and decision linkage are central.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Regret is counterfactual and decision-linked.
 • Perceived controllability affects regret.
 • Regret can function as both emotional cost and information for future choice.
-
-### Owns
-Regret is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.52 Anticipated regret
 
@@ -1564,16 +1564,16 @@ Anticipated regret links prospective thinking in 1.9 with regret, risk perceptio
 ## 5. Boundaries
 Do not infer anticipated regret merely from cautious choice. The mechanism requires an expectation of future counterfactual regret.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Future emotional consequences can enter present choice.
 • Counterfactual imagination shapes anticipated regret.
 • Anticipation can alter both information search and commitment.
-
-### Owns
-Anticipated regret is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.53 Ambiguity aversion
 
@@ -1594,16 +1594,16 @@ Ambiguity aversion is the behavioral counterpart of decision under ambiguity and
 ## 5. Boundaries
 Do not equate ambiguity aversion with general risk aversion. A person can dislike ambiguous probabilities while tolerating known-risk gambles.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Ambiguity concerns probability uncertainty.
 • Preferences depend on information quality and comparability.
 • Ambiguity attitudes can vary across domains.
-
-### Owns
-Ambiguity aversion is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.54 Risk perception
 
@@ -1624,16 +1624,16 @@ Risk perception integrates judgment, affect, probability beliefs, and framing. I
 ## 5. Boundaries
 Do not equate perceived risk with objective risk. Do not treat all divergence as bias without specifying the benchmark and decision criterion.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Risk has both objective and subjective representations.
 • Severity and probability can be psychologically separable.
 • Trust, familiarity, control, and affect can shape risk appraisal.
-
-### Owns
-Risk perception is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.55 Rational choice models
 
@@ -1654,16 +1654,16 @@ Rational choice provides the normative reference point for expected utility, bou
 ## 5. Boundaries
 Do not use “rational” as a global judgment of a person. The model's rationality is defined by formal assumptions and the decision environment.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Normative coherence is model-relative.
 • Formal models require explicit assumptions.
 • Descriptive psychology and normative theory answer different questions.
-
-### Owns
-Rational choice models is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.56 Expected utility theory
 
@@ -1684,16 +1684,16 @@ It formalizes expected utility and interfaces with prospect theory, rational cho
 ## 5. Boundaries
 Do not equate expected utility theory with a claim that people literally maximize expected utility in every decision.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • It is a formal theory of preference under risk.
 • Axioms and assumptions determine its predictions.
 • Empirical departures require diagnosis rather than immediate moral labeling.
-
-### Owns
-Expected utility theory is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.57 Prospect theory
 
@@ -1714,16 +1714,16 @@ Prospect theory integrates reference dependence, loss aversion, probability weig
 ## 5. Boundaries
 Do not treat prospect theory as a universal theory of all judgment or as proof that every decision exhibits the same parameter values.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Outcomes are coded relative to reference points.
 • Value and probability can be transformed psychologically.
 • Formal model components should be distinguished from empirical phenomena.
-
-### Owns
-Prospect theory is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.58 Dual-process accounts
 
@@ -1744,16 +1744,16 @@ Dual-process accounts connect judgment, heuristics, debiasing, and cognitive con
 ## 5. Boundaries
 Do not equate fast with irrational and slow with rational. Nor should every cognitive phenomenon be forced into a two-system taxonomy.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Automatic and controlled processing can interact.
 • Speed is not equivalent to error.
 • Deliberation improves performance only when it changes relevant computation appropriately.
-
-### Owns
-Dual-process accounts is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.59 Naturalistic decision-making
 
@@ -1774,16 +1774,16 @@ Naturalistic decision-making connects bounded rationality and recognition with e
 ## 5. Boundaries
 Do not equate naturalistic with infallible expert intuition or with rejection of formal models. Both can be informative under different conditions.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Decision procedures are shaped by real constraints.
 • Expertise can compress search through learned recognition.
 • Environmental validity does not eliminate the need for error analysis.
-
-### Owns
-Naturalistic decision-making is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.60 Choice architecture
 
@@ -1804,16 +1804,16 @@ Choice architecture provides the environmental framework for default effects, ch
 ## 5. Boundaries
 Do not equate choice architecture with manipulation. Design can simplify decisions, improve comprehension, or distort autonomy depending on implementation.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Environments structure cognition as well as available actions.
 • Small design features can alter search and comparison costs.
 • Effects depend on what the architecture makes easier, salient, or normative.
-
-### Owns
-Choice architecture is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.61 Nudging
 
@@ -1834,16 +1834,16 @@ Nudging is an application of choice architecture and draws on bounded rationalit
 ## 5. Boundaries
 Do not equate nudging with coercion, persuasion, or any intervention that changes behavior. The defining feature is architecture-based influence with preserved alternatives.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Nudges operate through predictable choice-environment features.
 • Effectiveness is empirical and context-dependent.
 • Ethical evaluation requires transparency and outcome criteria.
-
-### Owns
-Nudging is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.62 Debiasing
 
@@ -1864,16 +1864,16 @@ Debiasing connects specific biases to reasoning and cognitive control in 1.9 and
 ## 5. Boundaries
 Do not assume more information or slower thinking always debiases. An intervention that changes confidence without improving accuracy is not necessarily successful.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Debiasing must target a defined mechanism or error.
 • Accuracy, calibration, and utility are separate outcomes.
 • Interventions require empirical validation in the relevant environment.
-
-### Owns
-Debiasing is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.63 Decision errors
 
@@ -1894,16 +1894,16 @@ Decision errors integrate many biases and reasoning failures but should remain a
 ## 5. Boundaries
 Do not infer cognitive error from an unfavorable outcome alone. Do not treat a normative economic criterion as the only possible standard.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Error is criterion-relative.
 • Process, prediction, and outcome errors differ.
 • Chance can produce poor outcomes without a poor decision process.
-
-### Owns
-Decision errors is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.64 Moral judgment and decision-making
 
@@ -1924,16 +1924,16 @@ The topic connects judgment and choice in this chapter with moral behavior and m
 ## 5. Boundaries
 Do not make this node a second owner of general moral judgment. Its role here is the decision-making interface.
 
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+
 ## 6. Key Principles
 • Moral evaluation and moral action can diverge.
 • Consequences, rules, intentions, emotion, and social context can interact.
 • Moral decision-making remains sensitive to ordinary decision processes.
-
-### Owns
-Moral judgment and decision-making is canonical here as specified by the locked Chapter 1.10 architecture.
-
-### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 1.10.65 Group decision-making
 
@@ -1953,6 +1953,12 @@ This is the canonical owner of group decision-making and connects directly to so
 
 ## 5. Boundaries
 Do not duplicate general group psychology or groupthink here. Those mechanisms remain in 1.16; this node focuses on their consequences for collective choice.
+
+### Owns
+Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+
+### Defers
+Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
 ## 6. Key Principles
 • Interaction changes the information available to the decision system.
