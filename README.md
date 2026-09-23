@@ -3,7 +3,7 @@
 **Branch:** `psycho-sales-canonical-depth-v2`  
 **Stage:** Encyclopedia-wide execution of the original **10-phase quality pipeline**  
 **Current rebuild:** **Chapter 1.4 — Sensation and Perception**  
-**Chapter 1.4 progress:** **48/62 Topics deeply rebuilt; canonical seal pending**  
+**Chapter 1.4 progress:** **62/62 Topics deeply rebuilt; independent audit and canonical replacement completed before seal**  
 **Next after Chapter 1.4:** **Chapter 1.5 — Consciousness, Sleep, and Altered States**  
 **Architecture:** **21 locked chapters / 1,364 chapter entries / 1,267 canonical construct-clinical owners**
 
@@ -113,7 +113,7 @@ Remaining Chapters 1.10–1.21 are **not a new phase**. They are continued execu
 | 1.1 | 57 | V2 CERTIFIED / LOCKED & SEALED |
 | 1.2 | 118 | V2 CERTIFIED / LOCKED & SEALED |
 | 1.3 | 78 | V2 CERTIFIED / LOCKED & SEALED |
-| 1.4 | 62 | V2 DEEP REBUILD IN PROGRESS — 48/62; NOT SEALED |
+| 1.4 | 62 | V2 DEEP REBUILT — AUDITED / RE-AUDITED |
 | 1.5 | 44 | EXISTING CORPUS — NOT YET DEEP-REBUILT |
 | 1.6 | 40 | EXISTING CORPUS — NOT YET DEEP-REBUILT |
 | 1.7 | 66 | EXISTING CORPUS — NOT YET DEEP-REBUILT |
@@ -124,8 +124,8 @@ Remaining Chapters 1.10–1.21 are **not a new phase**. They are continued execu
 
 Current repository state:
 - Chapters 1.1–1.3: completed deep rebuilds.
-- Chapter 1.4: active deep rebuild; 48/62 Topics written in the working canonical stream.
-- Chapter 1.4 is **not sealed** until full completion, semantic audit, re-audit, validation, and metadata synchronization.
+- Chapter 1.4: 62/62 Topics deeply rebuilt, independently audited, re-audited, canonically synchronized, and documented below.
+- Chapters 1.5–1.21 remain in the existing corpus and are not represented as deep-rebuilt merely because older validation files exist.
 - Chapters 1.5–1.21 remain in the existing corpus and are not represented as deep-rebuilt merely because older validation files exist.
 
 ## Chapter 1.9 reconciliation item
@@ -190,7 +190,7 @@ Execution order:
 12. Create the V2 final validation record.
 13. Synchronize repository metadata.
 
-For the current Chapter 1.4 rebuild, the canonical working stream is `knowledge/system-01/chapter-1.4/CHAPTER_1.4_REBUILD_V2_WORKING.md`. It must not be treated as sealed until all 62 Topics are complete and the independent semantic re-audit passes.
+For Chapter 1.4, the working rebuild stream was `knowledge/system-01/chapter-1.4/CHAPTER_1.4_REBUILD_V2_WORKING.md`; after completion and audit, its content is synchronized into the canonical `knowledge/system-01/chapter-1.4/CHAPTER_1.4.md`, with a V2 validation record and repository-state update.
 
 **Do not optimize for passing structural tests alone. The target is actual semantic completeness, not validator-shaped prose.**
 
@@ -211,7 +211,7 @@ A takeover agent should:
 11. Validate before sealing.
 12. Keep graph, metadata, validation, and prose synchronized.
 13. Never modify `main` unless explicitly authorized.
-14. Continue with **Chapter 1.4** until its full deep rebuild and audit are complete; only then proceed to Chapter 1.5 under the existing ten phases.
+14. Chapter 1.4 is complete and audited. The next deep-rebuild target is **Chapter 1.5 — Consciousness, Sleep, and Altered States** under the existing ten phases.
 
 ## Final destination
 
