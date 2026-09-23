@@ -119,7 +119,7 @@ The rebuilt canonical chapter is:
 
 The canonical content SHA after the final rebuild is:
 
-`6ddfa78d413b09f049bd3d63ca543dc40dcb7339`
+`c1ddc5802f8347587a4cfd6694a4adab4ced8286`
 
 ## 7. Seal Decision
 
