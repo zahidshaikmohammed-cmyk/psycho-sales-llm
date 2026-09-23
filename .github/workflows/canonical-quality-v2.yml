@@ -19,6 +19,9 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Self-test validator
+        run: python3 -m unittest discover -s quality/tests -v
+
       - name: Detect canonical chapter changes
         shell: bash
         run: |
@@ -41,12 +44,10 @@ jobs:
             echo "No canonical chapter or validation record changed; governance-only change passes."
             exit 0
           fi
-
           for path in "${chapters[@]}"; do
             echo "Validating $path"
             python3 quality/validate_canonical_chapter.py --chapter "$path" --architecture "system_1/SYSTEM_1_SURGICAL_CANONICAL_ARCHITECTURE_v2.md"
           done
-
           for path in "${validations[@]}"; do
             chapter="${path%_FINAL_VALIDATION.md}.md"
             if [ ! -f "$chapter" ]; then
