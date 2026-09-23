@@ -1218,3 +1218,26 @@ The initial Chapter 1.6 structural write was subjected to a second audit against
 No Topic names were changed. No Topics were added or removed. Architecture remains unchanged.
 
 **Next target:** Chapter 1.7.
+
+
+## Chapter 1.7 — Full-Depth Canonical Revision
+
+Chapter 1.7 — Learning and Behavior Change has been written and depth-audited against the Permanent Knowledge Object Writer Constitution.
+
+- Live architecture Topics exposed: **66**
+- Exact ontology match: **66/66**
+- Total chapter words: **15,533**
+- Average Core Understanding: **~114 words/topic**
+- Minimum Core Understanding: **89 words**
+- Maximum Core Understanding: **142 words**
+- Generic definitions: **0**
+- Repeated Key-Principle sets: **0**
+- Exact cross-architecture collisions: **0**
+- Six-section objects: **66/66**
+- Owns boundaries: **66/66**
+- Defers boundaries: **66/66**
+- Final state: **LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 1.0**
+
+**Source-of-truth note:** The live architecture currently exposes 66 named Topics for Chapter 1.7. No additional Topics were invented to reconcile any separate count.
+
+**Next target:** Chapter 1.8.
