@@ -15,7 +15,7 @@ The chapter treats named biases and effects as empirical phenomena requiring def
 
 ## Canonical Knowledge Objects
 
-## Judgment
+## 1.10.1 Judgment
 
 **Section:** Decision foundations
 
@@ -45,7 +45,7 @@ Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Decision-making
+## 1.10.2 Decision-making
 
 **Section:** Decision foundations
 
@@ -75,7 +75,7 @@ Decision-making is canonical here as specified by the locked Chapter 1.10 archit
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Choice
+## 1.10.3 Choice
 
 **Section:** Decision foundations
 
@@ -105,7 +105,7 @@ Choice is canonical here as specified by the locked Chapter 1.10 architecture.
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Preference
+## 1.10.4 Preference
 
 **Section:** Decision foundations
 
@@ -135,7 +135,7 @@ Preference is canonical here as specified by the locked Chapter 1.10 architectur
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Preference construction
+## 1.10.5 Preference construction
 
 **Section:** Decision foundations
 
@@ -165,7 +165,7 @@ Preference construction is canonical here as specified by the locked Chapter 1.1
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Preference reversal
+## 1.10.6 Preference reversal
 
 **Section:** Decision foundations
 
@@ -195,7 +195,7 @@ Preference reversal is canonical here as specified by the locked Chapter 1.10 ar
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Decision under certainty
+## 1.10.7 Decision under certainty
 
 **Section:** Decision foundations
 
@@ -225,7 +225,7 @@ Decision under certainty is canonical here as specified by the locked Chapter 1.
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Decision under risk
+## 1.10.8 Decision under risk
 
 **Section:** Decision foundations
 
@@ -255,7 +255,7 @@ Decision under risk is canonical here as specified by the locked Chapter 1.10 ar
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Decision under uncertainty
+## 1.10.9 Decision under uncertainty
 
 **Section:** Decision foundations
 
@@ -285,7 +285,7 @@ Decision under uncertainty is canonical here as specified by the locked Chapter 
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Decision under ambiguity
+## 1.10.10 Decision under ambiguity
 
 **Section:** Decision foundations
 
@@ -315,7 +315,7 @@ Decision under ambiguity is canonical here as specified by the locked Chapter 1.
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Expected value
+## 1.10.11 Expected value
 
 **Section:** Decision foundations
 
@@ -345,7 +345,7 @@ Expected value is canonical here as specified by the locked Chapter 1.10 archite
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Expected utility
+## 1.10.12 Expected utility
 
 **Section:** Decision foundations
 
@@ -375,7 +375,7 @@ Expected utility is canonical here as specified by the locked Chapter 1.10 archi
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Subjective probability
+## 1.10.13 Subjective probability
 
 **Section:** Decision foundations
 
@@ -405,7 +405,7 @@ Subjective probability is canonical here as specified by the locked Chapter 1.10
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Satisficing
+## 1.10.14 Satisficing
 
 **Section:** Decision foundations
 
@@ -435,7 +435,7 @@ Satisficing is canonical here as specified by the locked Chapter 1.10 architectu
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Bounded rationality
+## 1.10.15 Bounded rationality
 
 **Section:** Decision foundations
 
@@ -465,7 +465,7 @@ Bounded rationality is canonical here as specified by the locked Chapter 1.10 ar
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Availability heuristic
+## 1.10.16 Availability heuristic
 
 **Section:** Heuristics
 
@@ -495,7 +495,7 @@ Availability heuristic is canonical here as specified by the locked Chapter 1.10
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Representativeness heuristic
+## 1.10.17 Representativeness heuristic
 
 **Section:** Heuristics
 
@@ -525,7 +525,7 @@ Representativeness heuristic is canonical here as specified by the locked Chapte
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Anchoring
+## 1.10.18 Anchoring
 
 **Section:** Heuristics
 
@@ -555,7 +555,7 @@ Anchoring is canonical here as specified by the locked Chapter 1.10 architecture
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Adjustment
+## 1.10.19 Adjustment
 
 **Section:** Heuristics
 
@@ -585,7 +585,7 @@ Adjustment is canonical here as specified by the locked Chapter 1.10 architectur
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Recognition heuristic
+## 1.10.20 Recognition heuristic
 
 **Section:** Heuristics
 
@@ -615,7 +615,7 @@ Recognition heuristic is canonical here as specified by the locked Chapter 1.10 
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Affect heuristic
+## 1.10.21 Affect heuristic
 
 **Section:** Heuristics
 
@@ -645,7 +645,7 @@ Affect heuristic is canonical here as specified by the locked Chapter 1.10 archi
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Attribute substitution
+## 1.10.22 Attribute substitution
 
 **Section:** Heuristics
 
@@ -675,7 +675,7 @@ Attribute substitution is canonical here as specified by the locked Chapter 1.10
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Framing effect
+## 1.10.23 Framing effect
 
 **Section:** Biases and effects
 
@@ -705,7 +705,7 @@ Framing effect is canonical here as specified by the locked Chapter 1.10 archite
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Reference dependence
+## 1.10.24 Reference dependence
 
 **Section:** Biases and effects
 
@@ -735,7 +735,7 @@ Reference dependence is canonical here as specified by the locked Chapter 1.10 a
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Loss aversion
+## 1.10.25 Loss aversion
 
 **Section:** Biases and effects
 
@@ -765,7 +765,7 @@ Loss aversion is canonical here as specified by the locked Chapter 1.10 architec
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Endowment effect
+## 1.10.26 Endowment effect
 
 **Section:** Biases and effects
 
@@ -795,7 +795,7 @@ Endowment effect is canonical here as specified by the locked Chapter 1.10 archi
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Status quo bias
+## 1.10.27 Status quo bias
 
 **Section:** Biases and effects
 
@@ -825,7 +825,7 @@ Status quo bias is canonical here as specified by the locked Chapter 1.10 archit
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Default effect
+## 1.10.28 Default effect
 
 **Section:** Biases and effects
 
@@ -855,7 +855,7 @@ Default effect is canonical here as specified by the locked Chapter 1.10 archite
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Present bias
+## 1.10.29 Present bias
 
 **Section:** Biases and effects
 
@@ -885,7 +885,7 @@ Present bias is canonical here as specified by the locked Chapter 1.10 architect
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Temporal discounting
+## 1.10.30 Temporal discounting
 
 **Section:** Biases and effects
 
@@ -915,7 +915,7 @@ Temporal discounting is canonical here as specified by the locked Chapter 1.10 a
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Hyperbolic discounting
+## 1.10.31 Hyperbolic discounting
 
 **Section:** Biases and effects
 
@@ -945,7 +945,7 @@ Hyperbolic discounting is canonical here as specified by the locked Chapter 1.10
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Probability weighting
+## 1.10.32 Probability weighting
 
 **Section:** Biases and effects
 
@@ -975,7 +975,7 @@ Probability weighting is canonical here as specified by the locked Chapter 1.10 
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Base-rate neglect
+## 1.10.33 Base-rate neglect
 
 **Section:** Biases and effects
 
@@ -1005,7 +1005,7 @@ Base-rate neglect is canonical here as specified by the locked Chapter 1.10 arch
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Conjunction fallacy
+## 1.10.34 Conjunction fallacy
 
 **Section:** Biases and effects
 
@@ -1035,7 +1035,7 @@ Conjunction fallacy is canonical here as specified by the locked Chapter 1.10 ar
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Gambler's fallacy
+## 1.10.35 Gambler's fallacy
 
 **Section:** Biases and effects
 
@@ -1065,7 +1065,7 @@ Gambler's fallacy is canonical here as specified by the locked Chapter 1.10 arch
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Hot-hand belief
+## 1.10.36 Hot-hand belief
 
 **Section:** Biases and effects
 
@@ -1095,7 +1095,7 @@ Hot-hand belief is canonical here as specified by the locked Chapter 1.10 archit
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Overconfidence
+## 1.10.37 Overconfidence
 
 **Section:** Biases and effects
 
@@ -1125,7 +1125,7 @@ Overconfidence is canonical here as specified by the locked Chapter 1.10 archite
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Calibration
+## 1.10.38 Calibration
 
 **Section:** Biases and effects
 
@@ -1155,7 +1155,7 @@ Calibration is canonical here as specified by the locked Chapter 1.10 architectu
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Confirmation bias
+## 1.10.39 Confirmation bias
 
 **Section:** Biases and effects
 
@@ -1185,7 +1185,7 @@ Confirmation bias is canonical here as specified by the locked Chapter 1.10 arch
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Belief perseverance
+## 1.10.40 Belief perseverance
 
 **Section:** Biases and effects
 
@@ -1215,7 +1215,7 @@ Belief perseverance is canonical here as specified by the locked Chapter 1.10 ar
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Self-serving bias
+## 1.10.41 Self-serving bias
 
 **Section:** Biases and effects
 
@@ -1245,7 +1245,7 @@ Self-serving bias is canonical here as specified by the locked Chapter 1.10 arch
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Hindsight bias
+## 1.10.42 Hindsight bias
 
 **Section:** Biases and effects
 
@@ -1275,7 +1275,7 @@ Hindsight bias is canonical here as specified by the locked Chapter 1.10 archite
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Outcome bias
+## 1.10.43 Outcome bias
 
 **Section:** Biases and effects
 
@@ -1305,7 +1305,7 @@ Outcome bias is canonical here as specified by the locked Chapter 1.10 architect
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Omission bias
+## 1.10.44 Omission bias
 
 **Section:** Biases and effects
 
@@ -1335,7 +1335,7 @@ Omission bias is canonical here as specified by the locked Chapter 1.10 architec
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Planning fallacy
+## 1.10.45 Planning fallacy
 
 **Section:** Biases and effects
 
@@ -1365,7 +1365,7 @@ Planning fallacy is canonical here as specified by the locked Chapter 1.10 archi
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Optimism bias
+## 1.10.46 Optimism bias
 
 **Section:** Biases and effects
 
@@ -1395,7 +1395,7 @@ Optimism bias is canonical here as specified by the locked Chapter 1.10 architec
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Escalation of commitment
+## 1.10.47 Escalation of commitment
 
 **Section:** Biases and effects
 
@@ -1425,7 +1425,7 @@ Escalation of commitment is canonical here as specified by the locked Chapter 1.
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Sunk-cost effect
+## 1.10.48 Sunk-cost effect
 
 **Section:** Biases and effects
 
@@ -1455,7 +1455,7 @@ Sunk-cost effect is canonical here as specified by the locked Chapter 1.10 archi
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Choice overload
+## 1.10.49 Choice overload
 
 **Section:** Biases and effects
 
@@ -1485,7 +1485,7 @@ Choice overload is canonical here as specified by the locked Chapter 1.10 archit
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Decision fatigue
+## 1.10.50 Decision fatigue
 
 **Section:** Biases and effects
 
@@ -1515,7 +1515,7 @@ Decision fatigue is canonical here as specified by the locked Chapter 1.10 archi
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Regret
+## 1.10.51 Regret
 
 **Section:** Biases and effects
 
@@ -1545,7 +1545,7 @@ Regret is canonical here as specified by the locked Chapter 1.10 architecture.
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Anticipated regret
+## 1.10.52 Anticipated regret
 
 **Section:** Biases and effects
 
@@ -1575,7 +1575,7 @@ Anticipated regret is canonical here as specified by the locked Chapter 1.10 arc
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Ambiguity aversion
+## 1.10.53 Ambiguity aversion
 
 **Section:** Biases and effects
 
@@ -1605,7 +1605,7 @@ Ambiguity aversion is canonical here as specified by the locked Chapter 1.10 arc
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Risk perception
+## 1.10.54 Risk perception
 
 **Section:** Biases and effects
 
@@ -1635,7 +1635,7 @@ Risk perception is canonical here as specified by the locked Chapter 1.10 archit
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Rational choice models
+## 1.10.55 Rational choice models
 
 **Section:** Models and applications
 
@@ -1665,7 +1665,7 @@ Rational choice models is canonical here as specified by the locked Chapter 1.10
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Expected utility theory
+## 1.10.56 Expected utility theory
 
 **Section:** Models and applications
 
@@ -1695,7 +1695,7 @@ Expected utility theory is canonical here as specified by the locked Chapter 1.1
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Prospect theory
+## 1.10.57 Prospect theory
 
 **Section:** Models and applications
 
@@ -1725,7 +1725,7 @@ Prospect theory is canonical here as specified by the locked Chapter 1.10 archit
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Dual-process accounts
+## 1.10.58 Dual-process accounts
 
 **Section:** Models and applications
 
@@ -1755,7 +1755,7 @@ Dual-process accounts is canonical here as specified by the locked Chapter 1.10 
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Naturalistic decision-making
+## 1.10.59 Naturalistic decision-making
 
 **Section:** Models and applications
 
@@ -1785,7 +1785,7 @@ Naturalistic decision-making is canonical here as specified by the locked Chapte
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Choice architecture
+## 1.10.60 Choice architecture
 
 **Section:** Models and applications
 
@@ -1815,7 +1815,7 @@ Choice architecture is canonical here as specified by the locked Chapter 1.10 ar
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Nudging
+## 1.10.61 Nudging
 
 **Section:** Models and applications
 
@@ -1845,7 +1845,7 @@ Nudging is canonical here as specified by the locked Chapter 1.10 architecture.
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Debiasing
+## 1.10.62 Debiasing
 
 **Section:** Models and applications
 
@@ -1875,7 +1875,7 @@ Debiasing is canonical here as specified by the locked Chapter 1.10 architecture
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Decision errors
+## 1.10.63 Decision errors
 
 **Section:** Models and applications
 
@@ -1905,7 +1905,7 @@ Decision errors is canonical here as specified by the locked Chapter 1.10 archit
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Moral judgment and decision-making
+## 1.10.64 Moral judgment and decision-making
 
 **Section:** Models and applications
 
@@ -1935,7 +1935,7 @@ Moral judgment and decision-making is canonical here as specified by the locked 
 ### Defers
 Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
 
-## Group decision-making
+## 1.10.65 Group decision-making
 
 **Section:** Models and applications
 
