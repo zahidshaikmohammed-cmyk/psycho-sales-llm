@@ -83,16 +83,19 @@ Built the canonical machine-readable System 1 base graph from Chapters 1.1–1.8
 The graph is derived infrastructure; canonical chapter Knowledge Objects remain authoritative. Unsupported causal/mechanistic relationships were intentionally not fabricated. Rich evidence-attested semantic edge expansion remains a later graph-quality layer, not a reason to weaken Phase 8 provenance controls.
 
 ### Phase 9 — Synchronize repository metadata
-**State:** PENDING
+**State:** COMPLETE — LOCKED
 
-Synchronize:
-- README
-- project progress/handoff records
-- validation records
-- version/status metadata
-- canonical file maps
+Project-wide metadata was reconciled against the live repository.
 
-All metadata must describe the actual live repository state.
+**Completion evidence:**
+- All Chapters 1.1–1.8 are Canonical Knowledge Version 2.0 and V2 certified/locked.
+- System 1 totals synchronized: 541 Topics and 135,805 words.
+- Graph state synchronized: 549 nodes, 1,227 typed edges, 0 dangling references, 0 duplicate edges.
+- Stale Chapter 1.8 version metadata corrected from 1.0 to 2.0.
+- Stale remediation-register metrics corrected for Chapters 1.2, 1.3, 1.6, and 1.7.
+- Outdated Phase 2–4 roadmap target language cleaned.
+- Canonical repository state index created: `quality/CANONICAL_REPOSITORY_STATE_V1.md`.
+- README, roadmap, register, chapter metadata, and graph state now describe the same live project state.
 
 ### Phase 10 — Continue Chapter 1.9 onward
 **State:** BLOCKED UNTIL PHASES 1–9 ARE SUFFICIENTLY COMPLETE
