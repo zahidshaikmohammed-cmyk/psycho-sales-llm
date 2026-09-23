@@ -122,7 +122,7 @@ At every phase:
 
 **Phase 3 completion evidence:** Chapter 1.4's 62 canonical Topics were semantically remediated and v2-certified. Final metrics: 62 Topics; Core Understanding average ~79 words; minimum 66; maximum 96; zero duplicate Core, Relationship, or Key-Principle blocks; zero literal placeholder signatures; zero generic chapter-membership signatures. GitHub Actions run `35872548336` passed self-tests and full canonical validation. Chapter 1.4 is now LOCKED & SEALED under Knowledge Version 2.0.
 
-**Phase 9 completion target:** All project-wide metadata now reflects the live repository state. Phase 10 is the next execution target.
+**Phase 10 completion target:** Chapter 1.9 is now V2-certified and integrated. Phase 11 is the next execution target.
 
 After Phase 9, proceed to Chapter 1.9 only under Constitution v2 and the graph/retrieval quality controls.
 
