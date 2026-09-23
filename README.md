@@ -327,3 +327,14 @@ Chapter 1.8 — Memory has completed its V2 semantic audit and is now certified/
 - No content rewrite required
 - **P0/P1/P2/P3 = 0**
 - **Status: LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 2.0**
+
+## Phase 7 — System 1 V2 Re-certification
+
+Chapters 1.1, 1.2, 1.3, and 1.6 have completed V2 semantic re-certification.
+
+- **1.1:** 57 Topics — V2 certified
+- **1.2:** 118 Topics — V2 certified
+- **1.3:** 78 Topics — V2 certified
+- **1.6:** 40 Topics — V2 certified after removal of 40 generic relationship signatures
+- All four retain their canonical ontology.
+- **P0/P1/P2/P3 = 0 across all four validation records.**
