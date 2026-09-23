@@ -16,11 +16,12 @@
 | 1.6 | 40 | 12,224 | 2.0 | V2 CERTIFIED / LOCKED & SEALED |
 | 1.7 | 66 | 13,965 | 2.0 | V2 CERTIFIED / LOCKED & SEALED |
 | 1.8 | 76 | 16,852 | 2.0 | V2 CERTIFIED / LOCKED & SEALED |
-| **TOTAL** | **541** | **135,805** | — | **1.1–1.8 COMPLETE** |
+| 1.9 | 67 | 22,769 | 2.0 | V2 CERTIFIED / LOCKED & SEALED |
+| **TOTAL** | **608** | **158,574** | — | **1.1–1.9 COMPLETE** |
 
 ## Canonical validation controls
 
-Every Chapter 1.1–1.8 validation record contains the V2 semantic gate with:
+Every Chapter 1.1–1.9 validation record contains the V2 semantic gate with:
 
 - ontology
 - structural integrity
@@ -39,10 +40,10 @@ Every Chapter 1.1–1.8 validation record contains the V2 semantic gate with:
 ## Knowledge graph state
 
 - Graph: `graph/SYSTEM_1_KNOWLEDGE_GRAPH_V1.json`
-- Topic nodes: **541**
-- Chapter nodes: **8**
-- Total nodes: **549**
-- Typed edges: **1,227**
+- Topic nodes: **608**
+- Chapter nodes: **9**
+- Total nodes: **617**
+- Typed edges: **1,361**
 - Dangling references: **0**
 - Duplicate edges: **0**
 - Validation: `graph/SYSTEM_1_KNOWLEDGE_GRAPH_V1_VALIDATION.md`
