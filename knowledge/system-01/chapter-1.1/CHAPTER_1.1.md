@@ -1,8 +1,7 @@
 # CHAPTER 1.1 — FOUNDATIONS AND ARCHITECTURE OF HUMAN PSYCHOLOGY
 
 **System:** 1 — HUMAN PSYCHOLOGY
-**Status:** LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 1.1
-**Ontology:** Locked 57-topic Chapter 1.1 index
+**Status:** LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 2.0ntology:** Locked 57-topic Chapter 1.1 index
 **Writing standard:** PSYCHO SALES Permanent Knowledge Object Writing Constitution
 **Validation:** 57/57 canonical Topics; duplicate Knowledge Objects remediated; six-section structure validated; ownership and depth remediation completed
 
