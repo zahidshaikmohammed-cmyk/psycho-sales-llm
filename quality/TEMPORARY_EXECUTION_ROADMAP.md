@@ -85,19 +85,20 @@ Phase 10 is the final project-wide gate. It is not complete until all 21 chapter
 - 1.7 — Learning and Behavior Change
 - 1.8 — Memory
 - 1.9 — Thinking, Representation, Reasoning, and Problem Solving
+- 1.10 — Judgment, Decision-Making, and Choice
 
 ### Remaining canonical chapters
-- 1.10 through 1.21
+- 1.11 through 1.21
 
 These are **not a new phase**. They are the remaining encyclopedia implementation work under the existing ten-phase pipeline.
 
 ## Immediate next execution
 
-### Chapter 1.10 — Judgment, Decision-Making, and Choice
+### Chapter 1.11 — Language and Intelligence
 
 Before sealing Chapter 1.10:
 
-1. verify its exact 65-entry architecture;
+1. verify its exact architecture;
 2. resolve canonical ownership using the precision registry;
 3. classify theory/model and relationship/application entries correctly;
 4. write Topic objects under Constitution v2;
