@@ -124,7 +124,7 @@ Remaining Chapters 1.10–1.21 are **not a new phase**. They are continued execu
 
 Current repository state:
 - Chapters 1.1–1.3: completed deep rebuilds.
-- Chapter 1.4: 62/62 Topics deeply rebuilt; canonical prose synchronized after structural, semantic, ownership, boundary, neighbor, duplication, and density audits. Final validation record is synchronized below.
+- Chapter 1.4: 62/62 Topics deeply rebuilt; canonical prose synchronized after structural, semantic, ownership, boundary, neighbor, duplication, and density audits. Final validation record is synchronized; CI-backed sealing remains the executable repository gate.
 - Chapters 1.5–1.21 remain in the existing corpus and are not represented as deep-rebuilt merely because older validation files exist.
 - Chapters 1.5–1.21 remain in the existing corpus and are not represented as deep-rebuilt merely because older validation files exist.
 
@@ -211,7 +211,7 @@ A takeover agent should:
 11. Validate before sealing.
 12. Keep graph, metadata, validation, and prose synchronized.
 13. Never modify `main` unless explicitly authorized.
-14. Chapter 1.4 is complete and audited. The next deep-rebuild target is **Chapter 1.5 — Consciousness, Sleep, and Altered States** under the existing ten phases.
+14. Chapter 1.4 is complete, audited, re-audited, and canonically synchronized. Its final CI-backed seal is the remaining executable repository gate. After that gate passes, the next deep-rebuild target is **Chapter 1.5 — Consciousness, Sleep, and Altered States** under the existing ten phases.
 
 ## Final destination
 
