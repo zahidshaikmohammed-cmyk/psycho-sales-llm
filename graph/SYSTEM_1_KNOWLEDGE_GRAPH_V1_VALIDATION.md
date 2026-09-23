@@ -5,11 +5,11 @@
 
 ## V2 / Graph Gate
 
-- Canonical source chapters: **1.1–1.8**
-- Canonical Topic nodes: **541/541**
-- Chapter nodes: **8/8**
-- Total graph nodes: **549**
-- Total graph edges: **1,227**
+- Canonical source chapters: **1.1–1.9**
+- Canonical Topic nodes: **608/608**
+- Chapter nodes: **9/9**
+- Total graph nodes: **617**
+- Total graph edges: **1,361**
 - Dangling references: **0**
 - Duplicate relationship records: **0**
 - Canonical chapter Topic counts preserved exactly.
