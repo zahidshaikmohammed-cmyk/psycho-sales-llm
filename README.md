@@ -309,3 +309,21 @@ Chapter 1.7 — Learning and Behavior Change is now V2 semantic-depth certified 
 - V2 validation record and executable attestation completed
 - **P0/P1/P2/P3 = 0**
 - **Status: LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 2.0**
+
+## Phase 6 — Chapter 1.8 V2 Semantic Re-certification
+
+Chapter 1.8 — Memory has completed its V2 semantic audit and is now certified/locked.
+
+- **76/76 Topics preserved exactly**
+- **~16,852 words**
+- **Average Core Understanding: ~96 words**
+- **Minimum:** 69 words
+- **Maximum:** 156 words
+- 0 normalized duplicate Core blocks
+- 0 repeated Key-Principle sets
+- 0 literal TOPIC placeholders
+- 0 generic chapter-membership signatures
+- Neighbor, evidence, retrieval, ownership, and cross-chapter boundary audits passed
+- No content rewrite required
+- **P0/P1/P2/P3 = 0**
+- **Status: LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 2.0**
