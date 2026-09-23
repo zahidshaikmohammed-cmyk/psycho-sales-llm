@@ -11,7 +11,7 @@
 ## Execution sequence
 
 ### Phase 1 — Lock the new quality constitution
-**State:** IN PROGRESS / FOUNDATION CREATED
+**State:** COMPLETE — LOCKED
 
 Lock the upgraded semantic-quality standard without changing the existing ontology.
 
@@ -113,6 +113,8 @@ At every phase:
 7. Update this roadmap only to record actual repository state.
 
 ## Current target
+
+**Phase 1 completion evidence:** The permanent constitution now contains the project-wide v2 semantic upgrade and is the single authoritative constitution. The v2 companion explicitly defers to the permanent constitution and cannot become a competing standard.
 
 **Immediate execution target: Phase 2 — Upgrade validation.**
 
