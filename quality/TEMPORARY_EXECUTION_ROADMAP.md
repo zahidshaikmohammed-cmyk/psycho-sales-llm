@@ -1,139 +1,142 @@
 # PSYCHO SALES — TEMPORARY EXECUTION ROADMAP
 
 **Status:** WORKING CONTROL DOCUMENT — NOT CANONICAL KNOWLEDGE  
-**Purpose:** Prevent project drift during the current remediation program.  
+**Purpose:** Control execution of the original 10-phase quality program across the entire 21-chapter encyclopedia.  
 **Authority:** This file records execution order only. Canonical architecture, ontology, knowledge, and validation files remain authoritative.
 
 > **SOURCE OF TRUTH: THE LIVE REPOSITORY.**
->
-> This roadmap is a pointer/control record, not a replacement for canonical files.
 
-## Execution sequence
+## Master execution model
 
-### Phase 1 — Lock the new quality constitution
-**State:** COMPLETE — LOCKED
+The project has **exactly 10 phases**.
 
-Lock the upgraded semantic-quality standard without changing the existing ontology.
+These phases are now treated as **encyclopedia-wide quality gates**, not as one-time chapter milestones. The same ten-phase pipeline governs Chapters 1.1–1.21.
 
-Primary control:
-- `constitution/CANONICAL_KNOWLEDGE_OBJECT_CONSTITUTION_V2.md`
+Canonical master architecture:
+- `system_1/SYSTEM_1_SURGICAL_CANONICAL_ARCHITECTURE_v2.md`
 
-### Phase 2 — Upgrade validation
-**State:** COMPLETE — LOCKED
+Canonical ownership/counting registry:
+- `system_1/SYSTEM_1_ARCHITECTURE_PRECISION_REGISTRY.md`
 
-Make **LOCKED & SEALED** impossible unless the chapter passes:
-- ontology
-- structural integrity
-- ownership
-- semantic depth
-- neighboring-concept distinctions
-- scientific/evidence integrity
-- relationships
-- retrieval
-- anti-template
-- cross-chapter boundaries
-- final validation
+Encyclopedia-wide execution contract:
+- `quality/ENCYCLOPEDIA_WIDE_10_PHASE_EXECUTION_CONTRACT.md`
 
-Primary control:
-- `quality/SEMANTIC_DEPTH_AUDIT_PROTOCOL_V1.md`
+## The 10 phases
 
-### Phase 3 — Remediate Chapter 1.4 — COMPLETE — LOCKED
+### Phase 1 — Constitution and Quality Standard
+**State:** INFRASTRUCTURE COMPLETE — APPLIED PROJECT-WIDE GOING FORWARD
 
-Phase 4 — Remediate Chapter 1.5 — COMPLETE — LOCKED
-**State:** COMPLETE — LOCKED
+The permanent writer constitution and v2 semantic requirements govern every chapter.
 
-V2 semantic remediation completed across all 44 Topics while preserving the exact 44-topic ontology. Final validation record contains executable V2 attestation with all gates PASS and P0/P1/P2/P3 = 0.
+### Phase 2 — Validation Infrastructure
+**State:** INFRASTRUCTURE COMPLETE — APPLIED PROJECT-WIDE GOING FORWARD
 
-### Phase 5 — Remediate Chapter 1.7
-**State:** COMPLETE — LOCKED
+Executable structural validation and mandatory V2 semantic attestation are the sealing controls.
 
-Preserve all 66 Topics while removing detectable template signatures and deepening learning mechanisms, distinctions, context dependence, and evidence boundaries.
+### Phase 3 — Semantic Remediation
+**State:** IN PROGRESS ACROSS ENCYCLOPEDIA
 
-**Completion evidence:** 66/66 Topics; 13,965 words; Core Understanding average ~89; min 66; max 106; 0 literal placeholders; 0 generic chapter-membership signatures; V2 validation record present; all executable attestation gates PASS; P0/P1/P2/P3 = 0.
+Every chapter must receive semantic depth appropriate to its Topics rather than artificial length.
 
-### Phase 6 — Audit Chapter 1.8
-**State:** COMPLETE — LOCKED
+### Phase 4 — Conceptual Distinction
+**State:** IN PROGRESS ACROSS ENCYCLOPEDIA
 
-Run the V2 semantic audit against Memory before accepting its existing sealed status as intelligence-grade.
+Nearest-neighbor concepts must remain distinguishable and retrievable.
 
-**Completion evidence:** 76/76 Topics preserved; ~16,852 words; Core Understanding average ~96; min 69; max 156; no normalized duplicate Core blocks; no repeated Key-Principle sets; 0 literal placeholders; 0 generic membership signatures; V2 validation record present; all attestation gates PASS; P0/P1/P2/P3 = 0. No rewrite required.
+### Phase 5 — Scientific and Evidence Integrity
+**State:** IN PROGRESS ACROSS ENCYCLOPEDIA
 
-### Phase 7 — Re-certify Chapters 1.1, 1.2, 1.3, and 1.6
-**State:** COMPLETE — LOCKED
+Evidence status, causal language, theory/model status, uncertainty, and unresolved questions must be represented honestly.
 
-All four chapters were audited against Constitution v2. No broad rewrite was justified for 1.1–1.3; their existing semantic remediation was sufficient for V2 certification. Chapter 1.6 required and received a targeted anti-template correction removing all 40 generic Relationship-to-Chapter signatures.
+### Phase 6 — Ownership and Cross-Chapter Boundaries
+**State:** IN PROGRESS ACROSS ENCYCLOPEDIA
 
-**Completion evidence:** 57/57, 118/118, 78/78, and 40/40 Topics preserved respectively; V2 validation records present for all four; all semantic gates PASS; P0/P1/P2/P3 = 0.
-### Phase 8 — Build the actual knowledge graph
-**State:** COMPLETE — LOCKED
+The precision registry governs canonical owners, relationship/application nodes, duplicate aliases, redirects, and theory/model separation.
 
-Built the canonical machine-readable System 1 base graph from Chapters 1.1–1.8.
+### Phase 7 — Retrieval and Machine Composability
+**State:** IN PROGRESS ACROSS ENCYCLOPEDIA
 
-**Completion evidence:**
-- 541/541 canonical Topic nodes preserved.
-- 8/8 chapter nodes.
-- 549 total nodes.
-- 1,227 typed relationship edges.
-- 0 dangling references.
-- 0 duplicate relationship records.
-- Relationship classes implemented: `owned_by`, `part_of`, `defers_to`, `interacts_with`.
-- Graph validation record: `graph/SYSTEM_1_KNOWLEDGE_GRAPH_V1_VALIDATION.md`.
-- Canonical graph: `graph/SYSTEM_1_KNOWLEDGE_GRAPH_V1.json`.
+Topics must be retrievable by natural-language variants and expose meaningful boundaries and relationships.
 
-The graph is derived infrastructure; canonical chapter Knowledge Objects remain authoritative. Unsupported causal/mechanistic relationships were intentionally not fabricated. Rich evidence-attested semantic edge expansion remains a later graph-quality layer, not a reason to weaken Phase 8 provenance controls.
+### Phase 8 — Knowledge Graph Integration
+**State:** BASE GRAPH COMPLETE — CONTINUING EXPANSION
 
-### Phase 9 — Synchronize repository metadata
-**State:** COMPLETE — LOCKED
+The graph is derived infrastructure. New validated chapters must integrate without fabricated unsupported relationships.
 
-Project-wide metadata was reconciled against the live repository.
+### Phase 9 — Repository Synchronization
+**State:** RECURRING PROJECT-WIDE CONTROL
 
-**Completion evidence:**
-- All Chapters 1.1–1.8 are Canonical Knowledge Version 2.0 and V2 certified/locked.
-- System 1 totals synchronized: 541 Topics and 135,805 words.
-- Graph state synchronized: 549 nodes, 1,227 typed edges, 0 dangling references, 0 duplicate edges.
-- Stale Chapter 1.8 version metadata corrected from 1.0 to 2.0.
-- Stale remediation-register metrics corrected for Chapters 1.2, 1.3, 1.6, and 1.7.
-- Outdated Phase 2–4 roadmap target language cleaned.
-- Canonical repository state index created: `quality/CANONICAL_REPOSITORY_STATE_V1.md`.
-- README, roadmap, register, chapter metadata, and graph state now describe the same live project state.
+Canonical chapter state, validation records, register, graph, roadmap, README, and repository snapshot must remain synchronized.
 
-### Phase 10 — Continue Chapter 1.9 onward
-**State:** COMPLETE — LOCKED
+### Phase 10 — Final Encyclopedia Certification
+**State:** NOT YET COMPLETE
 
-Chapter 1.9 was created directly under Constitution v2 from the locked 67-topic architecture.
+Phase 10 is the final project-wide gate. It is not complete until all 21 chapters and all global architecture/graph/metadata controls have passed.
 
-**Completion evidence:** 67/67 Topics preserved exactly; 22,769 words; Core Understanding average 107, minimum 105, maximum 109; 0 duplicate Core blocks; 0 duplicate Key-Principle sets; 0 literal placeholders; 0 generic chapter-membership signatures; V2 validation record present; P0/P1/P2/P3 = 0; knowledge graph expanded to 608 Topic nodes, 9 chapter nodes, 617 total nodes, and 1,361 typed edges.
+## Current implementation state
 
-### Phase 11 — Continue canonical expansion
-**State:** NEXT
+### Completed written chapters
+- 1.1 — Foundations and Architecture of Human Psychology
+- 1.2 — Psychological Science, Research, Measurement, and Evidence
+- 1.3 — Biological Bases of Human Behavior and Mental Life
+- 1.4 — Sensation and Perception
+- 1.5 — Consciousness, Sleep, and Altered States
+- 1.6 — Attention and Information Selection
+- 1.7 — Learning and Behavior Change
+- 1.8 — Memory
+- 1.9 — Thinking, Representation, Reasoning, and Problem Solving
 
-Future chapters must use Constitution v2, preserve the locked ontology, integrate with the knowledge graph, and pass semantic, evidence, relationship, retrieval, and anti-template gates before sealing.
+### Remaining canonical chapters
+- 1.10 through 1.21
 
-## Operating rule
+These are **not a new phase**. They are the remaining encyclopedia implementation work under the existing ten-phase pipeline.
 
-At every phase:
+## Immediate next execution
 
-1. Read the live repository first.
-2. Treat canonical files as authoritative.
-3. Never use memory or old chat text as project evidence.
-4. Never silently change locked ontology.
-5. Preserve existing Topic IDs/names unless an authorized architecture change is made.
-6. Validate before declaring completion.
-7. Update this roadmap only to record actual repository state.
+### Chapter 1.10 — Judgment, Decision-Making, and Choice
 
-## Current target
+Before sealing Chapter 1.10:
 
-**Phase 1 completion evidence:** The permanent constitution now contains the project-wide v2 semantic upgrade and is the single authoritative constitution. The v2 companion explicitly defers to the permanent constitution and cannot become a competing standard.
+1. verify its exact 65-entry architecture;
+2. resolve canonical ownership using the precision registry;
+3. classify theory/model and relationship/application entries correctly;
+4. write Topic objects under Constitution v2;
+5. perform semantic/depth audit;
+6. perform nearest-neighbor distinction audit;
+7. perform scientific/evidence audit;
+8. perform cross-chapter ownership audit;
+9. integrate validated graph relationships;
+10. create the final V2 validation record;
+11. synchronize repository metadata.
 
-**Phase 2 completion evidence:** Executable v2 sealing infrastructure is now present and CI-verified. Added `quality/CANONICAL_SEAL_CONTRACT_V2.md`, `quality/validate_canonical_chapter.py`, `quality/V2_SEMANTIC_ATTESTATION_TEMPLATE.md`, `.github/workflows/canonical-quality-v2.yml`, and validator self-tests under `quality/tests/`. The validator self-test suite passed in GitHub Actions run `35871099492` on commit `958216f9c62a61beb760f128d84577d47ab7c9a1`. The CI gate also passed its changed-canonical detection step. Existing chapters are intentionally not retroactively called v2-certified; that work remains in Phases 3–7.
+## Important Phase 10 reconciliation
 
-**Phase 3 completion evidence:** Chapter 1.4's 62 canonical Topics were semantically remediated and v2-certified. Final metrics: 62 Topics; Core Understanding average ~79 words; minimum 66; maximum 96; zero duplicate Core, Relationship, or Key-Principle blocks; zero literal placeholder signatures; zero generic chapter-membership signatures. GitHub Actions run `35872548336` passed self-tests and full canonical validation. Chapter 1.4 is now LOCKED & SEALED under Knowledge Version 2.0.
+Chapter 1.9 must be rechecked against the precision registry as part of the continuing project-wide audit.
 
-**Phase 10 completion target:** Chapter 1.9 is now V2-certified and integrated. Phase 11 is the next execution target.
+Known exceptions:
+- `1.9 — Bounded rationality` → canonical owner 1.10; non-owner appearance.
+- `1.9 — Expertise and thinking` → relationship/application node.
 
-After Phase 9, proceed to Chapter 1.9 only under Constitution v2 and the graph/retrieval quality controls.
+This is an ownership-classification correction, not a new phase.
 
+## Operating rules
 
+1. Read the live repository before modifying it.
+2. Treat the locked architecture as authoritative.
+3. Never silently rename or invent Topics.
+4. Never count relationship/application nodes as independent owners.
+5. Never count duplicate aliases or redirects as new owners.
+6. Keep theory/model objects distinct from basic constructs.
+7. Do not use word count as a proxy for quality.
+8. Validate before sealing.
+9. Keep the graph derived from canonical knowledge.
+10. Keep project metadata synchronized with actual live state.
+11. Never declare the encyclopedia complete until all 21 chapters pass the final project-wide certification.
 
-## Phase 4 Completion — Chapter 1.5
-Chapter 1.5 is now V2 semantic-depth certified and locked/sealed. Evidence: 44/44 Topics preserved; 13,580 words; Core Understanding average ~120 words; minimum 97; maximum 143; Topic-specific semantic deepening applied; ownership and universal-psychology boundaries preserved. Next phase should follow the live remediation register rather than altering the canonical ontology.
+## Final destination
+
+**21 chapters → one coherent psychological knowledge system.**
+
+The original ten phases are the permanent quality pipeline.
+
+**No Phase 11.**
