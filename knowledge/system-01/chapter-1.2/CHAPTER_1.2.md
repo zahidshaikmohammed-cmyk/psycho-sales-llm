@@ -1145,6 +1145,9 @@ Experimental research is research in which researchers deliberately manipulate o
 Experimental research systematically manipulates one or more variables and observes outcomes under controlled conditions to test causal or mechanistic hypotheses. Its defining feature is deliberate intervention rather than simply the use of numerical data. Control can reduce alternative explanations, but every experiment trades some realism for isolation and therefore has boundaries.
 
 
+
+### Interpretive depth and boundary conditions
+For **Experimental research**, the central methodological question is not simply whether the procedure was performed correctly, but what kind of evidence the procedure can generate. Researchers must distinguish the phenomenon being sampled from the conditions created by the design, because recruitment, instructions, measurement timing, participant expectations, researcher presence, and task structure can alter the observed pattern. The design should therefore be evaluated against plausible alternatives and against the intended inferential target. A method can provide unusually rich evidence about one dimension while leaving another unresolved. Replication across relevant samples, settings, measures, and implementations can reveal whether the observed pattern is robust, conditional, or partly design-specific. These boundaries should be treated as part of the finding rather than as an afterthought.
 ## 4. Relationship to This Chapter
 
 Experimental research begins the Research Designs section and provides the foundation for randomized experiments and comparisons with quasi-experimental, correlational, and observational designs.
@@ -1188,6 +1191,9 @@ Random assignment concerns allocation to experimental conditions. It is distinct
 A randomized experiment assigns participants or units to conditions using a random mechanism so that, under appropriate assumptions, systematic pre-existing differences are less likely to explain outcome differences. Randomization supports causal inference because assignment, rather than participant choice, determines exposure. It does not automatically guarantee balance in small samples, valid measurement, successful implementation, or generalization.
 
 
+
+### Interpretive depth and boundary conditions
+For **Randomized experiment**, the central methodological question is not simply whether the procedure was performed correctly, but what kind of evidence the procedure can generate. Researchers must distinguish the phenomenon being sampled from the conditions created by the design, because recruitment, instructions, measurement timing, participant expectations, researcher presence, and task structure can alter the observed pattern. The design should therefore be evaluated against plausible alternatives and against the intended inferential target. A method can provide unusually rich evidence about one dimension while leaving another unresolved. Replication across relevant samples, settings, measures, and implementations can reveal whether the observed pattern is robust, conditional, or partly design-specific. These boundaries should be treated as part of the finding rather than as an afterthought.
 ## 4. Relationship to This Chapter
 
 Randomized experiment is a specialized form of experimental research. It connects directly to causal inference, internal validity, sampling, statistical power, and selection bias.
@@ -1229,6 +1235,9 @@ A quasi-experiment is a research design that evaluates the effects of an interve
 A quasi-experiment studies causal questions using an intervention or naturally occurring exposure without full random assignment. Designs such as interrupted time series, regression discontinuity, matched comparisons, and difference-in-differences can provide useful causal evidence when their assumptions are credible. Their strength depends on whether competing explanations are adequately controlled.
 
 
+
+### Interpretive depth and boundary conditions
+For **Quasi-experiment**, the central methodological question is not simply whether the procedure was performed correctly, but what kind of evidence the procedure can generate. Researchers must distinguish the phenomenon being sampled from the conditions created by the design, because recruitment, instructions, measurement timing, participant expectations, researcher presence, and task structure can alter the observed pattern. The design should therefore be evaluated against plausible alternatives and against the intended inferential target. A method can provide unusually rich evidence about one dimension while leaving another unresolved. Replication across relevant samples, settings, measures, and implementations can reveal whether the observed pattern is robust, conditional, or partly design-specific. These boundaries should be treated as part of the finding rather than as an afterthought.
 ## 4. Relationship to This Chapter
 
 Quasi-experiment sits between experimental and observational designs and is central to causal inference when randomization is unavailable.
@@ -1270,6 +1279,9 @@ Correlational research is research that measures naturally occurring variation i
 Correlational research measures naturally varying variables and examines their statistical association without experimentally assigning the focal exposure. It can reveal relationships, prediction, population patterns, and hypotheses about mechanisms. Correlation cannot by itself determine whether X causes Y, Y causes X, both arise from another factor, or the relation reflects measurement or selection.
 
 
+
+### Interpretive depth and boundary conditions
+For **Correlational research**, the central methodological question is not simply whether the procedure was performed correctly, but what kind of evidence the procedure can generate. Researchers must distinguish the phenomenon being sampled from the conditions created by the design, because recruitment, instructions, measurement timing, participant expectations, researcher presence, and task structure can alter the observed pattern. The design should therefore be evaluated against plausible alternatives and against the intended inferential target. A method can provide unusually rich evidence about one dimension while leaving another unresolved. Replication across relevant samples, settings, measures, and implementations can reveal whether the observed pattern is robust, conditional, or partly design-specific. These boundaries should be treated as part of the finding rather than as an afterthought.
 ## 4. Relationship to This Chapter
 
 Correlational research contrasts with experimental and quasi-experimental designs and connects directly to correlation, regression, confounding, causal inference, and statistical conclusion validity.
@@ -1311,6 +1323,9 @@ Observational research is research in which investigators systematically observe
 Observational research studies phenomena without assigning the exposure or behavior of interest. It is valuable when manipulation is unethical, impractical, or unnecessary, and when natural behavior is itself the target. Observation can produce strong descriptive evidence but generally requires additional design features for confident causal inference.
 
 
+
+### Interpretive depth and boundary conditions
+For **Observational research**, the central methodological question is not simply whether the procedure was performed correctly, but what kind of evidence the procedure can generate. Researchers must distinguish the phenomenon being sampled from the conditions created by the design, because recruitment, instructions, measurement timing, participant expectations, researcher presence, and task structure can alter the observed pattern. The design should therefore be evaluated against plausible alternatives and against the intended inferential target. A method can provide unusually rich evidence about one dimension while leaving another unresolved. Replication across relevant samples, settings, measures, and implementations can reveal whether the observed pattern is robust, conditional, or partly design-specific. These boundaries should be treated as part of the finding rather than as an afterthought.
 ## 4. Relationship to This Chapter
 
 Observational research provides the broader design family containing several approaches, including naturalistic observation, survey research, longitudinal designs, and other nonexperimental methods.
@@ -1352,6 +1367,9 @@ Naturalistic observation is systematic observation of behavior in a naturally oc
 Naturalistic observation records behavior in settings where it normally occurs, with minimal researcher interference. It can reveal context, frequency, sequences, and naturally occurring variation that laboratory tasks may miss. Its realism comes with reduced control, reactivity concerns, observer effects, and difficulty isolating causes.
 
 
+
+### Interpretive depth and boundary conditions
+For **Naturalistic observation**, the central methodological question is not simply whether the procedure was performed correctly, but what kind of evidence the procedure can generate. Researchers must distinguish the phenomenon being sampled from the conditions created by the design, because recruitment, instructions, measurement timing, participant expectations, researcher presence, and task structure can alter the observed pattern. The design should therefore be evaluated against plausible alternatives and against the intended inferential target. A method can provide unusually rich evidence about one dimension while leaving another unresolved. Replication across relevant samples, settings, measures, and implementations can reveal whether the observed pattern is robust, conditional, or partly design-specific. These boundaries should be treated as part of the finding rather than as an afterthought.
 ## 4. Relationship to This Chapter
 
 Naturalistic observation is a specific form of observational research and provides a bridge between research design and ecological validity.
@@ -1393,6 +1411,9 @@ Survey research is research that collects standardized responses from participan
 Survey research systematically collects self-reported or informant-reported information from respondents using standardized questions. Surveys can efficiently measure attitudes, experiences, behaviors, beliefs, prevalence, and population differences. Their quality depends on sampling, question wording, response processes, missingness, recall, social desirability, and whether respondents can accurately report the target construct.
 
 
+
+### Interpretive depth and boundary conditions
+For **Survey research**, the central methodological question is not simply whether the procedure was performed correctly, but what kind of evidence the procedure can generate. Researchers must distinguish the phenomenon being sampled from the conditions created by the design, because recruitment, instructions, measurement timing, participant expectations, researcher presence, and task structure can alter the observed pattern. The design should therefore be evaluated against plausible alternatives and against the intended inferential target. A method can provide unusually rich evidence about one dimension while leaving another unresolved. Replication across relevant samples, settings, measures, and implementations can reveal whether the observed pattern is robust, conditional, or partly design-specific. These boundaries should be treated as part of the finding rather than as an afterthought.
 ## 4. Relationship to This Chapter
 
 Survey research connects observational research with psychological measurement, sampling, psychometrics, and descriptive statistics.
@@ -1434,6 +1455,9 @@ A case study is an intensive, systematic investigation of a bounded case or smal
 A case study provides intensive analysis of one person, group, organization, event, or bounded case. Its strength is depth: it can preserve temporal sequence, contextual detail, rare phenomena, and complex interactions that large samples may obscure. A single case does not automatically establish population prevalence or causal generality.
 
 
+
+### Interpretive depth and boundary conditions
+For **Case study**, the central methodological question is not simply whether the procedure was performed correctly, but what kind of evidence the procedure can generate. Researchers must distinguish the phenomenon being sampled from the conditions created by the design, because recruitment, instructions, measurement timing, participant expectations, researcher presence, and task structure can alter the observed pattern. The design should therefore be evaluated against plausible alternatives and against the intended inferential target. A method can provide unusually rich evidence about one dimension while leaving another unresolved. Replication across relevant samples, settings, measures, and implementations can reveal whether the observed pattern is robust, conditional, or partly design-specific. These boundaries should be treated as part of the finding rather than as an afterthought.
 ## 4. Relationship to This Chapter
 
 Case study belongs among research designs because it emphasizes depth and context rather than large-sample estimation. It complements survey, experimental, and observational methods.
@@ -1475,6 +1499,9 @@ A longitudinal design is a research design in which measurements are collected f
 A longitudinal design measures the same people, units, or processes across multiple time points. It can distinguish stability from change, examine temporal ordering, and study developmental or cumulative processes. Attrition, repeated-measurement effects, time-varying confounding, and changing measurement properties complicate interpretation.
 
 
+
+### Interpretive depth and boundary conditions
+For **Longitudinal design**, the central methodological question is not simply whether the procedure was performed correctly, but what kind of evidence the procedure can generate. Researchers must distinguish the phenomenon being sampled from the conditions created by the design, because recruitment, instructions, measurement timing, participant expectations, researcher presence, and task structure can alter the observed pattern. The design should therefore be evaluated against plausible alternatives and against the intended inferential target. A method can provide unusually rich evidence about one dimension while leaving another unresolved. Replication across relevant samples, settings, measures, and implementations can reveal whether the observed pattern is robust, conditional, or partly design-specific. These boundaries should be treated as part of the finding rather than as an afterthought.
 ## 4. Relationship to This Chapter
 
 Longitudinal design connects research design to temporal inference, development, change, stability, sampling, attrition, and measurement.
@@ -1516,6 +1543,9 @@ A cross-sectional design collects measurements from individuals or units at one 
 A cross-sectional design measures variables at one point or narrow period in time. It is efficient for describing prevalence, distributions, and associations and can compare groups or conditions. Because temporal ordering is limited, cross-sectional data usually cannot by themselves distinguish developmental change from cohort differences or establish causality.
 
 
+
+### Interpretive depth and boundary conditions
+For **Cross-sectional design**, the central methodological question is not simply whether the procedure was performed correctly, but what kind of evidence the procedure can generate. Researchers must distinguish the phenomenon being sampled from the conditions created by the design, because recruitment, instructions, measurement timing, participant expectations, researcher presence, and task structure can alter the observed pattern. The design should therefore be evaluated against plausible alternatives and against the intended inferential target. A method can provide unusually rich evidence about one dimension while leaving another unresolved. Replication across relevant samples, settings, measures, and implementations can reveal whether the observed pattern is robust, conditional, or partly design-specific. These boundaries should be treated as part of the finding rather than as an afterthought.
 ## 4. Relationship to This Chapter
 
 Cross-sectional design contrasts directly with longitudinal and sequential designs and connects to generalizability, sampling, survey research, and causal inference.
@@ -1556,6 +1586,9 @@ A sequential design is a research design that combines longitudinal and/or cross
 A sequential design combines different longitudinal or cross-sectional structures, often following multiple cohorts across time. It can help separate age, cohort, and period effects and can provide broader developmental information than a single cohort. Interpretation remains dependent on assumptions about comparability and measurement across cohorts and periods.
 
 
+
+### Interpretive depth and boundary conditions
+For **Sequential design**, the central methodological question is not simply whether the procedure was performed correctly, but what kind of evidence the procedure can generate. Researchers must distinguish the phenomenon being sampled from the conditions created by the design, because recruitment, instructions, measurement timing, participant expectations, researcher presence, and task structure can alter the observed pattern. The design should therefore be evaluated against plausible alternatives and against the intended inferential target. A method can provide unusually rich evidence about one dimension while leaving another unresolved. Replication across relevant samples, settings, measures, and implementations can reveal whether the observed pattern is robust, conditional, or partly design-specific. These boundaries should be treated as part of the finding rather than as an afterthought.
 ## 4. Relationship to This Chapter
 
 Sequential design extends longitudinal and cross-sectional designs and provides a more complex framework for studying change and cohort differences.
@@ -1597,6 +1630,9 @@ Experience sampling is a research approach that repeatedly prompts participants 
 Experience sampling repeatedly asks participants to report experiences, states, contexts, or behaviors during ordinary life, often at multiple prompted moments. It captures within-person variation that retrospective averages can miss and can connect states to contemporaneous contexts. Burden, missing observations, reactivity, and sampling schedules affect what can be inferred.
 
 
+
+### Interpretive depth and boundary conditions
+For **Experience sampling**, the central methodological question is not simply whether the procedure was performed correctly, but what kind of evidence the procedure can generate. Researchers must distinguish the phenomenon being sampled from the conditions created by the design, because recruitment, instructions, measurement timing, participant expectations, researcher presence, and task structure can alter the observed pattern. The design should therefore be evaluated against plausible alternatives and against the intended inferential target. A method can provide unusually rich evidence about one dimension while leaving another unresolved. Replication across relevant samples, settings, measures, and implementations can reveal whether the observed pattern is robust, conditional, or partly design-specific. These boundaries should be treated as part of the finding rather than as an afterthought.
 ## 4. Relationship to This Chapter
 
 Experience sampling belongs between longitudinal design and ecological momentary assessment because it operationalizes repeated real-world sampling of psychological experiences.
@@ -1638,6 +1674,9 @@ Ecological momentary assessment is a method of repeatedly assessing participants
 Ecological momentary assessment is intensive repeated assessment of current experiences, behaviors, symptoms, or contexts close to when they occur in participants' natural environments, often using digital prompts. It improves temporal resolution and reduces some retrospective bias but does not automatically establish ecological validity or causality.
 
 
+
+### Interpretive depth and boundary conditions
+For **Ecological momentary assessment**, the central methodological question is not simply whether the procedure was performed correctly, but what kind of evidence the procedure can generate. Researchers must distinguish the phenomenon being sampled from the conditions created by the design, because recruitment, instructions, measurement timing, participant expectations, researcher presence, and task structure can alter the observed pattern. The design should therefore be evaluated against plausible alternatives and against the intended inferential target. A method can provide unusually rich evidence about one dimension while leaving another unresolved. Replication across relevant samples, settings, measures, and implementations can reveal whether the observed pattern is robust, conditional, or partly design-specific. These boundaries should be treated as part of the finding rather than as an afterthought.
 ## 4. Relationship to This Chapter
 
 EMA is closely related to experience sampling and belongs within longitudinal and intensive measurement approaches. It emphasizes ecological context and temporal proximity.
@@ -1679,6 +1718,9 @@ A single-case design is a research design that repeatedly measures an outcome wi
 A single-case design repeatedly measures one individual or unit across controlled phases, allowing within-person comparison of baseline and intervention or condition changes. It is especially useful for individualized intervention research and functional analysis. Its evidence concerns the studied unit and pattern of replication across cases, not automatically population-level effects.
 
 
+
+### Interpretive depth and boundary conditions
+For **Single-case design**, the central methodological question is not simply whether the procedure was performed correctly, but what kind of evidence the procedure can generate. Researchers must distinguish the phenomenon being sampled from the conditions created by the design, because recruitment, instructions, measurement timing, participant expectations, researcher presence, and task structure can alter the observed pattern. The design should therefore be evaluated against plausible alternatives and against the intended inferential target. A method can provide unusually rich evidence about one dimension while leaving another unresolved. Replication across relevant samples, settings, measures, and implementations can reveal whether the observed pattern is robust, conditional, or partly design-specific. These boundaries should be treated as part of the finding rather than as an afterthought.
 ## 4. Relationship to This Chapter
 
 Single-case design provides an intensive alternative to large-group designs and connects experimental logic with individualized longitudinal measurement.
@@ -1720,6 +1762,9 @@ Qualitative research is a family of systematic research approaches that uses non
 Qualitative research investigates meanings, experiences, processes, practices, narratives, or social phenomena using methods such as interviews, focus groups, ethnography, observation, and textual analysis. It can reveal conceptual structure that standardized measures overlook. Rigor depends on sampling logic, reflexivity, analytic transparency, credibility, and fit between method and question.
 
 
+
+### Interpretive depth and boundary conditions
+For **Qualitative research**, the central methodological question is not simply whether the procedure was performed correctly, but what kind of evidence the procedure can generate. Researchers must distinguish the phenomenon being sampled from the conditions created by the design, because recruitment, instructions, measurement timing, participant expectations, researcher presence, and task structure can alter the observed pattern. The design should therefore be evaluated against plausible alternatives and against the intended inferential target. A method can provide unusually rich evidence about one dimension while leaving another unresolved. Replication across relevant samples, settings, measures, and implementations can reveal whether the observed pattern is robust, conditional, or partly design-specific. These boundaries should be treated as part of the finding rather than as an afterthought.
 ## 4. Relationship to This Chapter
 
 Qualitative research broadens the methodological toolkit of psychological science. It complements quantitative designs when meaning, context, process, or poorly understood phenomena require detailed investigation.
@@ -1761,6 +1806,9 @@ Mixed-methods research is research that intentionally combines qualitative and q
 Mixed-methods research intentionally integrates qualitative and quantitative approaches within one research program so that different forms of evidence address complementary aspects of a question. Integration is more than collecting both kinds of data: the methods should inform one another at the design, analysis, interpretation, or inference level. Mixed methods can increase breadth and depth while also increasing complexity.
 
 
+
+### Interpretive depth and boundary conditions
+For **Mixed-methods research**, the central methodological question is not simply whether the procedure was performed correctly, but what kind of evidence the procedure can generate. Researchers must distinguish the phenomenon being sampled from the conditions created by the design, because recruitment, instructions, measurement timing, participant expectations, researcher presence, and task structure can alter the observed pattern. The design should therefore be evaluated against plausible alternatives and against the intended inferential target. A method can provide unusually rich evidence about one dimension while leaving another unresolved. Replication across relevant samples, settings, measures, and implementations can reveal whether the observed pattern is robust, conditional, or partly design-specific. These boundaries should be treated as part of the finding rather than as an afterthought.
 ## 4. Relationship to This Chapter
 
 Mixed-methods research completes the Research Designs section by showing how methodological approaches can be deliberately combined rather than treated as mutually exclusive.
@@ -1803,6 +1851,9 @@ A construct is not identical to any single measure used to assess it.
 A construct is an abstract scientific concept used to represent a theoretically meaningful pattern, capacity, process, state, or individual difference that is not directly observed as a simple physical object. Constructs organize observations and support explanation, but they must be distinguished from their indicators. Anxiety, intelligence, working memory, and self-efficacy can each be represented by multiple measures, none of which automatically exhausts the construct. Construct definition therefore requires conceptual boundaries, expected relations, and evidence about validity.
 
 
+
+### Interpretive depth and boundary conditions
+For **Construct**, interpretation depends on keeping the mathematical or conceptual result separate from the substantive claim attached to it. Researchers should identify the assumptions required for the inference, the variables that remain uncontrolled or imperfectly measured, and the plausible explanations that would generate a similar result. A precise estimate can still answer the wrong question if the construct was poorly operationalized; conversely, an apparently modest statistical result can be scientifically important when it addresses a well-defined mechanism with strong measurement and design. Interpretation should therefore report direction, magnitude, uncertainty, relevant moderators, and inferential limits rather than converting one statistic into a universal conclusion. The same principle protects against both overclaiming and excessive skepticism.
 ## 4. Relationship to This Chapter
 
 Construct is foundational to operational definition, psychological measurement, validity, scale construction, factor analysis, and latent variables.
@@ -1846,6 +1897,9 @@ An operational definition is study-specific and does not automatically become th
 An operational definition specifies how a construct, variable, exposure, or outcome will be observed, manipulated, scored, or measured in a particular study. It connects abstract concepts to empirical procedures. An operationalization is not necessarily the full conceptual meaning of the construct: different valid operations can capture different aspects, and a poor operation can produce misleading conclusions even when the statistical analysis is correct.
 
 
+
+### Interpretive depth and boundary conditions
+For **Operational definition**, interpretation depends on keeping the mathematical or conceptual result separate from the substantive claim attached to it. Researchers should identify the assumptions required for the inference, the variables that remain uncontrolled or imperfectly measured, and the plausible explanations that would generate a similar result. A precise estimate can still answer the wrong question if the construct was poorly operationalized; conversely, an apparently modest statistical result can be scientifically important when it addresses a well-defined mechanism with strong measurement and design. Interpretation should therefore report direction, magnitude, uncertainty, relevant moderators, and inferential limits rather than converting one statistic into a universal conclusion. The same principle protects against both overclaiming and excessive skepticism.
 ## 4. Relationship to This Chapter
 
 Operational definition connects constructs to variables, measurement, manipulation, validity, and reproducibility.
@@ -1887,6 +1941,9 @@ A variable is a measurable attribute or characteristic that can take different v
 A variable is a measurable characteristic that can take different values across observations, people, conditions, or time. Variables can represent observed measurements, coded categories, scores, counts, exposures, outcomes, or other quantities. The same substantive concept can be represented by different variables depending on operationalization, and the inferential role of a variable depends on the research design rather than its name alone.
 
 
+
+### Interpretive depth and boundary conditions
+For **Variable**, interpretation depends on keeping the mathematical or conceptual result separate from the substantive claim attached to it. Researchers should identify the assumptions required for the inference, the variables that remain uncontrolled or imperfectly measured, and the plausible explanations that would generate a similar result. A precise estimate can still answer the wrong question if the construct was poorly operationalized; conversely, an apparently modest statistical result can be scientifically important when it addresses a well-defined mechanism with strong measurement and design. Interpretation should therefore report direction, magnitude, uncertainty, relevant moderators, and inferential limits rather than converting one statistic into a universal conclusion. The same principle protects against both overclaiming and excessive skepticism.
 ## 4. Relationship to This Chapter
 
 Variable is the organizing unit for much of the Variables and Inference section. Independent variable, dependent variable, mediator, moderator, confound, and control variable are specialized roles.
@@ -1930,6 +1987,9 @@ The term does not by itself prove that the variable causes the outcome.
 An independent variable is a variable treated as a predictor, manipulated condition, or explanatory factor in a research design. In a true experiment it is typically manipulated by the researcher; in observational work it may simply be measured. Therefore “independent” does not automatically mean causal or statistically independent. Its inferential meaning comes from the design and assumptions.
 
 
+
+### Interpretive depth and boundary conditions
+For **Independent variable**, interpretation depends on keeping the mathematical or conceptual result separate from the substantive claim attached to it. Researchers should identify the assumptions required for the inference, the variables that remain uncontrolled or imperfectly measured, and the plausible explanations that would generate a similar result. A precise estimate can still answer the wrong question if the construct was poorly operationalized; conversely, an apparently modest statistical result can be scientifically important when it addresses a well-defined mechanism with strong measurement and design. Interpretation should therefore report direction, magnitude, uncertainty, relevant moderators, and inferential limits rather than converting one statistic into a universal conclusion. The same principle protects against both overclaiming and excessive skepticism.
 ## 4. Relationship to This Chapter
 
 Independent variable connects directly to dependent variable, experimental research, causal inference, mediator, moderator, confound, and regression.
@@ -1971,6 +2031,9 @@ A dependent variable is a measured outcome or response whose variation is analyz
 A dependent variable is the outcome or response measured to evaluate whether it differs, changes, or covaries as a function of another variable or condition. It can be behavioral, cognitive, physiological, self-reported, social, or otherwise operationalized. Calling a measure dependent does not establish that another variable caused it; causal interpretation requires an appropriate design.
 
 
+
+### Interpretive depth and boundary conditions
+For **Dependent variable**, interpretation depends on keeping the mathematical or conceptual result separate from the substantive claim attached to it. Researchers should identify the assumptions required for the inference, the variables that remain uncontrolled or imperfectly measured, and the plausible explanations that would generate a similar result. A precise estimate can still answer the wrong question if the construct was poorly operationalized; conversely, an apparently modest statistical result can be scientifically important when it addresses a well-defined mechanism with strong measurement and design. Interpretation should therefore report direction, magnitude, uncertainty, relevant moderators, and inferential limits rather than converting one statistic into a universal conclusion. The same principle protects against both overclaiming and excessive skepticism.
 ## 4. Relationship to This Chapter
 
 Dependent variable complements independent variable and connects to experimental design, causal inference, measurement validity, statistical power, and regression.
@@ -2014,6 +2077,9 @@ A mediation model is a causal hypothesis when the proposed pathway is interprete
 A mediator is a variable or process proposed to account for part of the relationship through which an exposure or predictor is associated with an outcome. Mediation is conceptually about pathways, but a statistical indirect effect does not automatically prove a causal mechanism. Temporal ordering, measurement quality, confounding, and intervention evidence matter when making mechanistic claims.
 
 
+
+### Interpretive depth and boundary conditions
+For **Mediator**, interpretation depends on keeping the mathematical or conceptual result separate from the substantive claim attached to it. Researchers should identify the assumptions required for the inference, the variables that remain uncontrolled or imperfectly measured, and the plausible explanations that would generate a similar result. A precise estimate can still answer the wrong question if the construct was poorly operationalized; conversely, an apparently modest statistical result can be scientifically important when it addresses a well-defined mechanism with strong measurement and design. Interpretation should therefore report direction, magnitude, uncertainty, relevant moderators, and inferential limits rather than converting one statistic into a universal conclusion. The same principle protects against both overclaiming and excessive skepticism.
 ## 4. Relationship to This Chapter
 
 Mediator connects variable roles with causal inference, regression, explanation, and mechanism. It is especially important when researchers seek process explanations.
@@ -2055,6 +2121,9 @@ A moderator is a variable that changes the strength, direction, or form of the r
 A moderator is a variable that changes the strength, direction, or form of a relationship between other variables. Moderation is often represented statistically as an interaction. A moderator can identify boundary conditions, showing that an effect is larger for some people, contexts, or levels of another variable. Statistical moderation does not by itself explain the psychological mechanism producing the difference.
 
 
+
+### Interpretive depth and boundary conditions
+For **Moderator**, interpretation depends on keeping the mathematical or conceptual result separate from the substantive claim attached to it. Researchers should identify the assumptions required for the inference, the variables that remain uncontrolled or imperfectly measured, and the plausible explanations that would generate a similar result. A precise estimate can still answer the wrong question if the construct was poorly operationalized; conversely, an apparently modest statistical result can be scientifically important when it addresses a well-defined mechanism with strong measurement and design. Interpretation should therefore report direction, magnitude, uncertainty, relevant moderators, and inferential limits rather than converting one statistic into a universal conclusion. The same principle protects against both overclaiming and excessive skepticism.
 ## 4. Relationship to This Chapter
 
 Moderator connects directly to boundary conditions, interaction effects, regression, causal inference, and generalizability.
@@ -2096,6 +2165,9 @@ A confound is a variable or causal structure that creates a noncausal associatio
 A confound is a variable or systematic difference that is related to both the focal explanatory factor and the outcome in a way that can create or distort an apparent association. Confounding threatens causal inference because the observed relationship may partly or entirely reflect the third factor. Randomization, design controls, restriction, matching, and appropriate modeling can reduce particular confounding risks.
 
 
+
+### Interpretive depth and boundary conditions
+For **Confound**, interpretation depends on keeping the mathematical or conceptual result separate from the substantive claim attached to it. Researchers should identify the assumptions required for the inference, the variables that remain uncontrolled or imperfectly measured, and the plausible explanations that would generate a similar result. A precise estimate can still answer the wrong question if the construct was poorly operationalized; conversely, an apparently modest statistical result can be scientifically important when it addresses a well-defined mechanism with strong measurement and design. Interpretation should therefore report direction, magnitude, uncertainty, relevant moderators, and inferential limits rather than converting one statistic into a universal conclusion. The same principle protects against both overclaiming and excessive skepticism.
 ## 4. Relationship to This Chapter
 
 Confound is central to causal inference and connects experimental, quasi-experimental, observational, regression, and control-variable concepts.
@@ -2139,6 +2211,9 @@ A control variable is a measured variable that researchers deliberately hold con
 A control variable is a variable included, held constant, adjusted for, stratified, or otherwise accounted for in an analysis or design to address a research objective. Controlling a variable is not automatically beneficial: adjusting for a mediator, collider, or post-treatment variable can introduce bias. The rationale for control should therefore be causal and theoretical, not simply “include everything relevant.”
 
 
+
+### Interpretive depth and boundary conditions
+For **Control variable**, interpretation depends on keeping the mathematical or conceptual result separate from the substantive claim attached to it. Researchers should identify the assumptions required for the inference, the variables that remain uncontrolled or imperfectly measured, and the plausible explanations that would generate a similar result. A precise estimate can still answer the wrong question if the construct was poorly operationalized; conversely, an apparently modest statistical result can be scientifically important when it addresses a well-defined mechanism with strong measurement and design. Interpretation should therefore report direction, magnitude, uncertainty, relevant moderators, and inferential limits rather than converting one statistic into a universal conclusion. The same principle protects against both overclaiming and excessive skepticism.
 ## 4. Relationship to This Chapter
 
 Control variable connects confounding with regression, causal inference, experimental design, and statistical conclusion validity.
@@ -2179,6 +2254,9 @@ Causal inference is the process of using research design, data, assumptions, and
 Causal inference concerns conclusions about whether changing one factor would change an outcome under specified conditions. It requires more than association and depends on a counterfactual or intervention-oriented framework. Randomization can support causal identification, while quasi-experimental and observational methods can support causal claims when strong assumptions are credible. Measurement, temporal ordering, interference, missing data, and treatment definition also matter.
 
 
+
+### Interpretive depth and boundary conditions
+For **Causal inference**, interpretation depends on keeping the mathematical or conceptual result separate from the substantive claim attached to it. Researchers should identify the assumptions required for the inference, the variables that remain uncontrolled or imperfectly measured, and the plausible explanations that would generate a similar result. A precise estimate can still answer the wrong question if the construct was poorly operationalized; conversely, an apparently modest statistical result can be scientifically important when it addresses a well-defined mechanism with strong measurement and design. Interpretation should therefore report direction, magnitude, uncertainty, relevant moderators, and inferential limits rather than converting one statistic into a universal conclusion. The same principle protects against both overclaiming and excessive skepticism.
 ## 4. Relationship to This Chapter
 
 Causal inference integrates experimental and quasi-experimental designs with variables, confounding, internal validity, statistical analysis, and evidence quality.
@@ -2220,6 +2298,9 @@ Internal validity is the degree to which a study supports a credible conclusion 
 Internal validity concerns whether the observed relationship or effect within a study is credibly attributable to the factors the study claims caused it rather than bias, confounding, differential attrition, measurement artifacts, or alternative explanations. High internal validity strengthens causal interpretation within the studied conditions. It does not automatically imply external validity or real-world generalization.
 
 
+
+### Interpretive depth and boundary conditions
+For **Internal validity**, interpretation depends on keeping the mathematical or conceptual result separate from the substantive claim attached to it. Researchers should identify the assumptions required for the inference, the variables that remain uncontrolled or imperfectly measured, and the plausible explanations that would generate a similar result. A precise estimate can still answer the wrong question if the construct was poorly operationalized; conversely, an apparently modest statistical result can be scientifically important when it addresses a well-defined mechanism with strong measurement and design. Interpretation should therefore report direction, magnitude, uncertainty, relevant moderators, and inferential limits rather than converting one statistic into a universal conclusion. The same principle protects against both overclaiming and excessive skepticism.
 ## 4. Relationship to This Chapter
 
 Internal validity belongs beside causal inference and connects to experimental design, confounding, selection bias, measurement validity, and statistical conclusion validity.
@@ -2261,6 +2342,9 @@ External validity is the extent to which a study's conclusions can reasonably be
 External validity concerns the extent to which findings can generalize beyond the study's specific sample, setting, task, intervention, or time. It includes population and contextual generalization. External validity depends on sampling, mechanism stability, implementation, measurement equivalence, and replication. A highly controlled study can have strong internal validity while having limited evidence about transfer.
 
 
+
+### Interpretive depth and boundary conditions
+For **External validity**, interpretation depends on keeping the mathematical or conceptual result separate from the substantive claim attached to it. Researchers should identify the assumptions required for the inference, the variables that remain uncontrolled or imperfectly measured, and the plausible explanations that would generate a similar result. A precise estimate can still answer the wrong question if the construct was poorly operationalized; conversely, an apparently modest statistical result can be scientifically important when it addresses a well-defined mechanism with strong measurement and design. Interpretation should therefore report direction, magnitude, uncertainty, relevant moderators, and inferential limits rather than converting one statistic into a universal conclusion. The same principle protects against both overclaiming and excessive skepticism.
 ## 4. Relationship to This Chapter
 
 External validity connects directly to generalizability, sampling, ecological validity, replication, and contextual moderators.
@@ -2302,6 +2386,9 @@ Ecological validity is the degree to which the conditions, tasks, stimuli, inter
 Ecological validity concerns how well a study's tasks, conditions, stimuli, and interactions resemble or capture psychologically relevant features of ordinary environments. It is not identical to external validity: a laboratory task can generalize through a mechanism without looking realistic, and a realistic task can still have weak causal control. Ecological relevance must be evaluated in relation to the phenomenon and claim.
 
 
+
+### Interpretive depth and boundary conditions
+For **Ecological validity**, interpretation depends on keeping the mathematical or conceptual result separate from the substantive claim attached to it. Researchers should identify the assumptions required for the inference, the variables that remain uncontrolled or imperfectly measured, and the plausible explanations that would generate a similar result. A precise estimate can still answer the wrong question if the construct was poorly operationalized; conversely, an apparently modest statistical result can be scientifically important when it addresses a well-defined mechanism with strong measurement and design. Interpretation should therefore report direction, magnitude, uncertainty, relevant moderators, and inferential limits rather than converting one statistic into a universal conclusion. The same principle protects against both overclaiming and excessive skepticism.
 ## 4. Relationship to This Chapter
 
 Ecological validity complements external validity and connects to naturalistic observation, applied research, experience sampling, and generalizability.
@@ -2343,6 +2430,9 @@ Statistical conclusion validity is the degree to which a study's statistical ana
 Statistical conclusion validity concerns whether the statistical evidence supports the claimed pattern or difference given the data, analysis, assumptions, measurement, and error structure. Low power, unreliable measurement, model misspecification, inappropriate tests, selective analysis, and multiple comparisons can produce false positives or false negatives. Statistical conclusion validity is one component of overall scientific validity, not a guarantee of causal truth.
 
 
+
+### Interpretive depth and boundary conditions
+For **Statistical conclusion validity**, interpretation depends on keeping the mathematical or conceptual result separate from the substantive claim attached to it. Researchers should identify the assumptions required for the inference, the variables that remain uncontrolled or imperfectly measured, and the plausible explanations that would generate a similar result. A precise estimate can still answer the wrong question if the construct was poorly operationalized; conversely, an apparently modest statistical result can be scientifically important when it addresses a well-defined mechanism with strong measurement and design. Interpretation should therefore report direction, magnitude, uncertainty, relevant moderators, and inferential limits rather than converting one statistic into a universal conclusion. The same principle protects against both overclaiming and excessive skepticism.
 ## 4. Relationship to This Chapter
 
 This concept links research design and measurement to statistical power, significance, effect size, confidence intervals, multiple comparisons, and regression.
@@ -2384,6 +2474,9 @@ Construct validity is the degree to which evidence supports the interpretation t
 Construct validity concerns whether the operational measures and manipulations adequately represent the theoretical constructs they are intended to capture. Evidence can include content coverage, convergent and discriminant relations, structural evidence, known-group patterns, experimental responsiveness, and theoretical coherence. A statistically precise effect can still be scientifically weak if the measure does not represent the intended construct.
 
 
+
+### Interpretive depth and boundary conditions
+For **Construct validity**, interpretation depends on keeping the mathematical or conceptual result separate from the substantive claim attached to it. Researchers should identify the assumptions required for the inference, the variables that remain uncontrolled or imperfectly measured, and the plausible explanations that would generate a similar result. A precise estimate can still answer the wrong question if the construct was poorly operationalized; conversely, an apparently modest statistical result can be scientifically important when it addresses a well-defined mechanism with strong measurement and design. Interpretation should therefore report direction, magnitude, uncertainty, relevant moderators, and inferential limits rather than converting one statistic into a universal conclusion. The same principle protects against both overclaiming and excessive skepticism.
 ## 4. Relationship to This Chapter
 
 Construct validity connects constructs, operational definitions, measurement validity, scale construction, factor analysis, and latent variables.
@@ -2425,6 +2518,9 @@ Measurement validity is the degree to which evidence supports the intended inter
 Measurement validity is the degree to which an observed measure supports the intended interpretation and use for a particular construct or decision. It includes questions about what is actually measured, for whom, under what conditions, and with what error. Validity is not a permanent property of a test name; evidence must support the interpretation in the population and context where it is used.
 
 
+
+### Interpretive depth and boundary conditions
+For **Measurement validity**, interpretation depends on keeping the mathematical or conceptual result separate from the substantive claim attached to it. Researchers should identify the assumptions required for the inference, the variables that remain uncontrolled or imperfectly measured, and the plausible explanations that would generate a similar result. A precise estimate can still answer the wrong question if the construct was poorly operationalized; conversely, an apparently modest statistical result can be scientifically important when it addresses a well-defined mechanism with strong measurement and design. Interpretation should therefore report direction, magnitude, uncertainty, relevant moderators, and inferential limits rather than converting one statistic into a universal conclusion. The same principle protects against both overclaiming and excessive skepticism.
 ## 4. Relationship to This Chapter
 
 Measurement validity is the broader measurement concept connecting construct validity with reliability, psychometrics, scale construction, and measurement invariance.
@@ -2466,6 +2562,9 @@ Correlation is a statistical relationship in which variation in one variable is 
 Correlation describes statistical association between variables, commonly summarized by a coefficient indicating direction and strength under a specified model. Correlation can be useful for description, prediction, reliability analysis, and hypothesis generation. It does not identify causal direction or rule out common causes, selection, measurement artifacts, or nonlinear relationships hidden by a particular coefficient.
 
 
+
+### Interpretive depth and boundary conditions
+For **Correlation**, interpretation depends on keeping the mathematical or conceptual result separate from the substantive claim attached to it. Researchers should identify the assumptions required for the inference, the variables that remain uncontrolled or imperfectly measured, and the plausible explanations that would generate a similar result. A precise estimate can still answer the wrong question if the construct was poorly operationalized; conversely, an apparently modest statistical result can be scientifically important when it addresses a well-defined mechanism with strong measurement and design. Interpretation should therefore report direction, magnitude, uncertainty, relevant moderators, and inferential limits rather than converting one statistic into a universal conclusion. The same principle protects against both overclaiming and excessive skepticism.
 ## 4. Relationship to This Chapter
 
 Correlation is the conceptual foundation for correlation coefficients and connects to regression, confounding, causal inference, and the correlation-versus-causation distinction.
@@ -2507,6 +2606,9 @@ Correlation versus causation is the distinction between a statistical associatio
 Correlation versus causation is the distinction between observing systematic association and establishing that changing one variable produces a change in another. Association can arise from causation in either direction, reciprocal influence, common causes, selection, measurement processes, or coincidence. Causal inference therefore requires design or assumptions that address competing explanations rather than statistical association alone.
 
 
+
+### Interpretive depth and boundary conditions
+For **Correlation versus causation**, interpretation depends on keeping the mathematical or conceptual result separate from the substantive claim attached to it. Researchers should identify the assumptions required for the inference, the variables that remain uncontrolled or imperfectly measured, and the plausible explanations that would generate a similar result. A precise estimate can still answer the wrong question if the construct was poorly operationalized; conversely, an apparently modest statistical result can be scientifically important when it addresses a well-defined mechanism with strong measurement and design. Interpretation should therefore report direction, magnitude, uncertainty, relevant moderators, and inferential limits rather than converting one statistic into a universal conclusion. The same principle protects against both overclaiming and excessive skepticism.
 ## 4. Relationship to This Chapter
 
 This Topic closes the Variables and Inference section and connects correlation to confounding, causal inference, research design, internal validity, and statistical analysis.
@@ -2549,6 +2651,9 @@ A population may be finite or conceptual and can be defined by geography, age, d
 A population is the full set of people, cases, events, or units to which a research claim is intended to refer. It can be defined by geography, age, diagnosis, occupation, behavior, time period, or other criteria. Population must be specified before generalization can be evaluated; a sample cannot be representative of an undefined target.
 
 
+
+### Interpretive depth and boundary conditions
+For **Population**, numerical interpretation must remain connected to the data-generating process. Statistical quantities are summaries or model outputs, not independent facts about psychological reality. Their meaning depends on the measurement scale, sampling process, model assumptions, missingness, dependence among observations, and analytic choices. Researchers should examine whether the statistic is sensitive to outliers, restricted range, model misspecification, multiple testing, or measurement error where relevant. Results should also be interpreted alongside effect magnitude and uncertainty rather than through a binary significant/non-significant lens. A statistically correct calculation cannot rescue a biased sample, invalid construct, or inappropriate causal interpretation.
 ## 4. Relationship to This Chapter
 
 Population is the starting point for sample selection, sampling frames, random sampling, sampling bias, and generalizability.
@@ -2590,6 +2695,9 @@ A sample is the set of units selected or included in a study from a defined popu
 A sample is the subset of units actually observed or recruited for a study. Its composition, size, recruitment process, attrition, and measurement determine what can be inferred about a target population. Large samples can still be biased, while smaller samples can be informative for narrowly defined questions when sampling and design are appropriate.
 
 
+
+### Interpretive depth and boundary conditions
+For **Sample**, numerical interpretation must remain connected to the data-generating process. Statistical quantities are summaries or model outputs, not independent facts about psychological reality. Their meaning depends on the measurement scale, sampling process, model assumptions, missingness, dependence among observations, and analytic choices. Researchers should examine whether the statistic is sensitive to outliers, restricted range, model misspecification, multiple testing, or measurement error where relevant. Results should also be interpreted alongside effect magnitude and uncertainty rather than through a binary significant/non-significant lens. A statistically correct calculation cannot rescue a biased sample, invalid construct, or inappropriate causal interpretation.
 ## 4. Relationship to This Chapter
 
 Sample connects population to sampling frame, random sampling, sampling bias, statistical power, and generalizability.
@@ -2631,6 +2739,9 @@ A sampling frame is the operational list, registry, database, procedure, or othe
 A sampling frame is the operational list or procedure identifying units from which a sample can be selected. It may be a registry, membership list, geographic database, panel, clinical system, or other source. A frame can omit relevant members, duplicate units, or systematically overrepresent some groups, creating coverage problems before statistical analysis begins.
 
 
+
+### Interpretive depth and boundary conditions
+For **Sampling frame**, numerical interpretation must remain connected to the data-generating process. Statistical quantities are summaries or model outputs, not independent facts about psychological reality. Their meaning depends on the measurement scale, sampling process, model assumptions, missingness, dependence among observations, and analytic choices. Researchers should examine whether the statistic is sensitive to outliers, restricted range, model misspecification, multiple testing, or measurement error where relevant. Results should also be interpreted alongside effect magnitude and uncertainty rather than through a binary significant/non-significant lens. A statistically correct calculation cannot rescue a biased sample, invalid construct, or inappropriate causal interpretation.
 ## 4. Relationship to This Chapter
 
 Sampling frame connects population definition to random sampling and sampling bias.
@@ -2672,6 +2783,9 @@ Random sampling is a sampling procedure in which selection is governed by a know
 Random sampling selects units using a probability mechanism so that known or estimable selection probabilities support population inference. It differs from random assignment, which allocates participants to experimental conditions. Random sampling can improve representativeness but does not eliminate nonresponse, frame coverage problems, measurement bias, or all forms of sampling error.
 
 
+
+### Interpretive depth and boundary conditions
+For **Random sampling**, numerical interpretation must remain connected to the data-generating process. Statistical quantities are summaries or model outputs, not independent facts about psychological reality. Their meaning depends on the measurement scale, sampling process, model assumptions, missingness, dependence among observations, and analytic choices. Researchers should examine whether the statistic is sensitive to outliers, restricted range, model misspecification, multiple testing, or measurement error where relevant. Results should also be interpreted alongside effect magnitude and uncertainty rather than through a binary significant/non-significant lens. A statistically correct calculation cannot rescue a biased sample, invalid construct, or inappropriate causal interpretation.
 ## 4. Relationship to This Chapter
 
 Random sampling connects population, sample, sampling frame, sampling bias, and generalizability. It is distinct from randomization in experiments.
@@ -2713,6 +2827,9 @@ Sampling bias is systematic distortion in a sample or population estimate caused
 Sampling bias occurs when the process by which observations enter a study systematically differs from the target population in a way relevant to the estimate or relationship of interest. It can arise from convenience recruitment, exclusions, nonresponse, self-selection, or incomplete frames. Bias is about systematic distortion, not simply having a small sample.
 
 
+
+### Interpretive depth and boundary conditions
+For **Sampling bias**, numerical interpretation must remain connected to the data-generating process. Statistical quantities are summaries or model outputs, not independent facts about psychological reality. Their meaning depends on the measurement scale, sampling process, model assumptions, missingness, dependence among observations, and analytic choices. Researchers should examine whether the statistic is sensitive to outliers, restricted range, model misspecification, multiple testing, or measurement error where relevant. Results should also be interpreted alongside effect magnitude and uncertainty rather than through a binary significant/non-significant lens. A statistically correct calculation cannot rescue a biased sample, invalid construct, or inappropriate causal interpretation.
 ## 4. Relationship to This Chapter
 
 Sampling bias connects sample selection with generalizability, selection bias, sampling frames, and external validity.
@@ -2754,6 +2871,9 @@ Selection bias is systematic distortion of an estimated relationship or conclusi
 Selection bias occurs when inclusion, retention, treatment exposure, or availability of observations depends on factors related to the variables or causal pathways being studied, producing distorted comparisons or associations. It can occur before recruitment, through attrition, or through conditioning on a post-exposure variable. Its causal structure matters for deciding how to address it.
 
 
+
+### Interpretive depth and boundary conditions
+For **Selection bias**, numerical interpretation must remain connected to the data-generating process. Statistical quantities are summaries or model outputs, not independent facts about psychological reality. Their meaning depends on the measurement scale, sampling process, model assumptions, missingness, dependence among observations, and analytic choices. Researchers should examine whether the statistic is sensitive to outliers, restricted range, model misspecification, multiple testing, or measurement error where relevant. Results should also be interpreted alongside effect magnitude and uncertainty rather than through a binary significant/non-significant lens. A statistically correct calculation cannot rescue a biased sample, invalid construct, or inappropriate causal interpretation.
 ## 4. Relationship to This Chapter
 
 Selection bias connects sampling bias with causal inference, confounding, attrition, and generalizability.
@@ -2795,6 +2915,9 @@ Descriptive statistics are numerical or graphical methods used to summarize and 
 Descriptive statistics summarize observed data through quantities such as counts, proportions, means, medians, ranges, standard deviations, and graphical displays. They describe the sample or observed dataset; they do not automatically establish population parameters, causal effects, or theoretical explanations. Choice of summary should reflect distribution shape, measurement scale, and research question.
 
 
+
+### Interpretive depth and boundary conditions
+For **Descriptive statistics**, numerical interpretation must remain connected to the data-generating process. Statistical quantities are summaries or model outputs, not independent facts about psychological reality. Their meaning depends on the measurement scale, sampling process, model assumptions, missingness, dependence among observations, and analytic choices. Researchers should examine whether the statistic is sensitive to outliers, restricted range, model misspecification, multiple testing, or measurement error where relevant. Results should also be interpreted alongside effect magnitude and uncertainty rather than through a binary significant/non-significant lens. A statistically correct calculation cannot rescue a biased sample, invalid construct, or inappropriate causal interpretation.
 ## 4. Relationship to This Chapter
 
 Descriptive statistics begin the statistical section and support understanding of central tendency, variability, distribution, and later inferential procedures.
@@ -2836,6 +2959,9 @@ Central tendency is the statistical concept of representing the central or typic
 Central tendency describes a typical or central location of a distribution, commonly using the mean, median, or mode. These statistics answer different questions and behave differently under skew, outliers, and measurement scales. A single center can conceal multimodality or subgroup differences, so interpretation should consider the full distribution and variability.
 
 
+
+### Interpretive depth and boundary conditions
+For **Central tendency**, numerical interpretation must remain connected to the data-generating process. Statistical quantities are summaries or model outputs, not independent facts about psychological reality. Their meaning depends on the measurement scale, sampling process, model assumptions, missingness, dependence among observations, and analytic choices. Researchers should examine whether the statistic is sensitive to outliers, restricted range, model misspecification, multiple testing, or measurement error where relevant. Results should also be interpreted alongside effect magnitude and uncertainty rather than through a binary significant/non-significant lens. A statistically correct calculation cannot rescue a biased sample, invalid construct, or inappropriate causal interpretation.
 ## 4. Relationship to This Chapter
 
 Central tendency is a component of descriptive statistics and must be interpreted alongside variability and distribution.
@@ -2877,6 +3003,9 @@ Variability is the degree to which observations differ from one another or from 
 Variability describes how observations differ from one another. It can be summarized through range, variance, standard deviation, interquartile range, or other measures. Variability is substantive information: it can indicate heterogeneity, measurement noise, subgroup structure, instability, or meaningful individual differences. Reducing data to an average can therefore conceal important variation.
 
 
+
+### Interpretive depth and boundary conditions
+For **Variability**, numerical interpretation must remain connected to the data-generating process. Statistical quantities are summaries or model outputs, not independent facts about psychological reality. Their meaning depends on the measurement scale, sampling process, model assumptions, missingness, dependence among observations, and analytic choices. Researchers should examine whether the statistic is sensitive to outliers, restricted range, model misspecification, multiple testing, or measurement error where relevant. Results should also be interpreted alongside effect magnitude and uncertainty rather than through a binary significant/non-significant lens. A statistically correct calculation cannot rescue a biased sample, invalid construct, or inappropriate causal interpretation.
 ## 4. Relationship to This Chapter
 
 Variability complements central tendency and distribution and influences statistical power and effect estimation.
@@ -2918,6 +3047,9 @@ A distribution is the pattern of frequencies or probabilities across possible va
 A distribution describes how values are arranged across possible levels of a variable, including central location, spread, skew, tails, gaps, and multimodality. Distributional shape affects which summaries and statistical models are appropriate. Psychological data can be non-normal, bounded, ordinal, zero-inflated, or clustered, so normality should not be assumed merely because a familiar test is available.
 
 
+
+### Interpretive depth and boundary conditions
+For **Distribution**, numerical interpretation must remain connected to the data-generating process. Statistical quantities are summaries or model outputs, not independent facts about psychological reality. Their meaning depends on the measurement scale, sampling process, model assumptions, missingness, dependence among observations, and analytic choices. Researchers should examine whether the statistic is sensitive to outliers, restricted range, model misspecification, multiple testing, or measurement error where relevant. Results should also be interpreted alongside effect magnitude and uncertainty rather than through a binary significant/non-significant lens. A statistically correct calculation cannot rescue a biased sample, invalid construct, or inappropriate causal interpretation.
 ## 4. Relationship to This Chapter
 
 Distribution integrates central tendency and variability and provides context for regression, correlation, confidence intervals, and statistical significance.
@@ -2959,6 +3091,9 @@ A correlation coefficient is a numerical statistic that summarizes the direction
 A correlation coefficient is a numerical summary of association between variables under a specified mathematical model. Pearson correlation describes linear association for quantitative variables under relevant assumptions; other coefficients address ranks, binary variables, or nonlinear structures. A coefficient can be influenced by range restriction, outliers, measurement error, and distribution shape and does not itself establish causality.
 
 
+
+### Interpretive depth and boundary conditions
+For **Correlation coefficient**, numerical interpretation must remain connected to the data-generating process. Statistical quantities are summaries or model outputs, not independent facts about psychological reality. Their meaning depends on the measurement scale, sampling process, model assumptions, missingness, dependence among observations, and analytic choices. Researchers should examine whether the statistic is sensitive to outliers, restricted range, model misspecification, multiple testing, or measurement error where relevant. Results should also be interpreted alongside effect magnitude and uncertainty rather than through a binary significant/non-significant lens. A statistically correct calculation cannot rescue a biased sample, invalid construct, or inappropriate causal interpretation.
 ## 4. Relationship to This Chapter
 
 Correlation coefficient operationalizes correlation and connects to regression, descriptive statistics, measurement, and causal inference.
@@ -2999,6 +3134,9 @@ Regression is a family of statistical methods that models the relationship betwe
 Regression models estimate relationships between an outcome and one or more predictors, often for description, prediction, adjustment, or causal analysis under additional assumptions. Coefficients depend on model specification, coding, scale, interactions, missingness, and included variables. Regression can control for measured factors, but statistical adjustment cannot automatically remove unmeasured confounding or justify causal interpretation.
 
 
+
+### Interpretive depth and boundary conditions
+For **Regression**, numerical interpretation must remain connected to the data-generating process. Statistical quantities are summaries or model outputs, not independent facts about psychological reality. Their meaning depends on the measurement scale, sampling process, model assumptions, missingness, dependence among observations, and analytic choices. Researchers should examine whether the statistic is sensitive to outliers, restricted range, model misspecification, multiple testing, or measurement error where relevant. Results should also be interpreted alongside effect magnitude and uncertainty rather than through a binary significant/non-significant lens. A statistically correct calculation cannot rescue a biased sample, invalid construct, or inappropriate causal interpretation.
 ## 4. Relationship to This Chapter
 
 Regression connects correlation and descriptive statistics to multivariable analysis, mediation, moderation, causal inference, statistical significance, and effect estimation.
@@ -3040,6 +3178,9 @@ Statistical power is the probability that a specified statistical procedure will
 Statistical power is the probability that a specified statistical procedure will detect an effect of a particular size under assumed conditions if that effect exists. Power depends on sample size, effect magnitude, variability, measurement reliability, design, significance threshold, and analysis. Low power increases the chance of missing real effects and can make observed significant effects unstable.
 
 
+
+### Interpretive depth and boundary conditions
+For **Statistical power**, numerical interpretation must remain connected to the data-generating process. Statistical quantities are summaries or model outputs, not independent facts about psychological reality. Their meaning depends on the measurement scale, sampling process, model assumptions, missingness, dependence among observations, and analytic choices. Researchers should examine whether the statistic is sensitive to outliers, restricted range, model misspecification, multiple testing, or measurement error where relevant. Results should also be interpreted alongside effect magnitude and uncertainty rather than through a binary significant/non-significant lens. A statistically correct calculation cannot rescue a biased sample, invalid construct, or inappropriate causal interpretation.
 ## 4. Relationship to This Chapter
 
 Power connects sample size, variability, statistical significance, Type II error, measurement reliability, and study design.
@@ -3081,6 +3222,9 @@ A Type I error occurs when a statistical test rejects a null hypothesis that is 
 A Type I error occurs when a statistical test rejects a null hypothesis under the decision rule even though the null is true in the relevant statistical framework. The nominal error rate depends on the procedure and assumptions. Multiple testing, optional stopping, and selective analysis can increase false-positive risk when not appropriately accounted for.
 
 
+
+### Interpretive depth and boundary conditions
+For **Type I error**, numerical interpretation must remain connected to the data-generating process. Statistical quantities are summaries or model outputs, not independent facts about psychological reality. Their meaning depends on the measurement scale, sampling process, model assumptions, missingness, dependence among observations, and analytic choices. Researchers should examine whether the statistic is sensitive to outliers, restricted range, model misspecification, multiple testing, or measurement error where relevant. Results should also be interpreted alongside effect magnitude and uncertainty rather than through a binary significant/non-significant lens. A statistically correct calculation cannot rescue a biased sample, invalid construct, or inappropriate causal interpretation.
 ## 4. Relationship to This Chapter
 
 Type I error connects statistical significance with multiple comparisons, p-hacking, selective reporting, and statistical conclusion validity.
@@ -3122,6 +3266,9 @@ A Type II error occurs when a statistical test fails to reject the null hypothes
 A Type II error occurs when a procedure fails to reject a null hypothesis when a specified alternative effect exists. Its probability is related to statistical power. Failure to obtain significance therefore does not establish absence of an effect; the data may be too imprecise, the effect may be small, measurement may be noisy, or the model may be inappropriate.
 
 
+
+### Interpretive depth and boundary conditions
+For **Type II error**, numerical interpretation must remain connected to the data-generating process. Statistical quantities are summaries or model outputs, not independent facts about psychological reality. Their meaning depends on the measurement scale, sampling process, model assumptions, missingness, dependence among observations, and analytic choices. Researchers should examine whether the statistic is sensitive to outliers, restricted range, model misspecification, multiple testing, or measurement error where relevant. Results should also be interpreted alongside effect magnitude and uncertainty rather than through a binary significant/non-significant lens. A statistically correct calculation cannot rescue a biased sample, invalid construct, or inappropriate causal interpretation.
 ## 4. Relationship to This Chapter
 
 Type II error connects directly to statistical power, significance testing, effect size, and confidence intervals.
@@ -3163,6 +3310,9 @@ A result is statistically significant under a specified testing procedure when t
 Statistical significance indicates that a test statistic is sufficiently incompatible with a specified null model under stated assumptions and threshold. It does not measure effect importance, replication probability, truth, or practical value. A tiny effect can be statistically significant in a large sample, while an important effect can fail to reach significance in a noisy or underpowered study.
 
 
+
+### Interpretive depth and boundary conditions
+For **Statistical significance**, numerical interpretation must remain connected to the data-generating process. Statistical quantities are summaries or model outputs, not independent facts about psychological reality. Their meaning depends on the measurement scale, sampling process, model assumptions, missingness, dependence among observations, and analytic choices. Researchers should examine whether the statistic is sensitive to outliers, restricted range, model misspecification, multiple testing, or measurement error where relevant. Results should also be interpreted alongside effect magnitude and uncertainty rather than through a binary significant/non-significant lens. A statistically correct calculation cannot rescue a biased sample, invalid construct, or inappropriate causal interpretation.
 ## 4. Relationship to This Chapter
 
 Statistical significance connects Type I error, power, effect size, confidence intervals, multiple comparisons, and scientific inference.
@@ -3204,6 +3354,9 @@ Effect size is a quantitative representation of the magnitude of a specified dif
 Effect size quantifies the magnitude of a difference, association, or model relationship using a metric appropriate to the design and scale. It helps distinguish practical magnitude from merely detecting an effect. Interpretation depends on measurement, variability, context, population, and consequences; there is no universal threshold at which an effect becomes important.
 
 
+
+### Interpretive depth and boundary conditions
+For **Effect size**, numerical interpretation must remain connected to the data-generating process. Statistical quantities are summaries or model outputs, not independent facts about psychological reality. Their meaning depends on the measurement scale, sampling process, model assumptions, missingness, dependence among observations, and analytic choices. Researchers should examine whether the statistic is sensitive to outliers, restricted range, model misspecification, multiple testing, or measurement error where relevant. Results should also be interpreted alongside effect magnitude and uncertainty rather than through a binary significant/non-significant lens. A statistically correct calculation cannot rescue a biased sample, invalid construct, or inappropriate causal interpretation.
 ## 4. Relationship to This Chapter
 
 Effect size connects statistical significance, confidence intervals, power, practical significance, and meta-analysis.
@@ -3245,6 +3398,9 @@ A confidence interval is an interval calculated from sample data using a specifi
 A confidence interval is an interval produced by a statistical procedure that, under repeated sampling and its assumptions, has a stated long-run coverage property for the parameter. It communicates estimate precision and is often more informative than a binary significance decision. It should not be interpreted as a probability that the fixed parameter lies inside this particular interval.
 
 
+
+### Interpretive depth and boundary conditions
+For **Confidence interval**, numerical interpretation must remain connected to the data-generating process. Statistical quantities are summaries or model outputs, not independent facts about psychological reality. Their meaning depends on the measurement scale, sampling process, model assumptions, missingness, dependence among observations, and analytic choices. Researchers should examine whether the statistic is sensitive to outliers, restricted range, model misspecification, multiple testing, or measurement error where relevant. Results should also be interpreted alongside effect magnitude and uncertainty rather than through a binary significant/non-significant lens. A statistically correct calculation cannot rescue a biased sample, invalid construct, or inappropriate causal interpretation.
 ## 4. Relationship to This Chapter
 
 Confidence intervals complement effect size and statistical significance and contribute to scientific inference and practical interpretation.
@@ -3286,6 +3442,9 @@ Multiple comparisons refers to a research situation in which several statistical
 Multiple comparisons occur when many hypotheses, outcomes, groups, time points, or analytic choices are tested. Testing many possibilities increases the opportunity for chance findings unless the inferential procedure accounts for multiplicity or the exploratory nature is made explicit. Corrections and prespecification can reduce false-positive risk, but they involve trade-offs in power and interpretation.
 
 
+
+### Interpretive depth and boundary conditions
+For **Multiple comparisons**, numerical interpretation must remain connected to the data-generating process. Statistical quantities are summaries or model outputs, not independent facts about psychological reality. Their meaning depends on the measurement scale, sampling process, model assumptions, missingness, dependence among observations, and analytic choices. Researchers should examine whether the statistic is sensitive to outliers, restricted range, model misspecification, multiple testing, or measurement error where relevant. Results should also be interpreted alongside effect magnitude and uncertainty rather than through a binary significant/non-significant lens. A statistically correct calculation cannot rescue a biased sample, invalid construct, or inappropriate causal interpretation.
 ## 4. Relationship to This Chapter
 
 Multiple comparisons connects statistical significance and Type I error with researcher degrees of freedom, p-hacking, and selective reporting.
@@ -3327,6 +3486,9 @@ Bayesian reasoning is an inferential approach that combines prior information wi
 Bayesian reasoning updates beliefs or probability distributions about hypotheses or parameters using prior information and observed data through Bayes' rule. It makes assumptions about priors and likelihoods explicit and can provide direct probabilistic statements about parameters within the model. Bayesian results remain model-dependent and should not be treated as assumption-free alternatives to frequentist methods.
 
 
+
+### Interpretive depth and boundary conditions
+For **Bayesian reasoning**, numerical interpretation must remain connected to the data-generating process. Statistical quantities are summaries or model outputs, not independent facts about psychological reality. Their meaning depends on the measurement scale, sampling process, model assumptions, missingness, dependence among observations, and analytic choices. Researchers should examine whether the statistic is sensitive to outliers, restricted range, model misspecification, multiple testing, or measurement error where relevant. Results should also be interpreted alongside effect magnitude and uncertainty rather than through a binary significant/non-significant lens. A statistically correct calculation cannot rescue a biased sample, invalid construct, or inappropriate causal interpretation.
 ## 4. Relationship to This Chapter
 
 Bayesian reasoning belongs among statistical inference approaches and contrasts with, while can also complement, frequentist methods.
@@ -3368,6 +3530,9 @@ Practical significance is the degree to which a difference, association, or effe
 Practical significance concerns whether the magnitude of a finding matters for real decisions, functioning, costs, benefits, risks, or meaningful outcomes. It differs from statistical significance. A practically important effect may be difficult to detect with limited data, while a statistically precise effect may be too small to matter. Meaningfulness depends on context, stakeholders, baseline rates, alternatives, and consequences.
 
 
+
+### Interpretive depth and boundary conditions
+For **Practical significance**, numerical interpretation must remain connected to the data-generating process. Statistical quantities are summaries or model outputs, not independent facts about psychological reality. Their meaning depends on the measurement scale, sampling process, model assumptions, missingness, dependence among observations, and analytic choices. Researchers should examine whether the statistic is sensitive to outliers, restricted range, model misspecification, multiple testing, or measurement error where relevant. Results should also be interpreted alongside effect magnitude and uncertainty rather than through a binary significant/non-significant lens. A statistically correct calculation cannot rescue a biased sample, invalid construct, or inappropriate causal interpretation.
 ## 4. Relationship to This Chapter
 
 Practical significance closes the Sampling and Statistics section by linking statistical evidence to real-world interpretation without collapsing the two.
@@ -3408,6 +3573,9 @@ Psychological measurement is the systematic process of assigning values, categor
 Psychological measurement assigns values to observations, responses, performances, or indicators according to a defined measurement procedure so that a psychological attribute can be described or compared. Because many psychological constructs are latent or context-dependent, measurement requires operational definitions, appropriate scales, reliability evidence, validity evidence, and attention to response processes.
 
 
+
+### Interpretive depth and boundary conditions
+For **Psychological measurement**, measurement evidence must be interpreted in relation to the intended population, construct, and use. A score is an observed result whose psychological meaning depends on the measurement model and supporting validity evidence. Properties established in one sample, language, age group, culture, administration mode, or purpose may not transfer unchanged to another. Researchers should distinguish reliability from validity, observed scores from latent interpretations, and statistical structure from substantive psychological reality. Measurement development is therefore iterative: item behavior, response processes, dimensional structure, error, and external relationships can all reveal limitations. Strong psychometric practice states not only what a measure can capture but also what it cannot justify.
 ## 4. Relationship to This Chapter
 
 Psychological measurement introduces the Psychometrics section and connects directly to reliability, validity, scale construction, item analysis, factor analysis, latent variables, and measurement invariance.
@@ -3451,6 +3619,9 @@ Reliability is not one universal property; different forms address different sou
 Reliability concerns the consistency or precision of measurement under specified conditions. It can involve stability across time, consistency among items, agreement among raters, or precision within a measurement model. Reliability is necessary but not sufficient for validity: a measure can consistently capture the wrong construct.
 
 
+
+### Interpretive depth and boundary conditions
+For **Reliability**, measurement evidence must be interpreted in relation to the intended population, construct, and use. A score is an observed result whose psychological meaning depends on the measurement model and supporting validity evidence. Properties established in one sample, language, age group, culture, administration mode, or purpose may not transfer unchanged to another. Researchers should distinguish reliability from validity, observed scores from latent interpretations, and statistical structure from substantive psychological reality. Measurement development is therefore iterative: item behavior, response processes, dimensional structure, error, and external relationships can all reveal limitations. Strong psychometric practice states not only what a measure can capture but also what it cannot justify.
 ## 4. Relationship to This Chapter
 
 Reliability is the umbrella psychometric concept for test–retest reliability, internal consistency, inter-rater reliability, and measurement error.
@@ -3492,6 +3663,9 @@ Test–retest reliability is the degree of consistency between measurements obta
 Test–retest reliability concerns the consistency of scores when the same measure is administered to the same or comparable individuals on multiple occasions. It is meaningful when the construct is expected to remain sufficiently stable during the interval. Low stability can reflect measurement error, true change, memory or practice effects, or context dependence rather than a simple failure of the test.
 
 
+
+### Interpretive depth and boundary conditions
+For **Test–retest reliability**, measurement evidence must be interpreted in relation to the intended population, construct, and use. A score is an observed result whose psychological meaning depends on the measurement model and supporting validity evidence. Properties established in one sample, language, age group, culture, administration mode, or purpose may not transfer unchanged to another. Researchers should distinguish reliability from validity, observed scores from latent interpretations, and statistical structure from substantive psychological reality. Measurement development is therefore iterative: item behavior, response processes, dimensional structure, error, and external relationships can all reveal limitations. Strong psychometric practice states not only what a measure can capture but also what it cannot justify.
 ## 4. Relationship to This Chapter
 
 Test–retest reliability is a specific form of reliability and connects to psychological measurement and measurement error.
@@ -3533,6 +3707,9 @@ Internal consistency is the degree to which items within a measurement instrumen
 Internal consistency concerns the degree to which items intended to measure a common construct show consistent relationships with one another. It can be summarized with coefficients such as alpha or omega, but a high coefficient does not prove unidimensionality or validity. Redundant items can increase consistency while narrowing content coverage.
 
 
+
+### Interpretive depth and boundary conditions
+For **Internal consistency**, measurement evidence must be interpreted in relation to the intended population, construct, and use. A score is an observed result whose psychological meaning depends on the measurement model and supporting validity evidence. Properties established in one sample, language, age group, culture, administration mode, or purpose may not transfer unchanged to another. Researchers should distinguish reliability from validity, observed scores from latent interpretations, and statistical structure from substantive psychological reality. Measurement development is therefore iterative: item behavior, response processes, dimensional structure, error, and external relationships can all reveal limitations. Strong psychometric practice states not only what a measure can capture but also what it cannot justify.
 ## 4. Relationship to This Chapter
 
 Internal consistency belongs under reliability and connects to scale construction, item analysis, and factor analysis.
@@ -3574,6 +3751,9 @@ Inter-rater reliability is the degree to which independent raters produce consis
 Inter-rater reliability concerns the degree to which different observers, coders, or evaluators produce sufficiently consistent judgments when assessing the same material. It matters when measurement depends on human coding or interpretation. Agreement statistics should match the data type and distinguish agreement from correlation when relevant.
 
 
+
+### Interpretive depth and boundary conditions
+For **Inter-rater reliability**, measurement evidence must be interpreted in relation to the intended population, construct, and use. A score is an observed result whose psychological meaning depends on the measurement model and supporting validity evidence. Properties established in one sample, language, age group, culture, administration mode, or purpose may not transfer unchanged to another. Researchers should distinguish reliability from validity, observed scores from latent interpretations, and statistical structure from substantive psychological reality. Measurement development is therefore iterative: item behavior, response processes, dimensional structure, error, and external relationships can all reveal limitations. Strong psychometric practice states not only what a measure can capture but also what it cannot justify.
 ## 4. Relationship to This Chapter
 
 Inter-rater reliability connects psychological measurement with observational research, qualitative coding, assessment, and measurement error.
@@ -3615,6 +3795,9 @@ Measurement error is the portion of an observed measurement that does not repres
 Measurement error is the difference between an observed measurement and the value that would be obtained under an idealized error-free representation of the intended target. Error can be random or systematic and can arise from instruments, raters, respondents, context, sampling of items, timing, or scoring. Error reduces precision and can distort relationships.
 
 
+
+### Interpretive depth and boundary conditions
+For **Measurement error**, measurement evidence must be interpreted in relation to the intended population, construct, and use. A score is an observed result whose psychological meaning depends on the measurement model and supporting validity evidence. Properties established in one sample, language, age group, culture, administration mode, or purpose may not transfer unchanged to another. Researchers should distinguish reliability from validity, observed scores from latent interpretations, and statistical structure from substantive psychological reality. Measurement development is therefore iterative: item behavior, response processes, dimensional structure, error, and external relationships can all reveal limitations. Strong psychometric practice states not only what a measure can capture but also what it cannot justify.
 ## 4. Relationship to This Chapter
 
 Measurement error links reliability to validity, effect estimation, statistical power, and psychometric models.
@@ -3656,6 +3839,9 @@ Validity is the degree to which available evidence supports the intended interpr
 Validity concerns the degree to which evidence and theory support the interpretation and use of measurement results for a specified purpose. It is not a permanent property of a test itself. Validity evidence can concern content, response processes, internal structure, relations with other variables, and consequences of use. A reliable measure can still have poor validity for a particular interpretation.
 
 
+
+### Interpretive depth and boundary conditions
+For **Validity**, measurement evidence must be interpreted in relation to the intended population, construct, and use. A score is an observed result whose psychological meaning depends on the measurement model and supporting validity evidence. Properties established in one sample, language, age group, culture, administration mode, or purpose may not transfer unchanged to another. Researchers should distinguish reliability from validity, observed scores from latent interpretations, and statistical structure from substantive psychological reality. Measurement development is therefore iterative: item behavior, response processes, dimensional structure, error, and external relationships can all reveal limitations. Strong psychometric practice states not only what a measure can capture but also what it cannot justify.
 ## 4. Relationship to This Chapter
 
 Validity is the broad psychometric concept connecting construct validity and measurement validity with reliability, scale construction, item analysis, and measurement invariance.
@@ -3697,6 +3883,9 @@ Scale construction is the process of designing, selecting, evaluating, and scori
 Scale construction is the process of designing a set of items or indicators intended to represent a construct and produce interpretable scores. It includes defining the construct, sampling content, writing items, piloting, analyzing structure and discrimination, evaluating reliability and validity, and revising. Scale construction involves trade-offs between breadth, specificity, redundancy, respondent burden, and interpretability.
 
 
+
+### Interpretive depth and boundary conditions
+For **Scale construction**, measurement evidence must be interpreted in relation to the intended population, construct, and use. A score is an observed result whose psychological meaning depends on the measurement model and supporting validity evidence. Properties established in one sample, language, age group, culture, administration mode, or purpose may not transfer unchanged to another. Researchers should distinguish reliability from validity, observed scores from latent interpretations, and statistical structure from substantive psychological reality. Measurement development is therefore iterative: item behavior, response processes, dimensional structure, error, and external relationships can all reveal limitations. Strong psychometric practice states not only what a measure can capture but also what it cannot justify.
 ## 4. Relationship to This Chapter
 
 Scale construction connects psychological measurement with internal consistency, item analysis, factor analysis, validity, and latent variables.
@@ -3738,6 +3927,9 @@ Item analysis is the systematic examination of the statistical, substantive, and
 Item analysis examines how individual test or questionnaire items behave, including difficulty, discrimination, endorsement, missingness, response distributions, and relationships with total scores or latent dimensions. It can identify poorly functioning or redundant items. Item statistics should be interpreted in relation to the construct and intended use rather than optimized mechanically.
 
 
+
+### Interpretive depth and boundary conditions
+For **Item analysis**, measurement evidence must be interpreted in relation to the intended population, construct, and use. A score is an observed result whose psychological meaning depends on the measurement model and supporting validity evidence. Properties established in one sample, language, age group, culture, administration mode, or purpose may not transfer unchanged to another. Researchers should distinguish reliability from validity, observed scores from latent interpretations, and statistical structure from substantive psychological reality. Measurement development is therefore iterative: item behavior, response processes, dimensional structure, error, and external relationships can all reveal limitations. Strong psychometric practice states not only what a measure can capture but also what it cannot justify.
 ## 4. Relationship to This Chapter
 
 Item analysis connects scale construction, reliability, validity, and item response theory.
@@ -3779,6 +3971,9 @@ A norm-referenced assessment interprets performance by comparing an individual's
 Norm-referenced assessment interprets an individual's score relative to the distribution of scores in a reference group. It answers questions such as how a person's performance compares with peers rather than whether a predefined criterion has been met. Interpretation depends on the quality, relevance, recency, and measurement equivalence of the normative sample.
 
 
+
+### Interpretive depth and boundary conditions
+For **Norm-referenced assessment**, measurement evidence must be interpreted in relation to the intended population, construct, and use. A score is an observed result whose psychological meaning depends on the measurement model and supporting validity evidence. Properties established in one sample, language, age group, culture, administration mode, or purpose may not transfer unchanged to another. Researchers should distinguish reliability from validity, observed scores from latent interpretations, and statistical structure from substantive psychological reality. Measurement development is therefore iterative: item behavior, response processes, dimensional structure, error, and external relationships can all reveal limitations. Strong psychometric practice states not only what a measure can capture but also what it cannot justify.
 ## 4. Relationship to This Chapter
 
 Norm-referenced assessment connects to standard scores, percentiles, psychological measurement, validity, and criterion-referenced assessment.
@@ -3820,6 +4015,9 @@ A criterion-referenced assessment evaluates performance in relation to a defined
 Criterion-referenced assessment interprets performance relative to a defined standard, competency, cutoff, or performance criterion rather than relative rank within a norm group. It is useful when the question concerns mastery or qualification. The quality of interpretation depends on how the criterion was defined, validated, and linked to meaningful performance.
 
 
+
+### Interpretive depth and boundary conditions
+For **Criterion-referenced assessment**, measurement evidence must be interpreted in relation to the intended population, construct, and use. A score is an observed result whose psychological meaning depends on the measurement model and supporting validity evidence. Properties established in one sample, language, age group, culture, administration mode, or purpose may not transfer unchanged to another. Researchers should distinguish reliability from validity, observed scores from latent interpretations, and statistical structure from substantive psychological reality. Measurement development is therefore iterative: item behavior, response processes, dimensional structure, error, and external relationships can all reveal limitations. Strong psychometric practice states not only what a measure can capture but also what it cannot justify.
 ## 4. Relationship to This Chapter
 
 Criterion-referenced assessment contrasts with norm-referenced assessment and connects to measurement validity, standard setting, and score interpretation.
@@ -3861,6 +4059,9 @@ A standard score is a transformed score that expresses an individual's position 
 Standard scores transform raw scores into a common metric based on a reference distribution, often expressing distance from a mean in standard-deviation units. They facilitate comparison across measures with different raw scales. A standard score remains dependent on the reference distribution and does not by itself indicate absolute competence or practical importance.
 
 
+
+### Interpretive depth and boundary conditions
+For **Standard scores**, measurement evidence must be interpreted in relation to the intended population, construct, and use. A score is an observed result whose psychological meaning depends on the measurement model and supporting validity evidence. Properties established in one sample, language, age group, culture, administration mode, or purpose may not transfer unchanged to another. Researchers should distinguish reliability from validity, observed scores from latent interpretations, and statistical structure from substantive psychological reality. Measurement development is therefore iterative: item behavior, response processes, dimensional structure, error, and external relationships can all reveal limitations. Strong psychometric practice states not only what a measure can capture but also what it cannot justify.
 ## 4. Relationship to This Chapter
 
 Standard scores support norm-referenced assessment and connect to percentiles and psychological measurement.
@@ -3904,6 +4105,9 @@ A percentile rank is not the same as a percentage correct.
 A percentile indicates the percentage of observations in a reference distribution that fall at or below a given score under the specified calculation. Percentiles are intuitive for rank interpretation but are not equal-interval units: a change of ten percentile points does not represent the same raw-score change everywhere in the distribution. Percentiles also depend on the normative reference.
 
 
+
+### Interpretive depth and boundary conditions
+For **Percentiles**, measurement evidence must be interpreted in relation to the intended population, construct, and use. A score is an observed result whose psychological meaning depends on the measurement model and supporting validity evidence. Properties established in one sample, language, age group, culture, administration mode, or purpose may not transfer unchanged to another. Researchers should distinguish reliability from validity, observed scores from latent interpretations, and statistical structure from substantive psychological reality. Measurement development is therefore iterative: item behavior, response processes, dimensional structure, error, and external relationships can all reveal limitations. Strong psychometric practice states not only what a measure can capture but also what it cannot justify.
 ## 4. Relationship to This Chapter
 
 Percentiles support norm-referenced assessment and complement standard scores.
@@ -3945,6 +4149,9 @@ Psychometrics is the scientific study of psychological measurement and assessmen
 Psychometrics is the scientific study of psychological measurement, including reliability, validity, scaling, latent structure, item functioning, score interpretation, and measurement error. It provides models and methods for connecting observed responses to psychological constructs. Psychometric quality is not simply a property of a questionnaire; it depends on population, purpose, administration, scoring, and interpretation.
 
 
+
+### Interpretive depth and boundary conditions
+For **Psychometrics**, measurement evidence must be interpreted in relation to the intended population, construct, and use. A score is an observed result whose psychological meaning depends on the measurement model and supporting validity evidence. Properties established in one sample, language, age group, culture, administration mode, or purpose may not transfer unchanged to another. Researchers should distinguish reliability from validity, observed scores from latent interpretations, and statistical structure from substantive psychological reality. Measurement development is therefore iterative: item behavior, response processes, dimensional structure, error, and external relationships can all reveal limitations. Strong psychometric practice states not only what a measure can capture but also what it cannot justify.
 ## 4. Relationship to This Chapter
 
 Psychometrics is the umbrella Topic for the measurement concepts from 1.2.76 through 1.2.94. It organizes reliability, validity, scale construction, item analysis, score interpretation, and measurement models.
@@ -3986,6 +4193,9 @@ Classical test theory is a psychometric framework that represents an observed sc
 Classical test theory models an observed score as a true-score component plus measurement error. It provides a framework for reliability, error, score variance, and related test properties. Its simplicity is useful, but many parameters depend on the sample and test form, and the framework does not by itself solve questions about item-level functioning or measurement invariance.
 
 
+
+### Interpretive depth and boundary conditions
+For **Classical test theory**, measurement evidence must be interpreted in relation to the intended population, construct, and use. A score is an observed result whose psychological meaning depends on the measurement model and supporting validity evidence. Properties established in one sample, language, age group, culture, administration mode, or purpose may not transfer unchanged to another. Researchers should distinguish reliability from validity, observed scores from latent interpretations, and statistical structure from substantive psychological reality. Measurement development is therefore iterative: item behavior, response processes, dimensional structure, error, and external relationships can all reveal limitations. Strong psychometric practice states not only what a measure can capture but also what it cannot justify.
 ## 4. Relationship to This Chapter
 
 Classical test theory provides one foundation for reliability and measurement error and contrasts conceptually with item response theory.
@@ -4027,6 +4237,9 @@ Item response theory, or IRT, is a family of psychometric models that relates re
 Item response theory models the probability of a response as a function of a person's latent level and item characteristics such as difficulty, discrimination, or category thresholds. It can provide item-level information and support adaptive testing and more flexible score interpretation. Models require assumptions, adequate data, and appropriate fit; latent parameters are not assumption-free measurements.
 
 
+
+### Interpretive depth and boundary conditions
+For **Item response theory**, measurement evidence must be interpreted in relation to the intended population, construct, and use. A score is an observed result whose psychological meaning depends on the measurement model and supporting validity evidence. Properties established in one sample, language, age group, culture, administration mode, or purpose may not transfer unchanged to another. Researchers should distinguish reliability from validity, observed scores from latent interpretations, and statistical structure from substantive psychological reality. Measurement development is therefore iterative: item behavior, response processes, dimensional structure, error, and external relationships can all reveal limitations. Strong psychometric practice states not only what a measure can capture but also what it cannot justify.
 ## 4. Relationship to This Chapter
 
 IRT extends item analysis and contrasts with classical test theory while sharing the broader goal of defensible psychological measurement.
@@ -4068,6 +4281,9 @@ Factor analysis is a family of statistical methods used to model relationships a
 Factor analysis models patterns of covariance among observed variables in terms of a smaller number of latent dimensions or common factors, depending on the model. Exploratory approaches investigate plausible structure, while confirmatory approaches test specified structures. Factor solutions depend on extraction, rotation, model assumptions, sample, item properties, and identification, so a factor is not automatically a psychological entity.
 
 
+
+### Interpretive depth and boundary conditions
+For **Factor analysis**, measurement evidence must be interpreted in relation to the intended population, construct, and use. A score is an observed result whose psychological meaning depends on the measurement model and supporting validity evidence. Properties established in one sample, language, age group, culture, administration mode, or purpose may not transfer unchanged to another. Researchers should distinguish reliability from validity, observed scores from latent interpretations, and statistical structure from substantive psychological reality. Measurement development is therefore iterative: item behavior, response processes, dimensional structure, error, and external relationships can all reveal limitations. Strong psychometric practice states not only what a measure can capture but also what it cannot justify.
 ## 4. Relationship to This Chapter
 
 Factor analysis connects scale construction, item analysis, latent variables, validity, and measurement invariance.
@@ -4109,6 +4325,9 @@ A latent variable is an unobserved theoretical or statistical variable inferred 
 Latent variables are theoretical or statistical variables inferred from patterns among observed indicators rather than measured directly as a single observation. They can represent common variance or hypothesized constructs. Latent-variable models can reduce some measurement error and represent complex relations, but the latent variable remains model-dependent and should not be reified as a directly observed object.
 
 
+
+### Interpretive depth and boundary conditions
+For **Latent variables**, measurement evidence must be interpreted in relation to the intended population, construct, and use. A score is an observed result whose psychological meaning depends on the measurement model and supporting validity evidence. Properties established in one sample, language, age group, culture, administration mode, or purpose may not transfer unchanged to another. Researchers should distinguish reliability from validity, observed scores from latent interpretations, and statistical structure from substantive psychological reality. Measurement development is therefore iterative: item behavior, response processes, dimensional structure, error, and external relationships can all reveal limitations. Strong psychometric practice states not only what a measure can capture but also what it cannot justify.
 ## 4. Relationship to This Chapter
 
 Latent variables connect factor analysis, IRT, psychometrics, constructs, scale construction, and measurement validity.
@@ -4150,6 +4369,9 @@ Measurement invariance is the property that a measurement model or instrument re
 Measurement invariance concerns whether a measure functions comparably across groups, contexts, or time so that observed score differences can be interpreted as differences in the intended construct rather than changes in measurement. Different levels of invariance address increasingly strong forms of comparability. Without adequate invariance, group comparisons or longitudinal change can be misleading.
 
 
+
+### Interpretive depth and boundary conditions
+For **Measurement invariance**, measurement evidence must be interpreted in relation to the intended population, construct, and use. A score is an observed result whose psychological meaning depends on the measurement model and supporting validity evidence. Properties established in one sample, language, age group, culture, administration mode, or purpose may not transfer unchanged to another. Researchers should distinguish reliability from validity, observed scores from latent interpretations, and statistical structure from substantive psychological reality. Measurement development is therefore iterative: item behavior, response processes, dimensional structure, error, and external relationships can all reveal limitations. Strong psychometric practice states not only what a measure can capture but also what it cannot justify.
 ## 4. Relationship to This Chapter
 
 Measurement invariance closes the Psychometrics section by connecting validity, latent variables, longitudinal design, and cross-group comparison.
@@ -4190,6 +4412,9 @@ Preregistration is the public or otherwise time-stamped specification of researc
 Preregistration records specified research questions, hypotheses, outcomes, analyses, or design decisions before researchers inspect the relevant outcome data, creating a timestamped distinction between planned and later exploratory decisions. It can reduce undisclosed flexibility and hindsight reinterpretation. It does not guarantee good science, because a poorly designed preregistration can remain poorly designed and justified deviations can sometimes be scientifically appropriate.
 
 
+
+### Interpretive depth and boundary conditions
+For **Preregistration**, the relevant safeguard should be understood as part of a broader research system rather than as a checkbox. Ethical and open-science practices operate under real constraints involving scientific validity, participant autonomy, privacy, security, fairness, feasibility, and institutional oversight. A safeguard can reduce one risk while creating another if applied mechanically. Researchers should therefore identify the specific problem being addressed, the alternative practices available, the residual uncertainty, and the conditions under which the safeguard is appropriate. Transparency is valuable when it permits meaningful scrutiny; confidentiality and privacy can appropriately limit disclosure when participant protection requires it. Ethical rigor and scientific rigor both depend on explicit reasoning about consequences and limitations.
 ## 4. Relationship to This Chapter
 
 Preregistration connects directly to researcher degrees of freedom, HARKing, p-hacking, selective reporting, and open science.
@@ -4231,6 +4456,9 @@ A registered report is a publication format in which a research proposal is peer
 Registered reports are a publication format in which a study's rationale, hypotheses, methods, and analysis plan are peer reviewed before the results are known, with publication commitment contingent on meeting agreed standards rather than on obtaining a preferred result. They separate evaluation of research quality from outcome novelty and can reduce publication bias and outcome-driven methodological changes.
 
 
+
+### Interpretive depth and boundary conditions
+For **Registered reports**, the relevant safeguard should be understood as part of a broader research system rather than as a checkbox. Ethical and open-science practices operate under real constraints involving scientific validity, participant autonomy, privacy, security, fairness, feasibility, and institutional oversight. A safeguard can reduce one risk while creating another if applied mechanically. Researchers should therefore identify the specific problem being addressed, the alternative practices available, the residual uncertainty, and the conditions under which the safeguard is appropriate. Transparency is valuable when it permits meaningful scrutiny; confidentiality and privacy can appropriately limit disclosure when participant protection requires it. Ethical rigor and scientific rigor both depend on explicit reasoning about consequences and limitations.
 ## 4. Relationship to This Chapter
 
 Registered reports build on preregistration and address researcher degrees of freedom, selective reporting, and publication bias.
@@ -4272,6 +4500,9 @@ Researcher degrees of freedom are the choices available to researchers concernin
 Researcher degrees of freedom are the legitimate or flexible choices researchers can make about sampling, exclusions, measurement, coding, analysis, stopping, and reporting. Flexibility is often necessary, but undisclosed flexibility can increase the chance that a preferred pattern is selected from many possibilities. Transparency and prespecification where appropriate make these choices visible.
 
 
+
+### Interpretive depth and boundary conditions
+For **Researcher degrees of freedom**, the relevant safeguard should be understood as part of a broader research system rather than as a checkbox. Ethical and open-science practices operate under real constraints involving scientific validity, participant autonomy, privacy, security, fairness, feasibility, and institutional oversight. A safeguard can reduce one risk while creating another if applied mechanically. Researchers should therefore identify the specific problem being addressed, the alternative practices available, the residual uncertainty, and the conditions under which the safeguard is appropriate. Transparency is valuable when it permits meaningful scrutiny; confidentiality and privacy can appropriately limit disclosure when participant protection requires it. Ethical rigor and scientific rigor both depend on explicit reasoning about consequences and limitations.
 ## 4. Relationship to This Chapter
 
 This Topic links open-science practices with p-hacking, HARKing, selective reporting, and preregistration.
@@ -4313,6 +4544,9 @@ P-hacking is the use of data-analysis flexibility, repeated testing, selective s
 P-hacking refers to analytic or data-collection practices that exploit researcher flexibility to obtain or retain statistically significant results, intentionally or unintentionally. Examples can include trying many analyses, selectively excluding observations, optional stopping, or choosing outcomes after inspecting results. The core problem is that the reported error rate no longer matches the apparent testing procedure.
 
 
+
+### Interpretive depth and boundary conditions
+For **P-hacking**, the relevant safeguard should be understood as part of a broader research system rather than as a checkbox. Ethical and open-science practices operate under real constraints involving scientific validity, participant autonomy, privacy, security, fairness, feasibility, and institutional oversight. A safeguard can reduce one risk while creating another if applied mechanically. Researchers should therefore identify the specific problem being addressed, the alternative practices available, the residual uncertainty, and the conditions under which the safeguard is appropriate. Transparency is valuable when it permits meaningful scrutiny; confidentiality and privacy can appropriately limit disclosure when participant protection requires it. Ethical rigor and scientific rigor both depend on explicit reasoning about consequences and limitations.
 ## 4. Relationship to This Chapter
 
 P-hacking connects researcher degrees of freedom, Type I error, multiple comparisons, selective reporting, and preregistration.
@@ -4354,6 +4588,9 @@ HARKing, or hypothesizing after the results are known, is the presentation of a 
 HARKing, or hypothesizing after the results are known, occurs when an observation discovered through data analysis is presented as though it had been predicted in advance. Exploratory discovery is legitimate and often valuable; the problem is misrepresenting discovery as confirmation. Clear labeling preserves the distinction between generating and testing hypotheses.
 
 
+
+### Interpretive depth and boundary conditions
+For **HARKing**, the relevant safeguard should be understood as part of a broader research system rather than as a checkbox. Ethical and open-science practices operate under real constraints involving scientific validity, participant autonomy, privacy, security, fairness, feasibility, and institutional oversight. A safeguard can reduce one risk while creating another if applied mechanically. Researchers should therefore identify the specific problem being addressed, the alternative practices available, the residual uncertainty, and the conditions under which the safeguard is appropriate. Transparency is valuable when it permits meaningful scrutiny; confidentiality and privacy can appropriately limit disclosure when participant protection requires it. Ethical rigor and scientific rigor both depend on explicit reasoning about consequences and limitations.
 ## 4. Relationship to This Chapter
 
 HARKing connects directly to hypotheses, preregistration, researcher degrees of freedom, p-hacking, and selective reporting.
@@ -4395,6 +4632,9 @@ Selective reporting is the practice or outcome of reporting only a subset of rel
 Selective reporting occurs when researchers choose which outcomes, analyses, conditions, participants, or findings to disclose in ways that distort the evidence available to readers. It can occur at the study level or within a study. Selective reporting can exaggerate apparent effects, hide null findings, and make replication or cumulative synthesis difficult.
 
 
+
+### Interpretive depth and boundary conditions
+For **Selective reporting**, the relevant safeguard should be understood as part of a broader research system rather than as a checkbox. Ethical and open-science practices operate under real constraints involving scientific validity, participant autonomy, privacy, security, fairness, feasibility, and institutional oversight. A safeguard can reduce one risk while creating another if applied mechanically. Researchers should therefore identify the specific problem being addressed, the alternative practices available, the residual uncertainty, and the conditions under which the safeguard is appropriate. Transparency is valuable when it permits meaningful scrutiny; confidentiality and privacy can appropriately limit disclosure when participant protection requires it. Ethical rigor and scientific rigor both depend on explicit reasoning about consequences and limitations.
 ## 4. Relationship to This Chapter
 
 Selective reporting connects p-hacking and researcher degrees of freedom with publication bias, meta-analysis, and open science.
@@ -4436,6 +4676,9 @@ Publication bias is systematic distortion of the accessible research literature 
 Publication bias occurs when the probability that research becomes publicly available depends on its results or characteristics, such as statistical significance, novelty, or direction. If positive studies are more likely to appear than null studies, the published literature can overestimate effects. Publication bias is one reason systematic evidence should seek beyond easily published findings.
 
 
+
+### Interpretive depth and boundary conditions
+For **Publication bias**, the relevant safeguard should be understood as part of a broader research system rather than as a checkbox. Ethical and open-science practices operate under real constraints involving scientific validity, participant autonomy, privacy, security, fairness, feasibility, and institutional oversight. A safeguard can reduce one risk while creating another if applied mechanically. Researchers should therefore identify the specific problem being addressed, the alternative practices available, the residual uncertainty, and the conditions under which the safeguard is appropriate. Transparency is valuable when it permits meaningful scrutiny; confidentiality and privacy can appropriately limit disclosure when participant protection requires it. Ethical rigor and scientific rigor both depend on explicit reasoning about consequences and limitations.
 ## 4. Relationship to This Chapter
 
 Publication bias connects selective reporting with meta-analysis, systematic review, open science, and citation bias.
@@ -4477,6 +4720,9 @@ Citation bias is systematic variation in which studies or findings are cited or 
 Citation bias occurs when some findings, studies, authors, or viewpoints are cited more often because of their results, prestige, visibility, novelty, or other factors rather than simply their evidential relevance. Citation patterns can shape perceived consensus and influence later literature. A highly cited claim is not automatically better supported than a less cited one.
 
 
+
+### Interpretive depth and boundary conditions
+For **Citation bias**, the relevant safeguard should be understood as part of a broader research system rather than as a checkbox. Ethical and open-science practices operate under real constraints involving scientific validity, participant autonomy, privacy, security, fairness, feasibility, and institutional oversight. A safeguard can reduce one risk while creating another if applied mechanically. Researchers should therefore identify the specific problem being addressed, the alternative practices available, the residual uncertainty, and the conditions under which the safeguard is appropriate. Transparency is valuable when it permits meaningful scrutiny; confidentiality and privacy can appropriately limit disclosure when participant protection requires it. Ethical rigor and scientific rigor both depend on explicit reasoning about consequences and limitations.
 ## 4. Relationship to This Chapter
 
 Citation bias complements publication bias and connects to systematic review, meta-analysis, peer review, and scientific consensus.
@@ -4517,6 +4763,9 @@ Meta-analysis is a statistical method for quantitatively synthesizing effect est
 Meta-analysis is a statistical approach for quantitatively synthesizing effect estimates or other results across multiple studies. It can increase precision, examine heterogeneity, test moderators, and reveal patterns that individual studies cannot resolve. Its conclusions depend on study quality, dependence among estimates, measurement compatibility, publication selection, model assumptions, and the appropriateness of combining studies.
 
 
+
+### Interpretive depth and boundary conditions
+For **Meta-analysis**, the relevant safeguard should be understood as part of a broader research system rather than as a checkbox. Ethical and open-science practices operate under real constraints involving scientific validity, participant autonomy, privacy, security, fairness, feasibility, and institutional oversight. A safeguard can reduce one risk while creating another if applied mechanically. Researchers should therefore identify the specific problem being addressed, the alternative practices available, the residual uncertainty, and the conditions under which the safeguard is appropriate. Transparency is valuable when it permits meaningful scrutiny; confidentiality and privacy can appropriately limit disclosure when participant protection requires it. Ethical rigor and scientific rigor both depend on explicit reasoning about consequences and limitations.
 ## 4. Relationship to This Chapter
 
 Meta-analysis connects effect size, systematic review, publication bias, heterogeneity, evidence quality, and scientific consensus.
@@ -4558,6 +4807,9 @@ A systematic review is a structured evidence synthesis that uses predefined or e
 A systematic review uses an explicit, reproducible process to identify, select, evaluate, and synthesize research addressing a defined question. It differs from an informal narrative review through transparent search, inclusion, exclusion, and appraisal procedures. A systematic review can synthesize qualitative or quantitative evidence and can still reach uncertain conclusions when the underlying literature is weak or heterogeneous.
 
 
+
+### Interpretive depth and boundary conditions
+For **Systematic review**, the relevant safeguard should be understood as part of a broader research system rather than as a checkbox. Ethical and open-science practices operate under real constraints involving scientific validity, participant autonomy, privacy, security, fairness, feasibility, and institutional oversight. A safeguard can reduce one risk while creating another if applied mechanically. Researchers should therefore identify the specific problem being addressed, the alternative practices available, the residual uncertainty, and the conditions under which the safeguard is appropriate. Transparency is valuable when it permits meaningful scrutiny; confidentiality and privacy can appropriately limit disclosure when participant protection requires it. Ethical rigor and scientific rigor both depend on explicit reasoning about consequences and limitations.
 ## 4. Relationship to This Chapter
 
 Systematic review provides the methodological framework within which meta-analysis and heterogeneity are often interpreted. It also connects directly to publication bias and scientific consensus.
@@ -4599,6 +4851,9 @@ Meta-analytic heterogeneity is the extent to which study effect estimates differ
 Meta-analytic heterogeneity is variation in estimated effects across studies beyond what would be expected from sampling error alone under a chosen model. Heterogeneity can reflect differences in populations, interventions, measures, settings, implementation, moderators, or study quality. It is not merely a nuisance: understanding why effects differ can reveal boundary conditions and improve theory.
 
 
+
+### Interpretive depth and boundary conditions
+For **Meta-analytic heterogeneity**, the relevant safeguard should be understood as part of a broader research system rather than as a checkbox. Ethical and open-science practices operate under real constraints involving scientific validity, participant autonomy, privacy, security, fairness, feasibility, and institutional oversight. A safeguard can reduce one risk while creating another if applied mechanically. Researchers should therefore identify the specific problem being addressed, the alternative practices available, the residual uncertainty, and the conditions under which the safeguard is appropriate. Transparency is valuable when it permits meaningful scrutiny; confidentiality and privacy can appropriately limit disclosure when participant protection requires it. Ethical rigor and scientific rigor both depend on explicit reasoning about consequences and limitations.
 ## 4. Relationship to This Chapter
 
 Meta-analytic heterogeneity connects meta-analysis to moderators, generalizability, evidence quality, and interpretation of pooled effects.
@@ -4640,6 +4895,9 @@ Open science is a broad approach to conducting and communicating research that i
 Open science is a broad movement toward making research methods, materials, data, code, analyses, and reporting more transparent, accessible, reproducible, and accountable where ethically and legally appropriate. It includes practices such as preregistration, registered reports, data and code sharing, open materials, and transparent reporting. Openness is not absolute; privacy, consent, security, intellectual property, and participant protection can limit what should be shared.
 
 
+
+### Interpretive depth and boundary conditions
+For **Open science**, the relevant safeguard should be understood as part of a broader research system rather than as a checkbox. Ethical and open-science practices operate under real constraints involving scientific validity, participant autonomy, privacy, security, fairness, feasibility, and institutional oversight. A safeguard can reduce one risk while creating another if applied mechanically. Researchers should therefore identify the specific problem being addressed, the alternative practices available, the residual uncertainty, and the conditions under which the safeguard is appropriate. Transparency is valuable when it permits meaningful scrutiny; confidentiality and privacy can appropriately limit disclosure when participant protection requires it. Ethical rigor and scientific rigor both depend on explicit reasoning about consequences and limitations.
 ## 4. Relationship to This Chapter
 
 Open science integrates preregistration, registered reports, transparency, sharing, replication, peer review, and bias-reduction practices.
@@ -4681,6 +4939,9 @@ Data transparency is the clear documentation and, where appropriate, accessibili
 Data transparency is the clear documentation of what data were collected, how they were processed, which observations or variables were excluded or transformed, and how analyses were conducted. Transparency enables readers and other researchers to understand the evidential path from raw observations to reported conclusions. Transparency can be achieved through documentation even when sensitive data cannot be publicly released.
 
 
+
+### Interpretive depth and boundary conditions
+For **Data transparency**, the relevant safeguard should be understood as part of a broader research system rather than as a checkbox. Ethical and open-science practices operate under real constraints involving scientific validity, participant autonomy, privacy, security, fairness, feasibility, and institutional oversight. A safeguard can reduce one risk while creating another if applied mechanically. Researchers should therefore identify the specific problem being addressed, the alternative practices available, the residual uncertainty, and the conditions under which the safeguard is appropriate. Transparency is valuable when it permits meaningful scrutiny; confidentiality and privacy can appropriately limit disclosure when participant protection requires it. Ethical rigor and scientific rigor both depend on explicit reasoning about consequences and limitations.
 ## 4. Relationship to This Chapter
 
 Data transparency supports reproducibility, open science, peer review, and evaluation of selective reporting.
@@ -4722,6 +4983,9 @@ Data sharing is the provision of research data to other researchers or authorize
 Data sharing is making research data available to other authorized researchers under conditions appropriate to consent, privacy, security, and law. Shared data can support reanalysis, error detection, replication, synthesis, and new questions. Sharing is not always unrestricted: de-identification may be insufficient for sensitive datasets, and participant consent can constrain secondary use.
 
 
+
+### Interpretive depth and boundary conditions
+For **Data sharing**, the relevant safeguard should be understood as part of a broader research system rather than as a checkbox. Ethical and open-science practices operate under real constraints involving scientific validity, participant autonomy, privacy, security, fairness, feasibility, and institutional oversight. A safeguard can reduce one risk while creating another if applied mechanically. Researchers should therefore identify the specific problem being addressed, the alternative practices available, the residual uncertainty, and the conditions under which the safeguard is appropriate. Transparency is valuable when it permits meaningful scrutiny; confidentiality and privacy can appropriately limit disclosure when participant protection requires it. Ethical rigor and scientific rigor both depend on explicit reasoning about consequences and limitations.
 ## 4. Relationship to This Chapter
 
 Data sharing connects open science and transparency with privacy, confidentiality, informed consent, and reproducibility.
@@ -4763,6 +5027,9 @@ Peer review is the evaluation of research by qualified peers or experts accordin
 Peer review is the evaluation of research by people with relevant expertise before or after publication, depending on the model. Review can identify conceptual, methodological, statistical, ethical, and reporting problems and can improve manuscripts. Peer review is a quality-control process, not proof that a published claim is correct; reviewers can miss errors, disagree, or be influenced by limitations of the process.
 
 
+
+### Interpretive depth and boundary conditions
+For **Peer review**, the relevant safeguard should be understood as part of a broader research system rather than as a checkbox. Ethical and open-science practices operate under real constraints involving scientific validity, participant autonomy, privacy, security, fairness, feasibility, and institutional oversight. A safeguard can reduce one risk while creating another if applied mechanically. Researchers should therefore identify the specific problem being addressed, the alternative practices available, the residual uncertainty, and the conditions under which the safeguard is appropriate. Transparency is valuable when it permits meaningful scrutiny; confidentiality and privacy can appropriately limit disclosure when participant protection requires it. Ethical rigor and scientific rigor both depend on explicit reasoning about consequences and limitations.
 ## 4. Relationship to This Chapter
 
 Peer review connects research quality, scientific consensus, publication, registered reports, and open science.
@@ -4804,6 +5071,9 @@ Researcher bias is systematic distortion introduced by researchers' expectations
 Researcher bias refers to systematic influence of researchers' expectations, preferences, identities, incentives, or assumptions on study design, measurement, analysis, interpretation, or reporting. Bias need not be deliberate. Blinding, preregistration, standardized procedures, independent coding, transparent analysis, and disclosure of relevant decisions can reduce some forms, although no method eliminates all judgment.
 
 
+
+### Interpretive depth and boundary conditions
+For **Researcher bias**, the relevant safeguard should be understood as part of a broader research system rather than as a checkbox. Ethical and open-science practices operate under real constraints involving scientific validity, participant autonomy, privacy, security, fairness, feasibility, and institutional oversight. A safeguard can reduce one risk while creating another if applied mechanically. Researchers should therefore identify the specific problem being addressed, the alternative practices available, the residual uncertainty, and the conditions under which the safeguard is appropriate. Transparency is valuable when it permits meaningful scrutiny; confidentiality and privacy can appropriately limit disclosure when participant protection requires it. Ethical rigor and scientific rigor both depend on explicit reasoning about consequences and limitations.
 ## 4. Relationship to This Chapter
 
 Researcher bias integrates the open-science topics with peer review, p-hacking, selective reporting, qualitative reflexivity, and evidence quality.
@@ -4845,6 +5115,9 @@ Informed consent is a process through which a competent participant receives suf
 Informed consent is an ethical process through which prospective participants receive understandable information about relevant aspects of research and voluntarily agree to participate. It includes information about procedures, risks, benefits, alternatives where applicable, confidentiality, and the right to decline or withdraw within the study's constraints. Consent is not merely a signature; comprehension and voluntariness matter.
 
 
+
+### Interpretive depth and boundary conditions
+For **Informed consent**, the relevant safeguard should be understood as part of a broader research system rather than as a checkbox. Ethical and open-science practices operate under real constraints involving scientific validity, participant autonomy, privacy, security, fairness, feasibility, and institutional oversight. A safeguard can reduce one risk while creating another if applied mechanically. Researchers should therefore identify the specific problem being addressed, the alternative practices available, the residual uncertainty, and the conditions under which the safeguard is appropriate. Transparency is valuable when it permits meaningful scrutiny; confidentiality and privacy can appropriately limit disclosure when participant protection requires it. Ethical rigor and scientific rigor both depend on explicit reasoning about consequences and limitations.
 ## 4. Relationship to This Chapter
 
 Informed consent begins the participant-protection ethics block and connects to confidentiality, privacy, deception, risk–benefit assessment, and vulnerable populations.
@@ -4886,6 +5159,9 @@ Confidentiality is the ethical and procedural obligation to limit access to part
 Confidentiality is the obligation to protect information provided or collected in research from unauthorized disclosure and to follow the promises and procedures governing its handling. It differs from anonymity: confidential data may be linked to identities but access is restricted, whereas anonymous data are not linked to an identifiable person under the relevant procedures. Confidentiality requires technical, organizational, and procedural safeguards.
 
 
+
+### Interpretive depth and boundary conditions
+For **Confidentiality**, the relevant safeguard should be understood as part of a broader research system rather than as a checkbox. Ethical and open-science practices operate under real constraints involving scientific validity, participant autonomy, privacy, security, fairness, feasibility, and institutional oversight. A safeguard can reduce one risk while creating another if applied mechanically. Researchers should therefore identify the specific problem being addressed, the alternative practices available, the residual uncertainty, and the conditions under which the safeguard is appropriate. Transparency is valuable when it permits meaningful scrutiny; confidentiality and privacy can appropriately limit disclosure when participant protection requires it. Ethical rigor and scientific rigor both depend on explicit reasoning about consequences and limitations.
 ## 4. Relationship to This Chapter
 
 Confidentiality connects informed consent and data sharing with privacy and responsible research-data management.
@@ -4927,6 +5203,9 @@ Privacy in research is the ethical protection of individuals' reasonable control
 Privacy concerns a person's control, expectation, or legitimate interest regarding access to information about themselves, their body, behavior, communications, or personal space. Research can affect privacy through recruitment, observation, data collection, linkage, or secondary use. Privacy is distinct from confidentiality because a study can collect information in a way that violates privacy even if the resulting data are later securely stored.
 
 
+
+### Interpretive depth and boundary conditions
+For **Privacy**, the relevant safeguard should be understood as part of a broader research system rather than as a checkbox. Ethical and open-science practices operate under real constraints involving scientific validity, participant autonomy, privacy, security, fairness, feasibility, and institutional oversight. A safeguard can reduce one risk while creating another if applied mechanically. Researchers should therefore identify the specific problem being addressed, the alternative practices available, the residual uncertainty, and the conditions under which the safeguard is appropriate. Transparency is valuable when it permits meaningful scrutiny; confidentiality and privacy can appropriately limit disclosure when participant protection requires it. Ethical rigor and scientific rigor both depend on explicit reasoning about consequences and limitations.
 ## 4. Relationship to This Chapter
 
 Privacy complements confidentiality and connects to informed consent, data sharing, data transparency, and research ethics.
@@ -4968,6 +5247,9 @@ Research deception is the deliberate provision of false or incomplete informatio
 Deception in research occurs when participants are intentionally given incomplete, misleading, or false information about relevant aspects of a study. It can sometimes be scientifically justified when disclosure would invalidate the question and when risks are minimized, no adequate nondeceptive alternative exists, and appropriate ethical oversight is present. Deception can affect trust and must therefore be carefully constrained.
 
 
+
+### Interpretive depth and boundary conditions
+For **Deception**, the relevant safeguard should be understood as part of a broader research system rather than as a checkbox. Ethical and open-science practices operate under real constraints involving scientific validity, participant autonomy, privacy, security, fairness, feasibility, and institutional oversight. A safeguard can reduce one risk while creating another if applied mechanically. Researchers should therefore identify the specific problem being addressed, the alternative practices available, the residual uncertainty, and the conditions under which the safeguard is appropriate. Transparency is valuable when it permits meaningful scrutiny; confidentiality and privacy can appropriately limit disclosure when participant protection requires it. Ethical rigor and scientific rigor both depend on explicit reasoning about consequences and limitations.
 ## 4. Relationship to This Chapter
 
 Deception connects directly to informed consent, debriefing, risk–benefit assessment, and privacy.
@@ -5009,6 +5291,9 @@ Debriefing is the process of providing participants with relevant information ab
 Debriefing is the process of informing participants after research about relevant aspects of the study that could not appropriately be disclosed beforehand, particularly when deception or concealment was used. It can clarify the purpose, procedures, risks, and reasons for nondisclosure and provide opportunities for questions or support. Debriefing does not automatically erase harms created by poor study design.
 
 
+
+### Interpretive depth and boundary conditions
+For **Debriefing**, the relevant safeguard should be understood as part of a broader research system rather than as a checkbox. Ethical and open-science practices operate under real constraints involving scientific validity, participant autonomy, privacy, security, fairness, feasibility, and institutional oversight. A safeguard can reduce one risk while creating another if applied mechanically. Researchers should therefore identify the specific problem being addressed, the alternative practices available, the residual uncertainty, and the conditions under which the safeguard is appropriate. Transparency is valuable when it permits meaningful scrutiny; confidentiality and privacy can appropriately limit disclosure when participant protection requires it. Ethical rigor and scientific rigor both depend on explicit reasoning about consequences and limitations.
 ## 4. Relationship to This Chapter
 
 Debriefing follows deception and connects to informed consent and risk–benefit assessment.
@@ -5050,6 +5335,9 @@ Risk–benefit assessment is the systematic ethical evaluation of reasonably for
 Risk–benefit assessment is the ethical evaluation of foreseeable burdens, harms, discomforts, privacy risks, and other adverse consequences against the potential scientific, social, or participant benefits of research. It requires attention to probability, severity, reversibility, alternatives, mitigation, and distribution of risk. Scientific value does not automatically justify any level of participant risk.
 
 
+
+### Interpretive depth and boundary conditions
+For **Risk–benefit assessment**, the relevant safeguard should be understood as part of a broader research system rather than as a checkbox. Ethical and open-science practices operate under real constraints involving scientific validity, participant autonomy, privacy, security, fairness, feasibility, and institutional oversight. A safeguard can reduce one risk while creating another if applied mechanically. Researchers should therefore identify the specific problem being addressed, the alternative practices available, the residual uncertainty, and the conditions under which the safeguard is appropriate. Transparency is valuable when it permits meaningful scrutiny; confidentiality and privacy can appropriately limit disclosure when participant protection requires it. Ethical rigor and scientific rigor both depend on explicit reasoning about consequences and limitations.
 ## 4. Relationship to This Chapter
 
 Risk–benefit assessment integrates consent, deception, privacy, confidentiality, vulnerable populations, and research ethics.
@@ -5093,6 +5381,9 @@ Vulnerability is context-dependent and should not be treated as a permanent char
 Vulnerable populations are groups or individuals who may have increased risk of coercion, undue influence, exploitation, impaired consent capacity, dependence on researchers or institutions, or disproportionate research burden. Vulnerability is contextual rather than a permanent label attached to an identity group. Ethical safeguards should address the specific source of vulnerability without unnecessarily excluding people from research.
 
 
+
+### Interpretive depth and boundary conditions
+For **Vulnerable populations**, the relevant safeguard should be understood as part of a broader research system rather than as a checkbox. Ethical and open-science practices operate under real constraints involving scientific validity, participant autonomy, privacy, security, fairness, feasibility, and institutional oversight. A safeguard can reduce one risk while creating another if applied mechanically. Researchers should therefore identify the specific problem being addressed, the alternative practices available, the residual uncertainty, and the conditions under which the safeguard is appropriate. Transparency is valuable when it permits meaningful scrutiny; confidentiality and privacy can appropriately limit disclosure when participant protection requires it. Ethical rigor and scientific rigor both depend on explicit reasoning about consequences and limitations.
 ## 4. Relationship to This Chapter
 
 Vulnerable populations connect informed consent, risk–benefit assessment, privacy, confidentiality, and equitable research participation.
@@ -5134,6 +5425,9 @@ Animal research ethics is the ethical framework governing the justification, des
 Animal research ethics concerns the moral and scientific responsibilities involved in using nonhuman animals in research. Ethical evaluation includes scientific necessity, alternatives, reduction of animal numbers, refinement of procedures to minimize pain or distress, appropriate housing and care, humane endpoints, and qualified oversight. Scientific importance does not eliminate obligations to minimize avoidable harm and justify animal use.
 
 
+
+### Interpretive depth and boundary conditions
+For **Animal research ethics**, the relevant safeguard should be understood as part of a broader research system rather than as a checkbox. Ethical and open-science practices operate under real constraints involving scientific validity, participant autonomy, privacy, security, fairness, feasibility, and institutional oversight. A safeguard can reduce one risk while creating another if applied mechanically. Researchers should therefore identify the specific problem being addressed, the alternative practices available, the residual uncertainty, and the conditions under which the safeguard is appropriate. Transparency is valuable when it permits meaningful scrutiny; confidentiality and privacy can appropriately limit disclosure when participant protection requires it. Ethical rigor and scientific rigor both depend on explicit reasoning about consequences and limitations.
 ## 4. Relationship to This Chapter
 
 Animal research ethics completes the ethics section by addressing research subjects beyond human participants and complements the broader principles of scientific necessity, harm minimization, and responsible conduct.
@@ -5168,6 +5462,7 @@ Specific animal models, experimental procedures, legal requirements, and substan
 **Status:** FINAL VALIDATION PASSED — READY FOR LOCK/SEAL REVIEW
 
 The duplicate Knowledge Object defects in 1.2.52 and 1.2.82 have been resolved. Ownership boundaries, six-section structure, scientific integrity, and retrieval architecture have been revalidated.
+
 
 
 
