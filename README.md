@@ -293,3 +293,19 @@ Chapter 1.5 — Consciousness, Sleep, and Altered States has completed the V2 se
 - Final validation record: `knowledge/system-01/chapter-1.5/CHAPTER_1.5_FINAL_VALIDATION.md`
 - **Status: LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 2.0**
 
+
+## Phase 5 — Chapter 1.7 V2 Semantic Remediation
+
+Chapter 1.7 — Learning and Behavior Change is now V2 semantic-depth certified and locked/sealed.
+
+- **66/66 Topics preserved exactly**
+- **13,965 total words**
+- **Average Core Understanding: ~89 words**
+- **Minimum:** 66 words
+- **Maximum:** 106 words
+- **0 literal TOPIC placeholders**
+- **0 generic chapter-membership signatures**
+- Learning mechanisms and neighbor distinctions deepened
+- V2 validation record and executable attestation completed
+- **P0/P1/P2/P3 = 0**
+- **Status: LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 2.0**
