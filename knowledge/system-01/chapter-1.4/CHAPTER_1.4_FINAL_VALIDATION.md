@@ -130,7 +130,7 @@ No sales, persuasion, buyer, or conversion framework is used to redefine System 
 
 **CHAPTER 1.4 — SENSATION AND PERCEPTION: V2 CERTIFIED / LOCKED & SEALED**
 
-**CI verification:** GitHub Actions run `35872369015` — success.
+**CI verification:** GitHub Actions run `35872548336` — success.
 
 The executable validator passed the chapter and this validation record together.
 
