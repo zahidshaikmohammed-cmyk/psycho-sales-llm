@@ -3088,9 +3088,669 @@ Broader balance behavior and motor control to relevant biological/action chapter
 
 ---
 
+
+
+---
+
+## 1.4.49 Somatosensation
+
+## 1. Purpose
+
+Somatosensation is the perceptual system through which information about bodily contact, pressure, vibration, temperature, tissue threat, and body position is detected and organized.
+
+## 2. Definition
+
+**Somatosensation** is the set of sensory and perceptual processes that represent mechanical, thermal, and tissue-related information arising from the body and its interaction with the environment.
+
+**What it is not:** Somatosensation is not a single sense. It is a family of modalities with partly distinct receptors, pathways, and perceptual functions.
+
+## 3. Core Understanding
+
+Somatosensation includes information from skin, muscles, joints, and deeper tissues. Different receptor systems encode different physical variables, including pressure, vibration, stretch, temperature, and potentially damaging stimulation.
+
+Cutaneous sensation provides information about contact with external surfaces, while proprioceptive signals provide information about body configuration and movement. Pain perception incorporates nociceptive information but is not identical to nociception, because pain is a perceptual experience influenced by multiple factors.
+
+Somatosensory representations are organized spatially but are not fixed mirrors of the body. Receptive-field properties, cortical organization, experience, attention, and use can affect representation. Body-part localization and perceptual intensity can therefore vary across conditions.
+
+Somatosensation also participates in multisensory body representation. Vision, vestibular information, and proprioception can alter the perceived location or state of the body, especially when sensory signals conflict.
+
+Measurement includes detection and discrimination thresholds, localization, texture and vibration judgments, thermal discrimination, proprioceptive tasks, and pain measures. Different tests probe different components rather than one global somatosensory ability.
+
+## 4. Relationship to This Chapter
+
+Somatosensation is the broad bodily-sensation construct from which touch, pain, temperature, and proprioception are specialized Topics. It connects with interoceptive perception but should not collapse external-body and internal-organ signals into one category.
+
+## 5. Boundaries
+
+### Owns
+
+The general organization of bodily sensory information involving skin, musculoskeletal structures, and tissue-related signals.
+
+### Defers
+
+Touch to 1.4.50; pain perception to 1.4.51; temperature perception to 1.4.52; proprioception to 1.4.53; interoceptive perception to 1.4.54.
+
+## 6. Key Principles
+
+- Somatosensation is a family of partially distinct sensory systems.
+- Bodily sensation includes both external contact and internal body-position information.
+- Pain is perceptual and cannot be reduced to nociceptive signaling.
+- Somatosensory perception interacts with vision and vestibular/proprioceptive information.
+
+---
+
+## 1.4.50 Touch
+
+## 1. Purpose
+
+Touch describes the perceptual processing of mechanical contact with the body, including pressure, vibration, texture, shape, and movement across the skin.
+
+## 2. Definition
+
+**Touch** is the perceptual processing of mechanically produced stimulation at the body surface into representations of contact and object properties.
+
+**What it is not:** Touch is not synonymous with all somatosensation and does not depend exclusively on one receptor class.
+
+## 3. Core Understanding
+
+Cutaneous mechanoreceptors differ in receptive-field properties and temporal sensitivity. Some respond strongly to sustained pressure, while others are particularly responsive to vibration, movement, or changes at the skin surface. Their combined activity supports perception of contact, texture, shape, and object boundaries.
+
+Touch is inherently spatial and temporal. The location, duration, movement, and pattern of stimulation contribute to perceptual interpretation. Exploration matters: actively moving the fingers across a surface can provide information that static contact does not.
+
+Texture perception can depend on both spatial and temporal signals generated as the skin moves over a surface. Object shape can also be inferred from patterns of pressure across multiple contact points.
+
+Touch is integrated with proprioception and vision during active exploration. Sensory substitution and tool use demonstrate that bodily perception can incorporate signals produced through extended interaction with objects.
+
+Measurement includes detection thresholds, two-point and spatial discrimination, vibration sensitivity, localization, texture discrimination, and object identification by touch.
+
+## 4. Relationship to This Chapter
+
+Touch is the major cutaneous-contact specialization within somatosensation. It connects to object perception and multisensory integration because tactile and visual information can jointly specify object properties.
+
+## 5. Boundaries
+
+### Owns
+
+Perceptual processing of mechanical stimulation at the body surface as contact and object-related information.
+
+### Defers
+
+Broader somatosensation to 1.4.49; pain to 1.4.51; proprioception to 1.4.53; multisensory integration to 1.4.57.
+
+## 6. Key Principles
+
+- Different mechanoreceptors provide complementary information.
+- Touch depends on spatial and temporal patterns, not isolated receptor activation.
+- Active exploration changes the available tactile evidence.
+- Tactile perception can be integrated with vision and proprioception.
+
+---
+
+## 1.4.51 Pain perception
+
+## 1. Purpose
+
+Pain perception describes the perceptual experience of unpleasant sensory information associated with actual or potential tissue damage.
+
+## 2. Definition
+
+**Pain perception** is the conscious sensory and affective experience associated with actual or potential bodily harm, shaped by sensory input, context, expectations, and the person's state.
+
+**What it is not:** Pain is not synonymous with tissue damage or nociception. Nociception concerns neural processing of potentially damaging stimuli; pain is the experienced phenomenon.
+
+## 3. Core Understanding
+
+Pain has sensory-discriminative dimensions, such as location, intensity, and temporal quality, and affective-motivational dimensions involving unpleasantness and the urge to protect the body. These dimensions can vary somewhat independently.
+
+Nociceptive signals provide important input but do not uniquely determine pain. Attention, expectation, prior experience, emotional state, context, social information, and ongoing protective responses can modulate pain. This does not make pain imaginary or voluntary; it reflects the fact that perception is an integrative process.
+
+Pain can occur without clear ongoing tissue damage, and tissue injury can occur with little reported pain. These observations do not imply that pain is disconnected from biology; they demonstrate that the relationship between tissue state, nociception, and pain is not one-to-one.
+
+Acute pain can serve protective functions, while persistent pain can continue after the original injury has healed. Chronic pain is not simply “more intense acute pain” and requires consideration of longer-term changes in sensory, behavioral, and contextual processes.
+
+Measurement uses self-report as the primary measure of subjective pain, alongside behavioral, physiological, and clinical measures. No single physiological signal can substitute for pain report in all circumstances.
+
+## 4. Relationship to This Chapter
+
+Pain perception is a specialized somatosensory-perceptual construct that connects nociception, context, emotion, learning, and action without collapsing them into pain itself.
+
+## 5. Boundaries
+
+### Owns
+
+The perceptual experience of pain and its sensory-affective organization.
+
+### Defers
+
+Nociceptive biology to Chapter 1.3; emotion to Chapter 1.13; clinical pain disorders to Chapter 1.19; intervention to Chapter 1.20.
+
+## 6. Key Principles
+
+- Pain is an experience, not a direct readout of tissue damage.
+- Nociception contributes to pain but does not uniquely determine it.
+- Sensory and affective dimensions of pain can dissociate.
+- Context and expectation can modulate pain without making it unreal.
+
+---
+
+## 1.4.52 Temperature perception
+
+## 1. Purpose
+
+Temperature perception describes how thermal stimulation is detected and experienced as warmth, coolness, or related thermal change.
+
+## 2. Definition
+
+**Temperature perception** is the perceptual processing of thermal stimulation into experiences of temperature and thermal change.
+
+**What it is not:** Perceived temperature is not identical to the physical temperature of an object or tissue.
+
+## 3. Core Understanding
+
+Thermal receptors in the skin respond to ranges of temperature and to changes in thermal state. The resulting signals contribute to judgments of warmth and coldness, while extreme temperatures can also engage nociceptive mechanisms.
+
+Thermal perception depends on baseline skin temperature, rate of change, contact conditions, body region, and recent stimulation. A surface at one physical temperature can therefore feel different depending on what the skin experienced immediately beforehand.
+
+Thermal adaptation demonstrates this relational character. After exposure to one temperature, a subsequent stimulus can be experienced differently because the sensory system has recalibrated.
+
+Perception also depends on the dynamics of contact. Conductive properties of materials can influence the rate at which heat moves between object and skin, producing different sensations even when objects have the same physical temperature.
+
+Measurement includes thermal detection and discrimination thresholds, ratings of warmth/coldness, and responses to controlled heating or cooling.
+
+## 4. Relationship to This Chapter
+
+Temperature perception is the thermal specialization of somatosensation and interacts with sensory adaptation, pain, and multisensory bodily perception.
+
+## 5. Boundaries
+
+### Owns
+
+Perceptual experience of thermal stimulation.
+
+### Defers
+
+General somatosensation to 1.4.49; pain to 1.4.51; broader thermoregulation to Chapter 1.3.
+
+## 6. Key Principles
+
+- Thermal perception depends on both stimulus temperature and recent sensory state.
+- Skin temperature and rate of thermal change matter.
+- Extreme thermal stimulation can engage both thermal and pain-related systems.
+- Perceived temperature is not a direct thermometer-like readout.
+
+---
+
+## 1.4.53 Proprioception
+
+## 1. Purpose
+
+Proprioception describes the sensory-perceptual representation of limb and body position and movement generated from receptors in muscles, tendons, joints, and related tissues.
+
+## 2. Definition
+
+**Proprioception** is the sensory and perceptual processing of information about body position, movement, and force generated by the musculoskeletal system.
+
+**What it is not:** Proprioception is not identical to balance, vestibular sensation, or conscious body awareness, although these systems interact.
+
+## 3. Core Understanding
+
+Proprioceptive information arises from multiple receptor systems, including muscle spindles and tendon-related receptors, with joint and skin signals also contributing to estimates of limb configuration. The nervous system combines these signals to estimate body posture and movement.
+
+Proprioception is partly implicit. People can use position information to guide movement without being able to describe the precise location of a limb verbally. Conscious judgments of limb position are therefore one measurement of proprioception, not its complete expression.
+
+Visual information strongly interacts with proprioception. When vision and proprioceptive signals disagree, perceived limb position can shift toward a combined estimate or become unstable, demonstrating multisensory integration.
+
+Proprioceptive signals are also altered by movement and muscle activity. The system must distinguish self-generated changes in position from external perturbations, and this interpretation is closely connected to motor control without being identical to it.
+
+Measurement includes joint-position matching, movement detection thresholds, localization, kinesthetic judgments, and performance under visual occlusion or sensory conflict.
+
+## 4. Relationship to This Chapter
+
+Proprioception is the musculoskeletal-position branch of somatosensation and provides a major bodily signal for multisensory integration and vestibular-spatial perception.
+
+## 5. Boundaries
+
+### Owns
+
+Perceptual processing of musculoskeletal position and movement information.
+
+### Defers
+
+Vestibular perception to 1.4.48; general motor control to Chapter 1.21; interoceptive perception to 1.4.54.
+
+## 6. Key Principles
+
+- Proprioception depends on multiple bodily signals.
+- It can operate without conscious verbal awareness.
+- Vision and proprioception are jointly used to estimate body configuration.
+- Proprioception contributes to action but is not identical to motor control.
+
+---
+
+## 1.4.54 Interoceptive perception
+
+## 1. Purpose
+
+Interoceptive perception describes the perceptual representation of signals arising from the body's internal physiological condition.
+
+## 2. Definition
+
+**Interoceptive perception** is the perceptual processing and conscious or potentially conscious representation of internal bodily signals such as cardiac, respiratory, gastrointestinal, and visceral states.
+
+**What it is not:** It is not identical to the broader biological construct of interoception, which includes sensing and regulation of internal physiological conditions beyond perceptual experience.
+
+## 3. Core Understanding
+
+Internal organs continuously generate signals related to cardiovascular, respiratory, gastrointestinal, and other physiological processes. Some reach conscious awareness as sensations, while others influence behavior and regulation without entering explicit awareness.
+
+Interoceptive perception is therefore only one layer of internal sensing. A person may experience heartbeat, breathlessness, fullness, nausea, or visceral discomfort, but the absence of conscious sensation does not establish the absence of interoceptive signaling.
+
+Perceptual interpretation of bodily signals is influenced by context, attention, expectations, learning, and concurrent sensory information. The same physiological change can therefore be experienced differently under different conditions.
+
+Interoceptive signals also interact with emotion and motivation. Bodily states can contribute to emotional experience, but interoceptive perception should not be reduced to “the body creates emotion” or to one universal mechanism.
+
+Measurement includes subjective reports, heartbeat or respiratory perception tasks, detection/discrimination paradigms, physiological recordings, and comparisons between objective bodily signals and perceived states. Measures of accuracy, sensitivity, and confidence should be distinguished.
+
+## 4. Relationship to This Chapter
+
+This Topic connects bodily sensing to general perception while explicitly deferring the broader interoception construct to Chapter 1.3. It also connects with pain, multisensory integration, emotion, and self-representation.
+
+## 5. Boundaries
+
+### Owns
+
+Perceptual experience and interpretation of internal bodily signals.
+
+### Defers
+
+Broader interoception and physiological regulation to Chapter 1.3; emotion to Chapter 1.13; clinical somatic symptoms to Chapter 1.19.
+
+## 6. Key Principles
+
+- Internal physiological signals can influence behavior without conscious awareness.
+- Perception of bodily signals is not identical to the signals themselves.
+- Subjective interoceptive accuracy and physiological correspondence are separable questions.
+- Context and expectation can shape bodily perception.
+
+---
+
+## 1.4.55 Olfaction
+
+## 1. Purpose
+
+Olfaction describes the sensory and perceptual system that detects and organizes volatile chemical information into experiences of smell.
+
+## 2. Definition
+
+**Olfaction** is the sensory and perceptual processing of airborne chemical molecules into representations of odor qualities, mixtures, sources, and environmental significance.
+
+**What it is not:** Smell is not a simple one-molecule/one-odor mapping and is not merely a chemical detector.
+
+## 3. Core Understanding
+
+Olfactory receptor neurons respond to overlapping sets of molecular features, producing combinatorial patterns rather than a dedicated receptor for each odor. Central processing transforms these patterns into perceptual representations.
+
+Odor perception is highly context-dependent. Concentration, mixture composition, adaptation, prior experience, expectations, and concurrent sensory cues can alter perceived quality and intensity.
+
+Mixtures present a major computational problem because individual components can become difficult to identify once combined. Some mixtures produce emergent percepts rather than a simple sum of component odors.
+
+Olfaction is closely connected with learned associations and memory, but these relationships do not mean that an odor has one fixed emotional or autobiographical meaning for everyone. Experience, culture, exposure, and individual differences contribute substantially.
+
+Measurement includes detection thresholds, discrimination, identification, intensity ratings, similarity judgments, mixture perception, and adaptation.
+
+## 4. Relationship to This Chapter
+
+Olfaction is a chemical sensory modality that complements gustation and contributes strongly to flavor perception through multisensory integration.
+
+## 5. Boundaries
+
+### Owns
+
+Sensory and perceptual processing of odors.
+
+### Defers
+
+Gustation to 1.4.56; memory and learned associations to Chapter 1.8; emotion to Chapter 1.13.
+
+## 6. Key Principles
+
+- Odor coding is combinatorial rather than one receptor per odor.
+- Mixture perception can differ qualitatively from perception of individual components.
+- Experience and context strongly influence odor perception.
+- Olfactory perception is a sensory process with important links to learning and memory.
+
+---
+
+## 1.4.56 Gustation
+
+## 1. Purpose
+
+Gustation describes the sensory and perceptual system responsible for detecting and organizing chemical information from substances contacting taste receptors.
+
+## 2. Definition
+
+**Gustation** is the sensory and perceptual processing of chemical stimulation in the mouth into taste qualities such as sweet, salty, sour, bitter, and umami, together with additional learned and contextual influences.
+
+**What it is not:** Gustation is not equivalent to flavor as a whole. Flavor is a multisensory experience that depends substantially on olfaction and other cues.
+
+## 3. Core Understanding
+
+Taste receptor systems respond to classes of chemical stimuli through partially distinct transduction mechanisms. The resulting signals are combined with information about concentration, texture, temperature, oral somatosensation, and smell.
+
+Basic taste qualities are not complete descriptions of all gustatory experience. Individual differences in receptor biology, exposure, health, age, and learning influence sensitivity and preference.
+
+Taste perception is strongly contextual. Expectations and visual or olfactory information can change reported flavor, demonstrating that gustation operates within a multisensory perceptual system.
+
+Measurement includes detection and recognition thresholds, intensity ratings, discrimination, taste identification, and psychophysical scaling. Subjective preference should not be treated as equivalent to sensory sensitivity.
+
+## 4. Relationship to This Chapter
+
+Gustation provides the taste component of flavor perception and interacts closely with olfaction and oral somatosensation through multisensory integration.
+
+## 5. Boundaries
+
+### Owns
+
+Taste-specific sensory and perceptual processing.
+
+### Defers
+
+Olfaction to 1.4.55; multisensory flavor integration to 1.4.57; broader motivation and preference to Chapters 1.12–1.13.
+
+## 6. Key Principles
+
+- Taste is one component of the broader experience of flavor.
+- Different taste qualities involve different receptor mechanisms.
+- Sensory sensitivity and liking are distinct constructs.
+- Olfactory, tactile, thermal, and contextual information influence gustatory experience.
+
+---
+
+## 1.4.57 Multisensory integration
+
+## 1. Purpose
+
+Multisensory integration describes how information from different sensory modalities is combined into a unified perceptual estimate or interpretation.
+
+## 2. Definition
+
+**Multisensory integration** is the process by which signals from two or more sensory modalities are combined in a way that changes perceptual representation, uncertainty, or behavioral response.
+
+**What it is not:** It is not simply simultaneous stimulation of multiple senses. Co-occurrence does not guarantee integration.
+
+## 3. Core Understanding
+
+Integration is useful because different modalities can provide partially independent information about the same event. Vision can specify spatial structure, audition can provide precise timing, and touch or vestibular signals can provide information about bodily contact and movement.
+
+Integration depends on whether signals are likely to arise from a common source. Temporal and spatial correspondence, learned associations, reliability, and task demands influence the degree of combination.
+
+When one modality is more reliable for a particular property, it may contribute more strongly to the combined estimate. This reliability weighting can improve accuracy under appropriate conditions.
+
+Integration can occur automatically or under task-dependent control, and it can influence perception without requiring conscious awareness of the individual component signals.
+
+Measurement includes cross-modal discrimination, localization, temporal-order judgments, cue-combination tasks, and changes in perceptual estimates when one modality is manipulated.
+
+## 4. Relationship to This Chapter
+
+Multisensory integration is the broad combination process linking visual, auditory, somatosensory, vestibular, olfactory, and gustatory systems. It provides the general framework for the more specific cross-modal and conflict phenomena that follow.
+
+## 5. Boundaries
+
+### Owns
+
+Combination of information across distinct sensory modalities into altered or unified perceptual estimates.
+
+### Defers
+
+Cross-modal perception to 1.4.58; multisensory conflict to 1.4.59; modality-specific processes to their dedicated Topics.
+
+## 6. Key Principles
+
+- Multiple sensory signals can jointly improve perceptual estimates.
+- Integration depends on source correspondence and cue reliability.
+- Simultaneous stimulation is not sufficient evidence of integration.
+- Multisensory integration can improve perception or contribute to systematic error.
+
+---
+
+## 1.4.58 Cross-modal perception
+
+## 1. Purpose
+
+Cross-modal perception describes perceptual influences in which information from one sensory modality changes the interpretation of information in another modality.
+
+## 2. Definition
+
+**Cross-modal perception** is the influence or coordination of perceptual information across sensory modalities, including cases in which one modality alters the perceived properties of another.
+
+**What it is not:** Cross-modal influence is broader than full multisensory integration; an interaction can occur without the signals being combined into one common estimate.
+
+## 3. Core Understanding
+
+A sound can alter the perceived timing or identity of a visual event, visual information can influence where a sound is perceived, and tactile or visual signals can alter body-location judgments. These effects show that perceptual systems are not isolated modality-specific channels.
+
+Cross-modal effects can reflect several mechanisms: source inference, learned associations, attentional selection, temporal binding, or genuine cue combination. The term therefore describes an empirical relationship rather than automatically specifying one mechanism.
+
+The strength of cross-modal influence depends on temporal and spatial correspondence, reliability, prior experience, and task. Effects can be asymmetric: a highly reliable cue in one modality may influence a less reliable cue more strongly than the reverse.
+
+Cross-modal perception is also shaped by development and experience. Repeated exposure can establish associations between signals that later become perceptually coupled.
+
+Measurement compares perceptual judgments in unimodal and cross-modal conditions and tests whether adding one modality changes the estimate obtained from another.
+
+## 4. Relationship to This Chapter
+
+Cross-modal perception is the interaction-focused counterpart to the broader integration construct. It prepares the distinction between ordinary multisensory interaction and explicit multisensory conflict.
+
+## 5. Boundaries
+
+### Owns
+
+Perceptual influence across sensory modalities where the central phenomenon is cross-modal interaction.
+
+### Defers
+
+Multisensory integration to 1.4.57; conflict to 1.4.59; general attention to Chapter 1.6.
+
+## 6. Key Principles
+
+- Sensory modalities can influence one another during perception.
+- Cross-modal influence does not by itself identify the underlying mechanism.
+- Reliability, timing, spatial correspondence, and learning affect cross-modal effects.
+- Integration and cross-modal influence overlap but are not interchangeable terms.
+
+---
+
+## 1.4.59 Multisensory conflict
+
+## 1. Purpose
+
+Multisensory conflict describes situations in which sensory modalities provide incompatible information about an event, source, body state, or spatial relationship.
+
+## 2. Definition
+
+**Multisensory conflict** occurs when concurrently available sensory signals specify incompatible interpretations or values.
+
+**What it is not:** Conflict does not necessarily produce confusion or error; the perceptual system can resolve it by weighting cues, segregating sources, or maintaining ambiguity.
+
+## 3. Core Understanding
+
+Conflicting signals create a test of how perceptual systems determine which interpretation to adopt. The system may favor the more reliable modality, infer separate sources, compromise between cues, or switch between interpretations.
+
+Classic audiovisual and body-ownership phenomena illustrate that temporal and spatial correspondence can determine whether conflict is resolved through integration or source separation.
+
+Conflict can be adaptive when one signal is noisy and another is reliable, because weighting can improve the estimate. It becomes problematic when the environment violates the regularities on which normal multisensory integration depends.
+
+Repeated exposure can produce recalibration: after sustained mismatch, perception in one modality may shift toward the other. Recalibration should be distinguished from a transient perceptual compromise.
+
+Measurement manipulates discrepancies in location, timing, identity, or magnitude and measures the resulting perceptual estimate, source judgment, or aftereffect.
+
+## 4. Relationship to This Chapter
+
+Multisensory conflict is the stress-test case for multisensory integration and cross-modal perception. It helps reveal the conditions under which signals are combined versus segregated.
+
+## 5. Boundaries
+
+### Owns
+
+Perceptual consequences and processing of incompatible information across sensory modalities.
+
+### Defers
+
+Multisensory integration to 1.4.57; cross-modal perception to 1.4.58; adaptation to 1.4.13.
+
+## 6. Key Principles
+
+- Conflicting cues can be integrated, weighted, recalibrated, or segregated.
+- Temporal and spatial correspondence influence conflict resolution.
+- Conflict does not automatically imply perceptual failure.
+- Persistent mismatch can produce adaptation or recalibration.
+
+---
+
+## 1.4.60 Illusions
+
+## 1. Purpose
+
+Illusions are systematic perceptual experiences in which perception differs from a physical or task-defined reference under specified conditions.
+
+## 2. Definition
+
+A **perceptual illusion** is a systematic discrepancy between a perceptual experience or judgment and a defined physical, geometric, or experimentally established reference.
+
+**What it is not:** An illusion is not simply a mistake, hallucination, or false belief. The defining feature is a structured discrepancy under conditions where the reference can be specified.
+
+## 3. Core Understanding
+
+Illusions reveal that perception is an inferential and context-sensitive process. Size, shape, brightness, color, motion, spatial location, and multisensory judgments can all be systematically distorted by surrounding information or conflicting cues.
+
+The reference must be specified carefully. A percept can differ from a physical measurement while still being adaptive for estimating environmental causes. Therefore, “wrong” is not always the scientifically useful interpretation; the phenomenon reveals how the perceptual system weights available information.
+
+Illusions can arise from multiple mechanisms, including sensory adaptation, lateral interactions, grouping, depth assumptions, cue integration, expectation, and response processes. A single illusion should not automatically be attributed to one broad theory.
+
+Measurement typically compares perceptual judgments against controlled physical standards while manipulating the contextual variable thought to produce the effect.
+
+Illusions also demonstrate limits of generalization. A laboratory display may exploit conditions rarely encountered in natural environments, so a robust illusion does not necessarily imply that everyday perception is broadly unreliable.
+
+## 4. Relationship to This Chapter
+
+Illusions integrate many of the chapter's central mechanisms—context, inference, grouping, constancy, adaptation, and multisensory integration. They are diagnostic phenomena rather than a single mechanism.
+
+## 5. Boundaries
+
+### Owns
+
+Systematic perceptual discrepancies demonstrated under controlled conditions.
+
+### Defers
+
+Hallucination as a perceptual phenomenon to 1.4.61; broader cognitive errors and judgment biases to relevant cognitive chapters.
+
+## 6. Key Principles
+
+- Illusions are systematic, not merely random mistakes.
+- The reference condition must be explicitly defined.
+- Different illusions can have different mechanisms.
+- An illusion can reveal adaptive assumptions rather than simple perceptual failure.
+
+---
+
+## 1.4.61 Hallucination as perceptual phenomenon
+
+## 1. Purpose
+
+This Topic defines hallucination at the level of perceptual phenomenology: an experience resembling perception that occurs without a corresponding external sensory object sufficient to explain the experience.
+
+## 2. Definition
+
+A **hallucination as a perceptual phenomenon** is a percept-like experience occurring in the absence of an appropriate external sensory stimulus corresponding to the experienced content.
+
+**What it is not:** A hallucination is not simply imagination, a perceptual illusion, ordinary ambiguity, or every unusual perceptual experience. Clinical hallucination is also not a diagnosis by itself.
+
+## 3. Core Understanding
+
+Hallucination is defined by the relationship between perceptual experience and external stimulation, not by the emotional meaning of the experience or by an assumed cause.
+
+Hallucination can occur across modalities, including auditory, visual, tactile, olfactory, gustatory, and other sensory experiences. Phenomenology varies substantially: some experiences are vivid and externally located, while others have different degrees of sensory quality, insight, or localization.
+
+The absence of an external stimulus does not establish a single mechanism. Hallucinatory experiences can arise in association with many physiological, neurological, psychiatric, substance-related, sleep-related, sensory-loss, and other conditions, and can also occur in contexts that are not equivalent to a psychiatric disorder. Causal interpretation therefore requires context and cannot be inferred from the phenomenology alone.
+
+Hallucination differs from illusion because an illusion involves a real external stimulus that is perceptually misinterpreted, whereas hallucination lacks an adequate corresponding external object. The distinction can become difficult in complex environments or when sensory input is extremely weak.
+
+Research measures hallucination through structured reports, phenomenological scales, behavioral tasks, physiological recordings, and clinical assessment when relevant. Self-report remains important because the defining phenomenon is subjective experience.
+
+## 4. Relationship to This Chapter
+
+Hallucination demonstrates the limits of a simple stimulus-to-perception model and connects with perceptual inference, sensory deprivation, expectation, sleep-related states, and clinical psychology. Its general phenomenological definition belongs here; disorder-specific explanations belong elsewhere.
+
+## 5. Boundaries
+
+### Owns
+
+The general perceptual phenomenon of percept-like experience without an adequate corresponding external stimulus.
+
+### Defers
+
+Clinical diagnosis and disorder-specific hallucination to Chapter 1.19; altered states and sleep-related hallucinations to Chapter 1.5; neurological causes to Chapter 1.3 where applicable.
+
+## 6. Key Principles
+
+- Hallucination is defined phenomenologically, not by a presumed cause.
+- It can occur in multiple sensory modalities and contexts.
+- Hallucination differs conceptually from illusion because the external stimulus relationship differs.
+- A hallucination does not by itself establish a psychiatric diagnosis or a particular mechanism.
+
+---
+
+## 1.4.62 Individual differences in perception
+
+## 1. Purpose
+
+This relationship/application node captures systematic variation between people and within people in sensory sensitivity, perceptual strategy, perceptual learning, and perceptual interpretation without creating a second independent owner for the broader construct of individual differences.
+
+## 2. Definition
+
+**Individual differences in perception** are reliable or potentially reliable differences among people, or systematic within-person differences across states and contexts, in perceptual sensitivity, discrimination, organization, interpretation, or perceptual learning.
+
+**What it is not:** It is not a claim that every observed difference reflects a stable trait, nor is it an independent canonical owner of the broader individual-differences construct.
+
+## 3. Core Understanding
+
+Perceptual variation can arise from differences in sensory organs, neural processing, development, experience, attention, learning, expectations, cognitive strategy, and environmental exposure. These sources operate at different levels and should not be collapsed into a single explanation.
+
+Variation can be between-person or within-person. A person may perform differently across time because of fatigue, adaptation, context, task demands, or learning even when their underlying capacities have not fundamentally changed.
+
+Measurement matters because apparent individual differences can partly reflect differences in strategy, criterion, familiarity, motivation, or measurement reliability. Comparing raw accuracy without accounting for these factors can misclassify decision differences as sensory differences.
+
+Cultural and developmental environments can also shape perceptual expertise and interpretation, while some sensory capacities have strong biological constraints. Population averages therefore cannot be assumed to describe every individual.
+
+The scientific goal is to determine which variance is stable, which is context-dependent, and which reflects measurement error or task-specific strategy.
+
+## 4. Relationship to This Chapter
+
+This node summarizes how individual variation appears across sensation, thresholds, perception, learning, multisensory processing, and modality-specific abilities. It explicitly remains a relationship/application node according to the precision registry rather than a new canonical owner.
+
+## 5. Boundaries
+
+### Owns
+
+The Chapter 1.4 relationship layer describing how perceptual phenomena vary across people and situations.
+
+### Defers
+
+The general construct of individual differences to its canonical owner elsewhere in System 1; culture-specific variation to Chapter 1.17; development to Chapter 1.15.
+
+## 6. Key Principles
+
+- Perceptual differences can reflect biology, experience, learning, state, strategy, or measurement.
+- Between-person variation and within-person variation must be distinguished.
+- A behavioral difference is not automatically a sensory difference.
+- This Topic is a relationship/application node, not a duplicate canonical owner.
+
+---
+
 # Rebuild Status
 
-**Completed in this rebuild pass:** 1.4.1–1.4.48  
-**Remaining:** 1.4.49–1.4.62  
-**Canonical seal:** NOT GRANTED  
-**Architecture:** preserved at exactly 62 Topics
+**Completed:** 62/62 Topics  
+**Canonical seal:** PENDING INDEPENDENT AUDIT  
+**Architecture:** preserved at exactly 62 Topics  
+**Next:** semantic audit, structural audit, duplication audit, ownership audit, and re-audit before canonical replacement
