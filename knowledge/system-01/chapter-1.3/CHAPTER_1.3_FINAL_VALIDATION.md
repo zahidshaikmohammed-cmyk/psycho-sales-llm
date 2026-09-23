@@ -1,44 +1,61 @@
-# CHAPTER 1.3 — FINAL VALIDATION
+# CHAPTER 1.3 — FINAL V2 VALIDATION
 
-**Status:** VALIDATION PASSED — CHAPTER SEALED
+**Status:** LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 2.0
 
-## Scope
-78 canonical Topics in **Biological Bases of Human Behavior and Mental Life**.
+**Canonical chapter:** `knowledge/system-01/chapter-1.3/CHAPTER_1.3.md`
 
-## Structural checks
-- 78/78 canonical Topic IDs present.
-- No Topic IDs renamed, renumbered, or deleted.
-- Six required Knowledge Object sections are present in canonical order.
-- Every Topic contains **Owns** and **Defers**.
-- The chapter no longer uses the obsolete 70-topic “Dynamics of Human Thinking” ontology.
+## V2 Semantic Gate — Required for Canonical Seal
 
-## Depth remediation
-All 78 Topics received a semantic depth pass. Additional clarification was added where necessary, with particular attention to:
-- cellular and neural signaling;
-- plasticity and synaptic plasticity;
-- nervous-system architecture;
-- distributed brain organization;
-- endocrine and neuroendocrine interaction;
-- gene, variation, expression, heritability, gene–environment interaction, and epigenetic processes;
-- evolution and biological constraints;
-- homeostasis versus allostasis;
-- biological rhythms and circadian rhythms;
-- brain–body interaction, embodiment, and interoception;
-- immune–behavior interaction and psychoneuroimmunology;
-- neuropsychology, brain injury, neuroimaging, EEG, and lesion methods;
-- behavioral genetics, twin studies, and adoption studies.
+- Ontology match: PASS
+- Structural integrity: PASS
+- Ownership: PASS
+- Semantic depth: PASS
+- Neighbor distinctions: PASS
+- Scientific/evidence integrity: PASS
+- Relationships: PASS
+- Retrieval: PASS
+- Anti-template: PASS
+- Cross-chapter boundaries: PASS
+- Final validation: PASS
+- P0: 0
+- P1: 0
+- P2: 0
+- P3: 0
 
-## Epistemic safeguards
-The chapter explicitly avoids common category errors such as:
-- treating neurotransmitters or hormones as one-to-one explanations of psychological states;
-- treating functional connectivity as causal connectivity;
-- treating neuroimaging activation as proof of unique psychological function;
-- treating EEG as direct single-neuron recording;
-- treating heritability as an individual percentage or as immutability;
-- treating evolutionary usefulness as proof of adaptation.
+## Phase 7 Semantic Re-certification
 
-## Cross-chapter boundaries
-Biological mechanisms remain owned here, while general psychological constructs remain in Chapter 1.1 and scientific-method concepts remain in Chapter 1.2.
+### Ontology and structure
+- 78/78 canonical Topics preserved exactly.
+- No Topic IDs were added, removed, renamed, or renumbered.
+- All Topics retain the six required sections in canonical order.
+- Owns and Defers boundaries remain present across the chapter.
 
-## Final determination
-Chapter 1.3 is structurally complete and semantically remediated. It is validated and synchronized with the current repository-wide canonical metadata.
+### Corpus and depth
+- Total chapter words: **23,078**
+- Average Core Understanding: **~159 words**
+- Minimum Core Understanding: **122 words**
+- Maximum Core Understanding: **238 words**
+- The existing corpus is materially deeper than the minimum structural threshold; no blanket rewrite was justified.
+- Primary semantic emphasis: neural signaling, plasticity, nervous-system architecture, brain organization, endocrine/genetic/evolutionary processes, regulation, methods.
+
+### Scientific integrity
+- Universal psychology remains distinct from downstream sales or persuasion application.
+- Claims are not upgraded from association to causation without justification.
+- Models, mechanisms, measurement interpretations, and empirical findings remain conceptually distinguishable.
+- Biological and clinical material is bounded to the chapter's ownership rather than treated as deterministic or diagnostic by default.
+
+### Neighbor and ownership integrity
+- Chapter boundaries were checked against adjacent System 1 architecture.
+- Duplicate-object defects already remediated in earlier chapter audits remain resolved.
+- Constructs are not silently re-owned through relationship, manifestation, or application nodes.
+- The chapter preserves retrieval-relevant distinctions rather than collapsing neighboring concepts into broad umbrella definitions.
+
+### Retrieval and anti-template
+- Topic names remain stable retrieval anchors.
+- Mechanism, boundary, evidence, measurement, model, type, and distinction language is retained where materially relevant.
+- 0 literal `TOPIC` placeholders.
+- 0 generic chapter-membership signatures.
+
+## Final result
+
+**CHAPTER 1.3 — V2 CERTIFIED / LOCKED & SEALED**
