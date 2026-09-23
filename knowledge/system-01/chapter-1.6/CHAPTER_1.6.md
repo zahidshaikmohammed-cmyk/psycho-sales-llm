@@ -31,7 +31,7 @@ Attention is constrained by task demands, timing, similarity among competing inp
 Attention is strongly supported as a measurable family of selection phenomena, but no single theory captures every attentional effect. Different experimental paradigms isolate different components of selection, orienting, control, and limited processing capacity.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -70,7 +70,7 @@ Selection is often studied by placing targets and distractors in competition. Ta
 Selective attention is supported by converging behavioral and neuroscientific evidence, but theories disagree about exactly where and how selection is implemented in all tasks.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -106,7 +106,7 @@ Focused attention describes concentration on a target. Sustained attention adds 
 Focus can be weakened by competing demands, fatigue, low task relevance, unexpected events, or internal distraction. Practice and automaticity can change how much deliberate attentional control is required.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -145,7 +145,7 @@ Sleep loss, circadian conditions, arousal, motivation, task value, stimulus disc
 Sustained attention is well supported as a measurable performance domain, but the mechanisms behind time-on-task effects are heterogeneous and can include changes in arousal, motivation, strategy, and control.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -184,7 +184,7 @@ People may experience themselves as performing tasks simultaneously even when at
 Dual-task paradigms provide strong evidence that concurrent demands can interfere, but the underlying resource architecture is not adequately described by a single universal pool.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -220,7 +220,7 @@ When alternation changes the task set as well as the attentional target, perform
 Alternation supports adaptive behavior when task demands change. Excessive or unnecessary switching can reduce efficiency, especially when tasks compete for the same processing operations.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -256,7 +256,7 @@ Spatial cues can direct attention toward likely target locations. Valid cues can
 Spatial attention is not necessarily a rigid spotlight. Selection can be shaped by objects, features, task goals, and the structure of the visual scene.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -292,7 +292,7 @@ Feature-based attention operates on information delivered by perceptual systems 
 Feature selection can become inefficient when target and distractor features are highly similar, when the task changes unexpectedly, or when multiple feature dimensions compete.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -328,7 +328,7 @@ Object-based effects depend partly on how the perceptual system organizes the sc
 Object-based effects vary with object structure, task demands, spatial arrangement, and the strength of perceptual grouping.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -364,7 +364,7 @@ Tasks that place incompatible responses or interpretations in competition can re
 Executive attention is supported by behavioral and neuroscientific research, but its exact boundaries with executive function, cognitive control, and inhibitory control depend on the theoretical framework used.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -400,7 +400,7 @@ Endogenous control operates alongside externally triggered attention. A goal can
 Endogenous orienting is well established in cueing and attention paradigms, although its exact neural implementation and relationship to expectation vary across tasks.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -436,7 +436,7 @@ External stimulation does not automatically determine attention. Current goals, 
 Exogenous attention describes the source of attentional guidance. Attentional capture describes the resulting priority shift as a selection phenomenon; the concepts overlap but are not interchangeable.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -472,7 +472,7 @@ Overt orienting allows the organism to acquire better information from selected 
 The presence of an eye movement does not prove that the movement itself caused the attentional selection. The two processes can interact in both directions.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -508,7 +508,7 @@ Covert orienting allows rapid preparation for information that may become releva
 Covert attention does not imply that the attended information becomes fully processed independently of all other limits. Sensory quality, task demands, and competing information continue to matter.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -544,7 +544,7 @@ Orienting helps allocate limited processing to information that may become relev
 Orienting is studied through cueing, reaction-time, detection, search, and eye-movement paradigms. Different measures capture different aspects of the process.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -583,7 +583,7 @@ Theories differ over where selection occurs in processing and how early or late 
 The existence of selective prioritization is strongly established; the exact architecture of selection remains theory-dependent.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -622,7 +622,7 @@ Controlled attention consumes processing capacity and can itself be disrupted by
 Attentional control is strongly supported as a functional domain, but its boundaries with executive control and working memory vary across theories.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -658,7 +658,7 @@ Inhibition depends on task goals, distractor predictability, timing, similarity,
 Effects attributed to inhibition can sometimes be explained by alternative mechanisms such as selection, priming, or response competition. Interpretation therefore requires attention to the experimental design.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -694,7 +694,7 @@ Some tasks reveal slower responses when attention must be released from a previo
 Persistence can sometimes be useful when the current target remains important. Therefore rapid disengagement is not universally optimal; appropriate disengagement depends on goals.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -730,7 +730,7 @@ Effective attention requires changing the set when task requirements change. A p
 Attentional set concerns allocation of processing priority. Perceptual set concerns how expectations and context influence perceptual interpretation; the two can interact but are not identical.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -766,7 +766,7 @@ Salience describes how strongly an item stands out relative to its context. Bott
 Stimulus-driven attentional effects are robust, but the extent to which they are genuinely independent of goals is a continuing theoretical issue.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -802,7 +802,7 @@ Goal-driven and stimulus-driven influences continuously compete and cooperate. E
 Top-down processing in perception concerns how expectations and knowledge influence perceptual interpretation. Top-down attention specifically concerns allocation of attentional priority.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -841,7 +841,7 @@ Capture can rapidly redirect attention toward potentially important information,
 Capture is a well-studied phenomenon, but the relative roles of physical salience and top-down settings remain debated across paradigms.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -877,7 +877,7 @@ Salience can increase attentional priority, but it is not equivalent to attentio
 Salience can be operationalized through visual or other sensory contrasts, but there is no single universal scalar that predicts all attentional behavior.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -913,7 +913,7 @@ Such capture is useful because it increases the probability that relevant inform
 The concept is narrower than top-down attention: it specifically concerns a stimulus-triggered priority shift whose effectiveness depends on goal relevance.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -949,7 +949,7 @@ Feature integration is closely tied to perceptual organization and object repres
 Feature-binding effects are well established, while the precise mechanisms and extent to which attention is always required remain subjects of theoretical debate.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -988,7 +988,7 @@ Search can fail because a target is difficult to discriminate, attention is misd
 Visual-search paradigms provide a major experimental framework for studying selective attention, but the exact search architecture varies across tasks.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -1024,7 +1024,7 @@ Cueing paradigms can reveal benefits of preparing attention and costs of moving 
 Spatial cueing is a method and phenomenon for studying spatial attention, not a complete theory of attention itself.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -1063,7 +1063,7 @@ When task-critical operations occur simultaneously, interference can be greater.
 Dual-task interference strongly supports capacity limitations and processing competition, but the exact underlying architecture differs across models.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -1102,7 +1102,7 @@ Performance can also differ between blocks containing one task and blocks requir
 Task switching is more specific than alternating attention: moving attention between targets does not necessarily require changing the task rule.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -1141,7 +1141,7 @@ People may feel productive while performance on one or more tasks declines. Subj
 Multitasking is an everyday behavioral description rather than a single laboratory mechanism. Its effects must be analyzed according to the component attentional and task processes involved.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -1177,7 +1177,7 @@ Load effects depend on task design, stimulus discriminability, timing, expectati
 Load theory provides one influential account of selective attention, but findings across paradigms indicate that attentional allocation depends on multiple interacting factors.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -1213,7 +1213,7 @@ Competition can arise from sensory processing, working-memory maintenance, respo
 Practice, expertise, fatigue, motivation, and current task structure can change how much demand a person can manage. This does not mean that capacity is unlimited with enough practice.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -1249,7 +1249,7 @@ Failure to report an unexpected event does not prove that the stimulus received 
 The phenomenon illustrates limits of attention and awareness, but it should not be generalized into the claim that people routinely fail to see any unattended information.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -1285,7 +1285,7 @@ Large or meaningful changes are not automatically detected. Detection depends on
 Inattentional blindness concerns an unexpected object or event failing to be noticed. Change blindness concerns failure to detect a difference between visual states.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -1321,7 +1321,7 @@ The magnitude of the blink depends on the temporal separation between targets, t
 Accounts differ on whether the central limitation reflects consolidation, attentional gating, resource allocation, or related processes. The empirical phenomenon is better established than any single explanation.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -1357,7 +1357,7 @@ Vigilance failure is probabilistic. Some tasks and individuals show stable perfo
 Declines can reflect interactions among sustained attention, arousal, motivation, expectation, and decision criteria rather than one single mechanism.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -1393,7 +1393,7 @@ Distraction can slow responses, increase errors, interrupt task-set maintenance,
 Attentional control can reduce some distraction, but complete resistance is not guaranteed. Attempts to suppress distraction can themselves consume control resources.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -1429,7 +1429,7 @@ Different paradigms measure different failures. A missed target in a visual-sear
 Attention failure is not always evidence of a stable deficit. Performance is strongly dependent on task and context.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
@@ -1468,7 +1468,7 @@ Mind-wandering can impair performance when sustained external attention is requi
 Mind-wandering is studied using experience sampling, thought probes, behavioral measures, and self-report. Definitions and measurement methods vary, so estimates of frequency and consequences depend on methodology.
 
 ## 4. Relationship to This Chapter
-This Topic belongs to Chapter 1.6 because it explains a specific aspect of attention, information selection, attentional control, attentional competition, or attentional failure. It is part of the chapter's progression from the general architecture of attention to specialized forms, control mechanisms, selection phenomena, task competition, and characteristic failures.
+This Topic has a distinct position in the attention architecture: its role is determined by the specific selection, orienting, control, competition, or failure process named by the Topic, while neighboring perceptual, conscious, learning, memory, and executive constructs retain their canonical ownership.
 
 ## 5. Boundaries
 ### Owns
