@@ -48,6 +48,11 @@
       "chapter": "1.9",
       "sha": "133ad8b79259716766e336daee2907bafaabe355",
       "path": "knowledge/system-01/chapter-1.9/CHAPTER_1.9.md"
+    },
+    {
+      "chapter": "1.10",
+      "sha": "8db48feb23921473d708f4fe506649ced4ff5d25",
+      "path": "knowledge/system-01/chapter-1.10/CHAPTER_1.10.md"
     }
   ],
   "node_classes": [
@@ -4375,6 +4380,467 @@
       "name": "Expertise and thinking",
       "chapter": "1.9",
       "source_sha": "133ad8b79259716766e336daee2907bafaabe355"
+    },
+    {
+      "id": "CH-1.10",
+      "type": "chapter",
+      "name": "Chapter 1.10",
+      "canonical_path": "knowledge/system-01/chapter-1.10/CHAPTER_1.10.md"
+    },
+    {
+      "id": "1.10.1",
+      "type": "topic",
+      "name": "Judgment",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.2",
+      "type": "topic",
+      "name": "Decision-making",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.3",
+      "type": "topic",
+      "name": "Choice",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.4",
+      "type": "topic",
+      "name": "Preference",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.5",
+      "type": "topic",
+      "name": "Preference construction",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.6",
+      "type": "topic",
+      "name": "Preference reversal",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.7",
+      "type": "topic",
+      "name": "Decision under certainty",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.8",
+      "type": "topic",
+      "name": "Decision under risk",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.9",
+      "type": "topic",
+      "name": "Decision under uncertainty",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.10",
+      "type": "topic",
+      "name": "Decision under ambiguity",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.11",
+      "type": "topic",
+      "name": "Expected value",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.12",
+      "type": "topic",
+      "name": "Expected utility",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.13",
+      "type": "topic",
+      "name": "Subjective probability",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.14",
+      "type": "topic",
+      "name": "Satisficing",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.15",
+      "type": "topic",
+      "name": "Bounded rationality",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.16",
+      "type": "topic",
+      "name": "Availability heuristic",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.17",
+      "type": "topic",
+      "name": "Representativeness heuristic",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.18",
+      "type": "topic",
+      "name": "Anchoring",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.19",
+      "type": "topic",
+      "name": "Adjustment",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.20",
+      "type": "topic",
+      "name": "Recognition heuristic",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.21",
+      "type": "topic",
+      "name": "Affect heuristic",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.22",
+      "type": "topic",
+      "name": "Attribute substitution",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.23",
+      "type": "topic",
+      "name": "Framing effect",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.24",
+      "type": "topic",
+      "name": "Reference dependence",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.25",
+      "type": "topic",
+      "name": "Loss aversion",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.26",
+      "type": "topic",
+      "name": "Endowment effect",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.27",
+      "type": "topic",
+      "name": "Status quo bias",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.28",
+      "type": "topic",
+      "name": "Default effect",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.29",
+      "type": "topic",
+      "name": "Present bias",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.30",
+      "type": "topic",
+      "name": "Temporal discounting",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.31",
+      "type": "topic",
+      "name": "Hyperbolic discounting",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.32",
+      "type": "topic",
+      "name": "Probability weighting",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.33",
+      "type": "topic",
+      "name": "Base-rate neglect",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.34",
+      "type": "topic",
+      "name": "Conjunction fallacy",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.35",
+      "type": "topic",
+      "name": "Gambler's fallacy",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.36",
+      "type": "topic",
+      "name": "Hot-hand belief",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.37",
+      "type": "topic",
+      "name": "Overconfidence",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.38",
+      "type": "topic",
+      "name": "Calibration",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.39",
+      "type": "topic",
+      "name": "Confirmation bias",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.40",
+      "type": "topic",
+      "name": "Belief perseverance",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.41",
+      "type": "topic",
+      "name": "Self-serving bias",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.42",
+      "type": "topic",
+      "name": "Hindsight bias",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.43",
+      "type": "topic",
+      "name": "Outcome bias",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.44",
+      "type": "topic",
+      "name": "Omission bias",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.45",
+      "type": "topic",
+      "name": "Planning fallacy",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.46",
+      "type": "topic",
+      "name": "Optimism bias",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.47",
+      "type": "topic",
+      "name": "Escalation of commitment",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.48",
+      "type": "topic",
+      "name": "Sunk-cost effect",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.49",
+      "type": "topic",
+      "name": "Choice overload",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.50",
+      "type": "topic",
+      "name": "Decision fatigue",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.51",
+      "type": "topic",
+      "name": "Regret",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.52",
+      "type": "topic",
+      "name": "Anticipated regret",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.53",
+      "type": "topic",
+      "name": "Ambiguity aversion",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.54",
+      "type": "topic",
+      "name": "Risk perception",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.55",
+      "type": "topic",
+      "name": "Rational choice models",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.56",
+      "type": "topic",
+      "name": "Expected utility theory",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.57",
+      "type": "topic",
+      "name": "Prospect theory",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.58",
+      "type": "topic",
+      "name": "Dual-process accounts",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.59",
+      "type": "topic",
+      "name": "Naturalistic decision-making",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.60",
+      "type": "topic",
+      "name": "Choice architecture",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.61",
+      "type": "topic",
+      "name": "Nudging",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.62",
+      "type": "topic",
+      "name": "Debiasing",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.63",
+      "type": "topic",
+      "name": "Decision errors",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.64",
+      "type": "topic",
+      "name": "Moral judgment and decision-making",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
+    },
+    {
+      "id": "1.10.65",
+      "type": "topic",
+      "name": "Group decision-making",
+      "chapter": "1.10",
+      "source_sha": "8db48feb23921473d708f4fe506649ced4ff5d25"
     }
   ],
   "edges": [
@@ -17851,16 +18317,6 @@
     {
       "source": "1.9.61",
       "target": "CH-1.9",
-      "type": "owned_by",
-      "direction": "forward",
-      "evidence_status": "canonical_ownership",
-      "scope": "chapter ownership",
-      "uncertainty": "none",
-      "version": "1.0"
-    },
-    {
-      "source": "1.9.61",
-      "target": "CH-1.9",
       "type": "part_of",
       "direction": "forward",
       "evidence_status": "canonical_architecture",
@@ -17971,6 +18427,26 @@
     {
       "source": "1.9.67",
       "target": "CH-1.9",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.1",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.1",
+      "target": "CH-1.10",
       "type": "owned_by",
       "direction": "forward",
       "evidence_status": "canonical_ownership",
@@ -17979,21 +18455,1241 @@
       "version": "1.0"
     },
     {
-      "source": "1.9.67",
-      "target": "CH-1.9",
+      "source": "1.10.2",
+      "target": "CH-1.10",
       "type": "part_of",
       "direction": "forward",
       "evidence_status": "canonical_architecture",
       "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.2",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.3",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.3",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.4",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.4",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.5",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.5",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.6",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.6",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.7",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.7",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.8",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.8",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.9",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.9",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.10",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.10",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.11",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.11",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.12",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.12",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.13",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.13",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.14",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.14",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.15",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.15",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.16",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.16",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.17",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.17",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.18",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.18",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.19",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.19",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.20",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.20",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.21",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.21",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.22",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.22",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.23",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.23",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.24",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.24",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.25",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.25",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.26",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.26",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.27",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.27",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.28",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.28",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.29",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.29",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.30",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.30",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.31",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.31",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.32",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.32",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.33",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.33",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.34",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.34",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.35",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.35",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.36",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.36",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.37",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.37",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.38",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.38",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.39",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.39",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.40",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.40",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.41",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.41",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.42",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.42",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.43",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.43",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.44",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.44",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.45",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.45",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.46",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.46",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.47",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.47",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.48",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.48",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.49",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.49",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.50",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.50",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.51",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.51",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.52",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.52",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.53",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.53",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.54",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.54",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.55",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.56",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.57",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.58",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.59",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.59",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.60",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.60",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.61",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.61",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.62",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.62",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.63",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.63",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.64",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.65",
+      "target": "CH-1.10",
+      "type": "part_of",
+      "direction": "forward",
+      "evidence_status": "canonical_architecture",
+      "scope": "system-1 chapter membership",
+      "uncertainty": "none",
+      "version": "1.0"
+    },
+    {
+      "source": "1.10.65",
+      "target": "CH-1.10",
+      "type": "owned_by",
+      "direction": "forward",
+      "evidence_status": "canonical_ownership",
+      "scope": "chapter ownership",
       "uncertainty": "none",
       "version": "1.0"
     }
   ],
   "quality": {
-    "topic_nodes": 608,
-    "chapter_nodes": 9,
-    "edges": 1361,
+    "topic_nodes": 673,
+    "chapter_nodes": 10,
+    "edges": 1484,
     "duplicate_edges": 0,
-    "ontology_source": "canonical chapters 1.1–1.9"
+    "ontology_source": "canonical chapters 1.1–1.10; theory/model and relationship/application nodes retained as topic-layer retrieval nodes"
   }
 }
