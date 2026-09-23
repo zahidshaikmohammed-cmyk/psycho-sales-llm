@@ -3,7 +3,8 @@
 **Branch:** `psycho-sales-canonical-depth-v2`  
 **Stage:** Encyclopedia-wide execution of the original **10-phase quality pipeline**  
 **Current rebuild:** **Chapter 1.4 — Sensation and Perception**  
-**Chapter 1.4 progress:** **62/62 Topics deeply rebuilt; independent audit and canonical replacement completed before seal**  
+**Chapter 1.4:** **62/62 Topics deeply rebuilt and audited**  
+**Chapter 1.5 progress:** **44/44 Topics deeply rebuilt; re-audit in progress**  
 **Next after Chapter 1.4:** **Chapter 1.5 — Consciousness, Sleep, and Altered States**  
 **Architecture:** **21 locked chapters / 1,364 chapter entries / 1,267 canonical construct-clinical owners**
 
@@ -114,7 +115,7 @@ Remaining Chapters 1.10–1.21 are **not a new phase**. They are continued execu
 | 1.2 | 118 | V2 CERTIFIED / LOCKED & SEALED |
 | 1.3 | 78 | V2 CERTIFIED / LOCKED & SEALED |
 | 1.4 | 62 | V2 DEEP REBUILT — AUDITED / RE-AUDITED |
-| 1.5 | 44 | EXISTING CORPUS — NOT YET DEEP-REBUILT |
+| 1.5 | 44 | V2 DEEP REBUILT — RE-AUDIT IN PROGRESS |
 | 1.6 | 40 | EXISTING CORPUS — NOT YET DEEP-REBUILT |
 | 1.7 | 66 | EXISTING CORPUS — NOT YET DEEP-REBUILT |
 | 1.8 | 76 | EXISTING CORPUS — NOT YET DEEP-REBUILT |
@@ -211,7 +212,7 @@ A takeover agent should:
 11. Validate before sealing.
 12. Keep graph, metadata, validation, and prose synchronized.
 13. Never modify `main` unless explicitly authorized.
-14. Chapter 1.4 is complete, audited, re-audited, and canonically synchronized. Its final CI-backed seal is the remaining executable repository gate. After that gate passes, the next deep-rebuild target is **Chapter 1.5 — Consciousness, Sleep, and Altered States** under the existing ten phases.
+14. Chapter 1.4 is complete, audited, re-audited, and canonically synchronized. Chapter 1.5 is now the active completed rebuild undergoing final re-audit and seal synchronization.
 
 ## Final destination
 
