@@ -1,6 +1,6 @@
 # CHAPTER 1.8 — MEMORY
 
-**Status:** LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 1.0  
+**Status:** LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 2.0  
 **System:** 1 — HUMAN PSYCHOLOGY  
 **Canonical Topic count:** 76
 
