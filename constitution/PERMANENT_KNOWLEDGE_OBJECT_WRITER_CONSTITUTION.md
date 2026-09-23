@@ -718,3 +718,107 @@ Write so that a human understands the concept naturally, while a future intellig
 **Do not make the Topic longer to make it look intelligent.**
 
 **Make every word earn its place.**
+
+---
+
+# CONSTITUTION v2.0 — PROJECT-WIDE SEMANTIC UPGRADE
+
+**Status: CANONICAL — LOCKED**
+
+This section upgrades the permanent writer constitution from structural completeness to semantic completeness. It is binding for all future remediation and all future canonical chapters.
+
+## Architecture remains authoritative
+
+The locked ontology, Topic identifiers, ownership registry, and chapter architecture remain authoritative unless a formal architecture change is approved. This constitution does not authorize casual renaming, deletion, duplication, or expansion.
+
+## Semantic completeness
+
+Each Topic must contain the knowledge necessary for its own subject matter. Applicable dimensions include:
+
+- precise identity and scope;
+- what the concept is not;
+- mechanism or process logic;
+- components or dimensions;
+- forms or variants;
+- antecedents and consequences;
+- temporal dynamics;
+- boundary conditions and context dependence;
+- individual and developmental variation;
+- biological, social, and cultural relationships where relevant;
+- measurement and operationalization;
+- major paradigms;
+- competing explanations;
+- theory/model status;
+- evidence status and uncertainty;
+- limitations;
+- misconceptions;
+- neighboring concepts and conceptual contrasts;
+- cross-chapter relationships;
+- useful retrieval aliases.
+
+Not every Topic requires every dimension. Omission must be semantically justified.
+
+## Conceptual distinction gate
+
+For every Topic, identify the nearest plausible neighboring concepts. Explain the distinctions necessary to prevent a competent reader or model from collapsing those concepts together.
+
+## Mechanism gate
+
+Where a Topic describes a process, mechanism, causal pathway, regulatory system, or functional operation, explain how it operates at the appropriate level. Never invent mechanisms or convert proposed mechanisms into established fact.
+
+## Evidence gate
+
+Preserve the difference among definition, observation, association, causal evidence, theory/model, interpretation, speculation, and unresolved question.
+
+## Uncertainty gate
+
+Uncertainty is knowledge. State meaningful scientific limits plainly. Do not manufacture certainty or controversy.
+
+## Boundary gate
+
+Every Topic must state what it owns and what it defers. Deferrals must be meaningful where important cross-chapter boundaries exist.
+
+## Relationship gate
+
+Important relationships are knowledge. Where relevant, distinguish relationships such as influence, prediction, mediation, moderation, constraint, enablement, dependence, temporal order, interaction, competition, dissociation, overlap, and distinction without creating duplicate construct ownership.
+
+## Retrieval gate
+
+Canonical Topics must remain retrievable from natural-language variants. Where useful, preserve synonyms, alternate terminology, historical terminology, abbreviations, and common retrieval variants. Aliases never create competing definitions.
+
+## Anti-template law
+
+No Topic may contain generic filler generated merely to satisfy the schema. Audit smells include literal placeholders, identical explanatory paragraphs, identical relationship paragraphs, identical key-principle sets, and generic chapter-membership prose that conveys no Topic-specific information.
+
+## Scientific contamination law
+
+System 1 describes universal psychology. Sales, persuasion, buyer behavior, conversion, negotiation, commercial tactics, or product strategy must not redefine a universal psychological construct. Applications remain downstream.
+
+## Machine composability
+
+The prose corpus is the human-readable layer. Future machine systems should also be able to represent Topic ID, ontology type, owner, aliases, parent/child relations, cross-links, relationship types, evidence status, uncertainty, theory/model status, measurement references, and clinical/application status.
+
+## Seal gate
+
+A Topic or chapter may be marked **LOCKED & SEALED** only after:
+
+1. ontology match;
+2. structural validation;
+3. ownership validation;
+4. semantic depth audit;
+5. neighboring-concept distinction audit;
+6. scientific-integrity/evidence audit;
+7. relationship/retrieval audit;
+8. anti-template audit;
+9. cross-chapter boundary audit;
+10. final validation record.
+
+Structural completeness alone is never sufficient for a new seal or re-seal.
+
+## Versioning
+
+When semantic depth improves without changing the locked ontology, preserve Topic IDs and names, record the revision, increment the knowledge version, and retain the validation trail.
+
+## Final quality law
+
+> The encyclopedia is finished only when a competent human and a capable machine can use each Topic without hidden assumptions, while the system remains honest about what psychology does not yet know.
