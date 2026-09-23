@@ -1,7 +1,8 @@
 # CHAPTER 1.3 — BIOLOGICAL BASES OF HUMAN BEHAVIOR AND MENTAL LIFE
 
 **System:** 1 — HUMAN PSYCHOLOGY  
-**Status:** LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 2.0ntology:** Exact 78-topic Chapter 1.3 index sourced from SYSTEM_1_SURGICAL_CANONICAL_ARCHITECTURE_v2.md  
+**Status:** CANONICAL DEPTH REBUILD — V2 ARCHITECTURE PRESERVED  
+**Ontology:**** Exact 78-topic Chapter 1.3 index sourced from SYSTEM_1_SURGICAL_CANONICAL_ARCHITECTURE_v2.md  
 **Writing standard:** PSYCHO SALES Permanent Knowledge Object Writing Constitution  
 **Canonical rule:** This chapter owns the biological foundations explicitly assigned to it. Other System 1 chapters may connect to these mechanisms but do not redefine their general biological meaning.
 
@@ -118,6 +119,9 @@ The cellular physiology of neurons is strongly established. Specific claims abou
 
 Neurons are polarized cells with specialized regions supporting input, integration, conduction, and communication. Dendrites commonly receive signals, the cell body integrates cellular information, and the axon carries electrical signals toward terminals, although neurons vary greatly in morphology and function. Excitability depends on membrane properties and ion gradients. Neural output reflects integration of many excitatory and inhibitory influences across time and space.
 
+### Interpretive depth and boundary conditions
+The biological meaning of Neuron is best understood at the cellular and circuit interface rather than as an isolated event. Its effects depend on timing, location, cellular state, interacting signals, and the properties of the receiving network. This distinction matters because the same molecular or electrical event can have different functional consequences in different contexts. Evidence at the cellular level can establish a mechanism without by itself establishing a particular psychological outcome.
+
 ## 4. Relationship to This Chapter
 The neuron is the foundational cellular unit underlying the neural communication, electrical signaling, synaptic transmission, plasticity, and network concepts developed throughout this chapter.
 
@@ -131,6 +135,8 @@ Glial function to 1.3.2, neural communication to 1.3.3, action potentials to 1.3
 - Neurons communicate through coordinated electrical and chemical processes.
 - Neurons are specialized but function within networks.
 - Cellular activity does not map one-to-one onto a complex psychological function.
+- The relevant mechanism operates within interacting cells and circuits, not in isolation.
+- Timing, receptor or membrane state, and network context can change functional consequences.
 
 ---
 
@@ -162,6 +168,9 @@ The supportive and regulatory roles of glia are well established. The precise co
 
 Glial cells include diverse populations with roles in support, metabolism, myelination, immune signaling, extracellular regulation, and development. Astrocytes, oligodendrocytes, Schwann cells, microglia, and other glia are not interchangeable. Glial functions can alter circuit operation, but glial activity should not be treated as equivalent to neuronal firing. Nervous-system function depends on coordinated neuron–glia interactions.
 
+### Interpretive depth and boundary conditions
+The biological meaning of Glial cell is best understood at the cellular and circuit interface rather than as an isolated event. Its effects depend on timing, location, cellular state, interacting signals, and the properties of the receiving network. This distinction matters because the same molecular or electrical event can have different functional consequences in different contexts. Evidence at the cellular level can establish a mechanism without by itself establishing a particular psychological outcome.
+
 ## 4. Relationship to This Chapter
 Glial cells provide the cellular context in which neurons, myelination, synaptic plasticity, neural networks, and brain injury operate.
 
@@ -175,6 +184,8 @@ Myelination to 1.3.13, neural plasticity to 1.3.11, and immune–behavior intera
 - Glia are active biological participants in nervous-system function.
 - Different glial types perform different functions.
 - Neural function depends on neuron–glia interactions.
+- The relevant mechanism operates within interacting cells and circuits, not in isolation.
+- Timing, receptor or membrane state, and network context can change functional consequences.
 
 ---
 
@@ -206,6 +217,9 @@ The basic physiology of neural communication is established. Circuit-level inter
 
 Neural communication combines electrical changes within cells with chemical or electrical signaling between cells. Signal strength, timing, receptor properties, neuromodulation, and network state affect the resulting response. Communication is therefore a transformation process rather than a message that is simply copied unchanged from one neuron to another.
 
+### Interpretive depth and boundary conditions
+The biological meaning of Neural communication is best understood at the cellular and circuit interface rather than as an isolated event. Its effects depend on timing, location, cellular state, interacting signals, and the properties of the receiving network. This distinction matters because the same molecular or electrical event can have different functional consequences in different contexts. Evidence at the cellular level can establish a mechanism without by itself establishing a particular psychological outcome.
+
 ## 4. Relationship to This Chapter
 This topic connects the cellular topics of neurons and glia to electrical signaling, action potentials, synapses, neurotransmitters, neuromodulation, and neural networks.
 
@@ -219,6 +233,8 @@ Electrical signaling to 1.3.4, action potentials to 1.3.5, synaptic transmission
 - Neural communication is both electrical and chemical.
 - Signal effects depend on cellular and circuit context.
 - Complex psychological functions arise from coordinated communication across neural systems.
+- The relevant mechanism operates within interacting cells and circuits, not in isolation.
+- Timing, receptor or membrane state, and network context can change functional consequences.
 
 ---
 
@@ -253,6 +269,9 @@ The cellular electrophysiology is strongly established.
 
 Electrical signaling reflects changes in membrane potential produced by ion movement. Graded potentials vary continuously, whereas action potentials are regenerative events with threshold-dependent dynamics. Neural information can be represented through timing, firing rate, temporal patterns, and population activity rather than one amplitude value. Electrical events also have different meanings depending on their location and circuit context.
 
+### Interpretive depth and boundary conditions
+The biological meaning of Electrical signaling is best understood at the cellular and circuit interface rather than as an isolated event. Its effects depend on timing, location, cellular state, interacting signals, and the properties of the receiving network. This distinction matters because the same molecular or electrical event can have different functional consequences in different contexts. Evidence at the cellular level can establish a mechanism without by itself establishing a particular psychological outcome.
+
 ## 4. Relationship to This Chapter
 Electrical signaling provides the immediate physiological basis for action potentials and interacts with synaptic and network processes.
 
@@ -266,6 +285,8 @@ Action potential generation and propagation to 1.3.5.
 - Neural electrical signals arise from regulated ion movement.
 - Graded potentials and action potentials are distinct forms of electrical activity.
 - Electrical signaling is inseparable from membrane and ion-channel physiology.
+- The relevant mechanism operates within interacting cells and circuits, not in isolation.
+- Timing, receptor or membrane state, and network context can change functional consequences.
 
 ---
 
@@ -300,6 +321,9 @@ The basic action-potential mechanism is a well-established feature of neurophysi
 
 An action potential is a regenerative electrical event produced by voltage-dependent membrane conductances. Propagation along an axon is generally reliable, while information can be represented through spike timing, rate, temporal patterns, and coordinated population activity. Refractory periods constrain firing. An action potential is therefore a mechanism for neural signaling, not a complete representation of a psychological meaning.
 
+### Interpretive depth and boundary conditions
+The biological meaning of Action potential is best understood at the cellular and circuit interface rather than as an isolated event. Its effects depend on timing, location, cellular state, interacting signals, and the properties of the receiving network. This distinction matters because the same molecular or electrical event can have different functional consequences in different contexts. Evidence at the cellular level can establish a mechanism without by itself establishing a particular psychological outcome.
+
 ## 4. Relationship to This Chapter
 Action potentials link electrical signaling to synaptic transmission and long-range communication within neural circuits.
 
@@ -313,6 +337,8 @@ Myelination to 1.3.13 and synaptic transmission to 1.3.6.
 - Action potentials are regenerative electrical events.
 - Voltage-gated ion channels are central to their generation.
 - Their timing and pattern matter for neural information processing.
+- The relevant mechanism operates within interacting cells and circuits, not in isolation.
+- Timing, receptor or membrane state, and network context can change functional consequences.
 
 ---
 
@@ -344,6 +370,9 @@ Basic synaptic physiology is well established; complex network consequences depe
 
 Synaptic transmission converts presynaptic activity into an effect on a postsynaptic cell. Chemical synapses involve transmitter release and receptor activation; electrical synapses transmit current more directly. Effects can be excitatory, inhibitory, or modulatory depending on receptor and circuit context. Transmission is probabilistic and dynamically regulated rather than a perfectly faithful relay.
 
+### Interpretive depth and boundary conditions
+The biological meaning of Synaptic transmission is best understood at the cellular and circuit interface rather than as an isolated event. Its effects depend on timing, location, cellular state, interacting signals, and the properties of the receiving network. This distinction matters because the same molecular or electrical event can have different functional consequences in different contexts. Evidence at the cellular level can establish a mechanism without by itself establishing a particular psychological outcome.
+
 ## 4. Relationship to This Chapter
 Synaptic transmission connects action potentials to neurotransmitters, excitation, inhibition, neuromodulation, and plasticity.
 
@@ -357,6 +386,8 @@ Neurotransmitter identity and receptor-mediated signaling to 1.3.9; synaptic cha
 - Synapses transform electrical activity into chemical or directly coupled signals.
 - Synaptic effects depend on receptor and circuit context.
 - Synaptic transmission can be modified by experience and activity.
+- The relevant mechanism operates within interacting cells and circuits, not in isolation.
+- Timing, receptor or membrane state, and network context can change functional consequences.
 
 ---
 
@@ -388,6 +419,9 @@ The physiological distinction between excitatory and inhibitory influences is we
 
 Excitation refers to neural influence that increases the likelihood of a relevant downstream response, often through depolarizing or facilitatory effects. Excitatory does not mean psychologically positive or equivalent to causing behavior. Neural computation depends on excitation interacting continuously with inhibition and modulation.
 
+### Interpretive depth and boundary conditions
+The biological meaning of Excitation is best understood at the cellular and circuit interface rather than as an isolated event. Its effects depend on timing, location, cellular state, interacting signals, and the properties of the receiving network. This distinction matters because the same molecular or electrical event can have different functional consequences in different contexts. Evidence at the cellular level can establish a mechanism without by itself establishing a particular psychological outcome.
+
 ## 4. Relationship to This Chapter
 Excitation is one side of neural signal integration and must be understood together with inhibition and synaptic transmission.
 
@@ -401,6 +435,8 @@ Inhibition to 1.3.8 and neurotransmitter identity to 1.3.9.
 - Excitation changes the likelihood or level of neural activity.
 - Its effect depends on receptor and cellular context.
 - Neural computation depends on excitation interacting with inhibition.
+- The relevant mechanism operates within interacting cells and circuits, not in isolation.
+- Timing, receptor or membrane state, and network context can change functional consequences.
 
 ---
 
@@ -432,6 +468,9 @@ The basic physiology of inhibitory signaling is well established.
 
 Inhibition refers to neural influence that reduces the likelihood or magnitude of a downstream response. It supports contrast, timing, competition, stabilization, and gain control. Inhibition is not the opposite of mental activity; inhibitory circuits can enable complex functions by constraining competing or excessive activity.
 
+### Interpretive depth and boundary conditions
+The biological meaning of Inhibition is best understood at the cellular and circuit interface rather than as an isolated event. Its effects depend on timing, location, cellular state, interacting signals, and the properties of the receiving network. This distinction matters because the same molecular or electrical event can have different functional consequences in different contexts. Evidence at the cellular level can establish a mechanism without by itself establishing a particular psychological outcome.
+
 ## 4. Relationship to This Chapter
 Inhibition complements excitation and is essential for balanced neural processing, circuit stability, selection, and timing.
 
@@ -445,6 +484,8 @@ Specific inhibitory neurotransmitters and receptors to 1.3.9.
 - Inhibition is an active regulatory process.
 - Neural computation depends on interactions between excitation and inhibition.
 - Inhibitory effects are context-dependent rather than absolute.
+- The relevant mechanism operates within interacting cells and circuits, not in isolation.
+- Timing, receptor or membrane state, and network context can change functional consequences.
 
 ---
 
@@ -476,6 +517,9 @@ Neurotransmission is strongly established; simplified claims linking one transmi
 
 A neurotransmitter is a chemical messenger that acts on receptors to alter cellular activity. Its effect is not fixed by the transmitter name alone: receptor subtype, location, concentration, timing, and circuit state matter. The shorthand that one neurotransmitter equals one psychological function is therefore misleading.
 
+### Interpretive depth and boundary conditions
+The biological meaning of Neurotransmitter is best understood at the cellular and circuit interface rather than as an isolated event. Its effects depend on timing, location, cellular state, interacting signals, and the properties of the receiving network. This distinction matters because the same molecular or electrical event can have different functional consequences in different contexts. Evidence at the cellular level can establish a mechanism without by itself establishing a particular psychological outcome.
+
 ## 4. Relationship to This Chapter
 Neurotransmitters are a molecular component of synaptic transmission and a foundation for neuromodulation and neural plasticity.
 
@@ -489,6 +533,8 @@ Broader diffuse regulation to 1.3.10 and synaptic change to 1.3.12.
 - Neurotransmitter effects depend on receptors and circuits.
 - No single neurotransmitter has one universal psychological meaning.
 - Chemical signaling is integrated with electrical and network processes.
+- The relevant mechanism operates within interacting cells and circuits, not in isolation.
+- Timing, receptor or membrane state, and network context can change functional consequences.
 
 ---
 
@@ -520,6 +566,9 @@ The existence of neuromodulatory systems is well established. Specific psycholog
 
 Neuromodulation changes the responsiveness or operating conditions of neural circuits, often through diffuse or metabotropic signaling. It can alter gain, excitability, plasticity, attention, motivation, arousal, and learning-related processes. Effects depend strongly on receptor distribution, timing, and current network state.
 
+### Interpretive depth and boundary conditions
+The biological meaning of Neuromodulation is best understood at the cellular and circuit interface rather than as an isolated event. Its effects depend on timing, location, cellular state, interacting signals, and the properties of the receiving network. This distinction matters because the same molecular or electrical event can have different functional consequences in different contexts. Evidence at the cellular level can establish a mechanism without by itself establishing a particular psychological outcome.
+
 ## 4. Relationship to This Chapter
 Neuromodulation extends the basic communication architecture into regulation of network state and plasticity.
 
@@ -533,6 +582,8 @@ Specific neurotransmitters to 1.3.9 and neural plasticity to 1.3.11.
 - Modulation changes how neural systems respond.
 - Effects are often broad, state-dependent, and receptor-specific.
 - Neuromodulation is not synonymous with a single psychological function.
+- The relevant mechanism operates within interacting cells and circuits, not in isolation.
+- Timing, receptor or membrane state, and network context can change functional consequences.
 
 ---
 
@@ -567,6 +618,9 @@ Neural plasticity is an established biological principle; the magnitude and perm
 
 Neural plasticity occurs across multiple timescales and levels, including changes in synaptic strength, dendritic structure, connectivity, excitability, and network organization. It supports development, learning, adaptation, and some recovery after injury, but plasticity is not inherently beneficial: maladaptive changes are also possible. Plasticity is constrained by developmental stage, prior activity, resources, circuit architecture, and the timing and nature of experience.
 
+### Interpretive depth and boundary conditions
+The biological meaning of Neural plasticity is best understood at the cellular and circuit interface rather than as an isolated event. Its effects depend on timing, location, cellular state, interacting signals, and the properties of the receiving network. This distinction matters because the same molecular or electrical event can have different functional consequences in different contexts. Evidence at the cellular level can establish a mechanism without by itself establishing a particular psychological outcome.
+
 ## 4. Relationship to This Chapter
 Plasticity connects neural communication, synaptic plasticity, myelination, pruning, networks, development, and recovery after injury.
 
@@ -580,6 +634,8 @@ Synaptic plasticity to 1.3.12 and neural pruning to 1.3.14.
 - Neural systems can change with experience and biological conditions.
 - Plasticity is constrained rather than unlimited.
 - Change can be adaptive, maladaptive, or compensatory depending on context.
+- The relevant mechanism operates within interacting cells and circuits, not in isolation.
+- Timing, receptor or membrane state, and network context can change functional consequences.
 
 ---
 
@@ -611,6 +667,9 @@ Synaptic plasticity is strongly established experimentally. Its exact contributi
 
 Synaptic plasticity is activity-dependent change in synaptic strength or efficacy. Long-term potentiation and long-term depression are important experimental examples, but synaptic change includes many mechanisms and timescales. Timing, receptor dynamics, neuromodulation, intracellular signaling, and network context all matter. It is one biological route through which experience can alter future neural responses, not the sole mechanism of learning.
 
+### Interpretive depth and boundary conditions
+The biological meaning of Synaptic plasticity is best understood at the cellular and circuit interface rather than as an isolated event. Its effects depend on timing, location, cellular state, interacting signals, and the properties of the receiving network. This distinction matters because the same molecular or electrical event can have different functional consequences in different contexts. Evidence at the cellular level can establish a mechanism without by itself establishing a particular psychological outcome.
+
 ## 4. Relationship to This Chapter
 This topic is the synaptic-level specialization of neural plasticity and connects neural signaling to learning-related biological change.
 
@@ -624,6 +683,8 @@ General plasticity to 1.3.11 and learning as a psychological process to the rele
 - Synapses can change in strength and structure.
 - Activity patterns can shape later neural responsiveness.
 - Synaptic change is one mechanism within larger neural systems.
+- The relevant mechanism operates within interacting cells and circuits, not in isolation.
+- Timing, receptor or membrane state, and network context can change functional consequences.
 
 ---
 
@@ -658,6 +719,9 @@ The cellular role of myelin in conduction is well established; interpretations o
 
 Myelin is specialized insulating structure produced by oligodendrocytes in the CNS and Schwann cells in the PNS. It increases conduction efficiency and supports reliable timing along axons. Myelination develops across the lifespan and can change with experience and pathology. Its influence on timing can affect coordinated circuit function without itself constituting a psychological process.
 
+### Interpretive depth and boundary conditions
+The biological meaning of Myelination is best understood at the cellular and circuit interface rather than as an isolated event. Its effects depend on timing, location, cellular state, interacting signals, and the properties of the receiving network. This distinction matters because the same molecular or electrical event can have different functional consequences in different contexts. Evidence at the cellular level can establish a mechanism without by itself establishing a particular psychological outcome.
+
 ## 4. Relationship to This Chapter
 Myelination connects glial function, action-potential propagation, development, and neural network timing.
 
@@ -671,6 +735,8 @@ Glial-cell classification to 1.3.2 and neural pruning to 1.3.14.
 - Myelin improves conduction efficiency in many axons.
 - Myelination is developmentally regulated.
 - Myelin is essential to normal neural communication but is not itself a psychological trait.
+- The relevant mechanism operates within interacting cells and circuits, not in isolation.
+- Timing, receptor or membrane state, and network context can change functional consequences.
 
 ---
 
@@ -705,6 +771,9 @@ Developmental synaptic refinement is well established, while precise human timin
 
 Neural pruning refers to developmental or experience-related reduction and refinement of connections. It is not a uniform process of simply deleting unused neurons. Synapses and circuits can be selectively strengthened, weakened, eliminated, or reorganized according to developmental programs and activity. Pruning is therefore part of circuit refinement, with timing and mechanisms varying across systems.
 
+### Interpretive depth and boundary conditions
+The biological meaning of Neural pruning is best understood at the cellular and circuit interface rather than as an isolated event. Its effects depend on timing, location, cellular state, interacting signals, and the properties of the receiving network. This distinction matters because the same molecular or electrical event can have different functional consequences in different contexts. Evidence at the cellular level can establish a mechanism without by itself establishing a particular psychological outcome.
+
 ## 4. Relationship to This Chapter
 Neural pruning is one mechanism of neural plasticity and development and relates to synaptic plasticity and network organization.
 
@@ -718,6 +787,8 @@ General plasticity to 1.3.11 and synaptic plasticity to 1.3.12.
 - Neural development includes both growth and selective reduction.
 - Pruning helps refine circuits.
 - Pruning is not equivalent to generalized brain deterioration.
+- The relevant mechanism operates within interacting cells and circuits, not in isolation.
+- Timing, receptor or membrane state, and network context can change functional consequences.
 
 ---
 
@@ -749,6 +820,9 @@ Network-level organization is strongly supported, but mapping a psychological co
 
 A neural network is an interconnected population whose collective activity produces transformations that individual neurons cannot fully characterize. Networks can be local or distributed, recurrent or feedforward, and dynamically reconfigured by state and learning. A network explanation does not imply that a psychological function is located in one isolated set of neurons.
 
+### Interpretive depth and boundary conditions
+The biological meaning of Neural network is best understood at the cellular and circuit interface rather than as an isolated event. Its effects depend on timing, location, cellular state, interacting signals, and the properties of the receiving network. This distinction matters because the same molecular or electrical event can have different functional consequences in different contexts. Evidence at the cellular level can establish a mechanism without by itself establishing a particular psychological outcome.
+
 ## 4. Relationship to This Chapter
 Neural networks integrate the cellular, synaptic, anatomical, and functional concepts of this chapter.
 
@@ -762,6 +836,8 @@ Functional connectivity to 1.3.16 and brain-wide organization to 1.3.28.
 - Neural functions are often distributed across interacting populations.
 - Connectivity and activity patterns both matter.
 - Network function depends on context and dynamic state.
+- The relevant mechanism operates within interacting cells and circuits, not in isolation.
+- Timing, receptor or membrane state, and network context can change functional consequences.
 
 ---
 
@@ -793,6 +869,9 @@ Functional-connectivity methods are established research tools. Interpretation r
 
 Functional connectivity describes statistical dependence or coordinated variation between activity signals from different neural locations. It can reveal network organization but does not by itself establish direct anatomical connection, direction of influence, or causation. Estimates depend on data, preprocessing, time windows, and analytic methods.
 
+### Interpretive depth and boundary conditions
+The biological meaning of Functional connectivity is best understood at the cellular and circuit interface rather than as an isolated event. Its effects depend on timing, location, cellular state, interacting signals, and the properties of the receiving network. This distinction matters because the same molecular or electrical event can have different functional consequences in different contexts. Evidence at the cellular level can establish a mechanism without by itself establishing a particular psychological outcome.
+
 ## 4. Relationship to This Chapter
 Functional connectivity connects neural-network concepts with neuroimaging and EEG methods and provides a way to study distributed brain organization.
 
@@ -806,6 +885,8 @@ Anatomical pathways to sensory and motor pathway topics and measurement methods 
 - Functional connectivity describes coordinated activity.
 - It is not synonymous with anatomical connectivity.
 - Association does not establish causal direction.
+- The relevant mechanism operates within interacting cells and circuits, not in isolation.
+- Timing, receptor or membrane state, and network context can change functional consequences.
 
 ---
 
@@ -837,6 +918,9 @@ The anatomical distinction is foundational neurobiology.
 
 The CNS consists of the brain and spinal cord and is a major site of integration and control. It continuously interacts with peripheral sensory, motor, autonomic, and endocrine systems rather than operating as an isolated command center. Specialized structures and distributed networks contribute at multiple levels.
 
+### Interpretive depth and boundary conditions
+Central nervous system must be distinguished from the broader nervous-system function in which it participates. Its contribution depends on pathways, targets, feedback, and coordination across multiple neural structures. A component can be necessary, sufficient under some experimental conditions, correlated with a function, or merely involved in it; those are different claims. Biological descriptions should therefore preserve the level of analysis and should not convert a circuit-level association directly into a claim about a complex mental state.
+
 ## 4. Relationship to This Chapter
 The CNS provides the central anatomical framework for brain regions, spinal cord function, neural networks, and sensory and motor pathways.
 
@@ -850,6 +934,8 @@ Peripheral nervous system to 1.3.18 and specific brain structures to Topics 1.3.
 - CNS = brain plus spinal cord.
 - It integrates information and coordinates major functions.
 - CNS function depends on interaction with peripheral systems.
+- Function depends on connectivity and coordinated activity across pathways.
+- Participation in a function is not equivalent to exclusive ownership or simple one-region causation.
 
 ---
 
@@ -881,6 +967,9 @@ The anatomical and functional organization of the PNS is well established.
 
 The PNS includes neural structures outside the brain and spinal cord that connect central systems with the body. It carries sensory information inward and motor or regulatory signals outward, while peripheral circuits can also modify information before central processing. The anatomical distinction does not imply that peripheral processes are psychologically unimportant.
 
+### Interpretive depth and boundary conditions
+Peripheral nervous system must be distinguished from the broader nervous-system function in which it participates. Its contribution depends on pathways, targets, feedback, and coordination across multiple neural structures. A component can be necessary, sufficient under some experimental conditions, correlated with a function, or merely involved in it; those are different claims. Biological descriptions should therefore preserve the level of analysis and should not convert a circuit-level association directly into a claim about a complex mental state.
+
 ## 4. Relationship to This Chapter
 The PNS connects the CNS to somatic, autonomic, sensory, and motor systems.
 
@@ -894,6 +983,8 @@ Somatic nervous system to 1.3.19 and autonomic nervous system to 1.3.20.
 - The PNS connects central neural systems with the body.
 - It carries both sensory and motor information.
 - Peripheral and central systems operate as an integrated nervous system.
+- Function depends on connectivity and coordinated activity across pathways.
+- Participation in a function is not equivalent to exclusive ownership or simple one-region causation.
 
 ---
 
@@ -925,6 +1016,9 @@ The functional division is well established.
 
 The somatic nervous system is commonly used for pathways associated with sensory information and skeletal-muscle control, but the boundary is more complex than a simple voluntary/involuntary split. Somatic pathways interact with spinal and brain circuits that generate automatic as well as deliberate responses.
 
+### Interpretive depth and boundary conditions
+Somatic nervous system must be distinguished from the broader nervous-system function in which it participates. Its contribution depends on pathways, targets, feedback, and coordination across multiple neural structures. A component can be necessary, sufficient under some experimental conditions, correlated with a function, or merely involved in it; those are different claims. Biological descriptions should therefore preserve the level of analysis and should not convert a circuit-level association directly into a claim about a complex mental state.
+
 ## 4. Relationship to This Chapter
 This topic provides the somatic branch of the PNS and connects sensory pathways, motor pathways, spinal circuits, and motor systems.
 
@@ -938,6 +1032,8 @@ Autonomic regulation to 1.3.20 and motor-system organization to 1.3.25.
 - Somatic pathways carry body-sensation signals and control skeletal muscle.
 - Some somatic responses are reflexive.
 - Somatic and autonomic functions are distinct but interact.
+- Function depends on connectivity and coordinated activity across pathways.
+- Participation in a function is not equivalent to exclusive ownership or simple one-region causation.
 
 ---
 
@@ -969,6 +1065,9 @@ The organization and physiology of the ANS are well established.
 
 The autonomic nervous system regulates internal organs and processes such as cardiovascular, digestive, respiratory, and thermoregulatory function. Autonomic activity is not completely independent of conscious influence and can be altered by learning and context. Sympathetic and parasympathetic activity often interact rather than acting as a simple on/off pair.
 
+### Interpretive depth and boundary conditions
+Autonomic nervous system must be distinguished from the broader nervous-system function in which it participates. Its contribution depends on pathways, targets, feedback, and coordination across multiple neural structures. A component can be necessary, sufficient under some experimental conditions, correlated with a function, or merely involved in it; those are different claims. Biological descriptions should therefore preserve the level of analysis and should not convert a circuit-level association directly into a claim about a complex mental state.
+
 ## 4. Relationship to This Chapter
 The ANS provides the broad framework for the sympathetic, parasympathetic, and enteric divisions and connects neural regulation with endocrine and homeostatic systems.
 
@@ -982,6 +1081,8 @@ Sympathetic, parasympathetic, and enteric systems to 1.3.21–1.3.23.
 - Autonomic regulation is continuous and context-sensitive.
 - Sympathetic and parasympathetic systems often interact rather than simply cancel one another.
 - Autonomic activity is integrated with central, endocrine, and bodily processes.
+- Function depends on connectivity and coordinated activity across pathways.
+- Participation in a function is not equivalent to exclusive ownership or simple one-region causation.
 
 ---
 ## 1.3.21 Sympathetic nervous system
@@ -1012,6 +1113,9 @@ Its anatomy and physiology are well established.
 
 The sympathetic nervous system regulates bodily resources across changing demands. It can alter cardiovascular output, blood flow, metabolism, and rapid responses to challenge. Sympathetic activation is not identical to fear or stress; it can also occur during exercise, anticipation, thermoregulation, and other conditions.
 
+### Interpretive depth and boundary conditions
+Sympathetic nervous system must be distinguished from the broader nervous-system function in which it participates. Its contribution depends on pathways, targets, feedback, and coordination across multiple neural structures. A component can be necessary, sufficient under some experimental conditions, correlated with a function, or merely involved in it; those are different claims. Biological descriptions should therefore preserve the level of analysis and should not convert a circuit-level association directly into a claim about a complex mental state.
+
 ## 4. Relationship to This Chapter
 It is the sympathetic specialization of the autonomic nervous system and interacts with endocrine regulation, homeostasis, and brain–body processes.
 
@@ -1025,6 +1129,8 @@ The overall ANS to 1.3.20 and parasympathetic and enteric divisions to 1.3.22–
 - Sympathetic activity supports many forms of physiological mobilization and regulation.
 - Its effects are organ-specific and context-dependent.
 - It operates as part of an integrated autonomic system.
+- Function depends on connectivity and coordinated activity across pathways.
+- Participation in a function is not equivalent to exclusive ownership or simple one-region causation.
 
 ---
 
@@ -1056,6 +1162,9 @@ Its anatomical and physiological organization is well established.
 
 The parasympathetic nervous system regulates internal organs including digestive and cardiac functions. It is not simply a “rest” switch and can coexist with sympathetic activity. Effects vary by organ and context, so autonomic states emerge from coordinated regulation rather than one division acting alone.
 
+### Interpretive depth and boundary conditions
+Parasympathetic nervous system must be distinguished from the broader nervous-system function in which it participates. Its contribution depends on pathways, targets, feedback, and coordination across multiple neural structures. A component can be necessary, sufficient under some experimental conditions, correlated with a function, or merely involved in it; those are different claims. Biological descriptions should therefore preserve the level of analysis and should not convert a circuit-level association directly into a claim about a complex mental state.
+
 ## 4. Relationship to This Chapter
 It is the parasympathetic specialization of the autonomic nervous system and participates in homeostatic and brain–body regulation.
 
@@ -1069,6 +1178,8 @@ The overall ANS to 1.3.20 and sympathetic and enteric divisions to 1.3.21 and 1.
 - Parasympathetic activity supports ongoing internal regulation.
 - It is not simply the opposite of sympathetic activity.
 - Autonomic function is coordinated across organs and contexts.
+- Function depends on connectivity and coordinated activity across pathways.
+- Participation in a function is not equivalent to exclusive ownership or simple one-region causation.
 
 ---
 
@@ -1100,6 +1211,9 @@ Its neural organization and digestive regulatory roles are established; broader 
 
 The enteric nervous system contains extensive circuitry within the gastrointestinal tract and coordinates many digestive functions locally while interacting with autonomic and central systems. It contributes to motility, secretion, and local responses and participates in bidirectional gut–brain communication. Local autonomy does not mean complete independence.
 
+### Interpretive depth and boundary conditions
+Enteric nervous system must be distinguished from the broader nervous-system function in which it participates. Its contribution depends on pathways, targets, feedback, and coordination across multiple neural structures. A component can be necessary, sufficient under some experimental conditions, correlated with a function, or merely involved in it; those are different claims. Biological descriptions should therefore preserve the level of analysis and should not convert a circuit-level association directly into a claim about a complex mental state.
+
 ## 4. Relationship to This Chapter
 It is the gastrointestinal branch of autonomic neural organization and connects nervous, endocrine, and immune processes in the body.
 
@@ -1113,6 +1227,8 @@ The general ANS to 1.3.20 and immune–behavior interaction to 1.3.67.
 - The gut contains extensive intrinsic neural circuits.
 - Enteric function interacts with central and autonomic regulation.
 - Complexity does not make the enteric system equivalent to the brain.
+- Function depends on connectivity and coordinated activity across pathways.
+- Participation in a function is not equivalent to exclusive ownership or simple one-region causation.
 
 ---
 
@@ -1141,6 +1257,9 @@ Spinal anatomy and physiology are well established.
 
 The spinal cord is both a conduit and a processing structure. It contains ascending sensory pathways, descending motor pathways, and local circuits capable of organizing reflexes and other responses. Spinal processing therefore contributes actively to behavior rather than merely transmitting information.
 
+### Interpretive depth and boundary conditions
+Spinal cord must be distinguished from the broader nervous-system function in which it participates. Its contribution depends on pathways, targets, feedback, and coordination across multiple neural structures. A component can be necessary, sufficient under some experimental conditions, correlated with a function, or merely involved in it; those are different claims. Biological descriptions should therefore preserve the level of analysis and should not convert a circuit-level association directly into a claim about a complex mental state.
+
 ## 4. Relationship to This Chapter
 The spinal cord connects CNS organization with sensory pathways, motor pathways, somatic control, and autonomic regulation.
 
@@ -1154,6 +1273,8 @@ Specific motor and sensory pathways to 1.3.25–1.3.27 and injury consequences t
 - The spinal cord is both a communication pathway and a site of neural processing.
 - Reflexes can be organized locally.
 - Spinal function depends on interaction with the brain and peripheral systems.
+- Function depends on connectivity and coordinated activity across pathways.
+- Participation in a function is not equivalent to exclusive ownership or simple one-region causation.
 
 ---
 
@@ -1185,6 +1306,9 @@ The distributed organization of motor control is strongly established.
 
 The motor system includes distributed mechanisms that select, prepare, initiate, coordinate, and regulate movement. Movement depends on sensory feedback, spinal circuits, cortical and subcortical systems, cerebellar processes, and muscle physiology. Motor behavior is therefore a closed-loop process rather than a one-way command.
 
+### Interpretive depth and boundary conditions
+Motor system must be distinguished from the broader nervous-system function in which it participates. Its contribution depends on pathways, targets, feedback, and coordination across multiple neural structures. A component can be necessary, sufficient under some experimental conditions, correlated with a function, or merely involved in it; those are different claims. Biological descriptions should therefore preserve the level of analysis and should not convert a circuit-level association directly into a claim about a complex mental state.
+
 ## 4. Relationship to This Chapter
 The motor system integrates motor cortex, basal ganglia, cerebellum, brainstem, spinal cord, motor pathways, and sensory feedback.
 
@@ -1198,6 +1322,8 @@ Motor cortex to 1.3.42, basal ganglia to 1.3.33, cerebellum to 1.3.30, and motor
 - Movement is generated by distributed interacting systems.
 - Sensory feedback is integral to motor control.
 - Motor behavior reflects both neural commands and bodily/environmental constraints.
+- Function depends on connectivity and coordinated activity across pathways.
+- Participation in a function is not equivalent to exclusive ownership or simple one-region causation.
 
 ---
 
@@ -1229,6 +1355,9 @@ Major sensory pathways are well characterized, though detailed circuit mechanism
 
 Sensory pathways transform physical or chemical changes in the environment and body into neural signals and route them through specialized circuits. Processing involves filtering, transformation, convergence, divergence, and integration. Neural signals are not complete copies of the external world.
 
+### Interpretive depth and boundary conditions
+Sensory pathways must be distinguished from the broader nervous-system function in which it participates. Its contribution depends on pathways, targets, feedback, and coordination across multiple neural structures. A component can be necessary, sufficient under some experimental conditions, correlated with a function, or merely involved in it; those are different claims. Biological descriptions should therefore preserve the level of analysis and should not convert a circuit-level association directly into a claim about a complex mental state.
+
 ## 4. Relationship to This Chapter
 Sensory pathways connect peripheral receptors and body systems to spinal, brainstem, thalamic, cortical, and multisensory structures.
 
@@ -1242,6 +1371,8 @@ Specific sensory psychology to Chapter 1.4 and somatosensory cortex to 1.3.43.
 - Sensory pathways transform information as well as transmit it.
 - Different sensory modalities use partly distinct pathways.
 - Central processing and feedback influence sensory signaling.
+- Function depends on connectivity and coordinated activity across pathways.
+- Participation in a function is not equivalent to exclusive ownership or simple one-region causation.
 
 ---
 
@@ -1273,6 +1404,9 @@ Major pathway anatomy is well established; precise functional contributions can 
 
 Motor pathways transmit and transform signals involved in movement while interacting continuously with sensory feedback. Different pathways contribute to different forms of movement, posture, reflexes, and skilled action. Motor output is shaped by circuit state, task demands, and feedback rather than a single intention.
 
+### Interpretive depth and boundary conditions
+Motor pathways must be distinguished from the broader nervous-system function in which it participates. Its contribution depends on pathways, targets, feedback, and coordination across multiple neural structures. A component can be necessary, sufficient under some experimental conditions, correlated with a function, or merely involved in it; those are different claims. Biological descriptions should therefore preserve the level of analysis and should not convert a circuit-level association directly into a claim about a complex mental state.
+
 ## 4. Relationship to This Chapter
 Motor pathways connect motor-system organization with motor cortex, brainstem, spinal cord, basal ganglia, cerebellum, and sensory feedback.
 
@@ -1286,6 +1420,8 @@ The integrated motor system to 1.3.25 and specific structures to their own Topic
 - Motor commands are distributed across multiple pathways.
 - Descending signals are transformed by spinal and peripheral systems.
 - Sensory feedback is integral to effective motor output.
+- Function depends on connectivity and coordinated activity across pathways.
+- Participation in a function is not equivalent to exclusive ownership or simple one-region causation.
 
 ---
 
@@ -1317,6 +1453,9 @@ Large-scale organization is well established, while the precise mapping of compl
 
 Brain organization is specialized and distributed at the same time. Regions have distinctive structural properties, yet complex psychological functions depend on interactions among multiple regions and networks. Organization can be described at cellular, local-circuit, regional, network, and whole-organism levels; localization should not be confused with exclusive ownership.
 
+### Interpretive depth and boundary conditions
+The topic Brain organization concerns organization or specialization within the brain, but brain organization is distributed, interactive, and context-sensitive. A structure can participate in several functions, while a psychological function can depend on several interacting structures. Anatomical location, functional participation, connectivity, and causal necessity are therefore distinct forms of evidence. Historical localization language can be useful when carefully defined, but it becomes misleading when a named region is treated as a self-contained “center” for a complex psychological capacity.
+
 ## 4. Relationship to This Chapter
 This is the organizing concept for brainstem, cerebellum, thalamus, hypothalamus, basal ganglia, cortical regions, corpus callosum, specialization, and lateralization.
 
@@ -1330,6 +1469,8 @@ Specific structures and methods to Topics 1.3.29–1.3.78.
 - Brain organization is hierarchical and distributed.
 - Structure and function constrain one another without being identical.
 - Complex psychological functions generally involve interacting systems.
+- Anatomical location, functional association, and causal necessity are distinct claims.
+- Complex psychological functions generally depend on distributed and interacting systems.
 
 ---
 
@@ -1361,6 +1502,9 @@ Its major anatomical and physiological functions are well established.
 
 The brainstem contains structures involved in vital autonomic regulation, arousal, sensory and motor pathways, and coordination between brain and spinal systems. It includes multiple nuclei with distinct roles, so “brainstem function” is not one psychological process.
 
+### Interpretive depth and boundary conditions
+The topic Brainstem concerns organization or specialization within the brain, but brain organization is distributed, interactive, and context-sensitive. A structure can participate in several functions, while a psychological function can depend on several interacting structures. Anatomical location, functional participation, connectivity, and causal necessity are therefore distinct forms of evidence. Historical localization language can be useful when carefully defined, but it becomes misleading when a named region is treated as a self-contained “center” for a complex psychological capacity.
+
 ## 4. Relationship to This Chapter
 The brainstem is a major component of brain organization and links cortical, subcortical, autonomic, and spinal systems.
 
@@ -1374,6 +1518,8 @@ Specific autonomic divisions to 1.3.20–1.3.23 and cerebellar function to 1.3.3
 - The brainstem supports vital regulation and arousal.
 - It carries major ascending and descending pathways.
 - Its functions emerge from multiple interacting nuclei and circuits.
+- Anatomical location, functional association, and causal necessity are distinct claims.
+- Complex psychological functions generally depend on distributed and interacting systems.
 
 ---
 
@@ -1402,6 +1548,9 @@ Its motor role is strongly established; nonmotor roles are supported but vary by
 
 The cerebellum is strongly involved in coordination, timing, error-related learning, and movement prediction, with evidence also supporting contributions to some cognitive and affective functions. Its role is broader than balance and is best understood through interactions with distributed circuits.
 
+### Interpretive depth and boundary conditions
+The topic Cerebellum concerns organization or specialization within the brain, but brain organization is distributed, interactive, and context-sensitive. A structure can participate in several functions, while a psychological function can depend on several interacting structures. Anatomical location, functional participation, connectivity, and causal necessity are therefore distinct forms of evidence. Historical localization language can be useful when carefully defined, but it becomes misleading when a named region is treated as a self-contained “center” for a complex psychological capacity.
+
 ## 4. Relationship to This Chapter
 The cerebellum is a core component of the motor system and interacts with brainstem, cortical, sensory, and basal-ganglia systems.
 
@@ -1415,6 +1564,8 @@ Motor-system organization to 1.3.25 and cortical motor control to 1.3.42.
 - The cerebellum is central to coordination and motor learning.
 - It uses distributed sensory and motor information.
 - Its functions extend beyond movement, but nonmotor claims require specific evidence.
+- Anatomical location, functional association, and causal necessity are distinct claims.
+- Complex psychological functions generally depend on distributed and interacting systems.
 
 ---
 
@@ -1443,6 +1594,9 @@ Its major anatomical and physiological roles are established; detailed contribut
 
 The thalamus contains multiple nuclei that route, integrate, and regulate information between subcortical and cortical systems. It is not merely a passive sensory relay. Different nuclei have distinct connectivity and functions, contributing to perception, attention, arousal, and other processes.
 
+### Interpretive depth and boundary conditions
+The topic Thalamus concerns organization or specialization within the brain, but brain organization is distributed, interactive, and context-sensitive. A structure can participate in several functions, while a psychological function can depend on several interacting structures. Anatomical location, functional participation, connectivity, and causal necessity are therefore distinct forms of evidence. Historical localization language can be useful when carefully defined, but it becomes misleading when a named region is treated as a self-contained “center” for a complex psychological capacity.
+
 ## 4. Relationship to This Chapter
 The thalamus links sensory pathways, motor systems, arousal, and cortical networks within brain organization.
 
@@ -1456,6 +1610,8 @@ Specific sensory systems to their modality pathways and consciousness to Chapter
 - The thalamus contains functionally distinct nuclei.
 - It participates in routing and regulation, not simple passive transmission.
 - Thalamic function depends heavily on interactions with cortical and subcortical networks.
+- Anatomical location, functional association, and causal necessity are distinct claims.
+- Complex psychological functions generally depend on distributed and interacting systems.
 
 ---
 
@@ -1484,6 +1640,9 @@ Its central role in homeostatic and endocrine regulation is well established.
 
 The hypothalamus integrates neural, endocrine, and bodily information to regulate homeostasis, motivated behavior, stress-related functions, reproduction, energy balance, and circadian processes. Its effects operate through autonomic, endocrine, and behavioral pathways, so no single region should be treated as the cause of an entire psychological state.
 
+### Interpretive depth and boundary conditions
+The topic Hypothalamus concerns organization or specialization within the brain, but brain organization is distributed, interactive, and context-sensitive. A structure can participate in several functions, while a psychological function can depend on several interacting structures. Anatomical location, functional participation, connectivity, and causal necessity are therefore distinct forms of evidence. Historical localization language can be useful when carefully defined, but it becomes misleading when a named region is treated as a self-contained “center” for a complex psychological capacity.
+
 ## 4. Relationship to This Chapter
 The hypothalamus connects brain organization with endocrine systems, hormones, homeostasis, allostasis, circadian regulation, and reproductive hormones.
 
@@ -1497,6 +1656,8 @@ The endocrine system to 1.3.47 and hormones to 1.3.48.
 - The hypothalamus links brain regulation to bodily physiology.
 - It coordinates multiple homeostatic and motivated functions.
 - Its effects arise through interacting neural and endocrine pathways.
+- Anatomical location, functional association, and causal necessity are distinct claims.
+- Complex psychological functions generally depend on distributed and interacting systems.
 
 ---
 
@@ -1525,6 +1686,9 @@ Motor roles are well established; cognitive and motivational functions are also 
 
 The basal ganglia comprise interacting nuclei involved in movement, action selection, learning, and reinforcement-related processes. Their role is not simply to start or stop movement. Cortical–basal-ganglia loops help regulate competing actions and behavioral policies across partly distinct functional circuits.
 
+### Interpretive depth and boundary conditions
+The topic Basal ganglia concerns organization or specialization within the brain, but brain organization is distributed, interactive, and context-sensitive. A structure can participate in several functions, while a psychological function can depend on several interacting structures. Anatomical location, functional participation, connectivity, and causal necessity are therefore distinct forms of evidence. Historical localization language can be useful when carefully defined, but it becomes misleading when a named region is treated as a self-contained “center” for a complex psychological capacity.
+
 ## 4. Relationship to This Chapter
 Basal ganglia are a major component of the motor system and interact with cortex, dopamine systems, and learning-related circuits.
 
@@ -1538,6 +1702,8 @@ Motor-system architecture to 1.3.25 and neurotransmitter mechanisms to 1.3.9.
 - Basal ganglia regulate action selection rather than simply generating movement.
 - Their circuits interact extensively with cortex.
 - Different loops support partly different functions.
+- Anatomical location, functional association, and causal necessity are distinct claims.
+- Complex psychological functions generally depend on distributed and interacting systems.
 
 ---
 
@@ -1566,6 +1732,9 @@ Individual structures and circuits have well-supported functions; the exact defi
 
 “Limbic system” is a historical and anatomical grouping rather than a single unified functional system. Structures commonly included have diverse roles in memory, motivation, emotion, learning, and regulation and also participate in broader networks. The label should not be treated as a single explanation for emotion.
 
+### Interpretive depth and boundary conditions
+The topic Limbic-system structures concerns organization or specialization within the brain, but brain organization is distributed, interactive, and context-sensitive. A structure can participate in several functions, while a psychological function can depend on several interacting structures. Anatomical location, functional participation, connectivity, and causal necessity are therefore distinct forms of evidence. Historical localization language can be useful when carefully defined, but it becomes misleading when a named region is treated as a self-contained “center” for a complex psychological capacity.
+
 ## 4. Relationship to This Chapter
 This Topic preserves the canonical architectural term while directing interpretation toward distributed brain networks and specific structures.
 
@@ -1579,6 +1748,8 @@ Specific functions of cortical and subcortical structures to their canonical Top
 - “Limbic system” is a useful but imperfect grouping.
 - Individual structures have distinct functions.
 - Complex emotion and motivation depend on distributed networks.
+- Anatomical location, functional association, and causal necessity are distinct claims.
+- Complex psychological functions generally depend on distributed and interacting systems.
 
 ---
 
@@ -1610,6 +1781,9 @@ Cortical anatomy and many functional specializations are well established; high-
 
 The cerebral cortex contains interacting areas with differences in cellular architecture, connectivity, and function. Cortical processing is distributed and recurrent, with sensory, motor, association, and control systems interacting continuously. Specialization does not imply that complex psychological functions map one-to-one onto isolated cortical areas.
 
+### Interpretive depth and boundary conditions
+The topic Cerebral cortex concerns organization or specialization within the brain, but brain organization is distributed, interactive, and context-sensitive. A structure can participate in several functions, while a psychological function can depend on several interacting structures. Anatomical location, functional participation, connectivity, and causal necessity are therefore distinct forms of evidence. Historical localization language can be useful when carefully defined, but it becomes misleading when a named region is treated as a self-contained “center” for a complex psychological capacity.
+
 ## 4. Relationship to This Chapter
 The cortex is the parent structure for association cortex, lobes, prefrontal, motor, and somatosensory cortex and interacts with subcortical systems.
 
@@ -1623,6 +1797,8 @@ Specific lobes and cortical regions to Topics 1.3.36–1.3.43.
 - The cortex contains specialized and distributed systems.
 - Structure and function are organized at multiple scales.
 - Complex psychological functions cannot generally be assigned to one cortical point.
+- Anatomical location, functional association, and causal necessity are distinct claims.
+- Complex psychological functions generally depend on distributed and interacting systems.
 
 ---
 
@@ -1651,6 +1827,9 @@ The distinction between primary and association cortex is well established, whil
 
 Association cortex integrates information across sensory, motor, memory, language, and goal-related systems. It is not a single homogeneous structure. Different association networks have different connectivity and roles, and their functions emerge through interaction with cortical and subcortical systems.
 
+### Interpretive depth and boundary conditions
+The topic Association cortex concerns organization or specialization within the brain, but brain organization is distributed, interactive, and context-sensitive. A structure can participate in several functions, while a psychological function can depend on several interacting structures. Anatomical location, functional participation, connectivity, and causal necessity are therefore distinct forms of evidence. Historical localization language can be useful when carefully defined, but it becomes misleading when a named region is treated as a self-contained “center” for a complex psychological capacity.
+
 ## 4. Relationship to This Chapter
 Association cortex is a functional organization within the cerebral cortex and overlaps anatomically with several lobes and distributed networks.
 
@@ -1664,6 +1843,8 @@ Specific frontal, parietal, and temporal regions to their respective Topics.
 - Association cortex integrates information across systems.
 - It operates through distributed networks.
 - Complex cognition depends on interactions between association and primary systems.
+- Anatomical location, functional association, and causal necessity are distinct claims.
+- Complex psychological functions generally depend on distributed and interacting systems.
 
 ---
 
@@ -1695,6 +1876,9 @@ Major frontal functional distinctions are well supported; exact mappings are net
 
 The frontal lobe contains functionally distinct regions involved in movement, planning, control, language, decision-related processes, and social behavior. Frontal functions depend heavily on connectivity with posterior cortex, basal ganglia, and other systems, so the frontal lobe should not be reduced to one executive faculty.
 
+### Interpretive depth and boundary conditions
+The topic Frontal lobe concerns organization or specialization within the brain, but brain organization is distributed, interactive, and context-sensitive. A structure can participate in several functions, while a psychological function can depend on several interacting structures. Anatomical location, functional participation, connectivity, and causal necessity are therefore distinct forms of evidence. Historical localization language can be useful when carefully defined, but it becomes misleading when a named region is treated as a self-contained “center” for a complex psychological capacity.
+
 ## 4. Relationship to This Chapter
 The frontal lobe contains the prefrontal and motor cortex and interacts with basal ganglia, thalamus, parietal and temporal regions.
 
@@ -1708,6 +1892,8 @@ Prefrontal cortex to 1.3.41 and motor cortex to 1.3.42.
 - The frontal lobe contains multiple functionally distinct systems.
 - Its functions depend on extensive network interactions.
 - Frontal damage produces location-dependent effects.
+- Anatomical location, functional association, and causal necessity are distinct claims.
+- Complex psychological functions generally depend on distributed and interacting systems.
 
 ---
 
@@ -1736,6 +1922,9 @@ Its sensory and spatial roles are well established; complex functions depend on 
 
 Parietal regions participate in sensory integration, spatial processing, attention, body representation, and interactions with action systems. Functions are distributed across subregions and networks. Parietal processing can contribute to both perception and action, illustrating why strict sensory-versus-motor divisions are often inadequate.
 
+### Interpretive depth and boundary conditions
+The topic Parietal lobe concerns organization or specialization within the brain, but brain organization is distributed, interactive, and context-sensitive. A structure can participate in several functions, while a psychological function can depend on several interacting structures. Anatomical location, functional participation, connectivity, and causal necessity are therefore distinct forms of evidence. Historical localization language can be useful when carefully defined, but it becomes misleading when a named region is treated as a self-contained “center” for a complex psychological capacity.
+
 ## 4. Relationship to This Chapter
 The parietal lobe contains somatosensory cortex and association regions and interacts with frontal, temporal, and subcortical systems.
 
@@ -1749,6 +1938,8 @@ Somatosensory cortex to 1.3.43 and lateralization to 1.3.46.
 - Parietal systems integrate body and spatial information.
 - Functions differ across subregions and hemispheres.
 - Parietal processing links perception with action.
+- Anatomical location, functional association, and causal necessity are distinct claims.
+- Complex psychological functions generally depend on distributed and interacting systems.
 
 ---
 
@@ -1780,6 +1971,9 @@ Its major sensory and memory-related roles are well supported.
 
 Temporal systems participate in auditory processing, memory, semantic knowledge, object-related processing, and social information. Different temporal regions have distinct connectivity and functions, so the temporal lobe cannot be reduced to one function such as memory or hearing.
 
+### Interpretive depth and boundary conditions
+The topic Temporal lobe concerns organization or specialization within the brain, but brain organization is distributed, interactive, and context-sensitive. A structure can participate in several functions, while a psychological function can depend on several interacting structures. Anatomical location, functional participation, connectivity, and causal necessity are therefore distinct forms of evidence. Historical localization language can be useful when carefully defined, but it becomes misleading when a named region is treated as a self-contained “center” for a complex psychological capacity.
+
 ## 4. Relationship to This Chapter
 The temporal lobe connects cortical organization with auditory systems, association cortex, and memory-related neural structures.
 
@@ -1793,6 +1987,8 @@ Specific medial temporal structures where separately owned and psychological mem
 - Temporal functions are distributed across subregions.
 - The lobe supports sensory and higher-order processing.
 - Memory is a network function rather than a single-lobe function.
+- Anatomical location, functional association, and causal necessity are distinct claims.
+- Complex psychological functions generally depend on distributed and interacting systems.
 
 ---
 
@@ -1821,6 +2017,9 @@ Its central role in visual processing is strongly established.
 
 The occipital lobe contains major visual-processing systems, but visual perception extends through distributed pathways interacting with parietal, temporal, and frontal regions. Early areas extract features while later systems integrate information relevant to objects, space, action, and meaning.
 
+### Interpretive depth and boundary conditions
+The topic Occipital lobe concerns organization or specialization within the brain, but brain organization is distributed, interactive, and context-sensitive. A structure can participate in several functions, while a psychological function can depend on several interacting structures. Anatomical location, functional participation, connectivity, and causal necessity are therefore distinct forms of evidence. Historical localization language can be useful when carefully defined, but it becomes misleading when a named region is treated as a self-contained “center” for a complex psychological capacity.
+
 ## 4. Relationship to This Chapter
 The occipital lobe is the principal cortical substrate for visual pathways and interacts with parietal and temporal association systems.
 
@@ -1834,6 +2033,8 @@ Perceptual phenomena and visual experience to Chapter 1.4 and broader brain orga
 - The occipital cortex is central to visual processing.
 - Visual processing is distributed across interconnected pathways.
 - Visual perception depends on more than occipital activity alone.
+- Anatomical location, functional association, and causal necessity are distinct claims.
+- Complex psychological functions generally depend on distributed and interacting systems.
 
 ---
 ## 1.3.41 Prefrontal cortex
@@ -1864,6 +2065,9 @@ Its role in executive and contextual control is strongly supported; precise func
 
 The prefrontal cortex contains multiple networks supporting context-sensitive control, goals, rules, monitoring, decision-related processes, and flexible behavior. It is not a single executive center. Control depends on connectivity with sensory, motor, memory, reward, and emotional systems.
 
+### Interpretive depth and boundary conditions
+The topic Prefrontal cortex concerns organization or specialization within the brain, but brain organization is distributed, interactive, and context-sensitive. A structure can participate in several functions, while a psychological function can depend on several interacting structures. Anatomical location, functional participation, connectivity, and causal necessity are therefore distinct forms of evidence. Historical localization language can be useful when carefully defined, but it becomes misleading when a named region is treated as a self-contained “center” for a complex psychological capacity.
+
 ## 4. Relationship to This Chapter
 It is a specialized component of the frontal lobe and interacts with association cortex, basal ganglia, thalamus, and other systems.
 
@@ -1877,6 +2081,8 @@ General thinking and decision processes to their canonical psychological chapter
 - Prefrontal function is distributed across interacting subregions.
 - It supports context-sensitive control rather than abstract rationality alone.
 - Complex control depends on broader brain networks.
+- Anatomical location, functional association, and causal necessity are distinct claims.
+- Complex psychological functions generally depend on distributed and interacting systems.
 
 ---
 
@@ -1908,6 +2114,9 @@ The role of motor cortex in movement is well established; detailed coding proper
 
 Motor cortex contains multiple areas involved in movement planning and execution, but movement is generated by distributed cortical, subcortical, cerebellar, spinal, and sensory systems. Motor cortical activity can reflect preparation, context, and movement parameters and should not be interpreted as a simple one-neuron-to-one-muscle map.
 
+### Interpretive depth and boundary conditions
+The topic Motor cortex concerns organization or specialization within the brain, but brain organization is distributed, interactive, and context-sensitive. A structure can participate in several functions, while a psychological function can depend on several interacting structures. Anatomical location, functional participation, connectivity, and causal necessity are therefore distinct forms of evidence. Historical localization language can be useful when carefully defined, but it becomes misleading when a named region is treated as a self-contained “center” for a complex psychological capacity.
+
 ## 4. Relationship to This Chapter
 Motor cortex is a cortical component of the motor system and connects frontal-lobe organization with motor pathways and sensory feedback.
 
@@ -1921,6 +2130,8 @@ The integrated motor system to 1.3.25 and descending pathways to 1.3.27.
 - Motor cortex contributes to movement rather than acting alone.
 - Motor representations are distributed and overlapping.
 - Sensory feedback and subcortical circuits shape motor output.
+- Anatomical location, functional association, and causal necessity are distinct claims.
+- Complex psychological functions generally depend on distributed and interacting systems.
 
 ---
 
@@ -1952,6 +2163,9 @@ Its role in somatic sensation is strongly established.
 
 Somatosensory cortex represents aspects of touch, proprioception, and body-related signals through organized but flexible maps. These maps are not fixed photographs of the body and can change with experience, injury, and task demands. Processing interacts with attention, expectation, and motor systems.
 
+### Interpretive depth and boundary conditions
+The topic Somatosensory cortex concerns organization or specialization within the brain, but brain organization is distributed, interactive, and context-sensitive. A structure can participate in several functions, while a psychological function can depend on several interacting structures. Anatomical location, functional participation, connectivity, and causal necessity are therefore distinct forms of evidence. Historical localization language can be useful when carefully defined, but it becomes misleading when a named region is treated as a self-contained “center” for a complex psychological capacity.
+
 ## 4. Relationship to This Chapter
 It is a specialized cortical system within the parietal lobe and sensory pathways and interacts with motor cortex to support action.
 
@@ -1965,6 +2179,8 @@ Pain as a psychological perceptual phenomenon to Chapter 1.4 and interoception t
 - Somatosensory cortex represents bodily information in organized but adaptable maps.
 - Somatic sensation depends on distributed pathways.
 - Sensory and motor systems interact continuously.
+- Anatomical location, functional association, and causal necessity are distinct claims.
+- Complex psychological functions generally depend on distributed and interacting systems.
 
 ---
 
@@ -1996,6 +2212,9 @@ Its anatomy and role in interhemispheric communication are established.
 
 The corpus callosum connects the cerebral hemispheres and supports interhemispheric communication. Its fibers differ in size, origin, destination, and function, so communication is selective rather than uniform. Hemispheric specialization therefore does not imply complete independence.
 
+### Interpretive depth and boundary conditions
+The topic Corpus callosum concerns organization or specialization within the brain, but brain organization is distributed, interactive, and context-sensitive. A structure can participate in several functions, while a psychological function can depend on several interacting structures. Anatomical location, functional participation, connectivity, and causal necessity are therefore distinct forms of evidence. Historical localization language can be useful when carefully defined, but it becomes misleading when a named region is treated as a self-contained “center” for a complex psychological capacity.
+
 ## 4. Relationship to This Chapter
 The corpus callosum is a structural basis for hemispheric interaction and informs the study of specialization and lateralization.
 
@@ -2009,6 +2228,8 @@ Hemispheric specialization to 1.3.45 and lateralization to 1.3.46.
 - The corpus callosum supports interhemispheric coordination.
 - Hemispheric differences do not imply complete independence.
 - Interhemispheric communication is distributed across multiple pathways.
+- Anatomical location, functional association, and causal necessity are distinct claims.
+- Complex psychological functions generally depend on distributed and interacting systems.
 
 ---
 
@@ -2040,6 +2261,9 @@ Hemispheric specialization is well established in several domains, but broad per
 
 Hemispheric specialization refers to relative differences in processing or representation across the hemispheres. Specialization does not mean exclusive ownership, nor does it support simplistic “left-brained/right-brained” descriptions. Most complex behavior depends on coordinated activity across both hemispheres.
 
+### Interpretive depth and boundary conditions
+The topic Hemispheric specialization concerns organization or specialization within the brain, but brain organization is distributed, interactive, and context-sensitive. A structure can participate in several functions, while a psychological function can depend on several interacting structures. Anatomical location, functional participation, connectivity, and causal necessity are therefore distinct forms of evidence. Historical localization language can be useful when carefully defined, but it becomes misleading when a named region is treated as a self-contained “center” for a complex psychological capacity.
+
 ## 4. Relationship to This Chapter
 It connects corpus-callosum anatomy, cortical organization, and lateralization.
 
@@ -2053,6 +2277,8 @@ The anatomical asymmetry concept to 1.3.46 and specific psychological functions 
 - Some functions show population-level hemispheric biases.
 - Specialization does not mean isolation.
 - Individual and task variation matter.
+- Anatomical location, functional association, and causal necessity are distinct claims.
+- Complex psychological functions generally depend on distributed and interacting systems.
 
 ---
 
@@ -2084,6 +2310,9 @@ Neural asymmetries are well established in multiple domains; the magnitude and s
 
 Lateralization describes asymmetric organization or processing between left and right sides of the nervous system. Degree and form vary across functions and individuals and can change with development or injury. It is best treated as relative specialization within an interconnected system.
 
+### Interpretive depth and boundary conditions
+The topic Lateralization concerns organization or specialization within the brain, but brain organization is distributed, interactive, and context-sensitive. A structure can participate in several functions, while a psychological function can depend on several interacting structures. Anatomical location, functional participation, connectivity, and causal necessity are therefore distinct forms of evidence. Historical localization language can be useful when carefully defined, but it becomes misleading when a named region is treated as a self-contained “center” for a complex psychological capacity.
+
 ## 4. Relationship to This Chapter
 Lateralization is the broader organizational concept underlying hemispheric specialization and interacts with corpus-callosum connectivity.
 
@@ -2097,6 +2326,8 @@ Specific specialization patterns to 1.3.45.
 - Lateralization concerns relative asymmetry, not total separation.
 - Many functions remain bilaterally distributed.
 - Development and individual variation shape lateralization.
+- Anatomical location, functional association, and causal necessity are distinct claims.
+- Complex psychological functions generally depend on distributed and interacting systems.
 
 ---
 
@@ -2128,6 +2359,9 @@ The endocrine system is a well-established physiological system.
 
 The endocrine system coordinates bodily processes through hormones released into circulation or acting locally. Hormonal effects are often slower and longer-lasting than rapid neural signaling, but endocrine and neural systems interact continuously. Effects depend on receptor distribution, concentration, timing, feedback, and physiological context.
 
+### Interpretive depth and boundary conditions
+Endocrine system sits at the boundary between biological inheritance, physiological regulation, development, and experience. Effects should be described probabilistically and mechanistically rather than as fixed biological destiny. Genetic or endocrine influences can alter developmental trajectories, sensitivities, or regulatory conditions while remaining dependent on cellular context, developmental timing, and environment. Population-level associations and variance estimates also cannot be translated directly into predictions about a particular individual.
+
 ## 4. Relationship to This Chapter
 It connects hormones, hypothalamic regulation, reproductive physiology, homeostasis, allostasis, and neuroendocrine interaction.
 
@@ -2141,6 +2375,8 @@ Individual hormones to 1.3.48 and neuroendocrine coupling to 1.3.49.
 - Endocrine signaling uses circulating chemical messengers.
 - Hormonal effects depend on receptors and physiological context.
 - Neural and endocrine regulation are closely integrated.
+- Biological influence should not be equated with deterministic control of behavior.
+- Population-level evidence does not automatically specify an individual's mechanism or outcome.
 
 ---
 
@@ -2172,6 +2408,9 @@ Hormonal signaling is strongly established; specific behavioral claims require c
 
 Hormones are signaling molecules that influence target cells through receptors. Their effects depend on receptor distribution, concentration, timing, interactions with other signals, and physiological state. A hormone is not a single-purpose chemical and should not be equated directly with one emotion or behavior.
 
+### Interpretive depth and boundary conditions
+Hormones sits at the boundary between biological inheritance, physiological regulation, development, and experience. Effects should be described probabilistically and mechanistically rather than as fixed biological destiny. Genetic or endocrine influences can alter developmental trajectories, sensitivities, or regulatory conditions while remaining dependent on cellular context, developmental timing, and environment. Population-level associations and variance estimates also cannot be translated directly into predictions about a particular individual.
+
 ## 4. Relationship to This Chapter
 Hormones are the signaling objects of the endocrine system and central to neuroendocrine interaction and reproductive physiology.
 
@@ -2185,6 +2424,8 @@ Endocrine-system organization to 1.3.47 and reproductive hormones to 1.3.69.
 - Hormones act through receptors and context.
 - Effects can be widespread but are not psychologically one-dimensional.
 - Hormonal regulation interacts continuously with neural systems.
+- Biological influence should not be equated with deterministic control of behavior.
+- Population-level evidence does not automatically specify an individual's mechanism or outcome.
 
 ---
 
@@ -2216,6 +2457,9 @@ The existence of neuroendocrine feedback is well established; specific behaviora
 
 Neural and hormonal systems regulate one another bidirectionally. Brain activity can regulate hormone release, while hormones can alter neural excitability, gene expression, motivation, stress responses, and other functions. These interactions operate across multiple timescales and feedback loops.
 
+### Interpretive depth and boundary conditions
+Neuroendocrine interaction sits at the boundary between biological inheritance, physiological regulation, development, and experience. Effects should be described probabilistically and mechanistically rather than as fixed biological destiny. Genetic or endocrine influences can alter developmental trajectories, sensitivities, or regulatory conditions while remaining dependent on cellular context, developmental timing, and environment. Population-level associations and variance estimates also cannot be translated directly into predictions about a particular individual.
+
 ## 4. Relationship to This Chapter
 This topic links hypothalamus, endocrine system, hormones, homeostasis, allostasis, reproductive hormones, and brain–body interaction.
 
@@ -2229,6 +2473,8 @@ Specific endocrine organs and hormones to their canonical Topics.
 - Neural and endocrine systems regulate one another.
 - Feedback is central to neuroendocrine regulation.
 - Context, timing, and receptor distribution shape hormonal effects.
+- Biological influence should not be equated with deterministic control of behavior.
+- Population-level evidence does not automatically specify an individual's mechanism or outcome.
 
 ---
 
@@ -2257,6 +2503,9 @@ Genes as hereditary DNA units are foundational biology. Claims about specific ps
 
 A gene is a functional unit of hereditary information encoded in DNA, but its effects depend on regulatory context, cellular state, development, and interactions with other genes and environments. A gene does not correspond to one behavior or psychological trait. Genetic information must be distinguished from its expression and downstream biological effects.
 
+### Interpretive depth and boundary conditions
+Gene sits at the boundary between biological inheritance, physiological regulation, development, and experience. Effects should be described probabilistically and mechanistically rather than as fixed biological destiny. Genetic or endocrine influences can alter developmental trajectories, sensitivities, or regulatory conditions while remaining dependent on cellular context, developmental timing, and environment. Population-level associations and variance estimates also cannot be translated directly into predictions about a particular individual.
+
 ## 4. Relationship to This Chapter
 Genes provide the biological substrate for genetic variation, gene expression, heritability, gene–environment interaction, and epigenetic processes.
 
@@ -2270,6 +2519,8 @@ Variation across genes to 1.3.51 and expression to 1.3.52.
 - Genes are DNA-based biological information units.
 - Gene effects depend on regulation and context.
 - Complex psychological traits are not normally controlled by single genes.
+- Biological influence should not be equated with deterministic control of behavior.
+- Population-level evidence does not automatically specify an individual's mechanism or outcome.
 
 ---
 
@@ -2301,6 +2552,9 @@ Genetic variation is foundational. The relationship between particular variants 
 
 Genetic variation refers to differences in DNA sequence or genomic structure among individuals or populations. Variation can affect traits through protein function, regulation, development, and environmental interaction. Genetic variation does not establish that a trait is genetically determined or immutable.
 
+### Interpretive depth and boundary conditions
+Genetic variation sits at the boundary between biological inheritance, physiological regulation, development, and experience. Effects should be described probabilistically and mechanistically rather than as fixed biological destiny. Genetic or endocrine influences can alter developmental trajectories, sensitivities, or regulatory conditions while remaining dependent on cellular context, developmental timing, and environment. Population-level associations and variance estimates also cannot be translated directly into predictions about a particular individual.
+
 ## 4. Relationship to This Chapter
 It provides the substrate for heritability, gene expression, gene–environment interaction, and behavioral-genetic research.
 
@@ -2314,6 +2568,8 @@ Heritability to 1.3.53 and gene–environment interaction to 1.3.54.
 - Genetic variation is widespread.
 - Effects are often context-dependent and probabilistic.
 - Genetic difference does not imply genetic determinism.
+- Biological influence should not be equated with deterministic control of behavior.
+- Population-level evidence does not automatically specify an individual's mechanism or outcome.
 
 ---
 
@@ -2345,6 +2601,9 @@ The molecular biology of gene expression is strongly established. Specific psych
 
 Gene expression is the process through which genetic information contributes to functional cellular products, with regulation at multiple stages. Expression varies across cell types, developmental periods, tissues, and environments. It is one pathway connecting inherited DNA with changing biological states, not a direct translation of genes into behavior.
 
+### Interpretive depth and boundary conditions
+Gene expression sits at the boundary between biological inheritance, physiological regulation, development, and experience. Effects should be described probabilistically and mechanistically rather than as fixed biological destiny. Genetic or endocrine influences can alter developmental trajectories, sensitivities, or regulatory conditions while remaining dependent on cellular context, developmental timing, and environment. Population-level associations and variance estimates also cannot be translated directly into predictions about a particular individual.
+
 ## 4. Relationship to This Chapter
 Gene expression links genes with neural plasticity, hormones, development, environmental influences, and epigenetic regulation.
 
@@ -2358,6 +2617,8 @@ Epigenetic processes to 1.3.55 and genetic variation to 1.3.51.
 - Genes require regulated cellular expression to exert many effects.
 - Expression differs across cells and conditions.
 - Expression is dynamic rather than a fixed readout of DNA alone.
+- Biological influence should not be equated with deterministic control of behavior.
+- Population-level evidence does not automatically specify an individual's mechanism or outcome.
 
 ---
 
@@ -2386,6 +2647,9 @@ The statistical concept is established; estimates for specific psychological tra
 
 Heritability is a population statistic describing the proportion of observed variation in a trait within a specified population and environment that is statistically associated with genetic differences under a particular model. It is not the percentage of an individual's trait that is genetic and does not imply immutability. Estimates can change when populations or environments change.
 
+### Interpretive depth and boundary conditions
+Heritability sits at the boundary between biological inheritance, physiological regulation, development, and experience. Effects should be described probabilistically and mechanistically rather than as fixed biological destiny. Genetic or endocrine influences can alter developmental trajectories, sensitivities, or regulatory conditions while remaining dependent on cellular context, developmental timing, and environment. Population-level associations and variance estimates also cannot be translated directly into predictions about a particular individual.
+
 ## 4. Relationship to This Chapter
 Heritability connects genetic variation with behavioral-genetic methods and gene–environment interaction.
 
@@ -2399,6 +2663,8 @@ Behavioral-genetic study designs to 1.3.76 and twin/adoption methods to 1.3.77�
 - Heritability concerns population variation, not individual causation.
 - It is environment-dependent.
 - Heritability does not imply genetic determinism.
+- Biological influence should not be equated with deterministic control of behavior.
+- Population-level evidence does not automatically specify an individual's mechanism or outcome.
 
 ---
 
@@ -2430,6 +2696,9 @@ The interaction principle is established; specific interactions require replicat
 
 Gene–environment interaction occurs when genetic and environmental effects depend on one another. This differs from gene–environment correlation, in which genetic differences are associated with exposure to different environments. Both concepts complicate simple nature-versus-nurture interpretations and require explicit models.
 
+### Interpretive depth and boundary conditions
+Gene–environment interaction sits at the boundary between biological inheritance, physiological regulation, development, and experience. Effects should be described probabilistically and mechanistically rather than as fixed biological destiny. Genetic or endocrine influences can alter developmental trajectories, sensitivities, or regulatory conditions while remaining dependent on cellular context, developmental timing, and environment. Population-level associations and variance estimates also cannot be translated directly into predictions about a particular individual.
+
 ## 4. Relationship to This Chapter
 It links genetic variation, gene expression, development, and environmental influence while supporting a non-deterministic biological framework.
 
@@ -2443,6 +2712,8 @@ General development and psychological environment effects to their relevant chap
 - Genetic effects can depend on context.
 - Environmental effects can differ across genetic backgrounds.
 - Interaction claims require evidence beyond simple association.
+- Biological influence should not be equated with deterministic control of behavior.
+- Population-level evidence does not automatically specify an individual's mechanism or outcome.
 
 ---
 
@@ -2474,6 +2745,9 @@ Epigenetic regulation is established molecular biology. Specific claims connecti
 
 Epigenetic processes involve molecular regulation that changes gene activity without changing the underlying DNA sequence, including DNA methylation and chromatin-related mechanisms. Some are responsive to development or environment, but claims about direct multigenerational transmission of acquired psychological characteristics require careful evidence. Epigenetic regulation is one biological layer among many.
 
+### Interpretive depth and boundary conditions
+Epigenetic processes sits at the boundary between biological inheritance, physiological regulation, development, and experience. Effects should be described probabilistically and mechanistically rather than as fixed biological destiny. Genetic or endocrine influences can alter developmental trajectories, sensitivities, or regulatory conditions while remaining dependent on cellular context, developmental timing, and environment. Population-level associations and variance estimates also cannot be translated directly into predictions about a particular individual.
+
 ## 4. Relationship to This Chapter
 Epigenetic processes connect gene expression with development, environmental influences, neural plasticity, and biological adaptation.
 
@@ -2487,6 +2761,8 @@ General gene expression to 1.3.52 and gene–environment interaction to 1.3.54.
 - Epigenetic regulation changes gene activity without changing DNA sequence.
 - Many epigenetic processes are dynamic and cell-specific.
 - Psychological claims require evidence linking molecular changes to functional outcomes.
+- Biological influence should not be equated with deterministic control of behavior.
+- Population-level evidence does not automatically specify an individual's mechanism or outcome.
 
 ---
 
@@ -2518,6 +2794,9 @@ Evolution is a foundational scientific framework supported by multiple independe
 
 Evolution is change in heritable characteristics of populations across generations. It operates through natural selection, mutation, genetic drift, gene flow, recombination, and related processes. Evolution explains population-level change across generations; an individual's lifetime behavior is not itself biological evolution.
 
+### Interpretive depth and boundary conditions
+Evolution is a regulatory or evolutionary concept whose meaning depends on timescale. Immediate physiological regulation, developmental change, and evolutionary change are different processes and should not be collapsed into one explanation. Biological systems can maintain stability through changing processes, and evolved traits reflect population-level selection across generations rather than conscious design. These distinctions prevent circular explanations in which a current behavior is treated as adaptive merely because it exists.
+
 ## 4. Relationship to This Chapter
 Evolution provides the overarching context for natural selection, evolutionary adaptation, and biological constraints.
 
@@ -2531,6 +2810,8 @@ Natural selection to 1.3.57 and evolutionary adaptation to 1.3.58.
 - Evolution concerns populations across generations.
 - Multiple mechanisms can produce evolutionary change.
 - Evolutionary explanations require evidence and should not be assumed from trait existence alone.
+- Timescale matters: regulation within an organism is different from evolutionary change across generations.
+- An existing trait or behavior is not automatically evidence that it is adaptive.
 
 ---
 
@@ -2559,6 +2840,9 @@ Natural selection is a foundational evolutionary mechanism with extensive eviden
 
 Natural selection occurs when heritable variation is associated with differences in survival or reproductive success, causing some variants to become more common across generations. Selection acts in particular environments and does not mean every current trait is adaptive or was selected specifically for its present function.
 
+### Interpretive depth and boundary conditions
+Natural selection is a regulatory or evolutionary concept whose meaning depends on timescale. Immediate physiological regulation, developmental change, and evolutionary change are different processes and should not be collapsed into one explanation. Biological systems can maintain stability through changing processes, and evolved traits reflect population-level selection across generations rather than conscious design. These distinctions prevent circular explanations in which a current behavior is treated as adaptive merely because it exists.
+
 ## 4. Relationship to This Chapter
 It is the primary mechanism addressed within the evolution-to-adaptation sequence of this chapter.
 
@@ -2572,6 +2856,8 @@ The broader evolutionary framework to 1.3.56 and adaptation as an outcome to 1.3
 - Selection requires variation, heritability, and differential reproductive consequences.
 - Selection is environment-dependent.
 - Natural selection is not synonymous with evolution as a whole.
+- Timescale matters: regulation within an organism is different from evolutionary change across generations.
+- An existing trait or behavior is not automatically evidence that it is adaptive.
 
 ---
 
@@ -2600,6 +2886,9 @@ Adaptation is a well-established evolutionary concept, but specific adaptation c
 
 An evolutionary adaptation is a heritable characteristic shaped by selection because it contributed to reproductive success in relevant environments. The term should not be used for every useful behavior or biological feature. Adaptation claims require evidence beyond a plausible functional story and should consider alternative evolutionary processes.
 
+### Interpretive depth and boundary conditions
+Evolutionary adaptation is a regulatory or evolutionary concept whose meaning depends on timescale. Immediate physiological regulation, developmental change, and evolutionary change are different processes and should not be collapsed into one explanation. Biological systems can maintain stability through changing processes, and evolved traits reflect population-level selection across generations rather than conscious design. These distinctions prevent circular explanations in which a current behavior is treated as adaptive merely because it exists.
+
 ## 4. Relationship to This Chapter
 Evolutionary adaptation is an outcome-level concept linked to evolution and natural selection and constrained by biological architecture.
 
@@ -2613,6 +2902,8 @@ General evolution to 1.3.56 and natural selection to 1.3.57.
 - Adaptations are historical outcomes of evolution.
 - Present usefulness is not enough to prove adaptation.
 - Adaptations are environment-specific and constrained.
+- Timescale matters: regulation within an organism is different from evolutionary change across generations.
+- An existing trait or behavior is not automatically evidence that it is adaptive.
 
 ---
 
@@ -2644,6 +2935,9 @@ Biological constraints are a general principle supported across behavioral and b
 
 Biological constraints limit the range of psychological and behavioral variation through anatomy, physiology, development, energetics, genetics, and other properties of living systems. Constraints do not imply absolute immutability; substantial flexibility can exist within biological limits.
 
+### Interpretive depth and boundary conditions
+Biological constraints is a regulatory or evolutionary concept whose meaning depends on timescale. Immediate physiological regulation, developmental change, and evolutionary change are different processes and should not be collapsed into one explanation. Biological systems can maintain stability through changing processes, and evolved traits reflect population-level selection across generations rather than conscious design. These distinctions prevent circular explanations in which a current behavior is treated as adaptive merely because it exists.
+
 ## 4. Relationship to This Chapter
 This concept links evolution, development, neural organization, and individual biological differences.
 
@@ -2657,6 +2951,8 @@ Specific developmental, genetic, or neural mechanisms to their canonical Topics.
 - Biology constrains but does not completely determine behavior.
 - Constraints can bias possibilities rather than prohibit them absolutely.
 - Environmental learning occurs within biological architecture.
+- Timescale matters: regulation within an organism is different from evolutionary change across generations.
+- An existing trait or behavior is not automatically evidence that it is adaptive.
 
 ---
 
@@ -2688,6 +2984,9 @@ Homeostatic regulation is a foundational physiological principle.
 
 Homeostasis refers to processes that maintain regulated variables within viable ranges despite disturbance. It involves sensing, control, effectors, and feedback. Regulation is dynamic rather than perfectly constant: variables fluctuate around regulated ranges. This concept provides a foundation for distinguishing immediate physiological stability from broader predictive regulation.
 
+### Interpretive depth and boundary conditions
+Homeostasis is a regulatory or evolutionary concept whose meaning depends on timescale. Immediate physiological regulation, developmental change, and evolutionary change are different processes and should not be collapsed into one explanation. Biological systems can maintain stability through changing processes, and evolved traits reflect population-level selection across generations rather than conscious design. These distinctions prevent circular explanations in which a current behavior is treated as adaptive merely because it exists.
+
 ## 4. Relationship to This Chapter
 Homeostasis connects hypothalamic regulation, autonomic systems, endocrine signaling, brain–body interaction, and allostasis.
 
@@ -2701,6 +3000,8 @@ Allostasis to 1.3.61 and specific biological rhythms to 1.3.62.
 - Homeostasis is active regulation, not passive stability.
 - Feedback is central.
 - Regulated variables operate within ranges rather than fixed single values.
+- Timescale matters: regulation within an organism is different from evolutionary change across generations.
+- An existing trait or behavior is not automatically evidence that it is adaptive.
 
 ---
 ## 1.3.61 Allostasis
@@ -2731,6 +3032,9 @@ Allostatic regulation is an established framework in physiology and psychobiolog
 
 Allostasis emphasizes regulation through coordinated changes that anticipate or accommodate changing demands rather than simply restoring one fixed value. It complements rather than simply replaces homeostasis: organisms use both stability-oriented regulation and adaptive adjustment. Persistent regulatory demand can carry physiological costs, often discussed as allostatic load.
 
+### Interpretive depth and boundary conditions
+Allostasis is a regulatory or evolutionary concept whose meaning depends on timescale. Immediate physiological regulation, developmental change, and evolutionary change are different processes and should not be collapsed into one explanation. Biological systems can maintain stability through changing processes, and evolved traits reflect population-level selection across generations rather than conscious design. These distinctions prevent circular explanations in which a current behavior is treated as adaptive merely because it exists.
+
 ## 4. Relationship to This Chapter
 Allostasis extends homeostasis and connects stress-related physiology, endocrine regulation, immune function, biological rhythms, and brain–body interaction.
 
@@ -2744,6 +3048,8 @@ Homeostatic regulation to 1.3.60 and stress psychology to its canonical chapter.
 - Biological stability can require continual change.
 - Anticipatory and reactive regulation can both occur.
 - Adaptation can carry cumulative physiological costs.
+- Timescale matters: regulation within an organism is different from evolutionary change across generations.
+- An existing trait or behavior is not automatically evidence that it is adaptive.
 
 ---
 
@@ -2775,6 +3081,9 @@ Biological rhythmicity is strongly established; the mechanism and importance of 
 
 Biological rhythms are recurring temporal patterns in physiological or behavioral processes. They can arise from internal oscillators, environmental cycles, or interactions between them. Rhythms differ in period and mechanism, and can be shifted by light, behavior, hormones, meals, social schedules, and other cues.
 
+### Interpretive depth and boundary conditions
+Biological rhythms is a regulatory or evolutionary concept whose meaning depends on timescale. Immediate physiological regulation, developmental change, and evolutionary change are different processes and should not be collapsed into one explanation. Biological systems can maintain stability through changing processes, and evolved traits reflect population-level selection across generations rather than conscious design. These distinctions prevent circular explanations in which a current behavior is treated as adaptive merely because it exists.
+
 ## 4. Relationship to This Chapter
 Biological rhythms provide the broad temporal framework for circadian rhythms and interact with endocrine, neural, immune, and metabolic regulation.
 
@@ -2788,6 +3097,8 @@ Circadian rhythms to 1.3.63 and specific sleep processes to Chapter 1.5.
 - Biological systems change across multiple timescales.
 - Internal rhythms can be synchronized by environmental cues.
 - Rhythms interact with rather than replace other regulatory systems.
+- Timescale matters: regulation within an organism is different from evolutionary change across generations.
+- An existing trait or behavior is not automatically evidence that it is adaptive.
 
 ---
 
@@ -2819,6 +3130,9 @@ Circadian biology is strongly established.
 
 Circadian rhythms are approximately 24-hour rhythms generated by endogenous timing systems and synchronized by environmental cues, especially light. They influence sleep–wake timing, hormones, temperature, metabolism, and cognition. Internal phase can shift with schedules and environmental exposure, creating alignment or misalignment with external demands.
 
+### Interpretive depth and boundary conditions
+Circadian rhythms is a regulatory or evolutionary concept whose meaning depends on timescale. Immediate physiological regulation, developmental change, and evolutionary change are different processes and should not be collapsed into one explanation. Biological systems can maintain stability through changing processes, and evolved traits reflect population-level selection across generations rather than conscious design. These distinctions prevent circular explanations in which a current behavior is treated as adaptive merely because it exists.
+
 ## 4. Relationship to This Chapter
 Circadian rhythms are a specialized biological rhythm and connect hypothalamic function, endocrine regulation, brain–body interaction, and sleep.
 
@@ -2832,6 +3146,8 @@ General biological rhythms to 1.3.62 and sleep psychology to Chapter 1.5.
 - Circadian timing is endogenous but environmentally synchronized.
 - Light is a major zeitgeber.
 - Circadian timing interacts with sleep homeostasis and behavior.
+- Timescale matters: regulation within an organism is different from evolutionary change across generations.
+- An existing trait or behavior is not automatically evidence that it is adaptive.
 
 ---
 
@@ -2860,6 +3176,9 @@ Bidirectional brain–body regulation is strongly established. Specific psycholo
 
 Brain–body interaction is bidirectional: neural systems regulate bodily processes, while signals from organs, immune systems, hormones, and metabolism influence brain activity and behavior. The relationship is continuous and context-dependent and should not be reduced to either “mind is only chemicals” or “body signals mechanically determine experience.”
 
+### Interpretive depth and boundary conditions
+Brain–body interaction highlights the continuous interaction between organism and environment. Biological state is shaped by internal regulation, bodily signals, immune and endocrine processes, development, and lived conditions. A biological correlate of a psychological process is not necessarily its complete explanation. Individual differences also require attention to within-person variation, developmental history, measurement error, and context, rather than assuming that a measured biological difference is stable, causal, or behaviorally decisive.
+
 ## 4. Relationship to This Chapter
 This is a cross-system biological framework connecting autonomic, endocrine, immune, interoceptive, and metabolic processes.
 
@@ -2873,6 +3192,8 @@ Interoception to 1.3.66, immune–behavior interaction to 1.3.67, and neuroendoc
 - The brain and body form an interacting biological system.
 - Signals travel in both directions.
 - Psychological interpretation requires pathway-specific evidence.
+- Biological processes interact continuously with developmental and environmental conditions.
+- A biological measure is evidence about a mechanism or correlate, not automatically a complete psychological explanation.
 
 ---
 
@@ -2904,6 +3225,9 @@ The general importance of bodily and sensorimotor systems is well supported; spe
 
 Embodiment concerns ways bodily form, action capacities, sensorimotor systems, and bodily states participate in cognition and psychological functioning. It does not by itself establish that cognition is reducible to bodily processes. Different embodiment theories make different claims, so mechanisms and evidence should be specified.
 
+### Interpretive depth and boundary conditions
+Embodiment highlights the continuous interaction between organism and environment. Biological state is shaped by internal regulation, bodily signals, immune and endocrine processes, development, and lived conditions. A biological correlate of a psychological process is not necessarily its complete explanation. Individual differences also require attention to within-person variation, developmental history, measurement error, and context, rather than assuming that a measured biological difference is stable, causal, or behaviorally decisive.
+
 ## 4. Relationship to This Chapter
 Embodiment connects brain–body interaction, interoception, motor systems, and environmental coupling.
 
@@ -2917,6 +3241,8 @@ Specific interoceptive mechanisms to 1.3.66 and broader psychological constructs
 - Psychological functioning is biologically embodied.
 - Bodily influence is reciprocal with neural and behavioral processes.
 - Strong embodied claims require phenomenon-specific evidence.
+- Biological processes interact continuously with developmental and environmental conditions.
+- A biological measure is evidence about a mechanism or correlate, not automatically a complete psychological explanation.
 
 ---
 
@@ -2948,6 +3274,9 @@ Interoceptive signaling is well established; relationships with particular emoti
 
 Interoception is sensing, representing, and interpreting signals arising from within the body. It contributes to regulation and can interact with emotion, motivation, decision-making, and conscious bodily experience. Signals are not always consciously perceived, and their psychological meaning depends on central processing, expectations, context, and physiological state.
 
+### Interpretive depth and boundary conditions
+Interoception highlights the continuous interaction between organism and environment. Biological state is shaped by internal regulation, bodily signals, immune and endocrine processes, development, and lived conditions. A biological correlate of a psychological process is not necessarily its complete explanation. Individual differences also require attention to within-person variation, developmental history, measurement error, and context, rather than assuming that a measured biological difference is stable, causal, or behaviorally decisive.
+
 ## 4. Relationship to This Chapter
 Interoception links brain–body interaction with homeostasis, autonomic regulation, endocrine systems, and embodiment.
 
@@ -2961,6 +3290,8 @@ Subjective emotion and cognition to their psychological owners.
 - Interoception concerns internal bodily signaling.
 - Sensing and conscious awareness are not identical.
 - Interoceptive signals contribute to regulation as well as subjective experience.
+- Biological processes interact continuously with developmental and environmental conditions.
+- A biological measure is evidence about a mechanism or correlate, not automatically a complete psychological explanation.
 
 ---
 
@@ -2989,6 +3320,9 @@ Bidirectional immune–brain communication is established; specific behavioral p
 
 Immune–behavior interaction describes bidirectional relationships among immune activity, neural systems, endocrine regulation, and behavior. Immune signals can influence sickness behavior and neural function, while stress-related and behavioral systems can influence immune regulation. Causal interpretation requires attention to pathways, timing, health status, and measurement.
 
+### Interpretive depth and boundary conditions
+Immune–behavior interaction highlights the continuous interaction between organism and environment. Biological state is shaped by internal regulation, bodily signals, immune and endocrine processes, development, and lived conditions. A biological correlate of a psychological process is not necessarily its complete explanation. Individual differences also require attention to within-person variation, developmental history, measurement error, and context, rather than assuming that a measured biological difference is stable, causal, or behaviorally decisive.
+
 ## 4. Relationship to This Chapter
 This topic connects immune function with brain–body interaction, endocrine regulation, and psychoneuroimmunology.
 
@@ -3002,6 +3336,8 @@ The broader interdisciplinary field to 1.3.68.
 - Immune and behavioral systems communicate bidirectionally.
 - Effects depend on timing and physiological context.
 - Correlation does not establish a causal psychological pathway.
+- Biological processes interact continuously with developmental and environmental conditions.
+- A biological measure is evidence about a mechanism or correlate, not automatically a complete psychological explanation.
 
 ---
 
@@ -3030,6 +3366,9 @@ Psychoneuroimmunology does not establish that positive thinking or a single psyc
 
 Psychoneuroimmunology studies interactions among psychological processes, nervous-system activity, endocrine regulation, and immune function. It is an interdisciplinary field, not a claim that thoughts directly control immunity. Findings often involve multiple pathways and feedback loops and can depend strongly on context, health, timing, and measurement.
 
+### Interpretive depth and boundary conditions
+Psychoneuroimmunology highlights the continuous interaction between organism and environment. Biological state is shaped by internal regulation, bodily signals, immune and endocrine processes, development, and lived conditions. A biological correlate of a psychological process is not necessarily its complete explanation. Individual differences also require attention to within-person variation, developmental history, measurement error, and context, rather than assuming that a measured biological difference is stable, causal, or behaviorally decisive.
+
 ## 4. Relationship to This Chapter
 It provides an interdisciplinary framework linking immune–behavior interaction with endocrine, neural, and psychological systems.
 
@@ -3043,6 +3382,8 @@ Specific immune mechanisms to immune biology and specific psychological mechanis
 - Psychological, neural, endocrine, and immune systems interact.
 - Interdisciplinary evidence must be evaluated pathway by pathway.
 - Broad mind–body claims should not exceed the evidence.
+- Biological processes interact continuously with developmental and environmental conditions.
+- A biological measure is evidence about a mechanism or correlate, not automatically a complete psychological explanation.
 
 ---
 
@@ -3074,6 +3415,9 @@ Endocrine roles are well established; specific behavioral effects require carefu
 
 Reproductive hormones participate in development, reproductive physiology, sexual behavior, and regulation of multiple bodily systems. Effects on psychological functioning depend on receptors, developmental stage, interactions with other hormones, and context. Hormone levels should not be treated as direct explanations for complex psychological states.
 
+### Interpretive depth and boundary conditions
+Reproductive hormones highlights the continuous interaction between organism and environment. Biological state is shaped by internal regulation, bodily signals, immune and endocrine processes, development, and lived conditions. A biological correlate of a psychological process is not necessarily its complete explanation. Individual differences also require attention to within-person variation, developmental history, measurement error, and context, rather than assuming that a measured biological difference is stable, causal, or behaviorally decisive.
+
 ## 4. Relationship to This Chapter
 This topic specializes the general hormone and neuroendocrine concepts in relation to reproductive physiology.
 
@@ -3087,6 +3431,8 @@ Sexuality, identity, and social behavior to their psychological owners.
 - Reproductive hormones have multiple physiological targets.
 - Effects depend on developmental and contextual conditions.
 - Hormonal biology does not provide a complete explanation of complex human sexuality or identity.
+- Biological processes interact continuously with developmental and environmental conditions.
+- A biological measure is evidence about a mechanism or correlate, not automatically a complete psychological explanation.
 
 ---
 
@@ -3118,6 +3464,9 @@ Biological variation is established; causal interpretation for psychological out
 
 Biological individual differences arise from variation in genetics, development, physiology, neural structure and function, health, and environmental exposure. Biological differences can contribute to psychological variation without determining it completely. This Topic concerns biological sources and expression; broader psychological individual differences remain owned by 1.1.14.
 
+### Interpretive depth and boundary conditions
+Biological individual differences highlights the continuous interaction between organism and environment. Biological state is shaped by internal regulation, bodily signals, immune and endocrine processes, development, and lived conditions. A biological correlate of a psychological process is not necessarily its complete explanation. Individual differences also require attention to within-person variation, developmental history, measurement error, and context, rather than assuming that a measured biological difference is stable, causal, or behaviorally decisive.
+
 ## 4. Relationship to This Chapter
 This topic integrates genetic, neural, endocrine, immune, and physiological differences discussed throughout Chapter 1.3.
 
@@ -3131,6 +3480,8 @@ Specific genetic, neural, hormonal, and psychological constructs to their canoni
 - People differ biologically in many measurable ways.
 - Biological differences interact with experience and context.
 - Group averages do not determine individual outcomes.
+- Biological processes interact continuously with developmental and environmental conditions.
+- A biological measure is evidence about a mechanism or correlate, not automatically a complete psychological explanation.
 
 ---
 
@@ -3159,6 +3510,9 @@ Neuropsychology is an established scientific and clinical field; specific brain�
 
 Neuropsychology investigates relationships among brain function, cognition, emotion, and behavior using clinical, experimental, and assessment methods. Modern neuropsychology emphasizes distributed systems and patterns of impairment rather than simplistic one-region/one-function localization. Clinical observations can be informative, but causal inference and diagnosis require appropriate evidence.
 
+### Interpretive depth and boundary conditions
+Neuropsychology is a methodological or applied bridge between biological evidence and psychological inference. Its evidential value depends on what is measured, how the measurement is obtained, what alternative explanations remain, and whether findings converge across methods. Structural, physiological, correlational, and lesion evidence answer different questions. Strong interpretation therefore requires explicit attention to construct validity, causal inference, sampling, confounding, and the limits of generalization.
+
 ## 4. Relationship to This Chapter
 It provides a field-level bridge between biological mechanisms and psychological functioning and uses several methods represented later in this chapter.
 
@@ -3172,6 +3526,8 @@ Specific brain injury to 1.3.72 and lesion methods to 1.3.75.
 - Brain–behavior relationships require converging evidence.
 - Lesion evidence is informative but rarely simple.
 - Neuropsychology connects biological and psychological levels without reducing one to the other.
+- Methods answer different causal and measurement questions and should not be treated as interchangeable.
+- Converging evidence and explicit inferential limits strengthen biological explanations of psychological function.
 
 ---
 
@@ -3200,6 +3556,9 @@ Brain injury provides important evidence about brain–behavior relationships, b
 
 Brain injury can alter cognition, emotion, behavior, movement, and other functions, but outcomes vary with lesion location, extent, timing, pre-injury characteristics, rehabilitation, and network reorganization. Deficits therefore do not map perfectly onto one damaged location. Recovery can involve restoration, compensation, learning, and changed strategies.
 
+### Interpretive depth and boundary conditions
+Brain injury and psychological function is a methodological or applied bridge between biological evidence and psychological inference. Its evidential value depends on what is measured, how the measurement is obtained, what alternative explanations remain, and whether findings converge across methods. Structural, physiological, correlational, and lesion evidence answer different questions. Strong interpretation therefore requires explicit attention to construct validity, causal inference, sampling, confounding, and the limits of generalization.
+
 ## 4. Relationship to This Chapter
 This topic applies neural organization and plasticity to the study of altered psychological function after injury.
 
@@ -3213,6 +3572,8 @@ Clinical diagnosis and rehabilitation methods to relevant clinical systems; lesi
 - Brain injury can alter psychological function through local and network mechanisms.
 - Effects depend strongly on lesion characteristics.
 - Recovery can involve plasticity and compensation.
+- Methods answer different causal and measurement questions and should not be treated as interchangeable.
+- Converging evidence and explicit inferential limits strengthen biological explanations of psychological function.
 
 ---
 
@@ -3241,6 +3602,9 @@ Neuroimaging is an established scientific methodology. Interpretation depends he
 
 Neuroimaging includes methods measuring structure, metabolism, blood flow, or other correlates of neural activity. Most methods provide indirect measures. Spatial or temporal resolution, preprocessing, reverse inference, multiple comparisons, and correlational design constrain interpretation. Regional activation does not by itself prove that a region uniquely causes a psychological function.
 
+### Interpretive depth and boundary conditions
+Neuroimaging is a methodological or applied bridge between biological evidence and psychological inference. Its evidential value depends on what is measured, how the measurement is obtained, what alternative explanations remain, and whether findings converge across methods. Structural, physiological, correlational, and lesion evidence answer different questions. Strong interpretation therefore requires explicit attention to construct validity, causal inference, sampling, confounding, and the limits of generalization.
+
 ## 4. Relationship to This Chapter
 Neuroimaging is a method for studying brain organization, networks, connectivity, injury, and biological individual differences.
 
@@ -3254,6 +3618,8 @@ EEG to 1.3.74 and lesion methods to 1.3.75.
 - Neuroimaging measures biological signals, not psychological constructs directly.
 - Different modalities provide different kinds of information.
 - Correlation between brain activity and behavior does not automatically establish causation.
+- Methods answer different causal and measurement questions and should not be treated as interchangeable.
+- Converging evidence and explicit inferential limits strengthen biological explanations of psychological function.
 
 ---
 
@@ -3282,6 +3648,9 @@ EEG is an established neuroscience method with broad applications.
 
 EEG records electrical potentials at the scalp that reflect summed activity from populations of neurons, especially sources contributing to measurable fields. It has high temporal resolution but limited spatial localization and an inverse problem. EEG is not direct recording of individual neurons, and components require careful preprocessing and experimental interpretation.
 
+### Interpretive depth and boundary conditions
+EEG is a methodological or applied bridge between biological evidence and psychological inference. Its evidential value depends on what is measured, how the measurement is obtained, what alternative explanations remain, and whether findings converge across methods. Structural, physiological, correlational, and lesion evidence answer different questions. Strong interpretation therefore requires explicit attention to construct validity, causal inference, sampling, confounding, and the limits of generalization.
+
 ## 4. Relationship to This Chapter
 EEG provides a measurement method for neural communication, network activity, functional connectivity, and brain-state dynamics.
 
@@ -3295,6 +3664,8 @@ General neuroimaging to 1.3.73 and lesion methods to 1.3.75.
 - EEG measures scalp electrical potentials generated by population activity.
 - Its major strength is temporal resolution.
 - EEG interpretation requires attention to source and signal limitations.
+- Methods answer different causal and measurement questions and should not be treated as interchangeable.
+- Converging evidence and explicit inferential limits strengthen biological explanations of psychological function.
 
 ---
 
@@ -3323,6 +3694,9 @@ Lesion evidence is valuable for causal inference about brain function but must b
 
 Lesion methods examine relationships between nervous-system damage and changes in behavior or psychological function. Lesions can disrupt connected networks, blood supply, and multiple functions simultaneously, so lesion evidence does not imply that a damaged location alone contains a function. Well-characterized lesion studies can nevertheless provide valuable causal evidence when design and inference are appropriate.
 
+### Interpretive depth and boundary conditions
+Lesion methods is a methodological or applied bridge between biological evidence and psychological inference. Its evidential value depends on what is measured, how the measurement is obtained, what alternative explanations remain, and whether findings converge across methods. Structural, physiological, correlational, and lesion evidence answer different questions. Strong interpretation therefore requires explicit attention to construct validity, causal inference, sampling, confounding, and the limits of generalization.
+
 ## 4. Relationship to This Chapter
 Lesion methods connect brain injury, neuropsychology, brain organization, and causal inference about neural function.
 
@@ -3336,6 +3710,8 @@ General neuropsychology to 1.3.71 and brain injury consequences to 1.3.72.
 - Lesions can provide stronger causal evidence than simple activity correlations.
 - Network disruption complicates simple localization.
 - Converging methods strengthen inference.
+- Methods answer different causal and measurement questions and should not be treated as interchangeable.
+- Converging evidence and explicit inferential limits strengthen biological explanations of psychological function.
 
 ---
 
@@ -3367,6 +3743,9 @@ The field is established, while specific trait findings vary in robustness and e
 
 Behavioral genetics studies genetic and environmental contributions to variation in behavior and psychological traits using family, twin, adoption, molecular, and related designs. It concerns population variation and mechanisms rather than assigning a fixed genetic cause to an individual. Modern work also examines gene–environment correlation, interaction, and developmental change.
 
+### Interpretive depth and boundary conditions
+Behavioral genetics is a methodological or applied bridge between biological evidence and psychological inference. Its evidential value depends on what is measured, how the measurement is obtained, what alternative explanations remain, and whether findings converge across methods. Structural, physiological, correlational, and lesion evidence answer different questions. Strong interpretation therefore requires explicit attention to construct validity, causal inference, sampling, confounding, and the limits of generalization.
+
 ## 4. Relationship to This Chapter
 Behavioral genetics operationalizes genetic variation, heritability, and gene–environment concepts using empirical designs.
 
@@ -3380,6 +3759,8 @@ Specific study designs to 1.3.77–1.3.78 and molecular gene processes to 1.3.50
 - Genetic and environmental influences are both relevant to behavioral variation.
 - Population estimates are not individual destinies.
 - Study design strongly affects interpretation.
+- Methods answer different causal and measurement questions and should not be treated as interchangeable.
+- Converging evidence and explicit inferential limits strengthen biological explanations of psychological function.
 
 ---
 
@@ -3408,6 +3789,9 @@ Twin designs are established tools, but their estimates are model-dependent and 
 
 Twin studies compare similarities between monozygotic and dizygotic twins under explicit assumptions to estimate components of population-level variance. Interpretation depends on assumptions about environmental similarity, assortative mating, gene–environment correlation, and sample characteristics. Twin estimates do not identify specific genes and should be integrated with molecular and developmental evidence.
 
+### Interpretive depth and boundary conditions
+Twin studies is a methodological or applied bridge between biological evidence and psychological inference. Its evidential value depends on what is measured, how the measurement is obtained, what alternative explanations remain, and whether findings converge across methods. Structural, physiological, correlational, and lesion evidence answer different questions. Strong interpretation therefore requires explicit attention to construct validity, causal inference, sampling, confounding, and the limits of generalization.
+
 ## 4. Relationship to This Chapter
 Twin studies are a specific method within behavioral genetics and inform the interpretation of heritability.
 
@@ -3421,6 +3805,8 @@ General heritability to 1.3.53 and behavioral genetics to 1.3.76.
 - Twin comparisons estimate population variation under assumptions.
 - They do not identify individual genetic causes.
 - Complementary molecular and longitudinal evidence can strengthen interpretation.
+- Methods answer different causal and measurement questions and should not be treated as interchangeable.
+- Converging evidence and explicit inferential limits strengthen biological explanations of psychological function.
 
 ---
 
@@ -3449,6 +3835,9 @@ Adoption studies are established behavioral-genetic methods, but estimates depen
 
 Adoption studies compare adoptees with biological and adoptive relatives to investigate genetic and environmental contributions. Interpretation can be complicated by prenatal environment, selective placement, contact with biological relatives, socioeconomic selection, and changing adoptive environments. They are informative designs, not perfect experimental separations of genes and environment.
 
+### Interpretive depth and boundary conditions
+Adoption studies is a methodological or applied bridge between biological evidence and psychological inference. Its evidential value depends on what is measured, how the measurement is obtained, what alternative explanations remain, and whether findings converge across methods. Structural, physiological, correlational, and lesion evidence answer different questions. Strong interpretation therefore requires explicit attention to construct validity, causal inference, sampling, confounding, and the limits of generalization.
+
 ## 4. Relationship to This Chapter
 Adoption studies complement twin studies and broader behavioral-genetic approaches to heritability and gene–environment processes.
 
@@ -3462,5 +3851,7 @@ General behavioral genetics to 1.3.76 and heritability to 1.3.53.
 - Adoption designs help separate some genetic and environmental sources of variation.
 - Prenatal and selection effects matter.
 - Results are population-level evidence, not individual genetic diagnoses.
+- Methods answer different causal and measurement questions and should not be treated as interchangeable.
+- Converging evidence and explicit inferential limits strengthen biological explanations of psychological function.
 
 ---
