@@ -82,7 +82,7 @@ Required work:
 
 ## Priority 3 — architecture continuation
 
-Do not blindly write Chapter 1.9 onward using the old quality gate.
+Chapter 1.9 has now been written under Constitution v2. Future chapters must use the same standard from first draft.
 
 Every new chapter must use Constitution v2 from its first draft.
 
@@ -137,3 +137,13 @@ The project should optimize for **knowledge completeness and reasoning quality**
 - Validation: `graph/SYSTEM_1_KNOWLEDGE_GRAPH_V1_VALIDATION.md`.
 - The graph is derived infrastructure; canonical prose remains authoritative.
 - Unsupported causal or mechanistic edges were not inferred without explicit source support.
+
+
+### Chapter 1.9 — Thinking, Representation, Reasoning, and Problem Solving
+**Status: COMPLETE — V2 CERTIFIED / LOCKED & SEALED**
+
+- 67/67 canonical Topics preserved exactly from the architecture.
+- 22,769 total words; Core Understanding average 107; minimum 105; maximum 109.
+- 0 duplicate Core blocks; 0 duplicate Key-Principle sets; 0 literal placeholders; 0 generic membership signatures.
+- V2 validation record: `knowledge/system-01/chapter-1.9/CHAPTER_1.9_FINAL_VALIDATION.md`.
+- P0/P1/P2/P3 = 0.
