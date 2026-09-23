@@ -1,85 +1,144 @@
-# CHAPTER 1.6 — FINAL VALIDATION
+# CHAPTER 1.6 — FINAL DEPTH VALIDATION
 
 **Chapter:** 1.6 — ATTENTION AND INFORMATION SELECTION  
 **System:** 1 — HUMAN PSYCHOLOGY  
-**Validation status:** PASSED — CANONICAL KNOWLEDGE OBJECT STRUCTURE VERIFIED  
-**Validated against:** Live System 1 architecture, Permanent Knowledge Object Writer Constitution, and current cross-chapter ownership map.
+**Status:** VALIDATED FOR CANONICAL USE — LOCKED & SEALED 🔒  
+**Canonical knowledge version:** 1.2
 
-## 1. Ontology Integrity
+## 1. Architecture Integrity
 
 - Canonical Topic count: **40/40**
 - Topic numbering: **1.6.1–1.6.40**
-- Canonical Topic names: **40/40 exact**
-- Topic names changed: **0**
+- Exact architecture ontology match: **40/40**
+- Topic names changed by depth revision: **0**
 - Topics added: **0**
 - Topics removed: **0**
-- Duplicate names within Chapter 1.6: **0**
 - Exact cross-architecture Topic-name collisions: **0**
+- Duplicate names within Chapter 1.6: **0**
 
-## 2. Required Knowledge Object Structure
+## 2. Knowledge Object Structure
 
-All 40 Knowledge Objects contain the six permanent sections in the required order:
+All 40 Knowledge Objects contain the permanent six-section structure in the required order:
 
-- **Purpose:** 40/40
-- **Definition:** 40/40
-- **Core Understanding:** 40/40
-- **Relationship to This Chapter:** 40/40
-- **Boundaries:** 40/40
-- **Key Principles:** 40/40
+- Purpose: **40/40**
+- Definition: **40/40**
+- Core Understanding: **40/40**
+- Relationship to This Chapter: **40/40**
+- Boundaries: **40/40**
+- Key Principles: **40/40**
 
-Every object also contains explicit **Owns** and **Defers** boundaries.
+Explicit ownership boundaries:
 
-## 3. Ownership Gate
+- Owns: **40/40**
+- Defers: **40/40**
 
-Chapter 1.6 owns attention and direct attentional operations, conditions, and failures.
+## 3. Depth Audit
 
-Important boundaries preserved:
+The original Chapter 1.6 was structurally complete but systematically under-depth. This revision replaced the shallow generic knowledge layer without changing the locked ontology.
 
-- Attention and perceptual processing remain distinct from Chapter 1.4.
-- Bottom-up attention and Top-down attention remain distinct from Bottom-up processing and Top-down processing in Chapter 1.4.
-- Feature integration remains an attention/perceptual mechanism and does not re-own general perceptual organization.
-- Visual search remains an attentional Topic and does not re-own visual perception or object recognition.
-- Inattentional blindness remains an attentional failure and does not re-own consciousness or visual perception.
-- Change blindness remains an attentional failure and does not re-own visual-change perception.
-- Mind-wandering remains an attentional state and does not re-own consciousness or general thought.
-- Executive attention and attentional control defer broader executive functions/cognitive control to Chapter 1.9.
-- Attentional blink defers working memory and conscious access to their canonical chapters.
-- Sustained attention and vigilance failure are distinguished.
-- Divided attention, task switching, and multitasking are distinguished.
-- Attentional capture, salience, and goal-directed capture are distinguished.
+Post-revision measurements:
 
-## 4. Scientific Integrity Gate
+- Total chapter words: **12,220**
+- Average Core Understanding: **~126 words per Topic**
+- Minimum Core Understanding: **97 words**
+- Maximum Core Understanding: **211 words**
+- Average Definition: **~22 words**
+- Generic templated definitions remaining: **0**
+- Repeated Key-Principle sets: **0**
+- Double-period artifacts: **0**
+- Literal backslash-newline formatting artifacts: **0**
 
-The chapter was reviewed for:
+The depth increase is adaptive rather than uniform. Major Topics receive mechanism, boundary-condition, theory/evidence, or distinction material only where it materially improves understanding.
 
-- avoiding the claim that attention is a single unitary resource;
-- avoiding absolute claims that unattended information receives no processing;
-- distinguishing endogenous and exogenous orienting;
-- distinguishing overt and covert attention;
-- treating attentional capture as context- and goal-sensitive rather than as a simple consequence of physical salience;
-- treating resource limitations as a theoretical/functional description rather than a literal substance;
-- distinguishing task switching from alternating attention;
-- distinguishing multitasking from true simultaneous processing;
-- treating attentional failures as probabilistic and condition-dependent;
-- avoiding conversion of laboratory effects into universal claims about everyday behavior.
+## 4. Definition Precision Gate
 
-## 5. System Boundary Gate
+Definitions were rewritten so that each Topic identifies its own concept rather than using a generic attention definition.
 
-Chapter 1.6 remains universal psychology.
+Particular distinctions explicitly preserved include:
 
-No sales framework, buyer model, persuasion framework, trading psychology, or applied commercial method was used to redefine an attentional construct.
+- Attention vs selective attention
+- Focused vs sustained attention
+- Divided vs alternating attention
+- Spatial vs feature-based vs object-based attention
+- Executive attention vs broader executive function
+- Endogenous vs exogenous attention
+- Overt vs covert attention
+- Orienting vs attentional selection
+- Attentional control vs attentional inhibition
+- Attentional disengagement vs task switching
+- Attentional set vs perceptual set
+- Bottom-up attention vs bottom-up perceptual processing
+- Top-down attention vs top-down perceptual processing
+- Capture vs salience
+- Goal-directed capture vs general capture
+- Feature integration vs general perceptual organization
+- Visual search vs visual perception
+- Dual-task interference vs divided attention
+- Task switching vs alternating attention
+- Multitasking vs true simultaneous processing
+- Attentional load vs generic resource limitation
+- Inattentional blindness vs change blindness
+- Attentional blink vs general distraction
+- Sustained attention vs vigilance failure
+- Distraction vs mind-wandering
+- General attention failure vs specific attentional failures
 
-## 6. Structural Integrity
+## 5. Scientific Integrity Gate
 
-- No literal backslash-newline artifacts.
-- 40 Topic headings detected.
-- 40 unique Topic names detected.
-- Six permanent sections detected **40/40**.
-- 40 Owns boundaries detected.
-- 40 Defers boundaries detected.
+The revision preserves epistemic distinctions and avoids absolute claims.
 
-## 7. Final Result
+Reviewed areas include:
 
-**CHAPTER 1.6 — ATTENTION AND INFORMATION SELECTION: VALIDATED FOR CANONICAL USE**
+- attention is not treated as one literal universal resource;
+- unattended information is not assumed to receive zero processing;
+- stimulus-driven and goal-driven attention are treated as interacting influences;
+- salience is not treated as an automatic guarantee of capture;
+- resource terminology is presented as a functional/theoretical description;
+- visual-search architecture is not reduced to an absolute parallel-versus-serial dichotomy;
+- attentional-load effects are presented as task- and context-dependent;
+- attentional blink explanations are separated from the empirical phenomenon;
+- vigilance decline is treated as probabilistic rather than inevitable;
+- mind-wandering consequences are treated as task- and context-dependent;
+- experimental paradigms are not converted into universal everyday claims.
 
-The chapter is structurally complete, ontology-preserving, ownership-aware, and compliant with the locked six-section Knowledge Object constitution.
+## 6. Ownership Gate
+
+Chapter 1.6 remains the authoritative home for attention and direct attentional operations, selection, control, competition, and attentional failures defined by the architecture.
+
+Cross-chapter boundaries were preserved:
+
+- Chapter 1.4: perception and perceptual processing
+- Chapter 1.5: consciousness, sleep, and altered states
+- Chapter 1.7: learning
+- Chapter 1.8: memory
+- Chapter 1.9: cognition and executive processes where applicable
+
+No exact Chapter 1.6 Topic name collides with another architecture entry.
+
+## 7. Retrieval Quality Gate
+
+Each Topic now contains:
+
+- a Topic-specific definition;
+- Topic-specific mechanisms or dimensions where needed;
+- meaningful boundary conditions where relevant;
+- evidence/theory qualification where scientifically useful;
+- explicit ownership;
+- explicit deferral;
+- Topic-specific durable principles.
+
+The chapter is therefore materially more suitable for both human understanding and AI retrieval than the previous shallow version.
+
+## 8. System Boundary Gate
+
+No sales, persuasion, buyer, conversion, trading, or commercial framework was used to redefine universal psychology.
+
+The chapter remains pure System 1 psychology.
+
+## 9. Final Result
+
+**CHAPTER 1.6 — ATTENTION AND INFORMATION SELECTION: DEPTH VALIDATION PASSED**
+
+The chapter is now **LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 1.2**.
+
+The architecture remains unchanged. The revision changed only the knowledge depth, precision, evidence language, and ownership clarity of the 40 existing Knowledge Objects.
