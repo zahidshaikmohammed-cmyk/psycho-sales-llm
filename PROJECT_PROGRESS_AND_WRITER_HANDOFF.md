@@ -1193,3 +1193,28 @@ The live Chapter 1.6 ontology was audited against the full architecture before w
 
 **Current completed System 1 state:** Chapters 1.1–1.6, **399 canonical Topics**.  
 **Next target:** Chapter 1.7.
+
+
+## Chapter 1.6 Depth Revision — Final Canonical State
+
+The initial Chapter 1.6 structural write was subjected to a second audit against the Permanent Knowledge Object Writer Constitution. That audit found systematic under-depth and generic definitions. The chapter was therefore fully rewritten at the knowledge-object level without changing its locked ontology.
+
+### Final depth metrics
+- **40/40** exact canonical Topics
+- **12,220** total words
+- **~126** average Core Understanding words/topic
+- **97** minimum Core Understanding words
+- **211** maximum Core Understanding words
+- **0** generic templated definitions
+- **0** repeated Key-Principle sets
+- **0** exact cross-architecture Topic-name collisions
+- **40/40** six-section objects
+- **40/40** Owns boundaries
+- **40/40** Defers boundaries
+
+### Final state
+**Chapter 1.6 — Attention and Information Selection** is now **LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 1.2**.
+
+No Topic names were changed. No Topics were added or removed. Architecture remains unchanged.
+
+**Next target:** Chapter 1.7.
