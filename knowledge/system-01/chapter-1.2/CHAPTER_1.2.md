@@ -3405,51 +3405,9 @@ Psychological measurement connects abstract psychological constructs to observab
 Psychological measurement is the systematic process of assigning values, categories, scores, or observations to psychological attributes according to defined rules so that those attributes can be described, compared, or analyzed.
 
 ## 3. Core Understanding
-
-### Measurement target
-
-The target may be a state, trait, capacity, behavior, process, experience, or other construct. Clear conceptualization is necessary before choosing a measure.
-
-### Indicators
-
-Indicators can include self-report, behavioral performance, observer ratings, physiological measures, reaction times, or combinations of these.
-
-### Scale properties
-
-Measurement scales can differ in whether values represent categories, order, equal intervals, or meaningful ratios. The scale's properties affect interpretation and analysis.
-
-### Error
-
-Every measurement procedure can contain error. Observed scores may reflect the intended construct plus irrelevant influences and random variation.
-
-### Reliability and validity
-
-Reliability concerns consistency or precision. Validity concerns the interpretation and use of the resulting measurements. High reliability does not guarantee validity.
-
-### Context
-
-A measurement can behave differently across populations, settings, languages, cultures, or time. Measurement evidence must therefore match the intended use.
-
-### Evidence status
-
-Psychological measurement is an established methodological domain. The quality of a measurement depends on evidence for its reliability, validity, fairness, and suitability for the intended purpose.
+Psychological measurement assigns values to observations, responses, performances, or indicators according to a defined measurement procedure so that a psychological attribute can be described or compared. Because many psychological constructs are latent or context-dependent, measurement requires operational definitions, appropriate scales, reliability evidence, validity evidence, and attention to response processes.
 
 
-### Measurement as representation
-
-Psychological measurement represents aspects of a person, behavior, experience, or context using observable indicators and a defined scoring system. The numerical score is not the psychological phenomenon itself; it is evidence used to support an interpretation about that phenomenon.
-
-### Measurement process
-
-Measurement involves defining the target construct, selecting indicators, obtaining observations, scoring them, and interpreting the resulting values. Every stage can introduce error or restrict what the score represents.
-
-### Levels and meaning
-
-The meaning of a score depends on the scale, reference frame, population, and intended use. A number does not automatically possess equal-interval or ratio properties merely because it is written numerically.
-
-### Quality
-
-Good psychological measurement requires evidence about reliability, validity, sensitivity, appropriate norms or criteria, and fairness for the intended population and purpose.
 ## 4. Relationship to This Chapter
 
 Psychological measurement introduces the Psychometrics section and connects directly to reliability, validity, scale construction, item analysis, factor analysis, latent variables, and measurement invariance.
@@ -3465,12 +3423,15 @@ The general scientific process of measuring psychological attributes and represe
 Specific reliability and validity forms, psychometric theories, individual instruments, and substantive constructs.
 
 ## 6. Key Principles
+1. Psychological measurement concerns a specific property or model of psychological measurement.
+2. Measurement depends on the construct, population, purpose, and context.
+3. Reliability and validity answer different questions.
+4. Scores are interpretations supported by evidence, not direct copies of psychological reality.
+5. Measurement error can alter apparent differences and relationships.
+6. Reference groups and standards must be appropriate to the intended use.
+7. Statistical measurement models have assumptions and limitations.
+8. Strong measurement practice makes uncertainty and scope explicit.
 
-1. Psychological measurement translates constructs or phenomena into observable data.
-2. Every measure has strengths and limitations.
-3. Reliability and validity are distinct.
-4. Measurement error affects conclusions.
-5. Measurement evidence must match the intended population and use.
 
 ---
 
@@ -3487,41 +3448,9 @@ Reliability is the degree to which a measurement procedure produces consistent, 
 Reliability is not one universal property; different forms address different sources of inconsistency.
 
 ## 3. Core Understanding
-
-Reliability can concern stability across time, consistency among items, agreement among raters, or other forms of measurement consistency.
-
-### Reliability and validity
-
-A measure can be reliable but invalid. For example, a consistently biased measure can produce highly stable scores that do not represent the intended construct.
-
-### Dependence on context
-
-Reliability can vary across populations, score ranges, tasks, and conditions. It should therefore be evaluated for the intended use.
-
-### Measurement error
-
-Lower reliability generally means more random measurement error, which can attenuate observed relationships and reduce precision.
-
-### Evidence status
-
-Reliability is an established psychometric concept. Its specific interpretation depends on the reliability form and measurement design.
+Reliability concerns the consistency or precision of measurement under specified conditions. It can involve stability across time, consistency among items, agreement among raters, or precision within a measurement model. Reliability is necessary but not sufficient for validity: a measure can consistently capture the wrong construct.
 
 
-### Reliability as precision
-
-Reliability concerns the consistency or precision of measurement under specified conditions. Different reliability forms address different sources of variation, so “reliable” is incomplete unless the relevant source of consistency is identified.
-
-### Dependence on use
-
-Reliability is not a permanent property of a test independent of population and administration. A measure can show different reliability in different samples because variability, item functioning, raters, occasions, or administration conditions change.
-
-### Reliability and validity
-
-Reliable measurement is often important for valid interpretation, but reliability alone does not establish that the intended construct was measured. A consistently wrong measure can be highly reliable.
-
-### Evidence status
-
-Reliability coefficients estimate aspects of consistency under specified models. They should be interpreted with the measurement design, score structure, and intended use rather than as universal quality labels.
 ## 4. Relationship to This Chapter
 
 Reliability is the umbrella psychometric concept for test–retest reliability, internal consistency, inter-rater reliability, and measurement error.
@@ -3537,12 +3466,15 @@ The general concept of consistency and precision in psychological measurement.
 Specific reliability coefficients, validity, measurement error, and psychometric models.
 
 ## 6. Key Principles
+1. Reliability concerns a specific property or model of psychological measurement.
+2. Measurement depends on the construct, population, purpose, and context.
+3. Reliability and validity answer different questions.
+4. Scores are interpretations supported by evidence, not direct copies of psychological reality.
+5. Measurement error can alter apparent differences and relationships.
+6. Reference groups and standards must be appropriate to the intended use.
+7. Statistical measurement models have assumptions and limitations.
+8. Strong measurement practice makes uncertainty and scope explicit.
 
-1. Reliability concerns consistency or precision.
-2. Different reliability forms address different sources of inconsistency.
-3. Reliability does not establish validity.
-4. Reliability depends on the measurement context.
-5. Measurement error is closely related to reliability.
 
 ---
 
@@ -3557,39 +3489,9 @@ Test–retest reliability assesses the stability of measurement across repeated 
 Test–retest reliability is the degree of consistency between measurements obtained from the same units on separate occasions under comparable conditions.
 
 ## 3. Core Understanding
-
-### Time interval
-
-The interval must be long enough to reduce simple memory effects but not so long that genuine change in the construct dominates the difference.
-
-### Stable versus changing constructs
-
-A low test–retest correlation may reflect poor measurement stability, true change, or both. Low stability is not automatically evidence of unreliable measurement if the construct itself is expected to change.
-
-### State measures
-
-For rapidly changing states, test–retest stability may not be an appropriate primary reliability criterion.
-
-### Statistical measure
-
-Researchers can use correlations, intraclass correlations, agreement measures, or other statistics depending on the score and question. A simple correlation can show rank consistency without showing absolute agreement.
-
-### Evidence status
-
-Test–retest reliability is an established form of reliability. Its interpretation depends on the construct's expected stability and the testing conditions.
+Test–retest reliability concerns the consistency of scores when the same measure is administered to the same or comparable individuals on multiple occasions. It is meaningful when the construct is expected to remain sufficiently stable during the interval. Low stability can reflect measurement error, true change, memory or practice effects, or context dependence rather than a simple failure of the test.
 
 
-### Temporal stability
-
-Test–retest reliability examines the consistency of scores across repeated administrations when the construct is expected to remain sufficiently stable. It is most informative when the time interval, population, measurement conditions, and expected change are clearly specified.
-
-### Interpretation
-
-Low test–retest consistency can reflect measurement error, genuine change in the construct, changes in context, memory or practice effects, or instability in the measurement procedure. It should not automatically be interpreted as a defective test.
-
-### Trait versus state measures
-
-A measure intended to capture a stable characteristic may be expected to show stronger temporal stability than a measure designed to capture changing states. The desired level of temporal stability therefore depends on the construct and use.
 ## 4. Relationship to This Chapter
 
 Test–retest reliability is a specific form of reliability and connects to psychological measurement and measurement error.
@@ -3605,12 +3507,15 @@ The concept of measurement consistency across repeated occasions.
 General reliability, internal consistency, inter-rater reliability, and the stability of the psychological construct itself.
 
 ## 6. Key Principles
+1. Test–retest reliability concerns a specific property or model of psychological measurement.
+2. Measurement depends on the construct, population, purpose, and context.
+3. Reliability and validity answer different questions.
+4. Scores are interpretations supported by evidence, not direct copies of psychological reality.
+5. Measurement error can alter apparent differences and relationships.
+6. Reference groups and standards must be appropriate to the intended use.
+7. Statistical measurement models have assumptions and limitations.
+8. Strong measurement practice makes uncertainty and scope explicit.
 
-1. Test–retest reliability concerns repeated measurement over time.
-2. The appropriate interval depends on the construct.
-3. Genuine change can reduce stability without implying bad measurement.
-4. Correlation is not identical to absolute agreement.
-5. Stability evidence must match the intended use.
 
 ---
 
@@ -3625,43 +3530,9 @@ Internal consistency concerns how coherently items within a multi-item measure b
 Internal consistency is the degree to which items within a measurement instrument show consistent relationships with one another under the assumptions of the relevant measurement model.
 
 ## 3. Core Understanding
-
-### Item coherence
-
-Items designed to represent a common construct are often expected to correlate to some degree. Very low consistency may indicate heterogeneous content, poor items, or multiple dimensions.
-
-### Alpha is not the definition
-
-Cronbach's alpha is one statistic used to estimate internal consistency under particular assumptions. High alpha does not prove unidimensionality, validity, or good measurement.
-
-### Too high can also matter
-
-Extremely high item similarity can indicate redundancy rather than superior construct coverage.
-
-### Dimensionality
-
-If a scale contains multiple distinct dimensions, one overall internal-consistency coefficient may be misleading. Factor structure should be considered.
-
-### Evidence status
-
-Internal consistency is a reliability concept, not a complete psychometric evaluation.
+Internal consistency concerns the degree to which items intended to measure a common construct show consistent relationships with one another. It can be summarized with coefficients such as alpha or omega, but a high coefficient does not prove unidimensionality or validity. Redundant items can increase consistency while narrowing content coverage.
 
 
-### Internal consistency logic
-
-Internal consistency concerns the extent to which items within a scale show consistency under a specified model. It is often used when multiple items are intended to represent a common score.
-
-### What it can and cannot show
-
-High internal consistency can indicate that items share variance, but it does not prove unidimensionality or validity. Very similar or redundant items can increase consistency without broadening construct coverage.
-
-### Dependence on scale structure
-
-Internal-consistency estimates depend on the number of items, item covariance, response distributions, and model assumptions. They should therefore be interpreted alongside dimensionality and construct evidence.
-
-### Evidence status
-
-Internal consistency is one form of reliability evidence, not a general-purpose test of whether a scale is “good.”
 ## 4. Relationship to This Chapter
 
 Internal consistency belongs under reliability and connects to scale construction, item analysis, and factor analysis.
@@ -3677,12 +3548,15 @@ The consistency among items within a measurement instrument.
 Cronbach's alpha as a specific statistic, dimensionality, validity, and scale construction.
 
 ## 6. Key Principles
+1. Internal consistency concerns a specific property or model of psychological measurement.
+2. Measurement depends on the construct, population, purpose, and context.
+3. Reliability and validity answer different questions.
+4. Scores are interpretations supported by evidence, not direct copies of psychological reality.
+5. Measurement error can alter apparent differences and relationships.
+6. Reference groups and standards must be appropriate to the intended use.
+7. Statistical measurement models have assumptions and limitations.
+8. Strong measurement practice makes uncertainty and scope explicit.
 
-1. Internal consistency concerns relationships among items.
-2. High internal consistency does not prove validity.
-3. Alpha is an estimator, not the concept itself.
-4. Extremely high consistency can reflect redundant items.
-5. Dimensionality must be considered.
 
 ---
 
@@ -3697,39 +3571,9 @@ Inter-rater reliability evaluates consistency among observers or raters who inde
 Inter-rater reliability is the degree to which independent raters produce consistent ratings or classifications when evaluating the same observations under a defined coding or scoring procedure.
 
 ## 3. Core Understanding
-
-### Coding rules
-
-Clear operational criteria improve consistency. Ambiguous categories can produce disagreement even when raters are well trained.
-
-### Agreement versus association
-
-Two raters can rank cases similarly while systematically assigning different levels. Measures of association and measures of agreement answer different questions.
-
-### Number of raters and categories
-
-The appropriate reliability statistic depends on whether ratings are categorical, ordinal, continuous, or another form and on the number of raters.
-
-### Training
-
-Training can improve consistency, but excessive training can sometimes impose a narrow interpretation that does not reflect naturally occurring judgments.
-
-### Evidence status
-
-Inter-rater reliability is an established reliability concept for observer-based measurement.
+Inter-rater reliability concerns the degree to which different observers, coders, or evaluators produce sufficiently consistent judgments when assessing the same material. It matters when measurement depends on human coding or interpretation. Agreement statistics should match the data type and distinguish agreement from correlation when relevant.
 
 
-### Sources of rater variation
-
-Inter-rater reliability concerns the consistency of judgments made by different observers or raters when evaluating the same targets or material. It is relevant when scoring requires human judgment rather than a fully automated rule.
-
-### What affects agreement
-
-Rater training, scoring criteria, ambiguity, target characteristics, prevalence of categories, and the statistical coefficient used can affect observed agreement. Simple percentage agreement can differ from chance-adjusted or agreement-specific statistics.
-
-### Agreement versus validity
-
-Raters can agree consistently on an interpretation that is systematically wrong. Inter-rater reliability therefore addresses consistency among raters, not whether the ratings accurately represent the intended construct.
 ## 4. Relationship to This Chapter
 
 Inter-rater reliability connects psychological measurement with observational research, qualitative coding, assessment, and measurement error.
@@ -3745,12 +3589,15 @@ Consistency among independent raters applying the same scoring or coding system.
 Specific agreement coefficients, observer training, validity, and the construct being rated.
 
 ## 6. Key Principles
+1. Inter-rater reliability concerns a specific property or model of psychological measurement.
+2. Measurement depends on the construct, population, purpose, and context.
+3. Reliability and validity answer different questions.
+4. Scores are interpretations supported by evidence, not direct copies of psychological reality.
+5. Measurement error can alter apparent differences and relationships.
+6. Reference groups and standards must be appropriate to the intended use.
+7. Statistical measurement models have assumptions and limitations.
+8. Strong measurement practice makes uncertainty and scope explicit.
 
-1. Inter-rater reliability concerns consistency among raters.
-2. Agreement and correlation are not identical.
-3. Clear coding rules matter.
-4. The reliability statistic should match the data type and design.
-5. Reliability does not establish that the rating system measures the intended construct.
 
 ---
 
@@ -3765,51 +3612,9 @@ Measurement error explains the difference between an observed measurement and th
 Measurement error is the portion of an observed measurement that does not represent the target attribute as intended, including random and systematic sources of deviation.
 
 ## 3. Core Understanding
-
-### Random error
-
-Random error varies unpredictably across observations. It can reduce precision and attenuate relationships.
-
-### Systematic error
-
-Systematic error shifts measurements in a consistent or condition-dependent way. It can create bias and is not necessarily reduced by larger sample size.
-
-### Sources
-
-Sources include ambiguous items, temporary participant states, instrument limitations, rater differences, environmental conditions, response styles, and data-processing errors.
-
-### Error and reliability
-
-Reliability statistics address particular forms of inconsistency and therefore provide information about some aspects of measurement error.
-
-### Error and validity
-
-A measure can have low random error yet systematic bias. Reliability alone therefore cannot establish validity.
-
-### Consequences
-
-Measurement error can obscure real effects, distort relationships, reduce power, and complicate comparisons.
-
-### Evidence status
-
-Measurement error is a foundational measurement concept. Its size and structure must be evaluated relative to the measurement procedure.
+Measurement error is the difference between an observed measurement and the value that would be obtained under an idealized error-free representation of the intended target. Error can be random or systematic and can arise from instruments, raters, respondents, context, sampling of items, timing, or scoring. Error reduces precision and can distort relationships.
 
 
-### Types of measurement error
-
-Measurement error is variation in observed scores that does not represent the target signal for the intended interpretation. It can be random, systematic, occasion-specific, rater-specific, item-specific, or produced by contextual factors.
-
-### Consequences
-
-Random error generally reduces precision and can attenuate observed relationships. Systematic error can shift scores consistently and may produce biased comparisons or associations. Error can therefore affect both reliability and validity.
-
-### Error is relative to the target
-
-A source of variation may be error for one interpretation but meaningful signal for another. For example, day-to-day fluctuation may be unwanted noise for a trait score but central information for a state measure.
-
-### Reduction
-
-Better items, standardized administration, repeated observations, appropriate training, and improved instruments can reduce some forms of error, but no measurement process is perfectly error-free.
 ## 4. Relationship to This Chapter
 
 Measurement error links reliability to validity, effect estimation, statistical power, and psychometric models.
@@ -3825,12 +3630,15 @@ The concept of unwanted deviation between observed measurement and intended meas
 Reliability, validity, specific error sources, and statistical correction procedures.
 
 ## 6. Key Principles
+1. Measurement error concerns a specific property or model of psychological measurement.
+2. Measurement depends on the construct, population, purpose, and context.
+3. Reliability and validity answer different questions.
+4. Scores are interpretations supported by evidence, not direct copies of psychological reality.
+5. Measurement error can alter apparent differences and relationships.
+6. Reference groups and standards must be appropriate to the intended use.
+7. Statistical measurement models have assumptions and limitations.
+8. Strong measurement practice makes uncertainty and scope explicit.
 
-1. Observed scores can contain error.
-2. Random and systematic error have different consequences.
-3. Larger samples do not automatically remove systematic measurement bias.
-4. Measurement error can reduce statistical precision and observed relationships.
-5. Reliability and validity address different aspects of measurement quality.
 
 ---
 
@@ -3845,47 +3653,9 @@ Validity is the central psychometric concept concerning whether evidence support
 Validity is the degree to which available evidence supports the intended interpretation and use of measurement results for a specified purpose, population, and context.
 
 ## 3. Core Understanding
-
-### Interpretation
-
-Validity concerns the claim made from a score, not simply the physical test or questionnaire. The same instrument can be appropriate for one purpose and poorly supported for another.
-
-### Evidence sources
-
-Evidence can concern content, relationships with other variables, internal structure, response processes, consequences, and other sources appropriate to the interpretation.
-
-### Reliability
-
-Reliability is necessary for many measurement uses but is not sufficient for validity.
-
-### Population and context
-
-Validity evidence can change across populations, languages, cultures, developmental stages, settings, and purposes.
-
-### Consequences
-
-For high-stakes assessment, researchers may also examine whether intended uses produce defensible decisions and whether systematic sources of bias undermine interpretation.
-
-### Evidence status
-
-Validity is an argument supported by multiple evidence sources rather than a single permanent coefficient.
+Validity concerns the degree to which evidence and theory support the interpretation and use of measurement results for a specified purpose. It is not a permanent property of a test itself. Validity evidence can concern content, response processes, internal structure, relations with other variables, and consequences of use. A reliable measure can still have poor validity for a particular interpretation.
 
 
-### Validity as an evidence argument
-
-Validity concerns the degree to which available evidence and theory support the interpretation and use of scores or observations for a specified purpose. Modern validity thinking treats validity as a property of the inference, not a permanent label attached to an instrument.
-
-### Evidence sources
-
-Relevant evidence can concern content, response processes, internal structure, relationships with other variables, consequences of use, and performance across relevant populations. Different sources answer different questions and should form a coherent argument.
-
-### Validity versus reliability
-
-Reliability concerns consistency or precision. Validity concerns interpretation. A score can be precise but systematically misrepresent the intended construct.
-
-### Context dependence
-
-Validity can differ across populations, languages, settings, purposes, and decisions. Evidence supporting one use does not automatically justify every other use.
 ## 4. Relationship to This Chapter
 
 Validity is the broad psychometric concept connecting construct validity and measurement validity with reliability, scale construction, item analysis, and measurement invariance.
@@ -3901,12 +3671,15 @@ The general concept of evidence supporting interpretations and uses of psycholog
 Specific forms of validity evidence, reliability, individual instruments, and substantive constructs.
 
 ## 6. Key Principles
+1. Validity concerns a specific property or model of psychological measurement.
+2. Measurement depends on the construct, population, purpose, and context.
+3. Reliability and validity answer different questions.
+4. Scores are interpretations supported by evidence, not direct copies of psychological reality.
+5. Measurement error can alter apparent differences and relationships.
+6. Reference groups and standards must be appropriate to the intended use.
+7. Statistical measurement models have assumptions and limitations.
+8. Strong measurement practice makes uncertainty and scope explicit.
 
-1. Validity concerns interpretation and use.
-2. Validity is not a property proven by one statistic.
-3. Reliability does not guarantee validity.
-4. Validity evidence depends on purpose and population.
-5. Measurement claims require an evidence-based argument.
 
 ---
 
@@ -3921,55 +3694,9 @@ Scale construction is the systematic development of multi-item measures intended
 Scale construction is the process of designing, selecting, evaluating, and scoring items to create a measurement scale representing a specified construct or set of dimensions.
 
 ## 3. Core Understanding
-
-### Construct definition
-
-Scale development begins with a clear conceptual definition and domain of content. Without this, item selection can become arbitrary.
-
-### Item generation
-
-Items can be generated from theory, prior instruments, qualitative work, expert input, or empirical observation. Sources should be documented.
-
-### Response format
-
-Likert-type, binary, semantic differential, performance-based, and other response formats impose different measurement properties.
-
-### Item evaluation
-
-Researchers examine item distributions, missingness, discrimination, redundancy, and relationships with other items and criteria.
-
-### Dimensionality
-
-Factor analysis and theory can help determine whether items represent one dimension or multiple dimensions.
-
-### Reliability and validity
-
-A scale should be evaluated for reliability and validity in the intended population and use. High internal consistency alone is not enough.
-
-### Evidence status
-
-Scale construction is an established psychometric process. Good scale development is iterative and evidence-driven.
+Scale construction is the process of designing a set of items or indicators intended to represent a construct and produce interpretable scores. It includes defining the construct, sampling content, writing items, piloting, analyzing structure and discrimination, evaluating reliability and validity, and revising. Scale construction involves trade-offs between breadth, specificity, redundancy, respondent burden, and interpretability.
 
 
-### Construction sequence
-
-Scale construction normally begins with a clear construct definition and intended use, followed by domain specification, item generation or selection, response-format decisions, pilot testing, analysis, revision, and validation.
-
-### Content coverage
-
-Items should represent the intended construct rather than merely maximize statistical consistency. A narrow item set can produce high internal consistency while omitting important dimensions.
-
-### Development and validation
-
-Pilot data can identify ambiguous items, floor or ceiling effects, poor discrimination, redundancy, or unexpected structure. Subsequent studies should test reliability, dimensionality, validity evidence, and performance in relevant populations.
-
-### Scoring
-
-Scoring rules should be specified before interpretation. Reverse scoring, missing-data rules, subscales, weighting, and transformations can affect the resulting scores and must be documented.
-
-### Evidence status
-
-Scale construction is a development process, not proof of validity. A newly constructed scale requires accumulated evidence before strong interpretations are justified.
 ## 4. Relationship to This Chapter
 
 Scale construction connects psychological measurement with internal consistency, item analysis, factor analysis, validity, and latent variables.
@@ -3985,12 +3712,15 @@ The methodological process of building multi-item psychological scales.
 Item analysis, factor analysis, validity, reliability, and the construct represented by the scale.
 
 ## 6. Key Principles
+1. Scale construction concerns a specific property or model of psychological measurement.
+2. Measurement depends on the construct, population, purpose, and context.
+3. Reliability and validity answer different questions.
+4. Scores are interpretations supported by evidence, not direct copies of psychological reality.
+5. Measurement error can alter apparent differences and relationships.
+6. Reference groups and standards must be appropriate to the intended use.
+7. Statistical measurement models have assumptions and limitations.
+8. Strong measurement practice makes uncertainty and scope explicit.
 
-1. Scale construction begins with clear construct definition.
-2. Item selection should be theoretically and empirically justified.
-3. Dimensionality must be evaluated.
-4. Reliability is necessary but not sufficient.
-5. A scale requires validity evidence for its intended use.
 
 ---
 ---
@@ -4005,45 +3735,9 @@ Item analysis evaluates individual items within a psychological measure to deter
 Item analysis is the systematic examination of the statistical, substantive, and measurement characteristics of individual items in an assessment or scale.
 
 ## 3. Core Understanding
-
-Researchers may examine item distributions, missing responses, difficulty or endorsement rates, discrimination, item-total relationships, redundancy, differential functioning, and relationships with external criteria.
-
-### Item discrimination
-
-An item is useful when it distinguishes meaningfully among people or cases at relevant levels of the construct. Poor discrimination can limit a scale's usefulness.
-
-### Item difficulty
-
-For performance or ability tests, difficulty concerns the proportion or probability of respondents answering correctly. Difficulty has a different meaning from difficulty in an attitude scale.
-
-### Redundancy
-
-Highly similar items can inflate internal consistency without expanding construct coverage.
-
-### Content coverage
-
-Statistical item performance should not be the only criterion. Removing an item can narrow the conceptual domain even if the remaining scale becomes more internally consistent.
-
-### Evidence status
-
-Item analysis is a psychometric procedure whose interpretation depends on the measurement model and intended use.
+Item analysis examines how individual test or questionnaire items behave, including difficulty, discrimination, endorsement, missingness, response distributions, and relationships with total scores or latent dimensions. It can identify poorly functioning or redundant items. Item statistics should be interpreted in relation to the construct and intended use rather than optimized mechanically.
 
 
-### Item-level information
-
-Item analysis examines how individual items function within an assessment or scale. It can evaluate difficulty or endorsement, discrimination, response distributions, missingness, item-total relationships, distractor performance, and differential functioning depending on the assessment.
-
-### Diagnostic purpose
-
-An item may perform poorly because it is ambiguous, too easy or difficult, redundant, culturally inappropriate, poorly keyed, or measuring something different from the intended construct. Statistical signals therefore require substantive interpretation.
-
-### Item analysis is not automatic deletion
-
-Removing an item solely because a statistic is unusual can narrow content coverage or create overfitting to a sample. Decisions should consider theory, construct representation, intended use, and replication.
-
-### Evidence status
-
-Item analysis provides evidence about item functioning within a design and sample; it does not independently establish scale validity.
 ## 4. Relationship to This Chapter
 
 Item analysis connects scale construction, reliability, validity, and item response theory.
@@ -4059,12 +3753,15 @@ The evaluation of individual measurement items within a scale or assessment.
 Scale construction, psychometric models, validity, reliability, and substantive construct definition.
 
 ## 6. Key Principles
+1. Item analysis concerns a specific property or model of psychological measurement.
+2. Measurement depends on the construct, population, purpose, and context.
+3. Reliability and validity answer different questions.
+4. Scores are interpretations supported by evidence, not direct copies of psychological reality.
+5. Measurement error can alter apparent differences and relationships.
+6. Reference groups and standards must be appropriate to the intended use.
+7. Statistical measurement models have assumptions and limitations.
+8. Strong measurement practice makes uncertainty and scope explicit.
 
-1. Item analysis evaluates how individual items function.
-2. Statistical performance must be balanced with content coverage.
-3. High item similarity can indicate redundancy.
-4. Item quality depends on the intended measurement purpose.
-5. Item analysis does not replace validity evaluation.
 
 ---
 
@@ -4079,39 +3776,9 @@ Norm-referenced assessment interprets an individual's score relative to a refere
 A norm-referenced assessment interprets performance by comparing an individual's score with the distribution of scores from a defined norm group.
 
 ## 3. Core Understanding
-
-### Norm group
-
-The norm group should be appropriately defined and sufficiently comparable to the population for which interpretation is intended.
-
-### Relative standing
-
-Percentiles, standard scores, and other transformations can communicate relative position within the reference distribution.
-
-### Meaning
-
-A high norm-referenced score means relatively high performance compared with the norm group. It does not automatically mean mastery of an external standard.
-
-### Norm updating
-
-Norms can become outdated as populations and distributions change. Assessments may therefore require periodic re-norming.
-
-### Evidence status
-
-Norm-referenced interpretation is an established assessment framework. Validity depends on the appropriateness of the norm group and intended use.
+Norm-referenced assessment interprets an individual's score relative to the distribution of scores in a reference group. It answers questions such as how a person's performance compares with peers rather than whether a predefined criterion has been met. Interpretation depends on the quality, relevance, recency, and measurement equivalence of the normative sample.
 
 
-### Reference distribution
-
-Norm-referenced assessment interprets an individual's score relative to the performance of a specified reference group. The meaning of the score therefore depends on how the norm group was constructed and whether it is appropriate for the individual and purpose.
-
-### Percentile versus raw score
-
-A norm-referenced interpretation can express relative standing, but a percentile is not a percentage correct and does not imply equal intervals between ranks. Standard scores provide other ways of locating performance relative to a reference distribution.
-
-### Norm quality
-
-Norms can become outdated when populations, educational systems, language, or test versions change. Norm-referenced interpretation therefore requires attention to recency, representativeness, administration conditions, and subgroup differences.
 ## 4. Relationship to This Chapter
 
 Norm-referenced assessment connects to standard scores, percentiles, psychological measurement, validity, and criterion-referenced assessment.
@@ -4127,12 +3794,15 @@ Interpretation of assessment performance relative to a defined norm group.
 Criterion-referenced assessment, score transformations, validity, and psychometric models.
 
 ## 6. Key Principles
+1. Norm-referenced assessment concerns a specific property or model of psychological measurement.
+2. Measurement depends on the construct, population, purpose, and context.
+3. Reliability and validity answer different questions.
+4. Scores are interpretations supported by evidence, not direct copies of psychological reality.
+5. Measurement error can alter apparent differences and relationships.
+6. Reference groups and standards must be appropriate to the intended use.
+7. Statistical measurement models have assumptions and limitations.
+8. Strong measurement practice makes uncertainty and scope explicit.
 
-1. Norm-referenced assessment is relative.
-2. The norm group defines the comparison.
-3. Relative standing is not the same as mastery of a criterion.
-4. Norms can become outdated.
-5. Valid interpretation requires an appropriate reference population.
 
 ---
 
@@ -4147,43 +3817,9 @@ Criterion-referenced assessment interprets performance against a defined standar
 A criterion-referenced assessment evaluates performance in relation to a defined criterion, standard, competency, or level of mastery.
 
 ## 3. Core Understanding
-
-### Criterion
-
-The criterion must be clearly specified and meaningful for the intended decision.
-
-### Absolute interpretation
-
-A person can meet a criterion even if most others do not, or fail it even if many others also fail. The interpretation is based on the standard rather than relative rank.
-
-### Cut scores
-
-Some assessments use thresholds to classify performance. Cut-score decisions require justification because small score differences near a threshold can have large consequences.
-
-### Norm-referenced contrast
-
-Norm-referenced assessment asks where someone stands relative to a reference group. Criterion-referenced assessment asks whether performance reaches a defined standard.
-
-### Evidence status
-
-Criterion-referenced assessment is an established measurement framework. The validity of a criterion-based decision depends on the quality of the criterion, measure, and decision process.
+Criterion-referenced assessment interprets performance relative to a defined standard, competency, cutoff, or performance criterion rather than relative rank within a norm group. It is useful when the question concerns mastery or qualification. The quality of interpretation depends on how the criterion was defined, validated, and linked to meaningful performance.
 
 
-### Criterion definition
-
-Criterion-referenced assessment interprets performance against a defined standard, competency, threshold, or learning criterion rather than primarily against the performance of a comparison group.
-
-### Meaning of the score
-
-The central question is whether the person demonstrates the specified capability or meets the criterion under defined conditions. A person's standing can therefore be high relative to a norm group while still failing a criterion, or vice versa.
-
-### Criterion quality
-
-A criterion should be substantively justified, sufficiently specific, and appropriate for the decision. Poorly chosen thresholds can produce misleading classifications even when the assessment itself is reliable.
-
-### Contrast
-
-Norm-referenced and criterion-referenced interpretations answer different questions. They can be used together, but one should not be substituted for the other without justification.
 ## 4. Relationship to This Chapter
 
 Criterion-referenced assessment contrasts with norm-referenced assessment and connects to measurement validity, standard setting, and score interpretation.
@@ -4199,12 +3835,15 @@ Interpretation of performance against defined criteria or standards.
 Norm-referenced assessment, cut-score methods, validity, and substantive competency definitions.
 
 ## 6. Key Principles
+1. Criterion-referenced assessment concerns a specific property or model of psychological measurement.
+2. Measurement depends on the construct, population, purpose, and context.
+3. Reliability and validity answer different questions.
+4. Scores are interpretations supported by evidence, not direct copies of psychological reality.
+5. Measurement error can alter apparent differences and relationships.
+6. Reference groups and standards must be appropriate to the intended use.
+7. Statistical measurement models have assumptions and limitations.
+8. Strong measurement practice makes uncertainty and scope explicit.
 
-1. Criterion-referenced assessment is standards-based.
-2. It differs from relative ranking.
-3. Criteria must be meaningful and justified.
-4. Threshold decisions require careful validation.
-5. A criterion score does not automatically imply broader psychological ability.
 
 ---
 
@@ -4219,39 +3858,9 @@ Standard scores transform raw scores into a common metric that expresses relativ
 A standard score is a transformed score that expresses an individual's position relative to a reference distribution, commonly by representing distance from a mean in standard-deviation units or another standardized metric.
 
 ## 3. Core Understanding
-
-A z score is a common standard score representing the number of standard deviations a value lies above or below the reference mean.
-
-Other systems transform z scores to avoid negative values or decimals, such as T scores or other standardized scales.
-
-### Interpretation
-
-A standard score is meaningful only relative to the reference distribution and transformation used.
-
-### Normative dependence
-
-Changing the norm group can change the standard score even when the individual's raw score remains identical.
-
-### Normalized scores
-
-Some transformed scores are based on an assumption or transformation toward a normal distribution. This should not be confused with the raw data being normally distributed.
-
-### Evidence status
-
-Standard scores are mathematical transformations with established definitions.
+Standard scores transform raw scores into a common metric based on a reference distribution, often expressing distance from a mean in standard-deviation units. They facilitate comparison across measures with different raw scales. A standard score remains dependent on the reference distribution and does not by itself indicate absolute competence or practical importance.
 
 
-### Standardization
-
-A standard score expresses an individual's observed score relative to a reference distribution using a defined transformation. Common forms indicate how far a score lies from the reference mean in standard-deviation units or use a transformed scale with a chosen mean and spread.
-
-### Interpretation
-
-A standard score is meaningful only relative to its reference distribution and transformation. It does not change the person's raw performance; it changes how that performance is represented for comparison.
-
-### Assumptions
-
-Interpretation depends on the reference group's distribution, the stability of its mean and standard deviation, and the appropriateness of applying the transformation to the data. A standard score is not automatically a measure of ability or quality.
 ## 4. Relationship to This Chapter
 
 Standard scores support norm-referenced assessment and connect to percentiles and psychological measurement.
@@ -4267,11 +3876,15 @@ The concept of transforming raw scores into standardized reference metrics.
 Percentiles, norm groups, assessment validity, and statistical distributions.
 
 ## 6. Key Principles
+1. Standard scores concerns a specific property or model of psychological measurement.
+2. Measurement depends on the construct, population, purpose, and context.
+3. Reliability and validity answer different questions.
+4. Scores are interpretations supported by evidence, not direct copies of psychological reality.
+5. Measurement error can alter apparent differences and relationships.
+6. Reference groups and standards must be appropriate to the intended use.
+7. Statistical measurement models have assumptions and limitations.
+8. Strong measurement practice makes uncertainty and scope explicit.
 
-1. Standard scores express relative position on a defined metric.
-2. Interpretation depends on the reference distribution.
-3. A raw score can map to different standard scores under different norms.
-4. Standardization does not itself establish validity.
 
 ---
 
@@ -4288,35 +3901,9 @@ A percentile is a value or rank indicating the relative position of an observati
 A percentile rank is not the same as a percentage correct.
 
 ## 3. Core Understanding
-
-### Relative position
-
-A person at the 80th percentile performed at or above the scores of approximately 80% of the reference group under the relevant definition. It does not mean the person answered 80% of items correctly.
-
-### Distribution dependence
-
-Percentile differences are not equal-interval differences. The distance between the 50th and 60th percentiles may represent a different raw-score change than the distance between the 90th and 100th.
-
-### Reference group
-
-Percentiles are meaningful only relative to the distribution used to calculate them.
-
-### Evidence status
-
-Percentile ranks are established descriptive transformations, but interpretation depends on the reference sample and scoring convention.
+A percentile indicates the percentage of observations in a reference distribution that fall at or below a given score under the specified calculation. Percentiles are intuitive for rank interpretation but are not equal-interval units: a change of ten percentile points does not represent the same raw-score change everywhere in the distribution. Percentiles also depend on the normative reference.
 
 
-### Relative rank
-
-A percentile indicates the percentage of observations in a specified reference distribution that fall at or below a given score, subject to the percentile convention used. It communicates relative standing rather than absolute performance.
-
-### Common misconception
-
-The 80th percentile does not mean “80% correct.” It means the score occupies a specified position relative to the reference distribution. Percentiles also do not form equal-interval units; the difference between the 50th and 60th percentiles need not represent the same raw-score difference as the difference between the 80th and 90th.
-
-### Interpretation
-
-Percentiles are useful for communicating relative position but can be misleading when treated as precise measures of change or distance.
 ## 4. Relationship to This Chapter
 
 Percentiles support norm-referenced assessment and complement standard scores.
@@ -4332,12 +3919,15 @@ Relative-rank interpretation through percentile position.
 Standard scores, norm groups, distributions, and assessment validity.
 
 ## 6. Key Principles
+1. Percentiles concerns a specific property or model of psychological measurement.
+2. Measurement depends on the construct, population, purpose, and context.
+3. Reliability and validity answer different questions.
+4. Scores are interpretations supported by evidence, not direct copies of psychological reality.
+5. Measurement error can alter apparent differences and relationships.
+6. Reference groups and standards must be appropriate to the intended use.
+7. Statistical measurement models have assumptions and limitations.
+8. Strong measurement practice makes uncertainty and scope explicit.
 
-1. Percentiles describe relative standing.
-2. Percentile rank is not percentage correct.
-3. Percentile intervals are not equal-interval measurement.
-4. Percentiles depend on the reference distribution.
-5. The norm group must be appropriate for interpretation.
 
 ---
 
@@ -4352,53 +3942,9 @@ Psychometrics is the scientific field concerned with psychological measurement, 
 Psychometrics is the scientific study of psychological measurement and assessment, including measurement models, reliability, validity, scale construction, item functioning, latent variables, and related quantitative methods.
 
 ## 3. Core Understanding
-
-Psychometrics addresses a central problem: how to make defensible measurements of psychological attributes that are often not directly observable.
-
-### Measurement models
-
-Psychometric models specify assumptions about how observed responses relate to underlying attributes or dimensions.
-
-### Reliability
-
-Psychometrics evaluates consistency and precision using methods appropriate to the instrument and purpose.
-
-### Validity
-
-Psychometric work evaluates whether score interpretations and uses are supported by evidence.
-
-### Scale and item development
-
-Psychometrics provides methods for constructing and evaluating items, scales, and assessments.
-
-### Latent constructs
-
-Many psychometric models represent psychological attributes as latent variables inferred from observed responses.
-
-### Fairness and invariance
-
-Modern psychometrics also considers whether measures operate comparably across relevant groups and contexts.
-
-### Evidence status
-
-Psychometrics is an established scientific field with multiple theoretical traditions and models. No single psychometric method is appropriate for every measurement problem.
+Psychometrics is the scientific study of psychological measurement, including reliability, validity, scaling, latent structure, item functioning, score interpretation, and measurement error. It provides models and methods for connecting observed responses to psychological constructs. Psychometric quality is not simply a property of a questionnaire; it depends on population, purpose, administration, scoring, and interpretation.
 
 
-### Scope of psychometrics
-
-Psychometrics is the field concerned with psychological measurement, including the development, evaluation, scaling, reliability, validity, and statistical modeling of psychological measures.
-
-### Measurement theory
-
-Psychometrics asks how observed responses relate to the intended construct, how measurement error affects scores, and what assumptions justify comparisons or interpretations. It includes both classical and model-based approaches.
-
-### Assessment versus psychometrics
-
-Assessment is the broader practice of collecting and interpreting information for decisions. Psychometrics provides theoretical and quantitative tools that can support assessment, but not every assessment decision is reducible to a psychometric coefficient.
-
-### Evidence status
-
-Psychometric methods are established scientific tools, but particular measures and models require empirical validation for their intended uses.
 ## 4. Relationship to This Chapter
 
 Psychometrics is the umbrella Topic for the measurement concepts from 1.2.76 through 1.2.94. It organizes reliability, validity, scale construction, item analysis, score interpretation, and measurement models.
@@ -4414,12 +3960,15 @@ The general scientific field and framework of psychological measurement.
 Specific psychometric models, reliability forms, validity concepts, item procedures, and individual measures.
 
 ## 6. Key Principles
-
-1. Psychometrics studies psychological measurement scientifically.
-2. Measurement requires conceptual and empirical justification.
+1. Psychometrics concerns a specific property or model of psychological measurement.
+2. Measurement depends on the construct, population, purpose, and context.
 3. Reliability and validity answer different questions.
-4. Psychometric models make assumptions that must be evaluated.
-5. Measurement quality is purpose- and population-dependent.
+4. Scores are interpretations supported by evidence, not direct copies of psychological reality.
+5. Measurement error can alter apparent differences and relationships.
+6. Reference groups and standards must be appropriate to the intended use.
+7. Statistical measurement models have assumptions and limitations.
+8. Strong measurement practice makes uncertainty and scope explicit.
+
 
 ---
 
@@ -4434,45 +3983,9 @@ Classical test theory provides a foundational measurement model in which an obse
 Classical test theory is a psychometric framework that represents an observed score as a combination of an underlying true score and measurement error.
 
 ## 3. Core Understanding
-
-The basic model is commonly represented as X = T + E, where X is observed score, T is true score under the model, and E is error.
-
-### Reliability
-
-Reliability reflects the proportion of observed-score variance attributed to true-score variance under specified assumptions.
-
-### Limits
-
-Classical test theory often treats item characteristics as dependent on the sample and test context, which can limit direct comparability across populations.
-
-### Score interpretation
-
-The true score is a theoretical quantity within the model, not a directly observable perfect value.
-
-### Applications
-
-The framework supports traditional reliability estimation, standard error of measurement, and classical item analysis.
-
-### Evidence status
-
-Classical test theory is an established psychometric framework. It is not the only valid measurement model.
+Classical test theory models an observed score as a true-score component plus measurement error. It provides a framework for reliability, error, score variance, and related test properties. Its simplicity is useful, but many parameters depend on the sample and test form, and the framework does not by itself solve questions about item-level functioning or measurement invariance.
 
 
-### Observed-score model
-
-Classical test theory commonly represents an observed score as a true-score component plus measurement error: **X = T + E**. The true score is a theoretical expectation under repeated equivalent measurement conditions, not a directly observed perfect score.
-
-### Reliability
-
-Reliability concerns the proportion or consistency of score variation attributable to the intended stable component under the chosen model and conditions. Different sources of error lead to different reliability estimates.
-
-### Strengths and limits
-
-Classical test theory is relatively accessible and useful for scale development, but many quantities depend on the sample and test form. It does not model item-level response behavior as explicitly as item response theory.
-
-### Evidence status
-
-Classical test theory is a foundational measurement framework, not a complete theory of psychological measurement.
 ## 4. Relationship to This Chapter
 
 Classical test theory provides one foundation for reliability and measurement error and contrasts conceptually with item response theory.
@@ -4488,12 +4001,15 @@ The classical measurement model and its core assumptions.
 Item response theory, specific reliability coefficients, validity, and individual instruments.
 
 ## 6. Key Principles
+1. Classical test theory concerns a specific property or model of psychological measurement.
+2. Measurement depends on the construct, population, purpose, and context.
+3. Reliability and validity answer different questions.
+4. Scores are interpretations supported by evidence, not direct copies of psychological reality.
+5. Measurement error can alter apparent differences and relationships.
+6. Reference groups and standards must be appropriate to the intended use.
+7. Statistical measurement models have assumptions and limitations.
+8. Strong measurement practice makes uncertainty and scope explicit.
 
-1. Observed scores are modeled as true-score component plus error.
-2. Reliability concerns the consistency of observed scores under the model.
-3. True score is theoretical, not directly observed.
-4. Classical test theory has assumptions and limitations.
-5. Alternative measurement models can provide different information.
 
 ---
 
@@ -4508,47 +4024,9 @@ Item response theory models how a person's response to an item depends on an und
 Item response theory, or IRT, is a family of psychometric models that relates responses to individual test items to one or more latent traits and item parameters.
 
 ## 3. Core Understanding
-
-### Latent trait
-
-IRT assumes that responses are influenced by an underlying attribute or set of attributes represented in the model.
-
-### Item parameters
-
-Depending on the model, item parameters can represent characteristics such as difficulty, discrimination, and guessing for selected response formats.
-
-### Information
-
-IRT can estimate how much information an item or test provides at different levels of the latent trait.
-
-### Adaptive testing
-
-Because item information can vary across trait levels, IRT can support computer-adaptive testing in appropriate settings.
-
-### Assumptions
-
-IRT models depend on assumptions such as dimensionality and local independence, with additional assumptions varying by model.
-
-### Evidence status
-
-IRT is an established psychometric framework. Model fit and assumptions must be evaluated for the intended data and use.
+Item response theory models the probability of a response as a function of a person's latent level and item characteristics such as difficulty, discrimination, or category thresholds. It can provide item-level information and support adaptive testing and more flexible score interpretation. Models require assumptions, adequate data, and appropriate fit; latent parameters are not assumption-free measurements.
 
 
-### Item and person parameters
-
-Item response theory models the probability of a particular response as a function of characteristics of the person and item under a specified model. Depending on the model, parameters can represent features such as item difficulty, discrimination, or response thresholds.
-
-### Information
-
-IRT can describe where an item or test is most informative along a latent trait continuum. This can support adaptive testing, item banking, and more detailed examination of measurement precision than a single total-score reliability estimate.
-
-### Assumptions
-
-IRT models typically require assumptions about dimensionality, local independence, and the form of the response model. Violations can distort parameter estimates and interpretation.
-
-### Relation to classical test theory
-
-IRT and classical test theory answer overlapping but different measurement questions. IRT models item-level response behavior; classical approaches often summarize score-level properties. Neither framework makes validity automatic.
 ## 4. Relationship to This Chapter
 
 IRT extends item analysis and contrasts with classical test theory while sharing the broader goal of defensible psychological measurement.
@@ -4564,12 +4042,15 @@ The family of latent-trait item-level measurement models.
 Classical test theory, factor analysis, validity, and substantive trait definitions.
 
 ## 6. Key Principles
+1. Item response theory concerns a specific property or model of psychological measurement.
+2. Measurement depends on the construct, population, purpose, and context.
+3. Reliability and validity answer different questions.
+4. Scores are interpretations supported by evidence, not direct copies of psychological reality.
+5. Measurement error can alter apparent differences and relationships.
+6. Reference groups and standards must be appropriate to the intended use.
+7. Statistical measurement models have assumptions and limitations.
+8. Strong measurement practice makes uncertainty and scope explicit.
 
-1. IRT models responses at the item level.
-2. Item properties can vary in informativeness across trait levels.
-3. Latent traits are model-based representations.
-4. IRT requires assumptions and model evaluation.
-5. IRT is not automatically superior to classical methods for every purpose.
 
 ---
 
@@ -4584,51 +4065,9 @@ Factor analysis examines patterns of covariance among observed variables to iden
 Factor analysis is a family of statistical methods used to model relationships among observed variables in terms of a smaller set of latent factors or dimensions.
 
 ## 3. Core Understanding
-
-### Exploratory factor analysis
-
-Exploratory factor analysis investigates plausible factor structures when the dimensional organization is uncertain.
-
-### Confirmatory factor analysis
-
-Confirmatory factor analysis evaluates a specified factor structure against observed data under a formal measurement model.
-
-### Factor loadings
-
-Loadings represent relationships between observed variables and factors under the model. They help interpret which items or measures are associated with each dimension.
-
-### Number of factors
-
-The number of factors should be determined using theory, empirical criteria, model fit, interpretability, and other evidence rather than a single automatic rule.
-
-### Rotation
-
-Rotation can help produce interpretable factor structures. Different rotations make different assumptions about whether factors may correlate.
-
-### Caution
-
-Factor analysis identifies statistical structure; the resulting factors require psychological interpretation. A factor is not automatically a real psychological entity merely because a model identifies it.
-
-### Evidence status
-
-Factor analysis is an established statistical family with multiple models and assumptions.
+Factor analysis models patterns of covariance among observed variables in terms of a smaller number of latent dimensions or common factors, depending on the model. Exploratory approaches investigate plausible structure, while confirmatory approaches test specified structures. Factor solutions depend on extraction, rotation, model assumptions, sample, item properties, and identification, so a factor is not automatically a psychological entity.
 
 
-### Exploratory and confirmatory roles
-
-Factor analysis examines patterns of covariance among observed variables to evaluate whether a smaller number of underlying dimensions can represent their shared variation. Exploratory factor analysis is often used when structure is uncertain; confirmatory factor analysis tests a specified measurement model.
-
-### Factor loadings
-
-Loadings describe the relation between observed indicators and factors under the chosen model. They are not automatically causal effects and should not be interpreted as proof that a factor literally causes the observed responses.
-
-### Model decisions
-
-Extraction, rotation, factor retention, identification, estimator choice, and model fit can affect results. These decisions should be justified by theory and data rather than chosen only to obtain a preferred structure.
-
-### Limits
-
-Factor analysis can reveal statistical structure without proving that the factors are the correct psychological constructs. Construct interpretation requires theory and additional validity evidence.
 ## 4. Relationship to This Chapter
 
 Factor analysis connects scale construction, item analysis, latent variables, validity, and measurement invariance.
@@ -4644,12 +4083,15 @@ Statistical modeling of shared variance through latent factor structures.
 Latent-variable interpretation, scale validity, IRT, and substantive psychological constructs.
 
 ## 6. Key Principles
+1. Factor analysis concerns a specific property or model of psychological measurement.
+2. Measurement depends on the construct, population, purpose, and context.
+3. Reliability and validity answer different questions.
+4. Scores are interpretations supported by evidence, not direct copies of psychological reality.
+5. Measurement error can alter apparent differences and relationships.
+6. Reference groups and standards must be appropriate to the intended use.
+7. Statistical measurement models have assumptions and limitations.
+8. Strong measurement practice makes uncertainty and scope explicit.
 
-1. Factor analysis models covariance patterns.
-2. Exploratory and confirmatory approaches serve different purposes.
-3. Factor solutions require theoretical interpretation.
-4. The number of factors should not be determined mechanically.
-5. Statistical factors are model-based and do not automatically prove psychological entities.
 
 ---
 
@@ -4664,47 +4106,9 @@ Latent variables represent theoretical attributes that are not directly observed
 A latent variable is an unobserved theoretical or statistical variable inferred from relationships among observed indicators within a specified model.
 
 ## 3. Core Understanding
-
-### Indicators
-
-Observed variables provide information about the latent construct. The relationship between indicators and latent variables is defined by the measurement model.
-
-### Advantages
-
-Latent-variable models can represent common variance while separating some measurement error from the latent estimate under model assumptions.
-
-### Interpretation
-
-A latent variable is not directly observed. Its meaning depends on the theory, indicators, model structure, and identification assumptions.
-
-### Reflective and formative structures
-
-Different models conceptualize relationships among constructs and indicators differently. Researchers should specify the intended measurement structure rather than assuming every construct is represented identically.
-
-### Model dependence
-
-Different indicator sets or models can yield different latent representations. A latent variable is therefore not automatically an objectively discovered entity independent of measurement choices.
-
-### Evidence status
-
-Latent variables are established modeling concepts. Their substantive interpretation requires theoretical and empirical support.
+Latent variables are theoretical or statistical variables inferred from patterns among observed indicators rather than measured directly as a single observation. They can represent common variance or hypothesized constructs. Latent-variable models can reduce some measurement error and represent complex relations, but the latent variable remains model-dependent and should not be reified as a directly observed object.
 
 
-### Latent versus observed
-
-A latent variable is an unobserved construct represented indirectly through observed indicators within a statistical model. Examples may include dimensions of ability, attitudes, or symptoms when these are modeled as underlying sources of covariance among indicators.
-
-### Measurement model
-
-A latent-variable model specifies how indicators relate to the latent variable and what assumptions govern their errors and relationships. The latent variable is therefore a model-based representation, not automatically a discovered biological or psychological object.
-
-### Identification
-
-A model must contain sufficient information and constraints to estimate its parameters. Poor identification, misspecification, or weak indicators can make latent-variable interpretations unstable.
-
-### Evidence status
-
-Latent variables can be useful abstractions for measurement and theory, but their substantive meaning depends on the quality of the measurement model and supporting evidence.
 ## 4. Relationship to This Chapter
 
 Latent variables connect factor analysis, IRT, psychometrics, constructs, scale construction, and measurement validity.
@@ -4720,12 +4124,15 @@ The general concept of unobserved variables inferred through a measurement model
 Specific constructs, factor models, IRT, and validity evidence.
 
 ## 6. Key Principles
+1. Latent variables concerns a specific property or model of psychological measurement.
+2. Measurement depends on the construct, population, purpose, and context.
+3. Reliability and validity answer different questions.
+4. Scores are interpretations supported by evidence, not direct copies of psychological reality.
+5. Measurement error can alter apparent differences and relationships.
+6. Reference groups and standards must be appropriate to the intended use.
+7. Statistical measurement models have assumptions and limitations.
+8. Strong measurement practice makes uncertainty and scope explicit.
 
-1. Latent variables are model-based representations of unobserved attributes.
-2. They are inferred from observed indicators.
-3. Their meaning depends on theory and model specification.
-4. Latent modeling does not automatically prove that a construct exists independently of measurement.
-5. Measurement error and model assumptions remain important.
 
 ---
 
@@ -4740,47 +4147,9 @@ Measurement invariance addresses whether a measurement instrument functions comp
 Measurement invariance is the property that a measurement model or instrument represents the intended construct in sufficiently comparable ways across specified groups, conditions, or occasions.
 
 ## 3. Core Understanding
-
-### Why it matters
-
-If an instrument functions differently across groups, a score difference may reflect measurement differences rather than true differences in the construct.
-
-### Levels
-
-Common levels include configural invariance, metric invariance, and scalar invariance, with additional forms possible depending on the model and research question.
-
-### Partial invariance
-
-Perfect invariance is not always necessary for every inference. Partial invariance can sometimes support specific comparisons when enough measurement structure remains comparable.
-
-### Time
-
-Longitudinal comparisons may require invariance across occasions so that apparent change is not simply measurement change.
-
-### Fair comparison
-
-Invariance is especially important when comparing populations that differ in language, culture, age, gender, education, or other characteristics, but the relevant groups should be defined by the measurement question rather than assumed categories.
-
-### Evidence status
-
-Measurement invariance is an established psychometric concept. Its evaluation depends on the measurement model, indicators, sample, and intended comparison.
+Measurement invariance concerns whether a measure functions comparably across groups, contexts, or time so that observed score differences can be interpreted as differences in the intended construct rather than changes in measurement. Different levels of invariance address increasingly strong forms of comparability. Without adequate invariance, group comparisons or longitudinal change can be misleading.
 
 
-### Levels of invariance
-
-Measurement invariance asks whether a measure functions sufficiently similarly across groups, occasions, languages, or other conditions for the intended comparison. Common levels include configural invariance, metric invariance, scalar invariance, and stricter residual or related forms, with each imposing additional constraints.
-
-### Why it matters
-
-If measurement meaning changes across groups, observed score differences may reflect different measurement processes rather than differences in the intended construct. Comparisons therefore require evidence that the relevant level of measurement equivalence is adequate for the claim.
-
-### Partial invariance
-
-Perfect invariance is not always necessary. Some parameters may differ while enough of the measurement structure remains comparable for a specific interpretation. The acceptability of partial invariance depends on the model and substantive purpose.
-
-### Evidence status
-
-Measurement invariance is a model-based assessment of comparability, not proof that groups are psychologically identical. It supports particular forms of comparison when its assumptions and fit are adequate.
 ## 4. Relationship to This Chapter
 
 Measurement invariance closes the Psychometrics section by connecting validity, latent variables, longitudinal design, and cross-group comparison.
@@ -4796,12 +4165,15 @@ The comparability of measurement functioning across specified groups, contexts, 
 Validity, factor analysis, latent variables, fairness decisions, and substantive group differences.
 
 ## 6. Key Principles
+1. Measurement invariance concerns a specific property or model of psychological measurement.
+2. Measurement depends on the construct, population, purpose, and context.
+3. Reliability and validity answer different questions.
+4. Scores are interpretations supported by evidence, not direct copies of psychological reality.
+5. Measurement error can alter apparent differences and relationships.
+6. Reference groups and standards must be appropriate to the intended use.
+7. Statistical measurement models have assumptions and limitations.
+8. Strong measurement practice makes uncertainty and scope explicit.
 
-1. Measurement invariance asks whether scores are comparable across specified conditions.
-2. Without adequate invariance, group or time comparisons can be misleading.
-3. Different levels of invariance support different interpretations.
-4. Invariance is model- and purpose-dependent.
-5. Measurement differences must be distinguished from psychological differences.
 
 ---
 ## 1.2.95 Preregistration
