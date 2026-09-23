@@ -155,7 +155,7 @@ This structure is intentionally minimal and reflects the current canonical repos
 ## Current System 1 State
 
 - Chapter 1.5 — CONSCIOUSNESS, SLEEP, AND ALTERED STATES — 44 Topics — LOCKED & SEALED
-- Chapter 1.6 — ATTENTION AND INFORMATION SELECTION — 40 Topics — LOCKED & SEALED
+- Chapter 1.6 — ATTENTION AND INFORMATION SELECTION — 40 Topics — LOCKED & SEALED — Canonical Knowledge v1.2
 - Completed System 1 Chapters: 1.1–1.6
 - Completed canonical Topic count: **399**
 
@@ -188,3 +188,20 @@ Canonical file: `knowledge/system-01/chapter-1.6/CHAPTER_1.6.md`
 Validation file: `knowledge/system-01/chapter-1.6/CHAPTER_1.6_FINAL_VALIDATION.md`
 
 Ownership audit result: **40/40 exact Topics, zero exact-name collisions, zero Topic renames required.**
+
+
+## Chapter 1.6 Depth Revision — Completed
+
+The Chapter 1.6 knowledge layer was re-audited for depth after the initial structural validation. The original shallow/generic Knowledge Objects were replaced with a full adaptive-depth revision while preserving the exact locked 40-topic ontology.
+
+- Total chapter words after revision: **12,220**
+- Average Core Understanding: **~126 words/topic**
+- Minimum Core Understanding: **97 words**
+- Maximum Core Understanding: **211 words**
+- Generic templated definitions remaining: **0**
+- Repeated Key-Principle sets: **0**
+- Cross-architecture exact-name collisions: **0**
+- Final status: **LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 1.2**
+- Final validation: `knowledge/system-01/chapter-1.6/CHAPTER_1.6_FINAL_VALIDATION.md`
+
+No Chapter 1.6 Topic was added, removed, or renamed.
