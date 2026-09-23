@@ -998,17 +998,17 @@ Psychological adaptation is the process by which psychological functioning chang
 Adaptation does not always mean improvement, health, or evolutionary fitness. A response can be useful in one context and costly in another.
 
 ## 3. Core Understanding
-Adaptation can be short-term or long-term. A person may change behavior to meet a new task, while repeated experience may produce more enduring changes in expectations or skills. Some adaptations are flexible and deliberate; others emerge automatically through learning or repeated exposure.
+Psychological adaptation is the set of changes through which a person adjusts functioning, behavior, regulation, or expectations in response to changing internal or environmental conditions. Adaptation can involve learning, strategy change, emotional adjustment, physiological regulation, altered goals, social reorganization, or changes in how situations are interpreted. It does not necessarily mean becoming comfortable with a condition; it means achieving some workable correspondence between functioning and demands.
 
-Adaptation depends on person–environment fit. A behavior that reduces immediate danger may become restrictive when the environment changes. Therefore, whether a response is adaptive depends on the demands, timescale, alternatives, and consequences involved.
+Adaptation can be rapid or gradual. A person can adjust within seconds to a sudden threat, over weeks to a new role, or over years to developmental and environmental changes. Different mechanisms operate at different timescales. Short-term coping may reduce immediate strain while creating longer-term costs, whereas slower learning or environmental restructuring may produce more durable adjustment.
 
-Psychological adaptation also differs from biological evolution. Individual psychological change during a lifetime is not itself genetic evolution. Evolutionary explanations concern population-level changes across generations.
+Adaptation is not synonymous with health, success, or conformity. A response can be effective under immediate conditions yet carry later costs. Avoidance may temporarily reduce distress while maintaining a problem; social conformity may facilitate belonging while conflicting with personal goals. Adaptation must therefore be evaluated relative to the demands, goals, timescale, and consequences involved.
 
-### Deeper Conceptual Structure
+People also differ in adaptive pathways. Prior learning, resources, personality, social support, culture, physical health, and environmental opportunities influence which responses are available. Adaptation can involve changing the person, changing the environment, changing the relationship between them, or changing the meaning assigned to the situation.
 
-Psychological adaptation is the process by which psychological functioning adjusts to changing demands, opportunities, threats, or resources. Adaptation can involve changes in perception, learning, goals, emotion regulation, expectations, habits, or behavior. It does not necessarily mean improvement, health, or moral correctness.
+A scientific account distinguishes adaptation as observed change from assumptions about its purpose. Evidence that a response reduces short-term stress does not establish that it is globally adaptive. Adaptation is best understood as a dynamic process whose effectiveness is conditional and potentially multidimensional.
 
-Adaptation can be short-term or long-term, flexible or rigid, beneficial in one context and costly in another. A response can solve an immediate problem while creating later costs. Adaptation is therefore best evaluated relative to demands, time scale, alternatives, and consequences rather than treated as synonymous with successful adjustment.
+
 ## 4. Relationship to This Chapter
 Adaptation integrates behavior, person–environment interaction, plasticity, stability, flexibility, change, feedback, learning, and development.
 
@@ -1020,11 +1020,15 @@ The general psychological concept of adjustment and functional change in relatio
 Specific coping, resilience, learning, developmental, and evolutionary mechanisms to their canonical owners.
 
 ## 6. Key Principles
-1. Adaptation concerns psychological adjustment to conditions and demands.
-2. Adaptation is context-dependent.
-3. An adaptive response in one setting may be costly in another.
-4. Psychological adaptation is not the same as biological evolution.
-5. Adaptation can involve both short-term and long-term change.
+1. Adaptation involves adjustment of functioning to changing conditions.
+2. Adaptation can occur through behavior, learning, regulation, cognition, goals, relationships, or environmental change.
+3. Adaptation operates across multiple timescales.
+4. Short-term effectiveness can differ from long-term consequences.
+5. Adaptation is not synonymous with health, conformity, or subjective comfort.
+6. Adaptive pathways depend on resources, history, context, and individual differences.
+7. Adaptation can involve changing the person, environment, or person–environment relation.
+8. Adaptive value must be evaluated relative to goals, demands, timescale, and consequences.
+
 
 ---
 
@@ -1039,17 +1043,17 @@ Plasticity explains the capacity for psychological systems to change through exp
 Psychological plasticity is the capacity of psychological functioning, behavior, capacities, or organization to change in response to experience, learning, development, context, or other influences. Plasticity varies across characteristics, individuals, developmental periods, and conditions.
 
 ## 3. Core Understanding
-Plasticity does not mean unlimited change. People have biological constraints, prior learning, developmental histories, and existing structures that influence what changes are possible and how easily change occurs.
+Psychological plasticity is the capacity of psychological functioning to change in response to experience, learning, development, environmental conditions, or deliberate intervention. Plasticity can involve changes in behavior, representations, skills, emotional responses, strategies, habits, or regulatory processes. It is a capacity for change, not a guarantee that change will occur or that change will be beneficial.
 
-Plasticity can occur at multiple timescales. Practice can change performance over days or months. Development can reorganize capacities over years. Major experiences can produce longer-lasting changes in expectations or behavior. Some changes are reversible; others become relatively stable.
+Plasticity varies across domains and timescales. Some skills can improve rapidly through practice, whereas personality characteristics may change more gradually. Developmental periods can provide particular opportunities or constraints, but adult functioning remains capable of learning and reorganization. Plasticity can also be constrained by biological development, prior learning, health, motivation, environmental structure, and available opportunities.
 
-Plasticity also depends on opportunity. A capacity may be theoretically modifiable but difficult to change without adequate practice, resources, motivation, or environmental support.
+Change is often asymmetric. A person may readily acquire a new skill but have difficulty extinguishing an established habit; learning may generalize to one context but not another; and improvements in performance can coexist with persistent underlying vulnerabilities. Plasticity therefore requires attention to what changed, how broadly it generalized, how durable it was, and what mechanisms produced it.
 
-### Deeper Conceptual Structure
+Plasticity is also not unlimited. The existence of neural or behavioral change does not imply that every psychological characteristic can be transformed arbitrarily. Claims about “rewiring” or complete reinvention often exceed what evidence can support. Scientific descriptions should identify the domain, intervention or experience, developmental period, magnitude, and persistence of observed change.
 
-Psychological plasticity is the capacity for psychological characteristics or functioning to change in response to experience, learning, development, or changing conditions. Plasticity is a capacity for change, not a guarantee that change will occur or that it will be beneficial.
+Plasticity connects learning, development, adaptation, and intervention. It provides the possibility of transformation while leaving open the questions of constraints, direction, durability, and individual variation.
 
-Plasticity varies across processes and life periods. Some patterns are highly modifiable; others are more constrained by biology, learning history, or accumulated organization. Plasticity and stability can coexist because a system can preserve broad organization while changing particular processes or responses.
+
 ## 4. Relationship to This Chapter
 Plasticity connects psychological change with learning, development, adaptation, stability, flexibility, and person–environment interaction.
 
@@ -1061,10 +1065,15 @@ The general capacity for psychological change.
 Specific forms of neural plasticity, learning, developmental plasticity, and therapeutic change to their canonical Topics.
 
 ## 6. Key Principles
-1. Psychological systems can change.
-2. Plasticity is real but not unlimited.
-3. Change depends on experience, context, development, and existing organization.
-4. Plasticity and stability can coexist.
+1. Plasticity is capacity for psychological change, not a promise of change.
+2. Experience, learning, development, and intervention can contribute to plasticity.
+3. Plasticity differs across psychological domains and timescales.
+4. Change can be context-specific and fail to generalize.
+5. Acquisition and extinction can have different plasticity constraints.
+6. Plasticity is bounded by biological, developmental, experiential, motivational, and environmental factors.
+7. Observed change should be evaluated for magnitude, durability, and generalization.
+8. Claims of unlimited psychological transformation exceed the construct's scientific meaning.
+
 
 ---
 
@@ -1079,17 +1088,17 @@ Stability is as important as change. A complete psychology must explain why some
 Psychological stability is the persistence or relative consistency of a psychological characteristic, process, state pattern, behavior pattern, or organization across time or conditions. Stability can be absolute or probabilistic and does not imply complete immutability.
 
 ## 3. Core Understanding
-Stability can arise from biological constraints, repeated learning, established environments, personality traits, routines, relationships, or self-maintaining feedback loops. Stable patterns can remain probabilistic rather than deterministic.
+Psychological stability is the persistence of a psychological characteristic, pattern, organization, or functioning across time or conditions. Stability can refer to continuity in individual differences, repeated patterns of behavior, identity, cognitive organization, or regulatory tendencies. It is a relative property: something can be stable compared with another characteristic while still changing gradually.
 
-Different forms of stability must be distinguished. A person may maintain rank relative to others while changing in absolute level. A behavior may remain frequent while its underlying causes change. Stability across one situation does not guarantee stability across all situations.
+Several forms of stability must be distinguished. Rank-order stability concerns whether people retain their relative position compared with others. Mean-level stability concerns whether the average level changes across a population. Absolute stability concerns whether an individual's level remains similar. Structural stability concerns whether relationships among dimensions remain comparable. These forms can diverge.
 
-Stability can also coexist with plasticity. A trait can be relatively stable while still changing over development. A routine can persist until environmental demands or consequences change.
+Stability can arise from persistent traits, repeated environments, habits, biological constraints, social reinforcement, identity continuity, or self-maintaining feedback. It does not by itself reveal the mechanism. A behavior may remain stable because the person is stable, because the environment remains stable, or because person and environment repeatedly reproduce the same conditions.
 
-### Deeper Conceptual Structure
+Stability also does not imply immutability. A characteristic can show high relative stability while shifting substantially in absolute level. Conversely, a stable average can conceal considerable individual change. Measurement reliability and repeated testing conditions must therefore be considered before interpreting apparent stability.
 
-Psychological stability refers to persistence or relative consistency in a psychological characteristic or pattern across time or circumstances. Stability is a matter of degree, not an all-or-none property.
+The concept is especially important when integrating traits, states, processes, development, and adaptation. Psychological systems can preserve organizational continuity while their components change. Stability and change are therefore not simple opposites but properties that can coexist at different levels and timescales.
 
-A stable pattern can arise from enduring characteristics, repeated environments, habits, biological constraints, or self-reinforcing feedback. Stability does not prove immutability. A characteristic can show substantial stability while still changing meaningfully under development, intervention, learning, or major environmental change.
+
 ## 4. Relationship to This Chapter
 Stability forms a paired concept with plasticity and change. It connects traits, person–situation interaction, organization, development, and feedback.
 
@@ -1101,10 +1110,15 @@ The general concept of persistence and consistency in psychological functioning.
 Specific trait stability, developmental continuity, memory persistence, and behavioral habit stability to their canonical Topics.
 
 ## 6. Key Principles
-1. Psychological characteristics can show meaningful stability.
-2. Stability does not mean complete immutability.
-3. Different forms of stability must be distinguished.
-4. Stable patterns can arise from interacting biological, psychological, and environmental influences.
+1. Stability means relative persistence across time or conditions.
+2. Rank-order, mean-level, absolute, and structural stability are distinct.
+3. Stability does not imply immutability.
+4. Stable patterns can arise from stable persons, stable environments, or reciprocal feedback.
+5. High group stability can coexist with substantial individual change.
+6. Measurement reliability affects estimates of stability.
+7. Psychological systems can maintain organization while component characteristics change.
+8. Stability should always be interpreted relative to a timescale, comparison, and level of analysis.
+
 
 ---
 
@@ -1119,17 +1133,17 @@ Flexibility describes the capacity to change psychological responses when condit
 Psychological flexibility is the capacity to adapt attention, interpretation, emotion, motivation, behavior, or strategy to changing circumstances while maintaining effective functioning and relevant goals. Flexibility is context-sensitive and should not be confused with simply changing one’s mind frequently.
 
 ## 3. Core Understanding
-Flexibility involves detecting when a current response is no longer effective and adjusting it. It can involve shifting attention, changing strategies, tolerating uncertainty, updating beliefs, regulating emotion, or selecting a different behavior.
+Psychological flexibility is the capacity to modify attention, interpretation, goals, strategies, behavior, or regulation in response to changing demands while maintaining effective functioning and values or higher-order commitments when appropriate. Flexibility is not simply being agreeable or changing one's mind frequently. It involves adaptive adjustment without losing the ability to maintain coherent priorities.
 
-Flexibility has limits. Constant switching can be inefficient, and persistence can be useful when a strategy is working. Effective flexibility therefore depends on selecting change when change is useful and maintaining stability when stability is useful.
+Flexibility can involve switching strategies, updating beliefs, tolerating competing information, shifting attention, changing behavior when contingencies change, or accepting internal experiences without allowing them to rigidly determine action. Its usefulness depends on context. A person who changes strategies too readily can become inconsistent, while someone who never changes can persist with an ineffective approach.
 
-Flexibility can be influenced by learning, stress, cognitive control, emotional state, environmental predictability, and available resources. Extreme stress or fatigue can reduce flexible responding in some circumstances.
+Flexibility therefore exists in relation to stability. Effective functioning often requires both persistence and adaptation: stable goals or values can provide continuity while strategies change as conditions change. This distinction is important in self-regulation, problem solving, emotion regulation, social behavior, and learning.
 
-### Deeper Conceptual Structure
+Flexibility is also constrained by resources and history. Fatigue, stress, cognitive load, rigid habits, strong emotional states, environmental threat, limited alternatives, and learned contingencies can reduce the ability to shift. Conversely, practice, feedback, cognitive resources, supportive environments, and varied experience can increase flexible responding.
 
-Psychological flexibility is the capacity to vary thoughts, emotions, attention, goals, or behavior in ways that remain responsive to changing conditions while preserving important aims or values. Flexibility is not simply being agreeable or changing one's mind frequently.
+Measurement should distinguish flexibility from general performance. A person may perform well on a fixed task but struggle when rules change. Flexibility is therefore often assessed through switching, adaptation to contingency changes, strategy variation, or behavior across contexts. It should not be treated as a universal good independent of task demands.
 
-Flexibility requires sensitivity to context and the ability to shift when the current pattern no longer fits. Too little flexibility can produce rigid responding; indiscriminate flexibility can produce instability or loss of coherent direction. Appropriate flexibility depends on the demands of the situation and the person's goals.
+
 ## 4. Relationship to This Chapter
 Flexibility connects plasticity, stability, adaptation, behavior, self-regulation, change, and person–environment interaction. Chapter 1.18 also owns psychological flexibility in its health and well-being context; this Topic provides the foundational concept without duplicating that application.
 
@@ -1141,10 +1155,15 @@ The general concept of adaptive psychological flexibility.
 Clinical or health-specific flexibility and specific mechanisms of cognitive or emotion regulation to their canonical Topics.
 
 ## 6. Key Principles
-1. Flexibility is the capacity to adjust functioning when conditions change.
-2. Flexibility is not constant change.
-3. Effective functioning requires both flexibility and stability.
-4. Context determines whether persistence or change is useful.
+1. Flexibility is adaptive modification under changing conditions.
+2. Flexibility is not synonymous with indecision, inconsistency, or compliance.
+3. Effective functioning often combines stable goals with flexible strategies.
+4. Flexibility can involve attention, interpretation, cognition, emotion regulation, and behavior.
+5. Stress, load, habits, and environmental constraints can reduce flexibility.
+6. Practice and varied experience can support flexible responding.
+7. Flexibility must be evaluated relative to changing task demands.
+8. Excessive switching can be as dysfunctional as excessive rigidity.
+
 
 ---
 
@@ -1159,17 +1178,17 @@ Change is the broad process-level concept that captures alteration in psychologi
 Psychological change is a measurable alteration in psychological processes, states, contents, capacities, traits, organization, behavior, or functioning across time or conditions. Change can be gradual or abrupt, temporary or lasting, intentional or unintentional, beneficial or harmful, and reversible or relatively persistent.
 
 ## 3. Core Understanding
-Change can occur through learning, development, maturation, experience, relationships, stress, treatment, environmental shifts, and biological changes. Different forms of change have different mechanisms.
+Psychological change is alteration in a psychological characteristic, process, state, representation, behavior, capacity, relationship, or pattern of functioning across time. Change can be developmental, learned, situational, therapeutic, environmentally induced, biologically constrained, or produced by interactions among these influences. It can be gradual, abrupt, reversible, irreversible, domain-specific, or broad.
 
-Not every observed difference represents genuine psychological change. Measurement error, temporary states, changes in context, and differences in measurement conditions can create apparent change. Good research distinguishes these possibilities.
+Change must be distinguished from fluctuation. A temporary state shift may return to baseline, whereas durable change alters the probability or organization of later functioning. Repeated measurement is therefore essential when making claims about change. Regression to the mean, practice effects, measurement error, seasonal variation, and changing contexts can mimic genuine psychological transformation.
 
-Change can occur at multiple levels simultaneously. A new skill can change behavior, which can alter the environment, which can influence motivation and future learning. Psychological change is therefore often dynamic and reciprocal.
+Change can occur through several pathways. Learning modifies associations, skills, expectations, and habits. Development changes capacities and organization. New environments alter demands and opportunities. Social relationships provide feedback and models. Deliberate intervention can modify behavior or processing. Biological changes can alter available capacities. These pathways can interact rather than operating independently.
 
-### Deeper Conceptual Structure
+Change is not necessarily improvement. A person can acquire an effective skill, develop a harmful habit, become more rigid, recover a lost capacity, or reorganize functioning in response to adversity. Evaluation of change therefore requires an explicit criterion and timescale rather than assuming that “more change” is better.
 
-Psychological change is any meaningful alteration in psychological characteristics, states, processes, organization, or functioning across time. Change can be gradual or abrupt, temporary or enduring, intentional or unintentional, adaptive or maladaptive.
+Psychological change also occurs at multiple levels. A person can change a state without changing a trait, change a strategy without changing a goal, or change a belief while preserving a broader identity. Comprehensive analysis asks what changed, how much, through which mechanism, for whom, under what conditions, and whether the change persisted or generalized.
 
-Change should be distinguished from simple measurement variation. A scientific claim of change requires a suitable basis for determining that the observed difference reflects a real alteration rather than noise, context, or measurement error. Change also does not necessarily mean development or improvement.
+
 ## 4. Relationship to This Chapter
 Change integrates plasticity, stability, flexibility, adaptation, temporal dynamics, development, learning, and behavior–environment transactions.
 
@@ -1181,10 +1200,15 @@ The general concept of change in psychological functioning.
 Specific developmental, learning, therapeutic, neural, and behavioral change processes to their canonical Topics.
 
 ## 6. Key Principles
-1. Psychological functioning can change across time and conditions.
-2. Change can have many mechanisms.
-3. Apparent change can reflect measurement or context rather than true change.
-4. Change can be temporary or enduring.
+1. Psychological change is alteration across time in functioning or psychological organization.
+2. Change differs from temporary fluctuation.
+3. Repeated measurement is needed to distinguish durable change from noise and context effects.
+4. Learning, development, relationships, environment, biology, and intervention can all contribute.
+5. Change can be beneficial, harmful, mixed, or value-neutral.
+6. Change can occur at state, process, representation, behavior, capacity, and trait levels.
+7. Generalization and durability are separate properties of change.
+8. Claims about change require a defined target, baseline, timescale, mechanism, and criterion.
+
 
 ---
 
@@ -1199,17 +1223,17 @@ Stimulus is a basic term for describing events or conditions that can provide in
 A stimulus is an event, object, energy pattern, signal, or environmental condition that can be detected by an organism and can influence psychological or behavioral responding. A stimulus can be external or, in some frameworks, internally generated.
 
 ## 3. Core Understanding
-A stimulus is not equivalent to its psychological meaning. The same physical event can be perceived differently by different people, and a stimulus can be ignored, misperceived, or interpreted differently depending on attention, expectations, learning, and context.
+A stimulus is an event, object, signal, condition, or change in the environment or organism that can influence psychological processing or behavior. Stimuli can be external, such as sounds, words, faces, social cues, rewards, threats, or physical events, or internal, such as bodily sensations and internally generated signals when these function as inputs to processing. A stimulus is defined relative to the system being studied and the effect or processing pathway of interest.
 
-Stimuli vary in intensity, duration, relevance, predictability, and social meaning. Psychological systems select and transform stimulus information rather than copying it perfectly.
+Stimulus does not mean automatic cause. The same stimulus can produce different responses depending on attention, expectations, learning history, sensory capacity, goals, current state, and context. Conversely, the absence of an external change can still produce psychological effects when internal representations or expectations alter processing.
 
-A stimulus can also acquire significance through learning. A previously neutral cue can become associated with an outcome and later influence behavior. This does not mean the stimulus itself contains the psychological meaning independently of the organism.
+Stimuli vary in intensity, duration, timing, predictability, salience, modality, complexity, and social meaning. These properties can determine detectability and influence without requiring that the stimulus be consciously noticed. A stimulus can also become meaningful through learning; a neutral cue can acquire significance when repeatedly associated with consequences.
 
-### Deeper Conceptual Structure
+Psychological research must distinguish physical stimulus properties from their psychological representation. The intensity of a sound is not identical to perceived loudness, and the physical presence of a social cue does not guarantee attention to or interpretation of it. This distinction is central to perception, learning, conditioning, and social cognition.
 
-A stimulus is an event, object, signal, condition, or change that can be detected and can influence psychological processing or behavior. A stimulus is not defined solely by its physical properties; its psychological relevance depends partly on detection, attention, interpretation, learning, and context.
+Stimuli can also be selected, transformed, and generated by behavior. A person who chooses media, enters a social setting, or asks a question creates new informational inputs. Stimulus and response are therefore not always independent variables in natural behavior.
 
-Stimuli can originate outside the person or from internal bodily and psychological events. The presence of a stimulus does not guarantee a particular response. What happens depends on how the organism detects and processes the information and on the state and context in which it occurs.
+
 ## 4. Relationship to This Chapter
 Stimulus is the input-side concept in the processing architecture. It connects to sensation, perception, attention, learning, interpretation, evaluation, response selection, and behavior.
 
@@ -1221,10 +1245,15 @@ The general psychological concept of an input event or condition capable of infl
 Specific sensory stimuli, conditioned stimuli, social cues, and attentional signals to their canonical Topics.
 
 ## 6. Key Principles
-1. A stimulus is a potentially influential event or condition.
-2. Stimulus input is not identical to psychological interpretation.
-3. Attention and perception determine what information is processed.
-4. Learning can change the significance of stimuli.
+1. A stimulus is an event or condition capable of influencing psychological processing or behavior.
+2. Stimulus properties and psychological representations of those properties are distinct.
+3. A stimulus does not guarantee a particular response.
+4. Attention, learning, state, goals, and context alter stimulus effects.
+5. Stimuli vary in intensity, timing, duration, predictability, modality, and salience.
+6. Stimuli can acquire meaning through learning and association.
+7. Internal events can function as stimuli within psychological systems.
+8. Behavior can select or generate subsequent stimuli, creating feedback.
+
 
 ---
 
@@ -1239,17 +1268,17 @@ Psychological processing describes the transformations that occur between input 
 Psychological processing is the set of internal operations through which information or experience is detected, selected, represented, interpreted, evaluated, transformed, stored, retrieved, and used to guide psychological states or behavior.
 
 ## 3. Core Understanding
-Processing can include perception, attention, memory, reasoning, appraisal, motivation, emotion, decision-making, and action preparation. These operations can occur sequentially, interactively, or partly in parallel depending on the system and task.
+Psychological processing refers to the operations through which information is selected, transformed, integrated, stored, retrieved, evaluated, interpreted, or used to guide regulation and action. It is a broad process-level concept spanning perception, attention, memory, reasoning, emotion-related appraisal, language, decision-making, and social cognition. The term describes activity rather than a single mechanism.
 
-Processing is shaped by both incoming information and prior knowledge. Expectations can influence interpretation; memory can provide context; goals can determine relevance; emotion can change attention; and action possibilities can influence perception.
+Processing can be serial, parallel, recurrent, interactive, automatic, controlled, conscious, or relatively inaccessible to awareness depending on the system and task. These categories are dimensions rather than universal mutually exclusive types. A process may begin automatically and later become subject to deliberate control, or controlled goals may alter which automatic processes are activated.
 
-Processing is not always conscious. Some operations are rapid and automatic, while others require deliberate control. Practice can also change processing efficiency.
+Processing is constrained by resources and architecture. Attention, working memory, sensory limits, prior knowledge, emotional state, fatigue, and task demands influence what information can be represented and how deeply it is processed. Environmental structure can also reduce internal demands by making relevant information salient or persistent.
 
-### Deeper Conceptual Structure
+Processing is not necessarily accurate. Efficient processing can rely on learned shortcuts, expectations, prior probabilities, or incomplete information. Errors can arise because the system is optimizing a different objective, because information is missing, because competing processes conflict, or because the environment differs from the conditions under which a strategy works well.
 
-Psychological processing is the set of operations through which information is detected, selected, transformed, represented, interpreted, evaluated, integrated, stored, retrieved, or used to guide responses. Processing is therefore broader than thinking alone.
+A comprehensive process account specifies input, transformation, intermediate representations, output, timing, control conditions, and feedback. “Processing” should not be used as an explanatory black box that merely restates that a person thought about something.
 
-Processing can be rapid or slow, conscious or relatively automatic, simple or multi-stage. Different processes can operate at the same time and can influence one another. A processing description is most useful when it specifies what information is involved, what transformation occurs, and what outcome is affected.
+
 ## 4. Relationship to This Chapter
 Psychological processing is the central dynamic layer between stimulus, information selection, interpretation, representation, evaluation, response selection, action, and feedback.
 
@@ -1261,10 +1290,15 @@ The general process architecture connecting information input to psychological o
 Specific processing domains such as attention, memory, perception, and reasoning to their canonical Topics.
 
 ## 6. Key Principles
-1. Psychological systems transform information rather than merely receive it.
-2. Processing can be conscious or unconscious.
-3. Prior knowledge, goals, and context influence processing.
-4. Different processes interact to shape behavior.
+1. Psychological processing is organized transformation and use of information.
+2. Processing can be automatic, controlled, conscious, inaccessible, parallel, serial, or recurrent.
+3. These are dimensions of processing rather than one universal classification.
+4. Processing is constrained by attention, memory, knowledge, state, resources, and task demands.
+5. Efficient processing is not necessarily accurate processing.
+6. Expectations and prior knowledge can shape processing from early stages.
+7. Environmental structure can reduce or redistribute processing demands.
+8. A useful process explanation specifies inputs, transformations, outputs, timing, and control conditions.
+
 
 ---
 
@@ -1279,17 +1313,17 @@ People encounter more information than they can fully process. Information selec
 Information selection is the process by which a psychological system prioritizes some available information, signals, representations, or internal contents for further processing while reducing or delaying processing of others.
 
 ## 3. Core Understanding
-Selection can be guided by goals, salience, novelty, expectations, emotional significance, learned relevance, and environmental demands. It can occur through attention but can also involve memory retrieval, interpretation, and decision processes.
+Information selection is the process by which some available information receives processing priority while other information is filtered, deprioritized, ignored, or processed with reduced resources. Selection is central to attention because organisms routinely face more information than can be processed equally deeply. Selection can occur through perceptual attention, working-memory access, goal-directed prioritization, emotional salience, learned relevance, or environmental structure.
 
-Selection is not necessarily conscious. A person may intentionally focus on a speaker, while other signals capture attention without deliberate choice. Selection is also not perfect; people can miss important information or notice irrelevant signals.
+Selection is not equivalent to conscious choice. Information can receive priority because it matches goals, signals threat, is novel, is expected, has been rewarded previously, or captures attention automatically. Conversely, a consciously irrelevant stimulus can still influence behavior through residual processing. The degree and stage of selection therefore depend on the task and available resources.
 
-Selection changes with context. Under high cognitive load, fewer resources may be available. Under strong threat or high relevance, certain signals may receive priority.
+Selection is shaped by competition. Multiple stimuli can compete for limited representational or response resources, while top-down goals can bias which information wins. Bottom-up salience and top-down control can interact rather than forming completely separate systems. Selection can also change dynamically as goals, expectations, and consequences change.
 
-### Deeper Conceptual Structure
+Selective processing can improve efficiency but create systematic blind spots. Focusing on task-relevant information can reduce distraction while increasing the chance of missing unexpected events. Attention to threat can facilitate detection in dangerous environments but can also bias processing toward threat-related information when the context does not warrant it.
 
-Information selection is the preferential allocation of attention or processing resources to some information rather than other available information. Selection can be influenced by goals, expectations, novelty, emotional significance, perceptual salience, learned relevance, and limited processing capacity.
+Scientific analysis should distinguish selection from awareness, perception, and memory. Information can be selected without conscious awareness, perceived without becoming the focus of attention, or attended to without being remembered. The exact relationship depends on the processing architecture and measurement method.
 
-Selection does not mean irrelevant information is completely absent from the mind. Information outside focal attention can sometimes be processed sufficiently to influence later responses. Selection is therefore a matter of relative priority, not a perfect on-off filter.
+
 ## 4. Relationship to This Chapter
 Information selection is an early processing-stage concept connecting stimulus, attention, salience, interpretation, and response selection. Chapter 1.6 owns the detailed attention mechanisms.
 
@@ -1301,10 +1335,15 @@ The general idea of prioritizing information for processing.
 Selective attention, attentional capture, salience, and visual search to Chapter 1.6.
 
 ## 6. Key Principles
-1. Psychological systems cannot fully process all available information.
-2. Selection can be goal-driven or stimulus-driven.
-3. Selection can be conscious or automatic.
-4. Selected information can still be interpreted incorrectly.
+1. Information selection allocates processing priority among competing inputs.
+2. Selection is not synonymous with conscious choice.
+3. Goals, salience, novelty, threat, learning, and expectations can influence selection.
+4. Top-down and bottom-up influences can interact.
+5. Selection improves efficiency while creating potential blind spots.
+6. Attention, awareness, perception, and memory are related but distinct.
+7. Selection is dynamic and can change as goals and contingencies change.
+8. Selection should be analyzed in relation to task demands, available resources, and measurement stage.
+
 
 ---
 
@@ -1319,17 +1358,17 @@ Interpretation explains how people assign meaning to information rather than mer
 Interpretation is the process of assigning meaning, significance, or explanatory structure to perceived information, events, internal experiences, or social signals. Interpretation can draw on prior knowledge, expectations, goals, context, memory, and current states.
 
 ## 3. Core Understanding
-The same event can receive different interpretations. A delayed message may be interpreted as technical failure, rejection, busyness, or hostility. The psychological consequences depend partly on the interpretation, not only on the physical event.
+Interpretation is the process of assigning meaning, significance, causal structure, or evaluative understanding to information or events. Interpretation goes beyond detecting or representing information: it involves determining what something means, what caused it, what it implies, or how it should be understood. Interpretations are shaped by prior knowledge, expectations, goals, emotion, social information, language, and context.
 
-Interpretation can be accurate, incomplete, ambiguous, or mistaken. It can be conscious or automatic. Prior beliefs and expectations can bias interpretation, while new evidence can sometimes update it.
+The same event can support different interpretations because available information is often incomplete or ambiguous. A delayed reply can be interpreted as disinterest, busyness, hostility, or an ordinary scheduling problem depending on the person's knowledge and expectations. Interpretation therefore contributes to psychological variability without requiring that one interpretation be equally accurate.
 
-Interpretation is distinct from perception. Perception concerns organizing sensory information into meaningful representations; interpretation can build further meaning from those representations. The boundary is not identical across theories, so terminology must be used carefully.
+Interpretation can operate rapidly and automatically or deliberately and reflectively. Initial interpretations can influence attention and emotion, while later information can revise them. Feedback from outcomes can strengthen or weaken interpretive patterns. Repeated interpretations can also become habitual, making some meanings more accessible than alternatives.
 
-### Deeper Conceptual Structure
+Interpretation is not identical to belief. A single event can receive a transient interpretation without becoming a stable belief, while established beliefs can bias subsequent interpretation. Interpretation also differs from perception: perception concerns organization and identification of information, whereas interpretation assigns broader meaning and implications.
 
-Interpretation is the process of assigning meaning to information, events, internal states, or social signals. Interpretation depends on available evidence but is also shaped by prior knowledge, expectations, goals, language, emotion, and context.
+Scientific analysis should distinguish subjective meaning from objective correctness. An interpretation can be psychologically consequential even when inaccurate, and a correct interpretation can still depend on uncertain evidence. Claims about interpretation therefore require attention to information available at the time, alternative meanings, confidence, and outcome feedback.
 
-The same information can support different interpretations without all interpretations being equally justified. Interpretation is therefore neither pure invention nor a direct copy of reality. It is a constructive process whose accuracy depends partly on the quality of available information and the assumptions used to organize it.
+
 ## 4. Relationship to This Chapter
 Interpretation connects representation, evaluation, context, mental contents, memory, emotion, cognition, and response selection.
 
@@ -1341,10 +1380,15 @@ The general meaning-assignment process.
 Perceptual organization, appraisal, attribution, belief updating, and social interpretation to their canonical Topics.
 
 ## 6. Key Principles
-1. People respond partly to interpreted meaning, not only raw events.
-2. Interpretation is influenced by prior knowledge and context.
-3. Interpretations can be accurate or mistaken.
-4. Different people can interpret the same event differently.
+1. Interpretation assigns meaning, significance, causation, or implications to information.
+2. Interpretation is shaped by prior knowledge, goals, expectations, emotion, and context.
+3. Ambiguous information permits multiple plausible interpretations.
+4. A psychologically influential interpretation need not be factually accurate.
+5. Initial interpretations can be revised through new evidence and feedback.
+6. Interpretation differs from perception and from stable belief.
+7. Repeated interpretations can become habitual or highly accessible.
+8. Interpretation should be evaluated against the information available and plausible alternatives.
+
 
 ---
 
@@ -1359,17 +1403,17 @@ Representation explains how information about objects, events, people, goals, an
 A mental representation is an internal format or structure through which information, an object, event, relationship, concept, goal, or imagined possibility can be represented and used by psychological processes. Representations can be perceptual, conceptual, linguistic, spatial, motoric, propositional, or otherwise organized.
 
 ## 3. Core Understanding
-Representations allow psychological systems to operate on information when the represented object or event is not immediately present. Memory, planning, reasoning, language, imagination, and decision-making all depend on forms of representation.
+Representation is the psychological encoding or organization through which information about objects, events, concepts, self, others, or possible states of the world becomes available for further processing. A representation need not be a literal picture. It can be perceptual, conceptual, semantic, spatial, motoric, propositional, imagistic, relational, or distributed across multiple forms. The key property is that information is organized in a way that can guide subsequent psychological operations.
 
-Representations are not necessarily literal copies. They can be compressed, selective, abstract, distorted, or constructed. A mental model of a route can preserve relationships without reproducing every physical detail.
+Representations allow the mind to operate on information that is not currently present. A person can remember a past event, imagine a future situation, reason about an abstract concept, or plan an action without the represented object being physically available. This makes representation central to memory, language, reasoning, planning, decision-making, and social cognition.
 
-Different tasks can require different representations of the same object. A person can represent a cup by its visual appearance, its function, its name, its location, or its social meaning.
+Representations are selective and constructed. They preserve some properties while omitting others, and their structure reflects learning, goals, category systems, context, and prior knowledge. Two people can therefore form different representations of the same event, and one person can represent the same object differently depending on the task.
 
-### Deeper Conceptual Structure
+A representation should be distinguished from its external referent and from the process that constructs or manipulates it. A mental image of a tree is not a tree; remembering the tree is not the same as the representation itself. Scientific theories also differ over the format and architecture of representations, so claims should not assume one universal representational code.
 
-Representation is the way information about an object, event, person, relationship, goal, or state is encoded or organized so that it can be used by psychological processes. Representations can be perceptual, conceptual, verbal, spatial, emotional, episodic, procedural, or combinations of these.
+Representations can be useful while imperfect. Their value depends on what information they preserve and whether that information is sufficient for the task. Errors can arise when a representation omits relevant structure, incorporates false information, or is applied outside the conditions in which it was useful.
 
-A representation is not the thing it represents. It is a psychologically usable form of information that can be incomplete, distorted, abstracted, or updated. Different representations of the same event can support different judgments and actions.
+
 ## 4. Relationship to This Chapter
 Representation is the central content format in the processing architecture. It connects stimulus, interpretation, evaluation, memory, thinking, language, goals, and action.
 
@@ -1381,10 +1425,15 @@ The general concept of internal representation.
 Specific concepts, schemas, mental models, imagery, language representations, and memory systems to their canonical Topics.
 
 ## 6. Key Principles
-1. Psychological systems can represent information internally.
-2. Representations need not be exact copies of reality.
-3. Different tasks can use different representations of the same object.
-4. Representation supports cognition beyond immediate perception.
+1. Representation organizes information so it can be used by later psychological processes.
+2. Representations can be perceptual, conceptual, semantic, spatial, motoric, relational, or other forms.
+3. Representation allows cognition to operate on absent, past, future, or abstract information.
+4. Representations are selective rather than literal copies of reality.
+5. Goals, learning, context, and prior knowledge shape representation.
+6. A representation is distinct from its referent and from the process that constructs it.
+7. Representations can be useful while incomplete or inaccurate.
+8. Claims about representational format should remain tied to evidence rather than assumed architecture.
+
 
 ---
 
