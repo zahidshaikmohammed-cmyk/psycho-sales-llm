@@ -149,3 +149,33 @@ The completed Chapters 1.1–1.4 may remain marked LOCKED & SEALED only while th
 - Chapter 1.5 Topics added: **0**
 - Chapter 1.5 Topics removed: **0**
 - Remediation type: surgical disambiguation only; no knowledge prose written.
+
+
+## Chapter 1.6 Ownership Remediation — Pre-Writing and Final Gate
+
+### Chapter 1.6 exact-name audit
+- Architecture Topics audited: **40**
+- Exact canonical-name collisions found: **0**
+- Topic names changed: **0**
+- Topics added: **0**
+- Topics removed: **0**
+- Existing sealed Knowledge Objects rewritten: **0**
+
+### Required specialization boundaries
+- **Bottom-up attention / Top-down attention** remain distinct from Chapter 1.4's **Bottom-up processing / Top-down processing**: attention owns attentional selection/control; perception owns perceptual processing directionality.
+- **Feature integration** remains an attentional/perceptual mechanism and does not re-own general perceptual organization.
+- **Visual search** remains attention-centered and does not re-own visual perception or object recognition.
+- **Inattentional blindness** and **Change blindness** remain attentional failure phenomena and do not re-own consciousness or general visual perception.
+- **Mind-wandering** remains an attentional state and defers consciousness to Chapter 1.5 and broader thought processes to Chapter 1.9.
+- **Executive attention / Attentional control** defer broader executive functions and cognitive control to Chapter 1.9.
+- **Attentional blink** defers working memory and conscious access to Chapters 1.8 and 1.5.
+- **Sustained attention / Vigilance failure** are distinct: sustained attention is maintained attentional engagement; vigilance failure is breakdown during prolonged monitoring.
+- **Divided attention / Task switching / Multitasking** are distinct and are not treated as synonyms.
+- **Attentional capture / Salience / Goal-directed capture** are distinct and context-sensitive.
+
+### Chapter 1.6 audit gate
+- Ownership gate: **PASS**
+- Structural gate: **PASS**
+- Scientific-integrity gate: **PASS**
+- System-boundary gate: **PASS**
+- Final validation: `knowledge/system-01/chapter-1.6/CHAPTER_1.6_FINAL_VALIDATION.md`
