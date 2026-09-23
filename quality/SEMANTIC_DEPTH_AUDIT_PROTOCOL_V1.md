@@ -49,3 +49,19 @@ Where meaningful, relationships should be typed as influences, predicts, mediate
 Every final validation record should report Topic count, ontology match, structural compliance, ownership, semantic audit, P0/P1/P2/P3 counts, template findings, neighbor distinctions, evidence integrity, retrieval findings, cross-chapter findings, and final seal decision.
 
 > A Topic does not pass because it has six sections. It passes because a reader or machine can use the knowledge correctly without importing hidden assumptions.
+
+## Executable enforcement
+
+Phase 2 adds executable enforcement through:
+
+- `quality/CANONICAL_SEAL_CONTRACT_V2.md` — binding seal requirements.
+- `quality/validate_canonical_chapter.py` — deterministic ontology, structure, ownership-boundary, anti-template, duplication, depth-floor, and attestation checks.
+- `quality/V2_SEMANTIC_ATTESTATION_TEMPLATE.md` — required expert-audit record.
+- `.github/workflows/canonical-quality-v2.yml` — pull-request and branch CI enforcement.
+- `quality/tests/test_validate_canonical_chapter.py` — validator self-tests.
+
+The executable layer intentionally does not claim to infer scientific truth, neighbor distinctions, or evidence quality from text automatically. Those remain explicit semantic-audit attestations governed by this protocol.
+
+## Phase 2 sealing rule
+
+A newly changed canonical chapter or validation record cannot pass the v2 CI gate without a valid v2 semantic attestation. Existing historical seals are not retroactively re-certified by the infrastructure change.
