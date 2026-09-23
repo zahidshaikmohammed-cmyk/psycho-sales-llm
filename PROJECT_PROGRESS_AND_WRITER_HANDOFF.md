@@ -1099,8 +1099,8 @@ A new writer should treat the following as the operational instruction:
 
 The repository-wide synchronization pass was completed before Chapter 1.5 work.
 
-- Canonical completed System 1 chapters synchronized: **1.1, 1.2, 1.3, 1.4, 1.5**.
-- Canonical Topic total synchronized: **315**.
+- Canonical completed System 1 chapters synchronized: **1.1, 1.2, 1.3, 1.4, 1.5, 1.6**.
+- Canonical Topic total synchronized: **399**.
 - README current-state metadata synchronized.
 - Cross-chapter ownership remediation metadata synchronized through Chapter 1.5.
 - Chapters 1.1–1.3 final validation records synchronized with their sealed state.
@@ -1122,7 +1122,7 @@ Two exact canonical-name collisions were found and surgically disambiguated:
 
 No existing sealed Knowledge Objects were rewritten. No Chapter 1.1–1.4 Topic names were changed. No Topics were added or removed from Chapter 1.5.
 
-The next required step is a fresh full ownership audit of the remediated 44-topic Chapter 1.5 ontology, followed by Knowledge Object writing only after the ownership gate passes.
+The Chapter 1.5 ontology was subsequently written, validated, and sealed. The next target is Chapter 1.7.
 
 
 ## Chapter 1.5 — Final Canonical State
@@ -1171,3 +1171,25 @@ Equation: **1,364 − 60 − 12 − 9 − 16 = 1,267**.
 The counting/ownership accounting is now reproducible. The controlled ontology-type vocabulary is also formalized in the registry, but a complete per-entry primary-type assignment across all 1,364 entries remains a separate typing subgate and has **not** been silently invented in this pass.
 
 No sealed Knowledge Object prose was rewritten. No canonical Topic names were changed.
+
+
+## Chapter 1.6 — Final Canonical State
+
+**Canonical title:** Attention and Information Selection
+
+**Canonical Topic count:** 40
+
+**Status:** LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 1.1
+
+Canonical file:
+
+`knowledge/system-01/chapter-1.6/CHAPTER_1.6.md`
+
+Validation file:
+
+`knowledge/system-01/chapter-1.6/CHAPTER_1.6_FINAL_VALIDATION.md`
+
+The live Chapter 1.6 ontology was audited against the full architecture before writing. All 40 canonical Topic names matched exactly. No exact-name collisions were found, so no Topic renaming was required. All 40 Knowledge Objects passed the six-section structural gate and explicit Owns/Defers boundary gate.
+
+**Current completed System 1 state:** Chapters 1.1–1.6, **399 canonical Topics**.  
+**Next target:** Chapter 1.7.
