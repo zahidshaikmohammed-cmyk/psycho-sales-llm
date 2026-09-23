@@ -11,7 +11,7 @@
 | 1.2 | 118 | 55117 | 288 | 199 | 431 |
 | 1.3 | 78 | 23077 | 159 | 122 | 238 |
 | 1.4 | 62 | 18514 | 79 | 66 | 96 |
-| 1.5 | 44 | 10344 | 66 | 47 | 84 |
+| 1.5 | 44 | 13580 | 120 | 97 | 143 |
 | 1.6 | 40 | 12223 | 126 | 97 | 211 |
 | 1.7 | 66 | 15536 | 113 | 88 | 141 |
 | 1.8 | 76 | 16852 | 96 | 69 | 156 |
@@ -103,3 +103,12 @@ The final system should function simultaneously as:
 6. infrastructure for downstream intelligence systems.
 
 The project should optimize for **knowledge completeness and reasoning quality**, not word count.
+
+
+### Chapter 1.5 — V2 Semantic Remediation Complete
+- 44/44 canonical Topics preserved exactly.
+- 13,580 total words; average Core Understanding ~120; minimum 97; maximum 143.
+- Deepened consciousness, awareness, conscious access/processing, unconscious and subliminal processing, automaticity/control, consciousness measurement, sleep architecture/regulation/homeostasis/circadian timing, sleep-stage distinctions, sleep-memory/learning/emotion relationships, deprivation, chronotype/misalignment, dreaming/lucid dreaming/sleep paralysis, hypnosis/meditation/mindfulness, altered states/dissociation, and psychoactive-substance classes plus tolerance/dependence/withdrawal.
+- Added Topic-specific mechanism, measurement, interpretation, uncertainty, boundary, and neighboring-concept distinctions.
+- Preserved universal-psychology boundary and existing cross-chapter ownership.
+- V2 validation record updated and chapter sealed at canonical version 2.0.
