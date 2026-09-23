@@ -58,7 +58,7 @@ def check_attestation(text):
         elif label in ('P0','P1') and m and int(m.group(1)) != 0: errors.append(label+' must be 0 for a seal')
     return errors
 
-def validate(chapter_path, architecture_path):
+def validate(chapter_path, architecture_path, validation_path=None):
     chapter=chapter_path.read_text(encoding='utf-8')
     architecture=architecture_path.read_text(encoding='utf-8')
     errors=[]
@@ -92,15 +92,19 @@ def validate(chapter_path, architecture_path):
         dup=[k for k,v in Counter(vals).items() if v and v>1]
         if dup: errors.append('repeated '+label+' blocks detected')
     if re.search(r'(?i)This Topic belongs to Chapter|This chapter covers this Topic',chapter): errors.append('generic chapter-membership language detected')
-    errors.extend(check_attestation(chapter))
+    if validation_path is None:
+        errors.append('validation record path is required for v2 seal')
+    else:
+        errors.extend(check_attestation(Path(validation_path).read_text(encoding='utf-8')))
     return errors
 
 def main():
     p=argparse.ArgumentParser()
     p.add_argument('--chapter',required=True)
     p.add_argument('--architecture',required=True)
+    p.add_argument('--validation',required=True)
     a=p.parse_args()
-    try: errors=validate(Path(a.chapter),Path(a.architecture))
+    try: errors=validate(Path(a.chapter),Path(a.architecture),Path(a.validation))
     except Exception as exc: errors=['validator exception: '+str(exc)]
     print('CANONICAL_V2_VALIDATION=PASS' if not errors else 'CANONICAL_V2_VALIDATION=FAIL')
     for e in errors: print('- '+e)
