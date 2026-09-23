@@ -99,7 +99,7 @@ The cross-chapter ownership audit has been updated for the current **359-topic c
 
 `knowledge/system-01/CROSS_CHAPTER_OWNERSHIP_REMEDIATION.md`
 
-The five completed System 1 chapters are formally LOCKED & SEALED as canonical knowledge. Chapters 1.1–1.5 are canonical knowledge version 1.1 after structural, scientific-integrity, and ownership validation.
+The six completed System 1 chapters are formally LOCKED & SEALED as canonical knowledge. Chapters 1.1–1.5 are canonical knowledge version 1.1 after structural, scientific-integrity, and ownership validation.
 
 ---
 
@@ -155,8 +155,9 @@ This structure is intentionally minimal and reflects the current canonical repos
 ## Current System 1 State
 
 - Chapter 1.5 — CONSCIOUSNESS, SLEEP, AND ALTERED STATES — 44 Topics — LOCKED & SEALED
-- Completed System 1 Chapters: 1.1–1.5
-- Completed canonical Topic count: **359**
+- Chapter 1.6 — ATTENTION AND INFORMATION SELECTION — 40 Topics — LOCKED & SEALED
+- Completed System 1 Chapters: 1.1–1.6
+- Completed canonical Topic count: **399**
 
 
 ## System 1 Architecture Precision Pass — Completed
@@ -175,3 +176,15 @@ The Chapter 1.21 ontology boundary is now explicit. The reproducible architectur
 - Canonical construct/clinical owners: **1,267**
 
 No sealed Knowledge Object prose was rewritten and no canonical Topic name was changed by this precision pass.
+
+
+## Chapter 1.6 — Completed
+
+**Chapter:** 1.6 — ATTENTION AND INFORMATION SELECTION  
+**Topics:** 40  
+**Status:** LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 1.1  
+
+Canonical file: `knowledge/system-01/chapter-1.6/CHAPTER_1.6.md`  
+Validation file: `knowledge/system-01/chapter-1.6/CHAPTER_1.6_FINAL_VALIDATION.md`
+
+Ownership audit result: **40/40 exact Topics, zero exact-name collisions, zero Topic renames required.**
