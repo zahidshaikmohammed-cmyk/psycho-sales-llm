@@ -1241,3 +1241,40 @@ Chapter 1.7 — Learning and Behavior Change has been written and depth-audited 
 **Source-of-truth note:** The live architecture currently exposes 66 named Topics for Chapter 1.7. No additional Topics were invented to reconcile any separate count.
 
 **Next target:** Chapter 1.8.
+
+
+## Chapter 1.8 — Final Canonical State
+
+**Canonical title:** Memory
+
+**Canonical Topic count:** 76
+
+**Status:** LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 1.0
+
+Canonical file:
+
+`knowledge/system-01/chapter-1.8/CHAPTER_1.8.md`
+
+Validation file:
+
+`knowledge/system-01/chapter-1.8/CHAPTER_1.8_FINAL_VALIDATION.md`
+
+Final metrics:
+
+- 76/76 exact architecture Topics
+- 0 added Topics
+- 0 removed Topics
+- 0 renamed Topics
+- 16,846 words
+- ~96 average Core Understanding words/topic
+- 69 minimum Core Understanding words
+- 156 maximum Core Understanding words
+- 76/76 six-section Knowledge Objects
+- 76/76 Owns boundaries
+- 76/76 Defers boundaries
+
+The chapter passed structural, ontology, ownership, and scientific-integrity validation. The exact-name overlap **Emotion and memory** is explicitly classified as a relationship/application node by the System 1 precision registry and therefore does not create a duplicate canonical construct owner.
+
+**Current completed System 1 state:** Chapters 1.1–1.8, **541 canonical chapter Topics**.
+
+**Next target:** Chapter 1.9.
