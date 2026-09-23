@@ -31,18 +31,18 @@ def chapter(include_attestation=True):
     return '''# CHAPTER 9.9 — TEST
 **Canonical Topic count:** 1
 
-## 9.9.1 Test construct
+## 9.9.1 Example construct
 ## 1. Purpose
-Explain the test construct.
+Explain the example construct.
 ## 2. Definition
-The test construct is a defined psychological object.
+The example construct is a defined psychological object.
 ## 3. Core Understanding
 ''' + body + '''
 ## 4. Relationship to This Chapter
-It is the test chapter's canonical object.
+It is the chapter's canonical object.
 ## 5. Boundaries
 ### Owns
-Owns the test construct.
+Owns the example construct.
 ### Defers
 Defers unrelated constructs.
 ## 6. Key Principles
@@ -55,14 +55,14 @@ class ValidatorTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as d:
             p=Path(d)
             (p/'chapter.md').write_text(chapter(),encoding='utf-8')
-            (p/'architecture.md').write_text('# CHAPTER 9.9 — TEST\n- Test construct\n',encoding='utf-8')
+            (p/'architecture.md').write_text('# CHAPTER 9.9 — TEST\n- Example construct\n',encoding='utf-8')
             self.assertEqual(validator.validate(p/'chapter.md',p/'architecture.md'), [])
 
     def test_missing_attestation_fails(self):
         with tempfile.TemporaryDirectory() as d:
             p=Path(d)
             (p/'chapter.md').write_text(chapter(False),encoding='utf-8')
-            (p/'architecture.md').write_text('# CHAPTER 9.9 — TEST\n- Test construct\n',encoding='utf-8')
+            (p/'architecture.md').write_text('# CHAPTER 9.9 — TEST\n- Example construct\n',encoding='utf-8')
             errors=validator.validate(p/'chapter.md',p/'architecture.md')
             self.assertTrue(any('attestation' in e for e in errors))
 
