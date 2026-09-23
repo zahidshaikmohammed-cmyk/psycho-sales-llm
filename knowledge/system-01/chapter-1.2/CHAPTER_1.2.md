@@ -2546,47 +2546,9 @@ A population is the defined set of people, cases, observations, events, or other
 A population may be finite or conceptual and can be defined by geography, age, diagnosis, behavior, time period, or other criteria.
 
 ## 3. Core Understanding
-
-### Target population
-
-The target population is the broader group to which researchers intend their conclusions to apply.
-
-### Study population
-
-The study population is the accessible set from which the sample can actually be drawn. It may differ from the target population.
-
-### Population parameter
-
-A parameter is a characteristic of the population, such as a mean, proportion, or relationship. Researchers often estimate parameters using samples.
-
-### Definition matters
-
-A vague population produces vague generalization. A claim about “people” is much broader than a claim about a defined population under specified conditions.
-
-### Dynamic populations
-
-Populations can change over time. A population defined in one period may not have identical characteristics later.
-
-### Evidence status
-
-Population is a methodological concept. Its importance lies in specifying the scope of inference.
+A population is the full set of people, cases, events, or units to which a research claim is intended to refer. It can be defined by geography, age, diagnosis, occupation, behavior, time period, or other criteria. Population must be specified before generalization can be evaluated; a sample cannot be representative of an undefined target.
 
 
-### Population definition
-
-The population is the set of units to which a research question refers. It may be a population of people, organizations, events, measurements, or other units. The target population should be defined by substantive criteria rather than by the sample that happened to be observed.
-
-### Target versus accessible population
-
-A study may define a target population of theoretical interest and an accessible population from which observations can actually be obtained. Differences between them create a potential generalization problem. The population must therefore be specified before claims about representativeness can be evaluated.
-
-### Population parameters
-
-A population has characteristics such as means, proportions, variances, or causal effects that may be unknown. Statistical inference uses sample information to estimate or test claims about such quantities under stated assumptions.
-
-### Population is not automatically human
-
-In psychological science, the unit may be a person, dyad, group, organization, interaction, or repeated observation. The population must match the unit of analysis and the research question.
 ## 4. Relationship to This Chapter
 
 Population is the starting point for sample selection, sampling frames, random sampling, sampling bias, and generalizability.
@@ -2602,12 +2564,15 @@ The concept of the defined set of units about which an inference is intended.
 Samples, sampling frames, sampling methods, population parameters, and generalizability.
 
 ## 6. Key Principles
+1. Population has a specific statistical or inferential meaning.
+2. Interpretation depends on the population, sample, design, and assumptions.
+3. Numerical summaries do not replace conceptual interpretation.
+4. Measurement error and sampling can affect estimates.
+5. Statistical significance is not equivalent to practical importance.
+6. Uncertainty should be reported rather than hidden.
+7. Model results should not be given causal meaning without appropriate design or assumptions.
+8. Strong interpretation states what the statistic supports and what it does not.
 
-1. A population is the defined target of inference.
-2. Target and accessible populations can differ.
-3. Population definitions determine the scope of generalization.
-4. Populations can change over time.
-5. A sample is evidence about a population, not the population itself.
 
 ---
 
@@ -2622,43 +2587,9 @@ A sample is the subset of units actually observed in a study. Understanding samp
 A sample is the set of units selected or included in a study from a defined population or accessible source.
 
 ## 3. Core Understanding
-
-### Sampling relationship
-
-Researchers use samples to estimate or understand characteristics of broader populations. The strength of that inference depends on how the sample was obtained and what claim is being made.
-
-### Representativeness
-
-A sample need not match every population characteristic exactly to be useful. What matters is whether the sampling process supports the intended inference.
-
-### Sample size
-
-Larger samples can improve precision under many conditions, but size does not repair systematic sampling bias, poor measurement, or inappropriate design.
-
-### Nonresponse
-
-Eligible units may decline or fail to participate. If participation is related to variables of interest, the observed sample may differ systematically from the intended population.
-
-### Evidence status
-
-A sample is an empirical subset. Its inferential value depends on selection, measurement, design, and analysis.
+A sample is the subset of units actually observed or recruited for a study. Its composition, size, recruitment process, attrition, and measurement determine what can be inferred about a target population. Large samples can still be biased, while smaller samples can be informative for narrowly defined questions when sampling and design are appropriate.
 
 
-### Sample and sampling relationship
-
-A sample is the subset of units actually observed in a study. Its usefulness depends not only on size but on how it was selected, who or what was excluded, measurement quality, nonresponse, and the intended inference.
-
-### Sample size versus representativeness
-
-A large sample can still be systematically unrepresentative. A smaller probability sample can sometimes provide more defensible population inference than a much larger convenience sample, although precision also depends on sample size and variability.
-
-### Analytic sample
-
-The recruited sample and the final analytic sample may differ because of exclusion rules, missing data, attrition, failed quality checks, or incomplete measurements. These changes can affect both precision and representativeness.
-
-### Relation to population
-
-A sample is evidence about a population only under a justified sampling and measurement process. Researchers should state clearly which population the sample can reasonably inform.
 ## 4. Relationship to This Chapter
 
 Sample connects population to sampling frame, random sampling, sampling bias, statistical power, and generalizability.
@@ -2674,12 +2605,15 @@ The concept of the observed subset of units in a study.
 Population, sampling methods, nonresponse, sampling bias, and statistical estimation.
 
 ## 6. Key Principles
+1. Sample has a specific statistical or inferential meaning.
+2. Interpretation depends on the population, sample, design, and assumptions.
+3. Numerical summaries do not replace conceptual interpretation.
+4. Measurement error and sampling can affect estimates.
+5. Statistical significance is not equivalent to practical importance.
+6. Uncertainty should be reported rather than hidden.
+7. Model results should not be given causal meaning without appropriate design or assumptions.
+8. Strong interpretation states what the statistic supports and what it does not.
 
-1. A sample is the set of units actually studied.
-2. Sample size and sample quality are different concepts.
-3. Sampling process affects generalizability.
-4. Nonresponse can change sample composition.
-5. A large biased sample can still produce biased conclusions.
 
 ---
 
@@ -2694,43 +2628,9 @@ A sampling frame defines the practical source from which a sample is selected. I
 A sampling frame is the operational list, registry, database, procedure, or other accessible representation of units from which a study sample is selected.
 
 ## 3. Core Understanding
-
-### Coverage
-
-A good sampling frame closely corresponds to the target population. Undercoverage occurs when eligible units are missing; overcoverage occurs when ineligible units are included.
-
-### Duplicates and outdated records
-
-Frames can contain duplicate, outdated, or inaccurate entries. These problems can alter selection probabilities.
-
-### Frame versus population
-
-The sampling frame is not necessarily the population itself. It is the operational representation used to access it.
-
-### Dynamic frames
-
-Frames can change over time as people enter, leave, move, or change eligibility. Time of sampling therefore matters.
-
-### Evidence status
-
-Sampling frames are methodological tools. Their quality affects the validity of sampling-based inference.
+A sampling frame is the operational list or procedure identifying units from which a sample can be selected. It may be a registry, membership list, geographic database, panel, clinical system, or other source. A frame can omit relevant members, duplicate units, or systematically overrepresent some groups, creating coverage problems before statistical analysis begins.
 
 
-### Coverage and frame quality
-
-A sampling frame is the operational list, register, database, or other mechanism used to identify units from which a sample can be selected. Its quality depends on coverage, accuracy, duplication, eligibility information, and timeliness.
-
-### Coverage error
-
-A frame can omit eligible units, include ineligible units, or represent some units multiple times. Undercoverage can make some members less likely or unable to enter the sample, producing systematic differences between the intended population and the reachable population.
-
-### Frame is not the population
-
-The sampling frame is a representation of the population, not the population itself. A perfect frame would map eligible units accurately, but real frames often require cleaning, linkage, stratification, or other procedures.
-
-### Evidence implications
-
-When a frame has incomplete coverage, random selection from that frame does not remove the resulting coverage problem. The sampling process must therefore be evaluated at both the frame and selection stages.
 ## 4. Relationship to This Chapter
 
 Sampling frame connects population definition to random sampling and sampling bias.
@@ -2746,11 +2646,15 @@ The operational source used to identify and select units from a target or access
 Population, sampling methods, coverage bias, and statistical inference.
 
 ## 6. Key Principles
+1. Sampling frame has a specific statistical or inferential meaning.
+2. Interpretation depends on the population, sample, design, and assumptions.
+3. Numerical summaries do not replace conceptual interpretation.
+4. Measurement error and sampling can affect estimates.
+5. Statistical significance is not equivalent to practical importance.
+6. Uncertainty should be reported rather than hidden.
+7. Model results should not be given causal meaning without appropriate design or assumptions.
+8. Strong interpretation states what the statistic supports and what it does not.
 
-1. A sampling frame operationalizes access to a population.
-2. Missing or ineligible units can create coverage problems.
-3. Random selection from a biased frame does not remove frame bias.
-4. Frame quality affects generalizability.
 
 ---
 
@@ -2765,47 +2669,9 @@ Random sampling describes procedures that use chance to select units from a defi
 Random sampling is a sampling procedure in which selection is governed by a known probability mechanism, giving eligible units a defined probability of selection.
 
 ## 3. Core Understanding
-
-### Probability of selection
-
-The key property is known or estimable selection probability, not simply the use of a random-number generator. Different probability-sampling designs assign different probabilities.
-
-### Simple random sampling
-
-Each eligible unit has the same probability of selection under simple random sampling.
-
-### Stratified and cluster designs
-
-Stratification can ensure representation of important subgroups. Cluster sampling selects groups or clusters and then units within them. These designs affect variance and analysis.
-
-### Random sampling versus random assignment
-
-Random sampling concerns selection into a study. Random assignment concerns allocation to experimental conditions. They solve different problems.
-
-### Sampling error
-
-Even a correctly randomized sample can differ from the population by chance. This is sampling variability, not necessarily bias.
-
-### Evidence status
-
-Probability sampling is an established basis for population inference, subject to coverage, nonresponse, measurement, and analysis conditions.
+Random sampling selects units using a probability mechanism so that known or estimable selection probabilities support population inference. It differs from random assignment, which allocates participants to experimental conditions. Random sampling can improve representativeness but does not eliminate nonresponse, frame coverage problems, measurement bias, or all forms of sampling error.
 
 
-### Probability basis
-
-Random sampling means selection is governed by a probability mechanism such that the selection probabilities are known or can be determined for the relevant units. Simple random sampling is one form; stratified, cluster, systematic, and multistage designs are other probability-sampling approaches.
-
-### Why it matters
-
-Random sampling separates selection from researcher preference and provides a basis for quantifying sampling uncertainty under the design. It does not guarantee that a particular sample will look perfectly representative on every characteristic.
-
-### Random sampling versus random assignment
-
-Random sampling concerns **who enters the study** from a population. Random assignment concerns **which condition participants receive** within a study. Random sampling primarily supports population inference; random assignment primarily strengthens causal inference.
-
-### Nonresponse and coverage
-
-Probability selection does not eliminate nonresponse or frame undercoverage. If participation or coverage is systematically related to relevant characteristics, population inference can still be biased.
 ## 4. Relationship to This Chapter
 
 Random sampling connects population, sample, sampling frame, sampling bias, and generalizability. It is distinct from randomization in experiments.
@@ -2821,12 +2687,15 @@ Probability-based selection of units from a defined population or frame.
 Random assignment, sampling bias, statistical estimation, and experimental design.
 
 ## 6. Key Principles
+1. Random sampling has a specific statistical or inferential meaning.
+2. Interpretation depends on the population, sample, design, and assumptions.
+3. Numerical summaries do not replace conceptual interpretation.
+4. Measurement error and sampling can affect estimates.
+5. Statistical significance is not equivalent to practical importance.
+6. Uncertainty should be reported rather than hidden.
+7. Model results should not be given causal meaning without appropriate design or assumptions.
+8. Strong interpretation states what the statistic supports and what it does not.
 
-1. Random sampling concerns selection, not treatment assignment.
-2. Probability-based selection supports principled population inference.
-3. Sampling variability remains even with correct random sampling.
-4. A flawed sampling frame can undermine random sampling.
-5. Nonresponse can still create bias.
 
 ---
 
@@ -2841,43 +2710,9 @@ Sampling bias explains systematic differences between the sampled units and the 
 Sampling bias is systematic distortion in a sample or population estimate caused by the process through which units are selected, included, excluded, or retained.
 
 ## 3. Core Understanding
-
-### Sources
-
-Sampling bias can arise from undercoverage, convenience sampling, self-selection, differential nonresponse, exclusion criteria, recruitment practices, or other systematic selection processes.
-
-### Bias versus sampling error
-
-Sampling error is random variation arising because a sample is not the whole population. Sampling bias is systematic distortion. A larger sample can reduce random error but does not necessarily remove bias.
-
-### Self-selection
-
-People who choose to participate may differ from those who do not. The direction and size of resulting bias depend on how participation relates to the variables of interest.
-
-### Corrective methods
-
-Weighting, probability sampling, follow-up of nonresponders, calibration, and sensitivity analyses can sometimes reduce bias, but no correction is automatically sufficient.
-
-### Evidence status
-
-Sampling bias is a well-established methodological problem. Whether it materially affects a particular conclusion requires evidence about the sampling process and variables involved.
+Sampling bias occurs when the process by which observations enter a study systematically differs from the target population in a way relevant to the estimate or relationship of interest. It can arise from convenience recruitment, exclusions, nonresponse, self-selection, or incomplete frames. Bias is about systematic distortion, not simply having a small sample.
 
 
-### Sources of sampling bias
-
-Sampling bias occurs when the process by which units become eligible, reachable, selected, or retained produces systematic differences between the observed sample and the target population relevant to the intended inference.
-
-### Coverage, nonresponse, and selection
-
-Undercoverage excludes some population members from the sampling frame. Nonresponse occurs when selected units do not provide usable observations. Differential eligibility or participation can also alter representation. These mechanisms can operate together.
-
-### Direction is not always predictable
-
-Sampling bias does not necessarily make estimates higher or lower in a fixed direction. The direction and size of distortion depend on which characteristics are related to both selection and the outcome or quantity being estimated.
-
-### Sample size does not cure systematic bias
-
-Increasing the number of observations can make a biased estimate more precise without making it more accurate. Precision and representativeness are distinct properties.
 ## 4. Relationship to This Chapter
 
 Sampling bias connects sample selection with generalizability, selection bias, sampling frames, and external validity.
@@ -2893,12 +2728,15 @@ Systematic distortion introduced by sampling and inclusion processes.
 Selection bias more broadly, random sampling, nonresponse, and generalizability.
 
 ## 6. Key Principles
+1. Sampling bias has a specific statistical or inferential meaning.
+2. Interpretation depends on the population, sample, design, and assumptions.
+3. Numerical summaries do not replace conceptual interpretation.
+4. Measurement error and sampling can affect estimates.
+5. Statistical significance is not equivalent to practical importance.
+6. Uncertainty should be reported rather than hidden.
+7. Model results should not be given causal meaning without appropriate design or assumptions.
+8. Strong interpretation states what the statistic supports and what it does not.
 
-1. Sampling bias is systematic, not merely random sampling error.
-2. Large samples do not automatically remove bias.
-3. Self-selection and nonresponse can produce bias.
-4. Corrective procedures depend on assumptions.
-5. Bias should be evaluated relative to the intended inference.
 
 ---
 
@@ -2913,43 +2751,9 @@ Selection bias is broader than sampling bias and concerns distortion caused by h
 Selection bias is systematic distortion of an estimated relationship or conclusion caused by selective inclusion, exclusion, participation, attrition, treatment assignment, or conditioning on a process related to variables of interest.
 
 ## 3. Core Understanding
-
-### Broader than sampling
-
-Sampling bias concerns selection into a sample relative to a population. Selection bias can occur after sampling, such as when participation, treatment receipt, follow-up, or analysis inclusion depends on relevant variables.
-
-### Attrition
-
-Differential dropout can change the composition of groups over time and bias estimates.
-
-### Conditioning
-
-Selecting or conditioning on a variable affected by multiple causes can create associations that were not present before selection.
-
-### Treatment selection
-
-In observational research, people may receive treatments because of their characteristics. Those characteristics can then be mistaken for treatment effects if not adequately addressed.
-
-### Evidence status
-
-Selection bias is a well-established inferential threat. Its presence and direction depend on the specific selection mechanism.
+Selection bias occurs when inclusion, retention, treatment exposure, or availability of observations depends on factors related to the variables or causal pathways being studied, producing distorted comparisons or associations. It can occur before recruitment, through attrition, or through conditioning on a post-exposure variable. Its causal structure matters for deciding how to address it.
 
 
-### Selection mechanisms
-
-Selection bias occurs when inclusion in the analyzed data depends on variables related to the exposure, outcome, or causal structure in a way that distorts the target inference. It can arise during recruitment, participation, treatment uptake, follow-up, exclusion, conditioning, or analysis.
-
-### Beyond sampling
-
-Sampling bias concerns representativeness of selection from a target population. Selection bias is broader and can occur even when the initial sample was properly drawn—for example, if participants with certain outcomes are more likely to remain in the study.
-
-### Causal structure
-
-Selection can create associations or distort causal estimates when conditioning on a variable influenced by multiple causes. A collider is a common example: conditioning on it can open a noncausal path between its causes.
-
-### Prevention and assessment
-
-Researchers can reduce selection bias through appropriate recruitment, retention, weighting, sensitivity analysis, transparent inclusion criteria, and causal reasoning about the selection process. No single adjustment works for every mechanism.
 ## 4. Relationship to This Chapter
 
 Selection bias connects sampling bias with causal inference, confounding, attrition, and generalizability.
@@ -2965,12 +2769,15 @@ Systematic distortion caused by selection processes within or surrounding a stud
 Sampling bias, confounding, attrition, causal inference, and statistical adjustment.
 
 ## 6. Key Principles
+1. Selection bias has a specific statistical or inferential meaning.
+2. Interpretation depends on the population, sample, design, and assumptions.
+3. Numerical summaries do not replace conceptual interpretation.
+4. Measurement error and sampling can affect estimates.
+5. Statistical significance is not equivalent to practical importance.
+6. Uncertainty should be reported rather than hidden.
+7. Model results should not be given causal meaning without appropriate design or assumptions.
+8. Strong interpretation states what the statistic supports and what it does not.
 
-1. Selection bias can occur at many stages of research.
-2. It is broader than sampling bias.
-3. Differential attrition can create selection bias.
-4. Selection mechanisms should be considered when interpreting associations.
-5. Correcting selection bias requires understanding how selection occurred.
 
 ---
 
@@ -2985,45 +2792,9 @@ Descriptive statistics summarize observed data so researchers can understand the
 Descriptive statistics are numerical or graphical methods used to summarize and organize observed data.
 
 ## 3. Core Understanding
-
-Common descriptive tools include frequencies, proportions, means, medians, ranges, standard deviations, quantiles, and graphical displays.
-
-### Purpose
-
-Description can reveal outliers, skew, missingness, unusual distributions, and subgroup patterns. These features can affect later analyses.
-
-### Sample versus population
-
-A descriptive statistic summarizes the observed sample. It becomes an estimate of a population parameter only when an inferential framework justifies that interpretation.
-
-### Robust summaries
-
-The mean is sensitive to extreme values, whereas the median is often more robust to skew. The appropriate summary depends on the distribution and research question.
-
-### Visualization
-
-Histograms, box plots, scatterplots, and other displays can reveal structure that a single summary statistic hides.
-
-### Evidence status
-
-Descriptive statistics summarize data. They do not automatically establish causal or population-level claims.
+Descriptive statistics summarize observed data through quantities such as counts, proportions, means, medians, ranges, standard deviations, and graphical displays. They describe the sample or observed dataset; they do not automatically establish population parameters, causal effects, or theoretical explanations. Choice of summary should reflect distribution shape, measurement scale, and research question.
 
 
-### Descriptive versus inferential statistics
-
-Descriptive statistics summarize the observed data. They include counts, proportions, means, medians, measures of variability, distributions, and graphical summaries. They do not by themselves establish that a pattern exists in the broader population or that one variable caused another.
-
-### What a summary preserves
-
-Every summary compresses information. A mean can conceal skew or subgroups; a median can conceal differences in spread; a correlation can conceal nonlinear structure. Good description therefore often combines several summaries or visualizations.
-
-### Units and missingness
-
-A descriptive statistic should be interpreted with its unit, measurement scale, sample, time period, and missing-data handling. Reporting a number without these details can make an otherwise correct statistic misleading.
-
-### Role in science
-
-Description is not a lesser form of science. Accurate description establishes what was actually observed and constrains later explanations and inferences.
 ## 4. Relationship to This Chapter
 
 Descriptive statistics begin the statistical section and support understanding of central tendency, variability, distribution, and later inferential procedures.
@@ -3039,12 +2810,15 @@ Methods for summarizing observed data.
 Inferential statistics, probability models, causal inference, and specific psychological conclusions.
 
 ## 6. Key Principles
+1. Descriptive statistics has a specific statistical or inferential meaning.
+2. Interpretation depends on the population, sample, design, and assumptions.
+3. Numerical summaries do not replace conceptual interpretation.
+4. Measurement error and sampling can affect estimates.
+5. Statistical significance is not equivalent to practical importance.
+6. Uncertainty should be reported rather than hidden.
+7. Model results should not be given causal meaning without appropriate design or assumptions.
+8. Strong interpretation states what the statistic supports and what it does not.
 
-1. Descriptive statistics summarize observed data.
-2. No single summary captures every feature of a distribution.
-3. Graphical and numerical summaries complement each other.
-4. Sample descriptions are not automatically population claims.
-5. Description should precede interpretation.
 
 ---
 
@@ -3059,47 +2833,9 @@ Central tendency describes where observations tend to cluster or where a distrib
 Central tendency is the statistical concept of representing the central or typical location of a distribution, commonly using the mean, median, or mode.
 
 ## 3. Core Understanding
-
-### Mean
-
-The arithmetic mean uses all observed values and is sensitive to extreme values and skew.
-
-### Median
-
-The median is the middle ordered value or midpoint between central observations. It is less sensitive to extreme observations than the mean.
-
-### Mode
-
-The mode is the most frequent value or category. A distribution can have more than one mode.
-
-### Choice
-
-The appropriate measure depends on the scale of measurement, distribution shape, research question, and intended interpretation.
-
-### Central tendency is incomplete
-
-Two distributions can have the same mean but very different variability and shape. Central tendency should therefore be interpreted with information about dispersion and distribution.
-
-### Evidence status
-
-Central tendency is a descriptive statistical concept with established mathematical definitions.
+Central tendency describes a typical or central location of a distribution, commonly using the mean, median, or mode. These statistics answer different questions and behave differently under skew, outliers, and measurement scales. A single center can conceal multimodality or subgroup differences, so interpretation should consider the full distribution and variability.
 
 
-### Main forms
-
-Central tendency summarizes the typical or central location of a distribution. The mean is the arithmetic average; the median is the middle value after ordering; the mode identifies the most frequent value or category.
-
-### Choice depends on distribution
-
-The mean is sensitive to extreme observations and skew. The median is more resistant to extreme values and can better represent a skewed distribution. The mode is useful for categorical or discrete data but may be unstable when several values have similar frequencies.
-
-### Central tendency is incomplete
-
-Two datasets can have the same mean or median while having very different variability, shape, or subgroups. Central tendency should therefore be interpreted with measures of spread and distribution.
-
-### Measurement scale
-
-Not every statistic is meaningful for every measurement scale. The numerical coding of categories does not automatically justify arithmetic operations. The interpretation must follow the measurement structure.
 ## 4. Relationship to This Chapter
 
 Central tendency is a component of descriptive statistics and must be interpreted alongside variability and distribution.
@@ -3115,12 +2851,15 @@ Measures and concept of central location in distributions.
 Variability, distribution shape, inferential statistics, and population parameters.
 
 ## 6. Key Principles
+1. Central tendency has a specific statistical or inferential meaning.
+2. Interpretation depends on the population, sample, design, and assumptions.
+3. Numerical summaries do not replace conceptual interpretation.
+4. Measurement error and sampling can affect estimates.
+5. Statistical significance is not equivalent to practical importance.
+6. Uncertainty should be reported rather than hidden.
+7. Model results should not be given causal meaning without appropriate design or assumptions.
+8. Strong interpretation states what the statistic supports and what it does not.
 
-1. Mean, median, and mode represent central location differently.
-2. The mean is sensitive to extreme values.
-3. The median is often more robust to skew.
-4. Central tendency alone does not describe a distribution completely.
-5. Choice should match the data and research question.
 
 ---
 
@@ -3135,45 +2874,9 @@ Variability describes how much observations differ from one another. It is essen
 Variability is the degree to which observations differ from one another or from a central value within a distribution.
 
 ## 3. Core Understanding
-
-Common measures include range, variance, standard deviation, interquartile range, and other dispersion measures.
-
-### Interpretation
-
-Low variability means observations are relatively concentrated; high variability means they are more dispersed. Interpretation depends on the measurement scale.
-
-### Standard deviation
-
-Standard deviation summarizes typical distance from the mean under the conventional definition. It is especially useful when the distribution and scale make it appropriate.
-
-### Range and interquartile range
-
-Range captures the distance between minimum and maximum and can be sensitive to extremes. The interquartile range describes the middle portion of a distribution and is more resistant to extreme values.
-
-### Importance
-
-Variability affects statistical power, uncertainty, prediction, and the interpretation of individual differences.
-
-### Evidence status
-
-Variability is a mathematical and descriptive statistical concept.
+Variability describes how observations differ from one another. It can be summarized through range, variance, standard deviation, interquartile range, or other measures. Variability is substantive information: it can indicate heterogeneity, measurement noise, subgroup structure, instability, or meaningful individual differences. Reducing data to an average can therefore conceal important variation.
 
 
-### Forms of variability
-
-Variability describes how dispersed observations are around one another or around a central value. Common measures include range, interquartile range, variance, and standard deviation, each emphasizing different aspects of spread.
-
-### Why variability matters
-
-Variability affects prediction, uncertainty, statistical power, and interpretation. Two groups can have identical means but very different distributions and therefore different practical implications.
-
-### Robustness
-
-Range can be dominated by extreme observations. The interquartile range is less sensitive to extremes. Variance and standard deviation summarize dispersion around the mean and are especially useful within models that rely on those quantities.
-
-### Variability is not error
-
-Observed variation may reflect genuine individual differences, contextual differences, measurement error, or combinations of these. Statistical spread should not automatically be interpreted as noise.
 ## 4. Relationship to This Chapter
 
 Variability complements central tendency and distribution and influences statistical power and effect estimation.
@@ -3189,12 +2892,15 @@ The concept and measures of dispersion within data.
 Central tendency, distribution shape, inferential statistics, and substantive sources of individual differences.
 
 ## 6. Key Principles
+1. Variability has a specific statistical or inferential meaning.
+2. Interpretation depends on the population, sample, design, and assumptions.
+3. Numerical summaries do not replace conceptual interpretation.
+4. Measurement error and sampling can affect estimates.
+5. Statistical significance is not equivalent to practical importance.
+6. Uncertainty should be reported rather than hidden.
+7. Model results should not be given causal meaning without appropriate design or assumptions.
+8. Strong interpretation states what the statistic supports and what it does not.
 
-1. Variability describes spread or dispersion.
-2. Central tendency without variability is incomplete.
-3. Different dispersion measures have different sensitivities.
-4. Variability affects precision and statistical inference.
-5. Interpretation depends on the scale and distribution.
 
 ---
 
@@ -3209,49 +2915,9 @@ Distribution describes how values are arranged across their possible range. Unde
 A distribution is the pattern of frequencies or probabilities across possible values of a variable.
 
 ## 3. Core Understanding
-
-A distribution can be described by its center, spread, shape, tails, skewness, modality, and other characteristics.
-
-### Shape
-
-Some distributions are approximately symmetric; others are skewed. Some have one prominent mode, while others are multimodal.
-
-### Empirical versus theoretical
-
-An empirical distribution summarizes observed data. A theoretical distribution describes a mathematical probability model used to represent or approximate possible outcomes.
-
-### Normal distribution
-
-The normal distribution is a useful mathematical model in many settings but should not be assumed simply because it is familiar. Psychological variables can have skewed, bounded, multimodal, or otherwise non-normal distributions.
-
-### Outliers
-
-Extreme observations can be genuine cases, measurement errors, data-entry problems, or rare but meaningful events. They should be investigated rather than automatically removed.
-
-### Distribution and inference
-
-Statistical methods can make assumptions about distributions, but many methods are robust to some deviations. The appropriate response depends on the analysis.
-
-### Evidence status
-
-Distribution is a foundational statistical concept.
+A distribution describes how values are arranged across possible levels of a variable, including central location, spread, skew, tails, gaps, and multimodality. Distributional shape affects which summaries and statistical models are appropriate. Psychological data can be non-normal, bounded, ordinal, zero-inflated, or clustered, so normality should not be assumed merely because a familiar test is available.
 
 
-### Distributional structure
-
-A distribution describes how values are arranged across their possible range. Important features include center, spread, skewness, modality, tails, gaps, and unusual observations.
-
-### Why shape matters
-
-Statistical methods can depend on distributional features. Strong skew, heavy tails, outliers, zero inflation, bounded scores, or multiple subgroups can affect estimates and model assumptions.
-
-### Population and sample distributions
-
-A sample distribution describes observed data. A population distribution describes the broader quantity of interest. A sampling distribution describes how a statistic would vary across repeated samples. These are different concepts and should not be conflated.
-
-### Distribution does not imply mechanism
-
-A statistical shape does not by itself reveal why the data have that form. A normal-looking distribution, for example, is not evidence that a psychological process is intrinsically normal.
 ## 4. Relationship to This Chapter
 
 Distribution integrates central tendency and variability and provides context for regression, correlation, confidence intervals, and statistical significance.
@@ -3267,12 +2933,15 @@ The concept of the arrangement of values across a variable's possible range.
 Specific probability distributions, inferential procedures, and substantive explanations for observed distribution shapes.
 
 ## 6. Key Principles
+1. Distribution has a specific statistical or inferential meaning.
+2. Interpretation depends on the population, sample, design, and assumptions.
+3. Numerical summaries do not replace conceptual interpretation.
+4. Measurement error and sampling can affect estimates.
+5. Statistical significance is not equivalent to practical importance.
+6. Uncertainty should be reported rather than hidden.
+7. Model results should not be given causal meaning without appropriate design or assumptions.
+8. Strong interpretation states what the statistic supports and what it does not.
 
-1. A distribution describes how values are arranged.
-2. Shape matters as well as center and spread.
-3. Normality should not be assumed automatically.
-4. Outliers require investigation.
-5. Distributional features can affect statistical interpretation.
 
 ---
 
@@ -3287,51 +2956,9 @@ A correlation coefficient quantifies a particular form of statistical associatio
 A correlation coefficient is a numerical statistic that summarizes the direction and strength of association between variables under a specified correlation model.
 
 ## 3. Core Understanding
-
-### Pearson correlation
-
-Pearson's correlation coefficient summarizes linear association between two quantitative variables and ranges from -1 to +1.
-
-### Interpretation
-
-The sign indicates direction of linear association. The magnitude indicates strength under the assumptions and scale of the statistic.
-
-### Zero correlation
-
-A Pearson correlation near zero means little linear association. It does not establish that no nonlinear relationship exists.
-
-### Restrictions
-
-Restricted range, outliers, nonlinearity, measurement error, and heterogeneity can affect the coefficient.
-
-### Other coefficients
-
-Spearman correlation and other association measures may be more appropriate for ranks, ordinal data, or certain non-normal relationships.
-
-### Evidence status
-
-Correlation coefficients are descriptive statistics. Their causal interpretation requires separate evidence.
+A correlation coefficient is a numerical summary of association between variables under a specified mathematical model. Pearson correlation describes linear association for quantitative variables under relevant assumptions; other coefficients address ranks, binary variables, or nonlinear structures. A coefficient can be influenced by range restriction, outliers, measurement error, and distribution shape and does not itself establish causality.
 
 
-### Interpretation of a correlation coefficient
-
-A correlation coefficient is a numerical index summarizing a specified form of association between variables. For Pearson's r, the coefficient ranges from −1 to +1 and summarizes the direction and strength of a linear relationship.
-
-### What magnitude means
-
-The absolute value indicates how closely the observed data follow the relevant association pattern, not how much one variable “causes” another. Squaring Pearson's r gives the proportion of variance associated linearly under specific conditions, but this should not be treated as a universal causal or explanatory percentage.
-
-### Assumptions and distortions
-
-Outliers, restricted range, nonlinear relationships, measurement error, heteroscedasticity, and influential observations can alter the coefficient. A coefficient near zero can occur when a strong nonlinear relationship is present.
-
-### Comparison across studies
-
-Correlation magnitude depends on the population, measurement reliability, range, sampling, and design. Comparing coefficients without considering these factors can be misleading.
-
-### Evidence status
-
-A correlation coefficient quantifies association in the observed data. It does not identify causation, mechanism, temporal direction, or absence of confounding.
 ## 4. Relationship to This Chapter
 
 Correlation coefficient operationalizes correlation and connects to regression, descriptive statistics, measurement, and causal inference.
@@ -3347,12 +2974,14 @@ The statistical measure used to quantify specified forms of association.
 Correlation as a general concept, regression, causal inference, and the substantive relationship being measured.
 
 ## 6. Key Principles
-
-1. A correlation coefficient quantifies a specified association.
-2. Pearson correlation describes linear association.
-3. The sign gives direction; magnitude describes strength within the model.
-4. Zero linear correlation does not imply no relationship.
-5. A correlation coefficient does not prove causation.
+1. Correlation coefficient has a specific statistical or inferential meaning.
+2. Interpretation depends on the population, sample, design, and assumptions.
+3. Numerical summaries do not replace conceptual interpretation.
+4. Measurement error and sampling can affect estimates.
+5. Statistical significance is not equivalent to practical importance.
+6. Uncertainty should be reported rather than hidden.
+7. Model results should not be given causal meaning without appropriate design or assumptions.
+8. Strong interpretation states what the statistic supports and what it does not.
 
 
 ---
@@ -3367,55 +2996,9 @@ Regression provides a framework for describing and estimating relationships betw
 Regression is a family of statistical methods that models the relationship between an outcome and one or more predictor variables to estimate, summarize, predict, or test specified relationships.
 
 ## 3. Core Understanding
-
-### Simple and multiple regression
-
-Simple regression uses one predictor; multiple regression uses several. The additional predictors can represent theoretically relevant variables, potential confounders, or variables used to improve prediction.
-
-### Prediction versus explanation
-
-A regression model can predict outcomes well without identifying causal mechanisms. A statistically strong coefficient is not automatically a causal effect.
-
-### Coefficients
-
-Regression coefficients represent expected changes in the outcome associated with changes in predictors under the specified model and coding. Interpretation depends on scale, interactions, transformations, and model assumptions.
-
-### Assumptions
-
-Different regression models have different assumptions concerning functional form, errors, independence, variance, measurement, and other properties.
-
-### Confounding and adjustment
-
-Including a variable can reduce confounding under appropriate causal assumptions, but can also create bias if the variable is a mediator, collider, or otherwise inappropriate adjustment variable.
-
-### Model fit
-
-Measures of fit summarize how well a model represents observed data, but good fit alone does not prove that the model is the correct causal or psychological explanation.
-
-### Evidence status
-
-Regression is an established statistical family. Its scientific meaning depends on the model, data, assumptions, and research question.
+Regression models estimate relationships between an outcome and one or more predictors, often for description, prediction, adjustment, or causal analysis under additional assumptions. Coefficients depend on model specification, coding, scale, interactions, missingness, and included variables. Regression can control for measured factors, but statistical adjustment cannot automatically remove unmeasured confounding or justify causal interpretation.
 
 
-### Model structure
-
-Regression models describe an outcome as a function of one or more predictors. Depending on the model, regression can be used for prediction, description, adjustment, or estimation of effects under causal assumptions.
-
-### Coefficients
-
-A coefficient represents the expected change in the modeled outcome associated with a specified change in a predictor, conditional on the model and coding of other variables. Its interpretation depends on scale, link function, transformations, interactions, and the reference category.
-
-### Residuals and fit
-
-Regression separates modeled structure from residual variation. Diagnostics examine whether residual behavior, functional form, influential observations, dependence, and other assumptions are compatible with the intended analysis.
-
-### Prediction versus explanation
-
-A model can predict well without identifying a causal mechanism. Conversely, a theoretically important causal variable may not be the strongest predictor in a predictive model. These objectives should not be conflated.
-
-### Interactions and extrapolation
-
-Interactions allow relationships to depend on other variables. Predictions far outside the observed data range are extrapolations and can be highly uncertain even when model calculations appear precise.
 ## 4. Relationship to This Chapter
 
 Regression connects correlation and descriptive statistics to multivariable analysis, mediation, moderation, causal inference, statistical significance, and effect estimation.
@@ -3431,12 +3014,15 @@ The general statistical modeling framework for relating outcomes to predictors.
 Specific regression variants, causal assumptions, variable roles, and substantive psychological interpretation.
 
 ## 6. Key Principles
+1. Regression has a specific statistical or inferential meaning.
+2. Interpretation depends on the population, sample, design, and assumptions.
+3. Numerical summaries do not replace conceptual interpretation.
+4. Measurement error and sampling can affect estimates.
+5. Statistical significance is not equivalent to practical importance.
+6. Uncertainty should be reported rather than hidden.
+7. Model results should not be given causal meaning without appropriate design or assumptions.
+8. Strong interpretation states what the statistic supports and what it does not.
 
-1. Regression models relationships between outcomes and predictors.
-2. Regression is not inherently causal.
-3. Coefficients depend on model specification and measurement.
-4. Adjustment can help or harm depending on causal structure.
-5. Good model fit does not prove theoretical or causal correctness.
 
 ---
 
@@ -3451,53 +3037,9 @@ Statistical power describes the ability of a study and analysis to detect an eff
 Statistical power is the probability that a specified statistical procedure will reject the null hypothesis when a particular alternative effect is present, given assumptions about effect size, variability, sample size, significance threshold, and design.
 
 ## 3. Core Understanding
-
-Power depends on several factors.
-
-### Effect size
-
-Larger effects are generally easier to detect than smaller effects, all else equal.
-
-### Sample size
-
-Larger samples generally increase power and precision under comparable conditions.
-
-### Variability
-
-Greater unexplained variability can reduce the ability to detect a specified effect.
-
-### Significance threshold
-
-A stricter threshold for declaring significance generally reduces power unless other factors change.
-
-### Design
-
-Within-person designs, clustering, measurement reliability, and allocation procedures can alter effective information and therefore power.
-
-### Power and null results
-
-A nonsignificant result can arise because there is little or no effect, because the effect is smaller than the study could reliably detect, or because of other design and measurement limitations. Power analysis can inform interpretation but does not prove absence of an effect.
-
-### Evidence status
-
-Power is a statistical property under specified assumptions. It should not be treated as a permanent characteristic of a study independent of the effect and analysis being considered.
+Statistical power is the probability that a specified statistical procedure will detect an effect of a particular size under assumed conditions if that effect exists. Power depends on sample size, effect magnitude, variability, measurement reliability, design, significance threshold, and analysis. Low power increases the chance of missing real effects and can make observed significant effects unstable.
 
 
-### What determines power
-
-Statistical power is the probability that a specified statistical procedure will detect an effect of a specified size when that effect is present, under the assumed model, design, significance criterion, and sample size. Power is therefore a property of a planned analysis under stated assumptions.
-
-### Main determinants
-
-Power generally increases with larger samples, larger true effects, lower unexplained variability, more reliable measurement, and a less stringent significance threshold. Study design and analysis also affect power.
-
-### Power and precision are related but distinct
-
-A study can have high power for a large effect while estimating small effects imprecisely. Confidence intervals provide direct information about precision and should complement power considerations.
-
-### Common misuse
-
-Post-hoc power calculated from an observed p-value often adds little information. Once data are observed, the estimate and its uncertainty are usually more informative. Power analysis is most useful during design and planning.
 ## 4. Relationship to This Chapter
 
 Power connects sample size, variability, statistical significance, Type II error, measurement reliability, and study design.
@@ -3513,12 +3055,15 @@ The concept of probability of detecting a specified effect under specified assum
 Sample size planning, significance testing, effect size, Type II error, and substantive interpretation.
 
 ## 6. Key Principles
+1. Statistical power has a specific statistical or inferential meaning.
+2. Interpretation depends on the population, sample, design, and assumptions.
+3. Numerical summaries do not replace conceptual interpretation.
+4. Measurement error and sampling can affect estimates.
+5. Statistical significance is not equivalent to practical importance.
+6. Uncertainty should be reported rather than hidden.
+7. Model results should not be given causal meaning without appropriate design or assumptions.
+8. Strong interpretation states what the statistic supports and what it does not.
 
-1. Power depends on effect size, sample size, variability, threshold, and design.
-2. Low power makes detection of small effects difficult.
-3. A nonsignificant result is not automatically evidence of no effect.
-4. Power is defined relative to a specified effect and procedure.
-5. Better measurement can improve effective power by reducing noise.
 
 ---
 
@@ -3533,39 +3078,9 @@ Type I error describes one important way statistical hypothesis testing can prod
 A Type I error occurs when a statistical test rejects a null hypothesis that is true under the specified testing framework.
 
 ## 3. Core Understanding
-
-### Significance threshold
-
-If a test is conducted at a nominal alpha level of .05 under its assumptions, the procedure is designed to limit Type I error probability to .05 in the relevant repeated-sampling sense when the null is true. This does not mean there is a 5% probability that any particular significant result is false.
-
-### Multiple testing
-
-When many tests are performed, the chance of obtaining at least one false positive can increase unless the inferential procedure accounts for multiplicity.
-
-### Researcher degrees of freedom
-
-Selective analysis, stopping rules, outcome selection, and other flexible choices can alter the actual false-positive properties of a nominal test.
-
-### Evidence status
-
-Type I error is a formal statistical concept. Its interpretation depends on the testing procedure and assumptions.
+A Type I error occurs when a statistical test rejects a null hypothesis under the decision rule even though the null is true in the relevant statistical framework. The nominal error rate depends on the procedure and assumptions. Multiple testing, optional stopping, and selective analysis can increase false-positive risk when not appropriately accounted for.
 
 
-### Error-rate logic
-
-A Type I error occurs when a statistical procedure rejects a null hypothesis that is true, under the procedure's specified conditions. The nominal significance level, such as 0.05, is a long-run error-rate criterion for the procedure, not the probability that the particular null hypothesis is true.
-
-### Multiple testing
-
-When many hypotheses are tested, the chance of obtaining at least one false-positive result can increase unless the analysis accounts for multiplicity. The relevant error rate depends on the testing framework.
-
-### Interpretation
-
-A statistically significant result is not proof that the null hypothesis is false. It indicates that the observed result is sufficiently inconsistent with the null model under the specified procedure and assumptions.
-
-### Relation to practical importance
-
-A Type I error concerns an inferential decision, not the size or real-world importance of an effect. Small effects can be statistically significant in large samples.
 ## 4. Relationship to This Chapter
 
 Type I error connects statistical significance with multiple comparisons, p-hacking, selective reporting, and statistical conclusion validity.
@@ -3581,12 +3096,15 @@ The statistical concept of falsely rejecting a true null hypothesis.
 Statistical significance, multiple testing procedures, p-hacking, and substantive conclusions.
 
 ## 6. Key Principles
+1. Type I error has a specific statistical or inferential meaning.
+2. Interpretation depends on the population, sample, design, and assumptions.
+3. Numerical summaries do not replace conceptual interpretation.
+4. Measurement error and sampling can affect estimates.
+5. Statistical significance is not equivalent to practical importance.
+6. Uncertainty should be reported rather than hidden.
+7. Model results should not be given causal meaning without appropriate design or assumptions.
+8. Strong interpretation states what the statistic supports and what it does not.
 
-1. Type I error is false rejection of a true null under the specified framework.
-2. Alpha is a long-run error-rate criterion, not the probability a particular finding is false.
-3. Multiple testing can increase false-positive opportunities.
-4. Flexible analysis can change nominal error properties.
-5. Error rates must be interpreted within the statistical procedure used.
 
 ---
 
@@ -3601,41 +3119,9 @@ Type II error describes failure to reject a null hypothesis when a specified alt
 A Type II error occurs when a statistical test fails to reject the null hypothesis even though a specified alternative effect is present under the relevant assumptions.
 
 ## 3. Core Understanding
-
-Type II error probability is commonly denoted beta. Statistical power is related to it as 1 minus beta for the specified effect and procedure.
-
-### Causes
-
-Low sample size, high variability, small effects, unreliable measurement, restrictive thresholds, and inefficient designs can increase the risk of Type II error.
-
-### Null results
-
-A nonsignificant finding can be compatible with a small effect, no effect, or insufficient information to distinguish the possibilities. Interpretation requires effect estimates and uncertainty, not merely the p-value.
-
-### Trade-off
-
-Changing the significance threshold can affect both Type I and Type II error probabilities. Study planning should consider both.
-
-### Evidence status
-
-Type II error is a formal statistical concept defined relative to a specified alternative.
+A Type II error occurs when a procedure fails to reject a null hypothesis when a specified alternative effect exists. Its probability is related to statistical power. Failure to obtain significance therefore does not establish absence of an effect; the data may be too imprecise, the effect may be small, measurement may be noisy, or the model may be inappropriate.
 
 
-### Error-rate logic
-
-A Type II error occurs when a statistical procedure fails to reject a null hypothesis that is false under the procedure's specified conditions. Its probability is commonly denoted β, while statistical power is 1−β under the same assumptions.
-
-### Why Type II errors occur
-
-Low power, small true effects, noisy measurements, restricted samples, stringent thresholds, and inefficient designs can make genuine effects difficult to detect.
-
-### Non-significance is not proof of no effect
-
-A non-significant result can reflect a genuinely small or absent effect, insufficient information, or substantial uncertainty. The estimate and confidence interval should be examined rather than translating non-significance into “nothing happened.”
-
-### Design implications
-
-Reducing measurement error, increasing informative observations, choosing efficient designs, and specifying plausible effect sizes before data collection can improve sensitivity.
 ## 4. Relationship to This Chapter
 
 Type II error connects directly to statistical power, significance testing, effect size, and confidence intervals.
@@ -3651,12 +3137,15 @@ The concept of failing to reject a false null hypothesis under a specified alter
 Power, statistical significance, sample-size planning, and substantive interpretation.
 
 ## 6. Key Principles
+1. Type II error has a specific statistical or inferential meaning.
+2. Interpretation depends on the population, sample, design, and assumptions.
+3. Numerical summaries do not replace conceptual interpretation.
+4. Measurement error and sampling can affect estimates.
+5. Statistical significance is not equivalent to practical importance.
+6. Uncertainty should be reported rather than hidden.
+7. Model results should not be given causal meaning without appropriate design or assumptions.
+8. Strong interpretation states what the statistic supports and what it does not.
 
-1. Type II error is a false negative within the specified testing framework.
-2. Power is related to 1 minus Type II error probability.
-3. Small samples and noisy measures can increase Type II error.
-4. Nonsignificance does not automatically prove no effect.
-5. Interpretation should include effect estimates and uncertainty.
 
 ---
 
@@ -3671,47 +3160,9 @@ Statistical significance describes the relationship between observed data and a 
 A result is statistically significant under a specified testing procedure when the observed data would be sufficiently unusual under the null hypothesis according to the procedure's predefined decision criterion.
 
 ## 3. Core Understanding
-
-### P-values
-
-A p-value quantifies how incompatible the observed data, or more extreme data, are with the null model under specified assumptions. It is not the probability that the null hypothesis is true.
-
-### Significance versus effect size
-
-A tiny effect can be statistically significant in a large sample, while a meaningful effect may fail to reach significance in a small or noisy study.
-
-### Significance versus replication
-
-One significant result does not establish a stable effect. Replication and converging evidence matter.
-
-### Significance versus causation
-
-A significant association does not become causal simply because its p-value is small.
-
-### Thresholds
-
-Conventional thresholds can provide decision rules, but scientific interpretation should not reduce evidence to a binary significant/nonsignificant label.
-
-### Evidence status
-
-Statistical significance is a property of a statistical test under its assumptions, not a measure of scientific importance.
+Statistical significance indicates that a test statistic is sufficiently incompatible with a specified null model under stated assumptions and threshold. It does not measure effect importance, replication probability, truth, or practical value. A tiny effect can be statistically significant in a large sample, while an important effect can fail to reach significance in a noisy or underpowered study.
 
 
-### Null-hypothesis meaning
-
-Statistical significance is a decision criterion defined relative to a statistical model and null hypothesis. A p-value describes how incompatible the observed data are with the null model, or more precisely how often a result at least as extreme would occur under that model and procedure.
-
-### What significance does not mean
-
-A p-value is not the probability that the null hypothesis is true, not the probability that the finding will replicate, and not a measure of effect size or practical importance.
-
-### Threshold dependence
-
-A threshold converts a continuous measure of evidence into a categorical decision. Results just below and just above a conventional threshold can be scientifically similar even though the labels differ.
-
-### Better interpretation
-
-Statistical significance should be considered alongside effect estimates, confidence intervals, study design, measurement quality, multiplicity, prior evidence, and practical consequences.
 ## 4. Relationship to This Chapter
 
 Statistical significance connects Type I error, power, effect size, confidence intervals, multiple comparisons, and scientific inference.
@@ -3727,12 +3178,15 @@ The concept of significance decisions under a specified statistical testing fram
 Effect size, practical significance, p-values as a specific statistic, causal inference, and substantive importance.
 
 ## 6. Key Principles
+1. Statistical significance has a specific statistical or inferential meaning.
+2. Interpretation depends on the population, sample, design, and assumptions.
+3. Numerical summaries do not replace conceptual interpretation.
+4. Measurement error and sampling can affect estimates.
+5. Statistical significance is not equivalent to practical importance.
+6. Uncertainty should be reported rather than hidden.
+7. Model results should not be given causal meaning without appropriate design or assumptions.
+8. Strong interpretation states what the statistic supports and what it does not.
 
-1. Statistical significance is model- and procedure-dependent.
-2. It is not the probability that the null is true.
-3. Significance does not measure effect magnitude.
-4. Significance does not establish causation.
-5. Effect size and uncertainty should accompany significance decisions.
 
 ---
 
@@ -3747,49 +3201,9 @@ Effect size describes the magnitude of a difference, association, or relationshi
 Effect size is a quantitative representation of the magnitude of a specified difference, association, or effect.
 
 ## 3. Core Understanding
-
-Effect sizes include raw differences, standardized mean differences, correlations, risk ratios, odds ratios, regression coefficients, and other measures appropriate to the research question.
-
-### Raw versus standardized
-
-Raw effects retain the original measurement units and may be directly interpretable. Standardized effects allow comparison across measures with different scales but can be less intuitive.
-
-### Context
-
-A numerical effect size has meaning only relative to the outcome, population, intervention, measurement, and time period.
-
-### Precision
-
-Effect size estimates should be interpreted alongside uncertainty, such as confidence intervals.
-
-### Statistical significance
-
-Large samples can make small effects statistically detectable. Small studies can fail to detect meaningful effects. Effect size and significance answer different questions.
-
-### Practical importance
-
-An effect can be statistically detectable but practically trivial, or difficult to detect statistically while potentially important in a high-stakes context.
-
-### Evidence status
-
-Effect size is an established quantitative concept. Its interpretation requires domain context.
+Effect size quantifies the magnitude of a difference, association, or model relationship using a metric appropriate to the design and scale. It helps distinguish practical magnitude from merely detecting an effect. Interpretation depends on measurement, variability, context, population, and consequences; there is no universal threshold at which an effect becomes important.
 
 
-### Types of effect size
-
-Effect size describes the magnitude of a difference, association, or relationship in a defined metric. Some effects are expressed in the original units of measurement; others are standardized so that results measured on different scales can be compared under specified assumptions.
-
-### Magnitude is not importance
-
-An effect can be statistically precise but practically trivial, or practically important but estimated imprecisely. Whether an effect matters depends on the outcome, baseline risk, costs, benefits, thresholds, and decision context.
-
-### Standardization has costs
-
-Standardized effects can aid comparison but can obscure the original units and depend on the variability used for standardization. A standardized effect is not inherently more meaningful than an unstandardized effect.
-
-### Interpretation
-
-Effect size should be reported with uncertainty and interpreted relative to a substantive benchmark rather than through universal labels such as “small” or “large.”
 ## 4. Relationship to This Chapter
 
 Effect size connects statistical significance, confidence intervals, power, practical significance, and meta-analysis.
@@ -3805,12 +3219,15 @@ The general concept of quantifying magnitude of a specified effect or relationsh
 Specific effect-size statistics, practical decision thresholds, power, and substantive importance.
 
 ## 6. Key Principles
+1. Effect size has a specific statistical or inferential meaning.
+2. Interpretation depends on the population, sample, design, and assumptions.
+3. Numerical summaries do not replace conceptual interpretation.
+4. Measurement error and sampling can affect estimates.
+5. Statistical significance is not equivalent to practical importance.
+6. Uncertainty should be reported rather than hidden.
+7. Model results should not be given causal meaning without appropriate design or assumptions.
+8. Strong interpretation states what the statistic supports and what it does not.
 
-1. Effect size describes magnitude.
-2. It answers a different question from statistical significance.
-3. Raw and standardized effect sizes have different interpretations.
-4. Uncertainty should accompany effect estimates.
-5. Practical meaning depends on context.
 
 ---
 
@@ -3825,43 +3242,9 @@ A confidence interval represents uncertainty around an estimated parameter under
 A confidence interval is an interval calculated from sample data using a specified statistical procedure that, under repeated application of that procedure and its assumptions, would contain the target parameter at the stated confidence level in the corresponding long-run proportion of samples.
 
 ## 3. Core Understanding
-
-### Precision
-
-Narrower intervals generally indicate greater statistical precision under the model. Wider intervals indicate more uncertainty.
-
-### Confidence level
-
-A 95% confidence interval is defined by a long-run coverage property of the procedure. It should not be interpreted as a 95% probability that the fixed parameter is inside this particular interval in the classical framework.
-
-### Effect interpretation
-
-Confidence intervals show a range of values compatible with the procedure and data under its assumptions. The scientific interpretation should consider whether the range includes effects that would be practically meaningful.
-
-### Assumptions
-
-Coverage depends on the method and assumptions. Poor sampling, model misspecification, dependence, or biased measurement can undermine interpretation.
-
-### Evidence status
-
-Confidence intervals are established inferential tools. Bayesian credible intervals are a different construct and should not be treated as interchangeable.
+A confidence interval is an interval produced by a statistical procedure that, under repeated sampling and its assumptions, has a stated long-run coverage property for the parameter. It communicates estimate precision and is often more informative than a binary significance decision. It should not be interpreted as a probability that the fixed parameter lies inside this particular interval.
 
 
-### Sampling-uncertainty interpretation
-
-A confidence interval is an interval produced by a statistical procedure designed to have a specified long-run coverage probability under its assumptions. A 95% confidence procedure produces intervals that contain the fixed target parameter in approximately 95% of repeated samples when the procedure is valid.
-
-### What it does not mean
-
-For a conventional frequentist confidence interval, it is not strictly correct to say there is a 95% probability that the particular fixed parameter lies inside the already calculated interval. The probability statement concerns the procedure across repeated samples.
-
-### Precision
-
-Narrower intervals generally indicate greater statistical precision under the model. Width depends on sample size, variability, measurement quality, design, and the confidence level.
-
-### Interpretation with effect estimates
-
-A confidence interval should be read together with the point estimate, study design, and substantive benchmark. Whether an interval excludes a null value is not the only scientifically relevant information; the plausible range of meaningful effects matters.
 ## 4. Relationship to This Chapter
 
 Confidence intervals complement effect size and statistical significance and contribute to scientific inference and practical interpretation.
@@ -3877,12 +3260,15 @@ The classical confidence-interval concept and its interpretation.
 Bayesian credible intervals, effect sizes, statistical significance, and substantive conclusions.
 
 ## 6. Key Principles
+1. Confidence interval has a specific statistical or inferential meaning.
+2. Interpretation depends on the population, sample, design, and assumptions.
+3. Numerical summaries do not replace conceptual interpretation.
+4. Measurement error and sampling can affect estimates.
+5. Statistical significance is not equivalent to practical importance.
+6. Uncertainty should be reported rather than hidden.
+7. Model results should not be given causal meaning without appropriate design or assumptions.
+8. Strong interpretation states what the statistic supports and what it does not.
 
-1. Confidence intervals communicate estimate precision under a specified procedure.
-2. Their interpretation is based on repeated-sampling coverage.
-3. Narrow intervals indicate greater precision under comparable assumptions.
-4. Confidence intervals do not automatically establish causation or importance.
-5. The inferential method and assumptions matter.
 
 ---
 
@@ -3897,43 +3283,9 @@ Multiple comparisons addresses the increased opportunity for false-positive find
 Multiple comparisons refers to a research situation in which several statistical hypotheses or contrasts are tested, creating a need to account for the resulting multiplicity when controlling or interpreting error rates.
 
 ## 3. Core Understanding
-
-### Error accumulation
-
-If many independent null hypotheses are tested at a conventional threshold, the chance of at least one false positive can become substantially larger than the threshold for a single test.
-
-### Correction approaches
-
-Researchers may use procedures controlling family-wise error, false discovery rate, hierarchical testing, multivariate methods, or other approaches appropriate to the inferential goal.
-
-### Planned versus exploratory comparisons
-
-Planned comparisons specified in advance can be treated differently from broad exploratory searching. The distinction should be reported transparently.
-
-### Researcher flexibility
-
-Repeatedly trying different outcomes, exclusions, transformations, subgroups, or models and reporting only favorable results can create misleading evidence even without formally violating a single test's assumptions.
-
-### Evidence status
-
-Multiple-comparison problems are well established. The appropriate correction depends on the number, dependence, purpose, and structure of the tests.
+Multiple comparisons occur when many hypotheses, outcomes, groups, time points, or analytic choices are tested. Testing many possibilities increases the opportunity for chance findings unless the inferential procedure accounts for multiplicity or the exploratory nature is made explicit. Corrections and prespecification can reduce false-positive risk, but they involve trade-offs in power and interpretation.
 
 
-### Why multiplicity matters
-
-Multiple comparisons occur when several hypotheses, outcomes, groups, time points, or model specifications are examined. Testing many possibilities increases opportunities for apparently unusual results to arise by chance under the relevant null framework.
-
-### Error-control goals
-
-Different procedures target different error rates, such as familywise error rate or false discovery rate. The appropriate approach depends on the scientific objective and whether the analyses were confirmatory or exploratory.
-
-### Research flexibility
-
-Multiplicity is closely related to researcher degrees of freedom and selective reporting. A result can appear more compelling when only the most favorable comparisons are reported.
-
-### Interpretation
-
-Adjustment is not always mandatory for every descriptive or exploratory analysis, but researchers should disclose the number and nature of comparisons and choose inferential procedures consistent with the claims being made.
 ## 4. Relationship to This Chapter
 
 Multiple comparisons connects statistical significance and Type I error with researcher degrees of freedom, p-hacking, and selective reporting.
@@ -3949,12 +3301,15 @@ The statistical and inferential problem created by conducting multiple compariso
 Specific correction procedures, p-hacking, preregistration, and substantive interpretation.
 
 ## 6. Key Principles
+1. Multiple comparisons has a specific statistical or inferential meaning.
+2. Interpretation depends on the population, sample, design, and assumptions.
+3. Numerical summaries do not replace conceptual interpretation.
+4. Measurement error and sampling can affect estimates.
+5. Statistical significance is not equivalent to practical importance.
+6. Uncertainty should be reported rather than hidden.
+7. Model results should not be given causal meaning without appropriate design or assumptions.
+8. Strong interpretation states what the statistic supports and what it does not.
 
-1. Many tests create more opportunities for false positives.
-2. Multiplicity should be considered in analysis and interpretation.
-3. Planned and exploratory analyses should be distinguished.
-4. Selective reporting can worsen multiplicity problems.
-5. Correction should match the inferential goal.
 
 ---
 
@@ -3969,55 +3324,9 @@ Bayesian reasoning provides a framework for updating uncertainty about hypothese
 Bayesian reasoning is an inferential approach that combines prior information with observed data through a probability model to obtain updated, or posterior, beliefs about hypotheses or parameters.
 
 ## 3. Core Understanding
-
-### Prior
-
-A prior distribution represents information or assumptions about plausible parameter values or hypotheses before incorporating the current data.
-
-### Likelihood
-
-The likelihood represents how compatible different parameter values or hypotheses are with the observed data under the specified model.
-
-### Posterior
-
-The posterior combines prior information and the likelihood to represent updated uncertainty.
-
-### Prior sensitivity
-
-When data are limited, the choice of prior can materially affect the posterior. Researchers should therefore justify and, when appropriate, examine sensitivity to plausible priors.
-
-### Interpretation
-
-Bayesian intervals and posterior probabilities have interpretations different from classical confidence intervals and p-values. The frameworks should not be mixed casually.
-
-### Evidence accumulation
-
-Bayesian reasoning can naturally update beliefs as new evidence arrives, provided the model and prior assumptions remain appropriate.
-
-### Evidence status
-
-Bayesian reasoning is an established statistical framework. Its conclusions remain model-dependent.
+Bayesian reasoning updates beliefs or probability distributions about hypotheses or parameters using prior information and observed data through Bayes' rule. It makes assumptions about priors and likelihoods explicit and can provide direct probabilistic statements about parameters within the model. Bayesian results remain model-dependent and should not be treated as assumption-free alternatives to frequentist methods.
 
 
-### Bayesian updating
-
-Bayesian reasoning combines a prior distribution with evidence represented by a likelihood to produce a posterior distribution. The posterior expresses updated uncertainty about a parameter or hypothesis under the chosen model.
-
-### Base rates and evidence
-
-A prior can encode information available before the current data, including plausible parameter ranges or previous evidence. Strong new evidence can move the posterior substantially; weak evidence may leave prior information influential.
-
-### Model dependence
-
-Bayesian conclusions depend on the likelihood, prior, parameterization, and other modeling choices. Bayesian analysis is therefore not simply “letting the data speak” without assumptions.
-
-### Interpretation
-
-Posterior probabilities and credible intervals have direct probabilistic interpretations conditional on the model. They should not be treated as assumption-free alternatives to frequentist inference.
-
-### Evidence status
-
-Bayesian reasoning is a formal framework for updating uncertainty. Different reasonable models or priors can produce different results, so sensitivity analysis can be important when prior assumptions materially affect conclusions.
 ## 4. Relationship to This Chapter
 
 Bayesian reasoning belongs among statistical inference approaches and contrasts with, while can also complement, frequentist methods.
@@ -4033,12 +3342,15 @@ The general framework of probabilistic updating using prior information and obse
 Specific Bayesian models, priors, likelihoods, posterior computation, and substantive psychological conclusions.
 
 ## 6. Key Principles
+1. Bayesian reasoning has a specific statistical or inferential meaning.
+2. Interpretation depends on the population, sample, design, and assumptions.
+3. Numerical summaries do not replace conceptual interpretation.
+4. Measurement error and sampling can affect estimates.
+5. Statistical significance is not equivalent to practical importance.
+6. Uncertainty should be reported rather than hidden.
+7. Model results should not be given causal meaning without appropriate design or assumptions.
+8. Strong interpretation states what the statistic supports and what it does not.
 
-1. Bayesian reasoning combines prior information with data.
-2. Posterior conclusions depend on the model and prior.
-3. Bayesian intervals differ conceptually from confidence intervals.
-4. Prior sensitivity matters when data are limited.
-5. Bayesian results are not free from model assumptions.
 
 ---
 
@@ -4053,47 +3365,9 @@ Practical significance concerns whether the magnitude of a finding matters in re
 Practical significance is the degree to which a difference, association, or effect is large enough to matter for a specified practical, clinical, organizational, social, or decision-making purpose.
 
 ## 3. Core Understanding
-
-### Context
-
-The same numerical effect can be important in one context and negligible in another. Meaning depends on costs, benefits, baseline risk, consequences, feasibility, and the decisions affected.
-
-### Effect size
-
-Effect size provides quantitative information about magnitude, but practical significance requires contextual interpretation.
-
-### Minimal important difference
-
-Some fields define thresholds for changes considered meaningful for a specified population or outcome. Such thresholds are context-specific and should not be treated as universal.
-
-### Statistical significance
-
-A very large sample can detect trivial differences. Conversely, an important effect can fail to reach statistical significance in a small or imprecise study.
-
-### Uncertainty
-
-Practical interpretation should account for uncertainty around the estimated effect. An interval may include both negligible and important values.
-
-### Evidence status
-
-Practical significance is partly empirical and partly decision-context dependent. It cannot be inferred from p-values alone.
+Practical significance concerns whether the magnitude of a finding matters for real decisions, functioning, costs, benefits, risks, or meaningful outcomes. It differs from statistical significance. A practically important effect may be difficult to detect with limited data, while a statistically precise effect may be too small to matter. Meaningfulness depends on context, stakeholders, baseline rates, alternatives, and consequences.
 
 
-### Decision context
-
-Practical significance asks whether an observed or estimated effect is large enough to matter for the substantive decision or outcome at hand. Importance depends on consequences, costs, benefits, baseline conditions, feasibility, and the values or thresholds relevant to the application.
-
-### Not the same as statistical significance
-
-Statistical significance concerns compatibility with a statistical null model. Practical significance concerns magnitude and consequences. A huge sample can make a trivial effect statistically significant, while an important effect can remain statistically uncertain in a small study.
-
-### Benchmarks
-
-Meaningful interpretation may require a minimally important difference, risk threshold, cost-effectiveness criterion, clinical or behavioral benchmark, or domain-specific decision rule. Such benchmarks should be justified rather than invented after seeing the result.
-
-### Uncertainty
-
-Practical decisions should consider the plausible range of effects, not only the point estimate. An effect whose plausible range includes both trivial and important values may require further evidence.
 ## 4. Relationship to This Chapter
 
 Practical significance closes the Sampling and Statistics section by linking statistical evidence to real-world interpretation without collapsing the two.
@@ -4109,12 +3383,15 @@ The concept of real-world or decision-relevant importance of an observed effect.
 Effect size, statistical significance, confidence intervals, clinical decision thresholds, and substantive application.
 
 ## 6. Key Principles
+1. Practical significance has a specific statistical or inferential meaning.
+2. Interpretation depends on the population, sample, design, and assumptions.
+3. Numerical summaries do not replace conceptual interpretation.
+4. Measurement error and sampling can affect estimates.
+5. Statistical significance is not equivalent to practical importance.
+6. Uncertainty should be reported rather than hidden.
+7. Model results should not be given causal meaning without appropriate design or assumptions.
+8. Strong interpretation states what the statistic supports and what it does not.
 
-1. Practical significance asks whether a finding matters in context.
-2. Statistical significance and practical significance are different.
-3. Effect magnitude and uncertainty both matter.
-4. Practical importance depends on the decision and consequences.
-5. No universal practical threshold applies to every psychological finding.
 
 ---
 ## 1.2.76 Psychological measurement
