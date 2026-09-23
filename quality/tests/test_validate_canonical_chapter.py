@@ -27,7 +27,7 @@ ATTEST = '''
 '''
 
 def chapter(include_attestation=True):
-    body = ('This concept is described with enough topic-specific detail to clear the executable semantic floor. ' * 8).strip()
+    body = ('This concept is described with enough concept-specific detail to clear the executable semantic floor. ' * 8).strip()
     return '''# CHAPTER 9.9 — TEST
 **Canonical Topic count:** 1
 
