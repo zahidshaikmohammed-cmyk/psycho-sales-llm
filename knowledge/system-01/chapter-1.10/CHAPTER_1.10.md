@@ -2460,6 +2460,8 @@ undefined
 
 A further distinction is between consensus and accuracy. Consensus is an interaction outcome; it does not establish that the information used to reach it was complete or correct. Groups may converge because members independently hold the same accurate view, because one member provides decisive information, because social influence suppresses disagreement, or because discussion changes the interpretation of the evidence. Likewise, disagreement is not automatically evidence of poor group functioning: independent disagreement can preserve information that would otherwise be lost. Group decision research therefore benefits from recording individual judgments before interaction, tracking which pieces of information enter discussion, measuring changes in confidence and preference, and examining whether the final decision incorporates information that was initially distributed across members.
 
+This also makes the timing of information exchange a core part of the phenomenon, because interaction can change both what members know and how certain they feel about it.
+
 ## 4. Relationship to This Chapter
 Group decision-making is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Moral judgment and decision-making in the local decision architecture, and culminates in collective decision processes. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
