@@ -28,6 +28,8 @@ Memory performance varies with attention, motivation, emotional state, sleep, de
 ### Evidence status
 Memory is supported by extensive experimental, cognitive, neuropsychological, and neuroscientific evidence, but no single model fully captures every memory system or process.
 
+Memory is better modeled as a family of interacting operations than as a single store. Encoding determines what representations are established; retention and consolidation determine how they persist; retrieval determines when they become usable; later learning can alter what is retained or how it is expressed. Different memory systems differ in content, temporal profile, accessibility, and dependence on conscious awareness. A failure on a memory test can arise from weak encoding, interference, unavailable cues, retrieval competition, or genuinely reduced retention. Conversely, successful remembering does not guarantee literal accuracy because retrieval is reconstructive. Memory therefore requires analysis of both the information history and the conditions of present expression.
+
 ## 4. Relationship to This Chapter
 Memory is the chapter-level construct that organizes encoding, storage, retrieval, memory systems, forgetting, errors, and personal and clinical manifestations.
 
@@ -64,6 +66,8 @@ Information can be present in the environment without being effectively encoded.
 
 ### Related concepts
 Encoding precedes storage and retrieval but is distinct from them. Retrieval success is not a direct measure of encoding quality because poor retrieval cues can obscure information that was adequately encoded.
+
+Encoding is constrained by selection. A person can encounter an event without encoding all of its features, and attention, goals, prior knowledge, perceptual salience, and meaning determine which aspects receive richer processing. Encoding can preserve item information, relations among items, contextual information, or combinations of these. Elaborative organization often creates more retrieval routes, but encoding quality is always relative to the later test: a representation useful for recognition may not support free recall equally well. The distinction from storage is essential because later forgetting can originate in incomplete initial representation rather than loss after acquisition. Encoding is therefore an active transformation, not a passive recording.
 
 ## 4. Relationship to This Chapter
 Encoding is the first major process in the memory architecture: information must be represented before later retention and retrieval can occur.
@@ -102,6 +106,8 @@ Retention is influenced by time, interference, rehearsal, consolidation, sleep, 
 ### Evidence status
 Evidence from behavioral, neuropsychological, and neuroscientific work supports multiple forms of retention and stabilization, while the exact physical and computational implementation of every memory trace remains an active scientific question.
 
+Storage is a functional description of persistence across time, not a claim that memories occupy a single fixed location. Retention can involve durable changes in representations, connections, or system-level organization, and different memory systems have different stability profiles. Information can remain stored while temporarily inaccessible, while other traces can genuinely weaken or become altered by subsequent experience. Storage is also affected by interference and consolidation, so time alone does not determine retention. Behavioral evidence for storage must therefore be distinguished from evidence for retrieval access. A memory that cannot be recalled under one test may still influence recognition, relearning, priming, or later behavior.
+
 ## 4. Relationship to This Chapter
 Storage occupies the retention stage between encoding and later retrieval and connects short-lived and long-lasting memory systems.
 
@@ -138,6 +144,8 @@ Failure to retrieve does not establish that the information is absent. Conversel
 
 ### Consequences
 Retrieval can strengthen later accessibility through retrieval practice, but retrieving information can also alter subsequent memory under some conditions.
+
+Retrieval is constrained search and reconstruction rather than literal playback. Cues activate candidate information, current goals determine what is relevant, and competition among memories can affect which representation reaches awareness or behavior. Recall usually requires more internally generated retrieval than recognition because recognition supplies additional candidate information. Retrieval can be accurate, incomplete, biased, or confidently wrong. Repeated retrieval can also strengthen accessibility, while retrieval of a memory can sometimes alter later expression. Thus retrieval is both an outcome of memory and an event that can influence subsequent memory. A complete account specifies the retrieval task, available cues, competing information, and criterion for success.
 
 ## 4. Relationship to This Chapter
 Retrieval is the memory process that connects retained information to present performance, recollection, recognition, and memory-based action.
@@ -176,6 +184,8 @@ Consolidation should not be treated as a universal single-stage process. Some me
 ### Evidence status
 The existence of post-encoding stabilization is well supported. The precise mechanisms and extent of systems-level reorganization vary across memory types and remain topics of active research.
 
+Consolidation refers to post-encoding changes that make memory more stable, more integrated, or differently organized. It is not necessarily a single process with one fixed time course. Early cellular or synaptic stabilization and longer-timescale interactions among memory systems are often distinguished, and sleep can contribute to some forms of consolidation. Consolidation can also involve integration with prior knowledge, meaning that stabilization does not imply preservation of every original detail. Evidence differs across memory systems and tasks, so claims about consolidation should specify what was measured—resistance to disruption, later performance, neural reorganization, or integration. The concept links initial learning to later retention without implying that memories become immutable.
+
 ## 4. Relationship to This Chapter
 Consolidation explains how memories change after encoding and helps connect immediate memory formation with longer-term retention.
 
@@ -212,6 +222,8 @@ Simple recall does not automatically imply that reconsolidation occurred. Experi
 
 ### Evidence status
 Reconsolidation has substantial experimental support, especially in animal and controlled human paradigms, but its boundaries and translation to complex autobiographical memories remain actively studied.
+
+Reconsolidation describes a possible post-retrieval phase in which a previously stabilized memory becomes temporarily modifiable before restabilizing. Reactivation alone is not sufficient evidence; paradigms typically manipulate conditions such as prediction error or destabilization and then test whether subsequent information changes later memory. The phenomenon is therefore conditional and memory-dependent rather than a universal consequence of remembering. Evidence is strongest in controlled experimental settings, while the extent to which laboratory reconsolidation findings generalize to complex autobiographical memories remains debated. Reconsolidation is conceptually important because it shows that retrieval can be an opportunity for updating, not merely access to a permanently fixed representation.
 
 ## 4. Relationship to This Chapter
 Reconsolidation extends the chapter's process model by showing that retrieval can be followed by memory updating rather than merely access.
@@ -250,6 +262,8 @@ Depth-of-processing effects are well established, while later research has shown
 ### Misconception
 "Deep" processing should not be treated as a single mental action or a guarantee of better memory regardless of task.
 
+Levels of processing explains memory differences partly through the nature and richness of encoding operations. Processing physical form, sound, meaning, associations, and self-relevant implications can produce representations with different retrieval properties. The framework does not justify treating “deep” as a universal quantity independent of task: an encoding operation is useful to the extent that it establishes information that the later test can exploit. Subsequent work therefore emphasizes distinctiveness, elaboration, transfer-appropriate processing, and encoding–retrieval compatibility alongside depth. The core insight remains that how information is processed during acquisition changes later memory, rather than exposure amount alone determining retention.
+
 ## 4. Relationship to This Chapter
 This Topic explains an important determinant of encoding quality within the broader memory architecture.
 
@@ -286,6 +300,8 @@ Chunking depends on existing knowledge and task structure. It does not abolish u
 
 ### Example
 A familiar telephone number format can be represented as a few grouped units rather than many independent digits.
+
+Chunking changes the effective organization of information by binding multiple elements into a meaningful unit. The number of elements represented inside a chunk can vary greatly, so chunking does not literally increase an invariant storage capacity; it changes the representational structure that makes complex information manageable. Chunk boundaries depend on learned patterns, expertise, familiarity, and task goals. A chess expert can encode a meaningful configuration as a small number of relational units that a novice cannot. Chunking therefore connects memory with knowledge acquisition: what counts as one usable unit is partly determined by what the learner already knows.
 
 ## 4. Relationship to This Chapter
 Chunking is a memory-supporting organization process that links encoding, working memory, and retrieval.
@@ -324,6 +340,8 @@ The same cue can help or interfere depending on which memories it activates. Ret
 ### Related concepts
 Encoding specificity and context-dependent memory describe important cases in which the compatibility between cues and encoding conditions affects retrieval.
 
+Retrieval cues are useful when they are sufficiently diagnostic of the target memory. A cue shared by many memories may activate a broad competitive set, whereas a distinctive contextual, semantic, perceptual, or internal cue can narrow retrieval. Cues can be externally supplied or internally generated, and their effectiveness depends on the associations established during encoding. A cue can also produce interference by activating a competing memory. This is why a person can know information but fail to access it when the available cue is weak or mismatched. Retrieval-cue analysis therefore asks not merely whether a memory exists, but what information is available to guide access.
+
 ## 4. Relationship to This Chapter
 Retrieval cues are a central bridge between stored information and successful remembering.
 
@@ -360,6 +378,8 @@ Encoding specificity does not mean exact environmental replication is always nec
 
 ### Misconception
 It is not a claim that memory is retrieved only in the original environment.
+
+Encoding specificity captures the dependence of retrieval on overlap between information present during learning and cues available later. The overlap can involve physical context, internal state, semantic interpretation, task demands, or distinctive associations. Exact reinstatement is not necessary, because conceptual overlap can provide powerful retrieval support. The principle also predicts that changing contexts can impair retrieval when contextual information was strongly encoded, while distinctive item cues can sometimes overcome contextual differences. Encoding specificity therefore explains why the same material can be remembered differently under different retrieval conditions without implying that memories are stored only in their original environment.
 
 ## 4. Relationship to This Chapter
 This Topic provides a general principle linking encoding and retrieval and prepares the more specific Topics on context- and state-dependent memory.
@@ -398,6 +418,8 @@ Sensory persistence should not be confused with conscious perception or durable 
 ### Evidence status
 Brief sensory persistence is strongly supported by classic experimental paradigms, although terminology and theoretical interpretations vary across modalities and tasks.
 
+Sensory memory preserves information briefly after physical stimulation and provides a bridge between continuous sensory input and more selective downstream processing. Its representations can be relatively detailed but rapidly decay or are overwritten. Different modalities have different temporal and functional properties, so “sensory memory” is a family label rather than a single uniform store. Its availability does not mean the information reaches conscious report: attention determines which portions receive further processing. Sensory memory should also be distinguished from sensory adaptation, which concerns altered responsiveness in sensory systems rather than retention of a representation. The construct is therefore temporal and functional, not simply a visual or auditory afterimage.
+
 ## 4. Relationship to This Chapter
 Sensory memory forms the earliest memory layer in the chapter's memory-system architecture.
 
@@ -434,6 +456,8 @@ Iconic memory is not equivalent to a conscious visual image held for an extended
 
 ### Evidence status
 The phenomenon is well established, although exact estimates of duration depend on stimulus properties and experimental method.
+
+Iconic memory is the brief visual component of sensory memory. It can preserve a rich visual representation for a very short interval, allowing information to remain available after the display disappears. Partial-report paradigms are important because they show that more information can be briefly accessible than can normally be reported after a longer delay. Iconic persistence supports continuity of visual processing but should not be equated with a durable conscious image. Its duration depends on stimulus properties, masking, luminance, and task conditions. Attention determines which transient information is selected into longer-lasting processing, linking iconic memory to the attention and perception architecture of earlier chapters.
 
 ## 4. Relationship to This Chapter
 Iconic memory is the visual specialization of sensory memory.
@@ -472,6 +496,8 @@ Echoic memory is not the same as understanding or consciously recalling a spoken
 ### Evidence status
 Brief auditory persistence is supported by experimental research, with duration varying according to stimulus properties, modality, and measurement method.
 
+Echoic memory is brief auditory sensory retention that allows information from speech and other sounds to remain available for a short period after the physical signal ends. Its temporal persistence is generally longer than the very brief visual persistence associated with iconic memory, which is functionally useful because auditory information unfolds over time. Echoic retention supports continuity across successive sound elements and can help recover recently presented speech when attention was momentarily incomplete. It is not equivalent to conscious rehearsal or long-term auditory memory. Duration and precision vary with stimulus characteristics and task demands, so it should be treated as a modality-specific sensory memory process.
+
 ## 4. Relationship to This Chapter
 Echoic memory is the auditory specialization of sensory memory.
 
@@ -508,6 +534,8 @@ Short-term retention varies with interference, similarity among items, meaningfu
 
 ### Related concepts
 Working memory includes temporary maintenance plus manipulation and control, making it broader functionally than simple short-term retention.
+
+Short-term memory traditionally refers to temporary retention of information over a limited interval, especially when the information must remain accessible without continuous external input. Contemporary accounts distinguish simple temporary storage from working memory because active maintenance can involve manipulation, attention, and control. Short-term retention is affected by interference, rehearsal, similarity, and capacity constraints, and performance can improve when information is organized into meaningful units. It is not a single fixed-duration buffer: the effective duration depends on task conditions and competing processing. The construct is therefore useful historically and functionally, but it should not be treated as a complete theory of working memory.
 
 ## 4. Relationship to This Chapter
 Short-term memory represents brief retention and provides a bridge between sensory input and longer-term memory.
@@ -546,6 +574,8 @@ Capacity varies with task complexity, familiarity, strategy, distraction, and in
 ### Evidence status
 Working memory is strongly supported as a useful functional construct, while the precise architecture and independence of its components remain debated.
 
+Working memory is the limited-capacity system for maintaining and manipulating information while performing ongoing cognition. It supports reasoning, comprehension, planning, problem solving, and goal-directed action by keeping task-relevant representations accessible while they are transformed. Contemporary models differ on whether working memory is best described as specialized storage components, an activated portion of long-term knowledge, attentional priority, or combinations of these. Performance depends on interference, representational similarity, strategic control, and task demands rather than a single fixed item count. Working memory therefore links memory with attention and executive control while retaining a distinct function: temporary active use of information.
+
 ## 4. Relationship to This Chapter
 Working memory is a central memory system linking temporary information maintenance with attention and higher cognition.
 
@@ -583,6 +613,8 @@ Capacity limits constrain simultaneous processing, especially when information m
 ### Evidence status
 Individual differences in working-memory performance are reliable and related to several cognitive outcomes, but the exact nature of the underlying capacity limitation remains theoretically contested.
 
+Working-memory capacity is an individual and task-dependent limit on how much information can be maintained and manipulated under specified conditions. It is not a universal number of items because chunking, familiarity, task complexity, interference, strategy, and measurement method alter apparent capacity. Complex-span tasks, change detection, and other paradigms capture overlapping but nonidentical aspects of limited active memory. Capacity can also differ within a person across tasks and states. Treating capacity as fixed risks confusing representational efficiency with raw storage. A better interpretation asks what information is being maintained, what competing processing is required, and which mechanism produces the observed performance limit.
+
 ## 4. Relationship to This Chapter
 This Topic specializes the capacity constraints of working memory within the broader memory architecture.
 
@@ -616,6 +648,8 @@ In Baddeley's working-memory framework, the central executive coordinates the sy
 
 ### Evidence status
 Executive-control functions are strongly supported, but whether they reflect one unitary mechanism or multiple control processes remains debated.
+
+The central executive is a theoretical component in working-memory models responsible for coordinating attention, managing competing representations, updating task priorities, and allocating limited processing resources. It is not a miniature decision maker and should not be treated as a single neural module. Tasks that appear to require executive control can involve inhibition, switching, monitoring, dual-task coordination, or retrieval, so evidence must specify which function is being tested. The construct is useful because simple storage components cannot explain all working-memory behavior, but its broad scope creates measurement challenges. It therefore works best as a functional control concept whose boundaries are specified by the task.
 
 ## 4. Relationship to This Chapter
 The central executive explains how working memory can coordinate information rather than merely hold it.
@@ -654,6 +688,8 @@ Effects such as phonological similarity, irrelevant speech, and articulatory sup
 ### Boundary conditions
 The loop is not a complete theory of language or verbal long-term memory. Meaningful knowledge can support performance beyond what phonological storage alone predicts.
 
+The phonological loop is a working-memory framework for temporarily maintaining speech-based and other verbally coded information. A storage component and a rehearsal process are commonly distinguished, with rehearsal helping refresh representations before they decay or are displaced. Evidence includes effects of phonological similarity, irrelevant speech, articulatory suppression, and word length, although the exact architecture and relationship to language processing remain theoretical questions. Verbal working memory is not limited to spoken material: visually presented words can be recoded phonologically. The construct therefore explains a functional class of temporary verbal maintenance rather than a literal isolated brain structure.
+
 ## 4. Relationship to This Chapter
 It is a specialized component of working memory concerned with verbal and auditory information.
 
@@ -690,6 +726,8 @@ Visual imagery, visual perception, and visuospatial working memory are related b
 
 ### Evidence status
 Dual-task and neuropsychological findings support separable visual-spatial processing resources, while the exact subdivision of these resources remains debated.
+
+The visuospatial sketchpad is a working-memory component proposed to maintain and manipulate visual and spatial information. Visual form and spatial location can overlap but are not identical demands, and evidence suggests partially separable resources or processes can contribute to them. Performance depends on interference, task complexity, imagery strategy, and concurrent processing. The sketchpad does not imply that all visual imagery is stored in one uniform buffer; representations can be generated, transformed, and retrieved through interacting systems. Its value is explanatory: it accounts for temporary active use of nonverbal information that cannot be explained by verbal rehearsal alone.
 
 ## 4. Relationship to This Chapter
 This Topic specializes the visual-spatial component of working memory.
@@ -728,6 +766,8 @@ The episodic buffer was introduced into Baddeley's model to address integration 
 ### Evidence status
 The construct is influential, but its precise mechanisms and relation to broader binding and working-memory processes remain theoretically debated.
 
+The episodic buffer was proposed as a limited-capacity interface that binds information from different sources into integrated episodes or representations. It can link verbal, visual, spatial, and long-term knowledge into a coherent event structure, supporting the experience and manipulation of multimodal information. The construct addresses a limitation of models that treat working-memory components as isolated. It does not imply that all episodic memory is held in a single buffer or that binding is effortless. Integration depends on attention, existing knowledge, and task demands. The episodic buffer is therefore best understood as a functional binding and interface concept within working-memory theory.
+
 ## 4. Relationship to This Chapter
 The episodic buffer connects working-memory components with long-term knowledge and integrated temporary representations.
 
@@ -764,6 +804,8 @@ Long-term retention depends on encoding, consolidation, association, retrieval p
 
 ### Boundary conditions
 Duration alone does not determine memory type. A memory can last a long time without being consciously recollected.
+
+Long-term memory refers to memory whose information can remain available over extended periods, from hours to decades. It is heterogeneous in content and mechanism: episodic, semantic, procedural, and other forms differ in encoding, retrieval, dependence on awareness, and vulnerability to disruption. Long-term does not mean permanently accurate or unchanged. Memories can be strengthened, weakened, transformed, or integrated with later knowledge. The distinction from short-term or working memory is temporal and functional rather than a claim that information sits in one physical compartment. Long-term memory is therefore a family of durable capacities rather than one homogeneous store.
 
 ## 4. Relationship to This Chapter
 Long-term memory organizes the durable memory systems that follow the temporary-memory architecture.
@@ -802,6 +844,8 @@ Conscious accessibility does not guarantee accuracy. People can confidently repo
 ### Evidence status
 The distinction between consciously accessible and nonconsciously expressed memory is supported by converging behavioral and neuropsychological evidence, although terminology differs across traditions.
 
+Explicit memory concerns information that can be intentionally brought to mind or expressed as conscious remembering under appropriate conditions. It commonly includes episodic and semantic memory, but the ability to report information depends on retrieval conditions and task demands. Explicit does not mean perfectly accurate, and conscious confidence does not guarantee that the remembered event or fact is correct. Some information can influence behavior without being consciously reportable, which is why explicit memory is distinguished from implicit memory. The construct is defined by accessibility and expression of memory knowledge rather than by a simple neural or temporal boundary.
+
 ## 4. Relationship to This Chapter
 Explicit memory organizes conscious forms of long-term remembering.
 
@@ -836,6 +880,8 @@ Previous exposure can alter activation, response tendencies, perceptual processi
 ### Boundary conditions
 Absence of reported recollection does not automatically prove that a process is unconscious. Explicit and implicit measures can dissociate, but the interpretation of such dissociations requires careful task analysis.
 
+Implicit memory refers to effects of prior experience on behavior or processing that do not require deliberate conscious recollection of the learning episode. Priming, skill learning, and conditioning can produce such effects, although these phenomena may involve different mechanisms. Implicit does not mean unconscious in every respect: a person can consciously perform a skill while lacking explicit recollection of when it was learned. The distinction concerns the role of intentional recollection in expressing the memory. Measures of implicit memory must therefore be designed carefully because performance can be influenced by explicit strategies even when the intended effect is nonconscious or indirect.
+
 ## 4. Relationship to This Chapter
 Implicit memory complements explicit memory by identifying long-term effects that do not depend on conscious remembering.
 
@@ -869,6 +915,8 @@ Declarative memories depend on encoding, consolidation, retrieval, and integrati
 
 ### Boundary conditions
 The ability to describe a memory does not guarantee literal accuracy. Likewise, some knowledge becomes highly automatic in use while retaining a declarative origin.
+
+Declarative memory is memory for information that can be expressed as knowledge or remembered facts and events, commonly divided into episodic and semantic forms. It is often contrasted with procedural and other nondeclarative memory, but the distinction is functional rather than an absolute separation of all underlying processes. Declarative remembering can be influenced by context, retrieval cues, schemas, and reconstruction. Damage to neural systems supporting declarative memory can leave some forms of procedural learning relatively preserved, demonstrating partial dissociation rather than total independence. The construct therefore captures reportable knowledge while recognizing interactions among memory systems.
 
 ## 4. Relationship to This Chapter
 Declarative memory organizes the explicit long-term memory system containing facts and events.
@@ -907,6 +955,8 @@ Repeated practice can alter skills; prior exposure can change processing; and le
 ### Evidence status
 Dissociations between explicit and performance-based memory measures support the category, while the extent to which its forms share mechanisms remains debated.
 
+Nondeclarative memory is a broad family of learning effects expressed through performance or processing without requiring conscious recollection of the learning episode. It includes procedural learning, priming, conditioning, and other forms whose mechanisms and measurement differ. The category should not be treated as one unified memory system; it is partly defined by contrast with declarative expression. A person can know how to perform a skill without remembering learning episodes, but procedural performance can still be influenced by attention, explicit knowledge, and strategy. The most precise analysis identifies the specific nondeclarative mechanism rather than using the umbrella term as a causal explanation.
+
 ## 4. Relationship to This Chapter
 Nondeclarative memory provides the complementary category to declarative memory.
 
@@ -944,6 +994,8 @@ Episodic memory differs from general factual knowledge even though the two can i
 ### Evidence status
 The distinction between episodic and semantic memory is influential and supported by behavioral and neuropsychological findings, while their exact independence remains debated.
 
+Episodic memory supports recollection of personally experienced events, including information about what happened and aspects of where or when it occurred. Episodic remembering is constructive: retrieval can combine stored event information with schemas, semantic knowledge, and current context. Vividness does not guarantee accuracy, and repeated retrieval can alter details. Episodic memory is also not limited to perfect event recordings; memories can vary in specificity, perspective, temporal precision, and confidence. The construct is therefore defined by event-centered, personally situated remembering rather than by a requirement that every contextual detail be preserved exactly.
+
 ## 4. Relationship to This Chapter
 Episodic memory is the event-based branch of declarative memory and is central to autobiographical remembering.
 
@@ -978,6 +1030,8 @@ Repeated experiences can abstract common information across episodes, allowing k
 ### Boundary conditions
 Semantic and episodic memory interact. A factual belief may originate from an episode yet later be retained without access to its source.
 
+Semantic memory concerns general knowledge about facts, concepts, meanings, categories, and relationships that is not necessarily tied to recollection of a particular learning episode. It can be acquired from repeated experiences, language, education, and abstraction across events. Semantic knowledge can become highly structured, allowing rapid retrieval and inference even when the original source is forgotten. It also changes through learning and can contain errors or outdated information. The distinction from episodic memory is functional: knowing a fact does not require remembering when or where it was learned, although episodic and semantic systems can interact during acquisition and retrieval.
+
 ## 4. Relationship to This Chapter
 Semantic memory is a major branch of declarative long-term memory alongside episodic memory.
 
@@ -1011,6 +1065,8 @@ Repeated practice can strengthen coordinated action patterns and reduce the need
 
 ### Boundary conditions
 Procedural memory is not synonymous with all habits or all motor behavior. Some procedures require explicit rules, and skilled performance can draw on declarative knowledge.
+
+Procedural memory supports learned skills and procedures, including patterns of action that can become efficient and relatively automatic with practice. It is not simply “muscle memory”: perceptual discrimination, sequencing, timing, and cognitive procedures can all become proceduralized. Procedural performance can persist despite impaired conscious recollection of learning episodes, but procedural and declarative knowledge can also interact. Skill expression remains sensitive to context, attention, fatigue, and task demands. The construct is therefore best understood as memory expressed through organized performance rather than as an inaccessible storage system that operates independently of all conscious cognition.
 
 ## 4. Relationship to This Chapter
 Procedural memory is a major nondeclarative memory form and connects memory with skill learning.
@@ -1049,6 +1105,8 @@ Priming effects depend on the relationship between prime and target, task demand
 ### Evidence status
 Priming is a robust experimental phenomenon, although claims about its unconsciousness, automaticity, and real-world magnitude require careful qualification.
 
+Priming occurs when prior exposure changes the processing or response to a later stimulus, often without requiring deliberate recollection of the earlier encounter. Repetition, conceptual relations, perceptual similarity, and task context can produce different forms of priming. A priming effect is not automatically evidence for one mechanism: facilitation can reflect changes in perceptual processing, accessibility, expectations, or learned associations. Priming can also be positive or negative depending on how prior exposure affects later processing. The phenomenon is important because memory can influence behavior even when people cannot intentionally report the source or episode that produced the influence.
+
 ## 4. Relationship to This Chapter
 Priming is a major nondeclarative memory phenomenon showing that prior experience can alter later processing.
 
@@ -1082,6 +1140,8 @@ Repeated relationships between cues and outcomes establish learned expectations 
 
 ### Boundary conditions
 A reduced conditioned response does not necessarily mean that the original learning has been erased. Return of responding can occur under particular conditions.
+
+Conditioning memory refers to memory expressed through learned relations between cues, actions, and outcomes established by conditioning. Such learning can persist even when a person cannot explicitly describe the original learning episode, illustrating partial dissociation between declarative report and learned response. Conditioning memory is not identical to all implicit memory and can involve both conscious expectations and automatic response tendencies. Extinction can add new learning without necessarily eliminating the original relation, making context and recovery phenomena important. The construct therefore belongs to the nondeclarative family while retaining its own identifiable associative mechanism.
 
 ## 4. Relationship to This Chapter
 This Topic represents conditioning as a memory form and links Chapter 1.8 to the learning architecture of Chapter 1.7.
@@ -1120,6 +1180,8 @@ Successful prospective remembering can involve spontaneous retrieval triggered b
 ### Boundary conditions
 A person can remember the intention but fail to notice the cue, or notice the cue but fail to execute the intended action.
 
+Prospective memory is remembering to perform an intended action at a future time or when a future cue occurs. It combines intention formation, retention of the action plan, monitoring for an opportunity, and execution at the appropriate moment. Time-based prospective memory requires more self-initiated monitoring, whereas event-based prospective memory can rely on environmental cues. Prospective remembering competes with ongoing tasks and can fail despite strong retrospective knowledge of the intention. Effective performance depends on cue salience, ongoing-task demands, planning, monitoring strategy, and whether the person can use spontaneous retrieval rather than continuous conscious checking.
+
 ## 4. Relationship to This Chapter
 Prospective memory extends memory beyond remembering the past to maintaining future-directed intentions.
 
@@ -1156,6 +1218,8 @@ A detailed autobiographical memory is not necessarily a literal record. General 
 
 ### Consequences
 Autobiographical memory contributes to identity, future thinking, social communication, and interpretation of personal experience.
+
+Autobiographical memory concerns personally relevant memories about one's life, including specific events, general personal knowledge, and recurring self-related themes. It supports continuity of self but is not a complete objective record of the person's past. Autobiographical memories vary in specificity, emotional intensity, perspective, confidence, and accessibility. Schemas and current goals influence reconstruction, so remembering one's life involves both retention and present interpretation. Overly general autobiographical memory can also reflect retrieval habits or contextual factors rather than total absence of specific information. The construct therefore connects episodic and semantic memory with personal identity without equating memory content with an objective biography.
 
 ## 4. Relationship to This Chapter
 This Topic applies the broader memory architecture to personally relevant life information.
@@ -1194,6 +1258,8 @@ The phenomenon concerns memory for the learning context rather than necessarily 
 ### Evidence status
 The enhanced vividness and confidence of such memories are well documented. Their exceptional objective accuracy is much less consistently supported.
 
+Flashbulb memories are vivid, confidently held memories for learning about a consequential or surprising event and often include contextual details about where one was or how one learned the news. Their subjective vividness and confidence can remain high even when specific details change over time. Emotional arousal and repeated rehearsal can contribute to persistence, but vividness is not a privileged indicator of accuracy. Flashbulb memory is therefore a phenomenon of distinctive subjective and contextual remembering rather than a special perfectly preserved memory system. The key scientific distinction is between durability of confidence or vividness and accuracy of independently verified details.
+
 ## 4. Relationship to This Chapter
 Flashbulb memory is a specialized autobiographical memory phenomenon illustrating the distinction between subjective vividness and objective accuracy.
 
@@ -1227,6 +1293,8 @@ Recognition can involve familiarity, recollection, or both. Familiarity provides
 
 ### Boundary conditions
 Repeated or similar information can produce false recognition. Confidence can also be influenced by fluency, familiarity, and decision criteria.
+
+Recognition requires identifying previously encountered information when relevant alternatives or cues are supplied. It can rely on familiarity, recollection, or both, and these contributions can produce similar behavioral accuracy through different subjective experiences. Recognition is often easier than free recall because the test provides candidate information, but familiarity can also create false recognition when a novel item feels known. Recognition accuracy therefore depends on discriminability, decision criteria, source information, and memory strength. A correct recognition response does not establish recollection of the original episode unless the task specifically tests contextual retrieval.
 
 ## 4. Relationship to This Chapter
 Recognition is a major retrieval format and connects memory access with familiarity and recollection.
@@ -1265,6 +1333,8 @@ Recall can be impaired by interference, poor cue availability, and changes betwe
 ### Measurement
 Recall performance should be interpreted relative to the task format because different forms provide different retrieval support.
 
+Recall requires generating or reconstructing previously learned information with less direct support from the test environment than recognition. Free recall, cued recall, and serial recall differ in the amount and type of retrieval support they provide. Recall is strongly influenced by retrieval cues, organization, output interference, and the order in which information is produced. Failure to recall does not prove that the information is absent because a different cue or recognition test may reveal it. Recall accuracy can also be distorted by reconstruction and source confusion, so successful production and veridicality are separate dimensions.
+
 ## 4. Relationship to This Chapter
 Recall is the principal retrieval format that contrasts with recognition.
 
@@ -1301,6 +1371,8 @@ Relearning is not equivalent to perfect retention. The amount of savings depends
 
 ### Measurement
 Savings can provide evidence of memory that direct recall or recognition may underestimate.
+
+Relearning measures how much faster or more efficiently information can be acquired again after prior learning. Savings during relearning can reveal residual effects even when a person cannot consciously recall the material from the original learning episode. Relearning is therefore useful for distinguishing complete absence of influence from inaccessible or weakened memory. The measure is not a direct estimate of stored information because prior familiarity, strategy, and changed learning conditions can contribute to the savings. It also demonstrates that memory can influence future acquisition without producing an explicit recollection of the original learning.
 
 ## 4. Relationship to This Chapter
 Relearning demonstrates that memory can persist even when immediate retrieval appears poor.
@@ -1339,6 +1411,8 @@ Context effects are not universal or equally strong across tasks. Distinctive co
 ### Evidence status
 Context-dependent effects are supported experimentally, but popular claims that simply returning to a location reliably restores forgotten memories overstate the evidence.
 
+Context-dependent memory occurs when retrieval is improved by environmental context that overlaps with the context present during encoding. Context can include physical surroundings, sensory features, social setting, or other external conditions. The effect is not guaranteed and is often modest when distinctive item or semantic cues are strong. Context can also become a source of interference if it activates competing memories. The principle is therefore conditional rather than a claim that people can remember only in the place where learning occurred. It is one specific application of encoding specificity to environmental context.
+
 ## 4. Relationship to This Chapter
 This Topic is a specific application of encoding specificity to environmental context.
 
@@ -1375,6 +1449,8 @@ Effects vary with the strength and specificity of the state, material, and task.
 
 ### Evidence status
 State effects have experimental support, but broad claims that people can reliably remember only when they reproduce an original emotional state are not justified.
+
+State-dependent memory concerns effects of overlap between internal states at encoding and retrieval, such as physiological, affective, or pharmacological conditions. The relevant state must be represented during learning and provide useful retrieval information; merely reproducing an external condition is not enough. Effects vary across tasks and states and should not be confused with mood-congruent memory, where current mood changes the accessibility of mood-related material. State dependence is therefore a cue-compatibility phenomenon rather than a general rule that people remember best when they feel exactly as they did during learning.
 
 ## 4. Relationship to This Chapter
 This Topic specializes encoding specificity for internal rather than primarily environmental cues.
