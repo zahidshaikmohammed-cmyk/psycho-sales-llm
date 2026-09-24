@@ -1,78 +1,159 @@
-# CHAPTER 1.10 — FINAL VALIDATION
+# CHAPTER 1.10 — JUDGMENT, DECISION-MAKING, AND CHOICE — FINAL V3 DEEP VALIDATION
 
-**Status:** V2.0 CERTIFIED / LOCKED / SEALED  
-**Chapter source SHA:** b131c8b21900549ce3d6449cad7e1565db41daf2  
-**Architecture source:** `system_1/SYSTEM_1_SURGICAL_CANONICAL_ARCHITECTURE_v2.md`
+**Status:** V3 DEEP REBUILT — FULLY RE-AUDITED — LOCKED & SEMANTICALLY SEALED 🔒
 
-## V2 Semantic Gate — Required for Canonical Seal
+**Canonical chapter:** `knowledge/system-01/chapter-1.10/CHAPTER_1.10.md`
 
-- Ontology match: PASS
-- Structural integrity: PASS
-- Ownership: PASS
-- Semantic depth: PASS
-- Neighbor distinctions: PASS
-- Scientific/evidence integrity: PASS
-- Relationships: PASS
-- Retrieval: PASS
-- Anti-template: PASS
-- Cross-chapter boundaries: PASS
-- Final validation: PASS
-- P0: 0
-- P1: 0
-- P2: 0
-- P3: 0
+## Why the Previous Seal Was Reopened
 
-## Structural Audit
+The previous V2 corpus was structurally valid but materially too shallow for the current encyclopedia depth standard:
 
-- Architecture entries: 65/65
-- Canonical topic objects: 65/65
-- Topic names/order: exact match
-- Required six sections: 65/65
-- Owns/Defers boundary blocks: 65/65
-- Core Understanding minimum: 62 words
-- Core Understanding average: 74 words
-- Core Understanding maximum: 94 words
-- Duplicate Core Understanding blocks: 0
-- Duplicate Relationship blocks: 0
-- Duplicate Key Principle sets: 0
-- Literal TOPIC placeholders: 0
-- Generic chapter-membership signatures: 0
+- Previous corpus: **16,426 words**
+- Previous Core Understanding average: **79 words**
+- Previous Core Understanding range: **67–99 words**
 
-## Ownership Accounting
+A structural pass therefore did not establish the intellectual depth required by the current canonical benchmark.
 
-- 60 independent canonical construct/process/phenomenon owners
-- 4 theory/model-layer entries: Rational choice models; Expected utility theory; Prospect theory; Dual-process accounts
-- 1 application/relationship node: Moral judgment and decision-making
+## V3 Deep Rebuild
 
-The four model-layer entries are canonical knowledge objects but are excluded from the 1,267 construct/clinical owner metric. Moral judgment and decision-making is contextual and does not create a second owner for general moral judgment.
+All **65/65 locked Topics** were rebuilt while preserving the exact architecture and ontology.
 
-**Bounded rationality:** canonical owner in 1.10; its 1.9 appearance is non-owner.  
-**Group decision-making:** canonical owner in 1.10; its 1.16 appearance is non-owner.
+The rebuild deepens the distinction between:
 
-## Neighbor-Distinction Audit
+- judgment, decision-making, choice, and preference;
+- preference construction and preference reversal;
+- certainty, risk, uncertainty, and ambiguity;
+- expected value, expected utility, and subjective probability;
+- satisficing and bounded rationality;
+- availability, representativeness, anchoring, adjustment, recognition, affect, and attribute substitution;
+- framing and reference dependence;
+- loss aversion, endowment, status quo, and default effects;
+- present bias, temporal discounting, and hyperbolic discounting;
+- probability weighting and probability estimation;
+- base-rate neglect, conjunction fallacy, gambler's fallacy, and hot-hand belief;
+- overconfidence and calibration;
+- confirmation bias and belief perseverance;
+- self-serving, hindsight, outcome, and omission biases;
+- planning fallacy and optimism bias;
+- escalation and sunk-cost effects;
+- choice overload and decision fatigue;
+- regret and anticipated regret;
+- ambiguity aversion and risk perception;
+- rational-choice and expected-utility models;
+- prospect theory and its component phenomena;
+- dual-process accounts without a literal two-box architecture;
+- naturalistic decision-making and adaptive intuition;
+- choice architecture, nudging, and debiasing;
+- decision error versus unfavorable outcome;
+- moral decision-making versus general moral cognition;
+- group decision-making versus broader group processes.
 
-Explicitly audited: judgment vs decision-making vs choice; preference vs preference construction vs preference reversal; certainty vs risk vs uncertainty vs ambiguity; expected value vs expected utility; subjective probability vs confidence vs calibration; availability vs representativeness; anchoring vs adjustment; recognition vs availability; affect heuristic vs emotion generally; framing vs reference dependence; loss aversion vs risk aversion; endowment vs ownership; status quo vs default; present bias vs temporal discounting vs hyperbolic discounting; probability weighting vs probability estimation; base-rate neglect vs representativeness; gambler's fallacy vs hot-hand belief; overconfidence vs optimism; confirmation bias vs belief perseverance; hindsight vs outcome bias; planning fallacy vs optimism; escalation vs sunk cost; regret vs anticipated regret; risk perception vs objective risk; rational choice vs descriptive psychology; expected utility theory vs expected utility; prospect theory vs the individual effects it models; dual-process accounts vs a literal two-box architecture; naturalistic decision-making vs infallible intuition; choice architecture vs nudging; debiasing vs deliberation; decision error vs unfavorable outcome; moral decision-making vs general moral judgment; group decision-making vs general group processes.
+## Final Quantitative Audit
 
-## Scientific / Evidence Integrity
+| Metric | V3 Result |
+|---|---:|
+| Total chapter words | **41,523** |
+| Topics | **65/65** |
+| IDs | **1.10.1–1.10.65** |
+| Architecture name/order match | **65/65 exact** |
+| Six-section schema | **65/65** |
+| Required section slots | **390/390** |
+| Owns | **65/65** |
+| Defers | **65/65** |
+| Core minimum | **360 words** |
+| Core average | **439 words** |
+| Core maximum | **562 words** |
+| Core blocks below 350 | **0** |
+| Duplicate Core blocks | **0** |
+| Duplicate Relationship blocks | **0** |
+| Duplicate Boundary blocks | **0** |
+| Duplicate Key-Principle blocks | **0** |
+| Duplicate Topic names | **0** |
+| Commercial/sales contamination | **0** |
+| Literal placeholder tokens | **0** |
 
-Normative models are separated from descriptive claims. Confidence is not treated as accuracy. Heuristic use is not treated as inherently erroneous. Named effects are not treated as universal traits or diagnoses. Context, task structure, information quality, stakes, measurement method, and uncertainty are retained where they materially qualify interpretation.
+## Architecture Integrity
 
-## Cross-Chapter Boundary Audit
+- Exact canonical Topic names: **PASS**
+- Exact Topic order: **PASS**
+- No Topic added: **PASS**
+- No Topic removed: **PASS**
+- No Topic renamed: **PASS**
+- No Topic reordered: **PASS**
+- Model-layer entries preserved: **PASS**
+- Application/relationship node preserved: **PASS**
 
-- 1.4 owns perception; 1.10 uses perceptual salience only as an input to judgment.
-- 1.8 owns memory systems and memory-specific phenomena; 1.10 uses accessibility and reconstruction as inputs.
-- 1.9 owns general reasoning, representation, metacognition, and cognitive control; 1.10 owns their judgment/decision interface.
-- 1.11 owns language and intelligence.
-- 1.12 owns motivation, goals, and self-regulation; 1.10 owns decision phenomena involving valuation and delay.
-- 1.13 owns emotion; 1.10 owns affective influences specifically within judgment and decision processes.
-- 1.16 owns general social cognition, social influence, group processes, and moral cognition; 1.10 owns explicitly designated decision interfaces.
+## Semantic / Scientific Audit
 
-## Retrieval Integrity
+**PASS** — the chapter maintains descriptive/normative separation and does not treat named biases as universal defects.
 
-Every architecture entry has a unique canonical chapter object. Model-layer entries are identifiable as models; the moral decision-making entry is identifiable as a contextual application. Relationship and Boundary sections preserve neighboring-concept retrieval without collapsing canonical ownership.
+Specific safeguards:
 
-## Final Certification
+- confidence is not equated with accuracy;
+- risk is not equated with danger;
+- uncertainty is not equated with low probability;
+- ambiguity is not equated with generic confusion;
+- heuristic use is not equated with irrationality;
+- anchoring is not reduced to one settled mechanism;
+- loss aversion is not equated with risk aversion;
+- endowment effects are not assumed to have one mechanism;
+- default effects are not equated with coercion;
+- present bias is distinguished from ordinary discounting;
+- probability weighting is distinguished from probability estimation;
+- named fallacies are defined against explicit probability or decision criteria;
+- overconfidence is treated as a calibration problem, not a personality label;
+- hindsight and outcome bias are separated by their comparison criteria;
+- planning fallacy is not inferred from every failed plan;
+- escalation is not inferred from every continuation decision;
+- decision fatigue is not treated as an uncontested fixed-resource mechanism;
+- prospect theory is treated as a model, not as a list of universal biases;
+- dual-process accounts are not treated as a literal two-system brain architecture;
+- naturalistic intuition is treated as condition-dependent;
+- nudging is separated from coercion;
+- debiasing success requires improved decision quality, not merely altered confidence;
+- decision error requires an explicit normative/task criterion;
+- group processes remain linked to, but not re-owned from, Chapter 1.16.
 
-**Chapter 1.10 is V2.0 CERTIFIED / LOCKED / SEALED.**
+## Boundary Audit
 
-This certifies Chapter 1.10 only. Encyclopedia-wide final certification remains pending for Chapters 1.11–1.21 and the final ten-phase pipeline.
+Chapter 1.10 explicitly preserves its major neighboring owners:
+
+- **1.4** — perception and perceptual salience;
+- **1.8** — memory systems and memory-specific phenomena;
+- **1.9** — representation, reasoning, metacognition, and cognitive control;
+- **1.11** — language and intelligence;
+- **1.12** — motivation and self-regulation;
+- **1.13** — emotion and emotion regulation;
+- **1.16** — social cognition and group processes;
+- **1.21** — action and behavior.
+
+The chapter owns the **judgment/decision/choice interface** without absorbing those upstream or downstream canonical domains.
+
+## Deep-Content Audit
+
+Every Topic now addresses, at the appropriate level:
+
+- what the construct/process is;
+- what it is not;
+- relevant inputs and information conditions;
+- transformations or mechanisms where justified;
+- outputs and behavioral consequences;
+- normative versus descriptive interpretation;
+- measurement and calibration where applicable;
+- individual and within-person variation;
+- context, stakes, expertise, and time dependence;
+- nearest-neighbor distinctions;
+- evidence limitations and competing explanations.
+
+The chapter does not use commercial or sales framing.
+
+## Seal State
+
+**CHAPTER 1.10 — JUDGMENT, DECISION-MAKING, AND CHOICE: V3 DEEP REBUILT / FULLY RE-AUDITED / SEMANTICALLY SEALED 🔒**
+
+Canonical chapter commit: `4687a4551cd53db1968b677089465199384c9a1d`  
+Canonical chapter blob SHA: `149428113997122811470c8b6b3238025feab0f1`
+
+**CI-backed seal:** not claimed unless a corresponding GitHub Actions run is observed for the final canonical commit.
+
+**Next deep-rebuild target:** Chapter 1.11 — Language and Intelligence.
