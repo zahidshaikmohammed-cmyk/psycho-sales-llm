@@ -1018,6 +1018,8 @@ Positive punishment reduces a behavior when an aversive stimulus is presented co
 
 Positive punishment occurs when adding a consequence after a behavior reduces the future probability of that behavior. “Positive” means addition, not beneficial or pleasant. The effect depends on whether the consequence reliably follows the behavior and actually reduces its later occurrence. Context, intensity, timing, competing consequences, and availability of alternative responses can change the result. Suppression may be specific to the trained context and may not generalize to other settings. Because punishment can alter behavior without teaching the desired alternative, behavioral analysis should distinguish response reduction from acquisition of a replacement behavior.
 
+Interpretation also depends on what happens to behavior after punishment. A response can decrease because the consequence changes its expected cost, because an alternative behavior becomes more attractive, or because the person avoids the context altogether. Punishment can therefore produce context-specific suppression without establishing durable change across settings. Measuring only immediate reduction misses these distinctions. A learning analysis should examine later choice, alternative responses, generalization, and whether behavior returns when the consequence is removed.
+
 ## 4. Relationship to This Chapter
 This is punishment through addition of a consequence, distinguished from negative punishment by the operation performed.
 
@@ -1091,6 +1093,8 @@ Primary does not mean permanently reinforcing or independent of all experience.
 A primary reinforcer derives reinforcing value from relatively basic biological needs or states. Its effectiveness can still vary with deprivation, satiation, learning history, and context.
 
 Primary reinforcers have reinforcing effects that are relatively closely tied to biological regulation or basic organismic needs, although their value remains state-dependent. Food, water, and temperature-related outcomes are common examples in relevant conditions. Primary does not mean universally reinforcing: deprivation, satiety, illness, developmental stage, and context can change their effectiveness. Learning can also alter how such outcomes are anticipated and valued. The concept is therefore useful for distinguishing relatively unlearned sources of reinforcement from conditioned reinforcers, while avoiding the assumption that biological relevance alone guarantees behavioral strengthening.
+
+Primary reinforcers are often treated as if their value were fixed, but physiological state is central to their operation. The same outcome can have different reinforcing value depending on deprivation, satiety, illness, stress, temperature, and competing needs. Their classification is therefore about the origin of reinforcing value, not a guarantee of effect. Primary outcomes can also become embedded in learned systems: cues predicting them can acquire conditioned reinforcing properties and can later support behavior even when the primary outcome is delayed.
 
 ## 4. Relationship to This Chapter
 This identifies relatively unlearned sources of reinforcement whose effectiveness remains state-dependent.
@@ -1239,6 +1243,8 @@ A variable-ratio schedule delivers reinforcement after an unpredictable number o
 
 Variable-ratio schedules reinforce after an unpredictable number of responses around a defined average. Because reinforcement cannot be predicted precisely from the immediately preceding response count, responding can be relatively persistent and show fewer predictable post-reinforcement pauses than many fixed-ratio arrangements. The pattern still depends on ratio size, outcome value, alternatives, and learning history. Variability in reinforcement does not mean behavior becomes random; the schedule itself creates a statistical structure that can sustain responding. Interpreting variable-ratio effects requires distinguishing the schedule from the subjective uncertainty of the learner and measuring actual response distributions.
 
+The distinction between fixed and variable ratio schedules is statistical rather than merely subjective. What matters is the distribution governing the number of responses required before reinforcement becomes available. Response patterns can change as the average ratio, variability, outcome value, and alternative activities change. A variable-ratio schedule can therefore produce different behavior at different parameter values, and apparent persistence may partly reflect the opportunity cost of stopping. Schedule effects should be interpreted from the actual contingency and observed response distribution.
+
 ## 4. Relationship to This Chapter
 This is response-count reinforcement with a variable requirement.
 
@@ -1276,6 +1282,8 @@ A fixed-interval schedule makes reinforcement available after a predictable time
 
 Fixed-interval schedules make reinforcement available after a predictable time interval, typically for the first appropriate response after the interval has elapsed. This arrangement can produce temporal patterns in which responding changes as the expected reinforcement time approaches. The pattern depends on interval duration, feedback, competing activities, and schedule history. Fixed-interval effects illustrate that organisms can learn temporal regularities rather than merely count responses. They should not be interpreted as a universal clock-like mechanism: timing behavior is influenced by context and task structure, and different measures reveal different aspects of temporal control.
 
+Fixed-interval effects also illustrate the difference between reinforcement availability and reinforcement delivery. The interval can make reinforcement available, but the organism must still perform the relevant response. Learning therefore involves both temporal estimation and the response requirement. The resulting pattern is influenced by the learner's ability to discriminate elapsed time, the consequences of responding too early, and the predictability of the interval. Fixed-interval behavior is thus a product of schedule structure plus learned timing, not a simple automatic response to a clock.
+
 ## 4. Relationship to This Chapter
 This is time-based reinforcement with a fixed interval.
 
@@ -1311,6 +1319,8 @@ The varying unit is elapsed time, unlike variable-ratio schedules where the resp
 A variable-interval schedule makes reinforcement available after unpredictable intervals. It tends to support relatively steady responding because the next opportunity cannot be located precisely in time.
 
 Variable-interval schedules make reinforcement available after unpredictable intervals, typically for the first appropriate response after each interval. Because the timing of availability varies, immediate response count provides limited information about when reinforcement can occur. This often supports relatively steady responding compared with many fixed-interval arrangements. Actual behavior still depends on interval distribution, reinforcer value, alternative activities, and prior experience. The construct is therefore about a contingency structure, not about randomness without constraints. The statistical properties of the schedule determine what temporal information is available to the learner.
+
+Variable-interval learning provides less precise information about when reinforcement will become available, but it does not remove temporal structure completely. The learner can still acquire an expectation about the distribution of possible intervals. Response stability therefore depends on both uncertainty and the statistical regularities embedded in the schedule. Changes in the mean interval, variability, reinforcer value, or competing opportunities can alter the resulting pattern. The schedule should be described by its actual distribution rather than by the everyday label “random.”
 
 ## 4. Relationship to This Chapter
 This is time-based reinforcement with a variable interval.
@@ -1681,6 +1691,8 @@ Perceived similarity, identification, credibility, observed outcome value, and p
 Vicarious learning occurs when consequences observed for another person alter the observer's behavior or expectations. It therefore expands learning beyond direct personal consequences.
 
 Vicarious learning occurs when observing another person's consequences changes the observer's future expectations or behavior. Seeing a behavior followed by success can increase its attractiveness, while seeing punishment can reduce willingness to perform it, without the observer directly receiving the consequence. Vicarious effects depend on how clearly the consequence is attributed to the model's behavior, how relevant the model is, and what alternatives are available. The process illustrates that social information can modify learning without direct trial-and-error experience. It also distinguishes learning from performance: an observer may acquire a response tendency while choosing not to express it immediately.
+
+Vicarious learning can change behavior through informational and motivational routes. Observing a consequence may alter beliefs about what is possible, what is rewarded, or what is risky, while also changing the observer's anticipated value of performing the behavior. These effects can occur even when the observer never experiences the consequence directly. However, observation does not guarantee acceptance of the model's outcome interpretation; prior beliefs, model credibility, and contradictory evidence can moderate learning. The mechanism therefore combines social information with the learner's existing knowledge and goals.
 
 ## 4. Relationship to This Chapter
 This is learning from observing another person's consequences.
