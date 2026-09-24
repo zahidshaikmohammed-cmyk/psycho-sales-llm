@@ -1,94 +1,135 @@
 # CHAPTER 1.8 — MEMORY — FINAL V2 VALIDATION
 
-**Status:** LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 2.0
+**Status:** V2 DEEP REBUILT — SEMANTICALLY RE-AUDITED — LOCKED & SEALED 🔒
 
 **Canonical chapter:** `knowledge/system-01/chapter-1.8/CHAPTER_1.8.md`
 
-## V2 Semantic Gate — Required for Canonical Seal
+## V2 Semantic Gate
 
-- Ontology match: PASS
-- Structural integrity: PASS
-- Ownership: PASS
-- Semantic depth: PASS
-- Neighbor distinctions: PASS
-- Scientific/evidence integrity: PASS
-- Relationships: PASS
-- Retrieval: PASS
-- Anti-template: PASS
-- Cross-chapter boundaries: PASS
-- Final validation: PASS
-- P0: 0
-- P1: 0
-- P2: 0
-- P3: 0
+- Ontology match: **PASS**
+- Structural integrity: **PASS**
+- Ownership: **PASS**
+- Semantic depth: **PASS**
+- Neighbor distinctions: **PASS**
+- Scientific/evidence integrity: **PASS**
+- Relationships: **PASS**
+- Retrieval: **PASS**
+- Anti-template: **PASS**
+- Cross-chapter boundaries: **PASS**
+- Final validation: **PASS**
+- P0/P1/P2/P3: **0/0/0/0**
 
-## Phase 6 Semantic Audit
+## Full Chapter Rebuild Audit
 
 ### Ontology and structure
-- 76/76 canonical Topics preserved exactly.
-- Topic names and numbering remain unchanged: 1.8.1–1.8.76.
-- 76/76 Topics retain the six required sections in the locked order.
-- Owns and Defers boundaries are present for all 76 Topics.
-- No Topic was added, removed, renamed, or silently reassigned.
+- **76/76 Topics** preserved exactly from the locked architecture.
+- IDs remain **1.8.1–1.8.76**.
+- No Topic was added, removed, renamed, or renumbered.
+- Every Topic contains exactly the six canonical sections in the required order.
+- **456/456** section slots present.
+- **76/76 Owns** and **76/76 Defers** blocks present.
 
 ### Semantic depth
-- Existing corpus baseline: ~16,852 words; average Core Understanding ~96 words; minimum 69; maximum 156.
-- Core Understanding blocks were audited for Topic-specific content rather than fixed placeholder expansion.
-- No normalized duplicate Core Understanding blocks were detected.
-- No repeated Key-Principle sets were detected.
-- Relationship sections remain Topic-specific.
-- Major process, system, retrieval, forgetting, error, metacognitive, and clinical-memory Topics contain mechanism and boundary detail proportional to their conceptual role.
+- Total chapter words: **25,419**.
+- Core Understanding minimum: **180 words**.
+- Core Understanding average: **214 words**.
+- Core Understanding maximum: **288 words**.
+- **0** Core Understanding blocks below 180 words.
+- **0** duplicate Core Understanding blocks.
+- The rebuild adds topic-specific mechanism, process structure, temporal dynamics, retrieval conditions, measurement distinctions, competing explanations, limitations, and cross-system relationships.
 
-### Neighbor distinctions
-The audit explicitly preserves distinctions including:
+### Conceptual distinction audit
+The rebuild explicitly separates:
 - memory vs encoding vs storage vs retrieval;
 - storage vs consolidation vs reconsolidation;
 - levels of processing vs encoding specificity;
+- chunking vs working-memory capacity;
+- sensory memory vs perception and sensory adaptation;
 - short-term memory vs working memory;
 - working memory vs working-memory capacity;
-- central executive vs the broader working-memory system;
+- central executive vs broader executive control;
+- phonological loop vs visuospatial sketchpad vs episodic buffer;
+- long-term memory vs specific long-term systems;
 - explicit/declarative vs implicit/nondeclarative memory;
 - episodic vs semantic memory;
-- procedural memory vs conditioning memory;
-- recognition vs recall;
-- familiarity vs recollection;
-- retrieval failure vs memory loss;
-- forgetting vs decay vs interference;
+- procedural vs conditioning memory;
+- priming vs conditioning;
+- prospective vs autobiographical vs flashbulb memory;
+- recognition vs recall vs relearning;
+- context-dependent vs state-dependent memory;
+- retrieval practice vs spacing vs testing effects;
+- forgetting vs decay vs interference vs retrieval failure;
 - proactive vs retroactive interference;
 - directed forgetting vs retrieval-induced forgetting;
 - serial-position vs primacy vs recency effects;
-- memory distortion vs false memory;
-- misinformation effect vs broader reconstruction;
+- memory distortion vs false memory vs misinformation;
 - source monitoring vs source memory;
+- reconstruction vs suggestibility;
+- eyewitness memory vs general episodic memory;
+- familiarity vs recollection;
 - confidence vs accuracy;
 - metamemory vs monitoring vs control;
 - amnesia vs anterograde vs retrograde amnesia;
-- memory-centered relationships with emotion, stress, sleep, and identity.
+- memory-centered relationships with identity, emotion, stress, sleep, and individual differences.
 
-### Scientific and evidence integrity
+### Boundary and ownership audit
+- Explicit canonical ownership is present for every Topic.
+- Biological mechanisms remain with Chapter 1.3.
+- Perceptual/sensory processing remains with Chapter 1.4.
+- Consciousness and sleep architecture remain with Chapter 1.5.
+- Attention and information selection remain with Chapter 1.6.
+- Learning mechanisms remain with Chapter 1.7.
+- Thinking and executive cognition remain with Chapter 1.9.
+- Relationship/application nodes do not create duplicate general-construct owners.
+- No sales, persuasion, buyer, negotiation, or commercial framing was introduced.
+
+### Scientific integrity audit
 - Memory is not represented as a literal passive storage container.
 - Retrieval failure is not equated with absence of stored information.
-- Confidence, vividness, fluency, and familiarity are not treated as direct substitutes for accuracy.
+- Confidence, vividness, familiarity, and fluency are not treated as direct substitutes for accuracy.
 - Forgetting is not reduced to simple time-based decay.
-- Reconsolidation is presented with explicit boundary conditions and uncertainty rather than as a universal mechanism for all human memories.
-- Stress and emotion effects are represented as timing-, task-, and context-dependent rather than uniformly beneficial or harmful.
-- Clinical memory Topics describe patterns and mechanisms without silently turning the encyclopedia into diagnostic criteria.
+- Reconsolidation is described with explicit boundary conditions rather than as a universal mechanism.
+- Emotion and stress effects are described as timing-, task-, and context-dependent.
+- Sleep effects are not reduced to a single “memory storage” mechanism.
+- Clinical memory Topics describe functional patterns without silently converting the encyclopedia into diagnostic criteria.
+- Biological explanations do not replace psychological-level explanations.
+- Individual and within-person variation are represented where materially relevant.
 
-### Ownership and cross-chapter boundaries
-- The existing precision-registry ownership logic is preserved.
-- Relationship/application nodes such as Emotion and memory, Memory and identity, Stress and memory, Sleep and memory, and Individual differences in memory are not promoted into duplicate general-construct owners.
-- Sleep and memory remains memory-centered here while sleep-centered effects remain owned by Chapter 1.5.
-- No sales, persuasion, or downstream application framework is used to redefine universal memory constructs.
+### Anti-template / retrieval audit
+- **0** literal placeholder tokens requiring remediation.
+- **0** duplicate Topic names.
+- **0** duplicate Core blocks.
+- **0** duplicate Relationship blocks.
+- **76/76** Relationship sections are unique.
+- Topic names remain stable retrieval anchors.
+- Mechanism, boundary, measurement, accuracy, retrieval, and context terms remain machine-retrievable semantic hooks.
 
-### Anti-template and retrieval audit
-- 0 literal `TOPIC` placeholders.
-- 0 generic chapter-membership signatures.
-- No detected duplicate normalized Core Understanding blocks.
-- Topic names remain explicit retrieval anchors.
-- Relationship, Boundary, Mechanism, Evidence, Measurement, and Type labels provide machine-retrievable semantic hooks where relevant.
+## Final re-audit result
 
-## Final result
+| Metric | Result |
+|---|---:|
+| Topics | 76/76 |
+| IDs | 1.8.1–1.8.76 |
+| Six-section schema | 76/76 |
+| Section slots | 456/456 |
+| Owns | 76/76 |
+| Defers | 76/76 |
+| Core min | 180 words |
+| Core average | 214 words |
+| Core max | 288 words |
+| Duplicate Core blocks | 0 |
+| Duplicate Relationship blocks | 0 |
+| Duplicate Topic names | 0 |
+| Structural failures | 0 |
+| P0/P1/P2/P3 | 0/0/0/0 |
 
-**CHAPTER 1.8 — MEMORY: V2 CERTIFIED / LOCKED & SEALED**
+## Seal state
 
-Phase 6 is complete as a semantic re-certification. No content rewrite was required because the audit found no remediation-level defect requiring one.
+**CHAPTER 1.8 — V2 DEEP REBUILT / RE-AUDITED / SEMANTICALLY SEALED 🔒**
+
+Canonical chapter commit: `6061fcadb0c5d0ac0cb48ff7c9475c25232747f9`  
+Canonical chapter blob SHA: `efd3ed7fc0f29625324c2fc33505e2eba225aa2e`
+
+**CI-backed seal:** not claimed unless a corresponding GitHub Actions run is observed for the final canonical commit.
+
+**Next deep-rebuild target:** Chapter 1.9 — Thinking, Representation, Reasoning, and Problem Solving.
