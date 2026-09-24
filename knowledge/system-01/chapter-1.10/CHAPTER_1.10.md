@@ -38,13 +38,15 @@ For Judgment, the critical analytical question is what information is being tran
 Judgment supplies evaluative inputs to decision-making and choice. It draws on representation and reasoning from Chapter 1.9, memory from 1.8, perception from 1.4, and social cognition from 1.16.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not equate judgment with choice, action, opinion, or moral judgment. A judgment may be revised without any action following it.
 
 ### Owns
 Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers the broader decision foundations preceding this Topic where that neighboring construct has the narrower preceding scope, and defers Decision-making where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Judgments depend on evidence, representation, goals, and context.
@@ -74,13 +76,15 @@ For Decision-making, the critical analytical question is what information is bei
 Decision-making integrates judgment, preferences, reasoning, memory, emotion, motivation, and action control. It is the central process-level object of this chapter and interfaces with executive cognition in 1.9 and action in 1.21.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not define every behavior as a decision; habitual or reflexive behavior may occur without meaningful option evaluation. Do not judge a decision solely from its outcome.
 
 ### Owns
 Decision-making is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Judgment where that neighboring construct has the narrower preceding scope, and defers Choice where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Decisions connect alternatives, consequences, preferences, and action.
@@ -110,13 +114,15 @@ For Choice, the critical analytical question is what information is being transf
 Choice receives inputs from preference, judgment, and decision processes and can itself provide evidence about preferences. Choice architecture later in the chapter alters the environment in which choices are produced.
 
 ## 5. Boundaries
+## 5. Boundaries
 Choice is not synonymous with free will, preference, or decision-making. An observed choice does not uniquely identify its psychological cause.
 
 ### Owns
 Choice is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Decision-making where that neighboring construct has the narrower preceding scope, and defers Preference where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Choice is an outcome of selection, not a complete explanation of selection.
@@ -148,13 +154,15 @@ For Preference construction, the critical analytical question is what informatio
 Preferences connect values, goals, affect, motivation, and choice. Preference construction and reversal show why decision environments can influence preference expression.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not assume preferences are fixed traits, perfectly introspectable, or identical to observed choices. Preference is broader than economic utility.
 
 ### Owns
 Preference is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Choice where that neighboring construct has the narrower preceding scope, and defers Preference construction where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Preferences are comparative and context-sensitive.
@@ -184,13 +192,15 @@ For Preference reversal, the critical analytical question is what information is
 Preference construction links choice architecture, framing, reference dependence, and individual goals. It also connects to Chapter 1.9 because representations determine which attributes and comparisons enter the process.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not treat constructed preference as evidence that all preferences are unstable or fictitious. Construction concerns formation or elicitation, not mere preference change after new information.
 
 ### Owns
 Preference construction is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Preference where that neighboring construct has the narrower preceding scope, and defers Preference reversal where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Preferences can be assembled during comparison.
@@ -222,13 +232,15 @@ For Decision under risk, the critical analytical question is what information is
 Preference reversal follows naturally from preference construction and interacts with framing, elicitation, reference dependence, and choice architecture. It connects to judgment because evaluation procedures determine what is compared.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not call every changed preference a reversal. New evidence, changed goals, or changed consequences may produce justified preference revision.
 
 ### Owns
 Preference reversal is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Preference construction where that neighboring construct has the narrower preceding scope, and defers Decision under certainty where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Reversal is defined relative to a comparison or elicitation change.
@@ -258,13 +270,15 @@ For Decision under uncertainty, the critical analytical question is what informa
 Certainty provides the baseline against which risk, uncertainty, and ambiguity are distinguished. Expected value and utility become conceptually simpler when outcome probabilities are not in question.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not equate certainty with complete knowledge, high confidence, or absence of cognitive bias. A person can feel certain while the environment remains uncertain.
 
 ### Owns
 Decision under certainty is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Preference reversal where that neighboring construct has the narrower preceding scope, and defers Decision under risk where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Certainty concerns the structure of outcomes, not subjective confidence.
@@ -294,13 +308,15 @@ For Decision under ambiguity, the critical analytical question is what informati
 Risk is the bridge between probability judgment and decision theory. Probability weighting, risk perception, and prospect theory describe psychological transformations of the information available under risk.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not equate risk with danger or loss. Risk can involve gains, losses, or neutral outcomes whenever probabilistic uncertainty matters.
 
 ### Owns
 Decision under risk is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Decision under certainty where that neighboring construct has the narrower preceding scope, and defers Decision under uncertainty where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Risk requires usable probability structure.
@@ -332,13 +348,15 @@ For Expected utility, the critical analytical question is what information is be
 Uncertainty connects to subjective probability, bounded rationality, ambiguity aversion, and naturalistic decision-making. Chapter 1.9 contributes the reasoning and representation processes through which uncertain situations are modelled.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not use uncertainty as a synonym for low probability, risk, ignorance, or anxiety. Uncertainty concerns knowledge about possible outcomes and their probabilities.
 
 ### Owns
 Decision under uncertainty is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Decision under risk where that neighboring construct has the narrower preceding scope, and defers Decision under ambiguity where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Unknown probabilities distinguish uncertainty from standard risk.
@@ -370,13 +388,15 @@ For Satisficing, the critical analytical question is what information is being t
 Ambiguity underlies ambiguity aversion and interacts with risk perception, subjective probability, information search, and framing. It is closely related to but not interchangeable with general uncertainty.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not define ambiguity as any confusing situation. The defining issue is incomplete or contested probability information.
 
 ### Owns
 Decision under ambiguity is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Decision under uncertainty where that neighboring construct has the narrower preceding scope, and defers Expected value where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Ambiguity concerns uncertainty about probabilities.
@@ -406,13 +426,15 @@ For Bounded rationality, the critical analytical question is what information is
 Expected value is foundational for understanding expected utility and probability-based decision models. Psychological deviations from it motivate research on probability weighting, loss aversion, and prospect theory.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not equate expected value with expected utility or with the most likely outcome. Expected value is a calculation, not a psychological bias.
 
 ### Owns
 Expected value is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Decision under ambiguity where that neighboring construct has the narrower preceding scope, and defers Expected utility where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Expected value combines outcomes with probabilities.
@@ -444,13 +466,15 @@ For Representativeness heuristic, the critical analytical question is what infor
 Expected utility connects preference, subjective probability, risk, and rational choice models. Prospect theory later modifies how outcomes and probabilities are represented and evaluated.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not treat expected utility as a descriptive claim that humans literally calculate it. Do not equate utility with emotion or monetary amount.
 
 ### Owns
 Expected utility is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Expected value where that neighboring construct has the narrower preceding scope, and defers Subjective probability where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Utility represents preference over consequences.
@@ -480,13 +504,15 @@ For Anchoring, the critical analytical question is what information is being tra
 Subjective probability links judgment to risk, uncertainty, calibration, Bayesian reasoning from Chapter 1.2, and probability weighting in this chapter.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not equate subjective probability with confidence, certainty, frequency, or objective probability. Confidence can concern one's answer while probability concerns the event.
 
 ### Owns
 Subjective probability is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Expected utility where that neighboring construct has the narrower preceding scope, and defers Satisficing where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Subjective probability represents belief, not guaranteed truth.
@@ -518,13 +544,15 @@ For Recognition heuristic, the critical analytical question is what information 
 Satisficing is central to bounded rationality and naturalistic decision-making. It contrasts with idealized maximization while preserving a goal-directed decision process.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not equate satisficing with laziness, irrationality, or settling without criteria. It requires an adequacy threshold and a stopping rule.
 
 ### Owns
 Satisficing is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Subjective probability where that neighboring construct has the narrower preceding scope, and defers Bounded rationality where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Search has costs as well as benefits.
@@ -554,13 +582,15 @@ For Affect heuristic, the critical analytical question is what information is be
 This chapter owns bounded rationality. It links satisficing, heuristics, naturalistic decision-making, and decision errors while connecting to executive limits in 1.9.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not treat bounded rationality as a synonym for cognitive bias, irrationality, or low intelligence. It is a framework for resource-constrained decision behavior.
 
 ### Owns
 Bounded rationality is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Satisficing where that neighboring construct has the narrower preceding scope, and defers Availability heuristic where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Rational action is constrained by real resources.
@@ -590,13 +620,15 @@ For Attribute substitution, the critical analytical question is what information
 Availability links judgment to memory accessibility in 1.8 and affective or perceptual salience. It is distinct from representativeness, which relies more on similarity to a prototype or pattern.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not define availability as memory retrieval itself. Accessibility is the cue; the judgment concerns a different property such as frequency or probability.
 
 ### Owns
 Availability heuristic is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Bounded rationality where that neighboring construct has the narrower preceding scope, and defers Representativeness heuristic where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Accessibility can serve as an inferential shortcut.
@@ -628,13 +660,15 @@ For Reference dependence, the critical analytical question is what information i
 Representativeness interfaces with categorization, prototypes, and reasoning in Chapter 1.9 and with base-rate neglect and conjunction errors in this chapter.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not equate representativeness with stereotyping in every case. Similarity-based inference is broader and can operate outside social categories.
 
 ### Owns
 Representativeness heuristic is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Availability heuristic where that neighboring construct has the narrower preceding scope, and defers Anchoring where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Similarity can be an efficient but incomplete cue.
@@ -666,13 +700,15 @@ For Endowment effect, the critical analytical question is what information is be
 Anchoring interacts with adjustment, reference dependence, framing, and numerical judgment. It should be distinguished from priming and from ordinary use of a legitimate reference value.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not treat every reference point as an anchoring error. Relevant baseline information can appropriately influence estimates.
 
 ### Owns
 Anchoring is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Representativeness heuristic where that neighboring construct has the narrower preceding scope, and defers Adjustment where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Initial values can shift subsequent estimates.
@@ -702,13 +738,15 @@ For Status quo bias, the critical analytical question is what information is bei
 Adjustment is paired with anchoring but is not identical to it. It also draws on updating and cognitive control described in Chapter 1.9.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not define adjustment as inherently insufficient or erroneous. The construct refers to movement from an initial estimate; adequacy is an empirical question.
 
 ### Owns
 Adjustment is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Anchoring where that neighboring construct has the narrower preceding scope, and defers Recognition heuristic where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Anchoring concerns influence of a starting point.
@@ -740,13 +778,15 @@ For Present bias, the critical analytical question is what information is being 
 Recognition draws on memory and knowledge representation in 1.8 and 1.9 and exemplifies bounded rationality. It differs from availability because recognition asks whether an item is known, not how easily examples come to mind.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not equate recognition with familiarity strength or expertise. The heuristic specifically concerns recognition status as a decision cue.
 
 ### Owns
 Recognition heuristic is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Adjustment where that neighboring construct has the narrower preceding scope, and defers Affect heuristic where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Simple cues can outperform complex strategies in suitable environments.
@@ -776,13 +816,15 @@ For Temporal discounting, the critical analytical question is what information i
 Affect-based judgment connects decision-making with emotion in Chapter 1.13, memory associations in 1.8, and risk perception in this chapter.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not equate affect heuristic with all emotional influence on decisions. It refers specifically to affective valence functioning as a judgmental cue.
 
 ### Owns
 Affect heuristic is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Recognition heuristic where that neighboring construct has the narrower preceding scope, and defers Attribute substitution where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Affect can serve as a rapid summary cue.
@@ -814,13 +856,15 @@ For Probability weighting, the critical analytical question is what information 
 Attribute substitution provides a mechanistic bridge among several heuristics in this chapter and links to mental representation and cognitive control in 1.9.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not treat every shortcut as attribute substitution. The defining feature is replacement of a difficult target attribute with an easier proxy.
 
 ### Owns
 Attribute substitution is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Affect heuristic where that neighboring construct has the narrower preceding scope, and defers Framing effect where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Difficult judgments can recruit easier proxy questions.
@@ -850,13 +894,15 @@ For Base-rate neglect, the critical analytical question is what information is b
 Framing interacts with reference dependence, loss aversion, choice architecture, and judgment. It also connects to representation in 1.9 because changing the representation can change the evaluated problem.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not call any persuasive wording a framing effect. The construct requires a meaningful comparison of equivalent or substantively matched alternatives.
 
 ### Owns
 Framing effect is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Attribute substitution where that neighboring construct has the narrower preceding scope, and defers Reference dependence where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Representation can alter evaluation without altering core consequences.
@@ -888,13 +934,15 @@ For Gambler's fallacy, the critical analytical question is what information is b
 Reference dependence is central to prospect theory and helps explain loss aversion, endowment effects, status quo effects, and framing.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not equate reference points with arbitrary anchors. Reference dependence concerns the evaluative baseline against which outcomes are coded.
 
 ### Owns
 Reference dependence is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Framing effect where that neighboring construct has the narrower preceding scope, and defers Loss aversion where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Absolute outcomes can acquire different values relative to different baselines.
@@ -924,13 +972,15 @@ For Hot-hand belief, the critical analytical question is what information is bei
 Loss aversion depends on reference dependence and is distinct from risk aversion. It also contributes to endowment, status quo, and framing phenomena.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not assume every loss is more important than every gain, or that loss aversion is identical to risk aversion.
 
 ### Owns
 Loss aversion is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Reference dependence where that neighboring construct has the narrower preceding scope, and defers Endowment effect where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Losses are evaluated relative to reference points.
@@ -962,13 +1012,15 @@ For Calibration, the critical analytical question is what information is being t
 The endowment effect is related to reference dependence and loss aversion and can influence preference elicitation and exchange behavior.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not equate ownership with attachment, nor assume every owner values an object more. Experimental method and item type matter.
 
 ### Owns
 Endowment effect is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Loss aversion where that neighboring construct has the narrower preceding scope, and defers Status quo bias where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Possession can change valuation.
@@ -998,13 +1050,15 @@ For Confirmation bias, the critical analytical question is what information is b
 Status quo bias overlaps with default effects but is broader: a status quo can persist even without a formal default. It connects to choice architecture and preference construction.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not infer status quo bias whenever someone chooses the current option. Continuing may be objectively preferable or less costly.
 
 ### Owns
 Status quo bias is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Endowment effect where that neighboring construct has the narrower preceding scope, and defers Default effect where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • The current state can exert special psychological weight.
@@ -1036,13 +1090,15 @@ For Self-serving bias, the critical analytical question is what information is b
 Default effects are a specific form of choice architecture and can contribute to status quo persistence. They also intersect with bounded rationality and attention.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not equate defaults with coercion. A default changes the structure of choice but does not necessarily eliminate alternatives.
 
 ### Owns
 Default effect is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Status quo bias where that neighboring construct has the narrower preceding scope, and defers Present bias where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Preselection can alter behavior without removing options.
@@ -1072,13 +1128,15 @@ For Hindsight bias, the critical analytical question is what information is bein
 Present bias is closely related to temporal and hyperbolic discounting but is not identical to all delay discounting. It connects to self-regulation in 1.12 and preference construction in this chapter.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not equate present bias with impatience in every sense. The distinctive issue is disproportionate weighting of the present that can generate preference reversals.
 
 ### Owns
 Present bias is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Default effect where that neighboring construct has the narrower preceding scope, and defers Temporal discounting where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Present bias can produce time-inconsistent preferences.
@@ -1110,13 +1168,15 @@ For Omission bias, the critical analytical question is what information is being
 Temporal discounting provides the broader framework within which present bias and hyperbolic discounting are interpreted. It interfaces with motivation and self-regulation in 1.12.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not equate discounting with present bias. A person can discount future value without exhibiting the distinctive time inconsistency associated with present bias.
 
 ### Owns
 Temporal discounting is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Present bias where that neighboring construct has the narrower preceding scope, and defers Hyperbolic discounting where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Delay and subjective value are systematically related.
@@ -1146,13 +1206,15 @@ For Planning fallacy, the critical analytical question is what information is be
 It formalizes one account of temporal discounting and helps explain present bias and self-control conflicts. It should remain distinct from the broader construct of temporal discounting.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not claim that all human delay discounting is exactly hyperbolic or that the model alone identifies mechanism.
 
 ### Owns
 Hyperbolic discounting is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Temporal discounting where that neighboring construct has the narrower preceding scope, and defers Probability weighting where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Functional form matters for predicted preference reversals.
@@ -1184,13 +1246,15 @@ For Escalation of commitment, the critical analytical question is what informati
 Probability weighting links subjective probability to prospect theory, risk perception, and decisions under risk. It is distinct from base-rate neglect, which concerns use of statistical prevalence information.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not treat every probability error as probability weighting. Estimation errors and decision weights are conceptually separable.
 
 ### Owns
 Probability weighting is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Hyperbolic discounting where that neighboring construct has the narrower preceding scope, and defers Base-rate neglect where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Decision weight need not equal stated probability.
@@ -1220,13 +1284,15 @@ For Sunk-cost effect, the critical analytical question is what information is be
 Base-rate neglect is strongly connected to representativeness and Bayesian reasoning. It also illustrates the interaction between mental representation in 1.9 and statistical inference in 1.2.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not call any disagreement with a base rate neglect. The base rate must be relevant and properly specified for the inference.
 
 ### Owns
 Base-rate neglect is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Probability weighting where that neighboring construct has the narrower preceding scope, and defers Conjunction fallacy where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Background prevalence can be diagnostically important.
@@ -1258,13 +1324,15 @@ For Decision fatigue, the critical analytical question is what information is be
 Conjunction errors connect to representativeness, probability judgment, and mental representation. They belong to judgment rather than being evidence that people lack all probabilistic reasoning.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not infer the fallacy from a verbal ranking unless the probability comparison is genuinely the same event structure.
 
 ### Owns
 Conjunction fallacy is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Base-rate neglect where that neighboring construct has the narrower preceding scope, and defers Gambler's fallacy where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Conjunction probability is bounded by component probability.
@@ -1294,13 +1362,15 @@ For Regret, the critical analytical question is what information is being transf
 This phenomenon connects to probabilistic reasoning in 1.9 and to hot-hand beliefs, which can involve the opposite direction of perceived sequence dependence.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not label all sequence-based predictions gambler's fallacy. Dependence in the generating process can make history genuinely informative.
 
 ### Owns
 Gambler's fallacy is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Conjunction fallacy where that neighboring construct has the narrower preceding scope, and defers Hot-hand belief where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Independence means prior outcomes do not alter the next-event probability.
@@ -1332,13 +1402,15 @@ For Ambiguity aversion, the critical analytical question is what information is 
 Hot-hand belief contrasts with the gambler's fallacy and connects to causal reasoning, statistical inference, and outcome interpretation.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not assume every observed streak proves a hot hand, nor that every belief in streaks is erroneous.
 
 ### Owns
 Hot-hand belief is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Gambler's fallacy where that neighboring construct has the narrower preceding scope, and defers Overconfidence where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Predictive value of streaks depends on process dependence.
@@ -1370,13 +1442,15 @@ For Rational choice models, the critical analytical question is what information
 Overconfidence connects to calibration, metacognitive monitoring in 1.9, and judgment accuracy. It can affect forecasting, planning, and belief revision.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not infer overconfidence merely from confident language or from a wrong answer. Confidence must be evaluated against a suitable accuracy or calibration criterion.
 
 ### Owns
 Overconfidence is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Hot-hand belief where that neighboring construct has the narrower preceding scope, and defers Calibration where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Confidence and accuracy are separable.
@@ -1406,13 +1480,15 @@ For Expected utility theory, the critical analytical question is what informatio
 Calibration provides a key empirical counterpart to subjective probability and overconfidence. It also relates to metacognitive monitoring and statistical reasoning.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not equate calibration with accuracy, intelligence, or confidence. Calibration concerns correspondence between stated probabilities and observed frequencies.
 
 ### Owns
 Calibration is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Overconfidence where that neighboring construct has the narrower preceding scope, and defers Confirmation bias where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Calibration is assessed across repeated predictions.
@@ -1442,13 +1518,15 @@ For Prospect theory, the critical analytical question is what information is bei
 Confirmation bias connects to belief perseverance, belief revision, memory, and reasoning. Chapter 1.9 owns general belief representation and reasoning mechanisms; this chapter focuses on their role in judgment and decision contexts.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not call ordinary belief-consistent reasoning confirmation bias. The defining issue is systematic asymmetry that impairs appropriate evidence evaluation.
 
 ### Owns
 Confirmation bias is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Calibration where that neighboring construct has the narrower preceding scope, and defers Belief perseverance where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Prior beliefs shape information processing.
@@ -1480,13 +1558,15 @@ For Naturalistic decision-making, the critical analytical question is what infor
 Belief perseverance connects to belief revision and knowledge structures in 1.9 and to confirmation bias in this chapter.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not label a stable belief as perseverance without showing that its supporting evidence was meaningfully undermined or withdrawn.
 
 ### Owns
 Belief perseverance is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Confirmation bias where that neighboring construct has the narrower preceding scope, and defers Self-serving bias where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Belief persistence can outlast its initiating evidence.
@@ -1516,13 +1596,15 @@ For Choice architecture, the critical analytical question is what information is
 It connects social attribution in 1.16 with self, identity, emotion, and belief processes. It can influence retrospective judgment and future decisions.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not equate self-serving bias with lying, narcissism, or deliberate excuse-making. The process can occur without conscious intent.
 
 ### Owns
 Self-serving bias is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Belief perseverance where that neighboring construct has the narrower preceding scope, and defers Hindsight bias where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Attribution can protect or enhance self-evaluation.
@@ -1554,13 +1636,15 @@ For Debiasing, the critical analytical question is what information is being tra
 Hindsight bias is crucial for evaluating decision quality without outcome contamination. It connects to memory reconstruction in 1.8 and causal reasoning in 1.9.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not infer hindsight bias simply because an outcome now seems explainable. The relevant comparison is between post-outcome and reconstructed pre-outcome predictability.
 
 ### Owns
 Hindsight bias is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Self-serving bias where that neighboring construct has the narrower preceding scope, and defers Outcome bias where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Outcome knowledge changes retrospective interpretation.
@@ -1590,13 +1674,15 @@ For Decision errors, the critical analytical question is what information is bei
 Outcome bias complements hindsight bias but differs in target: hindsight concerns perceived predictability; outcome bias concerns evaluation of the decision itself. It also links to moral judgment.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not ignore outcomes entirely. Consequences can legitimately matter when the criterion is consequential performance; outcome bias concerns inappropriate substitution of result for process.
 
 ### Owns
 Outcome bias is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Hindsight bias where that neighboring construct has the narrower preceding scope, and defers Omission bias where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Outcome and decision quality are not identical.
@@ -1628,13 +1714,15 @@ For Group decision-making, the critical analytical question is what information 
 Omission bias connects decision-making with moral judgment, responsibility attribution, and status quo effects. Moral psychology is cross-linked but not owned as a separate construct here.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not equate omission bias with every preference for non-action. Responsibility and outcome asymmetries may make omission objectively different.
 
 ### Owns
 Omission bias is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Outcome bias where that neighboring construct has the narrower preceding scope, and defers Planning fallacy where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Action and omission can receive different causal and moral weights.
@@ -1664,13 +1752,15 @@ A deeper interpretation of Planning fallacy requires separating the phenomenon f
 Planning fallacy links decision-making to prospective thinking and planning in 1.9, optimism bias, and reference-class information in judgment.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not equate planning fallacy with any failed plan. Failure caused by unforeseeable events is not necessarily a systematic forecasting bias.
 
 ### Owns
 Planning fallacy is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Omission bias where that neighboring construct has the narrower preceding scope, and defers Optimism bias where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Inside-view detail can crowd out reference-class information.
@@ -1700,13 +1790,15 @@ A deeper interpretation of Optimism bias requires separating the phenomenon from
 Optimism bias connects to planning fallacy, risk perception, subjective probability, and motivation in 1.12.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not equate optimism bias with positive mood, hope, confidence, or personality optimism. Bias requires an appropriate evidential comparison.
 
 ### Owns
 Optimism bias is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Planning fallacy where that neighboring construct has the narrower preceding scope, and defers Escalation of commitment where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Optimistic expectations can affect both motivation and risk assessment.
@@ -1736,13 +1828,15 @@ A deeper interpretation of Escalation of commitment requires separating the phen
 Escalation interacts with sunk-cost effects, self-serving processes, regret, and decision revision. It also depends on belief updating in 1.9.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not label persistence irrational merely because a project has previously failed. New evidence can rationally justify continuation.
 
 ### Owns
 Escalation of commitment is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Optimism bias where that neighboring construct has the narrower preceding scope, and defers Sunk-cost effect where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Past commitment can distort forward-looking decisions.
@@ -1772,13 +1866,15 @@ A deeper interpretation of Sunk-cost effect requires separating the phenomenon f
 Sunk-cost effects are one contributor to escalation of commitment and interact with loss aversion and regret.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not treat all continuation after spending as sunk-cost reasoning. Relevant new information can justify continuation.
 
 ### Owns
 Sunk-cost effect is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Escalation of commitment where that neighboring construct has the narrower preceding scope, and defers Choice overload where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Irrecoverable costs are not future costs.
@@ -1808,13 +1904,15 @@ A deeper interpretation of Choice overload requires separating the phenomenon fr
 Choice overload connects to bounded rationality, attention, preference construction, and choice architecture. It can also contribute to postponement or default selection.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not claim that more choice always decreases satisfaction. Effects are conditional on task and option structure.
 
 ### Owns
 Choice overload is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Sunk-cost effect where that neighboring construct has the narrower preceding scope, and defers Decision fatigue where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Choice-set size interacts with complexity and decision strategy.
@@ -1844,13 +1942,15 @@ A deeper interpretation of Decision fatigue requires separating the phenomenon f
 Decision fatigue interfaces with cognitive control in 1.9 and self-regulation in 1.12, and with choice architecture when simplifying decisions reduces demand.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not equate decision fatigue with general tiredness or claim a fixed resource depletion mechanism without evidence.
 
 ### Owns
 Decision fatigue is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Choice overload where that neighboring construct has the narrower preceding scope, and defers Regret where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Sustained decision demands can alter later performance.
@@ -1880,13 +1980,15 @@ A deeper interpretation of Regret requires separating the phenomenon from the be
 Regret connects emotion in 1.13 with counterfactual thinking in 1.9 and anticipated regret in this chapter.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not equate regret with any negative emotion after failure. The counterfactual comparison and decision linkage are central.
 
 ### Owns
 Regret is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Decision fatigue where that neighboring construct has the narrower preceding scope, and defers Anticipated regret where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Regret is counterfactual and decision-linked.
@@ -1916,13 +2018,15 @@ A deeper interpretation of Anticipated regret requires separating the phenomenon
 Anticipated regret links prospective thinking in 1.9 with regret, risk perception, and choice. It can also interact with omission and status quo effects.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not infer anticipated regret merely from cautious choice. The mechanism requires an expectation of future counterfactual regret.
 
 ### Owns
 Anticipated regret is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Regret where that neighboring construct has the narrower preceding scope, and defers Ambiguity aversion where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Future emotional consequences can enter present choice.
@@ -1952,13 +2056,15 @@ A deeper interpretation of Ambiguity aversion requires separating the phenomenon
 Ambiguity aversion is the behavioral counterpart of decision under ambiguity and relates to subjective probability and risk perception.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not equate ambiguity aversion with general risk aversion. A person can dislike ambiguous probabilities while tolerating known-risk gambles.
 
 ### Owns
 Ambiguity aversion is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Anticipated regret where that neighboring construct has the narrower preceding scope, and defers Risk perception where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Ambiguity concerns probability uncertainty.
@@ -1988,13 +2094,15 @@ A deeper interpretation of Risk perception requires separating the phenomenon fr
 Risk perception integrates judgment, affect, probability beliefs, and framing. It connects to the affect heuristic, optimism, ambiguity, and prospect theory and draws on perception and emotion from earlier chapters.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not equate perceived risk with objective risk. Do not treat all divergence as bias without specifying the benchmark and decision criterion.
 
 ### Owns
 Risk perception is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Ambiguity aversion where that neighboring construct has the narrower preceding scope, and defers Rational choice models where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Risk has both objective and subjective representations.
@@ -2024,13 +2132,15 @@ A deeper interpretation of Rational choice models requires separating the phenom
 Rational choice provides the normative reference point for expected utility, bounded rationality, prospect theory, and debiasing.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not use “rational” as a global judgment of a person. The model's rationality is defined by formal assumptions and the decision environment.
 
 ### Owns
 Rational choice models is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Risk perception where that neighboring construct has the narrower preceding scope, and defers Expected utility theory where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Normative coherence is model-relative.
@@ -2060,13 +2170,15 @@ A deeper interpretation of Expected utility theory requires separating the pheno
 It formalizes expected utility and interfaces with prospect theory, rational choice, risk, and preference representation.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not equate expected utility theory with a claim that people literally maximize expected utility in every decision.
 
 ### Owns
 Expected utility theory is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Rational choice models where that neighboring construct has the narrower preceding scope, and defers Prospect theory where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • It is a formal theory of preference under risk.
@@ -2096,13 +2208,15 @@ A deeper interpretation of Prospect theory requires separating the phenomenon fr
 Prospect theory integrates reference dependence, loss aversion, probability weighting, and risk perception. It connects this chapter's phenomena to formal decision modelling.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not treat prospect theory as a universal theory of all judgment or as proof that every decision exhibits the same parameter values.
 
 ### Owns
 Prospect theory is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Expected utility theory where that neighboring construct has the narrower preceding scope, and defers Dual-process accounts where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Outcomes are coded relative to reference points.
@@ -2132,13 +2246,15 @@ A deeper interpretation of Dual-process accounts requires separating the phenome
 Dual-process accounts connect judgment, heuristics, debiasing, and cognitive control in 1.9. They can organize but should not replace mechanism-specific explanations.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not equate fast with irrational and slow with rational. Nor should every cognitive phenomenon be forced into a two-system taxonomy.
 
 ### Owns
 Dual-process accounts is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Prospect theory where that neighboring construct has the narrower preceding scope, and defers Naturalistic decision-making where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Automatic and controlled processing can interact.
@@ -2168,13 +2284,15 @@ A deeper interpretation of Naturalistic decision-making requires separating the 
 Naturalistic decision-making connects bounded rationality and recognition with expertise and thinking in 1.9. It provides an ecological complement to laboratory bias research.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not equate naturalistic with infallible expert intuition or with rejection of formal models. Both can be informative under different conditions.
 
 ### Owns
 Naturalistic decision-making is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Dual-process accounts where that neighboring construct has the narrower preceding scope, and defers Choice architecture where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Decision procedures are shaped by real constraints.
@@ -2204,13 +2322,15 @@ A deeper interpretation of Choice architecture requires separating the phenomeno
 Choice architecture provides the environmental framework for default effects, choice overload, nudging, and preference construction.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not equate choice architecture with manipulation. Design can simplify decisions, improve comprehension, or distort autonomy depending on implementation.
 
 ### Owns
 Choice architecture is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Naturalistic decision-making where that neighboring construct has the narrower preceding scope, and defers Nudging where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Environments structure cognition as well as available actions.
@@ -2240,13 +2360,15 @@ A deeper interpretation of Nudging requires separating the phenomenon from the b
 Nudging is an application of choice architecture and draws on bounded rationality, defaults, framing, and social influence. It is downstream of psychological mechanisms rather than a fundamental construct.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not equate nudging with coercion or elimination of alternatives. The defining feature is architecture-based influence with preserved alternatives.
 
 ### Owns
 Nudging is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Choice architecture where that neighboring construct has the narrower preceding scope, and defers Debiasing where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Nudges operate through predictable choice-environment features.
@@ -2276,13 +2398,15 @@ A deeper interpretation of Debiasing requires separating the phenomenon from the
 Debiasing connects specific biases to reasoning and cognitive control in 1.9 and to choice architecture and decision aids in this chapter.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not assume more information or slower thinking always debiases. An intervention that changes confidence without improving accuracy is not necessarily successful.
 
 ### Owns
 Debiasing is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Nudging where that neighboring construct has the narrower preceding scope, and defers Decision errors where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Debiasing must target a defined mechanism or error.
@@ -2312,13 +2436,15 @@ A deeper interpretation of Decision errors requires separating the phenomenon fr
 Decision errors integrate many biases and reasoning failures but should remain analytically separate from individual bias labels. They also connect to outcome bias and hindsight.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not infer cognitive error from an unfavorable outcome alone. Do not treat a normative economic criterion as the only possible standard.
 
 ### Owns
 Decision errors is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Debiasing where that neighboring construct has the narrower preceding scope, and defers Moral judgment and decision-making where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Error is criterion-relative.
@@ -2348,13 +2474,15 @@ A deeper interpretation of Moral judgment and decision-making requires separatin
 The topic connects judgment and choice in this chapter with moral behavior and moral judgment in Chapter 1.16 and with emotion in 1.13.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not make this node a second owner of general moral judgment. Its role here is the decision-making interface.
 
 ### Owns
 Moral judgment and decision-making is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Decision errors where that neighboring construct has the narrower preceding scope, and defers Group decision-making where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Moral evaluation and moral action can diverge.
@@ -2384,13 +2512,15 @@ A deeper interpretation of Group decision-making requires separating the phenome
 This is the canonical owner of group decision-making and connects directly to social influence and group processes in Chapter 1.16 while retaining its decision-process focus here.
 
 ## 5. Boundaries
+## 5. Boundaries
 Do not duplicate general group psychology or groupthink here. Those mechanisms remain in 1.16; this node focuses on their consequences for collective choice.
 
 ### Owns
 Group decision-making is canonical here as specified by the locked Chapter 1.10 architecture.
 
 ### Defers
-Adjacent mechanisms, constructs, applications, and cross-chapter manifestations remain with their canonical owners; this object does not absorb neighboring concepts.
+Ad
+Defers Moral judgment and decision-making where that neighboring construct has the narrower preceding scope, and defers the chapter's group-level decision processes where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
 
 ## 6. Key Principles
 • Interaction changes the information available to the decision system.
