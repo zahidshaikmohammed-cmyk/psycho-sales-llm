@@ -918,6 +918,8 @@ The ability to describe a memory does not guarantee literal accuracy. Likewise, 
 
 Declarative memory is memory for information that can be expressed as knowledge or remembered facts and events, commonly divided into episodic and semantic forms. It is often contrasted with procedural and other nondeclarative memory, but the distinction is functional rather than an absolute separation of all underlying processes. Declarative remembering can be influenced by context, retrieval cues, schemas, and reconstruction. Damage to neural systems supporting declarative memory can leave some forms of procedural learning relatively preserved, demonstrating partial dissociation rather than total independence. The construct therefore captures reportable knowledge while recognizing interactions among memory systems.
 
+Declarative memory is especially useful for examining dissociations because it can be impaired while other learned behavior remains relatively functional. A person may fail to recall the episode in which a skill was acquired yet improve with practice, showing that explicit report and acquired performance can depend on partly different systems. At the same time, declarative memory is not isolated from other systems: semantic knowledge can guide episodic retrieval, and explicit strategies can influence procedural performance. The construct therefore identifies a form of consciously accessible knowledge without implying that all declarative remembering is effortless, perfectly accurate, or independent of other learning processes.
+
 ## 4. Relationship to This Chapter
 Declarative memory organizes the explicit long-term memory system containing facts and events.
 
@@ -1143,6 +1145,8 @@ A reduced conditioned response does not necessarily mean that the original learn
 
 Conditioning memory refers to memory expressed through learned relations between cues, actions, and outcomes established by conditioning. Such learning can persist even when a person cannot explicitly describe the original learning episode, illustrating partial dissociation between declarative report and learned response. Conditioning memory is not identical to all implicit memory and can involve both conscious expectations and automatic response tendencies. Extinction can add new learning without necessarily eliminating the original relation, making context and recovery phenomena important. The construct therefore belongs to the nondeclarative family while retaining its own identifiable associative mechanism.
 
+Conditioning memory can be expressed through changes in anticipatory behavior, physiological responses, action tendencies, or performance when a previously learned cue is encountered. The learned relation may be accompanied by explicit knowledge about the contingency, but conscious awareness is not required for every conditioning effect. Extinction can suppress expression while leaving the original relation partly recoverable, making renewal and spontaneous recovery relevant to the memory trace. The construct is therefore narrower than implicit memory overall and should not be treated as a synonym for unconscious memory. Its value is that it links memory architecture with associative learning while preserving the distinction between the learned relation and the conditions under which it is expressed.
+
 ## 4. Relationship to This Chapter
 This Topic represents conditioning as a memory form and links Chapter 1.8 to the learning architecture of Chapter 1.7.
 
@@ -1295,6 +1299,8 @@ Recognition can involve familiarity, recollection, or both. Familiarity provides
 Repeated or similar information can produce false recognition. Confidence can also be influenced by fluency, familiarity, and decision criteria.
 
 Recognition requires identifying previously encountered information when relevant alternatives or cues are supplied. It can rely on familiarity, recollection, or both, and these contributions can produce similar behavioral accuracy through different subjective experiences. Recognition is often easier than free recall because the test provides candidate information, but familiarity can also create false recognition when a novel item feels known. Recognition accuracy therefore depends on discriminability, decision criteria, source information, and memory strength. A correct recognition response does not establish recollection of the original episode unless the task specifically tests contextual retrieval.
+
+Recognition is a decision as well as a memory operation. The person must determine whether the current item matches a previously encountered representation and establish a criterion for calling it “old.” Familiarity can provide a graded sense of prior occurrence, while recollection can supply contextual evidence; both can contribute to the same response. False alarms can arise when novel items share features with studied items or when decision criteria become liberal. Recognition performance should therefore be analyzed using accuracy, discrimination, response bias, and, where possible, evidence about recollected context rather than treating a correct old/new response as a direct measurement of stored memory strength.
 
 ## 4. Relationship to This Chapter
 Recognition is a major retrieval format and connects memory access with familiarity and recollection.
@@ -1569,6 +1575,8 @@ The testing effect is an empirical finding; retrieval practice is the process us
 
 Testing benefits memory when it requires active retrieval and when the practice test provides useful information about what must be remembered. The effect can be stronger than additional study because retrieval changes accessibility and can expose the learner to the structure of the eventual task. Feedback matters especially when retrieval is uncertain or incorrect. Test format also matters: practice that requires generation can differ from recognition practice. The testing effect therefore illustrates that memory improves through operations performed during learning, not simply through increased exposure time.
 
+Testing can improve later memory even when the practice test does not resemble a formal examination, because retrieval itself modifies accessibility. The effect is especially informative when practice requires generation rather than simple recognition, and when feedback corrects errors. However, testing can also produce retrieval-induced competition or strengthen an incorrect answer if feedback is absent and errors are repeatedly rehearsed. Test difficulty therefore has to be interpreted carefully: desirable difficulty can promote durable learning, while excessive difficulty can produce repeated failure without useful retrieval. The testing effect is consequently a learning mechanism whose magnitude depends on task design, feedback, spacing, and the learner's existing knowledge.
+
 ## 4. Relationship to This Chapter
 This Topic identifies the established outcome associated with retrieval practice.
 
@@ -1686,6 +1694,8 @@ Similarity, temporal proximity, cue overlap, and task structure influence interf
 
 Interference is fundamentally competitive. Similar memories can activate overlapping cues, making retrieval less discriminative and increasing the probability that a related but incorrect representation will be selected. Interference can also alter acquisition of new material when old information remains strongly activated. The direction of interference depends on temporal order, which is why proactive and retroactive forms are distinguished. Interference does not necessarily destroy a memory: reducing the competing information can sometimes restore access. This makes interference a key mechanism for understanding why memory performance depends on the entire learning history rather than on one target trace in isolation.
 
+Interference can occur at encoding, retention, retrieval, or response selection. Similar information may compete because it activates overlapping representations, while contextual change can sometimes reduce competition by separating memories. Interference can also be asymmetric: a strongly learned item may disrupt a weaker one more than the reverse. The phenomenon is therefore not merely “too much information.” It reflects relationships among representations and the cues used to access them. Experiments that manipulate similarity, order, context, and competitor availability can identify whether interference is producing acquisition difficulty, retrieval competition, or altered expression. This precision matters because different interference mechanisms imply different remedies and different predictions about later recovery.
+
 ## 4. Relationship to This Chapter
 Interference is the broad competition-based mechanism underlying several specialized forgetting effects.
 
@@ -1763,6 +1773,8 @@ Interference depends on similarity, amount of new learning, temporal proximity, 
 Improved relearning can sometimes reveal residual older learning even when direct recall is impaired.
 
 Retroactive interference demonstrates that later experience can change access to earlier information. Similarity between old and new material is often important because shared retrieval pathways create competition. The effect can be influenced by the amount and strength of later learning and by contextual shifts that change which representation is activated. Because later learning can also provide new cues, not all subsequent experience impairs earlier memory. Retroactive interference is therefore a conditional relationship between memories, not an inevitable consequence of learning something new.
+
+Retroactive interference is especially informative when later learning is strong enough to compete with earlier information but not so strong that all evidence of the earlier learning disappears. The effect can be observed as reduced recall, slower retrieval, or increased source confusion. Later learning may also change contextual cues, causing an older memory to become harder to discriminate rather than physically erased. Relearning can reveal residual effects of the earlier material even after substantial interference. Thus retroactive interference is evidence that memory is dynamically organized across time, with later experiences influencing the accessibility and interpretation of earlier information.
 
 ## 4. Relationship to This Chapter
 Retroactive interference is the backward direction of interference from later learning to earlier memory.
@@ -1920,6 +1932,8 @@ The phenomenon has substantial experimental support, while the exact mechanism r
 
 Retrieval-induced forgetting highlights the selectivity of memory access. When related information is repeatedly retrieved, competing items can become less accessible, possibly because inhibitory control reduces their activation or because retrieval changes contextual cues. The effect is sensitive to the relation among items and to the retrieval procedure, so it should not be generalized to every situation in which one memory becomes easier and another harder. It is especially important conceptually because it shows that successful remembering can carry a cost for competing memories.
 
+Retrieval-induced forgetting depends on the relationship between retrieved and nonretrieved items. When multiple items share a retrieval pathway, selectively retrieving some can reduce competition from related items, and this can make the nonretrieved material harder to access later. Alternative explanations emphasize context change and retrieval dynamics, so the phenomenon is strongest when experimental controls distinguish selective retrieval from general practice or fatigue. It also illustrates that memory control can have costs: improving access to one part of a memory set can temporarily reduce access to another. This is a selective accessibility effect, not evidence that the forgotten information has been permanently deleted.
+
 ## 4. Relationship to This Chapter
 This Topic shows that retrieval can produce both strengthening of practiced information and reduced accessibility of competing information.
 
@@ -1995,6 +2009,8 @@ The effect can change with presentation rate, list length, rehearsal opportunity
 
 Primacy reflects an advantage for early list items that can arise because early material receives more rehearsal, elaboration, or integration with prior knowledge. When rehearsal is prevented or presentation is accelerated, the effect can weaken. Primacy therefore provides evidence about encoding and long-term accessibility rather than merely position itself. It is also influenced by list length and strategy, so individual differences in organization can change the magnitude of the effect. The phenomenon is distinct from recency because it remains more dependent on how early information is encoded and maintained.
 
+Primacy is sensitive to how much opportunity early items receive for rehearsal and elaboration. If presentation is slow enough for additional processing, early items can become better integrated with long-term knowledge; if rehearsal is blocked, the advantage can shrink. Primacy can therefore reveal the interaction of sequence position with encoding strategy rather than a dedicated “primacy memory.” The effect also changes with list length, meaningfulness, and task goals. Its interpretation is strongest when early-item advantage is separated from recency and when the experiment controls whether participants can rehearse or organize the material during presentation.
+
 ## 4. Relationship to This Chapter
 Primacy is the early-position component of the serial-position effect.
 
@@ -2030,6 +2046,8 @@ Immediate recall can benefit from residual accessibility of recently presented i
 Recency is highly sensitive to the interval and activity between presentation and test, making it distinct from the more durable mechanisms underlying primacy.
 
 Recency reflects enhanced accessibility of recently presented information under conditions where it remains relatively available at retrieval. An intervening delay or task can reduce some forms of recency, while recognition can preserve other recent-item advantages through different mechanisms. The effect is therefore sensitive to the test and cannot be assigned to a single memory store without qualification. Recency illustrates how temporal proximity between encoding and retrieval can change accessibility and why memory-system interpretations require manipulation of delay and interference.
+
+Recency can arise from the temporary accessibility of recently presented information, but the exact mechanism depends on task and delay. An immediate free-recall advantage can diminish after an interpolated activity, whereas some recognition advantages may persist because the studied item remains familiar. Thus the label recency describes a positional pattern, not a single storage mechanism. Manipulating delay, distractor tasks, modality, and test format can reveal which memory processes support the effect. Recency is particularly useful for showing why memory-system conclusions should be based on converging manipulations rather than one behavioral pattern alone.
 
 ## 4. Relationship to This Chapter
 Recency is the late-position component of the serial-position effect.
@@ -2069,6 +2087,8 @@ Distortion does not mean memory is generally unreliable. Much memory is accurate
 Memory distortion is extensively documented in controlled experiments and applied research.
 
 Distortion is a property of the remembered representation, not merely a failure to remember. Memory can preserve central structure while changing peripheral details, combine elements from related episodes, or incorporate later information. Distortion can be produced by normal reconstruction mechanisms because memory must often infer missing information. It can also result from repeated retrieval, source confusion, or suggestion. The appropriate comparison is with independently established information when available. A memory report should therefore be evaluated along separate dimensions of completeness, detail, source, confidence, and factual accuracy.
+
+Memory distortion can occur during encoding, retention, retrieval, or later reporting. An event may initially be encoded incompletely, then later reconstructed using schemas or post-event information; alternatively, accurate information can be retrieved but expressed imprecisely. Distortion therefore has multiple pathways and should not automatically be attributed to reconstructive retrieval. It can affect factual details, source, temporal order, spatial relations, or the interpretation of an event. The scientific analysis should identify which feature changed and when the change first appeared. This makes distortion a measurable property of memory rather than a general accusation that remembering is unreliable.
 
 ## 4. Relationship to This Chapter
 This Topic begins the memory-error architecture by distinguishing reconstruction from exact replay.
@@ -2148,6 +2168,8 @@ The effect is strongly established experimentally and has important implications
 
 The misinformation effect is especially important because post-event information can become integrated with, compete against, or bias retrieval of the original event. Similarity between original and misleading details, delay, source monitoring, and repeated questioning influence susceptibility. The effect does not mean that original memory is always overwritten; different traces can remain and later cues can determine which is reported. The phenomenon therefore illustrates the dynamic nature of episodic memory and the importance of the entire information history between an event and a later report.
 
+Misinformation can influence memory through several pathways, including direct incorporation into the remembered event, source confusion, retrieval competition, and changes in response criterion. The original information is not necessarily erased, and later retrieval conditions can determine whether original or misleading details are reported. Susceptibility also depends on how plausible the misinformation is, how strongly it conflicts with the original event, how much time has passed, and whether the source is remembered. The effect therefore illustrates both the reconstructive nature of episodic memory and the importance of information presented between the original event and later testing.
+
 ## 4. Relationship to This Chapter
 The misinformation effect is a specific form of memory distortion caused by post-event information.
 
@@ -2183,6 +2205,8 @@ Source judgments rely on qualitative characteristics of memories, contextual inf
 Source monitoring is fallible, especially when different sources contain similar content or when delay and suggestion weaken source distinctions.
 
 Source monitoring involves inference from the qualitative features of a memory. Perceptual detail may suggest direct experience, semantic familiarity may suggest knowledge, and information about one's own cognitive operations may distinguish imagined from perceived material, but none is infallible. Repeated exposure can blur source distinctions because content becomes familiar while contextual details are lost. Source-monitoring errors therefore emerge naturally from reconstructive retrieval rather than requiring unusual pathology. Experimental tasks must separate memory for content from judgment about origin because people can be right about one and wrong about the other.
+
+Source monitoring can fail even when the content itself is remembered accurately because contextual details often have weaker or less distinctive representations. A familiar statement can therefore be correctly recognized but attributed to the wrong speaker or setting. Monitoring judgments use multiple cues that can conflict: vivid imagery may suggest direct experience, while semantic familiarity may suggest indirect exposure. When cues are ambiguous, current expectations can influence the final source judgment. This makes source monitoring an inferential process rather than direct access to a stored “source tag.” Its errors are a predictable consequence of reconstructive memory architecture.
 
 ## 4. Relationship to This Chapter
 Source monitoring provides a central mechanism for understanding false memory and misinformation.
@@ -2454,6 +2478,8 @@ Confidence–accuracy relationships vary with task and retrieval conditions. Car
 
 Confidence is influenced by multiple internal signals, including fluency, amount of retrieved detail, familiarity, consistency with expectations, and feedback. These signals can sometimes track accuracy but can also be manipulated without changing the original memory, for example through repeated questioning or post-event information. Confidence should therefore be calibrated against objective correctness rather than treated as a direct readout of memory strength. Confidence can also be appropriate for some decisions even when it is imperfect, making calibration—not elimination of confidence—the scientific goal.
 
+Confidence judgments can be dissociated from accuracy because both rely on cues that are only imperfectly diagnostic. Repetition can increase fluency, vividness can increase certainty, and social feedback can raise confidence without improving the original memory. At the same time, confidence can contain useful information when it is appropriately calibrated and when the retrieval conditions support accurate discrimination. The scientific question is therefore not whether confidence is meaningful, but when confidence tracks correctness and when it is contaminated by nonmemory influences. Calibration requires repeated comparisons between subjective confidence and independently established accuracy.
+
 ## 4. Relationship to This Chapter
 Memory confidence is central to understanding why subjective certainty and objective accuracy must be evaluated separately.
 
@@ -2568,6 +2594,8 @@ Monitoring accuracy varies with task demands, cue quality, feedback, and prior k
 
 Monitoring judgments can occur before, during, or after retrieval. Before retrieval, a person may predict whether an answer will be accessible; during retrieval, they may evaluate partial evidence; afterward, they may judge confidence and source. Monitoring is influenced by the same cues that can support memory, but it can also be fooled by fluency or familiarity. Accurate monitoring requires correspondence between the subjective signal and actual performance. This is why calibration studies compare confidence with correctness rather than assuming that people have direct introspective access to memory accuracy.
 
+Memory monitoring includes judgments of learning before retrieval, feelings of knowing during attempted retrieval, source judgments after remembering, and confidence judgments about the final answer. These monitoring signals are generated from partial evidence rather than direct introspection of a memory trace. Fluency can be informative when it reflects genuine accessibility but misleading when repetition or familiarity creates fluency without accurate recollection. Monitoring accuracy can therefore vary across tasks and individuals. The construct is important because memory control depends on these judgments: if people systematically misjudge what they know, they will allocate study, retrieval, and verification effort inefficiently.
+
 ## 4. Relationship to This Chapter
 Memory monitoring is the evaluative process underlying many metamemory judgments.
 
@@ -2606,6 +2634,8 @@ Examples include choosing to rehearse, spacing study, retrieving difficult infor
 Control is limited by available knowledge, attention, time, motivation, and the accuracy of monitoring.
 
 Memory control is constrained by the architecture of the system being controlled. People can choose strategies, organize material, direct attention, practice retrieval, and sometimes suppress or avoid retrieval, but they cannot guarantee complete control over involuntary associations or spontaneous memories. Control also carries costs: directing retrieval toward one set of information can increase competition from another, and intensive monitoring can consume working-memory resources. Memory control is therefore graded and task-dependent. Its effectiveness depends on the match between the chosen strategy and the mechanism producing the memory problem.
+
+Memory control operates through choices about attention, organization, rehearsal, retrieval strategy, external aids, and sometimes intentional suppression or avoidance. Control is constrained because many memory effects arise automatically from associative activation and environmental cues. Strategic control can also create trade-offs: focusing on one target can suppress competitors, while monitoring every detail can consume working-memory resources. Effective control therefore depends on identifying the actual source of the memory problem. If the issue is weak encoding, additional retrieval attempts may be ineffective; if the issue is poor cueing, reorganizing information may matter more. Control is consequently adaptive but not unlimited.
 
 ## 4. Relationship to This Chapter
 Memory control completes the metamemory architecture by linking evaluation of memory to regulation of memory behavior.
