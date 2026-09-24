@@ -24,6 +24,8 @@ A further safeguard is to separate thinking from its outputs. Two people can pro
 
 A final interpretive boundary is that thinking is not necessarily conscious. Deliberate report can reveal some operations, but other transformations may be inferred only from behavior and timing. This makes process-level evidence essential when subjective explanation is incomplete.
 
+Process tracing should therefore accompany outcome scoring where possible. The same answer can result from retrieval, analogy, heuristic search, or explicit derivation, and those routes have different transfer properties. This makes mechanism identification essential.
+
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Thinking contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -59,6 +61,8 @@ The breadth of cognition creates a measurement problem. A task labeled “cognit
 The umbrella nature of cognition means explanations should resolve the level at which a claim operates. A neural correlate, a cognitive operation, a behavioral pattern, and a social context can all describe the same event without being interchangeable explanations. Strong cognitive science therefore links levels rather than allowing one to substitute for another.
 
 Because cognition is heterogeneous, broad scores should be treated as summaries rather than mechanisms. Component dissociations and task manipulations are needed to establish which process changed and why.
+
+The broad construct should be used only as an organizing layer. Specific explanations should resolve to attention, perception, memory, language, reasoning, control, or other narrower processes when evidence permits.
 
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Cognition contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -96,6 +100,8 @@ Representation also has a temporal dimension. A representation can be constructe
 
 Representational claims should remain at the strongest level justified by evidence. Functional evidence can support what information is preserved without proving a unique physical format.
 
+A representation should be defined by the information and relations it preserves, not by an illustrative metaphor. This distinction keeps functional claims separate from stronger claims about implementation.
+
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Mental representation contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -131,6 +137,8 @@ Concepts also support compositional thought. A concept can participate in relati
 Concepts also provide a basis for inductive inference. Once an instance is categorized conceptually, knowledge associated with that concept can be projected onto the new case. The accuracy of that projection depends on how homogeneous the category is and whether the relevant property is actually diagnostic. Conceptual knowledge therefore supports efficient inference while creating predictable risks of overgeneralization.
 
 Conceptual structure can be measured through transfer and exception handling. Definition recall alone is weak evidence because verbal familiarity can exist without usable conceptual organization.
+
+Conceptual knowledge is demonstrated most clearly when it supports novel inference. Repeating a definition shows verbal access but not necessarily a structured concept.
 
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Concepts contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -168,6 +176,8 @@ Category learning is sensitive to feedback and consequences. When classification
 
 Category research should distinguish the category known by the person from the criterion used in a particular decision. The same knowledge can therefore produce different classifications under changed goals.
 
+Category boundaries can change with task demands while the underlying knowledge remains stable. This is why classification and representation must be measured separately.
+
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Categories contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -203,6 +213,8 @@ Prototype representations can be multidimensional rather than a single average p
 Prototype representations can also be hierarchical. A person may possess prototypes at several levels of abstraction, allowing rapid movement from broad to specific categories. Which level is activated depends on task demands and context. Prototype effects therefore need not imply one fixed representation; they can emerge from multiple summaries operating at different scales.
 
 Prototype evidence is strongest when exposure distributions are manipulated and classification shifts in the predicted direction. Typicality alone is insufficient because several models can generate it.
+
+Prototype effects can coexist with exemplar sensitivity. A central tendency may guide broad classification while specific exceptions retain independent influence.
 
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Prototypes contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -240,6 +252,8 @@ Exemplar information can preserve contextual detail that prototypes necessarily 
 
 Exemplar evidence is strongest when unusual and recent instances influence classification in ways that a central tendency cannot explain. This makes learning history a crucial part of category theory.
 
+Exemplar influence is especially informative when atypical cases change later classification. Such effects reveal the importance of learning history and memory accessibility.
+
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Exemplars contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -275,6 +289,8 @@ Categorization can be viewed as evidence accumulation followed by a category dec
 Categorization is also a form of compression. It reduces many possible distinctions to a smaller set of functionally useful classes. The benefit is reduced cognitive complexity; the cost is loss of detail and possible overgeneralization. Effective categories preserve distinctions that matter for the current goal while ignoring distinctions that do not.
 
 Categorization is also sensitive to uncertainty. Ambiguous instances can produce graded evidence before a discrete response is selected, linking category use to decision criteria.
+
+Category decisions can be probabilistic before becoming categorical at response. Evidence accumulation and criterion setting therefore both contribute to observed classification.
 
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Categorization contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -312,6 +328,8 @@ Concept formation is often incremental. Early representations may be broad or ba
 
 Concept formation should be separated from label acquisition. A learner can reproduce a label without discovering the relation that makes it predictive.
 
+Concept learning should be evaluated through transfer and exception handling rather than immediate training accuracy.
+
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Concept formation contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -347,6 +365,8 @@ Schemas can be understood as probabilistic expectations about relations rather t
 Schema activation can be partial rather than all-or-none. A situation may activate several overlapping schemas, with attention and context determining which structure dominates interpretation. This helps explain why the same event can be understood differently by different people without assuming that one person simply lacks the relevant information.
 
 Schema effects should be evaluated against both expected and violated events. This reveals when prior knowledge facilitates processing and when it produces systematic intrusion.
+
+Schemas are predictive structures, so their accuracy depends on the regularity of the environment. Violated schemas provide especially informative tests of flexibility and updating.
 
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Schemas contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -384,6 +404,8 @@ Scripts can support prediction because the expected sequence supplies likely nex
 
 Script knowledge should be tested across variants of the same event. Flexible scripts preserve structure while allowing optional steps, whereas rigid scripts overpredict canonical sequences.
 
+Scripts can support action as well as comprehension, but intended action should not be confused with knowledge of what usually happens. This boundary separates scripts from plans.
+
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Scripts contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -419,6 +441,8 @@ Mental models are particularly important when people must reason about systems w
 Mental models are especially testable through counterfactual and intervention questions. If changing one component produces the predicted downstream effect, the model captures relevant structure. If prediction fails systematically, the model may omit a variable or represent a relation incorrectly. This makes mental models directly relevant to causal reasoning and problem solving.
 
 Mental-model evidence is strongest when predictions survive interventions and changed surface descriptions. Verbal description alone can be supported by rote knowledge without a usable model.
+
+Model validity is best tested by intervention and transfer. A model that only reproduces familiar descriptions has limited explanatory value.
 
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Mental models contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -456,6 +480,8 @@ Knowledge organization also determines interference. Closely related facts can s
 
 Knowledge structures are best studied through relations among facts, not only the number of facts remembered. Organization determines what can be inferred and transferred.
 
+Knowledge organization can create both facilitation and interference. Closely related structures may improve access while increasing confusion among similar alternatives.
+
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Knowledge structures contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -491,6 +517,8 @@ Mental imagery can preserve spatial relations while omitting or transforming per
 Imagery can also be transformed rather than merely maintained. Mental rotation, scanning, and combination require operations over the representation, and these operations can be selectively impaired. This supports the distinction between having an image-like representation and being able to manipulate it effectively.
 
 Imagery should be evaluated through both subjective and behavioral measures because vividness and functional performance can dissociate.
+
+Imagery research should distinguish phenomenology, representational fidelity, and functional utility. None is a complete proxy for the others.
 
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Mental imagery contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -528,6 +556,8 @@ Symbolic thought becomes more powerful when symbols can be composed recursively.
 
 Symbolic competence requires both manipulation and interpretation. Correct syntax without correct mapping is not equivalent to conceptual understanding.
 
+Symbolic reasoning requires mapping between formal structure and meaning. Manipulating symbols correctly does not guarantee understanding of their referents.
+
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Symbolic thought contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -563,6 +593,8 @@ Abstract thinking can be tested by requiring a relation to survive changes in su
 Abstraction should preserve the relations that are invariant across cases. The relevant invariant is often causal, functional, or relational rather than perceptual. This is why examples that look different can instantiate the same principle and why superficially similar examples can require different solutions.
 
 Abstract transfer provides stronger evidence than success on one formulation because it tests whether the invariant relation has actually been represented.
+
+Abstraction is demonstrated by preserving relevant relations across changes in surface form. It is not simply the use of difficult or general language.
 
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Abstract thinking contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -600,6 +632,8 @@ Concrete information can also constrain abstraction by revealing boundary condit
 
 Concrete reasoning can be strategically optimal when exact boundary conditions matter. The important distinction is flexibility between levels rather than preference for abstraction.
 
+Concrete information can reveal exceptions that abstract models hide. Effective cognition therefore moves between levels according to the task.
+
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Concrete thinking contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -635,6 +669,8 @@ Rule learning is sensitive to feedback, context, and the complexity of the condi
 Rule learning can produce strong habits of application. Once a rule becomes highly accessible, it may be selected even when another rule is more appropriate. Context discrimination and feedback are therefore part of rule competence, not optional additions. A person who knows several rules still needs to select the correct one.
 
 Rule application should be tested under changed contexts because knowing a rule is different from knowing its conditions of applicability.
+
+Rule competence includes knowing when a rule applies and when an exception overrides it. Application conditions are part of the learned representation.
 
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Rule learning contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -672,6 +708,8 @@ Representations can be evaluated by their computational consequences. If a refor
 
 Representational adequacy is demonstrated by improved operations such as transfer, inference, and search efficiency after reformulation.
 
+Representational adequacy is ultimately empirical: a proposed format should predict transfer, errors, and performance changes under reformulation.
+
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Knowledge representation contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -707,6 +745,8 @@ Reasoning can be decomposed into representation, inference, evaluation, and conf
 Reasoning is also affected by the representation of uncertainty and alternatives. A conclusion can appear strong when competing hypotheses are not represented at all. Generating alternatives therefore changes the inferential space before evidence is evaluated. Good reasoning includes not only deriving conclusions but structuring the set of possibilities being compared.
 
 Reasoning should be evaluated with the relevant normative standard made explicit. Without that criterion, “good reasoning” can become an undefined global judgment.
+
+Reasoning should specify its evidence standard. Validity, probability, causality, explanation, and usefulness are different criteria and require different measurements.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the reasoning layer of Chapter 1.9 and connects representations to inference without collapsing reasoning into decision-making or memory retrieval. Reasoning contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -744,6 +784,8 @@ Deductive reasoning also illustrates the difference between competence and perfo
 
 Deductive performance should be tested across content variations to distinguish logical limitations from belief or comprehension effects.
 
+Deductive competence should be assessed across content and wording variations to separate logic from comprehension and belief.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the reasoning layer of Chapter 1.9 and connects representations to inference without collapsing reasoning into decision-making or memory retrieval. Deductive reasoning contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -779,6 +821,8 @@ Inductive reasoning depends on evidence that is incomplete by definition. Genera
 Induction is especially sensitive to environmental change. A regularity learned in one population may fail when the sampling process changes. Effective inductive reasoning therefore requires some representation of where the evidence came from and whether the generating process remains stable.
 
 Inductive reasoning should account for the data-generating process because evidence quality depends on how observations were sampled.
+
+Inductive inference should account for sampling and environmental stability because generalization depends on how evidence was generated.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the reasoning layer of Chapter 1.9 and connects representations to inference without collapsing reasoning into decision-making or memory retrieval. Inductive reasoning contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -816,6 +860,8 @@ Abduction can be improved by seeking evidence that would make competing explanat
 
 Abductive conclusions remain hypotheses until discriminating evidence separates them from alternatives. Coherence alone is not confirmation.
 
+Abduction becomes stronger when competing explanations and discriminating observations are made explicit.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the reasoning layer of Chapter 1.9 and connects representations to inference without collapsing reasoning into decision-making or memory retrieval. Abductive reasoning contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -851,6 +897,8 @@ Causal reasoning requires representing what would happen under changes, not mere
 Causal reasoning also requires distinguishing interventions from observations. An observed relationship can remain stable while an intervention produces a different result if the association was mediated by another variable. Causal models therefore support reasoning about changes that have not yet occurred, not merely summarizing past covariation.
 
 Causal reasoning is stronger when the person can predict intervention effects rather than only reproduce observed correlations.
+
+Causal reasoning is strongest when it predicts effects of interventions or counterfactual changes rather than only associations.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the reasoning layer of Chapter 1.9 and connects representations to inference without collapsing reasoning into decision-making or memory retrieval. Causal reasoning contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -888,6 +936,8 @@ Counterfactual thinking can also reveal assumptions about responsibility and con
 
 Counterfactual structure reveals which feature the person treats as causally relevant, making it informative for both reasoning and attribution.
 
+Counterfactuals can reveal assumptions about causality and controllability, making their structure more informative than their vividness.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the reasoning layer of Chapter 1.9 and connects representations to inference without collapsing reasoning into decision-making or memory retrieval. Counterfactual thinking contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -923,6 +973,8 @@ Probabilistic reasoning includes probability estimation, evidence updating, unce
 Probabilistic reasoning also requires representing dependence. Two pieces of evidence that arise from the same underlying source should not be treated as independent confirmations. Failure to represent dependence can produce excessive confidence even when each individual observation appears informative. This is a major distinction between evidence quantity and evidence quality.
 
 Probabilistic reasoning requires calibrated uncertainty, not merely correct arithmetic. Repeated judgments provide the strongest evidence of calibration.
+
+Calibration across repeated predictions is essential for assessing probabilistic reasoning. Individual correct guesses are weak evidence of competence.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the reasoning layer of Chapter 1.9 and connects representations to inference without collapsing reasoning into decision-making or memory retrieval. Probabilistic reasoning contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -960,6 +1012,8 @@ Logical reasoning benefits from externalization when relations are complex. Writ
 
 Logical reasoning benefits from separating formal validity from factual truth. A valid argument can have a false conclusion if its premises are false.
 
+Logical validity is a formal property; psychological reasoning performance is an empirical process. These levels should not be conflated.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the reasoning layer of Chapter 1.9 and connects representations to inference without collapsing reasoning into decision-making or memory retrieval. Logical reasoning contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -995,6 +1049,8 @@ Analogical reasoning depends on recognizing relational correspondence. Surface s
 Analogical reasoning can fail even when the source is understood because the target representation does not make the relevant relation salient. Effective transfer therefore depends on mapping cues. Teaching comparison can improve performance by making structural correspondences explicit rather than merely adding more examples.
 
 Analogy quality depends on structural mapping. Surface resemblance can help retrieval while misleading transfer.
+
+Analogical transfer depends on structural correspondence more than superficial resemblance. Source retrieval and mapping should be measured separately.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the reasoning layer of Chapter 1.9 and connects representations to inference without collapsing reasoning into decision-making or memory retrieval. Analogical reasoning contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -1032,6 +1088,8 @@ Transfer also provides evidence about abstraction depth. A learner who succeeds 
 
 Transfer failure can occur because the source was not retrieved, the relation was not mapped, or the principle was not applied. These stages should be separated.
 
+Transfer demonstrates whether knowledge is organized at a reusable relational level rather than tied to one surface context.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the reasoning layer of Chapter 1.9 and connects representations to inference without collapsing reasoning into decision-making or memory retrieval. Analogical transfer contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -1067,6 +1125,8 @@ Mental simulation is an active operation on a model, not merely a vivid image. A
 Simulation can be iterative: an initial prediction may reveal a contradiction, leading to model revision and a second simulation. This makes simulation part of a feedback loop rather than a one-pass forecast. The quality of the loop depends on how accurately errors are detected and incorporated.
 
 Simulation accuracy depends on model completeness. Vividness does not guarantee that the simulated causal structure is correct.
+
+Simulation should be evaluated by prediction under changed conditions. Vividness alone cannot establish model accuracy.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the reasoning layer of Chapter 1.9 and connects representations to inference without collapsing reasoning into decision-making or memory retrieval. Mental simulation contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -1104,6 +1164,8 @@ Future thinking also requires managing uncertainty. A single detailed future can
 
 Prospective thinking should be evaluated against outcomes when prediction is the goal, but scenario usefulness can be assessed separately when preparation is the goal.
 
+Future thinking should distinguish generating plausible scenarios from forecasting which scenario will occur. These are different cognitive achievements.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the reasoning layer of Chapter 1.9 and connects representations to inference without collapsing reasoning into decision-making or memory retrieval. Prospective thinking contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -1139,6 +1201,8 @@ Problem solving involves a sequence of state representations, operator choices, 
 Problem solving can be interrupted by misleading subgoals, inefficient search, or fixation. Successful solvers monitor progress and may abandon a strategy when evidence suggests that the current representation is unproductive. This makes metacognitive control part of effective problem solving without making it identical to the problem-solving construct itself.
 
 Problem solving is process-sensitive: the same final solution can arise through efficient search, exhaustive trial and error, or lucky retrieval.
+
+Problem solving should be analyzed across representation, search, restructuring, and evaluation. Final success alone cannot identify the route.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Problem solving contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -1176,6 +1240,8 @@ A problem representation can also encode constraints. Constraints reduce the sea
 
 Problem representation can be inferred from transfer across surface changes and from which constraints the solver treats as relevant.
 
+Problem representations should be tested for structural transfer because surface-specific solutions can masquerade as understanding.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Problem representation contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -1211,6 +1277,8 @@ Problem identification requires deciding what discrepancy matters, what outcome 
 Problem identification is especially important in ill-structured environments where there is no single externally supplied goal. Different formulations can all be internally coherent yet lead to different interventions. Scientific analysis should therefore make the chosen problem definition explicit rather than treating it as neutral.
 
 Problem identification is especially important when the task is ill-structured because the problem definition itself is part of the solution.
+
+Problem identification is itself a cognitive operation and can require causal diagnosis before search begins.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Problem identification contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -1248,6 +1316,8 @@ Goal states can influence attention by making goal-relevant discrepancies more s
 
 Goal representation should be monitored because local metrics can become detached from the broader objective.
 
+Goal representations should be monitored because local proxies can drift away from the underlying objective.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Goal states contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -1283,6 +1353,8 @@ Planning involves anticipating actions and their consequences while organizing d
 Planning can include monitoring and revision because future conditions are uncertain. A robust plan specifies enough structure to guide action while preserving flexibility when assumptions fail. The appropriate level of detail therefore depends on predictability, reversibility, and the cost of replanning.
 
 Planning quality is revealed under changed conditions. Robust plans specify contingencies without attempting to enumerate every possible future.
+
+Planning should be evaluated under perturbation to determine whether it contains flexible contingencies rather than only fixed sequences.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Planning contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -1320,6 +1392,8 @@ Means–ends analysis can be combined with other strategies. A solver may use it
 
 Means–ends analysis is a heuristic and can become trapped by local progress. Its effectiveness depends on the structure of the operator space.
 
+Means–ends analysis is conditional on the operator structure. Local progress can be misleading when the solution requires temporary divergence.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Means–ends analysis contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -1355,6 +1429,8 @@ Algorithms specify a sequence of operations whose correctness depends on defined
 Algorithmic procedures can be learned as schemas and then executed with reduced working-memory demand. Errors may arise from selecting the wrong algorithm rather than executing the chosen one incorrectly. This makes algorithm selection a representational and metacognitive problem in addition to a procedural one.
 
 Algorithm use requires correct selection and parameterization in addition to correct execution. Procedural knowledge alone is insufficient.
+
+Algorithmic competence includes recognizing when the procedure applies. Correct execution cannot rescue incorrect problem classification.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Algorithms contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -1392,6 +1468,8 @@ Heuristic performance should also be judged against the cost of computation. A m
 
 Heuristic evaluation should be ecological: the relevant comparison is often with feasible alternatives under the same information and time constraints.
 
+Heuristics should be evaluated relative to ecological constraints rather than against impossible exhaustive optimization.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Heuristics contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -1427,6 +1505,8 @@ Insight problems often require a shift in representation rather than more of the
 Insight can be distinguished from simple retrieval by examining whether the solution depends on a changed representation. A familiar answer that suddenly comes to mind does not necessarily involve restructuring. Transfer to related problems is also informative because genuine restructuring may reveal a reusable principle.
 
 Insight claims require evidence of restructuring rather than merely a sudden subjective feeling. Transfer can help establish whether a new representation was gained.
+
+Insight evidence is strongest when a representational restructuring produces transferable solution knowledge.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Insight contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -1464,6 +1544,8 @@ Mental set can sometimes be overcome through deliberate comparison of successful
 
 Mental set is adaptive persistence under stable conditions. It becomes maladaptive when the old strategy's assumptions no longer hold.
 
+Mental set reflects the persistence of learned strategies and therefore links learning history to flexibility.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Mental set contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -1499,6 +1581,8 @@ Functional fixedness demonstrates that knowledge can constrain perception of pos
 Functional fixedness is strongest when conventional function is highly salient and alternative properties are weakly attended. Re-description can therefore alter problem solving by changing which object features are cognitively available. This demonstrates how attention and knowledge interact in apparently simple tasks.
 
 Functional fixedness demonstrates that familiar knowledge can constrain alternative affordance detection. The constraint is therefore learned and context-sensitive.
+
+Functional fixedness is a specific representational constraint involving familiar object functions, not a general creativity deficit.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Functional fixedness contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -1536,6 +1620,8 @@ Fixation is also influenced by timing. An early representation can shape later s
 
 Fixation can be induced and reduced experimentally, supporting its interpretation as a processing state rather than a fixed personality property.
 
+Fixation is broader than functional fixedness and mental set because it can anchor interpretation before a stable strategy exists.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Cognitive fixation contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -1571,6 +1657,8 @@ Creative cognition is best modeled as a coordinated set of operations rather tha
 Creative cognition depends on both association and constraint. Too little constraint produces arbitrary combinations; too much constraint prevents novelty. Creative processing therefore involves finding representations in which unusual combinations remain meaningful and useful. This balance varies across domains and stages of the task.
 
 Creative cognition should be decomposed into generation, transformation, evaluation, and refinement because different tasks isolate different stages.
+
+Creative cognition should be decomposed into operations so that generation, restructuring, evaluation, and refinement are not treated as one mechanism.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Creative cognition contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -1608,6 +1696,8 @@ Creativity can also be distributed across people and tools. Collaboration can pr
 
 Creativity requires a specified domain and reference population because novelty and usefulness are relative to standards.
 
+Creativity is domain-relative and multidimensional; novelty and usefulness must be evaluated against an appropriate reference.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Creativity contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -1643,6 +1733,8 @@ Divergent thinking expands the candidate space and can involve fluency, flexibil
 Divergent thinking can be improved by changing the search constraints, such as asking for different categories or unusual perspectives. This demonstrates that divergence is partly controllable rather than a fixed output rate. It also reinforces the need to separate fluency from flexibility and originality.
 
 Divergent-thinking scores should be interpreted as process indicators rather than global creativity measures.
+
+Divergent thinking measures generative search but should not be treated as a complete measure of creative achievement.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Divergent thinking contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -1680,6 +1772,8 @@ Convergent thinking depends on criterion quality. If the criterion rewards famil
 
 Convergent thinking is partly about criterion quality. A poor criterion can produce accurate-looking but substantively weak selections.
 
+Convergent thinking depends on both candidate quality and evaluation criteria, making criterion selection part of the process.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Convergent thinking contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -1715,6 +1809,8 @@ Executive functions coordinate cognition when automatic routines are insufficien
 Executive functions also interact with long-term knowledge. Expertise can reduce executive demand by making some operations automatic, while novel tasks recruit more control. A change in performance with expertise therefore does not necessarily mean that executive capacity itself changed; the representational burden may have changed.
 
 Executive-function claims require converging tasks because individual tasks contain multiple component demands.
+
+Executive functions require multi-method assessment because individual tasks contain overlapping demands.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Executive functions contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -1752,6 +1848,8 @@ Inhibition can be selective and context-dependent. Suppressing a response that i
 
 Inhibitory control should be interpreted relative to the competing response and timing rather than as a global brake.
 
+Inhibitory control is defined relative to a competing response and context, not as a universal mental brake.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Inhibitory control contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -1787,6 +1885,8 @@ Updating requires changing an active representation while preserving information
 Updating is especially important when information changes faster than it can be consolidated into long-term knowledge. The person must maintain a current model while resisting interference from previous states. This makes updating a central mechanism for tracking dynamic environments.
 
 Updating should preserve relevant continuity while replacing obsolete information. Both excessive and insufficient updating can impair performance.
+
+Updating must balance stability and change: replacing too much information can be as disruptive as replacing too little.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Updating contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -1824,6 +1924,8 @@ Shifting can be improved through advance preparation because the new task set ca
 
 Switching costs reflect preparation and interference as well as flexibility. Measurement should distinguish these components.
 
+Switching performance reflects preparation and interference as well as flexibility, so task timing matters.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Cognitive shifting contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -1859,6 +1961,8 @@ Cognitive flexibility balances stability and change. A flexible system must dete
 Flexibility also includes representational flexibility. A person may remain on the same task but need to reinterpret what the task means when new evidence arrives. This is different from simple task switching and can be more demanding because the existing model must be restructured.
 
 Flexibility is adaptive change, not maximal change. The relevant question is whether switching occurs when evidence warrants it.
+
+Flexibility is adaptive when change is warranted and stability is maintained when it is not.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Cognitive flexibility contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -1896,6 +2000,8 @@ Cognitive control is adaptive when it allocates resources selectively. Constant 
 
 Control is selective resource allocation. Strong control does not mean constant effortful monitoring.
 
+Control is resource allocation and coordination, not continuous maximal effort. Efficient control can reduce the need for effortful intervention.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Cognitive control contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -1931,6 +2037,8 @@ Metacognition operates as a higher-order system that monitors and regulates cogn
 Metacognition is especially useful when cognitive performance is uncertain. Monitoring provides information for deciding whether to continue, verify, seek help, or change strategy. The value of metacognition therefore lies in improving regulation, not merely in producing accurate self-descriptions.
 
 Metacognition is useful when monitoring and control form a functional feedback loop rather than isolated self-judgments.
+
+Metacognition is strongest when monitoring information actually improves regulation. Accurate self-description without useful control has limited functional value.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Metacognition contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -1968,6 +2076,8 @@ Metacognitive knowledge can be revised through feedback. If a learner repeatedly
 
 Metacognitive knowledge should be tested for conditional accuracy: knowing when a strategy works is more informative than merely naming it.
 
+Metacognitive knowledge should be conditional and strategy-specific because no learning strategy works equally well across tasks.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Metacognitive knowledge contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -2003,6 +2113,8 @@ Metacognitive monitoring is an inferential judgment based on internal cues. Fami
 Monitoring can be task-specific because different cues predict performance differently. Familiarity may be useful for recognition but poor for durable learning; retrieval difficulty may be informative for learning but not for immediate confidence. Calibration must therefore be measured within the relevant task and time scale.
 
 Monitoring should be assessed at the time scale relevant to the outcome because immediate fluency can differ from delayed learning.
+
+Monitoring quality is calibration between subjective judgment and objective performance, measured at the relevant time scale.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Metacognitive monitoring contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -2040,6 +2152,8 @@ Metacognitive control can fail even with accurate monitoring when available stra
 
 Control effectiveness depends on choosing an intervention that targets the actual cognitive bottleneck.
 
+Metacognitive control requires diagnosing the bottleneck and selecting an intervention that addresses it.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Metacognitive control contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -2075,6 +2189,8 @@ Metacognitive experiences are feelings generated during cognition that provide s
 Metacognitive experiences can be shaped by task framing and prior expectations. A familiar format can feel easier without improving underlying competence, while a novel but effective strategy can feel effortful. Subjective experience therefore needs external validation before it is treated as evidence of cognitive quality.
 
 Metacognitive experiences are informative cues, not transparent measurements of cognitive state.
+
+Metacognitive experiences are useful signals but can be distorted by fluency, familiarity, expectations, and task framing.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Metacognitive experience contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -2112,6 +2228,8 @@ Confidence can be useful when it tracks reliability and harmful when it substitu
 
 Confidence is most informative when calibrated to objective performance across repeated judgments.
 
+Confidence becomes scientifically informative when it predicts accuracy better than chance and remains calibrated across conditions.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Confidence in thinking contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -2147,6 +2265,8 @@ Cognitive load depends on the interaction between task complexity, presentation,
 Cognitive load also changes with representation. A well-designed diagram can reduce the need to maintain relations internally, while a cluttered diagram can add irrelevant processing. Load is therefore partly a property of how information is presented and organized, not simply how much information exists.
 
 Load is person-by-task dependent because knowledge and representation alter the amount of active processing required.
+
+Cognitive load is relational: learner knowledge, representation, and presentation all change the processing burden.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Cognitive load contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -2184,6 +2304,8 @@ Bounded rationality also explains why simple strategies can outperform complex o
 
 Bounded rationality evaluates strategies under realistic constraints rather than against impossible exhaustive optimization.
 
+Bounded rationality evaluates strategies under realistic constraints and environmental structure rather than abstract perfection.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Bounded rationality contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -2219,6 +2341,8 @@ Cognitive reflection involves detecting that an intuitive response may be unreli
 Reflection requires a reason to distrust the first answer. If no conflict is detected, deliberate analysis may not occur. This makes reflection partly dependent on metacognitive sensitivity and partly on available corrective knowledge. It is therefore not equivalent to merely taking more time.
 
 Reflection requires conflict detection and corrective knowledge; additional time alone does not guarantee a better answer.
+
+Reflection depends on detecting conflict and possessing corrective knowledge; extra deliberation is not automatically beneficial.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Cognitive reflection contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -2256,6 +2380,8 @@ Belief formation can also involve social epistemic processes. People evaluate te
 
 Belief formation should distinguish endorsement from confidence, evidence sensitivity, and source evaluation.
 
+Belief formation should be studied through evidence history, source evaluation, confidence, and subsequent behavioral consequences.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Belief formation contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -2291,6 +2417,8 @@ Belief revision can involve weakening confidence, changing scope, adding excepti
 Belief revision can create cascading changes when beliefs are interdependent. Changing one causal assumption may alter predictions, explanations, and related expectations. Stable revision therefore involves maintaining coherence across the network rather than changing one isolated proposition. This helps explain why deeply organized beliefs can be difficult to revise.
 
 Belief revision can propagate through connected propositions, so isolated before-and-after answers may miss restructuring.
+
+Belief revision can restructure connected propositions, so change in one answer may underestimate change in the wider belief system.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Belief revision contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -2328,6 +2456,8 @@ Updating can be evaluated by how appropriately belief change tracks information 
 
 Belief updating is sequential and should be evaluated across evidence streams rather than single changes.
 
+Updating should be evaluated sequentially because evidence order, reliability, and redundancy influence the trajectory of belief.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Belief updating contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -2364,6 +2494,8 @@ Knowledge acquisition can produce both specialization and transfer. Learning a n
 
 Knowledge acquisition requires delayed retention and transfer if the goal is durable capability rather than immediate performance.
 
+Knowledge acquisition is durable when it survives delay, supports explanation, and transfers to novel contexts.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Knowledge acquisition contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -2399,6 +2531,8 @@ Expertise reorganizes cognition through accumulated domain knowledge. Experts of
 Expertise also changes error detection. Experts often recognize when a familiar pattern does not fit and can shift from automatic recognition to deliberate analysis. This ability to detect exceptions is central to adaptive expertise. A mature expert system therefore includes both efficient routines and mechanisms for suspending them when evidence indicates novelty.
 
 Expertise should be tested under both familiar and novel conditions to distinguish routine efficiency from adaptive expertise.
+
+Expertise is demonstrated not only by routine speed but by recognizing exceptions and adapting representations when familiar patterns fail.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Expertise and thinking contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
