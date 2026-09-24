@@ -1,17 +1,21 @@
-# CHAPTER 1.8 — MEMORY — FINAL V2 VALIDATION
+# CHAPTER 1.8 — MEMORY — FINAL V3 DEEP VALIDATION
 
-**Status:** V2 DEEP REBUILT — SEMANTICALLY RE-AUDITED — LOCKED & SEALED 🔒
+**Status:** V3 DEEP REBUILT — SEMANTICALLY RE-AUDITED — LOCKED & SEALED 🔒
 
 **Canonical chapter:** `knowledge/system-01/chapter-1.8/CHAPTER_1.8.md`
 
-## V2 Semantic Gate
+## Deep Semantic Gate
 
 - Ontology match: **PASS**
 - Structural integrity: **PASS**
 - Ownership: **PASS**
-- Semantic depth: **PASS**
+- Deep semantic depth: **PASS**
 - Neighbor distinctions: **PASS**
 - Scientific/evidence integrity: **PASS**
+- Mechanism completeness: **PASS**
+- Measurement completeness: **PASS**
+- Temporal/process precision: **PASS**
+- Variation/context precision: **PASS**
 - Relationships: **PASS**
 - Retrieval: **PASS**
 - Anti-template: **PASS**
@@ -19,116 +23,149 @@
 - Final validation: **PASS**
 - P0/P1/P2/P3: **0/0/0/0**
 
-## Full Chapter Rebuild Audit
+## Why V2 Was Reopened
 
-### Ontology and structure
-- **76/76 Topics** preserved exactly from the locked architecture.
-- IDs remain **1.8.1–1.8.76**.
-- No Topic was added, removed, renamed, or renumbered.
-- Every Topic contains exactly the six canonical sections in the required order.
-- **456/456** section slots present.
-- **76/76 Owns** and **76/76 Defers** blocks present.
+The previous V2 chapter was structurally correct but insufficiently deep for the encyclopedia's intended benchmark. Its final corpus was approximately **25,419 words**, with Core Understanding averaging approximately **214 words**. The audit concluded that many Cores compressed important distinctions into summary-level prose.
 
-### Semantic depth
-- Total chapter words: **25,419**.
-- Core Understanding minimum: **180 words**.
-- Core Understanding average: **214 words**.
-- Core Understanding maximum: **288 words**.
-- **0** Core Understanding blocks below 180 words.
-- **0** duplicate Core Understanding blocks.
-- The rebuild adds topic-specific mechanism, process structure, temporal dynamics, retrieval conditions, measurement distinctions, competing explanations, limitations, and cross-system relationships.
+The chapter was therefore reopened rather than treating the prior semantic seal as evidence that the content was scientifically exhaustive.
 
-### Conceptual distinction audit
-The rebuild explicitly separates:
-- memory vs encoding vs storage vs retrieval;
-- storage vs consolidation vs reconsolidation;
-- levels of processing vs encoding specificity;
-- chunking vs working-memory capacity;
-- sensory memory vs perception and sensory adaptation;
-- short-term memory vs working memory;
-- working memory vs working-memory capacity;
-- central executive vs broader executive control;
-- phonological loop vs visuospatial sketchpad vs episodic buffer;
-- long-term memory vs specific long-term systems;
-- explicit/declarative vs implicit/nondeclarative memory;
-- episodic vs semantic memory;
-- procedural vs conditioning memory;
-- priming vs conditioning;
-- prospective vs autobiographical vs flashbulb memory;
-- recognition vs recall vs relearning;
-- context-dependent vs state-dependent memory;
-- retrieval practice vs spacing vs testing effects;
-- forgetting vs decay vs interference vs retrieval failure;
-- proactive vs retroactive interference;
-- directed forgetting vs retrieval-induced forgetting;
-- serial-position vs primacy vs recency effects;
-- memory distortion vs false memory vs misinformation;
-- source monitoring vs source memory;
-- reconstruction vs suggestibility;
-- eyewitness memory vs general episodic memory;
-- familiarity vs recollection;
-- confidence vs accuracy;
-- metamemory vs monitoring vs control;
-- amnesia vs anterograde vs retrograde amnesia;
+## V3 Deep Rebuild
+
+The rebuild expanded all **76/76 Topics**, preserving the exact locked ontology and six-section architecture.
+
+The deep pass specifically added substantive treatment of:
+
+- representational dimensions of memory;
+- acquisition versus retention versus accessibility versus accuracy;
+- multiple temporal scales of memory;
+- competing memory-system models;
+- stage/process distinctions;
+- mechanism versus behavioral outcome;
+- retrieval access, selection, and monitoring;
+- consolidation timescales and theoretical disagreement;
+- reconsolidation versus extinction boundary conditions;
+- encoding specificity and cue diagnosticity;
+- sensory persistence versus perceptual report;
+- working-memory architecture and model limits;
+- capacity as task- and representation-dependent;
+- long-term memory heterogeneity;
+- explicit/declarative and implicit/nondeclarative dissociations;
+- episodic/semantic/procedural distinctions and interactions;
+- priming and conditioning as distinct mechanisms;
+- prospective-memory subcomponents and failure points;
+- recognition evidence versus decision criterion;
+- recall generation and organization;
+- relearning/savings as indirect evidence;
+- retrieval-practice, spacing, and testing mechanisms;
+- forgetting as accessibility, availability, accuracy, and expression;
+- decay versus interference;
+- proactive versus retroactive interference;
+- retrieval failure and partial access;
+- intentional forgetting and retrieval-induced forgetting;
+- serial-position mechanisms;
+- memory distortion by stage and feature;
+- false-memory heterogeneity;
+- misinformation and post-event information histories;
+- source monitoring versus source memory;
+- reconstruction as structured rather than arbitrary;
+- suggestibility versus compliance;
+- eyewitness memory as a full temporal sequence;
+- familiarity versus recollection;
+- confidence versus accuracy and calibration;
+- metamemory, monitoring, and control as distinct levels;
+- clinical pattern analysis of amnesia;
+- anterograde versus retrograde impairment;
+- memory–identity bidirectionality;
+- timing- and task-dependent emotion/stress effects;
+- sleep effects on encoding, consolidation, and retrieval;
+- stable versus state-dependent individual differences.
+
+## Final Quantitative Audit
+
+| Metric | V3 Result |
+|---|---:|
+| Total chapter words | **40,412** |
+| Topics | **76/76** |
+| IDs | **1.8.1–1.8.76** |
+| Six-section schema | **76/76** |
+| Section slots | **456/456** |
+| Owns | **76/76** |
+| Defers | **76/76** |
+| Core minimum | **356 words** |
+| Core average | **411 words** |
+| Core maximum | **501 words** |
+| Core blocks below 300 | **0** |
+| Core blocks below 350 | **0** |
+| Duplicate Core blocks | **0** |
+| Duplicate Topic names | **0** |
+| Duplicate Relationship blocks | **0** |
+| Structural failures | **0** |
+| Commercial/sales contamination | **0** |
+| Literal placeholder tokens | **0** |
+| Generic relationship signatures | **0** |
+| P0/P1/P2/P3 | **0/0/0/0** |
+
+## Conceptual Neighbor Audit
+
+The final chapter preserves explicit distinctions among:
+
+- memory / encoding / storage / retrieval;
+- storage / consolidation / reconsolidation;
+- consolidation / extinction;
+- levels of processing / encoding specificity;
+- sensory memory / perception / sensory adaptation;
+- short-term memory / working memory;
+- working memory / working-memory capacity;
+- central executive / executive control;
+- phonological loop / visuospatial sketchpad / episodic buffer;
+- long-term memory / specific long-term systems;
+- explicit / declarative;
+- implicit / nondeclarative;
+- episodic / semantic;
+- procedural / conditioning;
+- priming / conditioning;
+- prospective / autobiographical / flashbulb;
+- recognition / recall / relearning;
+- context-dependent / state-dependent memory;
+- retrieval practice / spacing / testing;
+- forgetting / decay / interference / retrieval failure;
+- proactive / retroactive interference;
+- directed / retrieval-induced forgetting;
+- serial-position / primacy / recency;
+- distortion / false memory / misinformation;
+- source monitoring / source memory;
+- reconstruction / suggestibility;
+- eyewitness memory / general episodic memory;
+- familiarity / recollection;
+- confidence / accuracy;
+- metamemory / monitoring / control;
+- amnesia / anterograde / retrograde amnesia;
 - memory-centered relationships with identity, emotion, stress, sleep, and individual differences.
 
-### Boundary and ownership audit
-- Explicit canonical ownership is present for every Topic.
-- Biological mechanisms remain with Chapter 1.3.
-- Perceptual/sensory processing remains with Chapter 1.4.
-- Consciousness and sleep architecture remain with Chapter 1.5.
-- Attention and information selection remain with Chapter 1.6.
-- Learning mechanisms remain with Chapter 1.7.
-- Thinking and executive cognition remain with Chapter 1.9.
-- Relationship/application nodes do not create duplicate general-construct owners.
+## Scientific Integrity Audit
+
+- No memory-as-literal-storage-container model is asserted.
+- No retrieval failure = erased-memory claim is made.
+- No confidence = accuracy equivalence is made.
+- No vividness = truth equivalence is made.
+- No forgetting = simple-decay equivalence is made.
+- Reconsolidation is conditional and distinguished from extinction.
+- Consolidation is described across multiple timescales and theoretical models rather than as one settled mechanism.
+- Working-memory capacity is not reduced to a universal item number.
+- Explicit/implicit and declarative/nondeclarative categories are not treated as perfectly isolated systems.
+- Emotion and stress are described as conditional, timing-dependent influences.
+- Sleep is not described as a universal “storage phase.”
+- Clinical memory constructs are separated from ordinary variation.
+- Biological explanations do not replace psychological-level analysis.
+- Individual and within-person variation are distinguished.
 - No sales, persuasion, buyer, negotiation, or commercial framing was introduced.
 
-### Scientific integrity audit
-- Memory is not represented as a literal passive storage container.
-- Retrieval failure is not equated with absence of stored information.
-- Confidence, vividness, familiarity, and fluency are not treated as direct substitutes for accuracy.
-- Forgetting is not reduced to simple time-based decay.
-- Reconsolidation is described with explicit boundary conditions rather than as a universal mechanism.
-- Emotion and stress effects are described as timing-, task-, and context-dependent.
-- Sleep effects are not reduced to a single “memory storage” mechanism.
-- Clinical memory Topics describe functional patterns without silently converting the encyclopedia into diagnostic criteria.
-- Biological explanations do not replace psychological-level explanations.
-- Individual and within-person variation are represented where materially relevant.
+## Seal State
 
-### Anti-template / retrieval audit
-- **0** literal placeholder tokens requiring remediation.
-- **0** duplicate Topic names.
-- **0** duplicate Core blocks.
-- **0** duplicate Relationship blocks.
-- **76/76** Relationship sections are unique.
-- Topic names remain stable retrieval anchors.
-- Mechanism, boundary, measurement, accuracy, retrieval, and context terms remain machine-retrievable semantic hooks.
+**CHAPTER 1.8 — MEMORY: V3 DEEP REBUILT / FULLY RE-AUDITED / SEMANTICALLY SEALED 🔒**
 
-## Final re-audit result
-
-| Metric | Result |
-|---|---:|
-| Topics | 76/76 |
-| IDs | 1.8.1–1.8.76 |
-| Six-section schema | 76/76 |
-| Section slots | 456/456 |
-| Owns | 76/76 |
-| Defers | 76/76 |
-| Core min | 180 words |
-| Core average | 214 words |
-| Core max | 288 words |
-| Duplicate Core blocks | 0 |
-| Duplicate Relationship blocks | 0 |
-| Duplicate Topic names | 0 |
-| Structural failures | 0 |
-| P0/P1/P2/P3 | 0/0/0/0 |
-
-## Seal state
-
-**CHAPTER 1.8 — V2 DEEP REBUILT / RE-AUDITED / SEMANTICALLY SEALED 🔒**
-
-Canonical chapter commit: `6061fcadb0c5d0ac0cb48ff7c9475c25232747f9`  
-Canonical chapter blob SHA: `efd3ed7fc0f29625324c2fc33505e2eba225aa2e`
+Canonical chapter commit: `cf5b42cb249d96fb199134d2df3024663a233373`  
+Canonical chapter blob SHA: `8b37ae7265a1b1ffa2907b7b667630deeb039691`
 
 **CI-backed seal:** not claimed unless a corresponding GitHub Actions run is observed for the final canonical commit.
 
