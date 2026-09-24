@@ -1,14 +1,10 @@
 # CHAPTER 1.7 — LEARNING AND BEHAVIOR CHANGE
 
-**Status:** LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 2.0
-
-**System:** 1 — HUMAN PSYCHOLOGY
-
+**Status:** V2 DEEP REBUILD — SEMANTICALLY RE-AUDITED — CANONICALLY SEALED 🔒  
+**System:** 1 — HUMAN PSYCHOLOGY  
 **Canonical Topic count:** 66
 
-This chapter preserves the exact named Topics currently exposed by the locked System 1 architecture. The live architecture currently exposes 66 named Topics for Chapter 1.7; no additional Topics are invented to reconcile a separate count.
-
----
+## 1.7.1 Learning
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Learning” and distinguish it from its nearest neighboring learning constructs.
@@ -45,6 +41,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 Different mechanisms produce different kinds of learning.
 Learning is constrained by organism and context.
 
+## 1.7.2 Learning from experience
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Learning from experience” and distinguish it from its nearest neighboring learning constructs.
 
@@ -79,6 +77,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Experience changes future processing through mechanisms.
 Prior knowledge changes what new experience teaches.
 Learning can be context-sensitive.
+
+## 1.7.3 Behavioral change through learning
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Behavioral change through learning” and distinguish it from its nearest neighboring learning constructs.
@@ -115,6 +115,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 Behavior reflects both learning and current conditions.
 Durability matters when inferring learning.
 
+## 1.7.4 Associative learning
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Associative learning” and distinguish it from its nearest neighboring learning constructs.
 
@@ -149,6 +151,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Associations encode relationships, not simple exposure counts.
 Prior learning can compete with new learning.
 Biology and timing constrain association formation.
+
+## 1.7.5 Biological constraints on learning
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Biological constraints on learning” and distinguish it from its nearest neighboring learning constructs.
@@ -185,6 +189,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 Constraints need not make learning impossible.
 Biology and experience interact.
 
+## 1.7.6 Preparedness
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Preparedness” and distinguish it from its nearest neighboring learning constructs.
 
@@ -219,6 +225,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Preparedness changes learning probability.
 Experience remains necessary for learned relations.
 Preparedness differs from familiarity.
+
+## 1.7.7 Classical conditioning
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Classical conditioning” and distinguish it from its nearest neighboring learning constructs.
@@ -255,6 +263,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 Extinction need not erase prior learning.
 Prior cue history affects new conditioning.
 
+## 1.7.8 Unconditioned stimulus
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Unconditioned stimulus” and distinguish it from its nearest neighboring learning constructs.
 
@@ -289,6 +299,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Unconditioned is a functional relation.
 Outcome intensity can alter conditioning.
 Stimulus history does not make the term meaningless.
+
+## 1.7.9 Unconditioned response
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Unconditioned response” and distinguish it from its nearest neighboring learning constructs.
@@ -325,6 +337,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 Unconditioned responses vary with state.
 They provide a conditioning baseline.
 
+## 1.7.10 Conditioned stimulus
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Conditioned stimulus” and distinguish it from its nearest neighboring learning constructs.
 
@@ -359,6 +373,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Conditioned meaning is acquired.
 Conditioned status is functional and context-sensitive.
 Low responding does not prove erasure.
+
+## 1.7.11 Conditioned response
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Conditioned response” and distinguish it from its nearest neighboring learning constructs.
@@ -395,6 +411,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 Response strength is not identical to association strength.
 Expression depends on context.
 
+## 1.7.12 Acquisition
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Acquisition” and distinguish it from its nearest neighboring learning constructs.
 
@@ -429,6 +447,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Acquisition is more than exposure.
 Prior learning affects acquisition.
 Performance changes require interpretation.
+
+## 1.7.13 Extinction
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Extinction” and distinguish it from its nearest neighboring learning constructs.
@@ -465,6 +485,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 Reduced responding is not proof of erasure.
 Context affects extinction.
 
+## 1.7.14 Spontaneous recovery
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Spontaneous recovery” and distinguish it from its nearest neighboring learning constructs.
 
@@ -499,6 +521,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Time can reveal residual learning.
 Recovery phenomena should not be conflated.
 Extinction need not erase prior learning.
+
+## 1.7.15 Stimulus generalization
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Stimulus generalization” and distinguish it from its nearest neighboring learning constructs.
@@ -535,6 +559,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 It supports flexible use of learning.
 Generalization and discrimination are complementary.
 
+## 1.7.16 Stimulus discrimination
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Stimulus discrimination” and distinguish it from its nearest neighboring learning constructs.
 
@@ -569,6 +595,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Discrimination is learned.
 It need not be conscious.
 It operates with generalization.
+
+## 1.7.17 Generalization gradient
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Generalization gradient” and distinguish it from its nearest neighboring learning constructs.
@@ -605,6 +633,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 Shape depends on learning history.
 A gradient is evidence, not a complete mechanism.
 
+## 1.7.18 Conditioned inhibition
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Conditioned inhibition” and distinguish it from its nearest neighboring learning constructs.
 
@@ -639,6 +669,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Inhibition carries predictive information.
 Weak excitation is not automatically inhibition.
 Meaning is context-dependent.
+
+## 1.7.19 Higher-order conditioning
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Higher-order conditioning” and distinguish it from its nearest neighboring learning constructs.
@@ -675,6 +707,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 Direct outcome pairing is not always required.
 Sequence structure matters.
 
+## 1.7.20 Blocking
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Blocking” and distinguish it from its nearest neighboring learning constructs.
 
@@ -709,6 +743,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Prior prediction reduces redundant learning.
 Pairing count alone is insufficient.
 Cue competition is history-dependent.
+
+## 1.7.21 Overshadowing
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Overshadowing” and distinguish it from its nearest neighboring learning constructs.
@@ -745,6 +781,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 Salience can bias acquisition.
 Overshadowing differs from blocking.
 
+## 1.7.22 Latent inhibition
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Latent inhibition” and distinguish it from its nearest neighboring learning constructs.
 
@@ -779,6 +817,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Familiarity can slow new conditioning.
 Prior exposure changes later learning value.
 Latent inhibition differs from blocking.
+
+## 1.7.23 Operant conditioning
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Operant conditioning” and distinguish it from its nearest neighboring learning constructs.
@@ -815,6 +855,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 Reinforcement means increase, punishment means decrease.
 Antecedents and motivation modify effects.
 
+## 1.7.24 Reinforcement
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Reinforcement” and distinguish it from its nearest neighboring learning constructs.
 
@@ -849,6 +891,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Reinforcement means behavior increase.
 Positive and negative refer to presentation/removal.
 Function determines classification.
+
+## 1.7.25 Positive reinforcement
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Positive reinforcement” and distinguish it from its nearest neighboring learning constructs.
@@ -885,6 +929,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 Behavior increase is the defining test.
 Value is context-dependent.
 
+## 1.7.26 Negative reinforcement
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Negative reinforcement” and distinguish it from its nearest neighboring learning constructs.
 
@@ -918,6 +964,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Negative reinforcement increases behavior.
 Negative means removal.
 Escape and avoidance differ by timing.
+
+## 1.7.27 Punishment
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Punishment” and distinguish it from its nearest neighboring learning constructs.
@@ -954,6 +1002,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 Positive and negative refer to presentation/removal.
 Suppression is not equivalent to skill acquisition.
 
+## 1.7.28 Positive punishment
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Positive punishment” and distinguish it from its nearest neighboring learning constructs.
 
@@ -988,6 +1038,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Positive means presented.
 Decrease is the defining effect.
 Suppression does not establish an alternative response.
+
+## 1.7.29 Negative punishment
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Negative punishment” and distinguish it from its nearest neighboring learning constructs.
@@ -1024,6 +1076,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 Value of the removed event matters.
 Behavioral effect determines classification.
 
+## 1.7.30 Primary reinforcer
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Primary reinforcer” and distinguish it from its nearest neighboring learning constructs.
 
@@ -1058,6 +1112,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Primary does not mean universally effective.
 Physiological state changes value.
 Primary outcomes can establish secondary reinforcers.
+
+## 1.7.31 Secondary reinforcer
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Secondary reinforcer” and distinguish it from its nearest neighboring learning constructs.
@@ -1094,6 +1150,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 Learned value can change.
 Function, not label, defines reinforcement.
 
+## 1.7.32 Reinforcement schedule
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Reinforcement schedule” and distinguish it from its nearest neighboring learning constructs.
 
@@ -1128,6 +1186,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Schedule structure shapes response patterns.
 Contingency history matters.
 Schedule is distinct from reinforcer value.
+
+## 1.7.33 Fixed-ratio schedule
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Fixed-ratio schedule” and distinguish it from its nearest neighboring learning constructs.
@@ -1164,6 +1224,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 The requirement is predictable.
 Pattern depends on ratio size and history.
 
+## 1.7.34 Variable-ratio schedule
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Variable-ratio schedule” and distinguish it from its nearest neighboring learning constructs.
 
@@ -1197,6 +1259,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Response count controls eligibility.
 The requirement varies.
 Unpredictability can support persistence.
+
+## 1.7.35 Fixed-interval schedule
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Fixed-interval schedule” and distinguish it from its nearest neighboring learning constructs.
@@ -1233,6 +1297,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 Predictable timing shapes response pattern.
 The first eligible response is reinforced.
 
+## 1.7.36 Variable-interval schedule
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Variable-interval schedule” and distinguish it from its nearest neighboring learning constructs.
 
@@ -1266,6 +1332,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Time controls eligibility.
 Intervals vary unpredictably.
 Unpredictability can support steady responding.
+
+## 1.7.37 Shaping
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Shaping” and distinguish it from its nearest neighboring learning constructs.
@@ -1302,6 +1370,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 Criteria must change toward the target.
 Timing and criterion placement matter.
 
+## 1.7.38 Chaining
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Chaining” and distinguish it from its nearest neighboring learning constructs.
 
@@ -1336,6 +1406,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Complex sequences can be built from simpler responses.
 Each link can acquire stimulus control.
 Chaining differs from shaping.
+
+## 1.7.39 Discriminative stimulus
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Discriminative stimulus” and distinguish it from its nearest neighboring learning constructs.
@@ -1372,6 +1444,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 It changes probability, not certainty.
 Control depends on learning history.
 
+## 1.7.40 Escape learning
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Escape learning” and distinguish it from its nearest neighboring learning constructs.
 
@@ -1406,6 +1480,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Escape occurs after onset.
 Removal maintains the response.
 Escape differs from avoidance.
+
+## 1.7.41 Avoidance learning
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Avoidance learning” and distinguish it from its nearest neighboring learning constructs.
@@ -1442,6 +1518,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 Successful prevention can maintain behavior.
 Avoidance is not synonymous with fear.
 
+## 1.7.42 Reinforcer devaluation
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Reinforcer devaluation” and distinguish it from its nearest neighboring learning constructs.
 
@@ -1476,6 +1554,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Outcome value can change independently of contingency.
 Devaluation tests outcome sensitivity.
 Interpretation depends on motivation and history.
+
+## 1.7.43 Observational learning
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Observational learning” and distinguish it from its nearest neighboring learning constructs.
@@ -1512,6 +1592,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 Observed consequences can alter behavior.
 Learning and imitation are distinct.
 
+## 1.7.44 Modeling
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Modeling” and distinguish it from its nearest neighboring learning constructs.
 
@@ -1546,6 +1628,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Models provide behavioral information.
 Modeling need not produce exact copying.
 Observer characteristics affect uptake.
+
+## 1.7.45 Imitation
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Imitation” and distinguish it from its nearest neighboring learning constructs.
@@ -1582,6 +1666,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 Fidelity can vary.
 Similarity alone does not prove imitation.
 
+## 1.7.46 Vicarious learning
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Vicarious learning” and distinguish it from its nearest neighboring learning constructs.
 
@@ -1616,6 +1702,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Others' outcomes can provide behavioral information.
 Direct reinforcement is not required.
 Observed value is interpreted by the learner.
+
+## 1.7.47 Social learning
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Social learning” and distinguish it from its nearest neighboring learning constructs.
@@ -1652,6 +1740,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 Social learning is broader than imitation.
 Learners actively process social input.
 
+## 1.7.48 Cognitive learning
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Cognitive learning” and distinguish it from its nearest neighboring learning constructs.
 
@@ -1686,6 +1776,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Learning can alter knowledge without immediate performance.
 Representations can guide later behavior.
 Cognitive does not mean consciously verbal.
+
+## 1.7.49 Latent learning
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Latent learning” and distinguish it from its nearest neighboring learning constructs.
@@ -1722,6 +1814,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 Immediate reward is not necessary for all acquisition.
 Later expression needs careful interpretation.
 
+## 1.7.50 Insight learning
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Insight learning” and distinguish it from its nearest neighboring learning constructs.
 
@@ -1756,6 +1850,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Insight involves restructuring.
 Sudden performance can depend on prior learning.
 Behavioral abruptness does not identify one mechanism.
+
+## 1.7.51 Learning without immediate performance
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Learning without immediate performance” and distinguish it from its nearest neighboring learning constructs.
@@ -1792,6 +1888,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 Learning can remain unexpressed.
 Later expression requires alternative explanations to be ruled out.
 
+## 1.7.52 Habituation
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Habituation” and distinguish it from its nearest neighboring learning constructs.
 
@@ -1826,6 +1924,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Habituation reduces responding.
 It is often stimulus-specific and reversible.
 Reduced response is not automatically fatigue.
+
+## 1.7.53 Sensitization
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Sensitization” and distinguish it from its nearest neighboring learning constructs.
@@ -1862,6 +1962,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 Effects can generalize.
 Intensity and context matter.
 
+## 1.7.54 Skill learning
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Skill learning” and distinguish it from its nearest neighboring learning constructs.
 
@@ -1896,6 +1998,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Skill learning changes coordinated performance.
 Practice quality matters.
 Transfer depends on structural overlap.
+
+## 1.7.55 Practice
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Practice” and distinguish it from its nearest neighboring learning constructs.
@@ -1932,6 +2036,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 Quality and spacing matter.
 Repetition can reinforce errors.
 
+## 1.7.56 Skill acquisition
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Skill acquisition” and distinguish it from its nearest neighboring learning constructs.
 
@@ -1966,6 +2072,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Acquisition is stable improvement.
 Early and later control demands can differ.
 Robustness matters.
+
+## 1.7.57 Expertise development
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Expertise development” and distinguish it from its nearest neighboring learning constructs.
@@ -2002,6 +2110,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 Experience alone does not guarantee expertise.
 Experts remain context-sensitive.
 
+## 1.7.58 Transfer of learning
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Transfer of learning” and distinguish it from its nearest neighboring learning constructs.
 
@@ -2036,6 +2146,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Transfer can help or interfere.
 Structural similarity supports transfer.
 Transfer claims require baseline evidence.
+
+## 1.7.59 Learning strategies
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Learning strategies” and distinguish it from its nearest neighboring learning constructs.
@@ -2072,6 +2184,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 Active retrieval can support durable learning.
 Strategy selection is itself a skill.
 
+## 1.7.60 Feedback and learning
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Feedback and learning” and distinguish it from its nearest neighboring learning constructs.
 
@@ -2106,6 +2220,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Feedback must be actionable.
 Timing and specificity matter.
 External feedback can create dependency.
+
+## 1.7.61 Self-regulated learning
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Self-regulated learning” and distinguish it from its nearest neighboring learning constructs.
@@ -2142,6 +2258,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 Calibration matters more than confidence alone.
 Regulation operates within constraints.
 
+## 1.7.62 Behavior modification
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Behavior modification” and distinguish it from its nearest neighboring learning constructs.
 
@@ -2176,6 +2294,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Behavior modification applies learning principles.
 Measurement should be objective.
 Technical and ethical judgments are distinct.
+
+## 1.7.63 Habit formation through learning
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Habit formation through learning” and distinguish it from its nearest neighboring learning constructs.
@@ -2212,6 +2332,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 Habit formation can reduce deliberative demand.
 Habits remain modifiable.
 
+## 1.7.64 Habit strength
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Habit strength” and distinguish it from its nearest neighboring learning constructs.
 
@@ -2247,6 +2369,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 Cue dependence is central.
 Strong habits remain modifiable.
 
+## 1.7.65 Habit disruption
+
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Habit disruption” and distinguish it from its nearest neighboring learning constructs.
 
@@ -2281,6 +2405,8 @@ Defers broader learning to 1.7.1 and neighboring mechanisms, expressions, or app
 - Changing cues can reduce expression.
 Replacement can compete with old routines.
 Disruption is not guaranteed erasure.
+
+## 1.7.66 Learning and context
 
 ## 1. Purpose
 Explain the psychological process or learning principle represented by “Learning and context” and distinguish it from its nearest neighboring learning constructs.
