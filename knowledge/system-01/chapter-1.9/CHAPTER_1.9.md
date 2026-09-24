@@ -26,6 +26,8 @@ A final interpretive boundary is that thinking is not necessarily conscious. Del
 
 Process tracing should therefore accompany outcome scoring where possible. The same answer can result from retrieval, analogy, heuristic search, or explicit derivation, and those routes have different transfer properties. This makes mechanism identification essential.
 
+The boundary condition for Thinking is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Thinking contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -63,6 +65,8 @@ The umbrella nature of cognition means explanations should resolve the level at 
 Because cognition is heterogeneous, broad scores should be treated as summaries rather than mechanisms. Component dissociations and task manipulations are needed to establish which process changed and why.
 
 The broad construct should be used only as an organizing layer. Specific explanations should resolve to attention, perception, memory, language, reasoning, control, or other narrower processes when evidence permits.
+
+The boundary condition for Cognition is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Cognition contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -102,6 +106,8 @@ Representational claims should remain at the strongest level justified by eviden
 
 A representation should be defined by the information and relations it preserves, not by an illustrative metaphor. This distinction keeps functional claims separate from stronger claims about implementation.
 
+The boundary condition for Mental representation is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Mental representation contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -139,6 +145,8 @@ Concepts also provide a basis for inductive inference. Once an instance is categ
 Conceptual structure can be measured through transfer and exception handling. Definition recall alone is weak evidence because verbal familiarity can exist without usable conceptual organization.
 
 Conceptual knowledge is demonstrated most clearly when it supports novel inference. Repeating a definition shows verbal access but not necessarily a structured concept.
+
+The boundary condition for Concepts is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Concepts contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -178,6 +186,8 @@ Category research should distinguish the category known by the person from the c
 
 Category boundaries can change with task demands while the underlying knowledge remains stable. This is why classification and representation must be measured separately.
 
+The boundary condition for Categories is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Categories contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -215,6 +225,8 @@ Prototype representations can also be hierarchical. A person may possess prototy
 Prototype evidence is strongest when exposure distributions are manipulated and classification shifts in the predicted direction. Typicality alone is insufficient because several models can generate it.
 
 Prototype effects can coexist with exemplar sensitivity. A central tendency may guide broad classification while specific exceptions retain independent influence.
+
+The boundary condition for Prototypes is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Prototypes contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -254,6 +266,8 @@ Exemplar evidence is strongest when unusual and recent instances influence class
 
 Exemplar influence is especially informative when atypical cases change later classification. Such effects reveal the importance of learning history and memory accessibility.
 
+The boundary condition for Exemplars is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Exemplars contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -291,6 +305,8 @@ Categorization is also a form of compression. It reduces many possible distincti
 Categorization is also sensitive to uncertainty. Ambiguous instances can produce graded evidence before a discrete response is selected, linking category use to decision criteria.
 
 Category decisions can be probabilistic before becoming categorical at response. Evidence accumulation and criterion setting therefore both contribute to observed classification.
+
+The boundary condition for Categorization is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Categorization contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -330,6 +346,8 @@ Concept formation should be separated from label acquisition. A learner can repr
 
 Concept learning should be evaluated through transfer and exception handling rather than immediate training accuracy.
 
+The boundary condition for Concept formation is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Concept formation contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -367,6 +385,8 @@ Schema activation can be partial rather than all-or-none. A situation may activa
 Schema effects should be evaluated against both expected and violated events. This reveals when prior knowledge facilitates processing and when it produces systematic intrusion.
 
 Schemas are predictive structures, so their accuracy depends on the regularity of the environment. Violated schemas provide especially informative tests of flexibility and updating.
+
+The boundary condition for Schemas is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Schemas contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -406,6 +426,8 @@ Script knowledge should be tested across variants of the same event. Flexible sc
 
 Scripts can support action as well as comprehension, but intended action should not be confused with knowledge of what usually happens. This boundary separates scripts from plans.
 
+The boundary condition for Scripts is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Scripts contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -443,6 +465,8 @@ Mental models are especially testable through counterfactual and intervention qu
 Mental-model evidence is strongest when predictions survive interventions and changed surface descriptions. Verbal description alone can be supported by rote knowledge without a usable model.
 
 Model validity is best tested by intervention and transfer. A model that only reproduces familiar descriptions has limited explanatory value.
+
+The boundary condition for Mental models is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Mental models contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -482,6 +506,8 @@ Knowledge structures are best studied through relations among facts, not only th
 
 Knowledge organization can create both facilitation and interference. Closely related structures may improve access while increasing confusion among similar alternatives.
 
+The boundary condition for Knowledge structures is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Knowledge structures contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -519,6 +545,8 @@ Imagery can also be transformed rather than merely maintained. Mental rotation, 
 Imagery should be evaluated through both subjective and behavioral measures because vividness and functional performance can dissociate.
 
 Imagery research should distinguish phenomenology, representational fidelity, and functional utility. None is a complete proxy for the others.
+
+The boundary condition for Mental imagery is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Mental imagery contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -558,6 +586,8 @@ Symbolic competence requires both manipulation and interpretation. Correct synta
 
 Symbolic reasoning requires mapping between formal structure and meaning. Manipulating symbols correctly does not guarantee understanding of their referents.
 
+The boundary condition for Symbolic thought is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Symbolic thought contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -595,6 +625,8 @@ Abstraction should preserve the relations that are invariant across cases. The r
 Abstract transfer provides stronger evidence than success on one formulation because it tests whether the invariant relation has actually been represented.
 
 Abstraction is demonstrated by preserving relevant relations across changes in surface form. It is not simply the use of difficult or general language.
+
+The boundary condition for Abstract thinking is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Abstract thinking contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -634,6 +666,8 @@ Concrete reasoning can be strategically optimal when exact boundary conditions m
 
 Concrete information can reveal exceptions that abstract models hide. Effective cognition therefore moves between levels according to the task.
 
+The boundary condition for Concrete thinking is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Concrete thinking contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -671,6 +705,8 @@ Rule learning can produce strong habits of application. Once a rule becomes high
 Rule application should be tested under changed contexts because knowing a rule is different from knowing its conditions of applicability.
 
 Rule competence includes knowing when a rule applies and when an exception overrides it. Application conditions are part of the learned representation.
+
+The boundary condition for Rule learning is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Rule learning contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -710,6 +746,8 @@ Representational adequacy is demonstrated by improved operations such as transfe
 
 Representational adequacy is ultimately empirical: a proposed format should predict transfer, errors, and performance changes under reformulation.
 
+The boundary condition for Knowledge representation is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Knowledge representation contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -747,6 +785,8 @@ Reasoning is also affected by the representation of uncertainty and alternatives
 Reasoning should be evaluated with the relevant normative standard made explicit. Without that criterion, “good reasoning” can become an undefined global judgment.
 
 Reasoning should specify its evidence standard. Validity, probability, causality, explanation, and usefulness are different criteria and require different measurements.
+
+The boundary condition for Reasoning is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the reasoning layer of Chapter 1.9 and connects representations to inference without collapsing reasoning into decision-making or memory retrieval. Reasoning contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -786,6 +826,8 @@ Deductive performance should be tested across content variations to distinguish 
 
 Deductive competence should be assessed across content and wording variations to separate logic from comprehension and belief.
 
+The boundary condition for Deductive reasoning is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the reasoning layer of Chapter 1.9 and connects representations to inference without collapsing reasoning into decision-making or memory retrieval. Deductive reasoning contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -823,6 +865,8 @@ Induction is especially sensitive to environmental change. A regularity learned 
 Inductive reasoning should account for the data-generating process because evidence quality depends on how observations were sampled.
 
 Inductive inference should account for sampling and environmental stability because generalization depends on how evidence was generated.
+
+The boundary condition for Inductive reasoning is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the reasoning layer of Chapter 1.9 and connects representations to inference without collapsing reasoning into decision-making or memory retrieval. Inductive reasoning contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -862,6 +906,8 @@ Abductive conclusions remain hypotheses until discriminating evidence separates 
 
 Abduction becomes stronger when competing explanations and discriminating observations are made explicit.
 
+The boundary condition for Abductive reasoning is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the reasoning layer of Chapter 1.9 and connects representations to inference without collapsing reasoning into decision-making or memory retrieval. Abductive reasoning contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -899,6 +945,8 @@ Causal reasoning also requires distinguishing interventions from observations. A
 Causal reasoning is stronger when the person can predict intervention effects rather than only reproduce observed correlations.
 
 Causal reasoning is strongest when it predicts effects of interventions or counterfactual changes rather than only associations.
+
+The boundary condition for Causal reasoning is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the reasoning layer of Chapter 1.9 and connects representations to inference without collapsing reasoning into decision-making or memory retrieval. Causal reasoning contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -938,6 +986,8 @@ Counterfactual structure reveals which feature the person treats as causally rel
 
 Counterfactuals can reveal assumptions about causality and controllability, making their structure more informative than their vividness.
 
+The boundary condition for Counterfactual thinking is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the reasoning layer of Chapter 1.9 and connects representations to inference without collapsing reasoning into decision-making or memory retrieval. Counterfactual thinking contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -975,6 +1025,8 @@ Probabilistic reasoning also requires representing dependence. Two pieces of evi
 Probabilistic reasoning requires calibrated uncertainty, not merely correct arithmetic. Repeated judgments provide the strongest evidence of calibration.
 
 Calibration across repeated predictions is essential for assessing probabilistic reasoning. Individual correct guesses are weak evidence of competence.
+
+The boundary condition for Probabilistic reasoning is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the reasoning layer of Chapter 1.9 and connects representations to inference without collapsing reasoning into decision-making or memory retrieval. Probabilistic reasoning contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -1014,6 +1066,8 @@ Logical reasoning benefits from separating formal validity from factual truth. A
 
 Logical validity is a formal property; psychological reasoning performance is an empirical process. These levels should not be conflated.
 
+The boundary condition for Logical reasoning is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the reasoning layer of Chapter 1.9 and connects representations to inference without collapsing reasoning into decision-making or memory retrieval. Logical reasoning contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -1051,6 +1105,8 @@ Analogical reasoning can fail even when the source is understood because the tar
 Analogy quality depends on structural mapping. Surface resemblance can help retrieval while misleading transfer.
 
 Analogical transfer depends on structural correspondence more than superficial resemblance. Source retrieval and mapping should be measured separately.
+
+The boundary condition for Analogical reasoning is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the reasoning layer of Chapter 1.9 and connects representations to inference without collapsing reasoning into decision-making or memory retrieval. Analogical reasoning contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -1090,6 +1146,8 @@ Transfer failure can occur because the source was not retrieved, the relation wa
 
 Transfer demonstrates whether knowledge is organized at a reusable relational level rather than tied to one surface context.
 
+The boundary condition for Analogical transfer is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the reasoning layer of Chapter 1.9 and connects representations to inference without collapsing reasoning into decision-making or memory retrieval. Analogical transfer contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -1127,6 +1185,8 @@ Simulation can be iterative: an initial prediction may reveal a contradiction, l
 Simulation accuracy depends on model completeness. Vividness does not guarantee that the simulated causal structure is correct.
 
 Simulation should be evaluated by prediction under changed conditions. Vividness alone cannot establish model accuracy.
+
+The boundary condition for Mental simulation is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the reasoning layer of Chapter 1.9 and connects representations to inference without collapsing reasoning into decision-making or memory retrieval. Mental simulation contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -1166,6 +1226,8 @@ Prospective thinking should be evaluated against outcomes when prediction is the
 
 Future thinking should distinguish generating plausible scenarios from forecasting which scenario will occur. These are different cognitive achievements.
 
+The boundary condition for Prospective thinking is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the reasoning layer of Chapter 1.9 and connects representations to inference without collapsing reasoning into decision-making or memory retrieval. Prospective thinking contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -1203,6 +1265,8 @@ Problem solving can be interrupted by misleading subgoals, inefficient search, o
 Problem solving is process-sensitive: the same final solution can arise through efficient search, exhaustive trial and error, or lucky retrieval.
 
 Problem solving should be analyzed across representation, search, restructuring, and evaluation. Final success alone cannot identify the route.
+
+The boundary condition for Problem solving is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Problem solving contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -1242,6 +1306,8 @@ Problem representation can be inferred from transfer across surface changes and 
 
 Problem representations should be tested for structural transfer because surface-specific solutions can masquerade as understanding.
 
+The boundary condition for Problem representation is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Problem representation contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -1279,6 +1345,8 @@ Problem identification is especially important in ill-structured environments wh
 Problem identification is especially important when the task is ill-structured because the problem definition itself is part of the solution.
 
 Problem identification is itself a cognitive operation and can require causal diagnosis before search begins.
+
+The boundary condition for Problem identification is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Problem identification contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -1318,6 +1386,8 @@ Goal representation should be monitored because local metrics can become detache
 
 Goal representations should be monitored because local proxies can drift away from the underlying objective.
 
+The boundary condition for Goal states is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Goal states contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -1355,6 +1425,8 @@ Planning can include monitoring and revision because future conditions are uncer
 Planning quality is revealed under changed conditions. Robust plans specify contingencies without attempting to enumerate every possible future.
 
 Planning should be evaluated under perturbation to determine whether it contains flexible contingencies rather than only fixed sequences.
+
+The boundary condition for Planning is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Planning contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -1394,6 +1466,8 @@ Means–ends analysis is a heuristic and can become trapped by local progress. I
 
 Means–ends analysis is conditional on the operator structure. Local progress can be misleading when the solution requires temporary divergence.
 
+The boundary condition for Means–ends analysis is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Means–ends analysis contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -1431,6 +1505,8 @@ Algorithmic procedures can be learned as schemas and then executed with reduced 
 Algorithm use requires correct selection and parameterization in addition to correct execution. Procedural knowledge alone is insufficient.
 
 Algorithmic competence includes recognizing when the procedure applies. Correct execution cannot rescue incorrect problem classification.
+
+The boundary condition for Algorithms is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Algorithms contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -1470,6 +1546,8 @@ Heuristic evaluation should be ecological: the relevant comparison is often with
 
 Heuristics should be evaluated relative to ecological constraints rather than against impossible exhaustive optimization.
 
+The boundary condition for Heuristics is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Heuristics contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -1507,6 +1585,8 @@ Insight can be distinguished from simple retrieval by examining whether the solu
 Insight claims require evidence of restructuring rather than merely a sudden subjective feeling. Transfer can help establish whether a new representation was gained.
 
 Insight evidence is strongest when a representational restructuring produces transferable solution knowledge.
+
+The boundary condition for Insight is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Insight contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -1546,6 +1626,8 @@ Mental set is adaptive persistence under stable conditions. It becomes maladapti
 
 Mental set reflects the persistence of learned strategies and therefore links learning history to flexibility.
 
+The boundary condition for Mental set is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Mental set contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -1583,6 +1665,8 @@ Functional fixedness is strongest when conventional function is highly salient a
 Functional fixedness demonstrates that familiar knowledge can constrain alternative affordance detection. The constraint is therefore learned and context-sensitive.
 
 Functional fixedness is a specific representational constraint involving familiar object functions, not a general creativity deficit.
+
+The boundary condition for Functional fixedness is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Functional fixedness contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -1622,6 +1706,8 @@ Fixation can be induced and reduced experimentally, supporting its interpretatio
 
 Fixation is broader than functional fixedness and mental set because it can anchor interpretation before a stable strategy exists.
 
+The boundary condition for Cognitive fixation is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Cognitive fixation contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -1659,6 +1745,8 @@ Creative cognition depends on both association and constraint. Too little constr
 Creative cognition should be decomposed into generation, transformation, evaluation, and refinement because different tasks isolate different stages.
 
 Creative cognition should be decomposed into operations so that generation, restructuring, evaluation, and refinement are not treated as one mechanism.
+
+The boundary condition for Creative cognition is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Creative cognition contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -1698,6 +1786,8 @@ Creativity requires a specified domain and reference population because novelty 
 
 Creativity is domain-relative and multidimensional; novelty and usefulness must be evaluated against an appropriate reference.
 
+The boundary condition for Creativity is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Creativity contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -1735,6 +1825,8 @@ Divergent thinking can be improved by changing the search constraints, such as a
 Divergent-thinking scores should be interpreted as process indicators rather than global creativity measures.
 
 Divergent thinking measures generative search but should not be treated as a complete measure of creative achievement.
+
+The boundary condition for Divergent thinking is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Divergent thinking contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -1774,6 +1866,8 @@ Convergent thinking is partly about criterion quality. A poor criterion can prod
 
 Convergent thinking depends on both candidate quality and evaluation criteria, making criterion selection part of the process.
 
+The boundary condition for Convergent thinking is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the problem-solving layer and distinguishes transformation toward goals from general reasoning, motivation, or final decision choice. Convergent thinking contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -1811,6 +1905,8 @@ Executive functions also interact with long-term knowledge. Expertise can reduce
 Executive-function claims require converging tasks because individual tasks contain multiple component demands.
 
 Executive functions require multi-method assessment because individual tasks contain overlapping demands.
+
+The boundary condition for Executive functions is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Executive functions contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -1850,6 +1946,8 @@ Inhibitory control should be interpreted relative to the competing response and 
 
 Inhibitory control is defined relative to a competing response and context, not as a universal mental brake.
 
+The boundary condition for Inhibitory control is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Inhibitory control contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -1887,6 +1985,8 @@ Updating is especially important when information changes faster than it can be 
 Updating should preserve relevant continuity while replacing obsolete information. Both excessive and insufficient updating can impair performance.
 
 Updating must balance stability and change: replacing too much information can be as disruptive as replacing too little.
+
+The boundary condition for Updating is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Updating contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -1926,6 +2026,8 @@ Switching costs reflect preparation and interference as well as flexibility. Mea
 
 Switching performance reflects preparation and interference as well as flexibility, so task timing matters.
 
+The boundary condition for Cognitive shifting is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Cognitive shifting contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -1963,6 +2065,8 @@ Flexibility also includes representational flexibility. A person may remain on t
 Flexibility is adaptive change, not maximal change. The relevant question is whether switching occurs when evidence warrants it.
 
 Flexibility is adaptive when change is warranted and stability is maintained when it is not.
+
+The boundary condition for Cognitive flexibility is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Cognitive flexibility contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -2002,6 +2106,8 @@ Control is selective resource allocation. Strong control does not mean constant 
 
 Control is resource allocation and coordination, not continuous maximal effort. Efficient control can reduce the need for effortful intervention.
 
+The boundary condition for Cognitive control is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Cognitive control contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -2039,6 +2145,8 @@ Metacognition is especially useful when cognitive performance is uncertain. Moni
 Metacognition is useful when monitoring and control form a functional feedback loop rather than isolated self-judgments.
 
 Metacognition is strongest when monitoring information actually improves regulation. Accurate self-description without useful control has limited functional value.
+
+The boundary condition for Metacognition is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Metacognition contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -2078,6 +2186,8 @@ Metacognitive knowledge should be tested for conditional accuracy: knowing when 
 
 Metacognitive knowledge should be conditional and strategy-specific because no learning strategy works equally well across tasks.
 
+The boundary condition for Metacognitive knowledge is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Metacognitive knowledge contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -2115,6 +2225,8 @@ Monitoring can be task-specific because different cues predict performance diffe
 Monitoring should be assessed at the time scale relevant to the outcome because immediate fluency can differ from delayed learning.
 
 Monitoring quality is calibration between subjective judgment and objective performance, measured at the relevant time scale.
+
+The boundary condition for Metacognitive monitoring is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Metacognitive monitoring contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -2154,6 +2266,8 @@ Control effectiveness depends on choosing an intervention that targets the actua
 
 Metacognitive control requires diagnosing the bottleneck and selecting an intervention that addresses it.
 
+The boundary condition for Metacognitive control is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Metacognitive control contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -2191,6 +2305,8 @@ Metacognitive experiences can be shaped by task framing and prior expectations. 
 Metacognitive experiences are informative cues, not transparent measurements of cognitive state.
 
 Metacognitive experiences are useful signals but can be distorted by fluency, familiarity, expectations, and task framing.
+
+The boundary condition for Metacognitive experience is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Metacognitive experience contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -2230,6 +2346,8 @@ Confidence is most informative when calibrated to objective performance across r
 
 Confidence becomes scientifically informative when it predicts accuracy better than chance and remains calibrated across conditions.
 
+The boundary condition for Confidence in thinking is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Confidence in thinking contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -2267,6 +2385,8 @@ Cognitive load also changes with representation. A well-designed diagram can red
 Load is person-by-task dependent because knowledge and representation alter the amount of active processing required.
 
 Cognitive load is relational: learner knowledge, representation, and presentation all change the processing burden.
+
+The boundary condition for Cognitive load is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Cognitive load contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -2306,6 +2426,8 @@ Bounded rationality evaluates strategies under realistic constraints rather than
 
 Bounded rationality evaluates strategies under realistic constraints and environmental structure rather than abstract perfection.
 
+The boundary condition for Bounded rationality is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Bounded rationality contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -2343,6 +2465,8 @@ Reflection requires a reason to distrust the first answer. If no conflict is det
 Reflection requires conflict detection and corrective knowledge; additional time alone does not guarantee a better answer.
 
 Reflection depends on detecting conflict and possessing corrective knowledge; extra deliberation is not automatically beneficial.
+
+The boundary condition for Cognitive reflection is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Cognitive reflection contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -2382,6 +2506,8 @@ Belief formation should distinguish endorsement from confidence, evidence sensit
 
 Belief formation should be studied through evidence history, source evaluation, confidence, and subsequent behavioral consequences.
 
+The boundary condition for Belief formation is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Belief formation contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -2419,6 +2545,8 @@ Belief revision can create cascading changes when beliefs are interdependent. Ch
 Belief revision can propagate through connected propositions, so isolated before-and-after answers may miss restructuring.
 
 Belief revision can restructure connected propositions, so change in one answer may underestimate change in the wider belief system.
+
+The boundary condition for Belief revision is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Belief revision contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
@@ -2458,6 +2586,8 @@ Belief updating is sequential and should be evaluated across evidence streams ra
 
 Updating should be evaluated sequentially because evidence order, reliability, and redundancy influence the trajectory of belief.
 
+The boundary condition for Belief updating is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Belief updating contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -2496,6 +2626,8 @@ Knowledge acquisition requires delayed retention and transfer if the goal is dur
 
 Knowledge acquisition is durable when it survives delay, supports explanation, and transfers to novel contexts.
 
+The boundary condition for Knowledge acquisition is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
+
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Knowledge acquisition contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
 
@@ -2533,6 +2665,8 @@ Expertise also changes error detection. Experts often recognize when a familiar 
 Expertise should be tested under both familiar and novel conditions to distinguish routine efficiency from adaptive expertise.
 
 Expertise is demonstrated not only by routine speed but by recognizing exceptions and adapting representations when familiar patterns fail.
+
+The boundary condition for Expertise and thinking is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
 This Topic occupies the executive-control layer and distinguishes regulation of cognition from the specific cognitive contents, memories, or social judgments being regulated. Expertise and thinking contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
