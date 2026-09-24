@@ -1,2541 +1,2239 @@
 # CHAPTER 1.10 — JUDGMENT, DECISION-MAKING, AND CHOICE
 
-**Canonical Knowledge Version:** 2.0  
-**Status:** LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 2.0  
-**Architecture:** 65 locked entries  
-**System:** System 1 — Universal Human Psychology
+**Status:** V3 DEEP REBUILT — CANONICAL KNOWLEDGE VERSION 3.0  
+**Canonical Topic count:** 65  
+**System:** 1 — HUMAN PSYCHOLOGY
 
 ## Chapter Purpose
 
-This chapter provides the canonical System 1 knowledge layer for judgment, decision-making, choice, preference, heuristics, decision biases and effects, and major decision-theoretic frameworks. It distinguishes descriptive psychological processes from normative models and preserves explicit boundaries with reasoning and representation (1.9), memory (1.8), emotion (1.13), motivation and self-regulation (1.12), social cognition and group processes (1.16), and language/intelligence (1.11).
+This chapter provides the canonical System 1 knowledge layer for judgment, decision-making, choice, preference, heuristics, decision phenomena, formal decision models, naturalistic decision processes, choice environments, and major decision-quality problems. It distinguishes descriptive psychological processes from normative models and preserves ownership boundaries with representation and reasoning (1.9), memory (1.8), emotion (1.13), motivation and self-regulation (1.12), social cognition and group processes (1.16), and language/intelligence (1.11).
 
 ## Scientific Integrity
 
-The chapter treats named biases and effects as empirical phenomena requiring defined comparison conditions, not as universal defects in human cognition. Normative theories are separated from descriptive claims. Probability, utility, accuracy, confidence, outcome quality, and subjective value are not collapsed into one dimension. Where mechanisms remain contested or context-dependent, the object records that uncertainty rather than converting a prominent theory into settled fact.
+Named biases and effects are treated as empirical phenomena defined relative to explicit comparison conditions, not as universal defects. Normative theories are separated from descriptive mechanisms. Probability, utility, confidence, accuracy, subjective value, and outcome quality are not collapsed into one dimension. Where mechanisms or effect sizes remain context-dependent or contested, the chapter preserves that uncertainty.
 
 ## Canonical Knowledge Objects
 
 ## 1.10.1 Judgment
 
-**Section:** Decision foundations
-
 ## 1. Purpose
-Provide a canonical account of judgment as the process of forming an evaluation, estimate, or belief about a person, event, option, or state of affairs.
+Establish the meaning, function, scientific scope, and boundaries of **Judgment** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Judgment is an evaluative or inferential output about what is true, likely, desirable, important, or appropriate. It can precede action and does not itself require a behavioral choice.
+Judgment is the formation of an evaluation, estimate, or belief about a state of affairs, option, person, event, probability, value, or responsibility.
 
 ## 3. Core Understanding
-Judgment compresses available evidence, representations, goals, and contextual cues into an assessment. A judgment can concern probability, value, causation, responsibility, or quality. Its accuracy and its usefulness are different questions: a confident judgment may be poorly calibrated, while a simplified judgment can be adaptive when it preserves what matters for the task. Judgment is therefore not synonymous with decision-making. It produces an evaluative state or conclusion that may subsequently enter choice. Social, emotional, mnemonic, and perceptual inputs can alter the evidence that reaches judgment without making the resulting judgment purely irrational.
 
-Judgment concerns an assessment, whereas choice commits to an option. It can target truth, probability, value, causation, responsibility, quality, or appropriateness. The same evidence can support different judgments when the representation, reference class, or evaluative criterion differs. A judgment can therefore be descriptively accurate, normatively justified, subjectively convincing, or merely useful, and those properties must be separated.
+Judgment is an output of evaluation, but its content can concern very different targets. A probability estimate, value assessment, causal attribution, and responsibility judgment may all be called judgments while relying on different evidence and criteria. The construct is therefore defined by evaluative formation rather than by one mechanism. A judgment can be accurate or inaccurate, confident or uncertain, useful or misleading, and those dimensions must be kept separate.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+The process is best understood by separating inputs, transformations, outputs, and feedback. Inputs include available evidence, goals, prior knowledge, constraints, and the structure of the alternatives. Transformations can involve retrieval, comparison, valuation, prediction, stopping, or revision. Outputs include estimates, commitments, rankings, or changes in belief. Feedback can alter later decisions by changing knowledge, expectations, or reference points.
 
-For Judgment, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-Judgment supplies evaluative inputs to decision-making and choice. It draws on representation and reasoning from Chapter 1.9, memory from 1.8, perception from 1.4, and social cognition from 1.16.
+Judgment is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It provides the opening process distinction for the chapter, and prepares the distinction from Decision-making. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not equate judgment with choice, action, opinion, or moral judgment. A judgment may be revised without any action following it.
-
 ### Owns
-Judgment is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Judgment**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers the broader decision foundations preceding this Topic where that neighboring construct has the narrower preceding scope, and defers Decision-making where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **general cognitive processing** where that construct has its own canonical scope, and defers **Decision-making** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Judgments depend on evidence, representation, goals, and context.
-• Accuracy, confidence, and usefulness are separable.
-• Judgment is upstream of many choices but is not identical to choice.
+- Judgment must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Judgment can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.2 Decision-making
 
-**Section:** Decision foundations
-
 ## 1. Purpose
-Explain the process by which an agent selects, withholds, or revises a course of action among alternatives.
+Establish the meaning, function, scientific scope, and boundaries of **Decision-making** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Decision-making is the process of evaluating available actions or options and committing to, delaying, or declining a choice under constraints.
+Decision-making is the coordinated process through which alternatives, consequences, preferences, constraints, and uncertainty are considered and a course of action is selected, delayed, revised, or rejected.
 
 ## 3. Core Understanding
-Decision-making links information and goals to action selection. It can involve generating alternatives, predicting consequences, evaluating outcomes, comparing options, and implementing a selected response. The process varies with time pressure, uncertainty, stakes, expertise, emotion, and social setting. A decision can be deliberate or rapidly recognized, and a satisfactory decision need not maximize an abstract objective. Decision quality therefore depends partly on whether the process was appropriate to the information structure and constraints, not solely on the eventual outcome. This distinction separates decision process from hindsight evaluation.
 
-Decision-making is a process architecture rather than a single moment. It can include problem framing, option generation, prediction, valuation, comparison, commitment, implementation, and feedback. Different stages can fail independently. A good outcome can arise from a poor process through luck, while a poor outcome can follow a well-calibrated process because uncertainty remains.
+Decision-making is a temporally extended process. It can begin with identifying what needs to be decided, continue through option generation and consequence prediction, and end with commitment, implementation, or deliberate non-action. Different stages can be affected by different constraints, so a single final choice cannot reveal the whole process.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+The process is best understood by separating inputs, transformations, outputs, and feedback. Inputs include available evidence, goals, prior knowledge, constraints, and the structure of the alternatives. Transformations can involve retrieval, comparison, valuation, prediction, stopping, or revision. Outputs include estimates, commitments, rankings, or changes in belief. Feedback can alter later decisions by changing knowledge, expectations, or reference points.
 
-For Decision-making, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-Decision-making integrates judgment, preferences, reasoning, memory, emotion, motivation, and action control. It is the central process-level object of this chapter and interfaces with executive cognition in 1.9 and action in 1.21.
+Decision-making is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Judgment in the local decision architecture, and prepares the distinction from Choice. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not define every behavior as a decision; habitual or reflexive behavior may occur without meaningful option evaluation. Do not judge a decision solely from its outcome.
-
 ### Owns
-Decision-making is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Decision-making**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Judgment where that neighboring construct has the narrower preceding scope, and defers Choice where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Judgment** where that construct has its own canonical scope, and defers **Choice** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Decisions connect alternatives, consequences, preferences, and action.
-• Process quality and outcome quality can diverge.
-• Constraints can make satisficing rational without implying irrationality.
+- Decision-making must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Decision-making can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.3 Choice
 
-**Section:** Decision foundations
-
 ## 1. Purpose
-Specify the observable or representational selection produced by a decision process.
+Establish the meaning, function, scientific scope, and boundaries of **Choice** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Choice is the selection of one option, action, or state over competing available alternatives, including a deliberate decision not to choose.
+Choice is the selection or non-selection of an available option, action, or state following comparison, constraint, or other selection process.
 
 ## 3. Core Understanding
-Choice is the selection endpoint or commitment point, whereas decision-making is the broader process that produces it. Choices may be explicit, such as selecting among products, or operational, such as initiating or stopping an action. They can be influenced by defaults, framing, preferences, anticipated consequences, and social constraints. A choice does not prove that the chooser had stable preferences: preferences can be constructed during comparison. The same person may therefore make different choices across equivalent option sets without a corresponding change in enduring values.
 
-Choice is the selection event, not the complete psychological explanation of selection. Observed choice can reflect preferences, constraints, defaults, social pressure, uncertainty, habits, or strategic calculation. Repeated choices can provide evidence about preferences but cannot uniquely identify them without assumptions about the decision environment.
+Choice is the selection event within a larger decision episode. An observed choice can reflect preference, information, defaults, habits, constraints, social pressure, uncertainty, or strategic behavior. Choice therefore provides evidence about a decision process without uniquely identifying the process that produced it.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+The process is best understood by separating inputs, transformations, outputs, and feedback. Inputs include available evidence, goals, prior knowledge, constraints, and the structure of the alternatives. Transformations can involve retrieval, comparison, valuation, prediction, stopping, or revision. Outputs include estimates, commitments, rankings, or changes in belief. Feedback can alter later decisions by changing knowledge, expectations, or reference points.
 
-For Choice, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-Choice receives inputs from preference, judgment, and decision processes and can itself provide evidence about preferences. Choice architecture later in the chapter alters the environment in which choices are produced.
+Choice is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Decision-making in the local decision architecture, and prepares the distinction from Preference. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Choice is not synonymous with free will, preference, or decision-making. An observed choice does not uniquely identify its psychological cause.
-
 ### Owns
-Choice is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Choice**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Decision-making where that neighboring construct has the narrower preceding scope, and defers Preference where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Decision-making** where that construct has its own canonical scope, and defers **Preference** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Choice is an outcome of selection, not a complete explanation of selection.
-• Choice sets and defaults can affect observed choices.
-• Behavioral choice alone may underdetermine underlying preference.
+- Choice must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Choice can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.4 Preference
 
-**Section:** Decision foundations
-
 ## 1. Purpose
-Define the evaluative ordering or comparative tendency that makes some outcomes more desirable than others.
+Establish the meaning, function, scientific scope, and boundaries of **Preference** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-A preference is a relative valuation or ordering among alternatives, outcomes, or attributes.
+Preference is an ordered or comparative valuation indicating that one alternative, outcome, attribute, or state is preferred relative to another under specified conditions.
 
 ## 3. Core Understanding
-Preferences describe comparative desirability rather than merely liking something in isolation. They may be stable over some periods yet sensitive to context, reference points, time, framing, social information, and the way options are elicited. A preference can be expressed as an ordering, a choice tendency, or a strength of valuation, but these forms need not coincide perfectly. Psychology therefore distinguishes revealed choice from directly reported preference and from constructed preference. Preference is also not identical to utility: utility is a formal representation used in particular decision models, while everyday preferences can be incompletely specified.
 
-Preference is relational: it describes ordering or comparative valuation among alternatives. It can be stable across contexts yet locally constructed when the person encounters unfamiliar options. Reported preference, revealed preference, and model-implied utility can therefore diverge without any one measure being automatically the true preference.
+Preference is relational rather than merely descriptive. It specifies how alternatives compare under a particular person, context, time, and elicitation procedure. Preferences can contain stable components while still being sensitive to reference points, information, affect, and comparison structure.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+The process is best understood by separating inputs, transformations, outputs, and feedback. Inputs include available evidence, goals, prior knowledge, constraints, and the structure of the alternatives. Transformations can involve retrieval, comparison, valuation, prediction, stopping, or revision. Outputs include estimates, commitments, rankings, or changes in belief. Feedback can alter later decisions by changing knowledge, expectations, or reference points.
 
-For Preference, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
 
-For Preference construction, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-Preferences connect values, goals, affect, motivation, and choice. Preference construction and reversal show why decision environments can influence preference expression.
+Preference is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Choice in the local decision architecture, and prepares the distinction from Preference construction. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not assume preferences are fixed traits, perfectly introspectable, or identical to observed choices. Preference is broader than economic utility.
-
 ### Owns
-Preference is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Preference**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Choice where that neighboring construct has the narrower preceding scope, and defers Preference construction where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Choice** where that construct has its own canonical scope, and defers **Preference construction** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Preferences are comparative and context-sensitive.
-• Reported, revealed, and modelled preferences can diverge.
-• Stable values can coexist with locally constructed preferences.
+- Preference must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Preference can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.5 Preference construction
 
-**Section:** Decision foundations
-
 ## 1. Purpose
-Explain how preferences can be formed or specified during evaluation rather than simply retrieved from a fixed internal ranking.
+Establish the meaning, function, scientific scope, and boundaries of **Preference construction** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Preference construction is the process by which comparative valuations are generated or clarified from information, context, goals, and comparison procedures.
+Preference construction is the process by which a comparative valuation is assembled or clarified during evaluation rather than simply retrieved as a complete pre-existing ranking.
 
 ## 3. Core Understanding
-People often lack a fully specified ranking over every possible option. When a decision requires comparison, attention to attributes, reference points, tradeoffs, affect, memory, and social cues can help construct a temporary preference. The elicitation procedure can therefore become part of the psychological object being measured. Construction does not mean preferences are arbitrary: prior values, constraints, learning, and repeated experience can constrain the result. The concept is especially important when small changes in presentation alter valuation without changing the underlying outcomes.
 
-Preference construction matters because people rarely carry a fully specified ranking over every conceivable option. Comparison procedures can make some attributes salient, supply reference points, reveal tradeoffs, and create temporary valuations. Construction is constrained by values, knowledge, goals, and experience; it is not equivalent to arbitrariness.
+People do not necessarily possess a fully specified ranking over every possible alternative. Evaluation can therefore construct a temporary ordering by making attributes salient, supplying comparison standards, revealing tradeoffs, and integrating goals with available information. Construction is constrained by prior learning and values rather than being arbitrary.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+The process is best understood by separating inputs, transformations, outputs, and feedback. Inputs include available evidence, goals, prior knowledge, constraints, and the structure of the alternatives. Transformations can involve retrieval, comparison, valuation, prediction, stopping, or revision. Outputs include estimates, commitments, rankings, or changes in belief. Feedback can alter later decisions by changing knowledge, expectations, or reference points.
 
-For Preference reversal, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-Preference construction links choice architecture, framing, reference dependence, and individual goals. It also connects to Chapter 1.9 because representations determine which attributes and comparisons enter the process.
+Preference construction is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Preference in the local decision architecture, and prepares the distinction from Preference reversal. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not treat constructed preference as evidence that all preferences are unstable or fictitious. Construction concerns formation or elicitation, not mere preference change after new information.
-
 ### Owns
-Preference construction is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Preference construction**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Preference where that neighboring construct has the narrower preceding scope, and defers Preference reversal where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Preference** where that construct has its own canonical scope, and defers **Preference reversal** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Preferences can be assembled during comparison.
-• Elicitation procedures can affect what is observed.
-• Construction remains constrained by history, goals, values, and context.
+- Preference construction must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Preference construction can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.6 Preference reversal
 
-**Section:** Decision foundations
-
 ## 1. Purpose
-Characterize situations in which preference ordering changes across elicitation or presentation procedures without a corresponding change in the underlying alternatives.
+Establish the meaning, function, scientific scope, and boundaries of **Preference reversal** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Preference reversal is a change in expressed relative preference between options across decision or valuation procedures, frames, or response modes.
+Preference reversal is a change in expressed ordering between alternatives across elicitation procedures or comparison conditions when the relevant options and information have been appropriately controlled.
 
 ## 3. Core Understanding
-Preference reversals challenge the assumption that a single fixed ordering always governs every response format. They can arise when different tasks emphasize different attributes, when separate valuation and choice processes recruit different comparisons, or when context changes attention and reference points. A reversal is informative only when the options and relevant information are held sufficiently constant; genuine new information can legitimately change preference rather than constitute a reversal. The phenomenon therefore requires careful separation of preference instability from rational updating.
 
-A preference reversal requires careful control because changed evidence, changed consequences, or changed goals can legitimately change preference. The informative case is when the same alternatives and relevant information produce different orderings under different elicitation procedures. Such reversals can reveal task-dependent valuation processes rather than a single stable preference function.
+Preference reversal is informative only when the relevant alternatives and information remain sufficiently controlled. A changed preference after new evidence is ordinary updating; a changed ordering across response procedures with substantively matched information raises a different question about valuation and elicitation.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+The process is best understood by separating inputs, transformations, outputs, and feedback. Inputs include available evidence, goals, prior knowledge, constraints, and the structure of the alternatives. Transformations can involve retrieval, comparison, valuation, prediction, stopping, or revision. Outputs include estimates, commitments, rankings, or changes in belief. Feedback can alter later decisions by changing knowledge, expectations, or reference points.
 
-For Decision under certainty, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
 
-For Decision under risk, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-Preference reversal follows naturally from preference construction and interacts with framing, elicitation, reference dependence, and choice architecture. It connects to judgment because evaluation procedures determine what is compared.
+Preference reversal is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Preference construction in the local decision architecture, and prepares the distinction from Decision under certainty. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not call every changed preference a reversal. New evidence, changed goals, or changed consequences may produce justified preference revision.
-
 ### Owns
-Preference reversal is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Preference reversal**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Preference construction where that neighboring construct has the narrower preceding scope, and defers Decision under certainty where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Preference construction** where that construct has its own canonical scope, and defers **Decision under certainty** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Reversal is defined relative to a comparison or elicitation change.
-• Different response tasks can activate different valuation processes.
-• Methodological control is essential before inferring inconsistency.
+- Preference reversal must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Preference reversal can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.7 Decision under certainty
 
-**Section:** Decision foundations
-
 ## 1. Purpose
-Describe decisions in which the relevant consequence of each available action is treated as known rather than probabilistically variable.
+Establish the meaning, function, scientific scope, and boundaries of **Decision under certainty** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Decision under certainty is choice among alternatives whose relevant consequences are specified as certain.
+Decision under certainty is choice in a decision problem whose relevant consequences are treated as specified without probabilistic uncertainty.
 
 ## 3. Core Understanding
-Certainty removes uncertainty about which consequence follows, allowing evaluation to focus primarily on consequences and preferences. Real-world certainty is often approximate rather than absolute, so the construct is most useful as a limiting case for decision theory. Even under certainty, choices can be affected by framing, reference points, time, effort, social constraints, and incomplete preference specification. The absence of probabilistic uncertainty does not guarantee perfect reasoning or stable choice.
 
-Under certainty, the uncertainty component of the decision problem is removed, but cognitive complexity remains. People can still misrepresent consequences, compare attributes inconsistently, or use irrelevant reference points. Certainty is therefore a normative limiting case, not a guarantee of rational choice.
+Certainty is a property of the decision problem, not a feeling of confidence. If consequences are specified as fixed, probability weighting is unnecessary for that part of the problem, but representation, valuation, effort, reference dependence, and constraints still matter.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+The critical distinction is between properties of the environment and the person's representation of those properties. Objective probabilities, subjective beliefs, uncertainty about the probability model, and emotional responses can all diverge. Strong analysis therefore specifies what information was available, how it was represented, what inference was required, and what would count as adequate performance.
 
-For Decision under uncertainty, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-Certainty provides the baseline against which risk, uncertainty, and ambiguity are distinguished. Expected value and utility become conceptually simpler when outcome probabilities are not in question.
+Decision under certainty is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Preference reversal in the local decision architecture, and prepares the distinction from Decision under risk. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not equate certainty with complete knowledge, high confidence, or absence of cognitive bias. A person can feel certain while the environment remains uncertain.
-
 ### Owns
-Decision under certainty is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Decision under certainty**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Preference reversal where that neighboring construct has the narrower preceding scope, and defers Decision under risk where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Preference reversal** where that construct has its own canonical scope, and defers **Decision under risk** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Certainty concerns the structure of outcomes, not subjective confidence.
-• Deterministic consequences can still be psychologically complex.
-• Certainty is a useful limiting case for broader decision models.
+- Decision under certainty must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Decision under certainty can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.8 Decision under risk
 
-**Section:** Decision foundations
-
 ## 1. Purpose
-Define decision conditions in which possible outcomes and their probabilities are specified or meaningfully estimable.
+Establish the meaning, function, scientific scope, and boundaries of **Decision under risk** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Decision under risk involves alternatives with multiple possible outcomes for which probabilities are known, given, or represented sufficiently to support probabilistic comparison.
+Decision under risk is choice among alternatives whose possible consequences have usable probability information, whether objectively specified or represented by the decision-maker.
 
 ## 3. Core Understanding
-Risk differs from uncertainty because probability information is available in a usable form. Decision-makers may still misestimate probabilities, weight them nonlinearly, or value outcomes differently, so risk does not imply rational calculation. Expected value and expected utility provide normative frameworks for combining probabilities with outcomes, while psychological research examines how actual judgments depart from or adapt those frameworks. Risk can be objective at the environmental level while subjective at the representational level if the person holds inaccurate probability beliefs.
 
-Risk involves multiple possible outcomes with probability information that is specified or sufficiently estimable. Psychological risk behavior depends on probability representation, probability weighting, outcome value, reference points, and perceived control. Objective risk and subjective risk can therefore diverge.
+Risk permits probability to enter the decision model in a meaningful way. Objective probabilities may be known, estimated, or supplied, while subjective beliefs can differ from them. Risk-taking therefore reflects both properties of the environment and the person's representation of those properties.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+The critical distinction is between properties of the environment and the person's representation of those properties. Objective probabilities, subjective beliefs, uncertainty about the probability model, and emotional responses can all diverge. Strong analysis therefore specifies what information was available, how it was represented, what inference was required, and what would count as adequate performance.
 
-For Decision under ambiguity, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-Risk is the bridge between probability judgment and decision theory. Probability weighting, risk perception, and prospect theory describe psychological transformations of the information available under risk.
+Decision under risk is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Decision under certainty in the local decision architecture, and prepares the distinction from Decision under uncertainty. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not equate risk with danger or loss. Risk can involve gains, losses, or neutral outcomes whenever probabilistic uncertainty matters.
-
 ### Owns
-Decision under risk is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Decision under risk**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Decision under certainty where that neighboring construct has the narrower preceding scope, and defers Decision under uncertainty where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Decision under certainty** where that construct has its own canonical scope, and defers **Decision under uncertainty** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Risk requires usable probability structure.
-• Objective probabilities and subjective probability beliefs can differ.
-• Risk perception is psychologically distinct from formal risk.
+- Decision under risk must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Decision under risk can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.9 Decision under uncertainty
 
-**Section:** Decision foundations
-
 ## 1. Purpose
-Explain decisions made when outcome probabilities are unknown, unavailable, or not credibly specified.
+Establish the meaning, function, scientific scope, and boundaries of **Decision under uncertainty** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Decision under uncertainty concerns alternatives whose possible outcomes can be considered but whose probabilities cannot be assigned with sufficient confidence or agreement.
+Decision under uncertainty is choice when the possible outcomes, their probabilities, or the relevant state of the world cannot be specified with sufficient confidence for ordinary risk calculation.
 
 ## 3. Core Understanding
-Uncertainty is broader than risk because the probability distribution itself is not securely specified. People may respond by seeking information, using qualitative comparisons, relying on heuristics, delaying commitment, or adopting assumptions that make the situation tractable. Different uncertainty-management strategies can be reasonable under different information costs and consequences. The psychological study of uncertainty therefore includes not only probabilistic reasoning but also information search, ambiguity, confidence, and tolerance for incomplete knowledge.
 
-Uncertainty concerns cases where probabilities are not known with sufficient confidence or may not be meaningfully specified. Decision-makers must then rely on incomplete models, experience, qualitative cues, or robust strategies. Uncertainty should not be collapsed into low probability: an event can be uncertain because its probability distribution itself is poorly known.
+Uncertainty concerns insufficient knowledge about outcomes or their probabilities. The decision-maker may have to use ranges, scenarios, qualitative evidence, robustness, or learning rather than a single probability distribution. Uncertainty can therefore be epistemic without being reducible to anxiety or low confidence.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+The critical distinction is between properties of the environment and the person's representation of those properties. Objective probabilities, subjective beliefs, uncertainty about the probability model, and emotional responses can all diverge. Strong analysis therefore specifies what information was available, how it was represented, what inference was required, and what would count as adequate performance.
 
-For Expected value, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
 
-For Expected utility, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-Uncertainty connects to subjective probability, bounded rationality, ambiguity aversion, and naturalistic decision-making. Chapter 1.9 contributes the reasoning and representation processes through which uncertain situations are modelled.
+Decision under uncertainty is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Decision under risk in the local decision architecture, and prepares the distinction from Decision under ambiguity. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not use uncertainty as a synonym for low probability, risk, ignorance, or anxiety. Uncertainty concerns knowledge about possible outcomes and their probabilities.
-
 ### Owns
-Decision under uncertainty is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Decision under uncertainty**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Decision under risk where that neighboring construct has the narrower preceding scope, and defers Decision under ambiguity where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Decision under risk** where that construct has its own canonical scope, and defers **Decision under ambiguity** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Unknown probabilities distinguish uncertainty from standard risk.
-• Information acquisition can transform uncertainty into risk or certainty.
-• Psychological responses to uncertainty vary with stakes and context.
+- Decision under uncertainty must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Decision under uncertainty can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.10 Decision under ambiguity
 
-**Section:** Decision foundations
-
 ## 1. Purpose
-Specify decisions in which competing plausible probability descriptions or incomplete probability knowledge make the likelihood structure itself indeterminate.
+Establish the meaning, function, scientific scope, and boundaries of **Decision under ambiguity** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Decision under ambiguity is decision in which probabilities of relevant outcomes are unknown, disputed, or insufficiently specified.
+Decision under ambiguity is choice when the uncertainty concerns the reliability, completeness, or interpretation of probability information itself.
 
 ## 3. Core Understanding
-Ambiguity is a specific form of uncertainty concerning the probability model rather than merely the occurrence of an outcome. A person may know the possible states while lacking a trustworthy probability distribution over them. This creates a distinction between uncertainty about outcomes and uncertainty about likelihoods. Ambiguous options can be treated differently from risky options even when their possible payoffs are identical. Ambiguity aversion describes one common response, but people can also seek ambiguity when potential upside, learning, or curiosity changes its value.
 
-Ambiguity is uncertainty about the quality, completeness, or interpretation of probability information. Two options can have identical known outcomes but differ in how well their probabilities are specified. Ambiguity attitudes therefore concern the reliability of probability knowledge, not simply the magnitude of risk.
+Ambiguity narrows the problem to uncertainty about probability information itself. An event may have several possible outcomes while the decision-maker lacks a reliable basis for assigning probabilities. Ambiguity attitudes consequently concern how people respond to incomplete probabilistic specification.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+The critical distinction is between properties of the environment and the person's representation of those properties. Objective probabilities, subjective beliefs, uncertainty about the probability model, and emotional responses can all diverge. Strong analysis therefore specifies what information was available, how it was represented, what inference was required, and what would count as adequate performance.
 
-For Subjective probability, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
 
-For Satisficing, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-Ambiguity underlies ambiguity aversion and interacts with risk perception, subjective probability, information search, and framing. It is closely related to but not interchangeable with general uncertainty.
+Decision under ambiguity is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Decision under uncertainty in the local decision architecture, and prepares the distinction from Expected value. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not define ambiguity as any confusing situation. The defining issue is incomplete or contested probability information.
-
 ### Owns
-Decision under ambiguity is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Decision under ambiguity**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Decision under uncertainty where that neighboring construct has the narrower preceding scope, and defers Expected value where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Decision under uncertainty** where that construct has its own canonical scope, and defers **Expected value** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Ambiguity concerns uncertainty about probabilities.
-• Risk and ambiguity can share outcomes while differing in likelihood information.
-• Responses to ambiguity depend on goals, experience, and information value.
+- Decision under ambiguity must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Decision under ambiguity can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.11 Expected value
 
-**Section:** Decision foundations
-
 ## 1. Purpose
-Provide the probability-weighted average outcome used to evaluate alternatives under a consequentialist numerical rule.
+Establish the meaning, function, scientific scope, and boundaries of **Expected value** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Expected value is the sum of each possible outcome multiplied by its probability, representing the long-run average outcome under repeated equivalent trials.
+Expected value is the probability-weighted arithmetic mean of possible outcomes on a specified quantitative scale.
 
 ## 3. Core Understanding
-Expected value is a mathematical property of a probability distribution and payoff structure, not a description of how people naturally decide. It is appropriate when outcomes can be meaningfully quantified and repeated-trial or averaging logic is relevant. A choice can maximize expected monetary value while failing to maximize subjective utility because people differ in how they value gains, losses, effort, or timing. Expected value also depends critically on probability estimates; arithmetic precision cannot repair a badly specified distribution.
 
-Expected value multiplies possible outcomes by their probabilities and sums the results. It is a normative benchmark for repeated or probabilistic settings where outcomes can appropriately be represented on a common quantitative scale. It does not by itself represent diminishing utility, risk attitude, or individual values.
+Expected value is a normative arithmetic benchmark. It is useful when outcomes can be placed on a common quantitative scale and probabilities are meaningful. It says nothing by itself about diminishing marginal value, risk preference, or whether a person should care about distributional properties beyond the mean.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Formal models provide a benchmark or representational framework rather than an automatic account of psychological mechanism. A model can be normatively coherent while human behavior departs from it, or descriptively useful without being normatively desirable. Analysis should therefore distinguish assumptions, predictions, empirical fit, and psychological interpretation.
 
-For Bounded rationality, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-Expected value is foundational for understanding expected utility and probability-based decision models. Psychological deviations from it motivate research on probability weighting, loss aversion, and prospect theory.
+Expected value is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Decision under ambiguity in the local decision architecture, and prepares the distinction from Expected utility. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not equate expected value with expected utility or with the most likely outcome. Expected value is a calculation, not a psychological bias.
-
 ### Owns
-Expected value is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Expected value**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Decision under ambiguity where that neighboring construct has the narrower preceding scope, and defers Expected utility where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Decision under ambiguity** where that construct has its own canonical scope, and defers **Expected utility** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Expected value combines outcomes with probabilities.
-• It is distinct from subjective utility.
-• Its usefulness depends on meaningful outcome and probability representations.
+- Expected value must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Expected value can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.12 Expected utility
 
-**Section:** Decision foundations
-
 ## 1. Purpose
-Explain a decision rule that weights possible outcomes by their subjective or modelled utility and probability.
+Establish the meaning, function, scientific scope, and boundaries of **Expected utility** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Expected utility is the probability-weighted average of utility across possible outcomes.
+Expected utility is the probability-weighted evaluation of consequences after outcomes are transformed by a utility function representing preference or value.
 
 ## 3. Core Understanding
-Expected utility extends expected-value reasoning by allowing outcomes to have nonlinear or person-specific value. Under the classical framework, a rational choice among risky options can be represented as maximizing expected utility, subject to specified axioms. Psychological decision research asks when actual choices conform to, approximate, or systematically depart from this normative representation. Utility is not simply pleasure: it is a formal value function representing preference over consequences. Consequently, expected utility can model risk attitudes without claiming that people consciously compute utility and probability on every decision.
 
-Expected utility extends expected value by evaluating consequences through a utility function rather than raw outcome magnitude. This permits diminishing marginal utility and risk attitudes to enter the model. The theory is normative and does not imply that people literally calculate utilities in every decision.
+Expected utility separates outcome magnitude from subjective value. A utility function can encode diminishing marginal utility or other preference structure, allowing risk attitudes to enter the model. The framework is a formal representation of preferences, not evidence that people consciously perform the calculation.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Formal models provide a benchmark or representational framework rather than an automatic account of psychological mechanism. A model can be normatively coherent while human behavior departs from it, or descriptively useful without being normatively desirable. Analysis should therefore distinguish assumptions, predictions, empirical fit, and psychological interpretation.
 
-For Availability heuristic, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
 
-For Representativeness heuristic, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-Expected utility connects preference, subjective probability, risk, and rational choice models. Prospect theory later modifies how outcomes and probabilities are represented and evaluated.
+Expected utility is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Expected value in the local decision architecture, and prepares the distinction from Subjective probability. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not treat expected utility as a descriptive claim that humans literally calculate it. Do not equate utility with emotion or monetary amount.
-
 ### Owns
-Expected utility is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Expected utility**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Expected value where that neighboring construct has the narrower preceding scope, and defers Subjective probability where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Expected value** where that construct has its own canonical scope, and defers **Subjective probability** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Utility represents preference over consequences.
-• Expected utility combines utility and probability.
-• A normative model can be useful without being a literal cognitive algorithm.
+- Expected utility must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Expected utility can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.13 Subjective probability
 
-**Section:** Decision foundations
-
 ## 1. Purpose
-Define a person's assessed degree of belief that an uncertain event will occur.
+Establish the meaning, function, scientific scope, and boundaries of **Subjective probability** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Subjective probability is a quantified belief about the likelihood of an event, conditional on available evidence and the person's information state.
+Subjective probability is a degree of belief assigned to an event's occurrence, expressed as a probability even when the relevant probability is not directly known.
 
 ## 3. Core Understanding
-Subjective probability differs from objective frequency or physical probability because it represents an agent's epistemic state. It can be expressed numerically, verbally, or behaviorally, and can be revised as evidence changes. Subjective probabilities can be well calibrated or systematically biased. They also depend on the reference class, evidence selection, interpretation, and confidence. Treating subjective probability as arbitrary misses its intended role: it is an attempt to represent uncertainty from the agent's perspective, even when the evidence is incomplete.
 
-Subjective probability is a person's degree of belief that an event will occur. It is not identical to objective frequency, confidence, or certainty. Calibration provides one way to evaluate subjective probabilities by comparing stated probabilities with long-run event frequencies.
+Subjective probability turns uncertainty into a graded belief representation. It can be expressed numerically even when objective probabilities are unavailable. Its scientific usefulness depends on calibration, coherence, information quality, and the distinction between belief strength and emotional confidence.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+The critical distinction is between properties of the environment and the person's representation of those properties. Objective probabilities, subjective beliefs, uncertainty about the probability model, and emotional responses can all diverge. Strong analysis therefore specifies what information was available, how it was represented, what inference was required, and what would count as adequate performance.
 
-For Anchoring, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-Subjective probability links judgment to risk, uncertainty, calibration, Bayesian reasoning from Chapter 1.2, and probability weighting in this chapter.
+Subjective probability is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Expected utility in the local decision architecture, and prepares the distinction from Satisficing. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not equate subjective probability with confidence, certainty, frequency, or objective probability. Confidence can concern one's answer while probability concerns the event.
-
 ### Owns
-Subjective probability is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Subjective probability**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Expected utility where that neighboring construct has the narrower preceding scope, and defers Satisficing where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Expected utility** where that construct has its own canonical scope, and defers **Satisficing** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Subjective probability represents belief, not guaranteed truth.
-• It can be updated with evidence.
-• Calibration assesses correspondence between probabilities and outcomes over repeated cases.
+- Subjective probability must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Subjective probability can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.14 Satisficing
 
-**Section:** Decision foundations
-
 ## 1. Purpose
-Explain selection of an option that meets an adequate threshold rather than maximizes a fully specified objective.
+Establish the meaning, function, scientific scope, and boundaries of **Satisficing** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Satisficing is choosing an alternative that is good enough according to an aspiration level or stopping rule.
+Satisficing is selection of an option that meets a defined adequacy or aspiration criterion rather than exhaustive optimization across all available alternatives.
 
 ## 3. Core Understanding
-Satisficing is often adaptive when search is costly, information is limited, objectives conflict, or time is constrained. The stopping threshold can depend on prior experience, current needs, opportunity costs, and the perceived availability of better alternatives. It therefore should not be treated simply as a failure to optimize. A satisficing process can be efficient when the marginal benefit of further search is low. Conversely, an aspiration level can be poorly chosen, producing systematically inadequate decisions.
 
-Satisficing selects an option that meets an aspiration level rather than optimizing across every feasible alternative. It can be rational under limited time, information, or computation. Whether it is adequate depends on how the aspiration level is set and whether search costs justify stopping.
+Satisficing changes the stopping rule. Instead of searching until no better option can be found, the decision-maker stops when an option reaches an adequacy threshold. This can conserve resources and be adaptive, but the threshold itself may be poorly chosen or distorted by expectations.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+The process is best understood by separating inputs, transformations, outputs, and feedback. Inputs include available evidence, goals, prior knowledge, constraints, and the structure of the alternatives. Transformations can involve retrieval, comparison, valuation, prediction, stopping, or revision. Outputs include estimates, commitments, rankings, or changes in belief. Feedback can alter later decisions by changing knowledge, expectations, or reference points.
 
-For Adjustment, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
 
-For Recognition heuristic, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-Satisficing is central to bounded rationality and naturalistic decision-making. It contrasts with idealized maximization while preserving a goal-directed decision process.
+Satisficing is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Subjective probability in the local decision architecture, and prepares the distinction from Bounded rationality. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not equate satisficing with laziness, irrationality, or settling without criteria. It requires an adequacy threshold and a stopping rule.
-
 ### Owns
-Satisficing is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Satisficing**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Subjective probability where that neighboring construct has the narrower preceding scope, and defers Bounded rationality where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Subjective probability** where that construct has its own canonical scope, and defers **Bounded rationality** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Search has costs as well as benefits.
-• Good-enough criteria can be adaptive under constraints.
-• Satisficing quality depends on the threshold and environment.
+- Satisficing must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Satisficing can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.15 Bounded rationality
 
-**Section:** Decision foundations
-
 ## 1. Purpose
-Explain how rational decision behavior is constrained by limited information, time, computation, attention, and cognitive resources.
+Establish the meaning, function, scientific scope, and boundaries of **Bounded rationality** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Bounded rationality is the framework that treats decision-making as goal-directed but constrained by finite cognitive and environmental resources.
+Bounded rationality is a framework for understanding cognition and choice when time, information, memory, computation, attention, or other resources are limited.
 
 ## 3. Core Understanding
-Bounded rationality does not simply assert that people are irrational. It asks what procedures are feasible given limited search, memory, computation, time, and information. Under these constraints, heuristics and satisficing can be efficient because they reduce computational demands. Whether a strategy is adaptive depends on the structure of the environment and the costs of errors. The framework therefore shifts evaluation from an impossible ideal of unlimited optimization toward process–environment fit. It also helps explain why the same heuristic can work well in one setting and poorly in another.
 
-Bounded rationality describes cognition under limits of information, time, memory, computation, and attention. It does not mean people are simply irrational. A strategy can be adaptive relative to the environment even when it does not maximize an abstract objective.
+Bounded rationality begins with the fact that human decision systems operate under constraints. Limited information, time, memory, computation, attention, and institutional structure change which strategies are feasible. A strategy that is not globally optimal can nevertheless be well adapted to those constraints.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+The process is best understood by separating inputs, transformations, outputs, and feedback. Inputs include available evidence, goals, prior knowledge, constraints, and the structure of the alternatives. Transformations can involve retrieval, comparison, valuation, prediction, stopping, or revision. Outputs include estimates, commitments, rankings, or changes in belief. Feedback can alter later decisions by changing knowledge, expectations, or reference points.
 
-For Affect heuristic, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-This chapter owns bounded rationality. It links satisficing, heuristics, naturalistic decision-making, and decision errors while connecting to executive limits in 1.9.
+Bounded rationality is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Satisficing in the local decision architecture, and prepares the distinction from Availability heuristic. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not treat bounded rationality as a synonym for cognitive bias, irrationality, or low intelligence. It is a framework for resource-constrained decision behavior.
-
 ### Owns
-Bounded rationality is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Bounded rationality**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Satisficing where that neighboring construct has the narrower preceding scope, and defers Availability heuristic where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Satisficing** where that construct has its own canonical scope, and defers **Availability heuristic** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Rational action is constrained by real resources.
-• Heuristic efficiency depends on environmental structure.
-• Normative and ecological standards can differ.
+- Bounded rationality must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Bounded rationality can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.16 Availability heuristic
 
-**Section:** Heuristics
-
 ## 1. Purpose
-Explain judgments of frequency, probability, or importance based partly on how readily relevant examples or associations come to mind.
+Establish the meaning, function, scientific scope, and boundaries of **Availability heuristic** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-The availability heuristic uses ease or fluency of retrieval as an inferential cue for estimating likelihood, frequency, or salience.
+Availability heuristic is a strategy of using the ease with which instances or events come to mind as a cue for judging another property such as frequency, likelihood, or importance.
 
 ## 3. Core Understanding
-Events that are vivid, recent, emotionally charged, distinctive, or repeatedly encountered can be easier to retrieve and therefore seem more common or probable. Availability can be useful when memory accessibility correlates with frequency, but it can mislead when media exposure, personal experience, or emotional intensity distorts accessibility. The heuristic is not simply “remembering examples”: the inferential error occurs when retrieval ease is treated as evidence about the criterion being judged. Context, knowledge, and task demands determine whether availability helps or hurts.
 
-Availability uses the ease with which examples or events come to mind as an information cue. Ease of retrieval can correlate with frequency but is also affected by recency, salience, emotional intensity, familiarity, and media exposure. The heuristic becomes misleading when accessibility is poorly diagnostic of the target probability.
+Availability uses retrieval accessibility as evidence about another property. Ease of recall can reflect frequency, but also recency, salience, emotional intensity, familiarity, or exposure. Its value therefore depends on the ecological relation between what comes to mind and what the judgment is actually about.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+A heuristic is a strategy or cue-use rule, not a synonym for error. Its success depends on the relation between the cue and the environment, the costs of acquiring more information, and the task's demands. Evaluation should compare the heuristic with realistic alternatives rather than with an idealized omniscient computation.
 
-For Attribute substitution, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-Availability links judgment to memory accessibility in 1.8 and affective or perceptual salience. It is distinct from representativeness, which relies more on similarity to a prototype or pattern.
+Availability heuristic is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Bounded rationality in the local decision architecture, and prepares the distinction from Representativeness heuristic. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not define availability as memory retrieval itself. Accessibility is the cue; the judgment concerns a different property such as frequency or probability.
-
 ### Owns
-Availability heuristic is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Availability heuristic**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Bounded rationality where that neighboring construct has the narrower preceding scope, and defers Representativeness heuristic where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Bounded rationality** where that construct has its own canonical scope, and defers **Representativeness heuristic** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Accessibility can serve as an inferential shortcut.
-• Retrieval ease can be informative or misleading.
-• Salience and exposure can decouple accessibility from frequency.
+- Availability heuristic must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Availability heuristic can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.17 Representativeness heuristic
 
-**Section:** Heuristics
-
 ## 1. Purpose
-Explain judgments based on similarity between an observed case and a mental prototype or category.
+Establish the meaning, function, scientific scope, and boundaries of **Representativeness heuristic** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Representativeness is an inferential shortcut in which similarity to a prototype or pattern is used to judge category membership, probability, or typicality.
+Representativeness heuristic is a strategy of using similarity to a prototype, category, process, or expected pattern as a cue for classification or probability judgment.
 
 ## 3. Core Understanding
-Representativeness allows rapid classification when prototype similarity is genuinely informative. Problems arise when similarity substitutes for information that should also matter, such as base rates, sample size, or dependence between events. A case can look highly representative while remaining statistically unlikely. The heuristic therefore illustrates a central distinction between local resemblance and broader probabilistic structure. Its operation also depends on which prototype is activated, making knowledge and categorization from 1.9 relevant to the judgment.
 
-Representativeness uses similarity between an instance and a category, process, or prototype as a cue for probability or classification. Similarity can be informative, but it can also draw attention away from base rates and sample size. The psychological mechanism is therefore not equivalent to irrationality.
+Representativeness uses similarity as an inferential cue. A case that resembles a prototype or process may indeed be more likely, but similarity can also overshadow base rates and sample-size information. The mechanism is therefore a cue-combination strategy rather than a synonym for stereotyping or error.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+A heuristic is a strategy or cue-use rule, not a synonym for error. Its success depends on the relation between the cue and the environment, the costs of acquiring more information, and the task's demands. Evaluation should compare the heuristic with realistic alternatives rather than with an idealized omniscient computation.
 
-For Framing effect, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
 
-For Reference dependence, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-Representativeness interfaces with categorization, prototypes, and reasoning in Chapter 1.9 and with base-rate neglect and conjunction errors in this chapter.
+Representativeness heuristic is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Availability heuristic in the local decision architecture, and prepares the distinction from Anchoring. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not equate representativeness with stereotyping in every case. Similarity-based inference is broader and can operate outside social categories.
-
 ### Owns
-Representativeness heuristic is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Representativeness heuristic**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Availability heuristic where that neighboring construct has the narrower preceding scope, and defers Anchoring where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Availability heuristic** where that construct has its own canonical scope, and defers **Anchoring** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Similarity can be an efficient but incomplete cue.
-• Base rates remain relevant when they bear on the probability judgment.
-• Prototype activation shapes what counts as representative.
+- Representativeness heuristic must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Representativeness heuristic can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.18 Anchoring
 
-**Section:** Heuristics
-
 ## 1. Purpose
-Explain how an initial value, reference, or suggestion can influence subsequent numerical or comparative judgment.
+Establish the meaning, function, scientific scope, and boundaries of **Anchoring** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Anchoring is a tendency for an initial value or reference point to exert disproportionate influence on a subsequent estimate or evaluation.
+Anchoring is the influence of an initial value, representation, or comparison point on a subsequent estimate or judgment.
 
 ## 3. Core Understanding
-Anchors can arise from explicit numbers, prior estimates, contextual standards, or internally generated starting points. Their effect is not explained by one universal mechanism: insufficient adjustment, selective accessibility, conversational pragmatics, and contextual comparison can contribute in different settings. An anchor can influence judgments even when people recognize that it is irrelevant, although effects vary with knowledge, task structure, and anchor plausibility. Anchoring therefore concerns the influence of a starting point, not merely the existence of one.
 
-Anchoring occurs when an initial value or representation influences subsequent judgment. Anchors can be numeric, conceptual, externally supplied, or self-generated. Influence can arise from insufficient adjustment, selective accessibility, comparison, or other mechanisms, so the label does not identify one mechanism automatically.
+Anchoring is a relation between an initial value or representation and a later judgment. An anchor may be externally supplied or self-generated, numeric or conceptual. Different mechanisms can produce anchoring, so the phenomenon should be identified empirically rather than explained automatically as insufficient arithmetic correction.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+A heuristic is a strategy or cue-use rule, not a synonym for error. Its success depends on the relation between the cue and the environment, the costs of acquiring more information, and the task's demands. Evaluation should compare the heuristic with realistic alternatives rather than with an idealized omniscient computation.
 
-For Loss aversion, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
 
-For Endowment effect, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-Anchoring interacts with adjustment, reference dependence, framing, and numerical judgment. It should be distinguished from priming and from ordinary use of a legitimate reference value.
+Anchoring is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Representativeness heuristic in the local decision architecture, and prepares the distinction from Adjustment. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not treat every reference point as an anchoring error. Relevant baseline information can appropriately influence estimates.
-
 ### Owns
-Anchoring is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Anchoring**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Representativeness heuristic where that neighboring construct has the narrower preceding scope, and defers Adjustment where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Representativeness heuristic** where that construct has its own canonical scope, and defers **Adjustment** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Initial values can shift subsequent estimates.
-• Mechanisms vary across tasks and contexts.
-• Relevant reference information is not automatically bias.
+- Anchoring must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Anchoring can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.19 Adjustment
 
-**Section:** Heuristics
-
 ## 1. Purpose
-Describe the process of moving an initial estimate toward a final estimate after adopting a starting point.
+Establish the meaning, function, scientific scope, and boundaries of **Adjustment** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Adjustment is the updating or correction of an initial estimate, often following an anchor or preliminary judgment.
+Adjustment is the process of moving from an initial reference value toward a final estimate or evaluation.
 
 ## 3. Core Understanding
-Adjustment is a process, not necessarily a bias. It can improve an estimate when the initial value is informative and correction is appropriately scaled. In classic anchoring demonstrations, insufficient adjustment can leave the final estimate too close to the starting point. Adjustment depends on attention, stopping rules, computational effort, knowledge, and the perceived reliability of the starting value. Separating anchoring from adjustment prevents the common mistake of treating the entire phenomenon as a single mechanism.
 
-Adjustment is the movement away from an initial reference value toward a final estimate. Insufficient adjustment is one proposed pathway through which anchors affect judgments, but not every anchoring effect is adequately explained by deliberate numerical correction. Adjustment should therefore be measured as a process rather than assumed from the final response.
+Adjustment is movement from an initial reference toward a final estimate. It is especially relevant when a person begins from an anchor and changes the estimate in response to additional information. The amount and direction of adjustment can be measured separately from whether the final judgment is accurate.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+A heuristic is a strategy or cue-use rule, not a synonym for error. Its success depends on the relation between the cue and the environment, the costs of acquiring more information, and the task's demands. Evaluation should compare the heuristic with realistic alternatives rather than with an idealized omniscient computation.
 
-For Status quo bias, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-Adjustment is paired with anchoring but is not identical to it. It also draws on updating and cognitive control described in Chapter 1.9.
+Adjustment is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Anchoring in the local decision architecture, and prepares the distinction from Recognition heuristic. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not define adjustment as inherently insufficient or erroneous. The construct refers to movement from an initial estimate; adequacy is an empirical question.
-
 ### Owns
-Adjustment is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Adjustment**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Anchoring where that neighboring construct has the narrower preceding scope, and defers Recognition heuristic where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Anchoring** where that construct has its own canonical scope, and defers **Recognition heuristic** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Anchoring concerns influence of a starting point.
-• Adjustment concerns movement away from that point.
-• Adequate adjustment can correct an informative or arbitrary starting value.
+- Adjustment must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Adjustment can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.20 Recognition heuristic
 
-**Section:** Heuristics
-
 ## 1. Purpose
-Explain how recognition of one option but not another can guide comparative judgment under specific information conditions.
+Establish the meaning, function, scientific scope, and boundaries of **Recognition heuristic** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-The recognition heuristic uses recognition status as a cue for choosing or judging between options when recognition correlates with the criterion of interest.
+Recognition heuristic is a strategy in which recognition status itself provides information for choosing between alternatives when recognition has ecological validity for the target.
 
 ## 3. Core Understanding
-Recognition can be informative in environments where more consequential, larger, or more prominent objects are more likely to have been encountered. The heuristic is therefore conditional rather than universally irrational. Its usefulness depends on the ecological validity of recognition as a cue, the alternatives being compared, and whether additional knowledge overrides it. Recognition can also be misleading when media exposure or fame is disconnected from the criterion. The key psychological operation is using a simple cue rather than integrating every available attribute.
 
-Recognition can serve as a decision cue when recognized objects are more likely than unrecognized objects to have the relevant criterion property. The heuristic is ecologically useful only when recognition correlates with the target variable. It therefore depends strongly on environmental structure and can fail when familiarity is unrelated or misleading.
+Recognition can be informative when recognized objects have a systematic relation to the target criterion. The heuristic is therefore ecological: it succeeds when the environment makes recognition diagnostic and fails when familiarity is unrelated, misleading, or produced by exposure that does not track the criterion.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+A heuristic is a strategy or cue-use rule, not a synonym for error. Its success depends on the relation between the cue and the environment, the costs of acquiring more information, and the task's demands. Evaluation should compare the heuristic with realistic alternatives rather than with an idealized omniscient computation.
 
-For Default effect, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
 
-For Present bias, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-Recognition draws on memory and knowledge representation in 1.8 and 1.9 and exemplifies bounded rationality. It differs from availability because recognition asks whether an item is known, not how easily examples come to mind.
+Recognition heuristic is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Adjustment in the local decision architecture, and prepares the distinction from Affect heuristic. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not equate recognition with familiarity strength or expertise. The heuristic specifically concerns recognition status as a decision cue.
-
 ### Owns
-Recognition heuristic is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Recognition heuristic**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Adjustment where that neighboring construct has the narrower preceding scope, and defers Affect heuristic where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Adjustment** where that construct has its own canonical scope, and defers **Affect heuristic** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Simple cues can outperform complex strategies in suitable environments.
-• Cue validity determines adaptive value.
-• Recognition is information about exposure, not automatically about merit.
+- Recognition heuristic must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Recognition heuristic can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.21 Affect heuristic
 
-**Section:** Heuristics
-
 ## 1. Purpose
-Explain judgments in which a rapid positive or negative feeling toward an object serves as a cue for evaluating its risks, benefits, or desirability.
+Establish the meaning, function, scientific scope, and boundaries of **Affect heuristic** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-The affect heuristic uses immediate affective valence as a simplifying input to judgments about an object or option.
+Affect heuristic is a strategy in which immediate affective valence functions as a cue for judging risk, benefit, desirability, or other properties.
 
 ## 3. Core Understanding
-When people have a positive overall feeling toward an activity, they may infer greater benefits and lower risks; negative affect can produce the reverse pattern. This can be efficient because affect integrates multiple learned associations rapidly. It can also distort judgments when emotional salience is weakly related to the actual criterion. Affect can therefore function as information without being equivalent to deliberate emotion-based reasoning. The heuristic also shows how evaluation can become coupled: changing one global feeling may shift multiple judgments simultaneously.
 
-Affect heuristic uses immediate positive or negative feeling as a cue in judgments of risk, benefit, or desirability. Affect can integrate information rapidly, but it can also substitute for more diagnostic analysis when the feeling is driven by unrelated features. Affect should not be treated as synonymous with emotion in general.
+Affect heuristic occurs when immediate positive or negative feeling becomes a compact cue for a judgment. Affect can summarize multiple experiences rapidly, but it can also import information from a different target or context. The construct concerns the functional role of affect as a cue, not emotion as a whole.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+A heuristic is a strategy or cue-use rule, not a synonym for error. Its success depends on the relation between the cue and the environment, the costs of acquiring more information, and the task's demands. Evaluation should compare the heuristic with realistic alternatives rather than with an idealized omniscient computation.
 
-For Temporal discounting, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-Affect-based judgment connects decision-making with emotion in Chapter 1.13, memory associations in 1.8, and risk perception in this chapter.
+Affect heuristic is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Recognition heuristic in the local decision architecture, and prepares the distinction from Attribute substitution. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not equate affect heuristic with all emotional influence on decisions. It refers specifically to affective valence functioning as a judgmental cue.
-
 ### Owns
-Affect heuristic is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Affect heuristic**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Recognition heuristic where that neighboring construct has the narrower preceding scope, and defers Attribute substitution where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Recognition heuristic** where that construct has its own canonical scope, and defers **Attribute substitution** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Affect can serve as a rapid summary cue.
-• One global feeling can influence several attributed dimensions.
-• Emotional information can be useful yet criterion-incongruent.
+- Affect heuristic must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Affect heuristic can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.22 Attribute substitution
 
-**Section:** Heuristics
-
 ## 1. Purpose
-Explain how a difficult target judgment can be answered using an easier, more accessible attribute.
+Establish the meaning, function, scientific scope, and boundaries of **Attribute substitution** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Attribute substitution occurs when a person implicitly or explicitly substitutes an easier question for the harder judgment actually posed.
+Attribute substitution is replacement of a difficult target judgment with an easier judgment about a related but non-identical attribute.
 
 ## 3. Core Understanding
-A target question such as “How likely is this event?” may be answered through a more accessible question such as “How easily can I imagine it?” The substitution reduces computational demands but can introduce systematic error when the substitute attribute is poorly correlated with the target. It is especially useful for understanding how availability, affect, representativeness, and other heuristics can operate as components of a broader judgment process rather than as isolated tricks. The substitution can occur without conscious awareness.
 
-Attribute substitution occurs when a difficult target judgment is replaced by an easier judgment that is related but not identical. The substitution can be efficient when the proxy is predictive and costly when it is not. Identifying the substituted attribute is essential because the final answer may appear reasoned while relying on a different question.
+Attribute substitution changes the question being answered. Instead of directly solving a difficult target judgment, the system may evaluate an easier attribute that is related to the target. This can be efficient when the proxy is predictive, but misleading when the relation is weak or context-dependent.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+A heuristic is a strategy or cue-use rule, not a synonym for error. Its success depends on the relation between the cue and the environment, the costs of acquiring more information, and the task's demands. Evaluation should compare the heuristic with realistic alternatives rather than with an idealized omniscient computation.
 
-For Hyperbolic discounting, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
 
-For Probability weighting, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-Attribute substitution provides a mechanistic bridge among several heuristics in this chapter and links to mental representation and cognitive control in 1.9.
+Attribute substitution is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Affect heuristic in the local decision architecture, and prepares the distinction from Framing effect. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not treat every shortcut as attribute substitution. The defining feature is replacement of a difficult target attribute with an easier proxy.
-
 ### Owns
-Attribute substitution is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Attribute substitution**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Affect heuristic where that neighboring construct has the narrower preceding scope, and defers Framing effect where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Affect heuristic** where that construct has its own canonical scope, and defers **Framing effect** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Difficult judgments can recruit easier proxy questions.
-• Proxy validity determines whether substitution helps.
-• The substituted attribute may not be consciously represented as a substitute.
+- Attribute substitution must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Attribute substitution can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.23 Framing effect
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Explain changes in judgment or choice produced by different descriptions of substantively equivalent options.
+Establish the meaning, function, scientific scope, and boundaries of **Framing effect** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-A framing effect occurs when alternative descriptions of the same relevant outcomes produce different evaluations or choices.
+Framing effect is a change in judgment or choice produced by a change in presentation, representation, or comparison structure despite substantively equivalent underlying information.
 
 ## 3. Core Understanding
-Frames direct attention toward particular reference points, attributes, consequences, or interpretations. A gain frame and a loss frame can therefore evoke different evaluations even when their formal outcome structure is equivalent. Framing effects are not evidence that language mechanically determines behavior: their size depends on prior knowledge, stakes, task structure, numeracy, affect, and the perceived equivalence of the options. Establishing equivalence is essential because genuinely different consequences are not merely different frames.
 
-Framing effects occur when equivalent information produces different judgments or choices because the presentation changes which representation, comparison, or reference point is activated. Not every wording difference constitutes a framing effect; semantic equivalence and informational control matter.
+Framing changes the representation through which substantively equivalent information is processed. The important comparison is not simply different wording, but whether the underlying information and consequences remain sufficiently matched. Framing can alter attention, reference points, perceived gains and losses, or the set of comparisons considered.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Named effects require a defined comparison condition. A difference in choice or judgment is interpretable only when the alternatives, information, goals, and response requirements are sufficiently controlled. Mechanisms should not be inferred solely from the existence of the effect because several processes can produce the same observable pattern.
 
-For Base-rate neglect, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-Framing interacts with reference dependence, loss aversion, choice architecture, and judgment. It also connects to representation in 1.9 because changing the representation can change the evaluated problem.
+Framing effect is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Attribute substitution in the local decision architecture, and prepares the distinction from Reference dependence. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not call any persuasive wording a framing effect. The construct requires a meaningful comparison of equivalent or substantively matched alternatives.
-
 ### Owns
-Framing effect is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Framing effect**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Attribute substitution where that neighboring construct has the narrower preceding scope, and defers Reference dependence where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Attribute substitution** where that construct has its own canonical scope, and defers **Reference dependence** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Representation can alter evaluation without altering core consequences.
-• Frame effects depend on context and task structure.
-• Apparent framing can disappear when alternatives are not actually equivalent.
+- Framing effect must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Framing effect can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.24 Reference dependence
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Explain valuation relative to a reference point rather than solely in terms of absolute final states.
+Establish the meaning, function, scientific scope, and boundaries of **Reference dependence** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Reference dependence is the tendency for evaluation of an outcome to depend on its relation to a psychologically relevant baseline.
+Reference dependence is evaluation of an outcome relative to a reference state such as current status, expectation, norm, recent experience, or social comparison.
 
 ## 3. Core Understanding
-A person may evaluate the same final amount differently depending on what they expected, previously possessed, or regard as normal. Reference points organize outcomes into perceived gains and losses and can change the subjective meaning of identical objective states. They may be shaped by expectations, current status, social comparison, or recent experience. Reference dependence therefore provides a mechanism for context-sensitive valuation without requiring objective outcomes to change.
 
-Reference dependence means evaluation is partly determined by comparison with a reference state rather than absolute outcome magnitude alone. References can come from current status, expectations, norms, recent experience, or social comparison. Changing the reference point can therefore alter perceived gains and losses without changing objective outcomes.
+Reference dependence means outcomes are evaluated against a baseline rather than in isolation. The baseline may be current status, expectation, social norm, recent experience, or another salient state. Because the same objective outcome can be coded as gain or loss under different references, reference construction is central to many choice effects.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Named effects require a defined comparison condition. A difference in choice or judgment is interpretable only when the alternatives, information, goals, and response requirements are sufficiently controlled. Mechanisms should not be inferred solely from the existence of the effect because several processes can produce the same observable pattern.
 
-For Conjunction fallacy, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
 
-For Gambler's fallacy, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-Reference dependence is central to prospect theory and helps explain loss aversion, endowment effects, status quo effects, and framing.
+Reference dependence is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Framing effect in the local decision architecture, and prepares the distinction from Loss aversion. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not equate reference points with arbitrary anchors. Reference dependence concerns the evaluative baseline against which outcomes are coded.
-
 ### Owns
-Reference dependence is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Reference dependence**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Framing effect where that neighboring construct has the narrower preceding scope, and defers Loss aversion where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Framing effect** where that construct has its own canonical scope, and defers **Loss aversion** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Absolute outcomes can acquire different values relative to different baselines.
-• Reference points are psychologically constructed and context-sensitive.
-• Gains and losses are relational categories.
+- Reference dependence must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Reference dependence can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.25 Loss aversion
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Characterize the tendency for losses relative to a reference point to have greater subjective impact than comparable gains in relevant contexts.
+Establish the meaning, function, scientific scope, and boundaries of **Loss aversion** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Loss aversion is the asymmetric valuation of losses and gains of similar magnitude relative to a reference point.
+Loss aversion is greater sensitivity to losses than to comparable gains within relevant reference-dependent comparisons.
 
 ## 3. Core Understanding
-Loss aversion means that moving below a reference point can carry greater subjective weight than an equivalent move above it. The asymmetry is central to prospect theory but its magnitude is context-dependent rather than a universal constant. It can help explain reluctance to give up possessions, avoidance of certain risks, and sensitivity to threatened outcomes. Loss aversion should not be reduced to fear: it concerns comparative valuation and can operate even when people understand the objective symmetry of outcomes.
 
-Loss aversion describes greater sensitivity to losses than comparable gains within relevant reference-dependent contexts. It is not equivalent to general risk aversion, dislike of change, or fear. Its magnitude varies with task, domain, reference point, and measurement method.
+Loss aversion concerns asymmetry in valuation around a reference point. It does not mean all losses dominate all gains, nor does it imply a general fear of risk. Evidence depends on how losses and gains are matched, how reference points are established, and what domain and time horizon are used.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Named effects require a defined comparison condition. A difference in choice or judgment is interpretable only when the alternatives, information, goals, and response requirements are sufficiently controlled. Mechanisms should not be inferred solely from the existence of the effect because several processes can produce the same observable pattern.
 
-For Hot-hand belief, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-Loss aversion depends on reference dependence and is distinct from risk aversion. It also contributes to endowment, status quo, and framing phenomena.
+Loss aversion is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Reference dependence in the local decision architecture, and prepares the distinction from Endowment effect. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not assume every loss is more important than every gain, or that loss aversion is identical to risk aversion.
-
 ### Owns
-Loss aversion is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Loss aversion**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Reference dependence where that neighboring construct has the narrower preceding scope, and defers Endowment effect where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Reference dependence** where that construct has its own canonical scope, and defers **Endowment effect** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Losses are evaluated relative to reference points.
-• Asymmetry is context-sensitive.
-• Loss aversion and risk aversion are conceptually distinct.
+- Loss aversion must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Loss aversion can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.26 Endowment effect
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Explain increased valuation of an object or state after it becomes part of one's endowment.
+Establish the meaning, function, scientific scope, and boundaries of **Endowment effect** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-The endowment effect is a tendency for ownership or possession to increase the value assigned to an object relative to willingness to acquire it.
+Endowment effect is a change in valuation associated with ownership or possession, often observed as a difference between willingness to accept and willingness to pay.
 
 ## 3. Core Understanding
-Possession can alter the reference point and the psychological representation of giving something up. However, ownership alone is not sufficient to explain every observed valuation difference; familiarity, attachment, transaction costs, expectations, and measurement method can contribute. The phenomenon is strongest when the item is psychologically incorporated into the person's endowment and the relevant comparison is appropriately controlled. It illustrates how valuation can depend on the current state rather than only on object properties.
 
-The endowment effect is the tendency for ownership or possession to alter valuation, often increasing willingness to accept relative to willingness to pay. Interpretation is contested because attachment, transaction costs, reference dependence, and experimental demand can contribute. Ownership is therefore an important causal manipulation rather than a complete mechanism.
+Ownership can change valuation because possession changes the reference state, psychological representation, attachment, transaction framing, or perceived cost of giving something up. The endowment effect is therefore a behavioral phenomenon with multiple candidate mechanisms rather than proof of one universal ownership response.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Named effects require a defined comparison condition. A difference in choice or judgment is interpretable only when the alternatives, information, goals, and response requirements are sufficiently controlled. Mechanisms should not be inferred solely from the existence of the effect because several processes can produce the same observable pattern.
 
-For Overconfidence, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
 
-For Calibration, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-The endowment effect is related to reference dependence and loss aversion and can influence preference elicitation and exchange behavior.
+Endowment effect is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Loss aversion in the local decision architecture, and prepares the distinction from Status quo bias. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not equate ownership with attachment, nor assume every owner values an object more. Experimental method and item type matter.
-
 ### Owns
-Endowment effect is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Endowment effect**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Loss aversion where that neighboring construct has the narrower preceding scope, and defers Status quo bias where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Loss aversion** where that construct has its own canonical scope, and defers **Status quo bias** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Possession can change valuation.
-• Giving up and acquiring can be psychologically asymmetric.
-• Alternative mechanisms must be considered in interpreting ownership effects.
+- Endowment effect must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Endowment effect can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.27 Status quo bias
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Explain a tendency to remain with an existing state or option rather than change it when alternatives are available.
+Establish the meaning, function, scientific scope, and boundaries of **Status quo bias** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Status quo bias is a disproportionate preference for maintaining the current state of affairs relative to comparable alternatives.
+Status quo bias is a tendency for the current state or option to receive disproportionate persistence relative to alternatives.
 
 ## 3. Core Understanding
-The current state can become a reference point, carry lower immediate decision costs, or be perceived as less uncertain. Status quo effects can therefore arise from multiple mechanisms rather than a single aversion to change. Defaults, switching costs, anticipated regret, loss aversion, habit, and limited attention can all stabilize the status quo. The phenomenon becomes clearer when alternatives are held constant and the current position changes solely because of how the choice is structured.
 
-Status quo bias is a tendency for the current state to receive disproportionate persistence relative to alternatives. It can arise from inertia, switching costs, loss aversion, uncertainty, effort, or preference for continuity. The observed pattern does not uniquely identify which mechanism is responsible.
+Status quo bias describes disproportionate persistence of the current state. Persistence may arise from inertia, switching costs, uncertainty, effort, loss aversion, or genuine preference for continuity. Identifying the bias requires comparing the current option with alternatives under matched consequences and constraints.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Named effects require a defined comparison condition. A difference in choice or judgment is interpretable only when the alternatives, information, goals, and response requirements are sufficiently controlled. Mechanisms should not be inferred solely from the existence of the effect because several processes can produce the same observable pattern.
 
-For Confirmation bias, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-Status quo bias overlaps with default effects but is broader: a status quo can persist even without a formal default. It connects to choice architecture and preference construction.
+Status quo bias is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Endowment effect in the local decision architecture, and prepares the distinction from Default effect. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not infer status quo bias whenever someone chooses the current option. Continuing may be objectively preferable or less costly.
-
 ### Owns
-Status quo bias is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Status quo bias**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Endowment effect where that neighboring construct has the narrower preceding scope, and defers Default effect where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Endowment effect** where that construct has its own canonical scope, and defers **Default effect** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• The current state can exert special psychological weight.
-• Multiple mechanisms can produce status quo persistence.
-• Persistence is not itself proof of bias.
+- Status quo bias must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Status quo bias can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.28 Default effect
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Explain how a preselected option can increase the probability that it is chosen or retained.
+Establish the meaning, function, scientific scope, and boundaries of **Default effect** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-A default effect is a change in choice associated with which option is preselected when no active selection is made.
+Default effect is a tendency for an option designated as preselected or path-of-least-resistance to be chosen more often than comparable non-default options.
 
 ## 3. Core Understanding
-Defaults can operate because accepting the preselected option requires less effort, may be interpreted as a recommendation, changes perceived norms, or becomes the path of least resistance. Their influence depends on salience, switching costs, perceived legitimacy, and the decision-maker's attention. A default is therefore an environmental feature with multiple possible psychological mechanisms. Default effects can be beneficial or harmful depending on which option is selected and whether people understand their alternatives.
 
-Default effects occur when an option designated as the preselected or path-of-least-resistance state is chosen more often. Defaults can operate through effort reduction, implied recommendation, omission, inertia, or loss framing. A default effect therefore describes choice behavior, not a single psychological mechanism.
+Defaults change the path of least resistance by specifying an option in advance. Their effects can reflect omission, effort reduction, implied recommendation, inertia, or reference dependence. A default effect is therefore a property of the choice environment, not evidence of a single internal mechanism.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Named effects require a defined comparison condition. A difference in choice or judgment is interpretable only when the alternatives, information, goals, and response requirements are sufficiently controlled. Mechanisms should not be inferred solely from the existence of the effect because several processes can produce the same observable pattern.
 
-For Belief perseverance, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
 
-For Self-serving bias, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-Default effects are a specific form of choice architecture and can contribute to status quo persistence. They also intersect with bounded rationality and attention.
+Default effect is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Status quo bias in the local decision architecture, and prepares the distinction from Present bias. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not equate defaults with coercion. A default changes the structure of choice but does not necessarily eliminate alternatives.
-
 ### Owns
-Default effect is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Default effect**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Status quo bias where that neighboring construct has the narrower preceding scope, and defers Present bias where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Status quo bias** where that construct has its own canonical scope, and defers **Present bias** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Preselection can alter behavior without removing options.
-• Effort, interpretation, and social meaning can mediate default effects.
-• Effects depend on transparency and the quality of the default.
+- Default effect must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Default effect can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.29 Present bias
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Explain disproportionate preference for immediate outcomes relative to delayed outcomes beyond what constant exponential discounting predicts.
+Establish the meaning, function, scientific scope, and boundaries of **Present bias** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Present bias is a tendency to give unusually high relative weight to outcomes available now compared with outcomes that are both delayed.
+Present bias is disproportionate weighting of immediate outcomes relative to delayed outcomes when comparing temporally separated consequences.
 
 ## 3. Core Understanding
-Present bias helps explain why a person can favor a smaller immediate reward over a larger delayed reward and later reverse that preference when both options move into the future. It is a pattern of time-inconsistent valuation rather than merely preferring sooner outcomes. Present bias can interact with temptation, self-control, opportunity structure, and affective state. Its empirical expression depends on reward type, delay, certainty, and whether decisions are hypothetical or consequential.
 
-Present bias describes disproportionate weight placed on immediate outcomes relative to later outcomes when comparing temporally separated consequences. It differs from ordinary discounting because the relative weighting of near-term outcomes can change as the delay becomes immediate.
+Present bias concerns the relative weighting of immediate outcomes. Its defining feature is a change in temporal preference when an outcome becomes immediate, which can produce dynamic inconsistency. It is therefore distinct from simply preferring sooner rewards.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Named effects require a defined comparison condition. A difference in choice or judgment is interpretable only when the alternatives, information, goals, and response requirements are sufficiently controlled. Mechanisms should not be inferred solely from the existence of the effect because several processes can produce the same observable pattern.
 
-For Hindsight bias, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-Present bias is closely related to temporal and hyperbolic discounting but is not identical to all delay discounting. It connects to self-regulation in 1.12 and preference construction in this chapter.
+Present bias is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Default effect in the local decision architecture, and prepares the distinction from Temporal discounting. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not equate present bias with impatience in every sense. The distinctive issue is disproportionate weighting of the present that can generate preference reversals.
-
 ### Owns
-Present bias is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Present bias**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Default effect where that neighboring construct has the narrower preceding scope, and defers Temporal discounting where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Default effect** where that construct has its own canonical scope, and defers **Temporal discounting** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Present bias can produce time-inconsistent preferences.
-• Immediate outcomes can receive extra relative weight.
-• Context and self-control resources influence its expression.
+- Present bias must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Present bias can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.30 Temporal discounting
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Describe how the subjective value of an outcome generally changes as the delay to receiving it increases.
+Establish the meaning, function, scientific scope, and boundaries of **Temporal discounting** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Temporal discounting is the reduction in subjective value associated with increasing temporal delay.
+Temporal discounting is decline in subjective value as the delay to an outcome increases.
 
 ## 3. Core Understanding
-Discounting describes the relation between delay and valuation without specifying a single psychological mechanism. The function can differ across people, outcomes, delays, and contexts. Steeper discounting can indicate stronger preference for immediacy, but it should not automatically be interpreted as pathology or weak self-control. Discounting can reflect opportunity costs, uncertainty, diminishing utility, anticipation, or learned expectations. The construct is therefore a family of delay–value relations rather than one fixed parameter.
 
-Temporal discounting describes declining subjective value as an outcome is delayed. Discounting can reflect opportunity costs, uncertainty, impatience, or other mechanisms. The rate is not necessarily constant across delays or domains.
+Temporal discounting captures the decline in subjective value as delay increases. Discounting can reflect impatience, uncertainty, opportunity cost, or other processes, and its functional form can vary across people, domains, and delays.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Named effects require a defined comparison condition. A difference in choice or judgment is interpretable only when the alternatives, information, goals, and response requirements are sufficiently controlled. Mechanisms should not be inferred solely from the existence of the effect because several processes can produce the same observable pattern.
 
-For Outcome bias, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
 
-For Omission bias, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-Temporal discounting provides the broader framework within which present bias and hyperbolic discounting are interpreted. It interfaces with motivation and self-regulation in 1.12.
+Temporal discounting is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Present bias in the local decision architecture, and prepares the distinction from Hyperbolic discounting. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not equate discounting with present bias. A person can discount future value without exhibiting the distinctive time inconsistency associated with present bias.
-
 ### Owns
-Temporal discounting is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Temporal discounting**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Present bias where that neighboring construct has the narrower preceding scope, and defers Hyperbolic discounting where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Present bias** where that construct has its own canonical scope, and defers **Hyperbolic discounting** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Delay and subjective value are systematically related.
-• The discount function is empirically variable.
-• Discounting has multiple possible psychological determinants.
+- Temporal discounting must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Temporal discounting can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.31 Hyperbolic discounting
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Describe a delay–value function in which discounting is steeper over short delays and flatter over longer delays than exponential discounting predicts.
+Establish the meaning, function, scientific scope, and boundaries of **Hyperbolic discounting** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Hyperbolic discounting is a mathematical model of temporal valuation in which subjective value declines approximately according to a hyperbolic function of delay.
+Hyperbolic discounting is a temporal discounting function in which effective discount rates decline as delay increases, allowing stronger near-term preference reversals than constant-rate discounting predicts.
 
 ## 3. Core Understanding
-The hyperbolic form naturally permits preference reversals because the relative value of immediate versus delayed outcomes changes as both move through time. It is a model of observed valuation patterns, not proof of one underlying neural or psychological mechanism. Alternative discounting functions can sometimes fit data depending on the design and estimation method. Hyperbolic discounting is especially useful for explaining why an outcome that looks attractive from a distant perspective can lose its appeal when immediacy changes.
 
-Hyperbolic discounting is a model in which discount rates decline with increasing delay, producing stronger preference reversals between sooner and later rewards than constant exponential discounting predicts. It is a formal descriptive model, not a claim that every temporal choice follows one equation.
+Hyperbolic discounting is a mathematical form that produces declining discount rates as delay increases. Its importance is partly behavioral: it can predict preference reversals that constant-rate exponential discounting does not. The model is useful without being treated as the unique mechanism behind all delay choices.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Named effects require a defined comparison condition. A difference in choice or judgment is interpretable only when the alternatives, information, goals, and response requirements are sufficiently controlled. Mechanisms should not be inferred solely from the existence of the effect because several processes can produce the same observable pattern.
 
-For Planning fallacy, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-It formalizes one account of temporal discounting and helps explain present bias and self-control conflicts. It should remain distinct from the broader construct of temporal discounting.
+Hyperbolic discounting is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Temporal discounting in the local decision architecture, and prepares the distinction from Probability weighting. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not claim that all human delay discounting is exactly hyperbolic or that the model alone identifies mechanism.
-
 ### Owns
-Hyperbolic discounting is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Hyperbolic discounting**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Temporal discounting where that neighboring construct has the narrower preceding scope, and defers Probability weighting where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Temporal discounting** where that construct has its own canonical scope, and defers **Probability weighting** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Functional form matters for predicted preference reversals.
-• Hyperbolic discounting is a model, not a universal law.
-• Model fit and psychological interpretation must be separated.
+- Hyperbolic discounting must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Hyperbolic discounting can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.32 Probability weighting
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Explain systematic transformation of objective or stated probabilities into subjective decision weights.
+Establish the meaning, function, scientific scope, and boundaries of **Probability weighting** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Probability weighting is the process by which probabilities influence choice through subjective weights that need not equal their objective numerical values.
+Probability weighting is the transformation of objective probabilities into decision weights used when evaluating uncertain outcomes.
 
 ## 3. Core Understanding
-People may overreact to some small probabilities while underweighting other probabilities, depending on context and outcome structure. Probability weighting is therefore not simply inaccurate probability estimation: it can occur after probabilities are known and concerns their influence on valuation. The weighting function can interact with attention, description, experience, and outcome framing. In prospect theory it is one component of a broader value-and-probability transformation.
 
-Probability weighting describes transformation of objective probabilities into decision weights. People may overweight some small probabilities and underweight others, producing nonlinear sensitivity. Probability weighting differs from probability estimation because the same subjective probability can be transformed again when outcomes are valued.
+Probability weighting separates objective probability from the decision weight attached to it. Small probabilities may receive disproportionate weight in some contexts while moderate or large probabilities can be treated differently. Weighting is conceptually distinct from estimating what the probability actually is.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Named effects require a defined comparison condition. A difference in choice or judgment is interpretable only when the alternatives, information, goals, and response requirements are sufficiently controlled. Mechanisms should not be inferred solely from the existence of the effect because several processes can produce the same observable pattern.
 
-For Optimism bias, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
 
-For Escalation of commitment, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-Probability weighting links subjective probability to prospect theory, risk perception, and decisions under risk. It is distinct from base-rate neglect, which concerns use of statistical prevalence information.
+Probability weighting is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Hyperbolic discounting in the local decision architecture, and prepares the distinction from Base-rate neglect. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not treat every probability error as probability weighting. Estimation errors and decision weights are conceptually separable.
-
 ### Owns
-Probability weighting is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Probability weighting**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Hyperbolic discounting where that neighboring construct has the narrower preceding scope, and defers Base-rate neglect where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Hyperbolic discounting** where that construct has its own canonical scope, and defers **Base-rate neglect** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Decision weight need not equal stated probability.
-• Weighting can be nonlinear and context-sensitive.
-• Probability weighting belongs to valuation as well as probabilistic judgment.
+- Probability weighting must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Probability weighting can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.33 Base-rate neglect
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Explain insufficient use of prevalence or prior-probability information when evaluating a specific case.
+Establish the meaning, function, scientific scope, and boundaries of **Base-rate neglect** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Base-rate neglect is a tendency to underweight relevant background frequencies when making probability judgments.
+Base-rate neglect is disproportionate attention to case-specific evidence relative to relevant background prevalence when forming a probabilistic judgment.
 
 ## 3. Core Understanding
-A vivid case description or highly representative feature can capture attention and dominate a judgment even when the base rate is diagnostically important. Base-rate use depends on whether the base rate is understood, trusted, relevant to the inference, and integrated with case-specific evidence. The phenomenon therefore should not be described as a universal inability to use base rates. People can use them when the task, knowledge, incentives, and representation make them accessible.
 
-Base-rate neglect occurs when case-specific information receives disproportionate weight relative to background prevalence. The phenomenon depends on how representative, diagnostic, and cognitively accessible each source of information is. It should not be inferred merely because someone chooses an unusual outcome.
+Base-rate neglect concerns relative use of background prevalence and case-specific information. A base rate is relevant only if it belongs to the same reference class and probability question as the case. A judgment that differs from a base rate is therefore not automatically neglect.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Named effects require a defined comparison condition. A difference in choice or judgment is interpretable only when the alternatives, information, goals, and response requirements are sufficiently controlled. Mechanisms should not be inferred solely from the existence of the effect because several processes can produce the same observable pattern.
 
-For Sunk-cost effect, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-Base-rate neglect is strongly connected to representativeness and Bayesian reasoning. It also illustrates the interaction between mental representation in 1.9 and statistical inference in 1.2.
+Base-rate neglect is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Probability weighting in the local decision architecture, and prepares the distinction from Conjunction fallacy. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not call any disagreement with a base rate neglect. The base rate must be relevant and properly specified for the inference.
-
 ### Owns
-Base-rate neglect is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Base-rate neglect**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Probability weighting where that neighboring construct has the narrower preceding scope, and defers Conjunction fallacy where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Probability weighting** where that construct has its own canonical scope, and defers **Conjunction fallacy** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Background prevalence can be diagnostically important.
-• Case information and base rates should be distinguished.
-• Task framing and knowledge affect base-rate use.
+- Base-rate neglect must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Base-rate neglect can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.34 Conjunction fallacy
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Characterize judgments that assign a higher probability to a conjunction of events than to one of its component events.
+Establish the meaning, function, scientific scope, and boundaries of **Conjunction fallacy** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-The conjunction fallacy occurs when the judged probability of A and B exceeds the judged probability of A alone, despite the logical subset relation.
+Conjunction fallacy is judging a conjunction of events as more probable than one of its component events.
 
 ## 3. Core Understanding
-The conjunction rule is a formal property of probability: the probability of a conjunction cannot exceed that of either component. Psychological judgments can nevertheless be influenced by representativeness, narrative coherence, or richer descriptions that make the conjunction seem more plausible. The phenomenon illustrates a distinction between plausibility and probability. It is especially informative when the added feature makes a story more representative but cannot increase the formal probability beyond the component event.
 
-The conjunction fallacy occurs when a conjunction is judged more probable than one of its components. It is especially informative when a compelling narrative makes the conjunction more representative than the broader category. Understanding the formal probability relation and understanding the psychological source of the error are separate questions.
+The conjunction fallacy is defined by a formal probability relation: a conjunction cannot exceed the probability of either component event. Psychological explanations often involve representativeness, narrative coherence, or substitution of similarity for probability. Demonstrating the formal error and identifying its mechanism are separate tasks.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Named effects require a defined comparison condition. A difference in choice or judgment is interpretable only when the alternatives, information, goals, and response requirements are sufficiently controlled. Mechanisms should not be inferred solely from the existence of the effect because several processes can produce the same observable pattern.
 
-For Choice overload, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
 
-For Decision fatigue, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-Conjunction errors connect to representativeness, probability judgment, and mental representation. They belong to judgment rather than being evidence that people lack all probabilistic reasoning.
+Conjunction fallacy is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Base-rate neglect in the local decision architecture, and prepares the distinction from Gambler's fallacy. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not infer the fallacy from a verbal ranking unless the probability comparison is genuinely the same event structure.
-
 ### Owns
-Conjunction fallacy is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Conjunction fallacy**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Base-rate neglect where that neighboring construct has the narrower preceding scope, and defers Gambler's fallacy where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Base-rate neglect** where that construct has its own canonical scope, and defers **Gambler's fallacy** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Conjunction probability is bounded by component probability.
-• Narrative coherence can compete with formal probability.
-• Measurement of the judgment task matters.
+- Conjunction fallacy must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Conjunction fallacy can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.35 Gambler's fallacy
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Explain the belief that independent random events should become more likely to reverse after a run of similar outcomes.
+Establish the meaning, function, scientific scope, and boundaries of **Gambler's fallacy** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-The gambler's fallacy is the erroneous expectation that a short-term sequence of independent random outcomes changes the probability of the next independent outcome.
+Gambler's fallacy is the belief that an independent random process should become more likely to reverse after a run of similar outcomes.
 
 ## 3. Core Understanding
-After repeated heads, for example, a fair coin remains equally likely to produce heads on the next independent toss. The fallacy arises when people impose a balancing expectation on a process that has no memory. It can be distinguished from legitimate reasoning about dependent processes, finite sampling, or changing probabilities. People may also confuse long-run convergence with short-run compensation: the law of large numbers concerns aggregate behavior across increasing samples, not a requirement that every short sequence self-correct.
 
-The gambler's fallacy is the belief that independent random events should self-correct after a run of outcomes. It reflects misunderstanding of independence and local sequence interpretation. The belief can be distinguished from legitimate reasoning about dependent processes in which prior outcomes genuinely change future probabilities.
+The gambler's fallacy treats independent random events as though a sequence should self-correct. It is different from reasoning about dependent processes, where previous outcomes genuinely alter future probabilities. The distinction requires knowledge of the generating process rather than intuition about streaks alone.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Named effects require a defined comparison condition. A difference in choice or judgment is interpretable only when the alternatives, information, goals, and response requirements are sufficiently controlled. Mechanisms should not be inferred solely from the existence of the effect because several processes can produce the same observable pattern.
 
-For Regret, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-This phenomenon connects to probabilistic reasoning in 1.9 and to hot-hand beliefs, which can involve the opposite direction of perceived sequence dependence.
+Gambler's fallacy is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Conjunction fallacy in the local decision architecture, and prepares the distinction from Hot-hand belief. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not label all sequence-based predictions gambler's fallacy. Dependence in the generating process can make history genuinely informative.
-
 ### Owns
-Gambler's fallacy is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Gambler's fallacy**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Conjunction fallacy where that neighboring construct has the narrower preceding scope, and defers Hot-hand belief where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Conjunction fallacy** where that construct has its own canonical scope, and defers **Hot-hand belief** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Independence means prior outcomes do not alter the next-event probability.
-• Long-run frequency does not imply short-run balancing.
-• Sequence reasoning must begin with the process-generating structure.
+- Gambler's fallacy must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Gambler's fallacy can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.36 Hot-hand belief
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Characterize the expectation that a person who has recently succeeded is temporarily more likely to succeed again.
+Establish the meaning, function, scientific scope, and boundaries of **Hot-hand belief** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Hot-hand belief is the attribution of increased short-term success probability to a sequence or state of prior success.
+Hot-hand belief is the belief that a recent run of successful outcomes makes further success temporarily more likely in a process where such dependence may or may not exist.
 
 ## 3. Core Understanding
-The hot-hand idea can reflect genuine serial dependence in some performance environments, selective attention to streaks, or misperception of random variation. Research has shown that apparent streaks can be difficult to interpret because shot selection, defensive pressure, and changing opportunity can create dependence. Thus the construct should not be reduced to a simple mirror image of the gambler's fallacy. The key question is whether prior success contains predictive information in the actual generating process.
 
-The hot-hand belief concerns perceived streaks of success and the inference that success is temporarily more likely after recent successes. Whether a particular sequence reflects genuine state dependence, selection effects, or random variation depends on the generating process. The construct therefore requires statistical analysis rather than intuition alone.
+The hot-hand belief concerns perceived temporary dependence after recent success. Some environments contain real state dependence, while others do not, and apparent streaks can also emerge from selection and statistical variation. The construct therefore requires explicit modeling of the generating process.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+These Topics require repeated observations or carefully matched comparisons. One correct answer does not establish calibration, and one wrong answer does not establish bias. Confidence, probability, accuracy, and outcome quality should remain separate dimensions. Domain knowledge, feedback, incentives, and task structure can all change the relation among them.
 
-For Anticipated regret, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
 
-For Ambiguity aversion, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-Hot-hand belief contrasts with the gambler's fallacy and connects to causal reasoning, statistical inference, and outcome interpretation.
+Hot-hand belief is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Gambler's fallacy in the local decision architecture, and prepares the distinction from Overconfidence. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not assume every observed streak proves a hot hand, nor that every belief in streaks is erroneous.
-
 ### Owns
-Hot-hand belief is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Hot-hand belief**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Gambler's fallacy where that neighboring construct has the narrower preceding scope, and defers Overconfidence where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Gambler's fallacy** where that construct has its own canonical scope, and defers **Overconfidence** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Predictive value of streaks depends on process dependence.
-• Selection and opportunity can create apparent streaks.
-• Statistical evaluation must distinguish belief from actual serial structure.
+- Hot-hand belief must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Hot-hand belief can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.37 Overconfidence
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Describe excessive confidence relative to the accuracy, calibration, or evidence supporting a judgment.
+Establish the meaning, function, scientific scope, and boundaries of **Overconfidence** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Overconfidence is a systematic tendency for subjective confidence to exceed an appropriate benchmark of accuracy, precision, or performance.
+Overconfidence is excessive subjective certainty or estimated magnitude relative to a suitable accuracy, evidence, or comparative benchmark.
 
 ## 3. Core Understanding
-Overconfidence has several forms, including overestimation of one's own performance, overplacement relative to others, and excessive precision in numerical estimates. A person can be highly confident and accurate, or poorly calibrated without being globally overconfident. The construct therefore requires a defined benchmark and measurement method. Incentives, expertise, task difficulty, feedback quality, and outcome ambiguity can influence confidence calibration. Overconfidence is not synonymous with optimism, self-esteem, or decisiveness.
 
-Overconfidence concerns excessive subjective certainty relative to objective accuracy or evidence. It has multiple forms, including overestimation, overplacement, and excessive certainty. A person can be overconfident in one domain while well calibrated in another.
+Overconfidence is a discrepancy between subjective certainty or estimated magnitude and an appropriate benchmark. It has multiple forms, including overestimation, overplacement, and excessive confidence. The same person can be well calibrated in one domain and systematically miscalibrated in another.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+These Topics require repeated observations or carefully matched comparisons. One correct answer does not establish calibration, and one wrong answer does not establish bias. Confidence, probability, accuracy, and outcome quality should remain separate dimensions. Domain knowledge, feedback, incentives, and task structure can all change the relation among them.
 
-For Risk perception, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
 
-For Rational choice models, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-Overconfidence connects to calibration, metacognitive monitoring in 1.9, and judgment accuracy. It can affect forecasting, planning, and belief revision.
+Overconfidence is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Hot-hand belief in the local decision architecture, and prepares the distinction from Calibration. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not infer overconfidence merely from confident language or from a wrong answer. Confidence must be evaluated against a suitable accuracy or calibration criterion.
-
 ### Owns
-Overconfidence is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Overconfidence**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Hot-hand belief where that neighboring construct has the narrower preceding scope, and defers Calibration where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Hot-hand belief** where that construct has its own canonical scope, and defers **Calibration** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Confidence and accuracy are separable.
-• Overconfidence has multiple operational forms.
-• Calibration requires repeated predictions or an appropriate benchmark.
+- Overconfidence must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Overconfidence can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.38 Calibration
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Define correspondence between stated confidence or probability and the frequency with which predictions are correct across comparable cases.
+Establish the meaning, function, scientific scope, and boundaries of **Calibration** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Calibration is the degree to which probabilistic judgments match observed outcome frequencies over repeated predictions.
+Calibration is the degree to which stated confidence or probability judgments correspond to actual frequencies or accuracy across repeated predictions.
 
 ## 3. Core Understanding
-A calibrated forecaster who assigns 70% probability to many events should be correct approximately 70% of the time across a sufficiently comparable set. Calibration is therefore a property of prediction performance, not merely confidence. A system can be accurate on average yet poorly calibrated if probabilities are systematically too extreme, and it can be calibrated while lacking discrimination between cases. Adequate assessment requires enough observations and an appropriate reference class.
 
-Calibration concerns correspondence between probabilistic confidence and observed accuracy or event frequency. High confidence is not itself overconfidence; overconfidence is a calibration failure when confidence systematically exceeds correctness. Calibration must be evaluated across repeated predictions rather than isolated outcomes.
+Calibration asks whether stated confidence or probabilities correspond to long-run accuracy or event frequencies. It is evaluated across repeated judgments rather than from one correct or incorrect answer. A calibrated person can sometimes be wrong, and an uncalibrated person can sometimes be correct.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Belief-related effects unfold over time. Evidence can be encountered, interpreted, integrated, resisted, forgotten, or incorporated into a broader explanatory model. A strong account distinguishes initial belief formation from subsequent evidence processing and later revision, and avoids treating persistence or change as direct evidence of truth.
 
-For Expected utility theory, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-Calibration provides a key empirical counterpart to subjective probability and overconfidence. It also relates to metacognitive monitoring and statistical reasoning.
+Calibration is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Overconfidence in the local decision architecture, and prepares the distinction from Confirmation bias. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not equate calibration with accuracy, intelligence, or confidence. Calibration concerns correspondence between stated probabilities and observed frequencies.
-
 ### Owns
-Calibration is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Calibration**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Overconfidence where that neighboring construct has the narrower preceding scope, and defers Confirmation bias where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Overconfidence** where that construct has its own canonical scope, and defers **Confirmation bias** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Calibration is assessed across repeated predictions.
-• Accuracy and calibration are distinct dimensions.
-• Reference class and sample size matter.
+- Calibration must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Calibration can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.39 Confirmation bias
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Explain selective processing that favors information consistent with an existing belief, hypothesis, or expectation.
+Establish the meaning, function, scientific scope, and boundaries of **Confirmation bias** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Confirmation bias is a tendency to seek, interpret, remember, or weight evidence in ways that favor a prior belief or hypothesis.
+Confirmation bias is preferential search, interpretation, evaluation, or recall that systematically favors an existing belief or hypothesis over alternatives.
 
 ## 3. Core Understanding
-Confirmation can occur through information search, selective exposure, asymmetric evaluation of evidence, or memory. It is not simply the act of considering supporting evidence: rational hypothesis testing also uses supportive evidence when that evidence is diagnostic. The bias becomes clearer when disconfirming evidence is neglected or held to a stricter standard without adequate reason. Motivation, identity, uncertainty, and prior commitment can alter its strength.
 
-Confirmation bias involves preferential processing, search, interpretation, or recall that favors an existing belief or hypothesis. It can arise at several stages and need not involve conscious motivation. Evidence can sometimes be sought to test a belief rather than protect it, so the construct requires defined comparison conditions.
+Confirmation bias can occur during search, attention, interpretation, evaluation, memory, or hypothesis testing. It is strongest as a scientific construct when the comparison condition specifies what neutral evidence processing would look like. Selective evidence use does not necessarily require conscious intent.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Belief-related effects unfold over time. Evidence can be encountered, interpreted, integrated, resisted, forgotten, or incorporated into a broader explanatory model. A strong account distinguishes initial belief formation from subsequent evidence processing and later revision, and avoids treating persistence or change as direct evidence of truth.
 
-For Prospect theory, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-Confirmation bias connects to belief perseverance, belief revision, memory, and reasoning. Chapter 1.9 owns general belief representation and reasoning mechanisms; this chapter focuses on their role in judgment and decision contexts.
+Confirmation bias is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Calibration in the local decision architecture, and prepares the distinction from Belief perseverance. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not call ordinary belief-consistent reasoning confirmation bias. The defining issue is systematic asymmetry that impairs appropriate evidence evaluation.
-
 ### Owns
-Confirmation bias is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Confirmation bias**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Calibration where that neighboring construct has the narrower preceding scope, and defers Belief perseverance where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Calibration** where that construct has its own canonical scope, and defers **Belief perseverance** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Prior beliefs shape information processing.
-• Supporting evidence is not inherently biased evidence.
-• Diagnosticity and symmetry of evidence evaluation matter.
+- Confirmation bias must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Confirmation bias can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.40 Belief perseverance
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Explain persistence of a belief after the evidence that initially supported it has been weakened, removed, or discredited.
+Establish the meaning, function, scientific scope, and boundaries of **Belief perseverance** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Belief perseverance is continued endorsement of a belief despite substantial reduction or withdrawal of its original evidential basis.
+Belief perseverance is continued endorsement of a belief after evidence that originally supported it has been substantially weakened, removed, or disconfirmed.
 
 ## 3. Core Understanding
-Beliefs can persist because explanatory narratives remain available, alternative evidence is not fully integrated, or the belief becomes incorporated into a broader knowledge structure. Persistence is not always irrational: evidence may be uncertain, conflicting, or merely less persuasive than before. The construct concerns continued belief under conditions where the original support has materially changed. It is therefore distinct from confirmation bias, which concerns selective processing of evidence in support of a belief.
 
-Belief perseverance is continued endorsement of a belief after the evidence supporting it has been weakened or removed. It differs from confirmation bias because it concerns persistence after evidential change rather than selective processing during information search.
+Belief perseverance concerns persistence after evidential support has changed. It is distinct from confirmation bias because the defining comparison is what happens after supporting information is weakened or removed. Persistence can have several sources, including explanatory coherence and incomplete integration of new information.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Bias terminology should identify a systematic directional discrepancy relative to a specified benchmark, not a global flaw in a person. The same tendency can be adaptive in one environment and maladaptive in another. Measurement should therefore include the criterion, uncertainty, base rates, alternative explanations, and conditions under which the pattern changes.
 
-For Dual-process accounts, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
 
-For Naturalistic decision-making, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-Belief perseverance connects to belief revision and knowledge structures in 1.9 and to confirmation bias in this chapter.
+Belief perseverance is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Confirmation bias in the local decision architecture, and prepares the distinction from Self-serving bias. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not label a stable belief as perseverance without showing that its supporting evidence was meaningfully undermined or withdrawn.
-
 ### Owns
-Belief perseverance is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Belief perseverance**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Confirmation bias where that neighboring construct has the narrower preceding scope, and defers Self-serving bias where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Confirmation bias** where that construct has its own canonical scope, and defers **Self-serving bias** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Belief persistence can outlast its initiating evidence.
-• Persistence and confirmation are related but distinct.
-• Evidence revision is constrained by existing representations.
+- Belief perseverance must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Belief perseverance can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.41 Self-serving bias
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Describe asymmetric attribution or interpretation that favors the self, especially when explaining outcomes, responsibility, or competence.
+Establish the meaning, function, scientific scope, and boundaries of **Self-serving bias** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Self-serving bias is a tendency to interpret or attribute information in ways that protect or enhance the self.
+Self-serving bias is asymmetric evaluation or attribution that protects a favorable representation of the self, particularly across success and failure.
 
 ## 3. Core Understanding
-People may attribute successes more readily to internal qualities and failures more readily to external circumstances, but the pattern depends on culture, role, incentives, ego threat, and the type of outcome. Self-serving patterns can serve emotion-regulatory or identity functions without being consciously deceptive. They should also be distinguished from accurate self-attribution: some successes really are internally caused and some failures genuinely reflect external constraints. The bias is therefore an empirical asymmetry, not a moral judgment.
 
-Self-serving bias describes asymmetric attribution or evaluation that protects a favorable view of the self, often by interpreting successes and failures differently. Its expression depends on attributional context, identity relevance, cultural norms, and the type of outcome.
+Self-serving bias involves asymmetric evaluation that protects favorable self-representations. It can appear in causal attribution, responsibility judgments, memory, or interpretation of outcomes. Cultural norms, identity relevance, and accountability conditions can alter whether the asymmetry appears.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Bias terminology should identify a systematic directional discrepancy relative to a specified benchmark, not a global flaw in a person. The same tendency can be adaptive in one environment and maladaptive in another. Measurement should therefore include the criterion, uncertainty, base rates, alternative explanations, and conditions under which the pattern changes.
 
-For Choice architecture, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-It connects social attribution in 1.16 with self, identity, emotion, and belief processes. It can influence retrospective judgment and future decisions.
+Self-serving bias is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Belief perseverance in the local decision architecture, and prepares the distinction from Hindsight bias. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not equate self-serving bias with lying, narcissism, or deliberate excuse-making. The process can occur without conscious intent.
-
 ### Owns
-Self-serving bias is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Self-serving bias**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Belief perseverance where that neighboring construct has the narrower preceding scope, and defers Hindsight bias where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Belief perseverance** where that construct has its own canonical scope, and defers **Hindsight bias** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Attribution can protect or enhance self-evaluation.
-• Cultural and situational factors moderate self-serving patterns.
-• Accurate self-attribution must be separated from biased asymmetry.
+- Self-serving bias must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Self-serving bias can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.42 Hindsight bias
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Explain the tendency to see a past outcome as having been more predictable or foreseeable after learning the outcome.
+Establish the meaning, function, scientific scope, and boundaries of **Hindsight bias** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Hindsight bias is an increase in perceived predictability of an event after its outcome is known.
+Hindsight bias is the tendency for a known outcome to appear more predictable, inevitable, or explainable after it has occurred than it was beforehand.
 
 ## 3. Core Understanding
-Once an outcome is known, the information can become incorporated into a coherent causal narrative, making the prior uncertainty harder to reconstruct. Hindsight can therefore distort evaluations of forecasts, decisions, and responsibility. It does not mean people literally remember the past incorrectly in every case; changes can occur in perceived inevitability, recall of prior expectations, or causal coherence. Proper evaluation requires reconstructing what information and probabilities were available before the outcome.
 
-Hindsight bias is the tendency for a known outcome to appear more predictable or inevitable after it has occurred. It can affect memory, causal explanation, and confidence in prior judgments. The phenomenon requires comparison with contemporaneous predictions or forecasts to distinguish reconstruction from genuine foresight.
+Hindsight bias emerges when knowledge of an outcome changes later judgments about what was predictable beforehand. Memory reconstruction and causal coherence can make the outcome feel more inevitable than it actually appeared prospectively. Proper measurement therefore requires contemporaneous forecasts or equivalent pre-outcome benchmarks.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Bias terminology should identify a systematic directional discrepancy relative to a specified benchmark, not a global flaw in a person. The same tendency can be adaptive in one environment and maladaptive in another. Measurement should therefore include the criterion, uncertainty, base rates, alternative explanations, and conditions under which the pattern changes.
 
-For Nudging, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
 
-For Debiasing, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-Hindsight bias is crucial for evaluating decision quality without outcome contamination. It connects to memory reconstruction in 1.8 and causal reasoning in 1.9.
+Hindsight bias is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Self-serving bias in the local decision architecture, and prepares the distinction from Outcome bias. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not infer hindsight bias simply because an outcome now seems explainable. The relevant comparison is between post-outcome and reconstructed pre-outcome predictability.
-
 ### Owns
-Hindsight bias is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Hindsight bias**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Self-serving bias where that neighboring construct has the narrower preceding scope, and defers Outcome bias where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Self-serving bias** where that construct has its own canonical scope, and defers **Outcome bias** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Outcome knowledge changes retrospective interpretation.
-• Decision quality should be assessed using information available at the time.
-• Memory and causal coherence can contribute to hindsight effects.
+- Hindsight bias must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Hindsight bias can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.43 Outcome bias
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Explain evaluation of a decision based disproportionately on its eventual outcome rather than the information and process available when the decision was made.
+Establish the meaning, function, scientific scope, and boundaries of **Outcome bias** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Outcome bias is a tendency to judge the quality or morality of a decision more favorably when its result is good and less favorably when its result is bad, holding the decision process comparable.
+Outcome bias is evaluation of a decision partly from its outcome rather than from the information, options, and process available when the decision was made.
 
 ## 3. Core Understanding
-A decision can be reasonable given the information available and still produce a poor outcome because uncertainty leaves multiple possible futures. Conversely, a poorly reasoned decision can produce a favorable outcome by chance. Outcome bias therefore confounds ex ante process evaluation with ex post result evaluation. The effect is especially important in medicine, management, law, safety, and everyday blame because consequences are salient and psychologically available.
 
-Outcome bias occurs when the quality of a decision is evaluated partly from its outcome rather than from the information and process available when the decision was made. Good decisions can have bad outcomes under uncertainty, and bad decisions can occasionally produce good outcomes.
+Outcome bias occurs when the result of a decision contaminates evaluation of the decision process. Under uncertainty, identical decision quality can produce different outcomes, so process evaluation must reconstruct the information and alternatives available at the time.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Bias terminology should identify a systematic directional discrepancy relative to a specified benchmark, not a global flaw in a person. The same tendency can be adaptive in one environment and maladaptive in another. Measurement should therefore include the criterion, uncertainty, base rates, alternative explanations, and conditions under which the pattern changes.
 
-For Decision errors, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-Outcome bias complements hindsight bias but differs in target: hindsight concerns perceived predictability; outcome bias concerns evaluation of the decision itself. It also links to moral judgment.
+Outcome bias is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Hindsight bias in the local decision architecture, and prepares the distinction from Omission bias. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not ignore outcomes entirely. Consequences can legitimately matter when the criterion is consequential performance; outcome bias concerns inappropriate substitution of result for process.
-
 ### Owns
-Outcome bias is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Outcome bias**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Hindsight bias where that neighboring construct has the narrower preceding scope, and defers Omission bias where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Hindsight bias** where that construct has its own canonical scope, and defers **Omission bias** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Outcome and decision quality are not identical.
-• Ex ante information matters for process evaluation.
-• Chance can separate decision quality from result.
+- Outcome bias must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Outcome bias can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.44 Omission bias
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Describe a tendency to judge harmful action as worse than comparable harmful inaction when outcomes are otherwise similar.
+Establish the meaning, function, scientific scope, and boundaries of **Omission bias** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Omission bias is a preference for avoiding actions that could cause harm relative to omissions that could produce comparable harm.
+Omission bias is differential evaluation of harmful omissions and harmful actions when their consequences are otherwise comparable.
 
 ## 3. Core Understanding
-People may experience action as more causally and morally responsible than inaction, even when the expected outcomes are similar. Omission can also feel safer because it preserves the status quo and reduces perceived personal agency. The effect varies with norms, responsibility, foreseeability, causality, and whether action is expected by role. Thus omission bias is not a general rule that inaction is preferred: many settings make omission itself morally or practically salient.
 
-Omission bias is a tendency to evaluate harmful omissions differently from harmful actions. Its expression can reflect responsibility, causation, norms, perceived control, or moral rules. It is therefore distinct from a universal preference for inaction.
+Omission bias concerns asymmetric responses to harms caused by doing versus not doing. The asymmetry may reflect responsibility, causation, perceived agency, norms, or beliefs about action. It should therefore not be reduced to a universal preference for inaction.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Bias terminology should identify a systematic directional discrepancy relative to a specified benchmark, not a global flaw in a person. The same tendency can be adaptive in one environment and maladaptive in another. Measurement should therefore include the criterion, uncertainty, base rates, alternative explanations, and conditions under which the pattern changes.
 
-For Moral judgment and decision-making, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
 
-For Group decision-making, the critical analytical question is what information is being transformed and what alternative explanation could produce the same observed response. A reported judgment or choice is an output, not a transparent readout of the underlying process. Researchers therefore need to distinguish evidence about the person's internal representation from evidence about the environment, and distinguish stable individual differences from temporary states produced by task demands. Normative comparison is useful only when the benchmark's assumptions fit the decision problem. A deviation can reflect limited information, adaptive simplification, measurement error, changing goals, or a genuinely systematic bias. Process measures, repeated observations, counterfactual comparisons, and manipulations of information structure can help separate these possibilities. This is especially important when a named effect is treated as a general trait even though its expression may depend strongly on domain, stakes, culture, expertise, and timing.
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-Omission bias connects decision-making with moral judgment, responsibility attribution, and status quo effects. Moral psychology is cross-linked but not owned as a separate construct here.
+Omission bias is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Outcome bias in the local decision architecture, and prepares the distinction from Planning fallacy. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not equate omission bias with every preference for non-action. Responsibility and outcome asymmetries may make omission objectively different.
-
 ### Owns
-Omission bias is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Omission bias**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Outcome bias where that neighboring construct has the narrower preceding scope, and defers Planning fallacy where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Outcome bias** where that construct has its own canonical scope, and defers **Planning fallacy** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Action and omission can receive different causal and moral weights.
-• Perceived responsibility influences the asymmetry.
-• Context determines whether omission is genuinely comparable to action.
+- Omission bias must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Omission bias can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.45 Planning fallacy
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Explain systematic underestimation of completion times, costs, or difficulties for planned tasks relative to relevant benchmarks.
+Establish the meaning, function, scientific scope, and boundaries of **Planning fallacy** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-The planning fallacy is a tendency to make optimistic forecasts about task duration, cost, or difficulty, especially when focusing on the particular case rather than comparable historical outcomes.
+Planning fallacy is systematic underestimation of the time, cost, difficulty, or obstacles involved in planned tasks.
 
 ## 3. Core Understanding
-Plans often emphasize internal details of the current project while underusing reference-class information from similar completed projects. Motivational pressures, task decomposition, uncertainty, optimism, and insufficient consideration of delays can also contribute. The phenomenon does not mean all plans are inaccurate or all optimism is irrational. Forecast quality improves when estimates incorporate outside-view data and explicit uncertainty. The distinction between a plan and a forecast is also important: a plan describes intended action; a forecast predicts what will happen.
 
-The planning fallacy concerns systematic underestimation of completion time, costs, or difficulties for planned tasks. It can involve inside-view focus, neglect of distributional evidence, optimism, coordination demands, or underrepresentation of obstacles. The mechanism should be specified rather than treating all delays as planning-fallacy evidence.
+The planning fallacy concerns systematic forecasting error for intended tasks. Inside-view reasoning can focus attention on the specific plan while underweighting distributions from comparable tasks and the frequency of obstacles. Better prediction requires identifying which source of error is present rather than labeling every delay a planning fallacy.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Bias terminology should identify a systematic directional discrepancy relative to a specified benchmark, not a global flaw in a person. The same tendency can be adaptive in one environment and maladaptive in another. Measurement should therefore include the criterion, uncertainty, base rates, alternative explanations, and conditions under which the pattern changes.
 
-A deeper interpretation of Planning fallacy requires separating the phenomenon from the benchmark used to identify it. The same observed response can be produced by different cognitive routes, and the same underlying process can produce different responses when information, goals, or constraints change. Evidence should therefore examine conditions under which the effect strengthens, weakens, reverses, or disappears. Useful tests manipulate the relevant information structure, compare matched alternatives, and measure both immediate responses and later behavior. Researchers should also distinguish population-level regularities from within-person variability and avoid treating a task-specific effect as a global trait. This matters particularly for decision phenomena because stakes, expertise, incentives, time pressure, familiarity, and cultural norms can alter the balance between heuristic simplification and more extensive analysis.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-Planning fallacy links decision-making to prospective thinking and planning in 1.9, optimism bias, and reference-class information in judgment.
+Planning fallacy is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Omission bias in the local decision architecture, and prepares the distinction from Optimism bias. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not equate planning fallacy with any failed plan. Failure caused by unforeseeable events is not necessarily a systematic forecasting bias.
-
 ### Owns
-Planning fallacy is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Planning fallacy**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Omission bias where that neighboring construct has the narrower preceding scope, and defers Optimism bias where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Omission bias** where that construct has its own canonical scope, and defers **Optimism bias** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Inside-view detail can crowd out reference-class information.
-• Forecasts should distinguish intended execution from predicted duration.
-• Historical base rates can improve planning estimates.
+- Planning fallacy must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Planning fallacy can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.46 Optimism bias
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Describe systematic expectations that future outcomes will be more favorable than warranted by available evidence or comparison standards.
+Establish the meaning, function, scientific scope, and boundaries of **Optimism bias** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Optimism bias is a tendency to expect desirable outcomes or underestimate adverse outcomes relative to an appropriate benchmark.
+Optimism bias is a tendency to expect favorable outcomes for oneself more strongly, or unfavorable outcomes less strongly, than appropriate comparative evidence warrants.
 
 ## 3. Core Understanding
-Optimism can influence probability judgments, risk perception, planning, and motivation. It can be adaptive when it sustains persistence or exploration, but it can also reduce preparation for adverse events when probabilities are systematically distorted. Optimism bias is benchmark-dependent: expecting success above an objective base rate is different from having high but well-calibrated confidence in a genuinely high-probability outcome. The phenomenon can be domain-specific rather than a global trait.
 
-Optimism bias is a tendency to judge favorable outcomes as more likely or negative outcomes as less likely for oneself than warranted by comparative evidence. It is distinct from general positive mood and can vary by domain, controllability, and personal relevance.
+Optimism bias is comparative: favorable outcomes are judged more likely or negative outcomes less likely for oneself than appropriate evidence warrants. It can be adaptive in some contexts and costly in others, and its expression depends on controllability, domain, feedback, and personal relevance.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Bias terminology should identify a systematic directional discrepancy relative to a specified benchmark, not a global flaw in a person. The same tendency can be adaptive in one environment and maladaptive in another. Measurement should therefore include the criterion, uncertainty, base rates, alternative explanations, and conditions under which the pattern changes.
 
-A deeper interpretation of Optimism bias requires separating the phenomenon from the benchmark used to identify it. The same observed response can be produced by different cognitive routes, and the same underlying process can produce different responses when information, goals, or constraints change. Evidence should therefore examine conditions under which the effect strengthens, weakens, reverses, or disappears. Useful tests manipulate the relevant information structure, compare matched alternatives, and measure both immediate responses and later behavior. Researchers should also distinguish population-level regularities from within-person variability and avoid treating a task-specific effect as a global trait. This matters particularly for decision phenomena because stakes, expertise, incentives, time pressure, familiarity, and cultural norms can alter the balance between heuristic simplification and more extensive analysis.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-Optimism bias connects to planning fallacy, risk perception, subjective probability, and motivation in 1.12.
+Optimism bias is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Planning fallacy in the local decision architecture, and prepares the distinction from Escalation of commitment. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not equate optimism bias with positive mood, hope, confidence, or personality optimism. Bias requires an appropriate evidential comparison.
-
 ### Owns
-Optimism bias is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Optimism bias**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Planning fallacy where that neighboring construct has the narrower preceding scope, and defers Escalation of commitment where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Planning fallacy** where that construct has its own canonical scope, and defers **Escalation of commitment** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Optimistic expectations can affect both motivation and risk assessment.
-• Bias is defined relative to evidence or a suitable benchmark.
-• Optimism can be beneficial in some functions and costly in others.
+- Optimism bias must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Optimism bias can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.47 Escalation of commitment
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Explain continued or increased investment in a failing course of action after evidence indicates that the current strategy is not producing the intended outcome.
+Establish the meaning, function, scientific scope, and boundaries of **Escalation of commitment** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Escalation of commitment is persistence or additional investment in a decision despite adverse feedback and increasing evidence against continuation.
+Escalation of commitment is persistence or increased investment in a course of action despite evidence that continuation is becoming less favorable relative to alternatives.
 
 ## 3. Core Understanding
-Escalation can be driven by sunk costs, self-justification, identity, anticipated regret, responsibility for the original choice, or changing beliefs about recovery. It is not identical to persistence: continued investment can be rational when new evidence improves expected prospects. The key issue is whether prior commitment exerts inappropriate influence on future resource allocation after the relevant future costs and benefits have changed. Separating forward-looking value from backward-looking investment is therefore central.
 
-Escalation of commitment describes persistence or increased investment in a course of action despite accumulating evidence that continuation is poor. Identity, self-justification, sunk costs, accountability, and information structure can all contribute. Continued investment is not automatically escalation if new evidence makes continuation rational.
+Escalation of commitment concerns continued investment after the evidential case for continuation deteriorates. The process can be influenced by self-justification, identity, accountability, sunk costs, social pressure, and expectations about future returns. Continuation itself is not enough; the decision must be evaluated against the updated information available.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Bias terminology should identify a systematic directional discrepancy relative to a specified benchmark, not a global flaw in a person. The same tendency can be adaptive in one environment and maladaptive in another. Measurement should therefore include the criterion, uncertainty, base rates, alternative explanations, and conditions under which the pattern changes.
 
-A deeper interpretation of Escalation of commitment requires separating the phenomenon from the benchmark used to identify it. The same observed response can be produced by different cognitive routes, and the same underlying process can produce different responses when information, goals, or constraints change. Evidence should therefore examine conditions under which the effect strengthens, weakens, reverses, or disappears. Useful tests manipulate the relevant information structure, compare matched alternatives, and measure both immediate responses and later behavior. Researchers should also distinguish population-level regularities from within-person variability and avoid treating a task-specific effect as a global trait. This matters particularly for decision phenomena because stakes, expertise, incentives, time pressure, familiarity, and cultural norms can alter the balance between heuristic simplification and more extensive analysis.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-Escalation interacts with sunk-cost effects, self-serving processes, regret, and decision revision. It also depends on belief updating in 1.9.
+Escalation of commitment is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Optimism bias in the local decision architecture, and prepares the distinction from Sunk-cost effect. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not label persistence irrational merely because a project has previously failed. New evidence can rationally justify continuation.
-
 ### Owns
-Escalation of commitment is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Escalation of commitment**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Optimism bias where that neighboring construct has the narrower preceding scope, and defers Sunk-cost effect where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Optimism bias** where that construct has its own canonical scope, and defers **Sunk-cost effect** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Past commitment can distort forward-looking decisions.
-• Continuation can still be rational when prospects improve.
-• Diagnostic evidence about future outcomes should dominate irrecoverable past costs.
+- Escalation of commitment must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Escalation of commitment can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.48 Sunk-cost effect
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Explain inappropriate influence of irrecoverable past investments on current decisions.
+Establish the meaning, function, scientific scope, and boundaries of **Sunk-cost effect** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-The sunk-cost effect is a tendency to continue an endeavor because resources already spent are perceived as reasons to persist, even though those costs cannot be recovered.
+Sunk-cost effect is the influence of irrecoverable past investments on current decisions even though those costs should not alter marginal consequences under the relevant normative model.
 
 ## 3. Core Understanding
-Normatively, sunk costs should not alter the comparison of future benefits and future costs because they are already incurred. Psychologically, however, prior investment can create commitment, self-justification pressure, loss salience, or a desire to avoid feeling wasteful. The effect must be distinguished from rational persistence based on information learned from the investment: previous spending can reveal information about future prospects even though the expenditure itself is irrecoverable.
 
-The sunk-cost effect occurs when irrecoverable past investments influence current choice even though they should not affect marginal consequences under the normative model. Past investment can nonetheless provide information about commitment or future returns, so not every consideration of the past is a sunk-cost error.
+Sunk-cost effects arise when irrecoverable past expenditures influence current choice even though they should not alter future marginal consequences under the relevant normative model. Past investment can still be informative when it changes beliefs about quality or future returns, so the construct requires careful separation of cost from information.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Decision environments alter search costs, attention, comparison, and stopping. Effects that look like individual preferences can therefore depend on the architecture of the available options. Analysis should separate option properties from presentation effects and distinguish temporary decision-state changes from durable individual differences.
 
-A deeper interpretation of Sunk-cost effect requires separating the phenomenon from the benchmark used to identify it. The same observed response can be produced by different cognitive routes, and the same underlying process can produce different responses when information, goals, or constraints change. Evidence should therefore examine conditions under which the effect strengthens, weakens, reverses, or disappears. Useful tests manipulate the relevant information structure, compare matched alternatives, and measure both immediate responses and later behavior. Researchers should also distinguish population-level regularities from within-person variability and avoid treating a task-specific effect as a global trait. This matters particularly for decision phenomena because stakes, expertise, incentives, time pressure, familiarity, and cultural norms can alter the balance between heuristic simplification and more extensive analysis.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-Sunk-cost effects are one contributor to escalation of commitment and interact with loss aversion and regret.
+Sunk-cost effect is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Escalation of commitment in the local decision architecture, and prepares the distinction from Choice overload. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not treat all continuation after spending as sunk-cost reasoning. Relevant new information can justify continuation.
-
 ### Owns
-Sunk-cost effect is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Sunk-cost effect**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Escalation of commitment where that neighboring construct has the narrower preceding scope, and defers Choice overload where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Escalation of commitment** where that construct has its own canonical scope, and defers **Choice overload** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Irrecoverable costs are not future costs.
-• Prior investment can still provide information about future prospects.
-• Emotional and identity mechanisms can make sunk costs psychologically salient.
+- Sunk-cost effect must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Sunk-cost effect can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.49 Choice overload
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Explain decision difficulty or reduced choice satisfaction associated with large or complex choice sets under some conditions.
+Establish the meaning, function, scientific scope, and boundaries of **Choice overload** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Choice overload is a reduction in decision quality, ease, or satisfaction that can occur when the number or complexity of options exceeds what a person can effectively process.
+Choice overload is reduced decision quality, satisfaction, or action that can occur when a choice set becomes sufficiently large, complex, or difficult to compare.
 
 ## 3. Core Understanding
-More options are not inherently harmful. Larger assortments can increase fit and freedom when preferences are clear and comparison is manageable. Overload is more likely when options are difficult to compare, tradeoffs are numerous, decision stakes are high, or decision-makers lack a useful strategy. The construct therefore concerns the interaction between choice-set complexity and cognitive resources rather than a universal numerical threshold.
 
-Choice overload refers to reduced decision quality, satisfaction, or action under sufficiently large or complex choice sets in some contexts. More options are not inherently harmful; effects depend on attribute complexity, decision goals, expertise, and whether options are meaningfully distinguishable.
+Choice overload is conditional rather than a simple function of option count. Large sets can increase search, comparison, conflict, and decision difficulty when attributes are complex or poorly structured. More options can also be beneficial when they add meaningful differentiation or improve fit with goals.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Decision environments alter search costs, attention, comparison, and stopping. Effects that look like individual preferences can therefore depend on the architecture of the available options. Analysis should separate option properties from presentation effects and distinguish temporary decision-state changes from durable individual differences.
 
-A deeper interpretation of Choice overload requires separating the phenomenon from the benchmark used to identify it. The same observed response can be produced by different cognitive routes, and the same underlying process can produce different responses when information, goals, or constraints change. Evidence should therefore examine conditions under which the effect strengthens, weakens, reverses, or disappears. Useful tests manipulate the relevant information structure, compare matched alternatives, and measure both immediate responses and later behavior. Researchers should also distinguish population-level regularities from within-person variability and avoid treating a task-specific effect as a global trait. This matters particularly for decision phenomena because stakes, expertise, incentives, time pressure, familiarity, and cultural norms can alter the balance between heuristic simplification and more extensive analysis.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-Choice overload connects to bounded rationality, attention, preference construction, and choice architecture. It can also contribute to postponement or default selection.
+Choice overload is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Sunk-cost effect in the local decision architecture, and prepares the distinction from Decision fatigue. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not claim that more choice always decreases satisfaction. Effects are conditional on task and option structure.
-
 ### Owns
-Choice overload is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Choice overload**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Sunk-cost effect where that neighboring construct has the narrower preceding scope, and defers Decision fatigue where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Sunk-cost effect** where that construct has its own canonical scope, and defers **Decision fatigue** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Choice-set size interacts with complexity and decision strategy.
-• More options can help or hinder depending on context.
-• Useful structure can reduce comparison costs without eliminating autonomy.
+- Choice overload must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Choice overload can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.50 Decision fatigue
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Describe changes in decision performance associated with sustained decision demands or depleted decision resources.
+Establish the meaning, function, scientific scope, and boundaries of **Decision fatigue** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Decision fatigue refers to reduced quality, persistence, or regulatory effectiveness that can follow extended periods of demanding choice or self-control.
+Decision fatigue is changes in decision behavior following sustained or repeated decision demands, with proposed mechanisms involving effort, strategy shifts, motivation, or resource regulation.
 
 ## 3. Core Understanding
-Decision fatigue is a useful hypothesis about cumulative decision demands, but its mechanisms and magnitude are not captured by a single universally accepted “mental battery” account. Repetition, motivation, stress, boredom, opportunity costs, and changing preferences can all contribute to apparent deterioration. Careful interpretation therefore requires distinguishing decision load from sleep loss, stress, task monotony, and ordinary time-of-day effects. The construct concerns performance changes associated with decision demands, not a diagnosis.
 
-Decision fatigue refers to changes in decision behavior following sustained decision demands or depletion of relevant regulatory resources. Evidence is heterogeneous and mechanisms are debated. It should not be treated as a simple, universal depletion of a finite decision reservoir.
+Decision fatigue refers to changes in decision behavior after sustained decision demands. Findings depend on task sequence, motivation, incentives, perceived effort, and alternative explanations such as ordinary fatigue or changing strategy. The construct should therefore be measured behaviorally rather than assumed from subjective tiredness.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Affective and counterfactual processes can influence valuation without reducing the entire decision to emotion. Their effects depend on what is represented, when it is represented, and whether the feeling is diagnostic of the decision target. Prospective and retrospective affect should be distinguished.
 
-A deeper interpretation of Decision fatigue requires separating the phenomenon from the benchmark used to identify it. The same observed response can be produced by different cognitive routes, and the same underlying process can produce different responses when information, goals, or constraints change. Evidence should therefore examine conditions under which the effect strengthens, weakens, reverses, or disappears. Useful tests manipulate the relevant information structure, compare matched alternatives, and measure both immediate responses and later behavior. Researchers should also distinguish population-level regularities from within-person variability and avoid treating a task-specific effect as a global trait. This matters particularly for decision phenomena because stakes, expertise, incentives, time pressure, familiarity, and cultural norms can alter the balance between heuristic simplification and more extensive analysis.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-Decision fatigue interfaces with cognitive control in 1.9 and self-regulation in 1.12, and with choice architecture when simplifying decisions reduces demand.
+Decision fatigue is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Choice overload in the local decision architecture, and prepares the distinction from Regret. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not equate decision fatigue with general tiredness or claim a fixed resource depletion mechanism without evidence.
-
 ### Owns
-Decision fatigue is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Decision fatigue**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Choice overload where that neighboring construct has the narrower preceding scope, and defers Regret where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Choice overload** where that construct has its own canonical scope, and defers **Regret** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Sustained decision demands can alter later performance.
-• Multiple mechanisms can produce apparent fatigue effects.
-• Experimental context and alternative explanations matter.
+- Decision fatigue must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Decision fatigue can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.51 Regret
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Explain a counterfactual emotional response involving recognition that an alternative choice or outcome would have been better.
+Establish the meaning, function, scientific scope, and boundaries of **Regret** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Regret is a negative counterfactual emotion arising when a person compares an actual outcome with a better alternative linked to a different decision.
+Regret is an affective response involving counterfactual comparison between an actual outcome and a better alternative that might have resulted from another choice.
 
 ## 3. Core Understanding
-Regret requires comparison with a counterfactual and can therefore depend on what alternatives are mentally available. It can influence learning, future choice, responsibility, and memory. Regret can concern action or inaction and may be stronger when the person believes the alternative was controllable. It differs from disappointment because regret typically attributes the worse outcome to a decision or choice that could have been different. Counterfactual availability strongly shapes its intensity.
 
-Regret is an affective and counterfactual response to comparing an actual outcome with a better alternative that could have occurred. It differs from disappointment because it specifically incorporates counterfactual responsibility or alternative choice.
+Regret incorporates a counterfactual comparison in which another choice would have produced a better result. It therefore differs from disappointment, which can occur without a decision-relevant alternative. Regret can influence learning, attribution, future choice, and memory.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Affective and counterfactual processes can influence valuation without reducing the entire decision to emotion. Their effects depend on what is represented, when it is represented, and whether the feeling is diagnostic of the decision target. Prospective and retrospective affect should be distinguished.
 
-A deeper interpretation of Regret requires separating the phenomenon from the benchmark used to identify it. The same observed response can be produced by different cognitive routes, and the same underlying process can produce different responses when information, goals, or constraints change. Evidence should therefore examine conditions under which the effect strengthens, weakens, reverses, or disappears. Useful tests manipulate the relevant information structure, compare matched alternatives, and measure both immediate responses and later behavior. Researchers should also distinguish population-level regularities from within-person variability and avoid treating a task-specific effect as a global trait. This matters particularly for decision phenomena because stakes, expertise, incentives, time pressure, familiarity, and cultural norms can alter the balance between heuristic simplification and more extensive analysis.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-Regret connects emotion in 1.13 with counterfactual thinking in 1.9 and anticipated regret in this chapter.
+Regret is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Decision fatigue in the local decision architecture, and prepares the distinction from Anticipated regret. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not equate regret with any negative emotion after failure. The counterfactual comparison and decision linkage are central.
-
 ### Owns
-Regret is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Regret**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Decision fatigue where that neighboring construct has the narrower preceding scope, and defers Anticipated regret where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Decision fatigue** where that construct has its own canonical scope, and defers **Anticipated regret** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Regret is counterfactual and decision-linked.
-• Perceived controllability affects regret.
-• Regret can function as both emotional cost and information for future choice.
+- Regret must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Regret can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.52 Anticipated regret
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Explain how expected future regret can influence a current decision before its outcome is known.
+Establish the meaning, function, scientific scope, and boundaries of **Anticipated regret** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Anticipated regret is a prospective expectation of the negative counterfactual emotion one may experience after a future choice.
+Anticipated regret is the prospective expectation that a future decision may produce regret if an alternative later appears better.
 
 ## 3. Core Understanding
-People may choose an option partly to reduce the regret they expect if the alternative later turns out better. Anticipated regret can encourage information search and caution, but it can also produce avoidance or indecision when many counterfactuals are possible. It differs from actual regret because it is prospective and can shape choice before evidence about the outcome arrives. The expected emotional response can itself become part of the subjective value assigned to options.
 
-Anticipated regret is a prospective expectation that a future choice may produce regret if a different option would turn out better. It can influence risk taking, delay, information search, and choice, but its effects depend on how vividly alternatives are represented.
+Anticipated regret projects that counterfactual comparison into the future. A person may select an option partly to avoid imagining a later better alternative. Its effects depend on how alternatives are represented, how responsibility is assigned, and how vivid future outcomes become.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+The critical distinction is between properties of the environment and the person's representation of those properties. Objective probabilities, subjective beliefs, uncertainty about the probability model, and emotional responses can all diverge. Strong analysis therefore specifies what information was available, how it was represented, what inference was required, and what would count as adequate performance.
 
-A deeper interpretation of Anticipated regret requires separating the phenomenon from the benchmark used to identify it. The same observed response can be produced by different cognitive routes, and the same underlying process can produce different responses when information, goals, or constraints change. Evidence should therefore examine conditions under which the effect strengthens, weakens, reverses, or disappears. Useful tests manipulate the relevant information structure, compare matched alternatives, and measure both immediate responses and later behavior. Researchers should also distinguish population-level regularities from within-person variability and avoid treating a task-specific effect as a global trait. This matters particularly for decision phenomena because stakes, expertise, incentives, time pressure, familiarity, and cultural norms can alter the balance between heuristic simplification and more extensive analysis.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-Anticipated regret links prospective thinking in 1.9 with regret, risk perception, and choice. It can also interact with omission and status quo effects.
+Anticipated regret is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Regret in the local decision architecture, and prepares the distinction from Ambiguity aversion. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not infer anticipated regret merely from cautious choice. The mechanism requires an expectation of future counterfactual regret.
-
 ### Owns
-Anticipated regret is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Anticipated regret**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Regret where that neighboring construct has the narrower preceding scope, and defers Ambiguity aversion where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Regret** where that construct has its own canonical scope, and defers **Ambiguity aversion** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Future emotional consequences can enter present choice.
-• Counterfactual imagination shapes anticipated regret.
-• Anticipation can alter both information search and commitment.
+- Anticipated regret must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Anticipated regret can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.53 Ambiguity aversion
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Characterize preference for options with known or better-specified probabilities over otherwise comparable options with ambiguous probabilities.
+Establish the meaning, function, scientific scope, and boundaries of **Ambiguity aversion** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Ambiguity aversion is a tendency to prefer risk with specified probabilities over ambiguity when outcomes are sufficiently comparable.
+Ambiguity aversion is preference for options with more clearly specified probabilities over otherwise comparable options whose probability information is poorly specified.
 
 ## 3. Core Understanding
-Ambiguity aversion concerns uncertainty about the probability model rather than uncertainty about outcomes alone. It can arise because unknown probabilities are perceived as less controllable, less trustworthy, harder to evaluate, or more threatening. It is not universal: curiosity, learning value, strategic opportunity, and prior experience can make ambiguity attractive in some contexts. Measurement also matters because stated preferences, choices, and willingness-to-pay can reveal different aspects of ambiguity attitudes.
 
-Ambiguity aversion is preference for options with better-specified probabilities over otherwise comparable options with poorly specified probabilities. It is distinct from risk aversion because the defining feature is uncertainty about probability information.
+Ambiguity aversion concerns preference between options with differently specified probabilities. It differs from risk aversion because both options may involve uncertainty, but one has better-known probabilities. The effect can vary with familiarity, information-seeking, domain, and whether ambiguity is perceived as reducible.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+The critical distinction is between properties of the environment and the person's representation of those properties. Objective probabilities, subjective beliefs, uncertainty about the probability model, and emotional responses can all diverge. Strong analysis therefore specifies what information was available, how it was represented, what inference was required, and what would count as adequate performance.
 
-A deeper interpretation of Ambiguity aversion requires separating the phenomenon from the benchmark used to identify it. The same observed response can be produced by different cognitive routes, and the same underlying process can produce different responses when information, goals, or constraints change. Evidence should therefore examine conditions under which the effect strengthens, weakens, reverses, or disappears. Useful tests manipulate the relevant information structure, compare matched alternatives, and measure both immediate responses and later behavior. Researchers should also distinguish population-level regularities from within-person variability and avoid treating a task-specific effect as a global trait. This matters particularly for decision phenomena because stakes, expertise, incentives, time pressure, familiarity, and cultural norms can alter the balance between heuristic simplification and more extensive analysis.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-Ambiguity aversion is the behavioral counterpart of decision under ambiguity and relates to subjective probability and risk perception.
+Ambiguity aversion is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Anticipated regret in the local decision architecture, and prepares the distinction from Risk perception. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not equate ambiguity aversion with general risk aversion. A person can dislike ambiguous probabilities while tolerating known-risk gambles.
-
 ### Owns
-Ambiguity aversion is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Ambiguity aversion**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Anticipated regret where that neighboring construct has the narrower preceding scope, and defers Risk perception where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Anticipated regret** where that construct has its own canonical scope, and defers **Risk perception** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Ambiguity concerns probability uncertainty.
-• Preferences depend on information quality and comparability.
-• Ambiguity attitudes can vary across domains.
+- Ambiguity aversion must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Ambiguity aversion can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.54 Risk perception
 
-**Section:** Biases and effects
-
 ## 1. Purpose
-Explain subjective evaluation of the likelihood, severity, controllability, and significance of potentially harmful or beneficial outcomes.
+Establish the meaning, function, scientific scope, and boundaries of **Risk perception** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Risk perception is the psychological representation and evaluation of risk, including judgments of likelihood, severity, dread, familiarity, controllability, and related attributes.
+Risk perception is subjective assessment of the likelihood, severity, controllability, familiarity, or other characteristics of potential harm or loss.
 
 ## 3. Core Understanding
-People do not represent risk solely as expected numerical loss. Perceived severity, uncertainty, voluntariness, familiarity, vividness, trust, controllability, and catastrophic potential can alter subjective risk. Risk perception can therefore diverge from actuarial estimates without implying simple irrationality: different psychological dimensions may be relevant to decisions under real-world uncertainty. Accurate communication must separate objective risk estimates from subjective risk appraisal and identify which component has changed.
 
-Risk perception is subjective assessment of danger, probability, severity, controllability, familiarity, or other risk dimensions. Perceived risk can diverge from objective risk because people rely on different cues and representations. It is therefore a psychological construct, not a direct measure of environmental hazard.
+Risk perception is an interpretation of potential hazard rather than a direct measurement of objective probability or severity. People may incorporate controllability, dread, familiarity, voluntariness, catastrophic potential, and social information. Perceived and objective risk can therefore diverge for identifiable reasons.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Formal models provide a benchmark or representational framework rather than an automatic account of psychological mechanism. A model can be normatively coherent while human behavior departs from it, or descriptively useful without being normatively desirable. Analysis should therefore distinguish assumptions, predictions, empirical fit, and psychological interpretation.
 
-A deeper interpretation of Risk perception requires separating the phenomenon from the benchmark used to identify it. The same observed response can be produced by different cognitive routes, and the same underlying process can produce different responses when information, goals, or constraints change. Evidence should therefore examine conditions under which the effect strengthens, weakens, reverses, or disappears. Useful tests manipulate the relevant information structure, compare matched alternatives, and measure both immediate responses and later behavior. Researchers should also distinguish population-level regularities from within-person variability and avoid treating a task-specific effect as a global trait. This matters particularly for decision phenomena because stakes, expertise, incentives, time pressure, familiarity, and cultural norms can alter the balance between heuristic simplification and more extensive analysis.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-Risk perception integrates judgment, affect, probability beliefs, and framing. It connects to the affect heuristic, optimism, ambiguity, and prospect theory and draws on perception and emotion from earlier chapters.
+Risk perception is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Ambiguity aversion in the local decision architecture, and prepares the distinction from Rational choice models. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not equate perceived risk with objective risk. Do not treat all divergence as bias without specifying the benchmark and decision criterion.
-
 ### Owns
-Risk perception is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Risk perception**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Ambiguity aversion where that neighboring construct has the narrower preceding scope, and defers Rational choice models where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Ambiguity aversion** where that construct has its own canonical scope, and defers **Rational choice models** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Risk has both objective and subjective representations.
-• Severity and probability can be psychologically separable.
-• Trust, familiarity, control, and affect can shape risk appraisal.
+- Risk perception must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Risk perception can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.55 Rational choice models
 
-**Section:** Models and applications
-
 ## 1. Purpose
-Provide normative frameworks for selecting actions according to coherent preferences and specified decision rules.
+Establish the meaning, function, scientific scope, and boundaries of **Rational choice models** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Rational choice models represent choices as selections among alternatives based on preferences, constraints, and explicit assumptions about consistency or optimization.
+Rational choice models is formal or idealized models in which agents select options according to specified preferences, constraints, information, and consistency assumptions.
 
 ## 3. Core Understanding
-Rational choice is a family of models rather than one psychological mechanism. Depending on the model, rationality may involve transitive preferences, consistency across equivalent representations, or optimization under stated constraints. These models provide benchmarks for analyzing behavior but do not imply that people consciously compute every choice. Psychological deviations can arise because assumptions about information, preferences, computation, or independence do not hold. Rational-choice analysis is therefore most useful when its assumptions are stated rather than treated as descriptions of human cognition.
 
-Rational choice models represent agents as selecting options according to coherent preferences and constraints. They are normative or idealized frameworks rather than direct descriptions of every psychological process. Their usefulness depends on the question, assumptions, and level of abstraction.
+Rational choice models specify how preferences, constraints, information, and available actions can generate coherent choice predictions. Their value depends on the level of analysis and assumptions. They provide benchmarks against which descriptive processes can be compared without assuming that people literally instantiate the model.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Formal models provide a benchmark or representational framework rather than an automatic account of psychological mechanism. A model can be normatively coherent while human behavior departs from it, or descriptively useful without being normatively desirable. Analysis should therefore distinguish assumptions, predictions, empirical fit, and psychological interpretation.
 
-A deeper interpretation of Rational choice models requires separating the phenomenon from the benchmark used to identify it. The same observed response can be produced by different cognitive routes, and the same underlying process can produce different responses when information, goals, or constraints change. Evidence should therefore examine conditions under which the effect strengthens, weakens, reverses, or disappears. Useful tests manipulate the relevant information structure, compare matched alternatives, and measure both immediate responses and later behavior. Researchers should also distinguish population-level regularities from within-person variability and avoid treating a task-specific effect as a global trait. This matters particularly for decision phenomena because stakes, expertise, incentives, time pressure, familiarity, and cultural norms can alter the balance between heuristic simplification and more extensive analysis.
+The process should be analyzed across people and within the same person over time. Population averages can hide substantial individual variation, while repeated measurements can reveal state-dependent changes that a single score conceals. Development, expertise, culture, incentives, and environmental structure can alter both the availability of information and the usefulness of a strategy. Measurement therefore needs a defined target, a comparison condition, and an explicit criterion. Where possible, process measures, repeated trials, counterfactual comparisons, manipulation of information, and transfer across tasks provide stronger evidence than a single self-report or final choice.
+
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-Rational choice provides the normative reference point for expected utility, bounded rationality, prospect theory, and debiasing.
+Rational choice models is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Risk perception in the local decision architecture, and prepares the distinction from Expected utility theory. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not use “rational” as a global judgment of a person. The model's rationality is defined by formal assumptions and the decision environment.
-
 ### Owns
-Rational choice models is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Rational choice models**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Risk perception where that neighboring construct has the narrower preceding scope, and defers Expected utility theory where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Risk perception** where that construct has its own canonical scope, and defers **Expected utility theory** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Normative coherence is model-relative.
-• Formal models require explicit assumptions.
-• Descriptive psychology and normative theory answer different questions.
+- Rational choice models must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Rational choice models can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.56 Expected utility theory
 
-**Section:** Models and applications
-
 ## 1. Purpose
-Represent normative choice under risk using expected utility maximization and coherent preference axioms.
+Establish the meaning, function, scientific scope, and boundaries of **Expected utility theory** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Expected utility theory is a formal decision theory in which preferences over risky prospects are represented through probability-weighted utility under specified axioms.
+Expected utility theory is a normative theory specifying coherent preference conditions under which choices can be represented as maximizing expected utility.
 
 ## 3. Core Understanding
-Expected utility provides a compact representation of risk preferences and permits derivation of choice implications from axioms such as completeness, transitivity, and independence in classical formulations. Its psychological significance comes from comparison with actual behavior: violations may indicate unstable preferences, context-sensitive valuation, probability transformation, or limitations in the model's assumptions. The theory does not require conscious arithmetic. It is a normative and representational framework whose empirical adequacy depends on the domain and elicitation method.
 
-Expected utility theory specifies how probabilities and utilities can be combined into a coherent preference model under stated axioms. It provides a normative benchmark and can describe behavior in some domains, but psychological departures do not automatically invalidate the model's normative role.
+Expected utility theory formalizes preferences over uncertain prospects using utilities and probabilities under specified coherence conditions. It is a normative framework that can also serve as a descriptive approximation in some settings. Psychological departures are informative about process but do not by themselves refute the normative standard.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Formal models provide a benchmark or representational framework rather than an automatic account of psychological mechanism. A model can be normatively coherent while human behavior departs from it, or descriptively useful without being normatively desirable. Analysis should therefore distinguish assumptions, predictions, empirical fit, and psychological interpretation.
 
-A deeper interpretation of Expected utility theory requires separating the phenomenon from the benchmark used to identify it. The same observed response can be produced by different cognitive routes, and the same underlying process can produce different responses when information, goals, or constraints change. Evidence should therefore examine conditions under which the effect strengthens, weakens, reverses, or disappears. Useful tests manipulate the relevant information structure, compare matched alternatives, and measure both immediate responses and later behavior. Researchers should also distinguish population-level regularities from within-person variability and avoid treating a task-specific effect as a global trait. This matters particularly for decision phenomena because stakes, expertise, incentives, time pressure, familiarity, and cultural norms can alter the balance between heuristic simplification and more extensive analysis.
+The construct should also be distinguished from the broader domain in which it appears. Evidence should specify the unit of analysis, interaction structure, temporal scale, and criterion of success. A final outcome is often an insufficient diagnostic because luck, constraints, information asymmetry, and feedback can intervene between process and result. Strong interpretation therefore combines process evidence with repeated observations and explicit comparison conditions.
+
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-It formalizes expected utility and interfaces with prospect theory, rational choice, risk, and preference representation.
+Expected utility theory is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Rational choice models in the local decision architecture, and prepares the distinction from Prospect theory. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not equate expected utility theory with a claim that people literally maximize expected utility in every decision.
-
 ### Owns
-Expected utility theory is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Expected utility theory**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Rational choice models where that neighboring construct has the narrower preceding scope, and defers Prospect theory where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Rational choice models** where that construct has its own canonical scope, and defers **Prospect theory** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• It is a formal theory of preference under risk.
-• Axioms and assumptions determine its predictions.
-• Empirical departures require diagnosis rather than immediate moral labeling.
+- Expected utility theory must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Expected utility theory can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.57 Prospect theory
 
-**Section:** Models and applications
-
 ## 1. Purpose
-Explain risky choice using reference-dependent value, asymmetric treatment of gains and losses, and transformed decision weights.
+Establish the meaning, function, scientific scope, and boundaries of **Prospect theory** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Prospect theory is a descriptive and formal framework in which outcomes are evaluated relative to a reference point and probabilities are transformed before entering choice valuation.
+Prospect theory is a descriptive and normative framework using reference-dependent value functions and nonlinear probability weighting to model risky choice.
 
 ## 3. Core Understanding
-Prospect theory explains several patterns that expected-utility models have difficulty capturing, including loss aversion, framing-sensitive risk preferences, and nonlinear probability weighting. Its value function is typically concave for gains, convex for losses, and steeper around the reference point, while a weighting function transforms objective probabilities. The theory is not a single explanation for every bias: its constructs specify a particular architecture of valuation under risk and can be extended or revised in later formulations.
 
-Prospect theory models decisions relative to reference points, with nonlinear value functions and probability weighting. It explains several systematic patterns that standard expected-utility models do not capture as directly. Its components are theoretical mechanisms and should not be treated as separate universal biases.
+Prospect theory represents risky choice with reference-dependent values and nonlinear decision weights. Its contribution is architectural: gains and losses are treated relative to a reference point, and probabilities are not assumed to enter linearly. Different parameters capture different behavioral patterns, so individual effects should not be treated as independent universal laws.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Formal models provide a benchmark or representational framework rather than an automatic account of psychological mechanism. A model can be normatively coherent while human behavior departs from it, or descriptively useful without being normatively desirable. Analysis should therefore distinguish assumptions, predictions, empirical fit, and psychological interpretation.
 
-A deeper interpretation of Prospect theory requires separating the phenomenon from the benchmark used to identify it. The same observed response can be produced by different cognitive routes, and the same underlying process can produce different responses when information, goals, or constraints change. Evidence should therefore examine conditions under which the effect strengthens, weakens, reverses, or disappears. Useful tests manipulate the relevant information structure, compare matched alternatives, and measure both immediate responses and later behavior. Researchers should also distinguish population-level regularities from within-person variability and avoid treating a task-specific effect as a global trait. This matters particularly for decision phenomena because stakes, expertise, incentives, time pressure, familiarity, and cultural norms can alter the balance between heuristic simplification and more extensive analysis.
+The construct should also be distinguished from the broader domain in which it appears. Evidence should specify the unit of analysis, interaction structure, temporal scale, and criterion of success. A final outcome is often an insufficient diagnostic because luck, constraints, information asymmetry, and feedback can intervene between process and result. Strong interpretation therefore combines process evidence with repeated observations and explicit comparison conditions.
+
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-Prospect theory integrates reference dependence, loss aversion, probability weighting, and risk perception. It connects this chapter's phenomena to formal decision modelling.
+Prospect theory is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Expected utility theory in the local decision architecture, and prepares the distinction from Dual-process accounts. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not treat prospect theory as a universal theory of all judgment or as proof that every decision exhibits the same parameter values.
-
 ### Owns
-Prospect theory is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Prospect theory**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Expected utility theory where that neighboring construct has the narrower preceding scope, and defers Dual-process accounts where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Expected utility theory** where that construct has its own canonical scope, and defers **Dual-process accounts** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Outcomes are coded relative to reference points.
-• Value and probability can be transformed psychologically.
-• Formal model components should be distinguished from empirical phenomena.
+- Prospect theory must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Prospect theory can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.58 Dual-process accounts
 
-**Section:** Models and applications
-
 ## 1. Purpose
-Describe frameworks that distinguish relatively fast, automatic, associative processing from slower, more controlled or deliberative processing.
+Establish the meaning, function, scientific scope, and boundaries of **Dual-process accounts** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Dual-process accounts propose partially distinct modes or processes of cognition that differ in speed, control, effort, and reliance on learned associations.
+Dual-process accounts is families of models distinguishing forms of processing by properties such as speed, automaticity, control, effort, or dependence on working memory.
 
 ## 3. Core Understanding
-Dual-process language is useful for organizing contrasts between rapid heuristic responses and more deliberate analytic processing, but contemporary evidence does not support treating cognition as two simple isolated boxes. Automatic and controlled processes can interact, and deliberate reasoning can itself use learned heuristics. The framework is therefore best used as a family of models rather than a universal binary architecture. Decision performance depends on task structure, expertise, motivation, attention, and whether additional deliberation actually improves the relevant criterion.
 
-Dual-process accounts distinguish classes of processing that differ in characteristics such as speed, automaticity, control, or dependence on working memory. They are families of models, not evidence for a literal two-box brain. Different tasks can recruit interacting processes rather than one process switching off while another switches on.
+Dual-process accounts organize families of hypotheses about different modes of processing. The distinction may concern speed, effort, automaticity, control, working-memory demand, or flexibility rather than two anatomical systems. Evidence should therefore test process properties directly rather than forcing every phenomenon into a binary taxonomy.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Real-world performance is embedded in feedback, expertise, organizational constraints, time pressure, and environmental regularities. A strategy can be adaptive because it exploits those regularities even if it would look incomplete under laboratory assumptions. Conversely, a familiar environment can conceal systematic error until conditions change.
 
-A deeper interpretation of Dual-process accounts requires separating the phenomenon from the benchmark used to identify it. The same observed response can be produced by different cognitive routes, and the same underlying process can produce different responses when information, goals, or constraints change. Evidence should therefore examine conditions under which the effect strengthens, weakens, reverses, or disappears. Useful tests manipulate the relevant information structure, compare matched alternatives, and measure both immediate responses and later behavior. Researchers should also distinguish population-level regularities from within-person variability and avoid treating a task-specific effect as a global trait. This matters particularly for decision phenomena because stakes, expertise, incentives, time pressure, familiarity, and cultural norms can alter the balance between heuristic simplification and more extensive analysis.
+The construct should also be distinguished from the broader domain in which it appears. Evidence should specify the unit of analysis, interaction structure, temporal scale, and criterion of success. A final outcome is often an insufficient diagnostic because luck, constraints, information asymmetry, and feedback can intervene between process and result. Strong interpretation therefore combines process evidence with repeated observations and explicit comparison conditions.
+
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-Dual-process accounts connect judgment, heuristics, debiasing, and cognitive control in 1.9. They can organize but should not replace mechanism-specific explanations.
+Dual-process accounts is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Prospect theory in the local decision architecture, and prepares the distinction from Naturalistic decision-making. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not equate fast with irrational and slow with rational. Nor should every cognitive phenomenon be forced into a two-system taxonomy.
-
 ### Owns
-Dual-process accounts is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Dual-process accounts**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Prospect theory where that neighboring construct has the narrower preceding scope, and defers Naturalistic decision-making where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Prospect theory** where that construct has its own canonical scope, and defers **Naturalistic decision-making** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Automatic and controlled processing can interact.
-• Speed is not equivalent to error.
-• Deliberation improves performance only when it changes relevant computation appropriately.
+- Dual-process accounts must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Dual-process accounts can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.59 Naturalistic decision-making
 
-**Section:** Models and applications
-
 ## 1. Purpose
-Explain how people make decisions in real-world settings involving time pressure, uncertainty, incomplete information, and meaningful consequences.
+Establish the meaning, function, scientific scope, and boundaries of **Naturalistic decision-making** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Naturalistic decision-making studies decision processes as they occur in realistic environments rather than only in abstract laboratory choice tasks.
+Naturalistic decision-making is research on decision processes as they occur in realistic environments characterized by time pressure, incomplete information, expertise, goals, and consequential constraints.
 
 ## 3. Core Understanding
-Experts often recognize familiar situations, detect patterns, mentally simulate plausible actions, and adapt to constraints without enumerating every option. Naturalistic approaches emphasize situation assessment, expertise, time pressure, goals, and environmental affordances. They therefore challenge the assumption that good decision-making always requires explicit comparison of a complete option set. At the same time, realistic environments can contain systematic hazards, and recognition-based expertise depends on accumulated knowledge and feedback.
 
-Naturalistic decision-making studies how people decide in realistic, time-pressured, information-rich environments. Expertise, recognition, mental simulation, situation assessment, and organizational constraints become central. Naturalistic intuition can be adaptive without being infallible.
+Naturalistic decision-making focuses on real-world decisions where time, information, goals, expertise, and consequences interact. Recognition, situation assessment, mental simulation, and learned patterns can support rapid action. The framework does not imply that expert intuition is always correct; its central question is when particular strategies fit particular environments.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+The construct connects person-level cognition with decision environments. The key scientific question is which features of the environment change the psychological process and whether the effect generalizes across people, tasks, stakes, and cultures.
 
-A deeper interpretation of Naturalistic decision-making requires separating the phenomenon from the benchmark used to identify it. The same observed response can be produced by different cognitive routes, and the same underlying process can produce different responses when information, goals, or constraints change. Evidence should therefore examine conditions under which the effect strengthens, weakens, reverses, or disappears. Useful tests manipulate the relevant information structure, compare matched alternatives, and measure both immediate responses and later behavior. Researchers should also distinguish population-level regularities from within-person variability and avoid treating a task-specific effect as a global trait. This matters particularly for decision phenomena because stakes, expertise, incentives, time pressure, familiarity, and cultural norms can alter the balance between heuristic simplification and more extensive analysis.
+The construct should also be distinguished from the broader domain in which it appears. Evidence should specify the unit of analysis, interaction structure, temporal scale, and criterion of success. A final outcome is often an insufficient diagnostic because luck, constraints, information asymmetry, and feedback can intervene between process and result. Strong interpretation therefore combines process evidence with repeated observations and explicit comparison conditions.
+
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-Naturalistic decision-making connects bounded rationality and recognition with expertise and thinking in 1.9. It provides an ecological complement to laboratory bias research.
+Naturalistic decision-making is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Dual-process accounts in the local decision architecture, and prepares the distinction from Choice architecture. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not equate naturalistic with infallible expert intuition or with rejection of formal models. Both can be informative under different conditions.
-
 ### Owns
-Naturalistic decision-making is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Naturalistic decision-making**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Dual-process accounts where that neighboring construct has the narrower preceding scope, and defers Choice architecture where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Dual-process accounts** where that construct has its own canonical scope, and defers **Choice architecture** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Decision procedures are shaped by real constraints.
-• Expertise can compress search through learned recognition.
-• Environmental validity does not eliminate the need for error analysis.
+- Naturalistic decision-making must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Naturalistic decision-making can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.60 Choice architecture
 
-**Section:** Models and applications
-
 ## 1. Purpose
-Explain how the design of a decision environment structures which options are noticed, compared, selected, or avoided.
+Establish the meaning, function, scientific scope, and boundaries of **Choice architecture** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Choice architecture is the organization of how options are presented and arranged while preserving, to varying degrees, the available choice set.
+Choice architecture is the arrangement, presentation, sequencing, and default structure of options that shapes the environment in which decisions are made.
 
 ## 3. Core Understanding
-Architecture includes defaults, ordering, partitioning, salience, timing, feedback, and the effort required to select alternatives. These features can influence behavior because they change attention, reference points, search costs, and perceived norms. Choice architecture is therefore not itself a psychological bias; it is an environmental design layer that interacts with bounded cognition. Ethical analysis also requires attention to transparency, welfare criteria, and whether the architecture preserves meaningful alternatives.
 
-Choice architecture concerns how the arrangement and presentation of options changes the environment in which decisions occur. It can alter attention, effort, defaults, comparison, and information access without requiring a change in the underlying options.
+Choice architecture concerns the environment surrounding a decision: defaults, ordering, grouping, information presentation, friction, timing, and feedback can alter what options are salient or easy to select. The construct therefore sits between individual cognition and environmental design.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+The construct connects person-level cognition with decision environments. The key scientific question is which features of the environment change the psychological process and whether the effect generalizes across people, tasks, stakes, and cultures.
 
-A deeper interpretation of Choice architecture requires separating the phenomenon from the benchmark used to identify it. The same observed response can be produced by different cognitive routes, and the same underlying process can produce different responses when information, goals, or constraints change. Evidence should therefore examine conditions under which the effect strengthens, weakens, reverses, or disappears. Useful tests manipulate the relevant information structure, compare matched alternatives, and measure both immediate responses and later behavior. Researchers should also distinguish population-level regularities from within-person variability and avoid treating a task-specific effect as a global trait. This matters particularly for decision phenomena because stakes, expertise, incentives, time pressure, familiarity, and cultural norms can alter the balance between heuristic simplification and more extensive analysis.
+The construct should also be distinguished from the broader domain in which it appears. Evidence should specify the unit of analysis, interaction structure, temporal scale, and criterion of success. A final outcome is often an insufficient diagnostic because luck, constraints, information asymmetry, and feedback can intervene between process and result. Strong interpretation therefore combines process evidence with repeated observations and explicit comparison conditions.
+
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-Choice architecture provides the environmental framework for default effects, choice overload, nudging, and preference construction.
+Choice architecture is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Naturalistic decision-making in the local decision architecture, and prepares the distinction from Nudging. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not equate choice architecture with manipulation. Design can simplify decisions, improve comprehension, or distort autonomy depending on implementation.
-
 ### Owns
-Choice architecture is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Choice architecture**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Naturalistic decision-making where that neighboring construct has the narrower preceding scope, and defers Nudging where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Naturalistic decision-making** where that construct has its own canonical scope, and defers **Nudging** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Environments structure cognition as well as available actions.
-• Small design features can alter search and comparison costs.
-• Effects depend on what the architecture makes easier, salient, or normative.
+- Choice architecture must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Choice architecture can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.61 Nudging
 
-**Section:** Models and applications
-
 ## 1. Purpose
-Define interventions that predictably alter behavior by changing aspects of choice architecture without substantially eliminating options or imposing conventional economic incentives.
+Establish the meaning, function, scientific scope, and boundaries of **Nudging** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-A nudge is a choice-environment intervention intended to influence behavior through features such as defaults, salience, reminders, simplification, or social information while preserving alternatives.
+Nudging is a choice-architecture intervention designed to predictably influence behavior while preserving available options and without relying on coercive removal of alternatives.
 
 ## 3. Core Understanding
-Nudges operate through ordinary psychological processes such as attention, inertia, norms, salience, and effort. Their effectiveness is context-dependent and must be demonstrated rather than assumed from the label. A nudge can improve outcomes when the default or prompt aligns with informed preferences, but the same mechanism can be used in ways that obscure alternatives or serve another party's interests. Evaluation therefore requires specifying target behavior, mechanism, population, and outcome.
 
-Nudging is an intervention within choice architecture intended to predictably influence behavior while preserving available options. Its empirical effects depend on context, implementation, population, and target behavior. A nudge is not synonymous with coercion or manipulation.
+Nudging is a subset of choice architecture in which a change in the decision environment is intended to predictably influence behavior while preserving meaningful alternatives. The empirical question is whether the intervention changes behavior through the proposed environmental mechanism and under which populations and contexts.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+The construct connects person-level cognition with decision environments. The key scientific question is which features of the environment change the psychological process and whether the effect generalizes across people, tasks, stakes, and cultures.
 
-A deeper interpretation of Nudging requires separating the phenomenon from the benchmark used to identify it. The same observed response can be produced by different cognitive routes, and the same underlying process can produce different responses when information, goals, or constraints change. Evidence should therefore examine conditions under which the effect strengthens, weakens, reverses, or disappears. Useful tests manipulate the relevant information structure, compare matched alternatives, and measure both immediate responses and later behavior. Researchers should also distinguish population-level regularities from within-person variability and avoid treating a task-specific effect as a global trait. This matters particularly for decision phenomena because stakes, expertise, incentives, time pressure, familiarity, and cultural norms can alter the balance between heuristic simplification and more extensive analysis.
+The construct should also be distinguished from the broader domain in which it appears. Evidence should specify the unit of analysis, interaction structure, temporal scale, and criterion of success. A final outcome is often an insufficient diagnostic because luck, constraints, information asymmetry, and feedback can intervene between process and result. Strong interpretation therefore combines process evidence with repeated observations and explicit comparison conditions.
+
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-Nudging is an application of choice architecture and draws on bounded rationality, defaults, framing, and social influence. It is downstream of psychological mechanisms rather than a fundamental construct.
+Nudging is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Choice architecture in the local decision architecture, and prepares the distinction from Debiasing. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not equate nudging with coercion or elimination of alternatives. The defining feature is architecture-based influence with preserved alternatives.
-
 ### Owns
-Nudging is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Nudging**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Choice architecture where that neighboring construct has the narrower preceding scope, and defers Debiasing where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Choice architecture** where that construct has its own canonical scope, and defers **Debiasing** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Nudges operate through predictable choice-environment features.
-• Effectiveness is empirical and context-dependent.
-• Ethical evaluation requires transparency and outcome criteria.
+- Nudging must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Nudging can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.62 Debiasing
 
-**Section:** Models and applications
-
 ## 1. Purpose
-Explain interventions intended to reduce systematic judgment errors or improve decision quality.
+Establish the meaning, function, scientific scope, and boundaries of **Debiasing** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Debiasing is the deliberate use of procedures, training, environmental changes, or decision aids to reduce a specified bias or improve the relevant decision criterion.
+Debiasing is interventions intended to reduce systematic judgment or decision problems by changing representations, procedures, environments, or strategies.
 
 ## 3. Core Understanding
-Debiasing is not one technique. It can involve statistical training, structured checklists, base-rate prompts, considering alternatives, feedback, accountability, aggregation, or redesign of the choice environment. Success depends on identifying the mechanism producing the error and targeting it without creating another problem. A debiasing intervention should therefore be evaluated against an explicit benchmark and realistic task rather than assumed effective because it encourages more deliberation.
 
-Debiasing refers to interventions intended to reduce systematic judgment or decision errors. Effective debiasing can involve changing environments, improving representations, prompting alternative hypotheses, delaying commitment, or teaching specific strategies. No single intervention reliably eliminates all biases.
+Debiasing aims to improve judgment or decision quality by changing representations, search, comparison, procedures, incentives, environments, or metacognitive checks. An intervention can reduce one error while introducing another, so evaluation must use the relevant accuracy or goal criterion rather than confidence or subjective satisfaction alone.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+The construct connects person-level cognition with decision environments. The key scientific question is which features of the environment change the psychological process and whether the effect generalizes across people, tasks, stakes, and cultures.
 
-A deeper interpretation of Debiasing requires separating the phenomenon from the benchmark used to identify it. The same observed response can be produced by different cognitive routes, and the same underlying process can produce different responses when information, goals, or constraints change. Evidence should therefore examine conditions under which the effect strengthens, weakens, reverses, or disappears. Useful tests manipulate the relevant information structure, compare matched alternatives, and measure both immediate responses and later behavior. Researchers should also distinguish population-level regularities from within-person variability and avoid treating a task-specific effect as a global trait. This matters particularly for decision phenomena because stakes, expertise, incentives, time pressure, familiarity, and cultural norms can alter the balance between heuristic simplification and more extensive analysis.
+The construct should also be distinguished from the broader domain in which it appears. Evidence should specify the unit of analysis, interaction structure, temporal scale, and criterion of success. A final outcome is often an insufficient diagnostic because luck, constraints, information asymmetry, and feedback can intervene between process and result. Strong interpretation therefore combines process evidence with repeated observations and explicit comparison conditions.
+
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-Debiasing connects specific biases to reasoning and cognitive control in 1.9 and to choice architecture and decision aids in this chapter.
+Debiasing is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Nudging in the local decision architecture, and prepares the distinction from Decision errors. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not assume more information or slower thinking always debiases. An intervention that changes confidence without improving accuracy is not necessarily successful.
-
 ### Owns
-Debiasing is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Debiasing**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Nudging where that neighboring construct has the narrower preceding scope, and defers Decision errors where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Nudging** where that construct has its own canonical scope, and defers **Decision errors** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Debiasing must target a defined mechanism or error.
-• Accuracy, calibration, and utility are separate outcomes.
-• Interventions require empirical validation in the relevant environment.
+- Debiasing must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Debiasing can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.63 Decision errors
 
-**Section:** Models and applications
-
 ## 1. Purpose
-Provide a neutral category for discrepancies between a decision and an explicitly specified normative, predictive, or task-performance criterion.
+Establish the meaning, function, scientific scope, and boundaries of **Decision errors** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-A decision error is a decision outcome or process that fails a stated criterion of correctness, calibration, safety, consistency, or goal attainment.
+Decision errors is a departure from an explicitly specified task, normative, or goal criterion in a decision process.
 
 ## 3. Core Understanding
-“Error” has meaning only relative to a criterion. A choice can be statistically suboptimal, inconsistent with stated preferences, unsafe relative to known constraints, or simply unsuccessful because of chance. These are not interchangeable. Good analysis therefore specifies whether the benchmark is normative probability theory, expected utility, task accuracy, stated goals, or an organizational rule. Calling a decision an error without naming the criterion risks converting a disagreement in values into a psychological diagnosis.
 
-Decision errors are departures from a specified normative, task, or goal criterion. The criterion must be made explicit because an unfavorable outcome is not necessarily an error and a successful outcome is not necessarily evidence of a good process.
+Decision error is relational: an answer is erroneous relative to a specified task, normative rule, goal, evidence standard, or constraint. This prevents the common mistake of equating an unfavorable outcome with a poor decision. Error analysis should identify where the process departed from the relevant criterion.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+Moral decisions involve both descriptive psychology and normative questions. Psychological evidence can explain how judgments are formed, but it does not by itself establish what is morally right. The analysis should keep empirical process, social norms, and normative standards conceptually distinct.
 
-A deeper interpretation of Decision errors requires separating the phenomenon from the benchmark used to identify it. The same observed response can be produced by different cognitive routes, and the same underlying process can produce different responses when information, goals, or constraints change. Evidence should therefore examine conditions under which the effect strengthens, weakens, reverses, or disappears. Useful tests manipulate the relevant information structure, compare matched alternatives, and measure both immediate responses and later behavior. Researchers should also distinguish population-level regularities from within-person variability and avoid treating a task-specific effect as a global trait. This matters particularly for decision phenomena because stakes, expertise, incentives, time pressure, familiarity, and cultural norms can alter the balance between heuristic simplification and more extensive analysis.
+The construct should also be distinguished from the broader domain in which it appears. Evidence should specify the unit of analysis, interaction structure, temporal scale, and criterion of success. A final outcome is often an insufficient diagnostic because luck, constraints, information asymmetry, and feedback can intervene between process and result. Strong interpretation therefore combines process evidence with repeated observations and explicit comparison conditions.
+
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-Decision errors integrate many biases and reasoning failures but should remain analytically separate from individual bias labels. They also connect to outcome bias and hindsight.
+Decision errors is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Debiasing in the local decision architecture, and prepares the distinction from Moral judgment and decision-making. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not infer cognitive error from an unfavorable outcome alone. Do not treat a normative economic criterion as the only possible standard.
-
 ### Owns
-Decision errors is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Decision errors**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Debiasing where that neighboring construct has the narrower preceding scope, and defers Moral judgment and decision-making where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Debiasing** where that construct has its own canonical scope, and defers **Moral judgment and decision-making** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Error is criterion-relative.
-• Process, prediction, and outcome errors differ.
-• Chance can produce poor outcomes without a poor decision process.
+- Decision errors must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Decision errors can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.64 Moral judgment and decision-making
 
-**Section:** Models and applications
-
 ## 1. Purpose
-Map how moral evaluations and action choices interact without making moral psychology the same thing as general decision-making.
+Establish the meaning, function, scientific scope, and boundaries of **Moral judgment and decision-making** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Moral judgment and decision-making concerns evaluating actions, intentions, harms, duties, fairness, or rights and using those evaluations in moral choice or behavior.
+Moral judgment and decision-making is the evaluation and selection of actions when moral considerations such as harm, welfare, fairness, obligation, responsibility, rights, or norms are relevant.
 
 ## 3. Core Understanding
-Moral decisions can combine consequences, rules, intentions, social norms, identity, emotion, and reasoning. The relative contribution of these factors varies across dilemmas and cultures. A moral judgment is not necessarily followed by corresponding behavior, and moral choice can be constrained by incentives, group context, or self-control. This topic is therefore a relationship/application node linking decision processes with moral cognition rather than a claim that all decisions are moral decisions.
 
-Moral judgment and decision-making involve evaluating actions, outcomes, obligations, harms, fairness, responsibility, and competing moral considerations. Moral decisions can recruit reasoning, emotion, social norms, identity, and anticipated consequences. They should not be reduced to either emotion or calculation alone.
+Moral judgment and decision-making integrates action evaluation with considerations such as harm, welfare, fairness, rights, duties, responsibility, and norms. Moral choice can involve affect, reasoning, social learning, identity, and anticipated consequences. Different moral domains can recruit different considerations, so no single process should be assumed to explain all moral decisions.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+The unit of analysis expands from individual cognition to interaction. Information distribution, communication, leadership, norms, coordination, and accountability can change how member-level knowledge becomes a collective decision. Group outcomes therefore cannot be inferred from the average quality of individual members alone.
 
-A deeper interpretation of Moral judgment and decision-making requires separating the phenomenon from the benchmark used to identify it. The same observed response can be produced by different cognitive routes, and the same underlying process can produce different responses when information, goals, or constraints change. Evidence should therefore examine conditions under which the effect strengthens, weakens, reverses, or disappears. Useful tests manipulate the relevant information structure, compare matched alternatives, and measure both immediate responses and later behavior. Researchers should also distinguish population-level regularities from within-person variability and avoid treating a task-specific effect as a global trait. This matters particularly for decision phenomena because stakes, expertise, incentives, time pressure, familiarity, and cultural norms can alter the balance between heuristic simplification and more extensive analysis.
+The construct should also be distinguished from the broader domain in which it appears. Evidence should specify the unit of analysis, interaction structure, temporal scale, and criterion of success. A final outcome is often an insufficient diagnostic because luck, constraints, information asymmetry, and feedback can intervene between process and result. Strong interpretation therefore combines process evidence with repeated observations and explicit comparison conditions.
+
+A further safeguard is temporal precision. The phenomenon may be an episode, recurring tendency, strategy, learned pattern, or formal property of a model. Treating a temporary response as a trait, or a model assumption as a psychological mechanism, creates false certainty. The appropriate level depends on the evidence.
 
 ## 4. Relationship to This Chapter
-The topic connects judgment and choice in this chapter with moral behavior and moral judgment in Chapter 1.16 and with emotion in 1.13.
+Moral judgment and decision-making is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Decision errors in the local decision architecture, and prepares the distinction from Group decision-making. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not make this node a second owner of general moral judgment. Its role here is the decision-making interface.
-
 ### Owns
-Moral judgment and decision-making is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Moral judgment and decision-making**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Decision errors where that neighboring construct has the narrower preceding scope, and defers Group decision-making where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Decision errors** where that construct has its own canonical scope, and defers **Group decision-making** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Moral evaluation and moral action can diverge.
-• Consequences, rules, intentions, emotion, and social context can interact.
-• Moral decision-making remains sensitive to ordinary decision processes.
+- Moral judgment and decision-making must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Moral judgment and decision-making can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## 1.10.65 Group decision-making
 
-**Section:** Models and applications
-
 ## 1. Purpose
-Explain decision processes in which multiple people jointly influence information processing, evaluation, and selection of a course of action.
+Establish the meaning, function, scientific scope, and boundaries of **Group decision-making** within the canonical architecture of judgment, decision-making, and choice.
 
 ## 2. Definition
-Group decision-making is collective evaluation and selection in which information, preferences, influence, and responsibility are distributed across group members.
+Group decision-making is a collective decision process in which information, influence, evaluation, responsibility, and commitment are distributed across multiple interacting people.
 
 ## 3. Core Understanding
-Groups can pool information and expertise, but communication structure, status, conformity, polarization, coordination costs, and shared-information bias can alter what the group considers. A group decision is not simply the average of individual decisions because interaction changes both information access and preferences. Quality therefore depends on how unique information is surfaced, disagreement is handled, alternatives are generated, and responsibility is distributed. Some group decisions improve accuracy; others amplify shared errors.
 
-Group decision-making distributes information, influence, responsibility, and evaluation across multiple people. Groups can improve decisions by pooling independent knowledge, but discussion can also create conformity, information cascades, polarization, coordination costs, and shared error. Group performance therefore depends on information structure and interaction processes.
+Group decision-making changes the unit of analysis because information and influence are distributed across interacting people. Groups can pool independent knowledge and detect errors, but communication can also amplify shared assumptions, conformity, polarization, coordination costs, and information cascades. Group quality therefore depends on interaction structure as well as member-level ability.
 
-Mechanistically, the construct should be decomposed into inputs, transformations, outputs, and feedback rather than inferred from a final response alone. Relevant inputs include available evidence, representations, goals, prior knowledge, time constraints, and social or environmental cues. Transformations can include retrieval, comparison, weighting, simulation, substitution, updating, or stopping, depending on the Topic. Outputs include estimates, valuations, confidence, choices, or revisions. Feedback can alter later judgments by changing knowledge, reference points, strategies, or expectations. Measurement therefore benefits from manipulating the information structure and observing process as well as outcome. Individual differences should be separated from within-person variability, and stable tendencies should not be inferred from a single task. Context, stakes, expertise, and culture can change which mechanism is expressed. This process-level view also prevents the common mistake of treating every deviation from a normative model as a psychological defect.
+The process is best understood by separating inputs, transformations, outputs, and feedback. Inputs include available evidence, goals, prior knowledge, constraints, and the structure of the alternatives. Transformations can involve retrieval, comparison, valuation, prediction, stopping, or revision. Outputs include estimates, commitments, rankings, or changes in belief. Feedback can alter later decisions by changing knowledge, expectations, or reference points.
 
-A deeper interpretation of Group decision-making requires separating the phenomenon from the benchmark used to identify it. The same observed response can be produced by different cognitive routes, and the same underlying process can produce different responses when information, goals, or constraints change. Evidence should therefore examine conditions under which the effect strengthens, weakens, reverses, or disappears. Useful tests manipulate the relevant information structure, compare matched alternatives, and measure both immediate responses and later behavior. Researchers should also distinguish population-level regularities from within-person variability and avoid treating a task-specific effect as a global trait. This matters particularly for decision phenomena because stakes, expertise, incentives, time pressure, familiarity, and cultural norms can alter the balance between heuristic simplification and more extensive analysis.
+The construct should also be distinguished from the broader domain in which it appears. Evidence should specify the unit of analysis, interaction structure, temporal scale, and criterion of success. A final outcome is often an insufficient diagnostic because luck, constraints, information asymmetry, and feedback can intervene between process and result. Strong interpretation therefore combines process evidence with repeated observations and explicit comparison conditions.
+
+A further safeguard is to distinguish what the construct explains from what merely co-occurs with it. Correlation with another decision variable does not establish that variable as the mechanism, and a successful prediction does not prove the representation used to generate it. Alternative explanations should remain active until the available evidence discriminates among them.
 
 ## 4. Relationship to This Chapter
-This is the canonical owner of group decision-making and connects directly to social influence and group processes in Chapter 1.16 while retaining its decision-process focus here.
+Group decision-making is positioned as a distinct decision-process object rather than a synonym for the neighboring Topic. It follows Moral judgment and decision-making in the local decision architecture, and culminates in collective decision processes. Its inputs can come from upstream cognition and its outputs can become inputs to later choice, learning, or action. The canonical boundary is important because the same observed behavior may be explained at several levels; this Topic owns the specific judgment/decision phenomenon named here while related upstream and downstream mechanisms retain their owners in their canonical chapters.
 
 ## 5. Boundaries
-## 5. Boundaries
-Do not duplicate general group psychology or groupthink here. Those mechanisms remain in 1.16; this node focuses on their consequences for collective choice.
-
 ### Owns
-Group decision-making is canonical here as specified by the locked Chapter 1.10 architecture.
+Owns the specific psychological construct or decision-process function named **Group decision-making**, including its defining conditions and the evidence needed to distinguish it from nearby phenomena.
 
 ### Defers
-Ad
-Defers Moral judgment and decision-making where that neighboring construct has the narrower preceding scope, and defers the chapter's group-level decision processes where that neighboring construct owns the adjacent downstream distinction. This Topic does not absorb those neighboring owners merely because they interact in the same decision sequence.
+Defers **Moral judgment and decision-making** where that construct has its own canonical scope, and defers **broader collective processes** where the adjacent Topic owns the next distinct decision-process distinction. It also defers upstream representation, memory, attention, motivation, emotion, and social mechanisms to their canonical System 1 owners rather than absorbing them into this Topic.
 
 ## 6. Key Principles
-• Interaction changes the information available to the decision system.
-• Groups can aggregate expertise or amplify shared bias.
-• Decision procedure and communication structure matter.
+- Group decision-making must be interpreted using the conditions in its Definition rather than as a synonym for a broader family term.
+- Observed choice or judgment is an output and does not, by itself, identify the underlying mechanism.
+- The expression of Group decision-making can vary with information, task structure, goals, stakes, expertise, timing, and context.
+- A named phenomenon should not be generalized from a narrow task to a universal property of human decision-making without converging evidence.
 
 ## Chapter-Wide Relationship Map
 
-- **1.9 Thinking, Representation, Reasoning, and Problem Solving:** owns general reasoning, mental representation, metacognition, cognitive control, and expertise; this chapter owns their judgment/choice interface.
-- **1.8 Memory:** owns memory systems and memory-specific phenomena; this chapter uses accessibility, reconstruction, and prior knowledge as inputs to judgment.
-- **1.13 Emotion:** owns emotion and emotion regulation; this chapter owns affective influences where they function within judgment and decision processes.
-- **1.12 Motivation and Self-Regulation:** owns goals, motivation, self-control, and regulation; this chapter owns decision phenomena involving valuation, delay, and choice.
-- **1.16 Social Cognition and Group Processes:** owns general attribution, attitudes, social influence, group processes, and moral cognition; this chapter owns their decision-making interfaces where explicitly designated.
-- **1.11 Language and Intelligence:** remains the canonical owner of language and intelligence constructs; this chapter does not absorb those domains.
+- **1.9 Thinking, Representation, Reasoning, and Problem Solving:** owns general representation, reasoning, metacognition, cognitive control, and problem solving; this chapter owns their judgment, valuation, and decision interfaces.
+- **1.8 Memory:** owns memory systems and memory-specific phenomena; this chapter uses remembered information and accessibility where they enter judgment and choice.
+- **1.13 Emotion:** owns emotion and emotion regulation; this chapter owns decision phenomena in which affective information functions within judgment or choice.
+- **1.12 Motivation and Self-Regulation:** owns goals, motivation, self-control, and regulation; this chapter owns decision processes involving valuation, delay, commitment, and choice.
+- **1.16 Social Cognition and Group Processes:** owns general social cognition, social influence, group processes, and moral cognition; this chapter owns the explicitly designated decision interfaces.
+- **1.11 Language and Intelligence:** remains the canonical owner of language and intelligence constructs.
+- **1.21 Action and Behavior:** owns action and behavior as broader behavioral constructs; this chapter stops at the judgment/decision/choice interface unless a Topic explicitly concerns collective or environmental decision structure.
 
 ## Retrieval Boundary
 
-Queries about a named decision construct should resolve to its specific object first. Queries that compare neighboring concepts should retrieve the relevant objects together rather than collapsing them into one definition. Model queries should retrieve the model-layer objects alongside the phenomena they are designed to explain, while preserving the distinction between model assumptions and empirical effects.
+Queries about a named decision construct should resolve to its specific canonical object first. Comparative queries should retrieve the neighboring objects together without collapsing their distinctions. Model queries should retrieve the model-layer objects alongside the phenomena they are intended to represent, while preserving the difference between model assumptions, empirical predictions, and psychological mechanisms.
