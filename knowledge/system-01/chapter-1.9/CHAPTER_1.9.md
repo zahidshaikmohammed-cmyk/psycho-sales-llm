@@ -33,10 +33,10 @@ Thinking is the chapter-level activity that operates over representations; its i
 
 ## 5. Boundaries
 ### Owns
-Thinking as defined above, including its characteristic role within representation.
+Owns the coordinated manipulation and evaluation of represented information across cognitive operations.
 
 ### Defers
-Owns the Topic's specific representational function. Defers perceptual encoding to 1.4, memory storage/retrieval to 1.8, language-specific structures to 1.11, motivation and goals to 1.12, and social representations where 1.16 is the substantive owner.
+Defers perception and sensory encoding (1.4), attention selection (1.6), memory mechanisms (1.8), language-specific processing (1.11), and preference/choice processes (1.10).
 
 ## 6. Key Principles
 - Thinking has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -73,10 +73,10 @@ Cognition is the umbrella construct for the information-processing family, while
 
 ## 5. Boundaries
 ### Owns
-Cognition as defined above, including its characteristic role within representation.
+Owns the broad information-processing domain that integrates representation, transformation, retention, and use.
 
 ### Defers
-Owns the Topic's specific representational function. Defers perceptual encoding to 1.4, memory storage/retrieval to 1.8, language-specific structures to 1.11, motivation and goals to 1.12, and social representations where 1.16 is the substantive owner.
+Defers the narrower canonical owners of perception (1.4), attention (1.6), memory (1.8), language/intelligence (1.11), emotion (1.13), and social cognition (1.16).
 
 ## 6. Key Principles
 - Cognition has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -113,10 +113,10 @@ Mental representation is the substrate-level concept for the chapter's later ope
 
 ## 5. Boundaries
 ### Owns
-Mental representation as defined above, including its characteristic role within representation.
+Owns internal informational structures that stand for objects, events, relations, rules, states, or possibilities.
 
 ### Defers
-Owns the Topic's specific representational function. Defers perceptual encoding to 1.4, memory storage/retrieval to 1.8, language-specific structures to 1.11, motivation and goals to 1.12, and social representations where 1.16 is the substantive owner.
+Defers the specific perceptual representations of 1.4, retained memory systems of 1.8, and language-specific representations of 1.11.
 
 ## 6. Key Principles
 - Mental representation has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -153,10 +153,10 @@ Concepts provide structured meaning that categories, reasoning, and knowledge ac
 
 ## 5. Boundaries
 ### Owns
-Concepts as defined above, including its characteristic role within representation.
+Owns conceptual structures that organize meaning, properties, relations, and inferential potential.
 
 ### Defers
-Owns the Topic's specific representational function. Defers perceptual encoding to 1.4, memory storage/retrieval to 1.8, language-specific structures to 1.11, motivation and goals to 1.12, and social representations where 1.16 is the substantive owner.
+Defers category assignment processes (1.9.8), language mechanisms (1.11), and specific memory systems that preserve conceptual knowledge (1.8).
 
 ## 6. Key Principles
 - Concepts has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -193,10 +193,10 @@ Categories are organized equivalence classes used by categorization, inference, 
 
 ## 5. Boundaries
 ### Owns
-Categories as defined above, including its characteristic role within representation.
+Owns functional category structures and the organization of membership and equivalence.
 
 ### Defers
-Owns the Topic's specific representational function. Defers perceptual encoding to 1.4, memory storage/retrieval to 1.8, language-specific structures to 1.11, motivation and goals to 1.12, and social representations where 1.16 is the substantive owner.
+Defers the active categorization process (1.9.8), prototype/exemplar models (1.9.6–7), and sensory classification mechanisms owned by 1.4.
 
 ## 6. Key Principles
 - Categories has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -233,10 +233,10 @@ Prototypes are one proposed form of category representation and therefore sit be
 
 ## 5. Boundaries
 ### Owns
-Prototypes as defined above, including its characteristic role within representation.
+Owns prototype-based summary representations and their explanatory predictions in category structure.
 
 ### Defers
-Owns the Topic's specific representational function. Defers perceptual encoding to 1.4, memory storage/retrieval to 1.8, language-specific structures to 1.11, motivation and goals to 1.12, and social representations where 1.16 is the substantive owner.
+Defers general category organization (1.9.5), exemplar representations (1.9.7), and learning mechanisms that create category knowledge (1.7).
 
 ## 6. Key Principles
 - Prototypes has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -273,10 +273,10 @@ Exemplars represent particular category instances and connect this chapter to ep
 
 ## 5. Boundaries
 ### Owns
-Exemplars as defined above, including its characteristic role within representation.
+Owns exemplar-based representations of encountered category members and their influence on classification.
 
 ### Defers
-Owns the Topic's specific representational function. Defers perceptual encoding to 1.4, memory storage/retrieval to 1.8, language-specific structures to 1.11, motivation and goals to 1.12, and social representations where 1.16 is the substantive owner.
+Defers the general memory system (1.8), prototype models (1.9.6), and active categorization operations (1.9.8).
 
 ## 6. Key Principles
 - Exemplars has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -313,10 +313,10 @@ Categorization is the active assignment process that uses category representatio
 
 ## 5. Boundaries
 ### Owns
-Categorization as defined above, including its characteristic role within representation.
+Owns the active process of assigning instances to categories using evidence, knowledge, and criteria.
 
 ### Defers
-Owns the Topic's specific representational function. Defers perceptual encoding to 1.4, memory storage/retrieval to 1.8, language-specific structures to 1.11, motivation and goals to 1.12, and social representations where 1.16 is the substantive owner.
+Defers the category representations it uses (1.9.5–7), perceptual input processes (1.4), and downstream decisions/preferences (1.10).
 
 ## 6. Key Principles
 - Categorization has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -353,10 +353,10 @@ Concept formation is the learning process by which abstractions become available
 
 ## 5. Boundaries
 ### Owns
-Concept formation as defined above, including its characteristic role within representation.
+Owns construction and abstraction of concepts from experience, feedback, relations, and regularities.
 
 ### Defers
-Owns the Topic's specific representational function. Defers perceptual encoding to 1.4, memory storage/retrieval to 1.8, language-specific structures to 1.11, motivation and goals to 1.12, and social representations where 1.16 is the substantive owner.
+Defers general learning mechanisms (1.7), language-specific acquisition (1.11), and the resulting category representations (1.9.4–5).
 
 ## 6. Key Principles
 - Concept formation has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -393,10 +393,10 @@ Schemas organize expectations across multiple instances and therefore provide a 
 
 ## 5. Boundaries
 ### Owns
-Schemas as defined above, including its characteristic role within representation.
+Owns organized expectations about relations among concepts, events, roles, objects, and situations.
 
 ### Defers
-Owns the Topic's specific representational function. Defers perceptual encoding to 1.4, memory storage/retrieval to 1.8, language-specific structures to 1.11, motivation and goals to 1.12, and social representations where 1.16 is the substantive owner.
+Defers specific episodic memory (1.8), event-sequence scripts (1.9.11), and social schemas whose domain-specific owner lies in 1.16.
 
 ## 6. Key Principles
 - Schemas has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -433,10 +433,10 @@ Scripts are event-sequence schemas. They specialize the broader schema construct
 
 ## 5. Boundaries
 ### Owns
-Scripts as defined above, including its characteristic role within representation.
+Owns event-sequence knowledge involving expected roles, actions, temporal order, and optional branches.
 
 ### Defers
-Owns the Topic's specific representational function. Defers perceptual encoding to 1.4, memory storage/retrieval to 1.8, language-specific structures to 1.11, motivation and goals to 1.12, and social representations where 1.16 is the substantive owner.
+Defers general schemas (1.9.10), prospective plans (1.9.36), and episodic memories of particular events (1.8).
 
 ## 6. Key Principles
 - Scripts has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -473,10 +473,10 @@ Mental models specialize representation for relational and causal simulation of 
 
 ## 5. Boundaries
 ### Owns
-Mental models as defined above, including its characteristic role within representation.
+Owns relational models of systems, states, components, and causal dependencies that support simulation.
 
 ### Defers
-Owns the Topic's specific representational function. Defers perceptual encoding to 1.4, memory storage/retrieval to 1.8, language-specific structures to 1.11, motivation and goals to 1.12, and social representations where 1.16 is the substantive owner.
+Defers general schemas (1.9.10), causal reasoning (1.9.24), and external computational models that are tools rather than psychological constructs.
 
 ## 6. Key Principles
 - Mental models has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -513,10 +513,10 @@ Knowledge structures describe the organization of accumulated information across
 
 ## 5. Boundaries
 ### Owns
-Knowledge structures as defined above, including its characteristic role within representation.
+Owns organization of accumulated knowledge into connected concepts, schemas, procedures, relations, and causal structures.
 
 ### Defers
-Owns the Topic's specific representational function. Defers perceptual encoding to 1.4, memory storage/retrieval to 1.8, language-specific structures to 1.11, motivation and goals to 1.12, and social representations where 1.16 is the substantive owner.
+Defers memory retention itself (1.8), individual concepts (1.9.4), and domain-specific language representations (1.11).
 
 ## 6. Key Principles
 - Knowledge structures has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -553,10 +553,10 @@ Mental imagery concerns sensory-like or spatial representation without current e
 
 ## 5. Boundaries
 ### Owns
-Mental imagery as defined above, including its characteristic role within representation.
+Owns sensory-like and spatial representation in the absence of the corresponding immediate stimulus.
 
 ### Defers
-Owns the Topic's specific representational function. Defers perceptual encoding to 1.4, memory storage/retrieval to 1.8, language-specific structures to 1.11, motivation and goals to 1.12, and social representations where 1.16 is the substantive owner.
+Defers current sensory perception (1.4), memory storage (1.8), and language-based symbolic representation (1.11).
 
 ## 6. Key Principles
 - Mental imagery has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -593,10 +593,10 @@ Symbolic thought concerns manipulation of learned sign systems and therefore int
 
 ## 5. Boundaries
 ### Owns
-Symbolic thought as defined above, including its characteristic role within representation.
+Owns cognitive manipulation of learned symbols and systematic mappings among symbols and referents.
 
 ### Defers
-Owns the Topic's specific representational function. Defers perceptual encoding to 1.4, memory storage/retrieval to 1.8, language-specific structures to 1.11, motivation and goals to 1.12, and social representations where 1.16 is the substantive owner.
+Defers language-specific structure (1.11), purely perceptual representation (1.4), and mathematical or computational tools as external artifacts.
 
 ## 6. Key Principles
 - Symbolic thought has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -633,10 +633,10 @@ Abstract thinking concerns the level of representation at which relations and pr
 
 ## 5. Boundaries
 ### Owns
-Abstract thinking as defined above, including its characteristic role within representation.
+Owns thought operating over abstract relations, classes, principles, and invariant structures.
 
 ### Defers
-Owns the Topic's specific representational function. Defers perceptual encoding to 1.4, memory storage/retrieval to 1.8, language-specific structures to 1.11, motivation and goals to 1.12, and social representations where 1.16 is the substantive owner.
+Defers intelligence as a broader individual-difference construct (1.11), concrete representation (1.9.17), and language-specific abstraction (1.11).
 
 ## 6. Key Principles
 - Abstract thinking has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -673,10 +673,10 @@ Concrete thinking preserves particular-instance information and provides a compl
 
 ## 5. Boundaries
 ### Owns
-Concrete thinking as defined above, including its characteristic role within representation.
+Owns thought tied to particular examples, objects, measurements, and observable conditions.
 
 ### Defers
-Owns the Topic's specific representational function. Defers perceptual encoding to 1.4, memory storage/retrieval to 1.8, language-specific structures to 1.11, motivation and goals to 1.12, and social representations where 1.16 is the substantive owner.
+Defers abstract thinking (1.9.16), developmental diagnosis, and intelligence constructs owned by 1.11.
 
 ## 6. Key Principles
 - Concrete thinking has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -713,10 +713,10 @@ Rule learning connects Chapter 1.9 to learning in 1.7 but owns the cognitive rep
 
 ## 5. Boundaries
 ### Owns
-Rule learning as defined above, including its characteristic role within representation.
+Owns representation and application of conditional or relational rules within cognition.
 
 ### Defers
-Owns the Topic's specific representational function. Defers perceptual encoding to 1.4, memory storage/retrieval to 1.8, language-specific structures to 1.11, motivation and goals to 1.12, and social representations where 1.16 is the substantive owner.
+Defers learning mechanisms that establish the rule (1.7), language-specific rule structures (1.11), and problem-solving use of rules (1.9.32).
 
 ## 6. Key Principles
 - Rule learning has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -753,10 +753,10 @@ Knowledge representation is the organizing problem underlying the chapter's conc
 
 ## 5. Boundaries
 ### Owns
-Knowledge representation as defined above, including its characteristic role within representation.
+Owns organization and format of information so that it supports retrieval, comparison, transformation, inference, and problem solving.
 
 ### Defers
-Owns the Topic's specific representational function. Defers perceptual encoding to 1.4, memory storage/retrieval to 1.8, language-specific structures to 1.11, motivation and goals to 1.12, and social representations where 1.16 is the substantive owner.
+Defers the memory system that retains information (1.8), language-specific representation (1.11), and any single representation format treated as a complete theory.
 
 ## 6. Key Principles
 - Knowledge representation has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -793,10 +793,10 @@ Reasoning is the chapter's general inference process. It takes structured repres
 
 ## 5. Boundaries
 ### Owns
-Reasoning as defined above, including its characteristic role within reasoning.
+Owns general inference from represented information under explicit or implicit evidence standards.
 
 ### Defers
-Owns the Topic's specific inference function. Defers judgment and choice constructs to 1.10, memory mechanisms to 1.8, language mechanisms to 1.11, and motivational goal selection to 1.12.
+Defers decision preference and choice (1.10), memory mechanisms (1.8), and specialized reasoning forms that receive their own Topics below.
 
 ## 6. Key Principles
 - Reasoning has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -833,10 +833,10 @@ Deductive reasoning is the validity-preserving specialization of reasoning. It d
 
 ## 5. Boundaries
 ### Owns
-Deductive reasoning as defined above, including its characteristic role within reasoning.
+Owns necessary inference from premises under valid deductive structure.
 
 ### Defers
-Owns the Topic's specific inference function. Defers judgment and choice constructs to 1.10, memory mechanisms to 1.8, language mechanisms to 1.11, and motivational goal selection to 1.12.
+Defers general reasoning (1.9.20), probabilistic or inductive inference (1.9.22/26), and factual truth of premises.
 
 ## 6. Key Principles
 - Deductive reasoning has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -873,10 +873,10 @@ Inductive reasoning generalizes beyond observed cases and therefore introduces u
 
 ## 5. Boundaries
 ### Owns
-Inductive reasoning as defined above, including its characteristic role within reasoning.
+Owns generalization and prediction from observed or sampled evidence under uncertainty.
 
 ### Defers
-Owns the Topic's specific inference function. Defers judgment and choice constructs to 1.10, memory mechanisms to 1.8, language mechanisms to 1.11, and motivational goal selection to 1.12.
+Defers deductive validity (1.9.21), causal inference (1.9.24), and preference-based judgments (1.10).
 
 ## 6. Key Principles
 - Inductive reasoning has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -913,10 +913,10 @@ Abductive reasoning generates and evaluates explanations. It connects causal rea
 
 ## 5. Boundaries
 ### Owns
-Abductive reasoning as defined above, including its characteristic role within reasoning.
+Owns generation and comparison of plausible explanations for observed evidence.
 
 ### Defers
-Owns the Topic's specific inference function. Defers judgment and choice constructs to 1.10, memory mechanisms to 1.8, language mechanisms to 1.11, and motivational goal selection to 1.12.
+Defers deductive proof, probabilistic calculation as a method, and decision preferences owned in 1.10.
 
 ## 6. Key Principles
 - Abductive reasoning has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -953,10 +953,10 @@ Causal reasoning uses representations of mechanisms, interventions, and alternat
 
 ## 5. Boundaries
 ### Owns
-Causal reasoning as defined above, including its characteristic role within reasoning.
+Owns inference about causal relations, mechanisms, interventions, and alternative outcomes.
 
 ### Defers
-Owns the Topic's specific inference function. Defers judgment and choice constructs to 1.10, memory mechanisms to 1.8, language mechanisms to 1.11, and motivational goal selection to 1.12.
+Defers general correlation or association, formal experimental methodology in 1.2, and counterfactual construction as a related but distinct operation.
 
 ## 6. Key Principles
 - Causal reasoning has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -993,10 +993,10 @@ Counterfactual thinking constructs alternative states to the actual outcome. It 
 
 ## 5. Boundaries
 ### Owns
-Counterfactual thinking as defined above, including its characteristic role within reasoning.
+Owns construction and evaluation of alternatives to actual events or states.
 
 ### Defers
-Owns the Topic's specific inference function. Defers judgment and choice constructs to 1.10, memory mechanisms to 1.8, language mechanisms to 1.11, and motivational goal selection to 1.12.
+Defers general imagination/imagery (1.9.14), causal inference (1.9.24), and planning of intended actions (1.9.36).
 
 ## 6. Key Principles
 - Counterfactual thinking has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -1033,10 +1033,10 @@ Probabilistic reasoning handles graded uncertainty and evidence weighting. It pr
 
 ## 5. Boundaries
 ### Owns
-Probabilistic reasoning as defined above, including its characteristic role within reasoning.
+Owns reasoning with uncertainty, probability, evidence weight, and calibration.
 
 ### Defers
-Owns the Topic's specific inference function. Defers judgment and choice constructs to 1.10, memory mechanisms to 1.8, language mechanisms to 1.11, and motivational goal selection to 1.12.
+Defers decision preference under risk (1.10), statistical methodology as a research method (1.2), and nonprobabilistic logical validity (1.9.27).
 
 ## 6. Key Principles
 - Probabilistic reasoning has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -1073,10 +1073,10 @@ Logical reasoning applies formal structural relations among propositions. It sup
 
 ## 5. Boundaries
 ### Owns
-Logical reasoning as defined above, including its characteristic role within reasoning.
+Owns formal evaluation of logical relations among propositions, quantifiers, and rules.
 
 ### Defers
-Owns the Topic's specific inference function. Defers judgment and choice constructs to 1.10, memory mechanisms to 1.8, language mechanisms to 1.11, and motivational goal selection to 1.12.
+Defers language comprehension (1.11), empirical truth of premises, and broader reasoning forms such as causal or probabilistic inference.
 
 ## 6. Key Principles
 - Logical reasoning has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -1113,10 +1113,10 @@ Analogical reasoning maps relational structure across cases. It connects represe
 
 ## 5. Boundaries
 ### Owns
-Analogical reasoning as defined above, including its characteristic role within reasoning.
+Owns mapping of relational structure between a source case and a target case.
 
 ### Defers
-Owns the Topic's specific inference function. Defers judgment and choice constructs to 1.10, memory mechanisms to 1.8, language mechanisms to 1.11, and motivational goal selection to 1.12.
+Defers simple similarity-based categorization (1.9.8), analogical transfer as application (1.9.29), and memory storage mechanisms (1.8).
 
 ## 6. Key Principles
 - Analogical reasoning has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -1153,10 +1153,10 @@ Analogical transfer is the application stage of analogy across contexts. It foll
 
 ## 5. Boundaries
 ### Owns
-Analogical transfer as defined above, including its characteristic role within reasoning.
+Owns application of a relational principle or solution structure learned in one context to another.
 
 ### Defers
-Owns the Topic's specific inference function. Defers judgment and choice constructs to 1.10, memory mechanisms to 1.8, language mechanisms to 1.11, and motivational goal selection to 1.12.
+Defers initial analogy formation (1.9.28), general transfer of learning owned in 1.7, and decision choice (1.10).
 
 ## 6. Key Principles
 - Analogical transfer has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -1193,10 +1193,10 @@ Mental simulation operates on representations to derive possible states or outco
 
 ## 5. Boundaries
 ### Owns
-Mental simulation as defined above, including its characteristic role within reasoning.
+Owns internal manipulation of models to derive possible states, sequences, or outcomes.
 
 ### Defers
-Owns the Topic's specific inference function. Defers judgment and choice constructs to 1.10, memory mechanisms to 1.8, language mechanisms to 1.11, and motivational goal selection to 1.12.
+Defers sensory imagery (1.9.14), causal reasoning (1.9.24), and external simulation tools as nonpsychological artifacts.
 
 ## 6. Key Principles
 - Mental simulation has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -1233,10 +1233,10 @@ Prospective thinking organizes representations of possible futures. It interface
 
 ## 5. Boundaries
 ### Owns
-Prospective thinking as defined above, including its characteristic role within reasoning.
+Owns construction, comparison, and evaluation of possible future states and outcomes.
 
 ### Defers
-Owns the Topic's specific inference function. Defers judgment and choice constructs to 1.10, memory mechanisms to 1.8, language mechanisms to 1.11, and motivational goal selection to 1.12.
+Defers prospective memory (1.8), concrete planning operations (1.9.36), and motivation for future goals (1.12).
 
 ## 6. Key Principles
 - Prospective thinking has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -1273,10 +1273,10 @@ Problem solving is the chapter's goal-directed transformation architecture. It u
 
 ## 5. Boundaries
 ### Owns
-Problem solving as defined above, including its characteristic role within problem solving.
+Owns coordinated movement from a problem state toward a goal using search, representation, reasoning, and strategy.
 
 ### Defers
-Owns the Topic's specific problem-solving operation. Defers motivation and goal commitment to 1.12, decision choice to 1.10, learning mechanisms to 1.7, and domain-specific expertise to the relevant knowledge domain.
+Defers specific search methods such as algorithms and heuristics, which have their own Topics, and preference-based choice in 1.10.
 
 ## 6. Key Principles
 - Problem solving has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -1313,10 +1313,10 @@ Problem representation defines the state space, constraints, operators, and goal
 
 ## 5. Boundaries
 ### Owns
-Problem representation as defined above, including its characteristic role within problem solving.
+Owns internal formulation of states, goals, constraints, relations, and operators defining a problem.
 
 ### Defers
-Owns the Topic's specific problem-solving operation. Defers motivation and goal commitment to 1.12, decision choice to 1.10, learning mechanisms to 1.7, and domain-specific expertise to the relevant knowledge domain.
+Defers problem search itself (1.9.32), perceptual organization (1.4), and general knowledge representation (1.9.19).
 
 ## 6. Key Principles
 - Problem representation has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -1353,10 +1353,10 @@ Problem identification concerns constructing the problem itself before or during
 
 ## 5. Boundaries
 ### Owns
-Problem identification as defined above, including its characteristic role within problem solving.
+Owns recognition and formulation of the discrepancy or task that should actually be solved.
 
 ### Defers
-Owns the Topic's specific problem-solving operation. Defers motivation and goal commitment to 1.12, decision choice to 1.10, learning mechanisms to 1.7, and domain-specific expertise to the relevant knowledge domain.
+Defers problem representation (1.9.33), solution search (1.9.32), and motivation as the source of broader goals (1.12).
 
 ## 6. Key Principles
 - Problem identification has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -1393,10 +1393,10 @@ Goal states specify the conditions that define successful problem resolution. Th
 
 ## 5. Boundaries
 ### Owns
-Goal states as defined above, including its characteristic role within problem solving.
+Owns representation of desired end conditions used to organize problem evaluation and search.
 
 ### Defers
-Owns the Topic's specific problem-solving operation. Defers motivation and goal commitment to 1.12, decision choice to 1.10, learning mechanisms to 1.7, and domain-specific expertise to the relevant knowledge domain.
+Defers motivation and goal value (1.12), planning operations (1.9.36), and final preference choice (1.10).
 
 ## 6. Key Principles
 - Goal states has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -1433,10 +1433,10 @@ Planning constructs intended action sequences and contingencies toward goals. It
 
 ## 5. Boundaries
 ### Owns
-Planning as defined above, including its characteristic role within problem solving.
+Owns construction of intended action sequences, dependencies, contingencies, and subgoals.
 
 ### Defers
-Owns the Topic's specific problem-solving operation. Defers motivation and goal commitment to 1.12, decision choice to 1.10, learning mechanisms to 1.7, and domain-specific expertise to the relevant knowledge domain.
+Defers prospective representation broadly (1.9.31), motivation for goals (1.12), and automatic skill execution (1.7).
 
 ## 6. Key Principles
 - Planning has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -1473,10 +1473,10 @@ Means–ends analysis is a specific search heuristic within problem solving. It 
 
 ## 5. Boundaries
 ### Owns
-Means–ends analysis as defined above, including its characteristic role within problem solving.
+Owns goal-directed search through discrepancies between current and desired states using subgoals.
 
 ### Defers
-Owns the Topic's specific problem-solving operation. Defers motivation and goal commitment to 1.12, decision choice to 1.10, learning mechanisms to 1.7, and domain-specific expertise to the relevant knowledge domain.
+Defers general problem solving (1.9.32), algorithmic procedures (1.9.38), and generic heuristics as a broader class (1.9.39).
 
 ## 6. Key Principles
 - Means–ends analysis has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -1513,10 +1513,10 @@ Algorithms provide specified procedures for solution execution. They contrast wi
 
 ## 5. Boundaries
 ### Owns
-Algorithms as defined above, including its characteristic role within problem solving.
+Owns specified procedures that can yield correct solutions when their assumptions and inputs are satisfied.
 
 ### Defers
-Owns the Topic's specific problem-solving operation. Defers motivation and goal commitment to 1.12, decision choice to 1.10, learning mechanisms to 1.7, and domain-specific expertise to the relevant knowledge domain.
+Defers heuristic shortcuts (1.9.39), external software tools, and problem selection or goal definition.
 
 ## 6. Key Principles
 - Algorithms has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -1553,10 +1553,10 @@ Heuristics provide bounded shortcuts within reasoning and problem solving. Their
 
 ## 5. Boundaries
 ### Owns
-Heuristics as defined above, including its characteristic role within problem solving.
+Owns bounded shortcut strategies that trade exhaustive computation for efficiency or adequacy.
 
 ### Defers
-Owns the Topic's specific problem-solving operation. Defers motivation and goal commitment to 1.12, decision choice to 1.10, learning mechanisms to 1.7, and domain-specific expertise to the relevant knowledge domain.
+Defers bounded rationality as the broader framework (1.9.61), formal algorithms (1.9.38), and decision-specific heuristics in 1.10.
 
 ## 6. Key Principles
 - Heuristics has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -1593,10 +1593,10 @@ Insight concerns restructuring that changes the accessibility of a solution. It 
 
 ## 5. Boundaries
 ### Owns
-Insight as defined above, including its characteristic role within problem solving.
+Owns solution emergence associated with restructuring a problem representation or discovering a new relation.
 
 ### Defers
-Owns the Topic's specific problem-solving operation. Defers motivation and goal commitment to 1.12, decision choice to 1.10, learning mechanisms to 1.7, and domain-specific expertise to the relevant knowledge domain.
+Defers generic creativity (1.9.45), ordinary retrieval of known solutions, and motivational persistence.
 
 ## 6. Key Principles
 - Insight has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -1633,10 +1633,10 @@ Mental set is persistence of previously successful strategies. It links learning
 
 ## 5. Boundaries
 ### Owns
-Mental set as defined above, including its characteristic role within problem solving.
+Owns persistence of previously successful problem-solving strategies despite changed requirements.
 
 ### Defers
-Owns the Topic's specific problem-solving operation. Defers motivation and goal commitment to 1.12, decision choice to 1.10, learning mechanisms to 1.7, and domain-specific expertise to the relevant knowledge domain.
+Defers functional fixedness (1.9.42), broader fixation (1.9.43), and general learning mechanisms (1.7).
 
 ## 6. Key Principles
 - Mental set has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -1673,10 +1673,10 @@ Functional fixedness is an object-function representation constraint. It is a sp
 
 ## 5. Boundaries
 ### Owns
-Functional fixedness as defined above, including its characteristic role within problem solving.
+Owns difficulty representing alternative functions for familiar objects during problem solving.
 
 ### Defers
-Owns the Topic's specific problem-solving operation. Defers motivation and goal commitment to 1.12, decision choice to 1.10, learning mechanisms to 1.7, and domain-specific expertise to the relevant knowledge domain.
+Defers general fixation (1.9.43), mental set (1.9.41), and sensory perception of the object's physical properties (1.4).
 
 ## 6. Key Principles
 - Functional fixedness has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -1713,10 +1713,10 @@ Cognitive fixation is the broader anchoring of representations or candidate solu
 
 ## 5. Boundaries
 ### Owns
-Cognitive fixation as defined above, including its characteristic role within problem solving.
+Owns anchoring of thought on an existing representation, interpretation, feature, or solution.
 
 ### Defers
-Owns the Topic's specific problem-solving operation. Defers motivation and goal commitment to 1.12, decision choice to 1.10, learning mechanisms to 1.7, and domain-specific expertise to the relevant knowledge domain.
+Defers the narrower object-function constraint of functional fixedness (1.9.42) and strategy-history-specific mental set (1.9.41).
 
 ## 6. Key Principles
 - Cognitive fixation has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -1753,10 +1753,10 @@ Creative cognition describes cognitive operations that generate and transform po
 
 ## 5. Boundaries
 ### Owns
-Creative cognition as defined above, including its characteristic role within problem solving.
+Owns cognitive operations involved in generating, combining, restructuring, evaluating, and refining ideas.
 
 ### Defers
-Owns the Topic's specific problem-solving operation. Defers motivation and goal commitment to 1.12, decision choice to 1.10, learning mechanisms to 1.7, and domain-specific expertise to the relevant knowledge domain.
+Defers creativity as a broader outcome/capacity construct (1.9.45) and specific divergent/convergent stages (1.9.46–47).
 
 ## 6. Key Principles
 - Creative cognition has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -1793,10 +1793,10 @@ Creativity is the broader outcome/capacity construct built from novelty and appr
 
 ## 5. Boundaries
 ### Owns
-Creativity as defined above, including its characteristic role within problem solving.
+Owns novel and appropriate outcomes or capacities within a defined domain and reference standard.
 
 ### Defers
-Owns the Topic's specific problem-solving operation. Defers motivation and goal commitment to 1.12, decision choice to 1.10, learning mechanisms to 1.7, and domain-specific expertise to the relevant knowledge domain.
+Defers the component process architecture of creative cognition (1.9.44) and intelligence as a broader individual-difference construct (1.11).
 
 ## 6. Key Principles
 - Creativity has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -1833,10 +1833,10 @@ Divergent thinking expands candidate space and therefore supplies generation to 
 
 ## 5. Boundaries
 ### Owns
-Divergent thinking as defined above, including its characteristic role within problem solving.
+Owns expansion of candidate possibilities through generative search and variation.
 
 ### Defers
-Owns the Topic's specific problem-solving operation. Defers motivation and goal commitment to 1.12, decision choice to 1.10, learning mechanisms to 1.7, and domain-specific expertise to the relevant knowledge domain.
+Defers overall creativity (1.9.45), convergent selection (1.9.47), and language fluency as a separate process (1.11).
 
 ## 6. Key Principles
 - Divergent thinking has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -1873,10 +1873,10 @@ Convergent thinking narrows and evaluates candidate space. It complements diverg
 
 ## 5. Boundaries
 ### Owns
-Convergent thinking as defined above, including its characteristic role within problem solving.
+Owns narrowing and evaluating candidates against evidence, constraints, or criteria.
 
 ### Defers
-Owns the Topic's specific problem-solving operation. Defers motivation and goal commitment to 1.12, decision choice to 1.10, learning mechanisms to 1.7, and domain-specific expertise to the relevant knowledge domain.
+Defers divergent generation (1.9.46), general decision choice (1.10), and creativity as the broader outcome construct (1.9.45).
 
 ## 6. Key Principles
 - Convergent thinking has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -1913,10 +1913,10 @@ Executive functions form the control layer that regulates the representational, 
 
 ## 5. Boundaries
 ### Owns
-Executive functions as defined above, including its characteristic role within executive cognition.
+Owns family of executive regulatory operations that coordinate cognition under conflict, novelty, and competing demands.
 
 ### Defers
-Owns the Topic's specified executive or metacognitive operation. Defers memory-specific operations to 1.8, attention mechanisms to 1.6, motivation/self-regulation to 1.12, and social control processes to 1.16.
+Defers individual operations below, attention (1.6), and motivation/self-regulation constructs in 1.12.
 
 ## 6. Key Principles
 - Executive functions has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -1953,10 +1953,10 @@ Inhibitory control is one executive-control operation concerned with suppressing
 
 ## 5. Boundaries
 ### Owns
-Inhibitory control as defined above, including its characteristic role within executive cognition.
+Owns suppression or withholding of competing responses or representations under specified conditions.
 
 ### Defers
-Owns the Topic's specified executive or metacognitive operation. Defers memory-specific operations to 1.8, attention mechanisms to 1.6, motivation/self-regulation to 1.12, and social control processes to 1.16.
+Defers general executive functions (1.9.48), attentional inhibition (1.6), and emotional/self-control constructs owned elsewhere.
 
 ## 6. Key Principles
 - Inhibitory control has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -1993,10 +1993,10 @@ Updating is an executive operation that revises active information. It connects 
 
 ## 5. Boundaries
 ### Owns
-Updating as defined above, including its characteristic role within executive cognition.
+Owns replacement and updating of active information while preserving relevant state.
 
 ### Defers
-Owns the Topic's specified executive or metacognitive operation. Defers memory-specific operations to 1.8, attention mechanisms to 1.6, motivation/self-regulation to 1.12, and social control processes to 1.16.
+Defers working-memory architecture (1.8), general learning (1.7), and broader executive control (1.9.53).
 
 ## 6. Key Principles
 - Updating has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -2033,10 +2033,10 @@ Cognitive shifting concerns movement between task sets or representational crite
 
 ## 5. Boundaries
 ### Owns
-Cognitive shifting as defined above, including its characteristic role within executive cognition.
+Owns switching between task sets, rules, dimensions, or representational criteria.
 
 ### Defers
-Owns the Topic's specified executive or metacognitive operation. Defers memory-specific operations to 1.8, attention mechanisms to 1.6, motivation/self-regulation to 1.12, and social control processes to 1.16.
+Defers broader cognitive flexibility (1.9.52), general task attention (1.6), and long-term learning mechanisms (1.7).
 
 ## 6. Key Principles
 - Cognitive shifting has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -2073,10 +2073,10 @@ Cognitive flexibility is broader than shifting and includes restructuring, rever
 
 ## 5. Boundaries
 ### Owns
-Cognitive flexibility as defined above, including its characteristic role within executive cognition.
+Owns adaptive modification of strategies, representations, or rules when conditions change.
 
 ### Defers
-Owns the Topic's specified executive or metacognitive operation. Defers memory-specific operations to 1.8, attention mechanisms to 1.6, motivation/self-regulation to 1.12, and social control processes to 1.16.
+Defers specific switching (1.9.51), general learning (1.7), and personality-level flexibility constructs elsewhere.
 
 ## 6. Key Principles
 - Cognitive flexibility has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -2113,10 +2113,10 @@ Cognitive control is the broader coordination construct integrating inhibition, 
 
 ## 5. Boundaries
 ### Owns
-Cognitive control as defined above, including its characteristic role within executive cognition.
+Owns coordination and regulation of attention, representations, goals, inhibition, and updating.
 
 ### Defers
-Owns the Topic's specified executive or metacognitive operation. Defers memory-specific operations to 1.8, attention mechanisms to 1.6, motivation/self-regulation to 1.12, and social control processes to 1.16.
+Defers the individual executive operations above, attention mechanisms (1.6), and motivational self-regulation (1.12).
 
 ## 6. Key Principles
 - Cognitive control has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -2153,10 +2153,10 @@ Metacognition is the higher-order architecture for monitoring and regulating cog
 
 ## 5. Boundaries
 ### Owns
-Metacognition as defined above, including its characteristic role within executive cognition.
+Owns higher-order knowledge, monitoring, experience, and control concerning one's own cognition.
 
 ### Defers
-Owns the Topic's specified executive or metacognitive operation. Defers memory-specific operations to 1.8, attention mechanisms to 1.6, motivation/self-regulation to 1.12, and social control processes to 1.16.
+Defers general self-awareness in 1.5, memory-specific metamemory functions below, and motivation/self-regulation in 1.12.
 
 ## 6. Key Principles
 - Metacognition has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -2193,10 +2193,10 @@ Metacognitive knowledge concerns what a person knows about tasks, strategies, an
 
 ## 5. Boundaries
 ### Owns
-Metacognitive knowledge as defined above, including its characteristic role within executive cognition.
+Owns knowledge about cognitive tasks, personal capabilities, strategies, and conditions of strategy effectiveness.
 
 ### Defers
-Owns the Topic's specified executive or metacognitive operation. Defers memory-specific operations to 1.8, attention mechanisms to 1.6, motivation/self-regulation to 1.12, and social control processes to 1.16.
+Defers monitoring judgments (1.9.56), control actions (1.9.57), and domain-specific learning content.
 
 ## 6. Key Principles
 - Metacognitive knowledge has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -2233,10 +2233,10 @@ Metacognitive monitoring concerns judgments about current or future cognitive pe
 
 ## 5. Boundaries
 ### Owns
-Metacognitive monitoring as defined above, including its characteristic role within executive cognition.
+Owns judgments about current or anticipated cognitive performance based on available internal cues.
 
 ### Defers
-Owns the Topic's specified executive or metacognitive operation. Defers memory-specific operations to 1.8, attention mechanisms to 1.6, motivation/self-regulation to 1.12, and social control processes to 1.16.
+Defers metacognitive knowledge (1.9.55), subjective experience (1.9.58), and objective performance/accuracy.
 
 ## 6. Key Principles
 - Metacognitive monitoring has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -2273,10 +2273,10 @@ Metacognitive control uses monitoring to regulate learning, reasoning, and probl
 
 ## 5. Boundaries
 ### Owns
-Metacognitive control as defined above, including its characteristic role within executive cognition.
+Owns use of monitoring information to regulate learning, reasoning, search, and strategy selection.
 
 ### Defers
-Owns the Topic's specified executive or metacognitive operation. Defers memory-specific operations to 1.8, attention mechanisms to 1.6, motivation/self-regulation to 1.12, and social control processes to 1.16.
+Defers monitoring itself (1.9.56), motivational self-regulation (1.12), and the underlying cognitive processes being regulated.
 
 ## 6. Key Principles
 - Metacognitive control has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -2313,10 +2313,10 @@ Metacognitive experience concerns subjective signals accompanying cognition. It 
 
 ## 5. Boundaries
 ### Owns
-Metacognitive experience as defined above, including its characteristic role within executive cognition.
+Owns subjective cognitive feelings such as familiarity, difficulty, knowing, confidence, and insight.
 
 ### Defers
-Owns the Topic's specified executive or metacognitive operation. Defers memory-specific operations to 1.8, attention mechanisms to 1.6, motivation/self-regulation to 1.12, and social control processes to 1.16.
+Defers explicit metacognitive knowledge (1.9.55), regulatory control (1.9.57), and the objective performance these feelings may or may not predict.
 
 ## 6. Key Principles
 - Metacognitive experience has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -2353,10 +2353,10 @@ Confidence in thinking is a specific metacognitive judgment about correctness or
 
 ## 5. Boundaries
 ### Owns
-Confidence in thinking as defined above, including its characteristic role within executive cognition.
+Owns subjective confidence judgments about the correctness or reliability of thinking.
 
 ### Defers
-Owns the Topic's specified executive or metacognitive operation. Defers memory-specific operations to 1.8, attention mechanisms to 1.6, motivation/self-regulation to 1.12, and social control processes to 1.16.
+Defers objective accuracy, general emotion, and decision confidence as embedded in 1.10 when the target is choice rather than cognition.
 
 ## 6. Key Principles
 - Confidence in thinking has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -2393,10 +2393,10 @@ Cognitive load describes demands imposed by tasks and representations on limited
 
 ## 5. Boundaries
 ### Owns
-Cognitive load as defined above, including its characteristic role within executive cognition.
+Owns demands imposed by task complexity, presentation, prior knowledge, and limited cognitive resources.
 
 ### Defers
-Owns the Topic's specified executive or metacognitive operation. Defers memory-specific operations to 1.8, attention mechanisms to 1.6, motivation/self-regulation to 1.12, and social control processes to 1.16.
+Defers global intelligence/capacity constructs (1.11), working-memory architecture (1.8), and purely subjective difficulty reports.
 
 ## 6. Key Principles
 - Cognitive load has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -2433,10 +2433,10 @@ Bounded rationality explains cognition under information and computational const
 
 ## 5. Boundaries
 ### Owns
-Bounded rationality as defined above, including its characteristic role within executive cognition.
+Owns framework for cognition under finite information, time, knowledge, and computational constraints.
 
 ### Defers
-Owns the Topic's specified executive or metacognitive operation. Defers memory-specific operations to 1.8, attention mechanisms to 1.6, motivation/self-regulation to 1.12, and social control processes to 1.16.
+Defers specific heuristics (1.9.39), formal decision models in 1.10, and normative optimization as a theoretical benchmark rather than a psychological owner.
 
 ## 6. Key Principles
 - Bounded rationality has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -2473,10 +2473,10 @@ Cognitive reflection concerns reconsideration of initially compelling responses.
 
 ## 5. Boundaries
 ### Owns
-Cognitive reflection as defined above, including its characteristic role within executive cognition.
+Owns tendency to inspect and potentially revise an initially compelling cognitive response.
 
 ### Defers
-Owns the Topic's specified executive or metacognitive operation. Defers memory-specific operations to 1.8, attention mechanisms to 1.6, motivation/self-regulation to 1.12, and social control processes to 1.16.
+Defers general executive control (1.9.53), metacognitive monitoring (1.9.56), and intelligence as a broad ability construct (1.11).
 
 ## 6. Key Principles
 - Cognitive reflection has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -2513,10 +2513,10 @@ Belief formation is the initial organization of propositions treated as credible
 
 ## 5. Boundaries
 ### Owns
-Belief formation as defined above, including its characteristic role within executive cognition.
+Owns initial construction and stabilization of propositions treated as credible representations.
 
 ### Defers
-Owns the Topic's specified executive or metacognitive operation. Defers memory-specific operations to 1.8, attention mechanisms to 1.6, motivation/self-regulation to 1.12, and social control processes to 1.16.
+Defers belief revision and updating below, social belief processes in 1.16, and formal knowledge acquisition as a learning process (1.7/1.9.66).
 
 ## 6. Key Principles
 - Belief formation has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -2553,10 +2553,10 @@ Belief revision concerns discrete or structured changes to existing beliefs when
 
 ## 5. Boundaries
 ### Owns
-Belief revision as defined above, including its characteristic role within executive cognition.
+Owns change in an existing belief's strength, scope, interpretation, or structure after new information.
 
 ### Defers
-Owns the Topic's specified executive or metacognitive operation. Defers memory-specific operations to 1.8, attention mechanisms to 1.6, motivation/self-regulation to 1.12, and social control processes to 1.16.
+Defers initial belief formation (1.9.63), sequential updating (1.9.65), and attitude-specific social constructs in 1.16.
 
 ## 6. Key Principles
 - Belief revision has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -2593,10 +2593,10 @@ Belief updating emphasizes sequential change as evidence accumulates. It therefo
 
 ## 5. Boundaries
 ### Owns
-Belief updating as defined above, including its characteristic role within executive cognition.
+Owns sequential adjustment of beliefs as evidence accumulates over time.
 
 ### Defers
-Owns the Topic's specified executive or metacognitive operation. Defers memory-specific operations to 1.8, attention mechanisms to 1.6, motivation/self-regulation to 1.12, and social control processes to 1.16.
+Defers one-time belief revision (1.9.64), probabilistic reasoning (1.9.26), and preference change in decision making (1.10).
 
 ## 6. Key Principles
 - Belief updating has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -2633,10 +2633,10 @@ Knowledge acquisition describes the development of organized, usable knowledge t
 
 ## 5. Boundaries
 ### Owns
-Knowledge acquisition as defined above, including its characteristic role within executive cognition.
+Owns integration of new information into organized, durable, transferable knowledge.
 
 ### Defers
-Owns the Topic's specified executive or metacognitive operation. Defers memory-specific operations to 1.8, attention mechanisms to 1.6, motivation/self-regulation to 1.12, and social control processes to 1.16.
+Defers general learning mechanisms and conditioning (1.7), memory storage/retrieval (1.8), and intelligence as a broader individual difference (1.11).
 
 ## 6. Key Principles
 - Knowledge acquisition has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
@@ -2673,10 +2673,10 @@ Expertise and thinking describes how accumulated domain knowledge changes repres
 
 ## 5. Boundaries
 ### Owns
-Expertise and thinking as defined above, including its characteristic role within executive cognition.
+Owns changes in representation, attention, prediction, search, and control produced by extensive domain knowledge.
 
 ### Defers
-Owns the Topic's specified executive or metacognitive operation. Defers memory-specific operations to 1.8, attention mechanisms to 1.6, motivation/self-regulation to 1.12, and social control processes to 1.16.
+Defers general intelligence (1.11), learning processes (1.7), and memory mechanisms (1.8), while retaining domain-specific expertise here.
 
 ## 6. Key Principles
 - Expertise and thinking has the specific scope established by its Definition and should not be treated as interchangeable with a neighboring Topic.
