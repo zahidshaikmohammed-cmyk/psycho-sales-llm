@@ -2,12 +2,13 @@
 
 **Branch:** `psycho-sales-canonical-depth-v2`  
 **Stage:** Encyclopedia-wide execution of the original **10-phase quality pipeline**  
-**Current rebuild:** **Chapter 1.7 — Learning and Behavior Change**  
+**Current rebuild:** **Chapter 1.8 — Memory**  
 **Chapter 1.4:** **62/62 Topics deeply rebuilt and audited**  
 **Chapter 1.5:** **44/44 Topics deeply rebuilt, structurally audited, semantically re-audited, ownership-audited, canonically synchronized, and SEALED 🔒**  
 **Chapter 1.6:** **40/40 Topics deeply rebuilt, semantically re-audited, ownership/boundary-audited, canonically synchronized, and SEALED 🔒**  
 **Chapter 1.7:** **66/66 Topics deeply rebuilt, semantically re-audited, ownership/boundary-audited, canonically synchronized, and SEALED 🔒**  
-**Next target:** **Chapter 1.8 — Memory**  
+**Chapter 1.8:** **76/76 Topics deeply rebuilt, semantically re-audited, ownership/boundary-audited, canonically synchronized, and SEALED 🔒**  
+**Next target:** **Chapter 1.9 — Thinking, Representation, Reasoning, and Problem Solving**  
 **Architecture:** **21 locked chapters / 1,364 chapter entries / 1,267 canonical construct-clinical owners**
 
 > **Simple on the surface. Deep underneath. Precise throughout.**
@@ -120,7 +121,7 @@ Remaining Chapters 1.10–1.21 are **not a new phase**. They are continued execu
 | 1.5 | 44 | V2 DEEP REBUILT — AUDITED / RE-AUDITED / SEALED 🔒 |
 | 1.6 | 40 | V2 DEEP REBUILT — AUDITED / RE-AUDITED / SEALED 🔒 |
 | 1.7 | 66 | V2 DEEP REBUILT — AUDITED / RE-AUDITED / SEALED 🔒 |
-| 1.8 | 76 | EXISTING CORPUS — NOT YET DEEP-REBUILT |
+| 1.8 | 76 | V2 DEEP REBUILT — AUDITED / RE-AUDITED / SEALED 🔒 |
 | 1.9 | 67 | EXISTING CORPUS — NOT YET DEEP-REBUILT* |
 | 1.10 | 65 | EXISTING CORPUS — NOT YET DEEP-REBUILT |
 | 1.11–1.21 | — | NOT YET WRITTEN |
@@ -215,7 +216,7 @@ A takeover agent should:
 11. Validate before sealing.
 12. Keep graph, metadata, validation, and prose synchronized.
 13. Never modify `main` unless explicitly authorized.
-14. Chapters 1.4–1.7 are complete, audited, re-audited, and canonically synchronized; Chapters 1.5–1.7 are semantically sealed. The next deep-rebuild target is **Chapter 1.8 — Memory**.
+14. Chapters 1.4–1.8 are complete, audited, re-audited, and canonically synchronized; Chapters 1.5–1.8 are semantically sealed. The next deep-rebuild target is **Chapter 1.9 — Thinking, Representation, Reasoning, and Problem Solving**.
 
 ## Final destination
 
