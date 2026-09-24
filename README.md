@@ -2,13 +2,14 @@
 
 **Branch:** `psycho-sales-canonical-depth-v2`  
 **Stage:** Encyclopedia-wide execution of the original **10-phase quality pipeline**  
-**Current rebuild:** **Chapter 1.8 — Memory — V3 Deep Rebuild**  
+**Current rebuild:** **Chapter 1.9 — Thinking, Representation, Reasoning, and Problem Solving — V3 Deep Rebuild**  
 **Chapter 1.4:** **62/62 Topics deeply rebuilt and audited**  
 **Chapter 1.5:** **44/44 Topics deeply rebuilt, structurally audited, semantically re-audited, ownership-audited, canonically synchronized, and SEALED 🔒**  
 **Chapter 1.6:** **40/40 Topics deeply rebuilt, semantically re-audited, ownership/boundary-audited, canonically synchronized, and SEALED 🔒**  
 **Chapter 1.7:** **66/66 Topics deeply rebuilt, semantically re-audited, ownership/boundary-audited, canonically synchronized, and SEALED 🔒**  
 **Chapter 1.8:** **76/76 Topics — 40,412 words — Core avg 411 / min 356 / max 501 — V3 DEEP REBUILT, FULLY RE-AUDITED, SEMANTICALLY SEALED 🔒**  
-**Next target:** **Chapter 1.9 — Thinking, Representation, Reasoning, and Problem Solving**  
+**Chapter 1.9:** **67/67 Topics — 41,764 words — Core avg 426 / min 367 / max 546 — V3 DEEP REBUILT, FULLY RE-AUDITED, SEMANTICALLY SEALED 🔒**  
+**Next target:** **Chapter 1.10 — Judgment, Decision-Making, and Choice**  
 **Architecture:** **21 locked chapters / 1,364 chapter entries / 1,267 canonical construct-clinical owners**
 
 > **Simple on the surface. Deep underneath. Precise throughout.**
