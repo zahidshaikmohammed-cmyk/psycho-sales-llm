@@ -944,6 +944,8 @@ Negative reinforcement increases behavior when behavior removes, prevents, or re
 
 Negative reinforcement occurs when removing, reducing, or preventing an aversive or otherwise behavior-maintaining condition increases the future probability of behavior. It is often confused with punishment because the word “negative” sounds adverse, but the defining operation is removal and the behavioral effect is increased behavior. Escape and avoidance are common forms, but not every reduction of discomfort is negative reinforcement unless behavior changes accordingly. Timing and contingency matter: the relevant consequence must depend sufficiently on the behavior for learning to occur. Negative reinforcement can coexist with positive reinforcement and can produce complex behavioral patterns when multiple consequences operate simultaneously.
 
+Because the aversive condition can be maintained by avoidance of its return, negative reinforcement may produce strong persistence even when the original condition is no longer frequently experienced. This makes it important to distinguish the immediate consequence from the longer-term learning history. Removing an aversive event can also teach discriminative cues about when relief is available, creating context-specific behavior rather than a generalized response.
+
 ## 4. Relationship to This Chapter
 This is reinforcement through removal/reduction of a condition; 'negative' denotes removal, not punishment.
 
@@ -1056,6 +1058,8 @@ Negative punishment differs from negative reinforcement because one decreases be
 Negative punishment reduces a behavior when a valued stimulus is removed contingently. The effect depends on what functions as valuable for that individual and on the consistency of the contingency.
 
 Negative punishment occurs when removing a consequence or valued condition after a behavior reduces the future probability of that behavior. “Negative” refers to removal, not badness. The removed event must function as a consequence whose loss changes behavior; otherwise the procedure is not demonstrated to be negative punishment. Effects depend on timing, contingency, the value of what is removed, alternative sources of reinforcement, and context. As with other operant processes, immediate distress or frustration is not itself proof of punishment learning. The defining evidence is a later reduction in the target behavior under comparable conditions.
+
+Negative punishment can affect both the target behavior and the learner's allocation among alternatives. If another behavior produces the valued outcome, the contingency can redirect behavior rather than merely suppress it. If no alternative exists, the procedure may reduce responding without producing a useful replacement. Interpretation therefore requires examining the full choice environment, not only the target response's frequency.
 
 ## 4. Relationship to This Chapter
 This is punishment through removal of a consequence or valued condition.
@@ -1206,6 +1210,8 @@ The requirement is response-based and fixed, unlike variable-ratio or interval s
 A fixed-ratio schedule delivers reinforcement after a specified number of responses. It commonly produces response patterns shaped by the predictable requirement, but actual performance depends on reinforcement value and other contextual variables.
 
 Fixed-ratio schedules reinforce after a specified number of responses. They can produce high response rates and, depending on the arrangement, a pause after reinforcement as the organism adjusts to the next requirement. The exact pattern depends on ratio size, reinforcer value, prior schedule history, and competing behavior. Ratio schedules should not be treated as inherently producing one universal response pattern. Their importance lies in showing that reinforcement tied to response count creates different behavioral dynamics from time-based schedules. Measurement should include both rate and temporal pattern rather than relying on a single average.
+
+Fixed-ratio behavior can show both rapid responding and systematic pauses, but these patterns are not invariant. Larger ratios, outcome magnitude, response effort, and prior schedules can change the amount and timing of responding. The schedule also changes what information the learner receives about progress toward reinforcement. A rigorous analysis therefore describes the actual ratio requirement and response distribution rather than treating “fixed ratio” as a single behavioral state.
 
 ## 4. Relationship to This Chapter
 This is response-count reinforcement with a fixed requirement.
@@ -1396,6 +1402,8 @@ Chaining links component responses into an organized sequence. Learning can invo
 
 Chaining links individually learnable responses into an organized sequence in which one response or its outcome provides conditions for the next. Complex skills can therefore be acquired without requiring the whole sequence to be learned at once. Forward and backward arrangements differ in which portion of the sequence receives early emphasis, and the usefulness of each depends on the task and learner. Chaining also depends on discriminative cues, reinforcement placement, memory for sequence structure, and error correction. A completed chain is not merely a list of responses: the transitions among components become behaviorally organized and can acquire their own cues and consequences.
 
+A chain can acquire internal structure through conditioned cues and learned transitions. Completion of one component can alter the discriminative conditions for the next, while reinforcement can be delivered at the end or at intermediate points. Errors may therefore propagate through the sequence, making practice of transitions as important as practice of individual components. Chaining is especially useful for understanding how complex behavior can emerge from simpler learned units.
+
 ## 4. Relationship to This Chapter
 This organizes component responses into an acquired sequence.
 
@@ -1507,6 +1515,8 @@ Avoidance learning increases behavior that prevents or delays an anticipated ave
 
 Avoidance learning occurs when behavior increases because it prevents, delays, or otherwise avoids an anticipated aversive condition. The behavior can be maintained even though the aversive outcome is not experienced on successful trials, which makes learning history and predictive cues especially important. Avoidance can involve warning signals, temporal expectations, or learned action–outcome relations. Its persistence can make extinction difficult because successful avoidance prevents the outcome that would otherwise provide new contradictory information. Avoidance therefore illustrates how behavior can be maintained by prevention rather than by direct relief from an already present condition.
 
+Avoidance can become self-maintaining because successful behavior prevents the learner from experiencing the outcome that would disconfirm the expectation. This can preserve the learned relation even when the environment has changed. Avoidance may therefore be sensitive to context, warning cues, and prior history, and its persistence does not by itself demonstrate that the anticipated outcome remains objectively likely. Learning and current environmental probability must be distinguished.
+
 ## 4. Relationship to This Chapter
 This is negative reinforcement in which behavior prevents or delays an anticipated aversive condition.
 
@@ -1580,6 +1590,8 @@ Observed reinforcement or punishment can alter behavior without direct exposure 
 Observational learning occurs when behavior or knowledge changes after observing another person or model. Attention, memory, perceived similarity, consequences observed for the model, and opportunities to reproduce the behavior all influence what is learned.
 
 Observational learning occurs when information acquired by watching others changes later knowledge, expectations, skills, or behavior. Direct reinforcement of the observer is not required, although observed consequences can provide information about likely outcomes. Learning depends on what the observer attends to, remembers, can reproduce, and finds relevant. The observed model's actions can therefore provide a compressed source of information about possible strategies without requiring the learner to experience every consequence directly. Observational learning should be distinguished from simple exposure and from imitation: a person can learn a rule or expected outcome without copying the observed action.
+
+Observational learning can produce knowledge without immediate behavioral change because the observer may lack opportunity, motivation, or confidence to perform the observed behavior. It can also alter what the learner attends to, expects, or remembers. Evidence for observational learning is therefore stronger when later behavior changes under appropriate conditions while direct reinforcement or additional instruction is controlled. Observation is an information source, not a guarantee of imitation.
 
 ## 4. Relationship to This Chapter
 This is learning from observing others without requiring direct trial-and-error experience.
@@ -1990,6 +2002,8 @@ Skill learning produces improved organized performance through practice and feed
 
 Skill learning concerns the acquisition of organized abilities that improve through experience, often involving perceptual, cognitive, and motor coordination. Skills are not merely collections of facts; they involve procedures that become more efficient, accurate, stable, or adaptable with practice. Early learning may require substantial attention and explicit guidance, while later performance can become faster and less effortful, although automaticity is not guaranteed. Skill learning is also sensitive to task structure, feedback, practice variability, fatigue, and transfer conditions. Measuring a skill requires more than counting repetitions: improvement can reflect speed–accuracy trade-offs, strategy changes, or familiarity unless performance criteria are specified.
 
+Skill learning often changes coordination among multiple component processes rather than improving one isolated response. Perceptual discrimination, timing, sequencing, decision rules, and motor execution can all become more efficient together. Skill representations may also become increasingly specific to task structure, which explains why excellent performance in one environment does not automatically transfer to another. Learning should therefore be evaluated for both efficiency and adaptability.
+
 ## 4. Relationship to This Chapter
 This concerns acquisition of organized abilities rather than isolated facts or responses.
 
@@ -2026,6 +2040,8 @@ Feedback can support correction but excessive dependence can reduce later indepe
 Practice changes performance through repeated engagement, feedback, and adaptation. Effective practice depends on task structure, spacing, difficulty, feedback, and the learner's existing skill rather than repetition alone.
 
 Practice provides repeated opportunities to modify and stabilize a skill, but repetition alone does not guarantee useful learning. Distributed versus massed practice, variability of conditions, spacing, retrieval demands, feedback timing, and task difficulty can change what is acquired. Practice can improve performance through better strategy, perceptual discrimination, motor coordination, or memory retrieval. It can also produce narrow adaptation that transfers poorly outside the trained context. The scientific question is therefore not simply whether more practice occurred, but what information and operations were strengthened by that practice and whether the resulting change persists and transfers.
+
+Practice also changes what errors the learner encounters and therefore what information becomes available for correction. Repetition without informative variation can stabilize an inefficient strategy, whereas appropriately challenging practice can reveal distinctions that support refinement. Practice schedules therefore influence both the amount of exposure and the structure of learning opportunities. Long-term improvement is better inferred from retention and transfer than from temporary fluency during practice.
 
 ## 4. Relationship to This Chapter
 This concerns repeated learning opportunities and their structure, not repetition as a guarantee of improvement.
@@ -2248,6 +2264,8 @@ Motivation, environment, attention, habits, and competing demands can limit regu
 Self-regulated learning involves coordinating goals, monitoring, strategy selection, effort, and adjustment during learning. It is not simply motivation; regulation depends on accurate monitoring and appropriate strategy use.
 
 Self-regulated learning involves cycles of setting learning goals, selecting strategies, monitoring progress, regulating effort and attention, evaluating outcomes, and adjusting future behavior. It is not simply “discipline” or motivation. Regulation depends on accurate monitoring, knowledge of effective strategies, available resources, task demands, and the learner's interpretation of performance. Poor monitoring can create a self-reinforcing loop in which confidence remains high despite weak retention. Effective regulation therefore requires feedback between performance evidence and strategy choice. Self-regulated learning also changes over time as learners acquire better knowledge about tasks and about their own learning processes.
+
+Self-regulated learning is a feedback system rather than a single trait. Learners compare current performance with a goal, choose an intervention, observe the result, and update their strategy. Errors in any component can degrade the whole cycle: inaccurate monitoring can lead to inappropriate strategy choice, while poor goal calibration can make reasonable performance appear inadequate. Regulation therefore depends on both metacognitive knowledge and valid performance information.
 
 ## 4. Relationship to This Chapter
 This concerns learners' regulation of their own goals, strategies, monitoring, and adjustment.
