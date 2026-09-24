@@ -29,7 +29,7 @@ Process tracing should therefore accompany outcome scoring where possible. The s
 The boundary condition for Thinking is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
-This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Thinking contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
+Thinking is the chapter-level activity that operates over representations; its immediate neighbors specialize the materials and operations it coordinates. It draws on attention (1.6), memory (1.8), and language (1.11), while reasoning and problem solving later in this chapter specify important forms of thinking. It defers preference-based choice to 1.10 and motivational regulation to 1.12.
 
 ## 5. Boundaries
 ### Owns
@@ -69,7 +69,7 @@ The broad construct should be used only as an organizing layer. Specific explana
 The boundary condition for Cognition is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
-This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Cognition contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
+Cognition is the umbrella construct for the information-processing family, while the remaining 1.9 Topics decompose that family into representations, reasoning, problem solving, and control. It therefore overlaps broadly with 1.4, 1.6, 1.8, and 1.11 but does not replace their canonical owners.
 
 ## 5. Boundaries
 ### Owns
@@ -109,7 +109,7 @@ A representation should be defined by the information and relations it preserves
 The boundary condition for Mental representation is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
-This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Mental representation contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
+Mental representation is the substrate-level concept for the chapter's later operations: concepts and models organize content, reasoning transforms relations, and problem solving uses representations to define states and operators. Perceptual representations originate in 1.4 and retained memory representations in 1.8; this Topic owns the general representational construct.
 
 ## 5. Boundaries
 ### Owns
@@ -149,7 +149,7 @@ Conceptual knowledge is demonstrated most clearly when it supports novel inferen
 The boundary condition for Concepts is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
-This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Concepts contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
+Concepts provide structured meaning that categories, reasoning, and knowledge acquisition operate over. They depend on memory for acquisition and retrieval but are not identical to stored episodes; language in 1.11 can label concepts without owning the conceptual structure itself.
 
 ## 5. Boundaries
 ### Owns
@@ -189,7 +189,7 @@ Category boundaries can change with task demands while the underlying knowledge 
 The boundary condition for Categories is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
-This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Categories contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
+Categories are organized equivalence classes used by categorization, inference, and prediction. They connect to perception in 1.4 and learning in 1.7, but this Topic owns the representational organization of category membership rather than the sensory input or learning process that produced it.
 
 ## 5. Boundaries
 ### Owns
@@ -229,7 +229,7 @@ Prototype effects can coexist with exemplar sensitivity. A central tendency may 
 The boundary condition for Prototypes is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
-This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Prototypes contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
+Prototypes are one proposed form of category representation and therefore sit beneath the broader Concepts/Categories architecture. They are compared with exemplars and theory-based structures rather than treated as the universal category mechanism.
 
 ## 5. Boundaries
 ### Owns
@@ -269,7 +269,7 @@ Exemplar influence is especially informative when atypical cases change later cl
 The boundary condition for Exemplars is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
-This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Exemplars contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
+Exemplars represent particular category instances and connect this chapter to episodic memory in 1.8. Their canonical role here is the representational contribution to categorization, not the general memory system that preserves the instances.
 
 ## 5. Boundaries
 ### Owns
@@ -309,7 +309,7 @@ Category decisions can be probabilistic before becoming categorical at response.
 The boundary condition for Categorization is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
-This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Categorization contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
+Categorization is the active assignment process that uses category representations, prototypes, exemplars, rules, and contextual criteria. It therefore follows category representation Topics and connects forward to reasoning, while perceptual categorization input remains grounded in 1.4.
 
 ## 5. Boundaries
 ### Owns
@@ -349,7 +349,7 @@ Concept learning should be evaluated through transfer and exception handling rat
 The boundary condition for Concept formation is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
-This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Concept formation contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
+Concept formation is the learning process by which abstractions become available for later categorization and reasoning. General learning mechanisms belong to 1.7; this Topic owns the cognitive construction of concepts from experience and evidence.
 
 ## 5. Boundaries
 ### Owns
@@ -389,7 +389,7 @@ Schemas are predictive structures, so their accuracy depends on the regularity o
 The boundary condition for Schemas is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
-This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Schemas contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
+Schemas organize expectations across multiple instances and therefore provide a bridge between memory, perception, and reasoning. Episodic retention belongs to 1.8; the schema itself is the structured knowledge representation used to interpret and predict.
 
 ## 5. Boundaries
 ### Owns
@@ -429,7 +429,7 @@ Scripts can support action as well as comprehension, but intended action should 
 The boundary condition for Scripts is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
-This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Scripts contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
+Scripts are event-sequence schemas. They specialize the broader schema construct by representing ordered roles and actions, while prospective plans later in this chapter represent intended rather than merely expected sequences.
 
 ## 5. Boundaries
 ### Owns
@@ -469,7 +469,7 @@ Model validity is best tested by intervention and transfer. A model that only re
 The boundary condition for Mental models is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
-This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Mental models contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
+Mental models specialize representation for relational and causal simulation of systems or states. They connect directly to causal reasoning and problem solving while remaining distinct from schemas, which organize broader expectations.
 
 ## 5. Boundaries
 ### Owns
@@ -509,7 +509,7 @@ Knowledge organization can create both facilitation and interference. Closely re
 The boundary condition for Knowledge structures is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
-This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Knowledge structures contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
+Knowledge structures describe the organization of accumulated information across concepts, schemas, scripts, procedures, and relations. Memory in 1.8 explains retention; this Topic explains the organization that makes retained knowledge cognitively usable.
 
 ## 5. Boundaries
 ### Owns
@@ -549,7 +549,7 @@ Imagery research should distinguish phenomenology, representational fidelity, an
 The boundary condition for Mental imagery is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
-This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Mental imagery contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
+Mental imagery concerns sensory-like or spatial representation without current external stimulation. It draws on perception-related systems from 1.4 and can use memory from 1.8, but this Topic owns imagery as a representational operation rather than visual perception itself.
 
 ## 5. Boundaries
 ### Owns
@@ -589,7 +589,7 @@ Symbolic reasoning requires mapping between formal structure and meaning. Manipu
 The boundary condition for Symbolic thought is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
-This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Symbolic thought contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
+Symbolic thought concerns manipulation of learned sign systems and therefore interfaces with language in 1.11 without being reducible to language. Mathematics, formal notation, diagrams, and other symbolic systems remain within its scope.
 
 ## 5. Boundaries
 ### Owns
@@ -629,7 +629,7 @@ Abstraction is demonstrated by preserving relevant relations across changes in s
 The boundary condition for Abstract thinking is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
-This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Abstract thinking contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
+Abstract thinking concerns the level of representation at which relations and principles are manipulated. It contrasts with concrete thinking in the next Topic and supports transfer, reasoning, and problem solving without becoming a synonym for intelligence in 1.11.
 
 ## 5. Boundaries
 ### Owns
@@ -669,7 +669,7 @@ Concrete information can reveal exceptions that abstract models hide. Effective 
 The boundary condition for Concrete thinking is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
-This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Concrete thinking contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
+Concrete thinking preserves particular-instance information and provides a complementary representational level to abstraction. The distinction belongs here because it concerns representation and thought level, not developmental diagnosis or intelligence.
 
 ## 5. Boundaries
 ### Owns
@@ -709,7 +709,7 @@ Rule competence includes knowing when a rule applies and when an exception overr
 The boundary condition for Rule learning is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
-This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Rule learning contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
+Rule learning connects Chapter 1.9 to learning in 1.7 but owns the cognitive representation and application of rules as structures used by thought. The acquisition process can involve learning mechanisms from 1.7; the rule's representational use is owned here.
 
 ## 5. Boundaries
 ### Owns
@@ -749,7 +749,7 @@ Representational adequacy is ultimately empirical: a proposed format should pred
 The boundary condition for Knowledge representation is therefore functional rather than absolute. Its expression changes with task structure, prior knowledge, context, available information, and the demands placed on other cognitive systems. Evidence should compare conditions rather than treating one performance level as the construct itself. This is particularly important for individual differences, because stable skill, temporary state, strategy, and environmental support can all contribute to observed performance. The strongest interpretation is the one that survives such alternative explanations.
 
 ## 4. Relationship to This Chapter
-This Topic establishes a representational layer of Chapter 1.9 and is distinguished from attentional selection, memory storage, and language-specific processing owned elsewhere. Knowledge representation contributes its own operation to this architecture; it should not absorb neighboring Topics merely because those processes participate in the same task.
+Knowledge representation is the organizing problem underlying the chapter's concepts, models, reasoning, and problem solving. It is broader than any one representation type and should not duplicate memory storage or language-specific representation owners.
 
 ## 5. Boundaries
 ### Owns
