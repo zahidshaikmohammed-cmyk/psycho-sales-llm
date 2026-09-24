@@ -9,7 +9,8 @@
 **Chapter 1.7:** **66/66 Topics deeply rebuilt, semantically re-audited, ownership/boundary-audited, canonically synchronized, and SEALED 🔒**  
 **Chapter 1.8:** **76/76 Topics — 40,412 words — Core avg 411 / min 356 / max 501 — V3 DEEP REBUILT, FULLY RE-AUDITED, SEMANTICALLY SEALED 🔒**  
 **Chapter 1.9:** **67/67 Topics — 41,764 words — Core avg 426 / min 367 / max 546 — V3 DEEP REBUILT, FULLY RE-AUDITED, SEMANTICALLY SEALED 🔒**  
-**Next target:** **Chapter 1.10 — Judgment, Decision-Making, and Choice**  
+**Chapter 1.10:** **65/65 Topics — 41,523 words — Core avg 439 / min 360 / max 562 — V3 DEEP REBUILT, FULLY RE-AUDITED, SEMANTICALLY SEALED 🔒**  
+**Next target:** **Chapter 1.11 — Language and Intelligence**  
 **Architecture:** **21 locked chapters / 1,364 chapter entries / 1,267 canonical construct-clinical owners**
 
 > **Simple on the surface. Deep underneath. Precise throughout.**
