@@ -1,68 +1,58 @@
-# CHAPTER 1.10 — JUDGMENT, DECISION-MAKING, AND CHOICE — FINAL V3 DEEP VALIDATION
+# CHAPTER 1.10 — JUDGMENT, DECISION-MAKING, AND CHOICE — FINAL V4 VALIDATION
 
-**Status:** V3 DEEP REBUILT — FULLY RE-AUDITED — LOCKED & SEMANTICALLY SEALED 🔒
+**Status:** V4 FROM-SCRATCH REWRITE — FULLY RE-AUDITED — LOCKED & SEMANTICALLY SEALED 🔒
 
 **Canonical chapter:** `knowledge/system-01/chapter-1.10/CHAPTER_1.10.md`
 
-## Why the Previous Seal Was Reopened
+## Rewrite Basis
 
-The previous V2 corpus was structurally valid but materially too shallow for the current encyclopedia depth standard:
+This version was written **from the locked canonical index**, not expanded from the previous Chapter 1.10 prose.
 
-- Previous corpus: **16,426 words**
-- Previous Core Understanding average: **79 words**
-- Previous Core Understanding range: **67–99 words**
+The canonical architecture was verified before writing:
 
-A structural pass therefore did not establish the intellectual depth required by the current canonical benchmark.
+- **65/65 Topics**
+- exact Topic names
+- exact Topic order
+- exact 1.10.1–1.10.65 numbering
+- no Topic added
+- no Topic removed
+- no Topic renamed
+- no Topic reordered
 
-## V3 Deep Rebuild
+The established System 1 chapter architecture was preserved:
 
-All **65/65 locked Topics** were rebuilt while preserving the exact architecture and ontology.
+1. Purpose
+2. Definition
+3. Core Understanding
+4. Relationship to This Chapter
+5. Boundaries
+6. Key Principles
 
-The rebuild deepens the distinction between:
+No new canonical section or writing standard was invented.
 
-- judgment, decision-making, choice, and preference;
-- preference construction and preference reversal;
-- certainty, risk, uncertainty, and ambiguity;
-- expected value, expected utility, and subjective probability;
-- satisficing and bounded rationality;
-- availability, representativeness, anchoring, adjustment, recognition, affect, and attribute substitution;
-- framing and reference dependence;
-- loss aversion, endowment, status quo, and default effects;
-- present bias, temporal discounting, and hyperbolic discounting;
-- probability weighting and probability estimation;
-- base-rate neglect, conjunction fallacy, gambler's fallacy, and hot-hand belief;
-- overconfidence and calibration;
-- confirmation bias and belief perseverance;
-- self-serving, hindsight, outcome, and omission biases;
-- planning fallacy and optimism bias;
-- escalation and sunk-cost effects;
-- choice overload and decision fatigue;
-- regret and anticipated regret;
-- ambiguity aversion and risk perception;
-- rational-choice and expected-utility models;
-- prospect theory and its component phenomena;
-- dual-process accounts without a literal two-box architecture;
-- naturalistic decision-making and adaptive intuition;
-- choice architecture, nudging, and debiasing;
-- decision error versus unfavorable outcome;
-- moral decision-making versus general moral cognition;
-- group decision-making versus broader group processes.
+## Why the Previous Version Was Rejected
+
+The previous Chapter 1.10 prose had been treated as a starting corpus and was structurally valid, but that did not satisfy the requested workflow. The user explicitly required the chapter to be written from the canonical index at the same deep standard used for the rebuilt chapters.
+
+That version therefore was **not accepted as the final intellectual source**.
+
+This V4 chapter replaces the prose from scratch.
 
 ## Final Quantitative Audit
 
-| Metric | V3 Result |
+| Metric | V4 Result |
 |---|---:|
-| Total chapter words | **41,523** |
+| Total chapter words | **46,604** |
 | Topics | **65/65** |
 | IDs | **1.10.1–1.10.65** |
-| Architecture name/order match | **65/65 exact** |
+| Architecture match | **65/65 exact** |
 | Six-section schema | **65/65** |
-| Required section slots | **390/390** |
+| Section slots | **390/390** |
 | Owns | **65/65** |
 | Defers | **65/65** |
 | Core minimum | **360 words** |
-| Core average | **439 words** |
-| Core maximum | **562 words** |
+| Core average | **400 words** |
+| Core maximum | **456 words** |
 | Core blocks below 350 | **0** |
 | Duplicate Core blocks | **0** |
 | Duplicate Relationship blocks | **0** |
@@ -70,89 +60,122 @@ The rebuild deepens the distinction between:
 | Duplicate Key-Principle blocks | **0** |
 | Duplicate Topic names | **0** |
 | Commercial/sales contamination | **0** |
-| Literal placeholder tokens | **0** |
-
-## Architecture Integrity
-
-- Exact canonical Topic names: **PASS**
-- Exact Topic order: **PASS**
-- No Topic added: **PASS**
-- No Topic removed: **PASS**
-- No Topic renamed: **PASS**
-- No Topic reordered: **PASS**
-- Model-layer entries preserved: **PASS**
-- Application/relationship node preserved: **PASS**
-
-## Semantic / Scientific Audit
-
-**PASS** — the chapter maintains descriptive/normative separation and does not treat named biases as universal defects.
-
-Specific safeguards:
-
-- confidence is not equated with accuracy;
-- risk is not equated with danger;
-- uncertainty is not equated with low probability;
-- ambiguity is not equated with generic confusion;
-- heuristic use is not equated with irrationality;
-- anchoring is not reduced to one settled mechanism;
-- loss aversion is not equated with risk aversion;
-- endowment effects are not assumed to have one mechanism;
-- default effects are not equated with coercion;
-- present bias is distinguished from ordinary discounting;
-- probability weighting is distinguished from probability estimation;
-- named fallacies are defined against explicit probability or decision criteria;
-- overconfidence is treated as a calibration problem, not a personality label;
-- hindsight and outcome bias are separated by their comparison criteria;
-- planning fallacy is not inferred from every failed plan;
-- escalation is not inferred from every continuation decision;
-- decision fatigue is not treated as an uncontested fixed-resource mechanism;
-- prospect theory is treated as a model, not as a list of universal biases;
-- dual-process accounts are not treated as a literal two-system brain architecture;
-- naturalistic intuition is treated as condition-dependent;
-- nudging is separated from coercion;
-- debiasing success requires improved decision quality, not merely altered confidence;
-- decision error requires an explicit normative/task criterion;
-- group processes remain linked to, but not re-owned from, Chapter 1.16.
-
-## Boundary Audit
-
-Chapter 1.10 explicitly preserves its major neighboring owners:
-
-- **1.4** — perception and perceptual salience;
-- **1.8** — memory systems and memory-specific phenomena;
-- **1.9** — representation, reasoning, metacognition, and cognitive control;
-- **1.11** — language and intelligence;
-- **1.12** — motivation and self-regulation;
-- **1.13** — emotion and emotion regulation;
-- **1.16** — social cognition and group processes;
-- **1.21** — action and behavior.
-
-The chapter owns the **judgment/decision/choice interface** without absorbing those upstream or downstream canonical domains.
+| Placeholder tokens | **0** |
 
 ## Deep-Content Audit
 
-Every Topic now addresses, at the appropriate level:
+Every Topic was written as an independent knowledge object rather than a one-paragraph glossary definition.
 
-- what the construct/process is;
-- what it is not;
-- relevant inputs and information conditions;
-- transformations or mechanisms where justified;
-- outputs and behavioral consequences;
+The Core Understanding treatment addresses, where applicable:
+
+- conceptual identity;
+- process architecture;
+- inputs and information conditions;
+- transformations and candidate mechanisms;
+- outputs;
+- feedback and temporal dynamics;
 - normative versus descriptive interpretation;
-- measurement and calibration where applicable;
+- measurement and comparison conditions;
 - individual and within-person variation;
-- context, stakes, expertise, and time dependence;
+- developmental, cultural, contextual, and expertise-related variation;
+- failure conditions;
+- alternative explanations;
 - nearest-neighbor distinctions;
-- evidence limitations and competing explanations.
+- limits of inference.
 
-The chapter does not use commercial or sales framing.
+The chapter does not equate a named effect with a universal human defect.
 
-## Seal State
+## Conceptual Distinction Audit
 
-**CHAPTER 1.10 — JUDGMENT, DECISION-MAKING, AND CHOICE: V3 DEEP REBUILT / FULLY RE-AUDITED / SEMANTICALLY SEALED 🔒**
+The rewrite explicitly preserves distinctions among:
 
-Canonical chapter commit: `4687a4551cd53db1968b677089465199384c9a1d`  
-Canonical chapter blob SHA: `149428113997122811470c8b6b3238025feab0f1`
+- judgment / decision-making / choice;
+- preference / preference construction / preference reversal;
+- certainty / risk / uncertainty / ambiguity;
+- expected value / expected utility;
+- subjective probability / confidence / calibration;
+- satisficing / bounded rationality;
+- availability / representativeness / recognition;
+- anchoring / adjustment;
+- affect heuristic / emotion generally;
+- attribute substitution / ordinary simplification;
+- framing / reference dependence;
+- loss aversion / risk aversion;
+- endowment / ownership / attachment;
+- status quo / default effects;
+- present bias / temporal discounting / hyperbolic discounting;
+- probability weighting / probability estimation;
+- base-rate neglect / representativeness;
+- conjunction fallacy / ordinary uncertainty;
+- gambler's fallacy / dependent stochastic processes;
+- hot-hand belief / genuine state dependence;
+- overconfidence / calibration;
+- confirmation bias / belief perseverance;
+- self-serving bias / deliberate excuse-making;
+- hindsight bias / genuine foresight;
+- outcome bias / decision quality;
+- omission bias / general inaction;
+- planning fallacy / ordinary project failure;
+- optimism bias / positive mood;
+- escalation / rational continuation;
+- sunk-cost effect / information carried by past investment;
+- choice overload / mere option quantity;
+- decision fatigue / general tiredness;
+- regret / disappointment;
+- anticipated regret / retrospective regret;
+- ambiguity aversion / risk aversion;
+- risk perception / objective risk;
+- rational choice models / descriptive psychological mechanisms;
+- expected utility theory / literal mental calculation;
+- prospect theory / its individual component effects;
+- dual-process accounts / literal two-system brain claims;
+- naturalistic decision-making / infallible intuition;
+- choice architecture / individual preference;
+- nudging / coercion;
+- debiasing / deliberation alone;
+- decision errors / unfavorable outcomes;
+- moral decision-making / general moral cognition;
+- group decision-making / broader group processes.
+
+## Scientific Integrity Audit
+
+**PASS**
+
+The rewrite avoids:
+
+- deterministic bias claims;
+- “bias = irrational person” framing;
+- confidence = accuracy claims;
+- heuristic = error claims;
+- correlation = causation claims;
+- model = literal cognitive mechanism claims;
+- dual-process anatomical simplifications;
+- universal claims from narrow tasks;
+- unsupported evolutionary explanations;
+- invented neuroscience;
+- clinical diagnosis from ordinary decision variation;
+- sales, persuasion, buyer, negotiation, or commercial framing.
+
+Normative standards are explicitly distinguished from descriptive psychological processes.
+
+## Cross-Chapter Ownership Audit
+
+- **1.8 Memory:** canonical owner of memory systems and memory-specific phenomena.
+- **1.9 Thinking:** canonical owner of general representation, reasoning, metacognition, and cognitive control.
+- **1.11 Language and Intelligence:** canonical owner of language and intelligence.
+- **1.12 Motivation and Self-Regulation:** canonical owner of motivation, goals, self-control, and regulation.
+- **1.13 Emotion:** canonical owner of emotion and emotion regulation.
+- **1.16 Social Cognition and Group Processes:** canonical owner of broader social cognition and group processes.
+- **1.21 Action and Behavior:** canonical owner of broader action and behavior.
+
+Chapter 1.10 owns the **judgment / valuation / decision / choice interface** defined by its canonical index.
+
+## Final Seal
+
+**CHAPTER 1.10 — JUDGMENT, DECISION-MAKING, AND CHOICE: V4 FROM-SCRATCH REBUILT / FULLY RE-AUDITED / SEMANTICALLY SEALED 🔒**
+
+Canonical chapter commit: `eeb10f522cbefb0fc60d168077ea1b0193200c63`  
+Canonical chapter blob SHA: `0ca3ef2ba8faa17c97743dd307f6750f97ccfca8`
 
 **CI-backed seal:** not claimed unless a corresponding GitHub Actions run is observed for the final canonical commit.
 
