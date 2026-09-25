@@ -1156,6 +1156,21 @@ Opportunities for movement, health, injury, practice, environmental affordances,
 ### Evidence Status
 Motor milestones describe population patterns, not rigid deadlines for every individual.
 
+### Organization of motor change
+Motor development concerns changes in movement abilities and the coordination underlying them. It includes gross motor actions involving large muscle groups, fine motor control, posture, balance, locomotion, object manipulation, and increasingly precise coordination. Development is not simply an accumulation of isolated movements; it involves increasingly efficient coordination among perception, action, body dimensions, strength, balance, and environmental demands.
+
+### Early movement
+Infants begin with limited voluntary control and progressively gain control over posture, reaching, grasping, sitting, crawling, standing, and walking. The sequence is influenced by biological maturation, opportunities for movement, body proportions, practice, and cultural practices. Typical sequences are useful for identifying broad developmental patterns, but individual timing varies considerably.
+
+### Perception–action coupling
+Movement develops in relation to perception. Reaching requires information about object location and distance; walking requires coordination between visual information, balance, and leg movement; skilled action depends on detecting relevant feedback and adjusting movement. Motor development therefore illustrates the broader developmental principle that capacities emerge through interacting systems rather than isolated maturation.
+
+### Practice and context
+Experience can refine motor skill. Opportunities to manipulate objects, explore environments, participate in sports, use tools, or practice culturally valued skills can produce different patterns of competence. Practice is not the only influence: physical growth, nervous-system development, health, and environmental affordances constrain what practice can accomplish.
+
+### Later-life motor change
+Motor development continues across adulthood. Strength, balance, reaction speed, sensory function, and coordination can change with aging, illness, activity, and training. Older adults can maintain or improve particular abilities through physical activity and practice, while some age-related constraints remain. Development therefore includes both acquisition and adaptation across the lifespan.
+
 ## 4. Relationship to This Chapter
 Motor development is a distinct developmental domain that interacts with perception, cognition, learning, and physical development.
 
@@ -1190,6 +1205,24 @@ Perceptual development differs across sensory systems and depends on typical sen
 
 ### Evidence Status
 Age-related differences in perception can reflect sensory maturation, accumulated knowledge, changes in attention, or sensory decline; these explanations must be distinguished empirically.
+
+### Perception as developing organization
+Perceptual development concerns changes in how sensory information is detected, organized, integrated, and interpreted. It is not simply an increase in sensory acuity. Perception develops through interaction among sensory systems, neural organization, learning, action, and environmental regularities.
+
+### Early capacities and experience
+Newborns possess substantial perceptual abilities, but many perceptual functions become more specialized with experience. Exposure to recurring visual, auditory, tactile, and social patterns can tune attention toward information that is useful in the environment. Development therefore involves both biological preparedness and experience-dependent specialization.
+
+### Perceptual narrowing
+Some perceptual systems become more efficient at distinguishing frequently experienced categories while becoming less sensitive to rarely encountered distinctions. This is sometimes called perceptual narrowing. It demonstrates that development can involve both increased expertise and reduced sensitivity to information that is less relevant to the person's environment.
+
+### Multisensory integration
+Development includes increasingly coordinated use of information from multiple senses. Seeing an object, hearing its sound, and feeling its texture can contribute to a unified representation. The timing and reliability of sensory signals matter, and multisensory development interacts with motor exploration because action provides opportunities to learn how different sensory inputs correspond.
+
+### Context and interpretation
+Perception is influenced by expectations, prior experience, attention, and context. Developmental differences in these processes can alter how ambiguous or complex stimuli are interpreted. A developmental account should therefore distinguish sensory detection from higher-level perceptual organization and interpretation.
+
+### Evidence and limits
+Perceptual development is domain-specific. Findings from one sensory system cannot automatically be generalized to another. Measures may also reflect attention, memory, language, or task demands. Strong developmental claims specify which perceptual operation changed and which supporting processes may have contributed.
 
 ## 4. Relationship to This Chapter
 It is the developmental counterpart of the general sensation and perception domain.
@@ -1229,6 +1262,24 @@ Performance depends on task demands, familiarity, motivation, education, health,
 ### Evidence Status
 Cognitive development should be separated from any single stage theory. Different cognitive processes can have different developmental courses.
 
+### Scope of cognitive development
+Cognitive development concerns changes in mental processes and representations involved in learning, reasoning, remembering, problem solving, attention, planning, and understanding. It includes both increases in capacity and changes in strategy or organization. The general construct belongs here as a developmental domain; the detailed architecture of memory, attention, intelligence, and reasoning remains owned by their respective canonical topics.
+
+### Capacity and strategy
+A developmental improvement can arise because a person becomes capable of processing information that was previously beyond reach, because an existing capacity becomes more efficient, or because the person learns a better strategy. These mechanisms can produce similar performance outcomes while implying different developmental processes.
+
+### Knowledge accumulation
+Cognitive performance often improves because knowledge accumulates. Greater vocabulary, domain knowledge, procedural familiarity, and experience can make later tasks easier even when basic processing speed has not increased. Developmental comparisons must therefore distinguish changes in general capacity from changes in acquired knowledge.
+
+### Executive coordination
+As development proceeds, children generally become better able to coordinate goals, rules, attention, inhibition, working information, and flexible switching. These abilities develop over time and are influenced by biological maturation and experience. They are not a single unitary faculty, so developmental differences in one executive process should not automatically be generalized to all executive functioning.
+
+### Contextual dependence
+Cognitive performance depends on task demands, motivation, language, cultural familiarity, education, health, sleep, and emotional state. A lower score in one setting does not establish a global cognitive limitation. Developmental science therefore examines how capacities are expressed under different conditions.
+
+### Developmental interpretation
+Cognitive development should not be described as a simple movement from irrational childhood to rational adulthood. Children can show sophisticated reasoning in familiar domains, and adults can make systematic errors. Development involves changing representations, strategies, knowledge, metacognitive understanding, and coordination with social and cultural environments.
+
 ## 4. Relationship to This Chapter
 It is the central developmental domain corresponding to the general cognition Topics in Chapters 1.6–1.11.
 
@@ -1266,6 +1317,27 @@ Language development varies with input, bilingual or multilingual experience, ed
 
 ### Evidence Status
 Language development should not be reduced to either innate capacity or environmental teaching. Evidence supports contributions from both biological preparedness and experience.
+
+### Language as a developmental system
+Language development includes changes in speech perception and production, vocabulary, grammar, phonology, pragmatics, narrative ability, and the use of language for social coordination and thought. These components are related but can develop at different rates. A child can show advanced vocabulary while still developing complex grammar or pragmatic skill.
+
+### Early language learning
+Infants become increasingly sensitive to the sound patterns and statistical regularities of the language environments they hear. Caregiver speech, interaction, joint attention, imitation, and opportunities for communication provide information that supports learning. Biological preparedness for language does not remove the importance of social and linguistic input.
+
+### Vocabulary and meaning
+Vocabulary grows through repeated exposure, inference from context, social interaction, and learning how words map onto objects, actions, relations, and abstract concepts. Vocabulary development is influenced by the amount and diversity of language exposure as well as by the child's developing ability to infer meaning from context.
+
+### Grammar and productive structure
+Children learn regularities that allow them to produce novel sentences rather than merely memorizing fixed phrases. Errors can therefore be evidence of rule learning, although a particular error does not reveal the full mechanism. Grammar development involves interactions among linguistic input, memory, statistical learning, conceptual development, and social communication.
+
+### Pragmatics and social use
+Language development includes learning when to speak, how much information another person needs, how to adjust communication to context, how to interpret indirect meanings, and how to maintain conversational coordination. These abilities develop alongside broader social cognition and theory of mind.
+
+### Developmental variability
+Language trajectories vary with hearing, neurological development, social interaction, educational opportunity, multilingual experience, and individual differences. Bilingual or multilingual development should not be treated as a simple deficit relative to monolingual norms; different language environments produce different patterns of exposure and use. Assessment should consider the person's full linguistic environment.
+
+### Boundaries
+Language development owns developmental change in language-related abilities. Detailed language mechanisms, language–thought relationships, and language–memory relationships belong to their canonical locations elsewhere in the encyclopedia and should be cross-referenced rather than duplicated.
 
 ## 4. Relationship to This Chapter
 Language development is a major developmental domain and connects cognitive, social, and cultural development.
@@ -1305,6 +1377,24 @@ Temperament, caregiving, culture, stress, relationships, cognitive capacity, and
 ### Evidence Status
 Developmental trends should not be treated as universal fixed sequences. Cultural and individual variation is substantial.
 
+### Scope
+Emotional development concerns changes in the experience, expression, recognition, understanding, and social organization of emotion across development. It includes changes in emotional differentiation and the ways emotional responses become coordinated with goals, relationships, and context. The general construct of emotion remains owned by Chapter 1.13; this Topic concerns its developmental trajectory.
+
+### Differentiation and understanding
+Early emotional life contains broad affective states that become increasingly differentiated and interpretable with development. Children learn to identify emotional cues, connect emotions with situations, understand mixed feelings, and recognize that emotions can change. Language and social interaction provide important tools for making emotional states more explicit.
+
+### Socialization
+Caregivers and other social partners influence emotional development through modeling, responses to emotional expression, discussion of feelings, expectations, and opportunities to practice regulation. Socialization does not create emotion from nothing; it shapes how emotions are understood, expressed, managed, and interpreted within a social environment.
+
+### Context sensitivity
+Emotional expression is sensitive to relationships, cultural norms, social roles, and situational demands. A behavior that is appropriate in one setting may be inappropriate in another. Development therefore includes increasing ability to coordinate internal emotional states with external expectations without implying that healthy development requires suppressing emotion.
+
+### Development across adulthood
+Emotional development does not stop in adolescence. Adults can become more skilled at interpreting complex social emotions, balancing immediate reactions with long-term goals, and selecting environments that support desired emotional states. Aging can involve changes in emotional priorities and social selection, but individual trajectories remain heterogeneous.
+
+### Evidence boundaries
+Age differences in reported emotion can reflect cohort, reporting style, health, context, and cultural norms as well as development. Researchers should distinguish changes in emotional experience from changes in expression or reporting. Emotional development should therefore be interpreted using multiple methods where possible.
+
 ## 4. Relationship to This Chapter
 Emotional development is the developmental domain corresponding to the general emotion system.
 
@@ -1343,6 +1433,27 @@ Culture, family structure, social opportunity, socioeconomic conditions, health,
 ### Evidence Status
 There is no single universal social trajectory. Developmental patterns must be interpreted in context.
 
+### Scope
+Social development concerns changes in how people understand, participate in, and regulate relationships and social environments across the lifespan. It includes social attention, interaction skills, relationship formation, cooperation, conflict management, social roles, and increasingly complex understanding of other people. General social behavior remains owned by Chapter 1.16.
+
+### Early social engagement
+Infants are responsive to faces, voices, movement, and contingent interaction. Repeated social exchanges help establish expectations about responsiveness and coordination. Early social development is therefore relational from the beginning rather than a later addition to individual cognitive development.
+
+### Increasing social complexity
+Children gradually become better able to coordinate multiple perspectives, follow social rules, negotiate conflict, cooperate, and understand group expectations. Social competence depends on context: a behavior that works in one peer group may not work in another. Development involves learning flexible strategies rather than memorizing one universal set of social behaviors.
+
+### Relationships and roles
+As people move through school, adolescence, work, partnership, parenting, and later life, the structure of social relationships changes. New roles create different expectations and opportunities. Development can therefore involve changes in both the number of relationships and the meaning, selectivity, and function of those relationships.
+
+### Social learning and agency
+People learn from observing others, receiving feedback, participating in groups, and reflecting on social outcomes. They also actively select relationships and environments. Social development is therefore reciprocal: social contexts shape behavior, while individuals shape their social contexts through choices and actions.
+
+### Cultural variation
+Social expectations differ across cultures, families, institutions, and historical periods. Developmental research must distinguish universal social capacities from culturally specific forms of expression. A difference from one cultural norm is not automatically evidence of developmental deficiency.
+
+### Later adulthood
+Social development in later life often includes changes in role, network size, caregiving, friendship, and intergenerational relationships. Some changes reflect loss or reduced opportunity; others reflect intentional selection of emotionally meaningful relationships. Developmental interpretation should consider both constraint and agency.
+
 ## 4. Relationship to This Chapter
 Social development connects individual development with relationships and social environments.
 
@@ -1377,6 +1488,24 @@ Personality development varies across traits, people, cultures, and developmenta
 
 ### Evidence Status
 Longitudinal research supports meaningful continuity alongside developmental change. Neither “personality is fixed” nor “personality changes completely” accurately captures the evidence.
+
+### Developmental personality change
+Personality development concerns continuity and change in relatively enduring patterns of thought, feeling, motivation, and behavior across the lifespan. The general structure and measurement of personality belong to Chapter 1.14; this Topic owns the developmental processes that alter personality characteristics over time.
+
+### Rank-order stability and mean-level change
+Personality can be both stable and changeable. People often retain relative differences from others, while average levels of traits can shift across life stages. These findings are not contradictory because rank-order stability and mean-level change measure different properties. A population can become more similar in average conscientiousness while individuals still retain substantial differences.
+
+### Biological and environmental contributions
+Personality development reflects interactions among temperament, maturation, life experiences, social roles, relationships, culture, and individual choices. Biological dispositions can influence behavior and social responses, while repeated experiences can reinforce or modify characteristic patterns. Environmental effects are not necessarily temporary; repeated role demands can contribute to enduring change.
+
+### Social investment and role transitions
+Entry into work, partnership, parenting, education, and other adult roles can change behavioral demands. Repeatedly meeting those demands may be associated with changes in traits such as conscientiousness or emotional stability. Role transitions do not affect everyone in the same way, and causal interpretation requires evidence that separates selection into roles from effects of roles themselves.
+
+### Plasticity and limits
+Personality remains capable of change, but change is not unlimited or equally easy at every point in life. Long-standing patterns can become reinforced through habits, relationships, expectations, and environments. At the same time, major experiences, interventions, and deliberate effort can alter trajectories for some individuals.
+
+### Developmental interpretation
+Personality development should not be framed as inevitable maturation toward a single ideal personality. Development reflects adaptation to changing demands, biological processes, social contexts, and personal goals. Trait change is a descriptive finding; its value or desirability depends on context and purpose.
 
 ## 4. Relationship to This Chapter
 Personality development is explicitly owned here as a developmental phenomenon, while general personality constructs remain canonically owned by Chapter 1.14.
@@ -1415,6 +1544,24 @@ Culture, socialization, institutional context, moral domain, and situational pre
 
 ### Evidence Status
 Moral reasoning and moral behavior are related but not identical. A person can understand a moral principle without consistently acting on it.
+
+### What develops
+Moral development concerns changes in moral reasoning, judgment, emotion, motivation, identity, and behavior. These components are related but not identical. A person can understand a moral principle without acting on it, and moral behavior can sometimes occur without explicit verbal reasoning.
+
+### From rules to principles
+Children learn social rules through relationships, authority, observation, and participation. With development, they can become increasingly capable of considering intentions, fairness, competing obligations, social conventions, and abstract principles. The trajectory is not necessarily a single sequence through which everyone passes in the same order.
+
+### Moral emotion and motivation
+Guilt, empathy, concern for others, anger at unfairness, and other emotional processes can influence moral development. Emotional responses interact with reasoning and social learning. A complete developmental account therefore avoids reducing morality to intellectual reasoning alone.
+
+### Socialization and culture
+Parents, peers, schools, institutions, and cultural traditions provide models and norms. Cultural contexts differ in which obligations receive emphasis and how moral concepts are expressed. Developmental comparisons should distinguish broad moral concerns from culturally specific rules and practices.
+
+### Moral identity and behavior
+As people develop, moral values can become integrated into self-understanding. When moral commitments are central to identity, they may influence behavior more consistently, but identity alone does not guarantee moral action. Situational pressures, competing goals, group norms, incentives, and opportunity still matter.
+
+### Evidence and disagreement
+Different theories emphasize reasoning stages, social domain distinctions, intuition and emotion, learning, identity, or cultural processes. These perspectives may illuminate different components of moral development. Evidence should therefore be presented as support for particular mechanisms rather than as proof that one theory explains all moral development.
 
 ## 4. Relationship to This Chapter
 Moral development is a lifespan developmental domain with connections to cognition, emotion, identity, and socialization.
