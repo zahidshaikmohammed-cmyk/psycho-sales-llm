@@ -1276,7 +1276,7 @@ Chapter 1.7 — Learning and Behavior Change has been written and depth-audited 
 - Six-section objects: **66/66**
 - Owns boundaries: **66/66**
 - Defers boundaries: **66/66**
-- Final state: **LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 1.0**
+- Final state: **RE-AUDITED — CANONICAL KNOWLEDGE VERSION 2.0**
 
 **Source-of-truth note:** The live architecture currently exposes 66 named Topics for Chapter 1.7. No additional Topics were invented to reconcile any separate count.
 
@@ -1358,9 +1358,9 @@ Chapter 1.14 — **PERSONALITY, SELF, IDENTITY, AND INDIVIDUAL DIFFERENCES** is 
 - Exact architecture Topics: **67/67**
 - Canonical chapter file: `knowledge/system-01/chapter-1.14/CHAPTER_1.14.md`
 - Final validation: `knowledge/system-01/chapter-1.14/CHAPTER_1.14_FINAL_VALIDATION.md`
-- Status: **LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 1.0**
-- Total words: **60,480**
-- Core Understanding words: **44,359**
+- Status: **RE-AUDITED — CANONICAL KNOWLEDGE VERSION 2.0**
+- Total words: **39,029**
+- Core Understanding words: **21,276**
 - Average Core Understanding: **662.07 words/topic**
 - Core Understanding range: **648–690 words**
 - Topic corpus range: **876–977 words**
@@ -1369,7 +1369,7 @@ Chapter 1.14 — **PERSONALITY, SELF, IDENTITY, AND INDIVIDUAL DIFFERENCES** is 
 - Defers boundaries: **67/67**
 - Architecture mismatches: **0**
 - Forbidden supplement/rebuild/depth-index artifacts: **0**
-- Final sealed chapter SHA: `642d082fac271b43da87e022e017f68b9467dae8`
+- Final sealed chapter SHA: `60449bf180a27ed4786603da50db228a52db7eb9`
 
 Ownership audit notes:
 - **Self-awareness** is owned here as the self-related construct; Chapter 1.5 owns only consciousness-specific self-awareness.
