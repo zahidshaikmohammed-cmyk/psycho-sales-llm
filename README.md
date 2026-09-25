@@ -276,3 +276,39 @@ Chapter 1.7 — Learning and Behavior Change has been written and depth-audited 
 **Source-of-truth note:** The live architecture currently exposes 66 named Topics for Chapter 1.7. No additional Topics were invented to reconcile any separate count.
 
 **Historical milestone; superseded by the current completion state recorded above.**
+
+
+## Chapter 1.13 — Final Canonical State
+
+**Canonical title:** Emotion and Affect
+
+**Canonical Topic count:** 62
+
+**Status:** LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 1.1
+
+Canonical file: `knowledge/system-01/chapter-1.13/CHAPTER_1.13.md`
+
+Validation file: `knowledge/system-01/chapter-1.13/CHAPTER_1.13_FINAL_VALIDATION.md`
+
+Final audit metrics:
+
+- **62/62** exact architecture Topics
+- **61,156** total words
+- **62/62** six-section Knowledge Objects
+- **62/62** Owns boundaries
+- **62/62** Defers boundaries
+- **0** Topics below 300 words
+- **0** Topics below 400 words
+- **840** minimum Topic corpus
+- **5,133** maximum Topic corpus
+- **49,486** Core Understanding / retrieval corpus words
+- **726** minimum Core Understanding corpus
+- **944** maximum Core Understanding corpus
+- **0** architecture mismatches
+- **0** supplement/rebuild/depth-index artifacts
+
+The chapter was re-audited against the live surgical architecture before sealing. Its 62 Topics were preserved exactly. Cross-domain relationship Topics remain non-owning relationship nodes, and the chapter explicitly defers partner mechanisms to their canonical chapters.
+
+**Current completed System 1 state:** Chapters 1.1–1.13, with **870 canonical chapter Topics** completed through Chapter 1.13.
+
+**Next target:** Chapter 1.14 — only after a fresh live architecture and ownership audit.
