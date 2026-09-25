@@ -2743,3 +2743,1555 @@ The history of ego depletion illustrates an important evidence principle for thi
 Resource metaphors may still be useful as informal descriptions of subjective fatigue or limited capacity, but they should not be mistaken for established mechanisms. Cognitive and physical systems obviously have constraints, yet those constraints do not establish one universal psychological reservoir called self-control strength.
 
 The broader lesson is that self-regulation should be understood as dynamic coordination among goals, motivation, control, context, and capacity. When regulation deteriorates after a demanding period, several mechanisms may be possible. The scientific task is to distinguish them rather than assuming depletion by default.
+
+## Integrated Deepening
+
+### Topics 1–25
+### Status
+Chapter-level canonical deepening supplement. This file does not create new topic owners. Each block deepens the corresponding canonical Topic in CHAPTER_1.12.md by adding distinctions, mechanisms, evidence boundaries, and retrieval-level detail.
+
+---
+
+### Topic 1 — Motivation
+Motivation is best analyzed as a coordinated system rather than a single variable. At minimum, analysis should separate direction, activation, intensity, persistence, and regulation. Direction answers what outcome the person is moving toward or away from. Activation concerns which motivational representation is currently accessible. Intensity concerns the strength of the current action tendency. Persistence concerns continuation across time. Regulation concerns how competing motivational tendencies are managed. A single behavioral observation cannot measure all five.
+
+Motivation also has both state-like and relatively enduring components. A motive can make certain outcomes repeatedly important, while current deprivation, incentives, social cues, and goals determine what is motivationally dominant now. This explains why “motivation level” is often an inadequate explanation. A person can be strongly motivated overall but not motivated by a particular task.
+
+A second important distinction is between motivational potential and behavioral expression. Behavior requires opportunity, ability, resources, and a feasible route. High motivation can therefore coexist with low observable action. Conversely, behavior can be produced by obligation or habit with little subjective enthusiasm.
+
+Motivation also changes the information environment. It can increase attention to goal-relevant cues, alter valuation, and change which memories or possibilities are retrieved. These effects connect motivation to cognition without making cognition itself a motivational construct.
+
+Finally, motivation is not a moral property. Calling someone “unmotivated” describes a behavioral observation but does not identify its cause. Scientific explanation must distinguish low value, low expectancy, conflict, fatigue, environmental restriction, skill limitations, and regulatory failure.
+
+### Topic 2 — Motive
+A motive is most useful when treated as a relatively enduring motivational tendency rather than an invisible force inferred from any single action. Motives can influence what kinds of outcomes repeatedly acquire importance, but they do not dictate behavior because current context, goals, opportunities, and competing motives intervene.
+
+The distinction between motive and motive state is important. A person can have a stable concern with achievement while temporarily prioritizing affiliation or rest. Likewise, a momentary desire can be strong without revealing a stable motive. Longitudinal patterns and repeated preferences provide stronger evidence for enduring motivational tendencies than isolated choices.
+
+Motive measurement is methodologically difficult. Self-report can capture consciously accessible motives, while behavioral or indirect measures may capture different aspects. These measures should not be assumed interchangeable. A person may also lack accurate introspective access to all causes of behavior.
+
+Motives can be learned, biologically constrained, socially shaped, or combinations of these. Developmental experience can change which outcomes are associated with success, rejection, competence, or status. Culture can shape how a motive is expressed without requiring that the underlying motivational function be culturally identical.
+
+Motives also interact with goals. A motive can make a class of goals attractive, while a goal specifies a concrete target. The same motive can therefore produce different goals across situations. Conversely, one goal can serve several motives simultaneously.
+
+A strong explanatory account should specify the recurring pattern, the conditions under which it appears, and the evidence that distinguishes it from alternative explanations. “Motive” should never become a post-hoc label for behavior that has no independent support.
+
+### Topic 3 — Need
+Need is a theory-dependent construct, and precision about its meaning is essential. Biological needs concern conditions required for physiological regulation. Psychological-need theories define conditions proposed to support functioning, development, or well-being. Learned motives can also historically be described as needs. These uses should not be merged.
+
+A need differs from a preference because need theories make stronger claims about consequences of satisfaction or deprivation. If a construct is called a need, the theory should specify what happens when it is frustrated, what counts as satisfaction, and whether multiple behaviors can substitute for one another.
+
+Needs can influence motivation through discrepancy. A regulated system detects a current condition that differs from a desired or required condition and generates processes that favor corrective action. Psychological needs can work differently, using social and cognitive mechanisms rather than direct physiological correction.
+
+Multiple needs can converge on one behavior. Social interaction may support relatedness, competence, identity, and emotion regulation at once. Conversely, one need can be served through many behaviors. This flexibility prevents a need from being equated with one object.
+
+Need concepts also require boundary conditions. A need can become more salient under deprivation, but salience does not imply unlimited priority. Other goals, incentives, and contextual constraints can compete with it.
+
+The scientific value of a need construct therefore depends on whether it generates testable predictions beyond “the person wanted it.” Without independent criteria for satisfaction, frustration, and mechanism, the concept becomes circular.
+
+### Topic 4 — Drive
+Drive traditionally describes motivational pressure arising from an internal regulatory disturbance. The concept is strongest when linked to a measurable biological variable or regulatory process. It becomes weaker when used as a generic synonym for wanting.
+
+Drives can energize behavior without determining its exact form. Hunger can motivate food seeking, but learning determines which food is selected and context determines whether eating is possible. A drive therefore supplies pressure while incentives, goals, and environmental affordances shape the route.
+
+Modern regulation is often anticipatory rather than purely corrective. Organisms respond to predictive cues and prepare for expected changes before a deficit becomes severe. This means drive reduction is only one component of motivational control.
+
+Drive intensity also does not map perfectly onto subjective experience. Physiological signals, neural regulation, and conscious feelings can diverge. Measurement should therefore specify whether the target is bodily state, subjective experience, or behavior.
+
+Drive theory remains historically important because it established a bridge between biological regulation and learned behavior. Its limitation is that many human motives are not reducible to deficit correction. Exploration, achievement, social connection, and information seeking can occur without obvious deprivation.
+
+The modern role of the construct is therefore selective: drives help explain motivated behavior linked to internal regulation, while incentive learning, goals, reward, and self-regulation explain additional layers.
+
+### Topic 5 — Incentive
+An incentive is motivationally relevant because of the value attributed to an outcome or cue, not because the object possesses a fixed psychological force. Incentive value varies with current state, learning history, alternatives, expectations, and personal meaning.
+
+A useful distinction is between outcome value and cue value. A cue can become motivationally significant because it predicts an outcome, even when the outcome itself later changes. This is one reason learned motivational responses can persist after the original circumstances change.
+
+Incentives can influence choice and effort, but larger incentives do not guarantee proportionally larger behavior. Probability, delay, effort cost, competing goals, and perceived attainability all matter.
+
+Incentives also interact with intrinsic and autonomous motivation. External consequences can support engagement, alter perceived control, or sometimes shift the meaning of an activity. The effect depends on how the contingency is experienced.
+
+Incentive explanations should identify the specific outcome, cue, current state, and behavioral consequence. Otherwise “the incentive motivated the person” risks becoming circular.
+
+### Topic 6 — Instinctive motivation
+Instinctive explanations are useful only when they identify a supported inherited predisposition or regulatory system. Historically, instinct labels were often used as explanations after the fact: a behavior occurred, so an “instinct” was assumed to cause it. Such circular reasoning is scientifically weak.
+
+Modern psychology recognizes biological preparedness without treating complex behavior as fixed. Evolution can bias attention, learning, preferences, and physiological regulation while development determines how these predispositions are expressed.
+
+Innate predisposition is therefore not equivalent to inevitability. Environment, learning, culture, and developmental timing can substantially alter expression. The scientifically useful question is which components are biologically prepared and how they interact with experience.
+
+Evolutionary function should also be separated from immediate mechanism. A behavior can have an evolved function while being produced proximally by learning, emotion, goals, or social expectations.
+
+The concept should be used narrowly and with evidence. “Instinctive” should not become a general explanation for spontaneous-looking human behavior.
+
+### Topic 7 — Drive-reduction theory
+Drive-reduction theory provides a historical model in which physiological deficits create drives, drives motivate behavior, and successful reduction can strengthen behavior. Its major contribution was to connect biological regulation with learning.
+
+Its strongest domain is behavior closely related to physiological regulation. Its limitation is the assumption that reduction of internal tension is the general basis of motivation. Exploration, play, achievement, curiosity, and reward seeking can occur without an obvious deficit.
+
+Drive reduction also does not fully explain incentive effects. A cue can motivate behavior because it predicts a desirable outcome, even when the relevant physiological state is not strongly deprived.
+
+Modern evidence therefore supports parts of the regulatory logic while rejecting the theory as a complete account of human motivation. It remains valuable as a historical model and as one component of a broader motivational architecture.
+
+### Topic 8 — Arousal theory
+Arousal theory emphasizes regulation of activation or stimulation. The construct must be operationalized carefully because physiological activation, subjective alertness, neural activation, and emotional intensity are not identical.
+
+The familiar inverted-U relation between activation and performance is best treated as a context-sensitive pattern rather than a universal law. Optimal activation depends on task complexity, skill, emotional state, and individual differences.
+
+Arousal can motivate novelty or stimulation seeking, but novelty is not universally rewarding. Uncertainty, threat, and familiarity can alter whether stimulation is approached or avoided.
+
+Arousal also interacts with appraisal. Similar physiological activation can accompany different emotional and motivational states depending on interpretation.
+
+The durable contribution of arousal theory is therefore its emphasis on activation as a regulatory variable. Its limitation is the assumption of one universal preferred arousal level.
+
+### Topic 9 — Incentive theory
+Incentive theory emphasizes anticipated outcomes rather than internal deficit reduction. It explains why behavior can be energized by expected reward before reward is received.
+
+The theory is especially useful for cue learning. A neutral cue can acquire motivational significance through repeated association with an outcome. Prediction and revaluation then become central to explaining changes in behavior.
+
+Incentive value is subjective and state-dependent. The same outcome can differ in value across people or across time. Probability, delay, effort, and competing goals also influence the behavioral effect.
+
+Incentive theory should not be used to explain all motivation because intrinsic interest, identity, obligations, and internally generated goals can motivate action without a conventional external incentive.
+
+Its strongest role is therefore within a broader system linking learning, valuation, reward prediction, and action selection.
+
+### Topic 10 — Need-based theories
+Need-based theories differ substantially in their definitions of need, hierarchy, universality, and mechanism. They should therefore be evaluated individually rather than treated as one unified theory.
+
+A need-based explanation becomes useful when it predicts effects of satisfaction, frustration, deprivation, or support. If it simply renames a preference, it adds little explanatory value.
+
+Need-based models also differ in their treatment of biological versus psychological conditions. Physiological needs have direct regulatory mechanisms, while psychological need theories often propose social and cognitive pathways.
+
+Needs can conflict and can be satisfied through multiple routes. This means behavior cannot be predicted from a simple fixed hierarchy without considering context, goals, and available means.
+
+The most defensible synthesis is pluralistic: human motivation contains several systems operating at biological, psychological, and social levels. The scientific task is to specify each system rather than collapsing them into one universal list.
+
+### Topic 11 — Goal
+A goal is a represented desired, required, or avoided state that organizes action. Its psychological importance comes from the fact that it provides a reference for selecting behavior and evaluating progress.
+
+Goals differ in abstraction. Higher-order goals organize lower-level goals and strategies, allowing flexible means-end substitution. This hierarchy also creates potential conflict when lower-level actions serve incompatible purposes.
+
+Goal endorsement does not guarantee pursuit. Activation, commitment, expectancy, value, opportunity, and competing goals determine whether the representation becomes behaviorally influential.
+
+Approach and avoidance goals also differ in representation. An approach goal specifies a desired state, while an avoidance goal specifies a state to prevent or escape. Both can be adaptive depending on context.
+
+Goals can be consciously chosen or adopted through social learning, role expectations, institutions, habits, and repeated experience. Their origin therefore does not determine their psychological quality.
+
+The key boundary is that a goal is not the same as a need, motive, or strategy. A goal is the represented target; motives and needs help explain why it matters; strategies specify how it might be reached.
+
+### Topic 12 — Goal representation
+Goal representation contains the information needed to make a goal behaviorally usable. It can include the desired end state, standards, timing, means, constraints, and relation to higher-order purposes.
+
+Representation can be abstract or concrete. Abstract representations preserve flexibility and broad meaning; concrete representations specify immediate actions and observable conditions. Effective regulation often requires shifting between levels.
+
+Goal representations can also include assumptions about feasibility. An inaccurate representation can make an attainable goal seem impossible or make an impossible goal seem easy.
+
+Temporal distance matters because future goals require mentally representing a state that is not currently present. Context can alter which features of that representation are accessible.
+
+Socially derived goals may be internalized, resisted, or treated as obligations. The same behavioral target can therefore have different motivational meanings.
+
+Goal representation should be distinguished from activation. A goal can be represented in long-term memory without currently controlling attention. Activation determines its current accessibility and influence.
+
+### Topic 13 — Goal selection
+Goal selection is prioritization among possible desired or avoided states. It is necessary because attention, time, effort, and opportunity are limited.
+
+Selection can be deliberate or cue-driven. Recent experience, environmental signals, social expectations, habits, and emotional states can influence which goal becomes dominant.
+
+Value and expectancy are important but not sufficient. A highly valued goal may be rejected because it appears unattainable or too costly. A modest goal may win because it is urgent, easy, or socially required.
+
+Goal selection also occurs hierarchically. People select higher-order purposes and then subordinate means. When one route fails, another can sometimes be selected without changing the broader objective.
+
+Selection is not commitment. A person can choose a goal temporarily and later revise it as information changes. Adaptive goal systems therefore require both prioritization and revision.
+
+### Topic 14 — Goal activation
+Goal activation is the process by which a goal becomes accessible enough to influence attention, interpretation, memory, and action. A person can possess many goals without all of them being active simultaneously.
+
+Activation can arise from deliberate intention, environmental cues, social roles, recent experience, or repeated associations. It can occur without conscious awareness.
+
+Active goals can bias attention toward relevant information and away from competing information. This can improve focus but can also create tunnel vision.
+
+Activation differs from commitment. A cue can activate a goal that the person does not strongly endorse, while a highly committed goal can be temporarily inactive while another task receives attention.
+
+Repeated cue-goal associations can make goal activation more automatic. Implementation intentions use this property deliberately by linking specified cues to responses.
+
+The important boundary is that holding a goal and having it currently control behavior are different states. Motivation depends partly on which representation wins access to the current control system.
+
+### Topic 15 — Goal commitment
+Goal commitment is the strength with which a person maintains a goal as worth pursuing across time and difficulty. It supports persistence but should not be confused with rigid continuation.
+
+Commitment can arise from personal values, identity, expected benefits, social obligations, prior investment, and perceived attainability. Different sources can produce different experiences of the same goal.
+
+Commitment can change with feedback. Strong evidence that a goal is unattainable or no longer valuable can appropriately reduce commitment. Therefore disengagement can be part of adaptive self-regulation.
+
+Commitment to a goal is distinct from commitment to one strategy. A person can remain committed to learning while abandoning an ineffective study method.
+
+Behavioral persistence alone is not a pure measure of commitment because habit, social pressure, sunk costs, and lack of alternatives can also maintain behavior.
+
+The key principle is flexible commitment: preserve valuable goals when justified, but remain responsive to evidence about feasibility, cost, and changing priorities.
+
+### Topic 16 — Goal pursuit
+Goal pursuit is the multi-stage process of translating a represented target into sustained action. It includes initiation, strategy selection, effort, monitoring, adjustment, and eventual attainment or disengagement.
+
+Pursuit is often modeled as a feedback loop. Current state is compared with a goal standard, action is selected, outcomes are observed, and subsequent behavior is adjusted. The loop is interpretive rather than purely mechanical.
+
+Multiple goals complicate pursuit because effort and attention must be allocated across competing demands. Goal shielding can help maintain focus, while excessive shielding can block useful feedback.
+
+Successful pursuit does not require constant persistence. Strategy change, substitution, or disengagement can be adaptive responses when conditions change.
+
+The central distinction is between pursuing a goal and repeating a behavior. Repetition is only useful when the behavior continues to move the person toward the relevant state.
+
+### Topic 17 — Goal monitoring
+Goal monitoring gathers and interprets information about current performance relative to a goal standard. It provides the evidence needed for adjustment.
+
+Monitoring is not control. A person can accurately recognize poor progress yet fail to change behavior. Conversely, poor monitoring can lead to inappropriate changes even when control capacity is strong.
+
+Monitoring quality depends on the validity of the indicator. Easy-to-measure proxies can become misleading if they are only weakly related to the actual goal.
+
+Frequency matters as well. Continuous monitoring can consume attention, while infrequent monitoring may miss important deviations. Appropriate monitoring depends on how quickly the goal state changes.
+
+Bias can enter through selective attention, memory, shifting standards, and self-protective interpretation. Monitoring should therefore be treated as an information process rather than an objective readout.
+
+### Topic 18 — Goal progress
+Goal progress is change toward a relevant goal standard over time. Effort alone is not progress; progress requires that action alters the target state in the intended direction.
+
+Perceived and objective progress can diverge. Subjective progress nevertheless matters because it influences persistence, confidence, and strategy choice.
+
+Progress can be nonlinear, threshold-based, cumulative, or maintenance-oriented. A simple percentage-complete metric is therefore not universally appropriate.
+
+Progress information can also reveal strategy failure. If effort rises without meaningful movement, increasing effort further may be less useful than changing the method.
+
+Progress toward a proxy can also be mistaken for progress toward the ultimate goal. This is a major source of goal-system distortion.
+
+### Topic 19 — Goal standard
+A goal standard is the reference condition used to evaluate current performance or state. It gives meaning to progress and discrepancy.
+
+Standards can be numerical, categorical, social, moral, behavioral, or identity-based. The same outcome can be success under one standard and failure under another.
+
+Standards can be internal or socially supplied and can be stable or revised. Adaptive revision differs from changing standards merely to protect self-evaluation.
+
+Standards can also contain several dimensions. Optimizing one dimension may undermine another if the standard is incomplete.
+
+The distinction from a goal is functional: the goal identifies the desired state, while the standard specifies the criterion used to evaluate current performance relative to that state.
+
+### Topic 20 — Goal conflict
+Goal conflict occurs when active goals compete for resources, prescribe incompatible actions, or imply different outcomes. Conflict can be simultaneous, hierarchical, temporal, or identity-related.
+
+Conflict can be resolved through prioritization, sequencing, compromise, substitution, or disengagement. No single goal should automatically dominate because value and context differ.
+
+Persistent conflict can consume attention and reduce perceived progress. It can also reveal that the person's goal system needs restructuring rather than more effort.
+
+Approach and avoidance goals can conflict when an opportunity offers both gains and risks. Mixed motivational structures often produce ambivalence.
+
+Failure to act does not prove goal conflict. Low skill, low expectancy, or environmental barriers can produce the same behavior.
+
+### Topic 21 — Goal shielding
+Goal shielding protects a prioritized goal from competing goals and distractions. It can improve focus by allocating limited cognitive resources toward relevant information.
+
+Shielding is not absolute inhibition. Important information may need to break through, especially when the current strategy is failing or safety conditions change.
+
+Excessive shielding can create tunnel vision. A person can become efficient at pursuing a goal while becoming insensitive to evidence that the goal or strategy should be revised.
+
+Goal shielding differs from general inhibition because the suppression is functionally tied to a specific prioritized goal.
+
+Environmental design can implement shielding without constant conscious effort by reducing exposure to competing cues.
+
+### Topic 22 — Goal substitution
+Goal substitution changes an immediate target or means while preserving a broader purpose. It is a major source of flexibility in goal systems.
+
+Substitution is adaptive when the new route serves the same function. It becomes problematic when an easy proxy replaces the actual goal.
+
+The distinction from disengagement is critical. Substitution changes the route; disengagement reduces commitment to the goal itself.
+
+People are more likely to substitute effectively when they understand the higher-order function of the original goal rather than becoming attached to one concrete method.
+
+Substitution can also occur after environmental change, new information, or resource loss. It should not automatically be interpreted as inconsistency or failure.
+
+### Topic 23 — Goal disengagement
+Goal disengagement reduces commitment and investment in a goal that is no longer being pursued. It can be adaptive when the goal becomes unattainable, excessively costly, or no longer valuable.
+
+Disengagement can be behavioral and cognitive. Stopping action does not necessarily mean the goal has lost psychological accessibility.
+
+Emotional costs can accompany disengagement because the abandoned goal may have been important to identity or future plans. Emotional difficulty does not by itself prove that disengagement was wrong.
+
+Disengagement differs from temporary delay or strategy change. The relevant change is in the goal's motivational status.
+
+Research increasingly treats persistence and disengagement as complementary components of adaptive goal regulation rather than as opposites.
+
+### Topic 24 — Goal reengagement
+Goal reengagement restores motivational investment in a former or revised goal after disengagement or interruption. It can occur when circumstances improve, new strategies become available, or the goal is reconsidered.
+
+Reengagement is not simply returning to the old behavior. Effective reengagement can incorporate information learned from previous failure and may use a revised standard, timeline, or strategy.
+
+Expectancy matters. Renewed commitment is more sustainable when the person sees a credible route to progress.
+
+Reengagement can also occur at a higher level of abstraction. A person may abandon one specific career goal while reengaging with the broader goal of meaningful work through another route.
+
+The construct therefore illustrates that goal systems are cyclical and adaptive rather than linear.
+
+### Topic 25 — Goal gradient
+The goal-gradient effect concerns changes in motivation or effort associated with perceived proximity to a goal. The psychologically relevant distance is often subjective rather than purely objective.
+
+Progress cues can increase salience and make completion feel more attainable. However, late-stage effort can also reflect deadlines, rising urgency, reward proximity, or fear of failure, so increased effort near a goal does not establish one mechanism.
+
+Goal gradients depend on how progress is represented and measured. Visible milestones can change subjective distance even when objective distance is unchanged.
+
+Completion also changes the motivational system. Once the goal is reached, the discrepancy disappears and attention can shift to another goal.
+
+The effect should therefore be treated as context-sensitive rather than a universal law of human motivation.
+
+### Topics 26–50
+
+### Topic 26 — Intrinsic motivation
+Intrinsic motivation concerns engaging because the activity itself is interesting or satisfying. It should not be defined as “working without rewards.” An intrinsically interesting activity can also produce external outcomes.
+
+Intrinsic motivation is context-sensitive. Challenge, novelty, autonomy, competence-supportive feedback, and meaningful involvement can affect interest. Controlling evaluation or surveillance can sometimes change how the activity is experienced.
+
+Intrinsic motivation is also distinct from persistence. People can persist because of obligation, identity, habit, or external reward. Conversely, a person can enjoy an activity while choosing not to continue because opportunity or competing goals change.
+
+Measurement should distinguish enjoyment, interest, perceived choice, and behavioral engagement. These are related but not identical indicators.
+
+### Topic 27 — Extrinsic motivation
+Extrinsic motivation involves acting for consequences separable from the activity. Those consequences can be material, social, evaluative, or instrumental.
+
+Extrinsic motivation varies in autonomy. External pressure and personally endorsed instrumental action are both extrinsic in the broad sense but differ in psychological regulation.
+
+This distinction matters because the same behavior can have different motivational bases. Studying can be performed for punishment avoidance, approval, career value, or personal commitment to a future identity.
+
+External motivation is not inherently maladaptive. Much socially important behavior is performed because it serves valued outcomes that are not immediately enjoyable.
+
+### Topic 28 — Incentive motivation
+Incentive motivation emphasizes anticipated outcome value. It can be triggered by rewards, social approval, information, status, or avoidance of a cost.
+
+Cue learning is central. A signal associated with a valued outcome can become motivationally significant even before the outcome appears.
+
+Incentive effects depend on probability, delay, effort, current state, and alternatives. Reward magnitude alone does not determine behavior.
+
+The construct should be distinguished from intrinsic motivation and from reinforcement. Incentive value concerns motivational attraction; reinforcement concerns changes in future behavior produced by consequences.
+
+### Topic 29 — Approach motivation
+Approach motivation organizes behavior toward desired states. It can support exploration, achievement, social connection, and reward seeking.
+
+Approach is not equivalent to impulsivity. A person can strongly approach a goal through careful planning and delayed action.
+
+Approach can coexist with avoidance. A person can seek success while avoiding failure, producing mixed motivational pressure.
+
+The behavioral effect depends on expectancy and opportunity. A highly valued outcome may produce little action when the person sees no viable route to attainment.
+
+### Topic 30 — Avoidance motivation
+Avoidance motivation organizes behavior around preventing, escaping, or reducing an undesired state. It is adaptive when it protects against genuine danger or loss.
+
+Avoidance can become self-maintaining when escaping an aversive state produces immediate relief. The relief can strengthen future avoidance even when the original threat becomes less relevant.
+
+Avoidance goals can be less informative than positive process goals because “do not fail” does not specify what successful behavior requires.
+
+Avoidance should be analyzed relative to actual threat, perceived threat, controllability, expected cost, and competing approach goals.
+
+### Topic 31 — Achievement motivation
+Achievement motivation concerns standards of competence and accomplishment. It can involve mastery, improvement, performance comparison, or avoidance of failure.
+
+Task difficulty matters because moderate challenge provides information about competence. Impossible or trivial tasks provide different kinds of feedback.
+
+Failure can be interpreted as information about strategy, skill, effort, or ability. These interpretations influence subsequent persistence and adaptation.
+
+Achievement motivation does not imply superior ability or unhealthy perfectionism. It identifies why accomplishment becomes motivationally important.
+
+### Topic 32 — Affiliation motivation
+Affiliation motivation concerns seeking or valuing connection, acceptance, companionship, and belonging.
+
+It does not require constant sociability. A person can value affiliation but withdraw under threat, rejection, or low expectancy of acceptance.
+
+Affiliation is influenced by culture, identity, relationship history, and current social context. The same motive can therefore produce different behaviors across settings.
+
+It should be distinguished from attachment, loneliness, and social anxiety. Those constructs can interact with affiliation motivation without being equivalent to it.
+
+### Topic 33 — Power motivation
+Power motivation concerns valuing influence, impact, control, status, or the ability to shape outcomes.
+
+It is not identical to aggression or unethical behavior. Influence can be sought for leadership, protection, coordination, achievement, or recognition.
+
+Power motivation differs from actual power. A person can possess authority without strongly valuing it, or strongly value influence without possessing authority.
+
+Context and institutional structure determine how the motive can be expressed. Measurement must therefore separate desire for influence from opportunity to exercise it.
+
+### Topic 34 — Curiosity
+Curiosity is a motivational relation to the unknown, unresolved, surprising, or informationally incomplete. It can arise from novelty, complexity, ambiguity, or an information gap.
+
+Curiosity is not identical to general interest. It often contains a specific information-seeking component.
+
+Prior knowledge can increase curiosity because it makes information gaps intelligible. Complete ignorance may sometimes produce little curiosity because the person cannot represent what is missing.
+
+Curiosity can support learning but can also compete with current goals. Self-regulation determines when information seeking is useful and when it becomes distraction.
+
+### Topic 35 — Exploration
+Exploration involves searching for information, opportunities, resources, or actions whose value is not fully known.
+
+It contrasts with exploitation, which uses known options. Adaptive behavior requires switching between search and use.
+
+Exploration is influenced by uncertainty, opportunity cost, risk, prior knowledge, and feedback. Excessive exploration can prevent completion, while too little can trap a person in poor routines.
+
+Exploration can be cognitive, physical, social, or informational. Its common feature is search under incomplete knowledge.
+
+### Topic 36 — Competence
+Competence concerns effectiveness, capability, and mastery within a domain. In self-determination theory it is a basic psychological need; in other contexts it can refer to actual skill or perceived capability.
+
+Actual ability and perceived competence can diverge. High confidence does not prove high skill, while low confidence can suppress action despite adequate skill.
+
+Competence develops through challenge, practice, feedback, and learning. Appropriately calibrated difficulty is important because tasks that are trivial or impossible provide limited useful information.
+
+Competence is domain-specific. Strength in one domain should not be generalized automatically to global ability.
+
+### Topic 37 — Autonomy
+Autonomy concerns experiencing behavior as self-endorsed and volitional. It does not mean isolation or complete independence.
+
+Choice alone does not establish autonomy. A large menu of options can coexist with pressure, while a constrained action can be autonomous if it is deeply endorsed.
+
+Autonomy is compatible with interdependence and communal values. People can autonomously choose cooperation, responsibility, and dependence.
+
+The construct concerns the source and quality of regulation rather than the absence of external influence.
+
+### Topic 38 — Relatedness
+Relatedness concerns meaningful connection, belonging, mutual care, and social significance. Social contact alone does not guarantee relatedness.
+
+A person can be surrounded by people while feeling disconnected, or maintain a small number of relationships that provide strong connection.
+
+Relatedness is shaped by acceptance, trust, reciprocity, culture, and developmental history.
+
+It should not be equated with conformity or popularity. Belonging can coexist with disagreement and autonomy.
+
+### Topic 39 — Need for achievement
+Need for achievement describes a recurring concern with accomplishment, competence, standards of excellence, and successful performance.
+
+It is related to achievement motivation but often used to describe a more enduring motive pattern.
+
+The motive can be expressed through challenge seeking, performance feedback, mastery, or competition. None of these behaviors uniquely proves the motive because external incentives can produce similar behavior.
+
+A useful assessment examines repeated preferences and the meaning attached to success and failure rather than relying on one performance episode.
+
+### Topic 40 — Need for affiliation
+Need for affiliation describes a relatively enduring tendency to value acceptance, belonging, companionship, and positive social connection.
+
+It can influence social goals and reactions to inclusion or rejection, but it does not guarantee high sociability.
+
+Affiliation motives interact with fear, expectancy, cultural norms, and competing goals. Strong desire for connection can coexist with social withdrawal when anticipated costs are high.
+
+The construct is distinct from attachment style, loneliness, and social anxiety.
+
+### Topic 41 — Need for power
+Need for power describes a relatively enduring tendency to value influence, impact, control, status, or responsibility for outcomes.
+
+The motive can be expressed through formal authority or informal influence. Institutional context determines which routes are available.
+
+Power motivation does not specify the ethics of influence. Leadership, protection, domination, and exploitation can all involve influence but require additional constructs to distinguish them.
+
+Assessment should separate desire for power from actual possession of power and from role-required behavior.
+
+### Topic 42 — Self-determination theory
+Self-determination theory is a broad model of motivation and development centered on autonomy, competence, relatedness, internalization, and different forms of regulation.
+
+It distinguishes intrinsic motivation from multiple forms of extrinsic regulation rather than treating motivation as simply intrinsic versus extrinsic.
+
+The theory predicts that social contexts can support or frustrate psychological needs and thereby influence motivational quality and related outcomes.
+
+Evidence is substantial but heterogeneous. Individual claims should be evaluated by construct, context, measurement, and population rather than treating the theory as one undifferentiated claim.
+
+### Topic 43 — Expectancy-value theory
+Expectancy-value approaches explain motivation through anticipated success and subjective value. A highly valued outcome may still generate little action if success appears unlikely.
+
+Value can include interest, utility, importance, and perceived cost. These components can move independently.
+
+Expectancies are subjective beliefs, not objective probabilities. They can be accurate or biased and can change after feedback.
+
+The framework is functional rather than a claim that people consciously perform numerical calculations before every action.
+
+### Topic 44 — Control-value processes
+Control-value processes emphasize perceived control and subjective value as determinants of motivation and emotion.
+
+High value makes outcomes consequential; perceived control shapes whether the person sees action as capable of changing them.
+
+The combination matters. High value with low control can produce distress or withdrawal, while high value with high control can support active engagement.
+
+Control-value processes complement goal theory because goals identify desired states while control-value variables help explain whether pursuing them feels feasible and worthwhile.
+
+### Topic 45 — Regulatory focus
+Regulatory focus distinguishes promotion-oriented regulation toward gains and advancement from prevention-oriented regulation toward safety, responsibility, and avoiding losses.
+
+Focus can be situational or relatively enduring. Social roles, recent experience, and framing can shift it.
+
+Promotion and prevention are not equivalent to approach and avoidance, although the frameworks overlap. Regulatory focus includes standards, feedback sensitivity, and preferred strategies.
+
+Neither focus is universally superior. Effective regulation depends on task demands and environmental consequences.
+
+### Topic 46 — Approach–avoidance regulation
+Approach–avoidance regulation concerns managing simultaneous tendencies toward desired states and away from undesired states.
+
+Mixed goals can produce ambivalence. An opportunity may promise achievement while also exposing the person to failure or rejection.
+
+Regulation depends on expected value, perceived threat, controllability, and competing goals.
+
+Approach and avoidance can operate at different levels of the same goal hierarchy. A person can approach a broad goal while avoiding a particular route.
+
+### Topic 47 — Hunger
+Hunger reflects motivational pressure related to energy regulation and food intake. It is not identical to appetite or liking.
+
+Physiological signals interact with learned cues, sensory information, social context, and expectations.
+
+Subjective hunger and physiological state can diverge, so measurement should distinguish experience from bodily indicators.
+
+Hunger demonstrates how biological regulation can generate motivation while still being modified by learning and context.
+
+### Topic 48 — Appetite
+Appetite concerns desire or attraction toward eating and can be influenced by sensory, learned, emotional, and social factors.
+
+Appetite can occur without strong metabolic hunger, especially when palatable cues are present.
+
+It is therefore not simply a subjective synonym for hunger. Appetite is more directly connected to the motivational attractiveness of food.
+
+### Topic 49 — Satiety
+Satiety concerns processes that reduce eating motivation during and after consumption.
+
+It is not simply the opposite of hunger because different physiological and sensory processes operate over different time scales.
+
+Meal composition, sensory experience, internal signals, and learned expectations can affect satiety.
+
+Understanding satiety helps distinguish biological regulation from incentive-driven eating.
+
+### Topic 50 — Thirst
+Thirst concerns motivational regulation of fluid balance. It is influenced by physiological monitoring, hormonal processes, and environmental cues.
+
+The conscious feeling of thirst is one part of a broader regulatory system. Anticipatory drinking can occur before severe fluid deficit.
+
+Thirst therefore illustrates the interaction between homeostatic regulation, learned behavior, and context.
+
+### Topics 51–75
+
+### Topic 51 — Sexual motivation
+Sexual motivation is a broad motivational domain involving pursuit, avoidance, regulation, and valuation of sexual outcomes. It can be influenced by biological state, learning, relationship context, emotion, personal values, and opportunity.
+
+Sexual motivation should not be treated as one fixed drive. Desire can fluctuate with stress, sleep, relationship conditions, health, and context.
+
+The construct concerns motivation, not the legitimacy of behavior. Consent, autonomy, and interpersonal boundaries remain independent ethical constraints.
+
+### Topic 52 — Sexual desire
+Sexual desire is the subjective experience of wanting or being interested in sexual activity or related experiences. It is not identical to physiological arousal or observable behavior.
+
+Desire can be spontaneous or responsive to context. It can also vary over time without implying a change in enduring orientation.
+
+Because subjective desire, physiological response, and behavior can dissociate, each should be measured separately when scientific precision is required.
+
+### Topic 53 — Sexuality
+Sexuality is broader than sexual motivation. It can include patterns of attraction, behavior, identity, relationships, meanings, and values.
+
+Sexuality should not be reduced to frequency of sexual behavior or current desire. Different dimensions can vary independently.
+
+Developmental and cultural contexts shape expression, while enduring patterns should not be inferred from isolated events.
+
+### Topic 54 — Sexual behavior
+Sexual behavior refers to observable actions rather than the motives or meanings behind them. Similar behavior can arise from different motivations.
+
+Behavior can be influenced by desire, relationship goals, social expectations, values, opportunity, and situational constraints.
+
+Behavior should therefore not be used as a simple proxy for orientation, identity, or enduring motivational state.
+
+### Topic 55 — Sexual orientation
+Sexual orientation concerns enduring patterns of sexual and/or romantic attraction. It is conceptually distinct from behavior, libido, and deliberate choice.
+
+Orientation should not be inferred from a single behavior or temporary state. It also should not be treated as a disorder or motivational deficit.
+
+Scientific descriptions should distinguish attraction, identity, and behavior because they can overlap without being identical.
+
+### Topic 56 — Reward
+Reward is an outcome that has motivational or reinforcing significance within a specified framework. It should not be treated as a synonym for pleasure.
+
+Reward can influence behavior before receipt through expectation and cue learning. Its value can also change with state and experience.
+
+Reward must be distinguished from reinforcement, which concerns changes in future behavior caused by consequences.
+
+### Topic 57 — Reward sensitivity
+Reward sensitivity concerns responsiveness to reward-related cues or outcomes. It can vary across people, situations, and domains.
+
+Sensitivity is not identical to reward value. A person can react strongly to cues while consciously valuing the outcome less than expected.
+
+Measurement is task-dependent, so one behavior should not be treated as a complete measure of a stable global trait.
+
+### Topic 58 — Reward prediction
+Reward prediction concerns expected outcomes and their value before an outcome occurs. Expectations guide effort, choice, attention, and learning.
+
+Predictions depend on prior experience and current context and can therefore be inaccurate.
+
+Prediction is distinct from reward itself. It is the anticipated state that helps organize action before the consequence arrives.
+
+### Topic 59 — Reward prediction error
+Reward prediction error is the discrepancy between expected and obtained reward. Positive error occurs when the outcome is better than expected; negative error when it is worse.
+
+Prediction error provides information for updating future expectations. It is therefore central to learning.
+
+It is not identical to happiness, disappointment, or motivation, although these experiences can accompany changes in expected value.
+
+### Topic 60 — Self-regulation
+Self-regulation is dynamic management of thoughts, feelings, motivation, and behavior in relation to goals and standards.
+
+It includes goal selection, planning, monitoring, action, adjustment, persistence, and disengagement. It is broader than self-control.
+
+Self-regulation is strongly context-sensitive. Environment design can reduce the amount of momentary control required.
+
+### Topic 61 — Self-efficacy
+Self-efficacy concerns perceived capability to organize and execute actions required for a particular outcome. It is prospective and task-sensitive.
+
+High self-efficacy can support initiation and persistence, but it does not guarantee actual skill or success. Beliefs can be inaccurate.
+
+Low self-efficacy can suppress useful action even when objective capability is adequate.
+
+### Topic 62 — Self-control
+Self-control concerns regulating behavior when immediate tendencies conflict with longer-term or higher-priority goals.
+
+It can involve inhibition, attention shifting, reappraisal, planning, and environmental restructuring.
+
+Self-control should not be reduced to willpower. Upstream strategies can prevent conflicts from becoming intense in the first place.
+
+### Topic 63 — Delay of gratification
+Delay of gratification involves maintaining a delayed option instead of taking an immediately available alternative. It is a specific temporal form of self-regulation.
+
+Behavior depends on reward magnitude, delay, trust, context, learning history, and available alternatives. It should not be interpreted as a pure stable trait.
+
+The ability to delay can reflect both control capacity and motivation to preserve the delayed goal.
+
+### Topic 64 — Impulse control
+Impulse control concerns regulating rapid action tendencies that arise from reward, emotion, habit, or physiological state.
+
+Successful regulation can involve inhibition, delay, attention redirection, or environmental change.
+
+Not every impulse should be suppressed. Some rapid responses are adaptive and efficient, so the relevant standard is whether regulation serves the current goal.
+
+### Topic 65 — Motivation regulation
+Motivation regulation involves changing one's motivational state or the conditions that produce it so that goal-directed action becomes more likely.
+
+Strategies can alter task value, environment, incentives, attention, social support, or perceived control.
+
+Motivation regulation is distinct from behavior regulation because the target is the motivational condition that supports subsequent behavior.
+
+### Topic 66 — Effort
+Effort is mobilization of resources toward a goal. It is not identical to motivation or success.
+
+Effort allocation reflects expected benefit, probability of success, cost, competing goals, and available resources.
+
+High effort can be ineffective when strategy is poor. Adaptive regulation therefore distinguishes effort problems from strategy problems.
+
+### Topic 67 — Persistence
+Persistence is continued goal-directed activity across time. It is adaptive when the goal remains valuable and attainable.
+
+Persistence should not be equated with never quitting. Continuing an impossible goal can be less adaptive than timely disengagement.
+
+Persistence is influenced by feedback, self-efficacy, value, social context, and perceived progress.
+
+### Topic 68 — Persistence failure
+Persistence failure is discontinuation or substantial reduction of goal-directed effort. It is an outcome, not a single mechanism.
+
+Possible causes include low value, reduced expectancy, competing goals, rising cost, poor strategy, environmental barriers, or emotional avoidance.
+
+A person can stop despite strong motivation when opportunity or capability changes.
+
+### Topic 69 — Implementation intentions
+Implementation intentions specify a cue and a planned response in if–then form. They translate a broad goal into a situational action rule.
+
+Their usefulness comes partly from reducing decision demands when the cue appears. Effectiveness depends on cue recognition, ability, opportunity, and continued goal relevance.
+
+They can also be used to prepare responses to distraction or impulsive situations.
+
+### Topic 70 — Action orientation
+Action orientation describes a tendency toward moving from intention or deliberation into action under demanding conditions.
+
+It should not be interpreted as universally superior. Rapid action can be harmful when careful evaluation is needed.
+
+The construct is useful for understanding the transition between goal representation and behavioral initiation.
+
+### Topic 71 — State orientation
+State orientation describes a tendency to remain focused on current conditions, deliberation, or emotional states rather than transitioning efficiently into action.
+
+This can support reflection in some situations but interfere with initiation when action is required.
+
+The distinction is probabilistic rather than absolute; people can shift across contexts.
+
+### Topic 72 — Procrastination
+Procrastination is unnecessary delay of an intended action despite expecting that the delay will have negative consequences.
+
+It often involves temporal competition between immediate relief or reward and delayed goal benefits. Emotion regulation can maintain the cycle.
+
+Task vagueness, perfectionistic standards, low expectancy, habits, and environmental distractions can all contribute, so procrastination has no single cause.
+
+### Topic 73 — Motivation crowding
+Motivation crowding describes changes in pre-existing motivation produced by external interventions such as rewards, monitoring, rules, or incentives.
+
+External consequences can increase behavior while also changing perceived autonomy, competence, or the meaning of the activity.
+
+Effects are conditional rather than universal. The psychological interpretation of the intervention matters.
+
+### Topic 74 — Ego-depletion/resource models and evidence limits
+Ego-depletion models proposed that self-control draws on a limited resource. The idea became influential but subsequent replication and meta-scientific work created substantial uncertainty about a robust generalized depletion effect.
+
+This does not mean fatigue or reduced willingness to invest effort are unreal. It means those outcomes should not automatically be attributed to depletion of one universal resource.
+
+Current interpretations emphasize motivation, context, task demands, expectations, and flexible control processes alongside capacity.
+
+The theory remains important historically while its empirical claims must be represented with explicit uncertainty.
+
+### Topic 75 — Motivation and context
+Motivation and context form an interaction rather than two isolated causes. Personal goals and motives influence behavior, but environmental cues, resources, social expectations, opportunities, and constraints determine which motivational tendencies can be expressed.
+
+Context can activate different goals in the same person. This is why behavior can vary substantially across settings without implying that the underlying person has changed completely.
+
+The scientific task is to specify which contextual feature changes which motivational process rather than merely stating that “context matters.”
+
+### Cross-topic integration
+
+### D1. Value is dynamic
+Motivational value changes with current state, learning, expectations, opportunity, and competing priorities. An outcome cannot be assigned one permanent motivational value independent of the person and situation.
+
+### D2. Attraction and regulation differ
+A person can experience a strong attraction toward one outcome while deliberately pursuing another. Regulation is the process of coordinating these competing tendencies with goals and standards.
+
+### D3. Time changes motivation
+Immediate and delayed outcomes are not psychologically equivalent. Delay changes uncertainty, opportunity cost, and the opportunity for competing goals to intervene.
+
+### D4. Feedback changes future motivation
+Success, failure, reward, and progress provide information that can update expectations, values, and strategies. The same feedback can produce different responses because people interpret its meaning differently.
+
+### D5. Multiple goals require allocation
+People normally manage several goals at once. Time, attention, effort, and opportunity are finite, so regulation requires prioritization and sequencing rather than maximum pursuit of every goal.
+
+### D6. Traits are tendencies
+Individual differences in motives and regulation describe probabilities and recurring patterns, not fixed behavioral scripts. Context, development, learning, and current state can change expression.
+
+### D7. Measurement must match the construct
+Self-report, behavior, physiology, and performance tasks measure different aspects of motivation. A single indicator should not be treated as a complete measure of a broad motivational system.
+
+### D8. Theory is not fact
+Drive-reduction theory, incentive theory, self-determination theory, expectancy-value theory, regulatory focus, and resource models are explanatory frameworks. Their evidence must be evaluated at the level of specific claims.
+
+### D9. Association is not mechanism
+If a motivational variable predicts behavior, the result does not automatically establish how the variable caused the behavior. Experimental manipulation, temporal evidence, measurement quality, and alternative explanations matter.
+
+### D10. Context is part of the explanation
+The same person can behave differently across environments because cues, opportunities, social expectations, costs, and available actions change. Contextual explanations should identify the specific feature that changes the motivational process.
+
+### D11. Goals are hierarchical
+Broad goals can organize subordinate goals and strategies. This hierarchy permits means-end substitution and flexible adaptation, but it can also create conflict when lower-level aims serve incompatible higher-order purposes.
+
+### D12. Progress is not effort
+Effort is resource investment; progress is movement toward the relevant standard. High effort with poor strategy can produce little progress.
+
+### D13. Persistence is conditional
+Continuation is adaptive when the goal remains worthwhile and feasible. When information changes, strategy revision or disengagement can be more appropriate than continued effort.
+
+### D14. Regulation can occur upstream
+Changing cues, environments, plans, and task structure can prevent difficult conflicts from emerging. Effective regulation therefore includes preparation, not only momentary response inhibition.
+
+### D15. Motivation is not a moral trait
+Low observable engagement does not identify a person's character. It can reflect value, expectancy, conflict, opportunity, ability, fatigue, environmental structure, or other mechanisms.
+
+### D16. Intrinsic and extrinsic reasons can coexist
+An activity can be interesting while also producing external benefits. External consequences do not automatically erase intrinsic interest, and external motivation is not automatically unhealthy.
+
+### D17. Approach and avoidance can coexist
+A single goal can contain both desired gains and feared losses. Mixed motivational structure is common and can produce ambivalence rather than a simple directional state.
+
+### D18. Biological and psychological processes interact
+Physiological regulation can generate motivational pressure, while learning, cognition, social context, and goals determine how that pressure is expressed.
+
+### D19. Reward is not pleasure alone
+Reward can concern value, reinforcement, or learned significance depending on the framework. Prediction, prediction error, and sensitivity are separate constructs.
+
+### D20. Self-efficacy is not ability
+Perceived capability can influence action while remaining distinct from actual skill. Accurate regulation requires feedback that can update both belief and performance.
+
+### D21. Self-control is not a single resource
+Historical resource models are important but evidence for a simple generalized depletion mechanism is uncertain. Current accounts emphasize interacting capacity, motivation, context, and strategy.
+
+### D22. Procrastination is not laziness
+Delay can arise from temporal conflict, immediate relief, task ambiguity, low expectancy, competing goals, habits, or environmental cues. The behavior requires mechanism-level explanation.
+
+### D23. Curiosity and exploration have opportunity costs
+Information seeking can improve learning but can also distract from current goals. Adaptive systems switch between exploration and exploitation.
+
+### D24. Competence has multiple meanings
+Actual skill, perceived capability, and experienced effectiveness can diverge. They should be measured and discussed separately.
+
+### D25. Autonomy is not isolation
+Autonomy concerns self-endorsement and volition. It is compatible with cooperation, responsibility, dependence, and culturally embedded obligations.
+
+### D26. Relatedness is not popularity
+Meaningful connection concerns belonging and mutual significance rather than the number of social contacts.
+
+### D27. Achievement is not superiority
+Achievement motivation concerns standards and accomplishment. It does not imply greater general ability or greater human worth.
+
+### D28. Affiliation is not sociability
+A person can strongly value connection while avoiding interaction in contexts where rejection or evaluation is expected.
+
+### D29. Power motivation is not abuse
+Desire for influence can support leadership or coordination as well as harmful conduct. The motive does not determine the ethical use of influence.
+
+### D30. Final integration
+The chapter's 75 Topics form a network: motives and needs influence what matters; incentives and rewards alter valuation; goals specify desired states; goal processes organize pursuit; biological motives provide regulatory pressures; and self-regulation coordinates competing demands. No single construct should be used as a substitute for the entire network.
+
+### Unturned mechanisms and boundary conditions
+
+### E1. The intention–valuation–action chain
+An intention is a represented commitment to perform or avoid a behavior. It is not identical to desire, goal value, or action. A person can desire an outcome without forming a concrete intention, form an intention without acting, or act without a consciously articulated intention.
+
+The chain from value to behavior contains several transitions. First, an outcome must matter enough to enter the person's active motivational field. Second, the person must represent a goal or behavioral target. Third, the action must be selected as a viable route. Fourth, the person must initiate and execute it. Fifth, feedback must determine whether continuation or revision is appropriate.
+
+Each transition can fail for a different reason. Low value affects selection; low expectancy affects commitment; lack of opportunity affects execution; competing cues affect initiation; poor monitoring affects adjustment. This is why a single intervention cannot be assumed to fix every motivational problem.
+
+Intentions also have temporal specificity. “I should exercise” is weaker as an action representation than a plan specifying a time, place, and response. However, greater specificity is not always better when the environment is unpredictable. Plans must remain responsive to meaningful changes in context.
+
+The intention–action gap therefore demonstrates that motivation is a process architecture rather than a scalar. The question is not merely whether a person wants an outcome, but where the chain from value to action is breaking.
+
+### E2. The role of expectancy in effort allocation
+Expectancy is central because people allocate resources partly according to whether they believe action can produce the desired result. High value with near-zero perceived attainability can produce low investment despite strong desire.
+
+Expectancy is updated through experience, observation, feedback, and social information. It can also be distorted by attributional habits and limited evidence. A person can become pessimistic after a small number of failures or overconfident after unusually easy success.
+
+Expectancy and effort interact bidirectionally. Expectancy influences willingness to invest, while effort and feedback provide information that can change expectancy. This creates a dynamic loop rather than a one-way causal path.
+
+The distinction between perceived and objective feasibility is essential. A person may fail to pursue an attainable goal because it seems impossible, or pursue an impossible goal because success is overestimated. Psychological explanation must preserve both levels.
+
+Expectancy also operates at different levels. A person may believe they can perform the next step while doubting that the larger goal is attainable. Intermediate goals can therefore provide local expectancy even when ultimate expectancy remains uncertain.
+
+### E3. Cost, opportunity cost, and effort
+Motivation depends not only on value and expectancy but also on cost. Cost includes effort, time, emotional burden, risk, lost alternatives, and other consequences associated with action.
+
+Opportunity cost is especially important in multiple-goal systems. Choosing one activity means giving up time or resources that could support another. A behavior can therefore become less attractive even when its direct reward remains constant because an alternative becomes more valuable.
+
+Costs are also subjective. The same objective effort can feel different depending on skill, fatigue, confidence, and meaning. A difficult task may be experienced as engaging by one person and exhausting by another.
+
+Cost can alter persistence without changing goal value. A person may continue to value an outcome while deciding that its current cost is no longer justified. This distinction helps explain strategic disengagement.
+
+### E4. Identity and motivational coherence
+Identity can influence motivation by organizing which goals feel consistent with the person's understanding of self. A goal that fits identity can acquire additional meaning and persistence, while a goal experienced as incompatible may require sustained external pressure.
+
+Identity should not be treated as a single master motive. People hold multiple identities, and different contexts make different identities salient. A person can therefore experience both coherence and conflict across roles.
+
+Identity can also change through goal pursuit. Repeated action can provide evidence about the kind of person one is becoming. This creates a feedback relation between goals and self-representation.
+
+Identity-based motivation should not be used to infer behavior from labels alone. People can act against a valued identity under strong situational pressure, competing goals, or short-term incentives.
+
+### E5. Social evaluation and motivational regulation
+Social evaluation can alter the value and cost of goals. Approval can become an incentive, while anticipated criticism can create avoidance pressure. Social evaluation can also change perceived competence and belonging.
+
+The effect is not uniform. Evaluation can provide useful information about performance, but it can also make an activity feel controlling. The psychological meaning of evaluation depends on whether it is experienced as informative, threatening, supportive, or coercive.
+
+Social comparison is another route. Comparing performance with others can provide standards and information, but it can also shift attention from mastery to status. This can change which goals are selected and how failure is interpreted.
+
+### E6. Developmental change in motivation
+Motivation changes across development because biological regulation, cognitive representation, social roles, and learning opportunities change. Early motives may be strongly tied to immediate regulation and social interaction, while later development supports increasingly abstract and temporally extended goals.
+
+Development does not follow one universal motivational sequence. Culture, family, education, peer relationships, and individual differences influence which goals become salient.
+
+Self-regulation also develops through learning. Children gradually acquire greater ability to represent future outcomes, delay responses, monitor performance, and coordinate multiple goals. Developmental change should therefore be described as increasing organization rather than simply “more willpower.”
+
+### E7. Culture and motivational meaning
+Culture can influence what outcomes are valued, how motives are expressed, which goals are socially legitimate, and how autonomy or obligation is interpreted.
+
+Cultural variation does not automatically imply that every motivational process is culturally constructed. Some biological and psychological processes may be widespread while their expression varies.
+
+Cross-cultural evidence should therefore distinguish universality of mechanism from similarity of behavior. The same underlying function can be expressed through different practices.
+
+Cultural context also changes incentives. Status, family obligation, independence, cooperation, and achievement can carry different meanings across societies. Psychological interpretation must preserve these differences rather than treating one cultural pattern as the default human pattern.
+
+### E8. Learning history and motivational transformation
+Learning can transform motivational value. Repeated pairing of cues and outcomes can make previously neutral stimuli motivationally significant. Successful action can strengthen expectancy, while repeated failure can reduce it.
+
+Learning also changes strategy availability. A person with more experience can pursue the same goal using fewer resources or more efficient means. Apparent changes in motivation can therefore sometimes reflect changes in skill.
+
+Habits can also compete with goals. Repeated behavior becomes more accessible in familiar contexts, reducing the need for conscious selection. Goal-directed motivation can override habits, but the conflict depends on cue strength, current value, and context.
+
+Learning therefore changes not only what people know but what actions and outcomes feel accessible, valuable, and expected.
+
+### Topic-level edge cases and retrieval notes
+
+1. **Motivation.** Do not infer a single motivational quantity from one behavior. Separate direction, activation, intensity, persistence, and regulation. Motivation can be strong but behavior blocked by opportunity or skill.
+2. **Motive.** Treat motive as a recurring motivational tendency, not an invisible explanation for any isolated action. Longitudinal patterns and converging measures provide stronger evidence than one behavior.
+3. **Need.** A need claim should specify what satisfaction and frustration mean. Calling every valued outcome a need makes the construct circular.
+4. **Drive.** Drive is most useful when tied to an internal regulatory condition. It should not be used as a synonym for wanting or effort.
+5. **Incentive.** Incentive value changes with state, learning, expectations, and alternatives. An object does not carry one fixed motivational value.
+6. **Instinctive motivation.** Biological preparedness does not imply behavioral inevitability. Development and learning determine much of how predispositions are expressed.
+7. **Drive-reduction theory.** The model explains some deficit-related motivation but cannot by itself explain exploration, achievement, curiosity, or all reward seeking.
+8. **Arousal theory.** Activation must be operationalized. Physiological arousal, subjective alertness, and emotional intensity are not interchangeable.
+9. **Incentive theory.** Anticipated outcomes can motivate before reward receipt. The framework is strongest when expected value and learned cue relations are specified.
+10. **Need-based theories.** Different need theories make different claims about universality, hierarchy, and mechanism. They should not be merged into one model.
+11. **Goal.** A goal is a represented target, not merely a wish. It becomes behaviorally effective when sufficiently activated and connected to viable action.
+12. **Goal representation.** Representation can include standards, means, timing, constraints, and higher-order meaning. Vague representations often impair monitoring.
+13. **Goal selection.** Selection is prioritization under limited resources. Value, expectancy, urgency, opportunity cost, and context all matter.
+14. **Goal activation.** A goal can be held without being currently active. Cues, roles, recent use, and context can determine which goal enters control.
+15. **Goal commitment.** Commitment concerns maintaining the goal, not necessarily maintaining one strategy. Strategy change can coexist with strong commitment.
+16. **Goal pursuit.** Pursuit is a feedback process rather than one act. Initiation, execution, monitoring, adjustment, and disengagement are separable.
+17. **Goal monitoring.** Monitoring provides information; it does not itself produce control. Poor indicators can generate confident but incorrect regulation.
+18. **Goal progress.** Progress must be defined relative to a valid standard. Effort, activity, and progress are not synonyms.
+19. **Goal standard.** Standards can be internal, social, numerical, or identity-based. Changing a standard can be adaptive or defensive depending on evidence.
+20. **Goal conflict.** Inaction can result from conflict, but also from low skill, low expectancy, or missing opportunity. Behavior alone does not identify conflict.
+21. **Goal shielding.** Shielding improves focus but can block useful corrective information. Adaptive shielding must remain permeable to important feedback.
+22. **Goal substitution.** Substitution preserves a broader function while changing a route. Replacing the true goal with an easy proxy is not adaptive substitution.
+23. **Goal disengagement.** Disengagement can release resources when a goal becomes unattainable or low-value. It is not automatically a failure of motivation.
+24. **Goal reengagement.** Reengagement is more than restarting. It can incorporate new information, revised standards, and changed environmental conditions.
+25. **Goal gradient.** Perceived distance can alter effort, but deadline pressure and rising urgency can produce similar patterns. Mechanism must be established separately.
+26. **Intrinsic motivation.** Intrinsic motivation concerns the activity's inherent interest or satisfaction. It is not defined by absence of rewards.
+27. **Extrinsic motivation.** Extrinsic motivation includes multiple forms of regulation. External consequence does not automatically mean coercion.
+28. **Incentive motivation.** Incentive motivation is anticipatory. Cue value and outcome value can dissociate after learning.
+29. **Approach motivation.** Approach is a direction, not a synonym for impulsivity. Deliberate long-term action can be strongly approach-oriented.
+30. **Avoidance motivation.** Avoidance can protect against genuine danger. Its adaptiveness depends on threat probability, controllability, and long-term cost.
+31. **Achievement motivation.** Achievement can mean mastery, improvement, performance comparison, or avoiding failure. These forms should not be collapsed.
+32. **Affiliation motivation.** Valuing connection does not guarantee social approach. Threat and low expectancy can produce withdrawal.
+33. **Power motivation.** Desire for influence does not specify whether influence is constructive or harmful. Ethical use requires additional analysis.
+34. **Curiosity.** Curiosity depends partly on represented information gaps. Complete ignorance can sometimes reduce curiosity because there is no intelligible gap.
+35. **Exploration.** Exploration trades off with exploitation. Adaptive systems must know when to search and when to use established options.
+36. **Competence.** Actual ability, perceived capability, and experienced effectiveness are related but distinct. Measurement should identify which is intended.
+37. **Autonomy.** Autonomy is self-endorsement, not isolation. A person can autonomously choose cooperation and dependence.
+38. **Relatedness.** Relatedness is meaningful connection, not social quantity. Popularity and belonging can diverge.
+39. **Need for achievement.** Stable achievement concerns can influence recurring choices, but one difficult task does not prove a strong achievement motive.
+40. **Need for affiliation.** Affiliation is a motive for connection, not a diagnosis of sociability. Fear can inhibit its behavioral expression.
+41. **Need for power.** Power motive and actual authority must be separated. Opportunity determines whether the motive can be expressed.
+42. **Self-determination theory.** SDT is a framework containing several subtheories. Evidence for one component should not be generalized automatically to every claim.
+43. **Expectancy-value theory.** High value without perceived attainability may produce little action. Low value can suppress action despite high expectancy.
+44. **Control-value processes.** Value makes an outcome consequential; perceived control affects whether action is seen as useful. Both dimensions matter.
+45. **Regulatory focus.** Promotion and prevention are orientations, not fixed personality boxes. Context can shift focus.
+46. **Approach–avoidance regulation.** A single goal can contain both attraction and threat. Ambivalence is therefore a normal motivational configuration.
+47. **Hunger.** Hunger reflects biological regulation but is influenced by learned and environmental cues. Subjective hunger is not a perfect physiological measure.
+48. **Appetite.** Appetite can be high when metabolic hunger is low. Sensory and learned value contribute.
+49. **Satiety.** Satiety is a regulatory process, not simply the absence of hunger. Timing and meal properties matter.
+50. **Thirst.** Thirst includes anticipatory and physiological regulation. The conscious sensation is one component of a larger system.
+51. **Sexual motivation.** Sexual motivation is multi-determined. Desire, behavior, relationship context, and biological state can change independently.
+52. **Sexual desire.** Subjective desire is not equivalent to physiological arousal or behavior. Each requires separate measurement when relevant.
+53. **Sexuality.** Sexuality contains multiple dimensions, including attraction, behavior, identity, and meaning. One dimension should not stand in for all others.
+54. **Sexual behavior.** Observable behavior does not uniquely reveal motive or orientation. Context and personal meaning are necessary for interpretation.
+55. **Sexual orientation.** Orientation concerns enduring patterns of attraction and should not be inferred from isolated behavior or treated as a deficit.
+56. **Reward.** Reward is framework-dependent and should be separated from pleasure, value, and reinforcement.
+57. **Reward sensitivity.** Sensitivity is responsiveness to reward information, not necessarily the same as conscious valuation.
+58. **Reward prediction.** Prediction is an expectation about future outcome value. It is not the outcome itself.
+59. **Reward prediction error.** Prediction error is discrepancy between expected and obtained outcomes. It is a learning variable, not simply an emotion label.
+60. **Self-regulation.** Self-regulation includes planning, monitoring, action, adjustment, and goal revision. It is broader than impulse inhibition.
+61. **Self-efficacy.** Perceived capability can guide action while being inaccurate. Confidence and competence should remain separate.
+62. **Self-control.** Self-control concerns conflict among action tendencies. Environmental restructuring can be a form of effective control.
+63. **Delay of gratification.** Delay behavior depends on trust, reward structure, waiting cost, and context. It should not be treated as a pure character test.
+64. **Impulse control.** Rapid responses can be adaptive. The relevant question is whether regulation is appropriate to the goal and situation.
+65. **Motivation regulation.** People can regulate motivation by changing value, context, attention, or incentives. The target of regulation can be the motivational state itself.
+66. **Effort.** Effort is resource investment, not proof of motivation or effectiveness. Strategy quality determines what effort accomplishes.
+67. **Persistence.** Persistence is adaptive only relative to current goal value and feasibility. Flexible stopping can be part of successful regulation.
+68. **Persistence failure.** Discontinuation has multiple possible causes. It should not automatically be interpreted as low motivation.
+69. **Implementation intentions.** If–then plans connect cues with responses. They reduce some initiation demands but do not guarantee execution.
+70. **Action orientation.** Action orientation concerns transition into behavior. It does not imply that rapid action is always optimal.
+71. **State orientation.** State orientation can support reflection but can also prolong indecision. Context determines whether deliberation is useful.
+72. **Procrastination.** Procrastination is unnecessary delay despite anticipated cost. Immediate relief, task structure, and competing goals can maintain it.
+73. **Motivation crowding.** External interventions can change motivational quality as well as behavior quantity. Effects depend on interpretation and contingency.
+74. **Ego-depletion/resource models.** Historical resource models remain conceptually important, but evidence for a simple generalized depletion effect is uncertain and should be described cautiously.
+75. **Motivation and context.** Personal tendencies and environmental conditions jointly shape behavior. Context should be specified rather than treated as an unexplained residual.
+
+### Evidence, measurement, and boundary notes for all 75 Topics
+
+1. **Motivation — evidence boundary.** Motivation is an umbrella construct supported by converging biological, behavioral, cognitive, and social research. There is no single measurement that captures the whole system. Evidence is strongest when a claim specifies the motivational component being tested.
+2. **Motive — measurement boundary.** Motives are inferred constructs. Self-report, behavioral preferences, and indirect methods can disagree because they access different components. Repeated patterns and convergent measures are preferable to one observation.
+3. **Need — theory boundary.** Need claims vary by theoretical framework. Strong claims require evidence about satisfaction, frustration, deprivation, and consequences, not merely evidence that people report wanting something.
+4. **Drive — biological boundary.** Drive explanations are strongest when tied to measurable regulation. Broad claims that every motive is a drive are inconsistent with non-deprivation motivation.
+5. **Incentive — valuation boundary.** Incentive value is state-dependent. Studies should distinguish cue value, outcome value, and actual behavior.
+6. **Instinctive motivation — developmental boundary.** Evidence for innate predisposition does not establish fixed behavior. Developmental and environmental moderation must be considered.
+7. **Drive-reduction theory — historical boundary.** The theory remains useful historically and for some regulatory phenomena, but its universal claim is not sufficient for contemporary motivation science.
+8. **Arousal theory — operational boundary.** Arousal must be measured explicitly. Physiological activation and subjective alertness should not be treated as identical.
+9. **Incentive theory — learning boundary.** Incentive models make strong predictions when cue-outcome learning, revaluation, and expected value can be measured directly.
+10. **Need-based theories — comparative boundary.** Different need theories should be tested on their own predictions. Agreement on the word “need” does not establish theoretical equivalence.
+11. **Goal — construct boundary.** Goal measurement should identify the target state, not merely a behavior. Behavioral frequency alone cannot establish what goal the person holds.
+12. **Goal representation — cognitive boundary.** Representation can be studied through reports, planning behavior, memory accessibility, and task performance. No single method reveals every feature.
+13. **Goal selection — choice boundary.** Selection reflects value, expectancy, urgency, and opportunity. Observed choice does not prove which variable dominated.
+14. **Goal activation — accessibility boundary.** Activation can be conscious or implicit. Priming and cueing evidence should be interpreted with attention to task specificity and replication.
+15. **Goal commitment — longitudinal boundary.** Commitment is better assessed across time than from one statement. Behavior can persist for reasons other than commitment.
+16. **Goal pursuit — process boundary.** Pursuit should be modeled as a sequence rather than one outcome. Initiation, execution, monitoring, and disengagement can fail independently.
+17. **Goal monitoring — measurement boundary.** Monitoring is only as good as the indicator. Proxy measures can produce systematic error even when recorded precisely.
+18. **Goal progress — metric boundary.** Objective change and perceived progress should be measured separately. They can diverge and have different predictive value.
+19. **Goal standard — criterion boundary.** Standards must be identified explicitly. Changing standards can be adaptive revision or self-protective distortion.
+20. **Goal conflict — inference boundary.** Conflict should not be inferred solely from inaction. Competing goals require evidence that incompatible priorities are active.
+21. **Goal shielding — trade-off boundary.** Shielding can improve concentration while reducing sensitivity to corrective information. Studies should measure both benefits and costs.
+22. **Goal substitution — function boundary.** Substitution is adaptive only if the replacement preserves the relevant function. Proxy pursuit can look like progress while changing the actual target.
+23. **Goal disengagement — adaptation boundary.** Disengagement should be evaluated relative to attainability and value. Stopping is not inherently maladaptive.
+24. **Goal reengagement — transition boundary.** Reengagement requires renewed commitment and a viable route. Repetition of an old failed strategy is not evidence of adaptive reengagement.
+25. **Goal gradient — mechanism boundary.** Increased effort near completion can arise from several mechanisms. Evidence must distinguish proximity effects from deadlines and rising urgency.
+26. **Intrinsic motivation — measurement boundary.** Enjoyment, interest, perceived choice, and persistence are related but distinct. Behavioral persistence alone cannot prove intrinsic motivation.
+27. **Extrinsic motivation — regulation boundary.** External consequence and perceived control are separate dimensions. Measurement should identify the person's reason for action.
+28. **Incentive motivation — anticipation boundary.** Expected outcomes can be studied through choice and effort before reward receipt. Outcome experience should not be substituted for anticipation.
+29. **Approach motivation — directional boundary.** Approach is a direction of action tendency, not a global personality label. Measures should identify the relevant target.
+30. **Avoidance motivation — threat boundary.** Avoidance must be interpreted relative to actual and perceived threat. Protective avoidance and maladaptive avoidance are not equivalent.
+31. **Achievement motivation — domain boundary.** Achievement motives are task- and standard-specific. One high-performance episode cannot establish a global motive.
+32. **Affiliation motivation — social boundary.** Social behavior is an imperfect proxy for affiliation motivation because obligation, role, and avoidance can produce similar behavior.
+33. **Power motivation — influence boundary.** Desire for influence and actual influence require separate measurement. Social position can create behavior without a strong motive.
+34. **Curiosity — information boundary.** Curiosity is best studied through information seeking, uncertainty, and knowledge gaps rather than novelty alone.
+35. **Exploration — search boundary.** Exploration should be distinguished from random activity by its search function. Measures should capture uncertainty about the value of available options.
+36. **Competence — level boundary.** Actual skill, perceived capability, and need satisfaction are different outcomes. Studies should specify which one is being measured.
+37. **Autonomy — interpretation boundary.** Choice count is not a sufficient measure of autonomy. Volition and self-endorsement are central.
+38. **Relatedness — subjective boundary.** Social contact frequency is not a direct measure of meaningful connection. Perceived belonging and mutuality matter.
+39. **Need for achievement — motive boundary.** Stable motive measures should be separated from current achievement goals and performance outcomes.
+40. **Need for affiliation — trait-state boundary.** A stable affiliation motive can coexist with temporary withdrawal. Measurement should distinguish tendency from current behavior.
+41. **Need for power — opportunity boundary.** Actual authority can confound behavioral measures. Motive assessment should account for available opportunities to influence.
+42. **Self-determination theory — model boundary.** Evidence should be attached to specific SDT propositions, not to the label as a whole. Different subtheories make different predictions.
+43. **Expectancy-value theory — component boundary.** Expectancy and value should be measured separately. Their interaction can be more informative than either alone.
+44. **Control-value processes — appraisal boundary.** Perceived control and subjective value are not objective control and objective value. The model concerns psychological appraisal.
+45. **Regulatory focus — context boundary.** Promotion and prevention can be induced by context. Trait-like measures should not be assumed to be permanent.
+46. **Approach–avoidance regulation — conflict boundary.** Mixed motives require measures that can detect simultaneous attraction and threat rather than forcing a single category.
+47. **Hunger — physiology boundary.** Subjective hunger and physiological energy state can diverge. Both should be distinguished in research.
+48. **Appetite — cue boundary.** Appetite can be strongly influenced by sensory and learned cues. It should not be used as a direct proxy for energy deficit.
+49. **Satiety — temporal boundary.** Satiety unfolds across time and depends on multiple signals. One immediate report may not capture the full process.
+50. **Thirst — regulation boundary.** Thirst includes anticipatory and corrective processes. Subjective thirst is one part of fluid regulation.
+51. **Sexual motivation — multidimensional boundary.** Desire, arousal, behavior, attraction, and relationship context are separable. Research should not use one as a universal proxy for the others.
+52. **Sexual desire — subjective boundary.** Desire is a subjective motivational state. Physiological response and behavior can diverge from it.
+53. **Sexuality — multidomain boundary.** Attraction, identity, behavior, and meaning should be measured separately when precision is required.
+54. **Sexual behavior — inference boundary.** Behavior alone does not reveal orientation, identity, or motive. Context is necessary.
+55. **Sexual orientation — stability boundary.** Orientation concerns enduring patterns of attraction and should not be inferred from isolated behavior.
+56. **Reward — definition boundary.** Studies should define whether reward means pleasantness, value, reinforcement, or another operational construct.
+57. **Reward sensitivity — task boundary.** Sensitivity estimates depend on task design. One reward response should not be generalized to a global trait.
+58. **Reward prediction — expectation boundary.** Prediction is an anticipated outcome estimate. It should be separated from the outcome and from prediction error.
+59. **Reward prediction error — computational boundary.** Prediction error is model-dependent and should not be interpreted as a direct measure of one subjective emotion.
+60. **Self-regulation — process boundary.** Self-regulation includes multiple stages and cannot be represented by one inhibition task.
+61. **Self-efficacy — belief boundary.** Self-efficacy is perceived capability, not objective skill. Calibration matters.
+62. **Self-control — conflict boundary.** Self-control should be measured in relation to a competing goal or tendency rather than as generic “strength.”
+63. **Delay of gratification — context boundary.** Waiting behavior depends on trust, reward structure, delay, and environment. Cross-context generalization requires evidence.
+64. **Impulse control — adaptive boundary.** Rapid action is not always harmful. The relevant standard is goal compatibility.
+65. **Motivation regulation — strategy boundary.** Strategy effectiveness varies by person and task. No single motivational strategy should be treated as universal.
+66. **Effort — allocation boundary.** Effort should be inferred from resource investment, not from outcome alone. High effort can produce low performance under poor strategy.
+67. **Persistence — continuation boundary.** Persistence should be evaluated alongside goal attainability and value. More persistence is not automatically better.
+68. **Persistence failure — mechanism boundary.** Stopping can reflect changed value, expectancy, cost, conflict, or opportunity. Mechanism must be measured.
+69. **Implementation intentions — execution boundary.** Plans help only when cues are noticed and responses are feasible. Planning is not equivalent to execution.
+70. **Action orientation — individual-difference boundary.** Action orientation describes tendencies under particular conditions, not a universal behavioral advantage.
+71. **State orientation — deliberation boundary.** Prolonged reflection can be adaptive when uncertainty is high. It becomes problematic when action is clearly required and feasible.
+72. **Procrastination — definition boundary.** Delay becomes procrastination only when it is unnecessary relative to the person's intended timing and anticipated consequences.
+73. **Motivation crowding — outcome boundary.** Studies should distinguish immediate behavior change from changes in intrinsic or autonomous motivation.
+74. **Ego-depletion/resource models — evidence boundary.** Historical influence does not equal current certainty. Generalized depletion claims require careful interpretation of replication and meta-analytic evidence.
+75. **Motivation and context — interaction boundary.** Context should be specified as a moderator, trigger, constraint, or opportunity rather than used as an unexplained residual.
+
+### Mechanism maps and cross-links
+
+1. **Motivation.** Mechanism map: internal state, learned value, active goals, expected outcomes, and context jointly alter action priority. The useful question is which component changed when behavior changed. A reduction in action can arise from reduced value, reduced expectancy, increased cost, stronger competing goals, or reduced opportunity. The construct therefore requires decomposition rather than one scalar score.
+2. **Motive.** Mechanism map: recurring motive -> preferential valuation -> goal selection -> repeated behavioral pattern. Context determines expression. The same motive can produce different goals, and the same behavior can arise from different motives. This makes motive inference a longitudinal problem rather than a one-event classification.
+3. **Need.** Mechanism map: condition important to functioning -> satisfaction/frustration state -> motivational consequences -> behavior or adaptation. The mechanism differs for biological and psychological needs. Evidence must show more than preference; it must establish consequences linked to the proposed need.
+4. **Drive.** Mechanism map: internal regulatory deviation -> motivational pressure -> action tendency -> corrective behavior -> altered internal state. Incentives and learning shape the route. Modern regulation can be anticipatory, so correction does not require severe deficit.
+5. **Incentive.** Mechanism map: cue or outcome -> learned value -> anticipated consequence -> attention/effort/choice. Current state can amplify or reduce value. Cue value can persist even when outcome value changes.
+6. **Instinctive motivation.** Mechanism map: inherited predisposition -> sensitivity or prepared response -> developmental expression -> context-dependent behavior. Learning modifies expression. Innateness should never be equated with inevitability.
+7. **Drive-reduction theory.** Mechanism map: deprivation -> drive -> response -> reduction -> learning. The model is incomplete for non-deficit motives. Its historical importance lies in connecting physiology, motivation, and reinforcement.
+8. **Arousal theory.** Mechanism map: activation state -> subjective/task interpretation -> approach or withdrawal -> performance or exploration. Optimal activation varies by task and person. “Moderate arousal” is not a universal fixed rule.
+9. **Incentive theory.** Mechanism map: anticipated outcome -> expected value -> approach/effort -> feedback -> updated expectation. The theory is especially informative when cue learning and revaluation can be tested.
+10. **Need-based theories.** Mechanism map: proposed need -> satisfaction/frustration -> motivational consequences. Different theories specify different needs and mechanisms. They should be compared by predictions rather than by terminology.
+11. **Goal.** Mechanism map: desired state -> activation -> action selection -> feedback -> adjustment. A goal can remain represented while inactive. Goals are control structures, not merely wishes.
+12. **Goal representation.** Mechanism map: target + standard + means + timing + constraints -> actionable representation. Representation quality affects monitoring and strategy. Higher-order meaning can preserve flexibility.
+13. **Goal selection.** Mechanism map: candidate goals -> value/expectancy/cost -> priority -> activation. Social cues and urgency can change selection. Selection remains revisable.
+14. **Goal activation.** Mechanism map: cue or deliberate intention -> accessibility -> attention/action bias. Activation can occur without conscious awareness. Holding a goal does not guarantee current activation.
+15. **Goal commitment.** Mechanism map: value + identity + expectancy + obligation -> sustained priority. Commitment can weaken after new evidence. Commitment to a goal is not commitment to one method.
+16. **Goal pursuit.** Mechanism map: initiation -> execution -> monitoring -> feedback -> strategy adjustment. Pursuit is dynamic and can terminate in attainment, substitution, or disengagement.
+17. **Goal monitoring.** Mechanism map: current-state information -> comparison with standard -> interpretation -> control decision. Monitoring fails when indicators are invalid or biased.
+18. **Goal progress.** Mechanism map: action -> state change -> perceived/observed progress -> updated expectancy. Progress can be nonlinear and can differ objectively from subjective experience.
+19. **Goal standard.** Mechanism map: criterion -> comparison -> evaluation -> action adjustment. Standards can be internal or social and can change adaptively or defensively.
+20. **Goal conflict.** Mechanism map: incompatible active goals -> resource competition -> prioritization/sequencing/substitution/disengagement. Conflict is not proven by inaction alone.
+21. **Goal shielding.** Mechanism map: priority goal -> reduced access to competing goals -> sustained attention. The same process can impair sensitivity to corrective information.
+22. **Goal substitution.** Mechanism map: blocked route -> identification of function -> alternative route -> preserved higher-order goal. Proxy substitution becomes maladaptive when the proxy replaces the true target.
+23. **Goal disengagement.** Mechanism map: reduced value/feasibility -> lowered commitment -> reduced effort/accessibility -> resource release. Emotional cost may persist after behavioral disengagement.
+24. **Goal reengagement.** Mechanism map: renewed value/opportunity -> revised expectancy -> restored commitment -> new pursuit. Reengagement can incorporate lessons from prior failure.
+25. **Goal gradient.** Mechanism map: perceived distance -> changing salience/value -> altered effort. Deadline and urgency mechanisms can mimic a gradient, so they must be separated.
+26. **Intrinsic motivation.** Mechanism map: activity interest -> attention/enjoyment -> voluntary engagement -> continued exploration. External rewards can alter interpretation without automatically eliminating intrinsic interest.
+27. **Extrinsic motivation.** Mechanism map: separable outcome -> instrumental reason -> action. The regulation can be controlled or internalized. “External” does not specify psychological quality.
+28. **Incentive motivation.** Mechanism map: anticipated reward -> cue valuation -> effort/choice -> outcome -> updated value. The anticipation stage can operate before conscious deliberation.
+29. **Approach motivation.** Mechanism map: valued state -> opportunity salience -> action tendency -> pursuit. Approach can be planned or impulsive; direction does not specify control quality.
+30. **Avoidance motivation.** Mechanism map: threat/cost representation -> prevention or escape -> relief/safety -> learning. Relief can reinforce future avoidance.
+31. **Achievement motivation.** Mechanism map: competence standard -> challenge selection -> effort -> performance feedback -> interpretation -> persistence or revision. The meaning of failure is central.
+32. **Affiliation motivation.** Mechanism map: connection value -> social cue sensitivity -> approach/withdrawal depending on expectancy and safety. Affiliation can remain strong even when behavior is inhibited.
+33. **Power motivation.** Mechanism map: influence value -> opportunity detection -> strategy for impact -> social feedback. Institutional role strongly shapes expression.
+34. **Curiosity.** Mechanism map: information gap -> uncertainty salience -> information seeking -> knowledge update -> new questions. Curiosity can therefore generate recursive learning.
+35. **Exploration.** Mechanism map: uncertainty about option value -> search -> sampling -> feedback -> exploitation or further exploration. Search has opportunity costs.
+36. **Competence.** Mechanism map: challenge -> action -> feedback -> perceived/actual effectiveness -> future engagement. Objective skill and subjective competence can diverge.
+37. **Autonomy.** Mechanism map: perceived choice/endorsement -> ownership of action -> autonomous regulation. External structure can support autonomy when it provides meaningful rationale rather than controlling pressure.
+38. **Relatedness.** Mechanism map: acceptance/connection -> belonging -> motivational security -> engagement. Social quantity is not the mechanism.
+39. **Need for achievement.** Mechanism map: enduring accomplishment concern -> preference for competence-relevant goals -> feedback sensitivity. Context determines expression.
+40. **Need for affiliation.** Mechanism map: enduring connection concern -> social goal value -> approach or avoidance depending on expected acceptance. Fear can block expression without removing the motive.
+41. **Need for power.** Mechanism map: enduring influence concern -> opportunity detection -> impact-seeking behavior. Actual authority moderates expression.
+42. **Self-determination theory.** Mechanism map: social context -> need satisfaction/frustration -> motivational regulation -> engagement/well-being. Different subtheories address different links.
+43. **Expectancy-value theory.** Mechanism map: expected success + subjective value - costs -> motivational choice. Components can change independently.
+44. **Control-value processes.** Mechanism map: perceived control + subjective value -> emotion/motivation -> engagement or withdrawal. The appraisal level is essential.
+45. **Regulatory focus.** Mechanism map: promotion/prevention orientation -> standards and strategies -> gain/nonloss monitoring -> response. Focus can shift with context.
+46. **Approach–avoidance regulation.** Mechanism map: desired outcome + feared consequence -> competing tendencies -> valuation/control -> action or ambivalence.
+47. **Hunger.** Mechanism map: energy regulation -> physiological and subjective signals -> food motivation -> intake -> altered state. Learned cues modify the pathway.
+48. **Appetite.** Mechanism map: sensory cue/context -> food desire -> approach/eating tendency. Appetite can be dissociated from metabolic need.
+49. **Satiety.** Mechanism map: intake and internal signals -> reduced eating motivation -> interval until renewed motivation. Multiple time scales are involved.
+50. **Thirst.** Mechanism map: fluid-balance signals -> thirst -> drinking -> restored regulation. Anticipatory processes can precede severe deficit.
+51. **Sexual motivation.** Mechanism map: biological, relational, cognitive, and contextual inputs -> sexual motivational state -> choice/behavior under personal and ethical constraints. No single input determines outcome.
+52. **Sexual desire.** Mechanism map: subjective attraction/interest -> motivational readiness -> possible behavior. Desire can exist without behavior.
+53. **Sexuality.** Mechanism map: attraction + identity + behavior + relationships + meaning. These dimensions interact but should not be collapsed.
+54. **Sexual behavior.** Mechanism map: motivation, relationship, opportunity, values, and context -> observable action. Behavior alone does not identify motive.
+55. **Sexual orientation.** Mechanism map: enduring attraction pattern -> identity/relationship meaning. It is not inferred from one behavior.
+56. **Reward.** Mechanism map: outcome -> experienced value/reinforcement under a specified framework -> future motivation or behavior. Definition must be explicit.
+57. **Reward sensitivity.** Mechanism map: reward cue/outcome -> responsiveness -> attention/choice/effort. Sensitivity varies by state and task.
+58. **Reward prediction.** Mechanism map: prior experience + context -> expected outcome -> anticipatory action. Prediction is continuously updated.
+59. **Reward prediction error.** Mechanism map: expected outcome vs obtained outcome -> discrepancy -> learning update. The computational quantity is distinct from emotion.
+60. **Self-regulation.** Mechanism map: goal/standard -> current state -> comparison -> strategy -> action -> feedback. The loop can change the goal as well as the behavior.
+61. **Self-efficacy.** Mechanism map: capability belief -> goal choice/effort/persistence -> performance feedback -> belief update. Calibration matters.
+62. **Self-control.** Mechanism map: competing immediate and higher-order tendencies -> control strategy -> selected behavior. Control can be preventive rather than reactive.
+63. **Delay of gratification.** Mechanism map: immediate vs delayed outcomes -> temporal valuation + trust + context -> waiting or choice. The same person can perform differently under different conditions.
+64. **Impulse control.** Mechanism map: rapid action tendency -> detection -> inhibition/redirection/environmental change -> outcome. The target must be specified.
+65. **Motivation regulation.** Mechanism map: observed motivational state -> strategy selection -> altered value/context/attention -> improved readiness for action. Regulation can target motivation before behavior.
+66. **Effort.** Mechanism map: expected benefit and cost -> resource allocation -> action intensity/duration. Effort can rise without progress when strategy is poor.
+67. **Persistence.** Mechanism map: goal value + expectancy + progress -> continued investment. Persistent pursuit must remain responsive to evidence.
+68. **Persistence failure.** Mechanism map: changed value/expectancy/cost/conflict/opportunity -> reduced investment. No single cause should be assumed.
+69. **Implementation intentions.** Mechanism map: specified cue -> preselected response -> reduced deliberation -> action. The plan depends on cue recognition and feasibility.
+70. **Action orientation.** Mechanism map: intention -> reduced deliberative delay -> initiation. Action orientation is context-sensitive and not universally beneficial.
+71. **State orientation.** Mechanism map: current-state focus -> continued deliberation/rumination -> delayed initiation in some contexts. Reflection can be adaptive when uncertainty is meaningful.
+72. **Procrastination.** Mechanism map: delayed goal + immediate alternative/relief -> postponement -> short-term relief -> future delay. Task structure can amplify or interrupt the loop.
+73. **Motivation crowding.** Mechanism map: external intervention -> changed interpretation/incentive -> changed behavior and possibly changed autonomous motivation. Outcome depends on meaning and contingency.
+74. **Ego-depletion/resource models.** Mechanism map: demanding task -> proposed reduced control -> later performance. Current evidence requires caution about a generalized depletion mechanism.
+75. **Motivation and context.** Mechanism map: person-level tendencies x environmental affordances/cues/constraints -> expressed motivation and behavior. Neither person nor context alone is sufficient.
+
+### High-resolution missing-stone analysis
+
+### I1. From motive to motive expression
+A motive does not directly produce behavior. Expression requires a context that provides a relevant opportunity, a goal that translates the motive into a concrete target, an expectation that action can work, and an available behavioral route. This explains why a person can possess a strong recurring motive without displaying it continuously.
+
+Motive expression can also be inhibited by competing goals. A strong affiliation motive may not produce social behavior during an urgent work task. A strong achievement motive may not produce extra effort when health or relationship goals take priority. The absence of expression therefore cannot be interpreted as absence of motive.
+
+The most informative evidence for enduring motive is repeated pattern across contexts combined with measures of what outcomes the person values. Even then, context remains necessary for interpretation.
+
+### I2. Need satisfaction versus need salience
+Need satisfaction and need salience are not the same. A need can be important without being consciously salient, and a person can focus on a need even when it is already partly satisfied because environmental cues continue to activate it.
+
+This distinction matters for motivational measurement. Subjective urgency may reflect attention to a need rather than objective deprivation. Conversely, physiological or psychological need satisfaction may occur without a strong conscious feeling.
+
+A complete account therefore separates the underlying condition, its subjective representation, its motivational salience, and the behavior used to respond.
+
+### I3. Incentive cues and outcome revaluation
+A learned cue can become motivationally significant because it predicts an outcome. Later, the outcome may become less valuable while the cue remains attention-grabbing. This creates a distinction between learned cue significance and current outcome valuation.
+
+Revaluation tests are therefore important because they ask whether behavior changes when the value of the outcome changes. If cue-driven behavior remains strong, additional learning or habitual mechanisms may be involved.
+
+This distinction prevents reward cues from being treated as direct measures of current preference.
+
+### I4. Goal hierarchy and means-end flexibility
+Goals are often nested. A higher-order goal gives meaning to several lower-level objectives, and those objectives can be pursued through alternative strategies.
+
+This hierarchy permits flexibility. If one route fails, a person can substitute another while preserving the broader aim. Problems arise when the person becomes attached to a measurable subgoal and forgets the higher-order purpose.
+
+A useful analysis therefore asks at what level the goal is defined and whether the behavior being measured is an end or a means.
+
+### I5. Goal conflict and identity
+Goal conflict can be intensified when competing goals are tied to different identities. A person may simultaneously represent themselves as a high-performing worker, supportive partner, healthy individual, and independent person.
+
+The conflict is not simply between activities. It can involve incompatible standards for what a good self should do. This can make prioritization emotionally significant.
+
+Identity does not eliminate ordinary resource constraints. It adds meaning to them and can alter which cost is experienced as acceptable.
+
+### I6. Monitoring and uncertainty
+Monitoring becomes harder when outcomes are delayed, noisy, or multidimensional. A person may not know whether current action is producing progress.
+
+Under uncertainty, people can rely on proxies, social feedback, prior beliefs, or short-term outcomes. These can be useful but can also create systematic errors.
+
+Good regulation therefore requires not only monitoring but knowing how trustworthy the available feedback is.
+
+### I7. Progress and emotional interpretation
+Progress is motivationally important partly because it changes the meaning of the future. Visible improvement can increase expectancy and reduce perceived distance, while stagnation can increase uncertainty.
+
+Emotional reactions to progress are not uniform. Success can produce pride, relief, or reduced urgency; failure can produce frustration, information seeking, or disengagement. The interpretation depends on goals and identity.
+
+### I8. Disengagement without devaluation
+A person can disengage from a goal without deciding that the goal was worthless. Circumstances can make pursuit infeasible even when the desired state remains valued.
+
+This distinction is important for understanding grief-like reactions to abandoned goals, as well as later reengagement. Emotional attachment can persist after behavioral disengagement.
+
+### I9. Reengagement after failure
+Reengagement can be adaptive when it incorporates new information. The person may change the strategy, reduce unnecessary cost, seek assistance, or revise the timeline.
+
+Simply repeating the same behavior under unchanged conditions is not evidence of learning. Effective reengagement requires updating the pursuit system.
+
+### I10. Intrinsic motivation under structure
+Structure does not automatically undermine intrinsic motivation. Clear expectations can sometimes reduce uncertainty and make competence experiences easier, while controlling surveillance can alter the meaning of the same structure.
+
+The key distinction is between structure that supports effective action and control that replaces self-endorsement. Both can be externally imposed but have different psychological functions.
+
+### I11. Extrinsic motivation and internalization
+External reasons can become increasingly integrated with personal values. A behavior may begin because of external consequences and later become personally endorsed.
+
+Internalization is therefore a process rather than a binary category. The same behavior can occupy different regulatory positions at different times.
+
+This also explains why “extrinsic” should not be used as a synonym for bad or low-quality motivation.
+
+### I12. Achievement and standards
+Achievement motivation depends partly on what counts as success. A person can define success as mastery, improvement, excellence, outperforming others, or avoiding failure.
+
+Different standards alter task choice and response to feedback. A mastery standard makes learning central, while a comparison standard makes relative performance more important.
+
+Therefore achievement behavior should always be interpreted relative to the standard being pursued.
+
+### I13. Affiliation and rejection
+Affiliation motivation creates a desire for connection, but rejection can alter the behavioral route. Some people increase social seeking; others withdraw to protect themselves from further rejection.
+
+This demonstrates that motive and behavior can diverge. The motivational value of connection can remain high while approach behavior becomes inhibited.
+
+Social context and expectancy are therefore essential for interpreting affiliation behavior.
+
+### I14. Power and responsibility
+Power motivation can be organized around impact and responsibility rather than dominance. A person may seek authority because they want to influence outcomes or protect a group.
+
+The same structural opportunity can attract people for different reasons. Formal authority therefore cannot identify motive without additional evidence.
+
+Power should be analyzed together with goals, values, social norms, and the means used to exercise influence.
+
+### I15. Curiosity and knowledge
+Curiosity depends partly on what a person already knows. Prior knowledge can reveal precise gaps and make answers meaningful.
+
+Too little knowledge can make a question incomprehensible; too much certainty can reduce the perceived information gap. Curiosity therefore often depends on an intermediate relationship between known and unknown information.
+
+This helps explain why education can generate more questions rather than simply eliminating uncertainty.
+
+### I16. Exploration and risk
+Exploration involves uncertainty, so it often carries opportunity cost or risk. The value of exploration depends on what can be learned and what is sacrificed while searching.
+
+People should therefore not be described as globally high or low explorers without considering domain and context. Someone may explore ideas extensively while preferring familiar options in physical environments.
+
+### I17. Competence and feedback calibration
+Competence develops when feedback is informative enough to connect action with outcome. Feedback that is vague, delayed, or excessively evaluative can provide less useful information.
+
+Perceived competence depends partly on interpretation. Supportive feedback can communicate both standards and attainability, while humiliating feedback can make performance evidence threatening.
+
+### I18. Autonomy and constraint
+Autonomy exists within constraints. A person can autonomously endorse a difficult obligation even when alternatives are limited.
+
+The relevant question is not whether the environment permits unlimited choice but whether the person's action is experienced as meaningfully self-endorsed.
+
+This distinction prevents autonomy from being confused with unrestricted freedom.
+
+### I19. Relatedness and secure exploration
+Relatedness can support exploration by providing a social base from which uncertainty becomes more tolerable. Supportive relationships can make experimentation less costly.
+
+However, relatedness is not simply dependence. A person can feel connected while acting independently.
+
+The motivational function is meaningful belonging, not constant social contact.
+
+### I20. Biological motives and learning
+Biological motives demonstrate the interaction of physiology and learning. A bodily regulatory state can increase motivation, while learned preferences determine which specific behavior is selected.
+
+This explains why two people with similar physiological needs can make different choices. Their histories, environments, and available incentives differ.
+
+### I21. Reward prediction and surprise
+Prediction error is informative because surprise signals that the current model of the environment needs updating. The psychological importance of the error depends on what is being learned.
+
+Repeated predictable rewards produce less prediction error even if the reward remains valuable. This is why novelty and uncertainty can change motivational response without changing the objective outcome.
+
+### I22. Self-efficacy and calibration
+Self-efficacy is most useful when reasonably calibrated to actual capability. Overconfidence can produce poor strategy selection, while underconfidence can prevent useful attempts.
+
+Feedback allows beliefs to update. The goal is not maximum confidence but an accurate enough representation of capability to support appropriate action.
+
+### I23. Self-control and environment
+Self-control is often easier when the environment reduces conflict. Removing distracting cues, preparing responses, or choosing supportive contexts can prevent a difficult decision from becoming necessary.
+
+This means environmental design is part of self-regulation rather than evidence that internal control is absent.
+
+### I24. Persistence and stopping rules
+Adaptive persistence requires implicit or explicit stopping rules. Without them, commitment can become rigid continuation even when evidence changes.
+
+A stopping rule can be based on time, cost, information, progress, or feasibility. Such rules allow persistence to coexist with strategic disengagement.
+
+### I25. Procrastination and immediate relief
+A central feature of procrastination is that delay can produce immediate psychological relief even when it worsens the long-term outcome. This short-term consequence can strengthen the tendency to delay.
+
+Breaking the cycle often requires reducing the immediate cost of starting, changing the environment, clarifying the next action, or creating a more accessible reward for initiation.
+
+### I26. Motivation crowding and meaning
+Crowding effects depend on what an intervention communicates. A reward can signal competence, pressure, surveillance, fairness, or recognition.
+
+Therefore the same objective reward can have different effects in different contexts. The psychological meaning of the contingency is part of the mechanism.
+
+### I27. Resource models and evidence
+The historical appeal of resource models came from a simple explanation for fluctuations in control. Current evidence does not justify assuming one universal finite resource without qualification.
+
+Fatigue, motivation, expectations, task demands, and opportunity costs can all produce reduced subsequent performance. A modern account should therefore compare competing mechanisms.
+
+### I28. Motivation as a dynamic system
+Motivational variables influence one another over time. Goals change attention; attention changes information; information changes expectancy; expectancy changes effort; effort changes outcomes; outcomes change future value.
+
+This creates feedback rather than a simple linear chain.
+
+### I29. Why “more motivation” is often the wrong intervention
+If the problem is low skill, more motivation cannot substitute for learning. If the problem is conflicting goals, more motivation toward one goal may increase conflict. If the problem is poor strategy, more effort can increase waste.
+
+Effective intervention therefore requires identifying the failing component rather than increasing motivation indiscriminately.
+
+### I30. Final high-resolution principle
+The chapter's deepest structure is a network of distinct but interacting processes. Motivation provides direction and energy; goals provide targets and standards; incentives and rewards alter value; biological systems provide regulatory pressures; and self-regulation coordinates action over time. Scientific precision depends on knowing which node and which relationship is being described.
+
+### Final retrieval-level distinctions
+
+### J1. What does motivation explain?
+Motivation explains why some outcomes, states, or actions become more prioritized than others. It does not by itself explain skill, ability, opportunity, or every aspect of cognition. A complete explanation identifies the motivational process and then connects it to the mechanisms that translate motivation into behavior.
+
+### J2. What does motivation not explain?
+Motivation cannot substitute for an account of competence, environmental access, physical constraints, or information. A highly motivated person can fail because the required action is impossible or because the chosen strategy is ineffective.
+
+### J3. Why separate motive and goal?
+A motive is a recurring motivational tendency; a goal is a represented target. Motives can influence which goals become attractive, while goals provide concrete direction. One motive can generate many goals, and one goal can serve several motives.
+
+### J4. Why separate need and goal?
+A need describes a condition that is important within a theoretical system. A goal specifies a desired or avoided state. The same goal can serve multiple needs, and a need can be satisfied through many goals.
+
+### J5. Why separate incentive and reward?
+An incentive concerns motivational value that can pull behavior toward an outcome or cue. Reward can refer to a valued or reinforcing consequence. Incentive effects can occur before reward receipt, while reinforcement concerns subsequent behavioral change.
+
+### J6. Why separate reward and prediction?
+Reward is an outcome or value; prediction is an expectation about what will occur. Expectations can motivate behavior before the outcome arrives and can be wrong.
+
+### J7. Why separate prediction error?
+Prediction error is the discrepancy between expected and obtained outcome. It is a learning signal rather than a synonym for pleasure, disappointment, or reward.
+
+### J8. Why separate approach and avoidance?
+Approach moves toward desired states; avoidance prevents or escapes undesired states. The same goal can involve both, so they are directional properties rather than complete motive categories.
+
+### J9. Why separate achievement, affiliation, and power?
+They identify different classes of motivational content. Achievement concerns competence and accomplishment, affiliation concerns connection, and power concerns influence. One behavior can serve more than one.
+
+### J10. Why separate curiosity and exploration?
+Curiosity is a motivational relation to the unknown; exploration is a search behavior. Curiosity can occur without exploration, and exploration can occur instrumentally without strong curiosity.
+
+### J11. Why separate competence and self-efficacy?
+Competence can refer to actual effectiveness or experienced effectiveness; self-efficacy specifically concerns perceived capability to execute actions. Belief and ability can diverge.
+
+### J12. Why separate autonomy and independence?
+Autonomy is self-endorsement. Independence is absence of reliance. A person can autonomously choose cooperation, dependence, or interdependence.
+
+### J13. Why separate relatedness and affiliation?
+Affiliation emphasizes motivation to connect; relatedness emphasizes the experienced quality of meaningful connection. Social contact can occur without relatedness.
+
+### J14. Why separate intrinsic and extrinsic motivation?
+Intrinsic motivation is grounded partly in the activity itself; extrinsic motivation is grounded in separable consequences. A behavior can contain both forms simultaneously.
+
+### J15. Why separate commitment and persistence?
+Commitment concerns the goal's motivational status. Persistence is continued behavior. Behavior can persist because of habit or pressure even when commitment is low.
+
+### J16. Why separate progress and effort?
+Effort is resource investment. Progress is movement toward the target. Effort without effective strategy can produce little progress.
+
+### J17. Why separate monitoring and control?
+Monitoring supplies information. Control uses information to alter behavior, attention, strategy, or goals. Accurate monitoring does not guarantee successful control.
+
+### J18. Why separate substitution and disengagement?
+Substitution changes the route while preserving the broader goal. Disengagement reduces investment in the goal itself. Confusing them obscures adaptive flexibility.
+
+### J19. Why separate disengagement and failure?
+Disengagement can be an intentional regulatory decision after information changes. Failure describes an outcome and does not reveal whether stopping was adaptive.
+
+### J20. Why is persistence not always better?
+Persistent pursuit consumes resources and can become maladaptive when the goal is impossible, excessively costly, or no longer valuable. Adaptive regulation includes stopping rules.
+
+### J21. Why is procrastination not simply low motivation?
+A person can strongly value a goal while repeatedly delaying it because immediate relief, distractions, fear, task ambiguity, or temporal discounting dominate action.
+
+### J22. Why is self-control not just willpower?
+Self-control includes environmental restructuring, attention management, planning, goal shielding, and strategy choice. Effective regulation often reduces the need for momentary inhibition.
+
+### J23. Why is ego depletion qualified?
+Resource models were influential, but evidence for a generalized finite self-control resource is uncertain. Fatigue and performance changes can arise through several mechanisms.
+
+### J24. Why can external rewards have different effects?
+Rewards change not only outcome value but potentially perceived autonomy, competence, social meaning, and attention. The effect depends on how the contingency is experienced.
+
+### J25. Why does context matter?
+Context changes cues, opportunities, constraints, standards, social meaning, and competing goals. The same person can therefore behave differently without a simple change in underlying personality.
+
+### J26. Why does culture matter?
+Culture influences the meaning and expression of achievement, affiliation, power, autonomy, obligation, and social belonging. Universal processes can therefore have culturally variable behavioral forms.
+
+### J27. Why does development matter?
+Motivational systems become increasingly organized through learning, language, future representation, social experience, and self-regulation. Development changes both what matters and how goals can be pursued.
+
+### J28. Why is measurement difficult?
+Motivation is partly internal and partly inferred from behavior. Self-report, behavior, physiology, and computational estimates capture different levels. Construct validity requires specifying which level is being measured.
+
+### J29. What is the main evidence rule?
+Theories, associations, causal effects, and interpretations must remain distinct. A named theory is not automatically a fact, and a correlation does not by itself establish mechanism.
+
+### J30. Final retrieval rule
+When retrieving any Topic in this chapter, the system should preserve four things: the construct's exact definition, its mechanism, its boundaries, and its relationship to neighboring constructs. Losing any one of these increases the risk of conceptual duplication or false inference.
+
+### Final integration guardrails
+
+### K1. Multi-level explanation
+Motivation can be explained at biological, cognitive, psychological, social, and contextual levels. These explanations are complementary when they answer different questions. A biological condition can alter motivational pressure, while learning determines which action is selected.
+
+### K2. Time dependence
+Motivational states change with current conditions. Recent outcomes, active goals, deadlines, and social feedback can alter priorities without implying permanent personality change.
+
+### K3. Relational value
+Value depends partly on alternatives and opportunity cost. An outcome can become more attractive when alternatives disappear or less attractive when better options become available.
+
+### K4. Implicit processes
+Some motivational processes operate without a complete conscious explanation. Cues can activate goals and learned associations can alter attention and choice.
+
+### K5. Subjective reports
+Self-reported reasons are important evidence about conscious experience but should not automatically be treated as a complete causal account.
+
+### K6. Adopted goals
+Goals can arise through family, education, institutions, roles, culture, and relationships. An adopted goal can later become personally endorsed or remain externally controlled.
+
+### K7. Goal reorganization
+When priorities change, people can reorganize their goal hierarchy rather than simply increasing effort. Reorganization can reduce conflict and improve coherence.
+
+### K8. Feedback and revision
+Feedback can change both strategy and the status of the goal. New information can justify continuing, changing methods, revising standards, or ending pursuit.
+
+### K9. Motivation and learning
+Motivation influences what information is sampled and practiced. Learning then changes future expectations, skills, and value. The relationship is reciprocal.
+
+### K10. Context-sensitive reward
+Reward expectations depend on context. A cue can change meaning when the probability or value of its outcome changes.
+
+### K11. Anticipatory regulation
+Biological systems can prepare for expected internal changes before severe disruption occurs. This helps explain why motivated behavior can precede obvious deprivation.
+
+### K12. Distributed regulation
+Successful regulation can depend on routines, tools, social support, environmental design, and institutional structure. Regulation is not always an isolated internal act.
+
+### K13. Strategic effort
+Additional effort is not always the correct response to difficulty. A better strategy can produce more progress with fewer resources.
+
+### K14. Selective persistence
+Persistence is often domain-specific. A person can continue one goal while reducing investment in another. Global labels can hide this structure.
+
+### K15. Person by situation interaction
+Individual tendencies influence probabilities rather than guaranteeing behavior. The same tendency can produce different outcomes in supportive and demanding environments.
+
+### K16. Evidence uncertainty
+Mixed evidence should remain visible. The repository is more accurate when uncertainty is represented directly rather than converted into false certainty.
+
+### K17. Historical theory
+Older theories can remain useful for explaining the development of psychological science even when later evidence limits their broader claims. Historical importance and current empirical status are separate dimensions.
+
+### K18. Functional interpretation
+The same observable action can arise from different motivational systems. Interpretation therefore requires context, goals, incentives, and evidence.
+
+### K19. Behavioral flexibility
+The same motive can be expressed through multiple actions. Flexible means selection is expected when the environment changes.
+
+### K20. Measurement fit
+Every motivational claim should identify the measurement level: subjective experience, behavior, physiological state, choice, effort, or learning parameter. A measure should not be generalized beyond what it actually captures.
+
+### K21. Construct validity
+A motivational label is useful only when it can be distinguished from neighboring constructs. Definition, operationalization, and boundary conditions should align.
+
+### K22. Mechanism validity
+A reliable association does not automatically identify mechanism. Causal explanation requires appropriate design and consideration of alternative pathways.
+
+### K23. Developmental plasticity
+Motivational patterns can show continuity while changing through learning, role transitions, and environmental experience. Stability and plasticity are compatible.
+
+### K24. Cultural expression
+Motivational functions can be widespread while their behavioral expression varies across cultures. Universal claims should therefore be tested at the appropriate level.
+
+### K25. Goal hierarchy
+Higher-order goals organize lower-level goals and strategies. This hierarchy enables substitution but can also produce conflict when lower-level targets serve different purposes.
+
+### K26. Standard calibration
+A standard should be difficult enough to be informative but realistic enough to guide action. Standards that change without evidence can distort monitoring.
+
+### K27. Feedback quality
+Feedback is useful when it is timely, valid, interpretable, and connected to controllable action. Poor feedback can produce unnecessary persistence or abandonment.
+
+### K28. Environmental opportunity
+Motivation cannot create unavailable opportunities. Psychological explanation should distinguish low action from low opportunity.
+
+### K29. Ethical boundary
+Motivational science describes how people pursue outcomes. It does not by itself justify influencing another person's choices or overriding autonomy.
+
+### K30. Final architecture
+The chapter is best understood as a network. Motives and needs influence what becomes important; incentives and rewards influence valuation; goals specify targets; goal processes organize pursuit; biological systems regulate internal states; and self-regulation coordinates competing demands over time. Preserving these relationships prevents conceptual flattening.
+
+### Compact completeness audit
+
+### L1. Motivation and action
+Motivation changes the priority of outcomes and actions, but behavior additionally requires ability and opportunity. Therefore motivation should never be inferred from action alone. A person can strongly value an outcome and remain inactive because the route is unavailable, while another can act because of habit or obligation.
+
+### L2. Motive and context
+A recurring motive is expressed differently depending on context. The same achievement concern can produce learning in one setting and competition in another. Context does not erase the motive; it changes its available expression.
+
+### L3. Need and substitution
+If a need can be satisfied through several routes, attachment to one particular object should not automatically be treated as evidence that the object is itself a need. Need-level explanation should remain broader than one behavioral solution.
+
+### L4. Drive and incentive
+Drive-related pressure and incentive-related attraction can converge on the same behavior. They should nevertheless remain distinct because the same incentive can influence behavior when the internal state changes, and the same drive can be expressed through different incentives.
+
+### L5. Reward and reinforcement
+An outcome can be valuable without strengthening every behavior that precedes it. Reinforcement is a behavioral consequence relation; reward is a value-related construct. Keeping the distinction prevents circular explanation.
+
+### L6. Goal and motive
+A goal specifies the desired state. A motive helps explain why that state matters. The same motive can generate different goals when opportunities or roles change.
+
+### L7. Representation and activation
+A person can represent many goals without all being active simultaneously. Activation determines current influence; representation determines the stored or accessible structure.
+
+### L8. Selection and commitment
+Selection gives a goal current priority. Commitment supports maintenance across time. A selected goal can be revised without proving that commitment was absent.
+
+### L9. Pursuit and monitoring
+Pursuit changes the current state; monitoring determines whether the change is sufficient. They form a feedback loop but remain separate functions.
+
+### L10. Progress and standard
+Progress has meaning only relative to a standard. Without a reference condition, change cannot be classified as improvement or deterioration toward the goal.
+
+### L11. Conflict and shielding
+Conflict creates competition among goals. Shielding protects one goal from that competition. Shielding can therefore reduce conflict locally while creating a risk of ignoring important alternatives.
+
+### L12. Substitution and disengagement
+Substitution preserves a broader aim while changing the route. Disengagement changes the status of the aim itself. This distinction is central to adaptive flexibility.
+
+### L13. Gradient and urgency
+Greater effort near completion may reflect perceived proximity, deadline pressure, rising cost of delay, or increased reward salience. A goal-gradient explanation should not be assumed from timing alone.
+
+### L14. Intrinsic and extrinsic regulation
+An activity can be enjoyable and useful at the same time. Intrinsic and extrinsic reasons can coexist, and external consequences do not automatically determine the quality of motivation.
+
+### L15. Approach and avoidance
+Approach and avoidance can operate simultaneously. The person may seek a gain while preventing a loss. Mixed regulation is common rather than exceptional.
+
+### L16. Achievement and competence
+Achievement motivation concerns the value of accomplishment; competence concerns effectiveness or experienced capability. High achievement concern can exist with low skill, and high skill can exist without strong achievement motivation.
+
+### L17. Affiliation and relatedness
+Affiliation concerns motivational attraction to connection. Relatedness concerns meaningful experienced connection. A person can seek social contact without feeling connected.
+
+### L18. Power and influence
+Power motivation concerns valuing influence. Actual influence depends on role, resources, social structure, and behavior. Motive and capacity must therefore be separated.
+
+### L19. Curiosity and exploration
+Curiosity can initiate exploration, but exploration can also be instrumental. Information seeking should therefore be interpreted relative to the person's current goals and knowledge.
+
+### L20. Autonomy and obligation
+A person can autonomously endorse an obligation. Autonomy does not require absence of duty; it concerns whether the regulation is experienced as self-endorsed.
+
+### L21. Biological motives and learning
+Biological regulation creates motivational pressures, while learning determines preferences and routes. This interaction explains why similar internal states can lead to different behaviors.
+
+### L22. Reward prediction and surprise
+Prediction error is informative because it indicates that an expected outcome was inaccurate. Its function is updating, not simply producing positive or negative emotion.
+
+### L23. Self-efficacy and control
+Perceived capability can increase effort and persistence, but objective capability and environmental control remain separate. Belief can be calibrated through feedback.
+
+### L24. Persistence and disengagement
+Adaptive regulation requires both continuation and stopping. Persistence protects valuable goals; disengagement releases resources when pursuit is no longer justified.
+
+### L25. Final completeness test
+A complete motivational explanation should answer: What is valued? Which goal is active? What outcome is expected? What competing goals exist? What resources and opportunities are available? What feedback is being received? Which strategy is being used? What evidence would justify continuing, changing, or stopping? If these questions are left unresolved, the explanation may still be descriptive but is not yet mechanistically complete.
+
+This supplement records additional distinctions, definitions, relationships, evidence notes, and retrieval boundaries for the chapter. The canonical Topics remain the primary owners. The supplement is supporting chapter-level material and does not create additional owners.
+
+A complete knowledge architecture must distinguish a concept from its examples, a mechanism from its outcome, a theory from an observed finding, and a relationship from an independent construct. These distinctions reduce ambiguity during retrieval.
+
+The chapter also requires explicit separation of current states from enduring tendencies. A temporary change in motivation does not establish a permanent individual difference. Likewise, a recurring tendency does not determine behavior in every situation.
+
+Goal systems require separation of target, route, standard, progress, and outcome. A change in route can preserve a target. A change in standard can alter evaluation without changing the target. Progress can occur without completion, and completion can trigger a new target.
+
+Evidence should remain attached to the exact claim being made. A theory can organize observations without being established fact. An association can be reliable without identifying a causal pathway. A historical model can remain important even when later evidence narrows its claims.
+
+Measurement should always identify the level being measured. Subjective report, observed action, physiological state, choice, effort, and learning parameters are different forms of evidence. None should be silently substituted for another.
+
+Context should be specified rather than treated as a residual category. Relevant features can include cues, opportunities, constraints, social expectations, role demands, timing, and available alternatives.
+
+The final standard is conceptual precision. Every Topic should remain distinguishable from neighboring Topics, and every relationship should retain its direction and function. This protects the repository from collapsing many different psychological processes into one broad label.
+
+Definitions should remain precise. Mechanisms should explain change. Boundaries should prevent duplication. Relationships should preserve direction and scope. Evidence should retain uncertainty where uncertainty exists. Established findings should be stated directly. The chapter should distinguish current states from enduring tendencies, targets from routes, effort from progress, and value from availability. These distinctions make retrieval more accurate and reduce false inference. The supplements remain supporting chapter material and do not create new canonical owners.
