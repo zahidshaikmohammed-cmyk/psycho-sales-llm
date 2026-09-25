@@ -494,3 +494,500 @@ Emotional granularity, awareness, and regulation.
 - Similar arousal does not imply identical emotion.
 - Differentiation is shaped by experience and conceptual systems.
 
+
+---
+
+## 1.13.16 Appraisal
+
+## 1. Purpose
+Explain how people evaluate the significance of events for goals, needs, values, and coping possibilities.
+
+## 2. Definition
+Appraisal is the process by which an event or situation is evaluated for its relevance, meaning, implications, and personal significance.
+
+## 3. Core Understanding
+Appraisal is central to many accounts of emotion because events do not carry a complete emotional meaning independent of the person and context. An outcome may be appraised as beneficial, threatening, unfair, controllable, uncontrollable, expected, unexpected, or relevant to a valued goal. These evaluations can influence which emotion emerges and how strongly it is experienced.
+
+Appraisal does not require a slow, conscious verbal judgment. Some evaluations can be rapid, learned, and partly automatic. More deliberate reinterpretation can also alter an emotional response. Appraisal is therefore not synonymous with rational analysis. It refers to meaning-making processes that can be accurate, mistaken, incomplete, or revised.
+
+Different appraisal theories specify different appraisal dimensions and their combinations. There is substantial evidence that interpretations of significance are related to emotional responses, but no single fixed appraisal algorithm explains every emotion across people and contexts.
+
+## 4. Relationship to This Chapter
+Appraisal connects emotional stimuli with emotion generation and helps explain why the same event can produce different emotional responses.
+
+## 5. Boundaries
+### Owns
+Appraisal as evaluation of event significance in emotion.
+### Defers
+General judgment and decision-making to Chapter 1.10 and emotion generation to its dedicated Topic.
+
+## 6. Key Principles
+- Emotional significance depends partly on appraisal.
+- Appraisal can be rapid or deliberate.
+- Appraisal is not guaranteed to be accurate.
+
+---
+
+## 1.13.17 Emotion generation
+
+## 1. Purpose
+Explain how an emotional response comes into being and changes as processing unfolds.
+
+## 2. Definition
+Emotion generation is the set of processes through which an emotionally meaningful event or representation produces coordinated affective, cognitive, physiological, expressive, and action-related responses.
+
+## 3. Core Understanding
+Emotion generation is not adequately described as a single trigger followed by a fixed reaction. Perception, memory, appraisal, bodily state, learning, goals, and context can all contribute. A response may begin rapidly and later be modified as additional information arrives. The process can also be initiated by internal events such as remembering, imagining, or anticipating.
+
+Different theories place different components at the beginning of the process. Some emphasize bodily feedback, some simultaneous brain processes, some cognitive interpretation, and some construction from more basic affective and conceptual ingredients. These models should be distinguished from the empirical phenomenon they seek to explain.
+
+Emotion generation can also be interrupted or redirected. New information may reduce threat, a goal may suppress expression, or a competing action may become more important. Thus generation and regulation can overlap temporally without being identical.
+
+## 4. Relationship to This Chapter
+Emotion generation is the process-level bridge among stimulus, appraisal, feeling, physiology, expression, and action tendency.
+
+## 5. Boundaries
+### Owns
+The general process by which emotional episodes emerge.
+### Defers
+Specific emotion theories and regulation strategies.
+
+## 6. Key Principles
+- Emotional generation is multicausal and dynamic.
+- Internal representations can initiate emotion.
+- Generation and regulation can interact over time.
+
+---
+
+## 1.13.18 Emotion recognition
+
+## 1. Purpose
+Explain how people identify emotional states in themselves or others.
+
+## 2. Definition
+Emotion recognition is the process of identifying or classifying an emotional state from available internal, behavioral, contextual, or physiological information.
+
+## 3. Core Understanding
+Recognition involves interpreting cues such as facial movement, voice, posture, words, situation, bodily sensations, and contextual knowledge. Recognition of another person's emotion is inferential rather than direct: observers never simply see a private feeling. They combine multiple signals with expectations and knowledge.
+
+Self-recognition can also be imperfect. A person may notice arousal but mislabel it, or interpret one emotion as another because of context or learned associations. Recognition therefore depends on concepts, attention, language, prior experience, and available evidence.
+
+Recognition should not be confused with expression. A person can recognize an emotion without displaying it, and an observer can infer an emotion incorrectly from an expression. Cross-cultural differences and display rules further complicate interpretation.
+
+## 4. Relationship to This Chapter
+Emotion recognition links emotional awareness and perception with interpersonal interpretation.
+
+## 5. Boundaries
+### Owns
+Recognition of emotional states from available evidence.
+### Defers
+General perception, language, and emotional expression.
+
+## 6. Key Principles
+- Recognition is inference, not direct access to another person's feelings.
+- Multiple cues improve interpretation.
+- Recognition can be wrong.
+
+---
+
+## 1.13.19 Emotion perception
+
+## 1. Purpose
+Describe the perceptual processing of affective information in people, objects, events, and environments.
+
+## 2. Definition
+Emotion perception is the processing and interpretation of perceptual information as emotionally relevant or expressive.
+
+## 3. Core Understanding
+Emotion perception can involve faces, voices, body movements, scenes, words, odors, and other sensory cues. Perceptual processing can rapidly prioritize emotionally significant information, but what is perceived as emotional depends on context, learning, attention, and expectations.
+
+Emotion perception is therefore not simply reading an emotion directly from a stimulus. Observers integrate ambiguous cues with situational information. A facial expression that appears angry in isolation may be interpreted differently when the observer knows the surrounding circumstances. Cultural learning can also influence which expressions are expected and how they are interpreted.
+
+The process can operate before a person forms an explicit verbal judgment, yet rapid processing does not guarantee accuracy. Salient or threatening cues may attract attention while still being misinterpreted.
+
+## 4. Relationship to This Chapter
+Emotion perception supplies the perceptual side of emotion recognition and connects affect with sensation and attention.
+
+## 5. Boundaries
+### Owns
+Perception of emotionally relevant or expressive information.
+### Defers
+General perception to Chapter 1.4 and attention to Chapter 1.6.
+
+## 6. Key Principles
+- Emotional perception is context-sensitive.
+- Salience does not guarantee accurate interpretation.
+- Perception and recognition are related but distinct.
+
+---
+
+## 1.13.20 Emotion regulation
+
+## 1. Purpose
+Explain how people influence which emotions they experience, when emotions occur, and how they unfold or are expressed.
+
+## 2. Definition
+Emotion regulation refers to processes through which emotional responses are monitored, modified, maintained, amplified, reduced, or redirected in relation to goals and context.
+
+## 3. Core Understanding
+Regulation can operate before an emotion is fully generated or after an emotional response has begun. People may change situations, shift attention, reinterpret meaning, accept an experience, suppress expression, seek support, or alter behavior. Regulation therefore includes both deliberate strategies and learned or habitual processes.
+
+Effective regulation does not mean eliminating negative emotion. Emotions can provide useful information, and attempts to suppress every unpleasant state can create costs. Regulation is better understood as goal-directed management of emotional responding, with effectiveness depending on the situation, timing, person, and desired outcome.
+
+Regulation can target different components: the stimulus, appraisal, subjective feeling, physiology, expression, or action. A strategy that reduces outward expression may leave internal feeling relatively unchanged. This distinction is essential when interpreting evidence.
+
+## 4. Relationship to This Chapter
+Emotion regulation is the chapter's central process for explaining change in emotional responding.
+
+## 5. Boundaries
+### Owns
+Emotion-specific regulation processes.
+### Defers
+General self-regulation and self-control to Chapter 1.12.
+
+## 6. Key Principles
+- Regulation can change different components of emotion.
+- Effective regulation is context-dependent.
+- Regulation is not synonymous with suppression.
+
+---
+
+## 1.13.21 Emotional suppression
+
+## 1. Purpose
+Define suppression as an emotion-regulation strategy involving reduction of emotional expression or response visibility.
+
+## 2. Definition
+Emotional suppression is the deliberate or habitual attempt to inhibit the outward expression of an emotional response.
+
+## 3. Core Understanding
+Suppression primarily targets expression rather than necessarily eliminating the underlying feeling. A person may prevent facial movement, vocal changes, or behavioral display while continuing to experience the emotion internally. Suppression can be useful when immediate expression would be inappropriate or unsafe, but sustained reliance may impose cognitive or interpersonal costs in some circumstances.
+
+Suppression should not be treated as universally harmful. Its effects depend on timing, context, intensity, social norms, and what happens to the underlying emotion. It can help maintain composure while also increasing the effort required to control expression.
+
+Because suppression is often studied through self-report, observed expression, and physiological measures, researchers must distinguish reduced display from reduced emotional experience.
+
+## 4. Relationship to This Chapter
+Suppression is a specific regulation strategy and therefore does not define emotion regulation as a whole.
+
+## 5. Boundaries
+### Owns
+Inhibition of emotional expression as a regulatory strategy.
+### Defers
+Reappraisal, acceptance, and broader regulation.
+
+## 6. Key Principles
+- Suppression primarily targets expression.
+- Reduced expression does not prove reduced feeling.
+- Context determines whether suppression is useful or costly.
+
+---
+
+## 1.13.22 Cognitive reappraisal
+
+## 1. Purpose
+Explain reinterpretation as a means of changing emotional responses.
+
+## 2. Definition
+Cognitive reappraisal is the process of changing the interpretation or meaning assigned to an event in ways that alter its emotional impact.
+
+## 3. Core Understanding
+Reappraisal changes how a situation is understood rather than merely hiding its expression. A person might reinterpret a difficult conversation as useful feedback rather than as a personal attack, thereby changing anger, threat, or shame. Reappraisal can occur before or during an emotional episode and can influence several components of the response.
+
+Its effectiveness depends on whether the alternative interpretation is credible, relevant, and compatible with the facts. Reappraisal is not the same as forced positivity or denial. An interpretation that contradicts strong evidence may fail to regulate emotion or may create new problems.
+
+Research often finds reappraisal associated with changes in reported emotion and expression, but effects vary by strategy, context, person, and target emotion. It should therefore be treated as one regulatory option rather than a universally superior method.
+
+## 4. Relationship to This Chapter
+Reappraisal is a central example of appraisal-based emotion regulation.
+
+## 5. Boundaries
+### Owns
+Emotion-focused reinterpretation as a regulatory strategy.
+### Defers
+General appraisal and cognitive restructuring outside emotion.
+
+## 6. Key Principles
+- Reappraisal changes meaning rather than merely display.
+- Accurate reinterpretation differs from denial.
+- Effects depend on context and strategy quality.
+
+---
+
+## 1.13.23 Acceptance
+
+## 1. Purpose
+Explain acceptance as a way of responding to emotional experience without requiring immediate elimination or suppression.
+
+## 2. Definition
+Acceptance is an approach in which a person allows an emotional or internal experience to be present without automatically attempting to suppress, avoid, or change it.
+
+## 3. Core Understanding
+Acceptance does not mean liking an emotion, agreeing with the thoughts accompanying it, or abandoning action. It concerns the stance taken toward an internal experience. A person can accept fear while still taking protective action, or accept sadness while pursuing valued activities.
+
+Acceptance can reduce secondary struggle when attempts to control an internal state become counterproductive. Its effects depend on context and on what behavior follows. Acceptance is not a guarantee that an emotion will disappear; its purpose is often to change the person's relationship to the experience so that behavior is less dominated by avoidance.
+
+Research on acceptance appears across emotion regulation, mindfulness, and psychotherapy frameworks, but these literatures use related terms in somewhat different ways. Claims should therefore specify the operational definition being studied.
+
+## 4. Relationship to This Chapter
+Acceptance represents a regulatory stance distinct from suppression and reappraisal.
+
+## 5. Boundaries
+### Owns
+Acceptance as an emotion-regulatory response to internal experience.
+### Defers
+Mindfulness and clinical treatment models to their dedicated domains.
+
+## 6. Key Principles
+- Acceptance is not approval or passivity.
+- It can coexist with purposeful action.
+- Definitions vary across research traditions.
+
+---
+
+## 1.13.24 Expression regulation
+
+## 1. Purpose
+Explain deliberate or learned control over how emotion is outwardly expressed.
+
+## 2. Definition
+Expression regulation is the process of modifying the intensity, timing, form, or visibility of emotional expression.
+
+## 3. Core Understanding
+People regulate expression because social interaction imposes expectations and because expression can have consequences. They may amplify enthusiasm, reduce visible anger, conceal fear, or delay an emotional response until a more suitable setting. Regulation can be deliberate, habitual, or culturally learned.
+
+Expression regulation is distinct from changing the underlying emotion. A person can successfully alter visible behavior while remaining highly distressed. Conversely, changing the emotion can naturally reduce expression without deliberate control. The two processes can occur together but should not be conflated.
+
+The social meaning of expression also matters. What counts as appropriate or inappropriate display varies with relationship, setting, role, culture, and power. Consequently, the same behavior can communicate different things in different environments.
+
+## 4. Relationship to This Chapter
+Expression regulation links emotional expression with display rules and suppression.
+
+## 5. Boundaries
+### Owns
+Regulation of outward emotional display.
+### Defers
+General emotion regulation and social norms.
+
+## 6. Key Principles
+- Expression can be regulated independently of feeling.
+- Regulation is context-sensitive.
+- Social expectations shape display.
+
+---
+
+## 1.13.25 Display rules
+
+## 1. Purpose
+Explain socially learned norms governing when, how, and toward whom emotions should be expressed.
+
+## 2. Definition
+Display rules are socially learned expectations about the appropriate expression, suppression, intensification, or masking of emotion in particular contexts.
+
+## 3. Core Understanding
+Display rules are part of socialization. Children learn that emotional expression can be appropriate in one setting and discouraged in another. People may learn to intensify expression, minimize it, neutralize it, or replace one display with another. These rules differ across cultures, groups, roles, relationships, and situations.
+
+Display rules do not prove that emotional experience itself differs in the same way. Two people can feel similar emotions while expressing them differently because they have learned different social expectations. Observers who ignore display rules may therefore misinterpret behavior.
+
+Display rules also change over development and context. A person may follow different rules at work, with family, among friends, or in public. The rules can conflict with personal feelings, creating regulatory demands.
+
+## 4. Relationship to This Chapter
+Display rules provide the social framework within which emotional expression and expression regulation occur.
+
+## 5. Boundaries
+### Owns
+Normative expectations governing emotional display.
+### Defers
+Broader culture, socialization, and social behavior to later chapters.
+
+## 6. Key Principles
+- Display rules are socially learned.
+- They regulate expression, not necessarily feeling.
+- Rules vary across contexts and cultures.
+
+---
+
+## 1.13.26 Emotional habits
+
+## 1. Purpose
+Explain recurring patterns of emotional response and regulation that become relatively automatic through repetition.
+
+## 2. Definition
+Emotional habits are learned, recurring patterns in emotional attention, interpretation, expression, or regulation that become relatively automatic in familiar contexts.
+
+## 3. Core Understanding
+Repeated responses can become easier and faster to initiate. A person may habitually interpret ambiguous comments as criticism, automatically suppress anger in public, or routinely seek reassurance when uncertain. Such patterns are not necessarily conscious decisions each time they occur.
+
+Emotional habits develop through learning, reinforcement, repeated context-response pairings, socialization, and practice. They can be adaptive in one environment and costly in another. Because habits are context-sensitive, changing them often requires altering cues, practicing alternative responses, and encountering situations in which the new response can be learned.
+
+The concept should not be confused with a fixed personality trait. A habit is a learned pattern of responding that can change, especially when context and consequences change.
+
+## 4. Relationship to This Chapter
+Emotional habits connect emotion regulation with learning and repeated patterns of responding.
+
+## 5. Boundaries
+### Owns
+Habitual patterns specifically involving affective responding and regulation.
+### Defers
+General habit formation and learning to Chapter 1.7.
+
+## 6. Key Principles
+- Repetition can make emotional responses more automatic.
+- Habits are context-sensitive and changeable.
+- Automaticity does not imply permanence.
+
+---
+
+## 1.13.27 Emotion contagion
+
+## 1. Purpose
+Explain how emotional states can spread between people through social interaction.
+
+## 2. Definition
+Emotion contagion is the process by which one person's emotional expressions, behavior, or interactional cues influence another person's affective state.
+
+## 3. Core Understanding
+Emotion contagion can occur through facial mimicry, vocal tone, posture, interaction rhythm, interpretation of another person's state, and other social processes. The recipient does not necessarily experience exactly the same emotion; contagion can involve convergence in affect without identical appraisal or meaning.
+
+Contagion is influenced by attention, relationship, identification, social context, emotional intensity, and available explanations for the observed behavior. It can occur without deliberate persuasion and without conscious awareness. However, emotional similarity between people is not automatically evidence of contagion because shared circumstances can produce similar emotions independently.
+
+The concept is therefore causal only when the research design supports influence from one person's affective state to another's. Observing synchronized moods alone does not establish contagion.
+
+## 4. Relationship to This Chapter
+Emotion contagion extends emotion beyond the individual and connects expression with interpersonal affective influence.
+
+## 5. Boundaries
+### Owns
+Interpersonal transmission of affective states.
+### Defers
+Social influence and group processes to social psychology.
+
+## 6. Key Principles
+- Emotional convergence can arise through social influence.
+- Shared context can mimic contagion.
+- Contagion does not require identical emotional meaning.
+
+---
+
+## 1.13.28 James–Lange theory
+
+## 1. Purpose
+Preserve the historical theory proposing a central role for bodily changes in emotion.
+
+## 2. Definition
+The James–Lange theory proposes, in broad form, that emotional experience arises in relation to the perception of bodily changes produced by an emotionally significant event.
+
+## 3. Core Understanding
+The theory challenged the idea that emotion simply causes bodily reactions without those reactions contributing to feeling. In the classic formulation, an event produces bodily changes and the perception of those changes contributes to the experienced emotion.
+
+Modern evidence supports an important relationship between bodily states and emotion, but the strongest historical version of the theory is not treated as a complete account of emotion. Different emotions do not always have uniquely distinguishable peripheral physiological signatures, and emotional experience involves cognitive, contextual, and neural processes beyond simple perception of bodily change.
+
+Its lasting contribution is theoretical: it placed bodily feedback at the center of a scientific explanation of emotion and helped establish emotion as a problem involving interaction among physiology and psychological experience.
+
+## 4. Relationship to This Chapter
+The theory belongs here because it is one of the historically influential models of emotion generation.
+
+## 5. Boundaries
+### Owns
+The James–Lange theoretical account as a historical and explanatory model.
+### Defers
+Contemporary evidence on interoception and physiology to broader biological and affective mechanisms.
+
+## 6. Key Principles
+- Bodily feedback can contribute to emotion.
+- The historical theory is not a complete modern account.
+- Theory and evidence must remain distinct.
+
+---
+
+## 1.13.29 Cannon–Bard theory
+
+## 1. Purpose
+Explain the historical alternative emphasizing coordinated emotional experience and bodily response.
+
+## 2. Definition
+The Cannon–Bard theory proposes that emotionally significant events can produce subjective emotional experience and physiological responses in parallel rather than requiring the bodily response to precede the feeling.
+
+## 3. Core Understanding
+The theory emerged partly as a challenge to strong versions of James–Lange. It emphasized central neural processing and the possibility that feeling and bodily activation are coordinated outputs rather than a simple sequence in which one is inferred from the other.
+
+Modern emotion science does not generally treat the original theory as a complete account. Emotional processes involve distributed neural, bodily, cognitive, and contextual interactions, and different emotions can have different temporal dynamics. Nevertheless, the theory remains historically important because it separated the concepts of subjective feeling and physiological response and encouraged investigation of their relationship.
+
+Its value for contemporary understanding is therefore partly conceptual and historical rather than as a fully sufficient model.
+
+## 4. Relationship to This Chapter
+It provides a contrasting historical model of emotion generation.
+
+## 5. Boundaries
+### Owns
+The Cannon–Bard theoretical formulation.
+### Defers
+Modern neural mechanisms to biological psychology and current emotion research.
+
+## 6. Key Principles
+- Feeling and physiological response need not be treated as a simple sequence.
+- The original model is historically important but incomplete.
+- Historical theories should not be mistaken for current consensus.
+
+---
+
+## 1.13.30 Two-factor theory
+
+## 1. Purpose
+Explain the theory that emotional experience depends on physiological arousal together with its cognitive interpretation.
+
+## 2. Definition
+Two-factor theory, associated with Schachter and Singer, proposes that emotional experience reflects physiological arousal combined with cognitive interpretation or labeling of that arousal in context.
+
+## 3. Core Understanding
+The theory emphasizes that bodily activation may be relatively nonspecific and that people use contextual information to interpret what the activation means. Under the model, the same arousal can contribute to different emotional experiences depending on the explanation available in the situation.
+
+The theory had major influence on research linking physiology, cognition, and social context. However, classic findings and their interpretation have been debated, and contemporary evidence does not reduce emotion to a universal two-step formula. Physiological signals can carry information, and appraisal matters, but emotional generation is more complex than assigning a label to generic arousal.
+
+The model remains useful as a conceptual demonstration that bodily activation and interpretation can interact.
+
+## 4. Relationship to This Chapter
+Two-factor theory connects physiological arousal, cognition, context, and subjective feeling.
+
+## 5. Boundaries
+### Owns
+The Schachter–Singer theoretical model.
+### Defers
+Current appraisal and physiological evidence to their dedicated Topics.
+
+## 6. Key Principles
+- Arousal can be interpreted in context.
+- Context can influence emotional labeling.
+- The theory is influential but not a complete universal account.
+
+---
+
+## 1.13.31 Cognitive appraisal theories
+
+## 1. Purpose
+Explain theories that emphasize evaluations of significance, goals, coping, and consequences in emotional differentiation.
+
+## 2. Definition
+Cognitive appraisal theories propose that emotional responses depend substantially on evaluations of events in relation to goals, needs, expectations, responsibility, control, and other dimensions of significance.
+
+## 3. Core Understanding
+Appraisal theories explain why the same event can produce different emotions across people or across situations. An outcome interpreted as controllable may produce a different response from one interpreted as uncontrollable; a loss caused by oneself may differ emotionally from a loss attributed to another person. The exact dimensions differ among appraisal models.
+
+These theories do not necessarily claim that every appraisal is conscious or verbal. Appraisal can be rapid, learned, and partly automatic. Nor do appraisal theories imply that cognition always precedes emotion in a simple linear sequence. Contemporary models increasingly treat emotion generation as recurrent, dynamic, and interactive.
+
+Evidence supports important links between interpretations of events and emotional responding, but the strength and universality of specific appraisal rules remain debated.
+
+## 4. Relationship to This Chapter
+Appraisal theories provide a major theoretical family explaining emotion generation and differentiation.
+
+## 5. Boundaries
+### Owns
+The family of cognitive appraisal theories.
+### Defers
+The general appraisal process and individual appraisal dimensions to their dedicated Topics.
+
+## 6. Key Principles
+- Meaning and significance matter for emotion.
+- Appraisal need not be fully conscious.
+- Specific appraisal rules vary across theories and evidence.
+
