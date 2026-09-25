@@ -2509,3 +2509,64 @@ The models also do not imply that high expectancy and value guarantee action. Co
 These models complement goal theory. Goals specify desired or avoided states, while expectancy-value processes help determine whether those states are worth pursuing and whether pursuit seems feasible. Self-efficacy can influence expectancy, while feedback from goal pursuit can update both expectancy and value. The systems therefore form a connected architecture without becoming the same construct.
 
 The central scientific advantage of expectancy-value and control-value approaches is that they prevent “wanting” from being treated as sufficient explanation. Motivation depends on both destination and perceived route. A person needs some reason to value the outcome and some representation that action can meaningfully affect it. When either component changes, motivation can change even if the objective goal remains constant.
+
+
+## S8. Regulatory focus and approach–avoidance regulation
+
+Regulatory focus distinguishes motivational orientations concerned with advancement toward desired gains from orientations concerned with maintaining safety and preventing losses. This distinction is related to approach and avoidance but should not be treated as identical. Approach motivation is a broad directional process; regulatory focus concerns a pattern of goals, standards, feedback sensitivity, and preferred strategies.
+
+A promotion-focused orientation emphasizes aspirations, advancement, accomplishment, and gains. A prevention-focused orientation emphasizes responsibilities, security, maintenance, and avoidance of losses. The same objective task can therefore be represented through different regulatory frames. Completing a project can be experienced as achieving an opportunity or preventing a failure, with different attention and emotional implications.
+
+Regulatory focus can be chronic, situationally induced, or shaped by social roles and contexts. Parenting, work roles, cultural norms, and recent experiences can influence which orientation becomes salient. This means a person's behavior in one setting should not automatically be generalized to a fixed regulatory style across life.
+
+Regulatory fit is the idea that people can experience greater motivational engagement when the manner of pursuing a goal matches their regulatory orientation. However, fit is not a universal guarantee of better performance or well-being. The consequences depend on task demands, feedback, incentives, and whether the chosen strategy actually supports the goal.
+
+Promotion and prevention orientations also differ in error sensitivity. Promotion-focused regulation can be more tolerant of risk when opportunities for gains are salient, while prevention-focused regulation can prioritize caution and avoiding errors. Neither orientation is universally superior. Exploration can benefit from openness to opportunity, while safety-critical tasks can require careful error prevention.
+
+Approach–avoidance regulation provides a broader framework for understanding simultaneous attraction and repulsion. A goal can have positive and negative consequences, producing ambivalence. For example, a challenging opportunity may promise achievement while creating risk of embarrassment. The resulting behavior depends on the relative valuation of gains and losses, perceived control, and competing goals.
+
+Regulatory focus also interacts with goal representation. Promotion goals often specify desired end states, while prevention goals may specify duties, safeguards, or acceptable boundaries. These representations can affect monitoring because the person asks different questions: “Am I achieving enough?” versus “Am I avoiding unacceptable failure?”
+
+The evidence base supports regulatory focus as a useful framework, but it should not be converted into rigid personality categories. People can shift orientation across contexts, and measured effects can depend on how focus is induced and how outcomes are operationalized. Claims about universal superiority of one orientation are not justified.
+
+The most useful architectural distinction is therefore: approach and avoidance specify broad direction; regulatory focus specifies a motivational orientation toward gains or nonlosses; goals provide the concrete target; and self-regulation manages the resulting action tendencies. These layers can interact without being collapsed into one construct.
+
+## S9. Biological motives: hunger, appetite, satiety, and thirst
+
+Biological motives provide a clear example of how physiological regulation and psychological motivation interact. Hunger, appetite, satiety, and thirst are related but distinct. Hunger refers broadly to motivational pressure associated with energy need and food regulation. Appetite refers to desire or attraction toward eating and can be influenced by sensory, learned, social, and emotional factors. Satiety concerns the processes that reduce eating motivation during and after intake. Thirst concerns motivation related to fluid balance and hydration.
+
+These processes are regulated by distributed physiological systems rather than a single “hunger center” or “thirst center.” Internal signals from the body interact with brain systems, endocrine signals, sensory information, learned associations, and environmental cues. Regulation is partly anticipatory: cues and expected consumption can influence physiological responses before a large deficit occurs.
+
+Hunger and appetite can dissociate. A person can experience appetite for palatable food without strong metabolic hunger, or experience physiological hunger while having little appetite for a particular food. Food availability, smell, taste, social context, stress, habit, and prior learning can change appetite independently of current energy need.
+
+Satiety is not simply the opposite of hunger. Meal size, nutrient composition, gastric and intestinal signals, sensory properties, and learned expectations contribute to the termination of eating and the interval before subsequent eating. Because these processes operate on different time scales, a person can stop eating while still having stored food cues remain attractive.
+
+Thirst likewise involves more than a conscious feeling of dry mouth. Fluid balance is regulated through physiological monitoring, hormonal mechanisms, and behavioral responses. Anticipatory drinking can occur before severe dehydration because organisms regulate internal states proactively.
+
+These systems illustrate why drive-reduction theory is only a partial account. Physiological deficits can motivate behavior, but sensory reward, learning, incentive cues, habits, social context, and goals can alter behavior substantially. Conversely, the existence of incentive-driven eating does not mean biological regulation is unimportant.
+
+Individual differences also matter. People differ in sensitivity to internal cues, learned food preferences, habitual eating patterns, and responsiveness to environmental cues. Cultural practices determine meal timing, food availability, and social meanings. These differences can change how biological signals are translated into behavior.
+
+A crucial scientific boundary is that motivational experience is not a perfect readout of physiological state. Subjective hunger, appetite, and thirst can correlate with bodily regulation without mapping one-to-one onto it. Measurements should therefore distinguish subjective reports, behavioral intake, and physiological indicators.
+
+The biological motives in this chapter are included because they demonstrate a general principle: motivation can arise from bodily regulation while remaining psychologically modifiable. The system is neither purely biological nor purely cognitive. It is an integrated regulatory process in which internal state, learned value, context, and action continuously influence one another.
+
+## S10. Sexual motivation, desire, sexuality, behavior, and orientation
+
+Sexual motivation is a broad motivational domain involving the pursuit, avoidance, or regulation of sexual activity and sexual-related outcomes. Sexual desire is a more specific subjective motivational experience concerning wanting or interest in sexual activity. Sexuality is broader still, encompassing patterns of sexual feelings, behavior, identity, relationships, and meaning. Sexual behavior refers to observable actions. Sexual orientation concerns enduring patterns of sexual and/or romantic attraction and should not be treated as a motivational state or behavior choice.
+
+These distinctions are essential because desire, behavior, identity, and orientation do not map one-to-one. A person can experience desire without behavior because of circumstances, values, consent considerations, health, relationship conditions, or deliberate choice. Behavior can occur for reasons other than current desire, and orientation is not inferred from one behavior or one episode of attraction.
+
+Sexual motivation is influenced by biological, psychological, relational, and contextual processes. Hormonal and physiological states can contribute, while learning, relationship quality, stress, mood, opportunity, cultural norms, and personal values also matter. No single factor determines sexual motivation across all people and situations.
+
+Desire can fluctuate over time. Changes in relationship context, stress, sleep, health, medication, life stage, emotional state, and opportunity can alter desire without necessarily indicating a change in enduring orientation or identity. Short-term changes should therefore not be interpreted as evidence of stable personal categories.
+
+Consent and autonomy are fundamental contextual boundaries for sexual behavior. Psychological motivation does not provide justification for acting on another person's boundaries. A scientific description of sexual motivation must distinguish the presence of a desire from the legitimacy of an action. Ethical and legal frameworks determine acceptable behavior, while psychology explains processes that may contribute to desire and choice.
+
+Sexual orientation is particularly important to keep conceptually separate from motivation. Orientation describes a pattern of attraction, not a level of libido, a chosen behavior, or a psychological disorder. It is not appropriate to infer orientation from isolated behavior, and differences in orientation should not be framed as motivational deficits.
+
+Sexual desire can also be responsive to context. Some people experience desire spontaneously, while for others desire may emerge in response to intimacy, stimulation, or a supportive context. This variation does not imply a single universal sequence from desire to behavior.
+
+Research on sexual motivation uses self-report, behavioral measures, physiological measures, relationship data, and longitudinal methods. Each method captures different aspects and has limitations. Subjective desire cannot be reduced to physiological arousal, and physiological arousal cannot by itself establish subjective desire or consent.
+
+The broad scientific principle is that sexual motivation is multi-determined and dynamic. Biological regulation, learned associations, emotional states, relationships, personal values, and context can interact. Keeping sexual motivation, desire, sexuality, behavior, and orientation distinct prevents major conceptual errors and avoids turning one domain into a proxy for another.
