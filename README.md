@@ -154,10 +154,38 @@ This structure is intentionally minimal and reflects the current canonical repos
 
 ## Current System 1 State
 
-- Chapter 1.5 — CONSCIOUSNESS, SLEEP, AND ALTERED STATES — 44 Topics — LOCKED & SEALED
-- Chapter 1.6 — ATTENTION AND INFORMATION SELECTION — 40 Topics — LOCKED & SEALED — Canonical Knowledge v1.2
-- Completed System 1 Chapters: 1.1–1.6
-- Completed canonical Topic count: **399**
+### Chapter 1.9 — THINKING, REPRESENTATION, REASONING, AND PROBLEM SOLVING
+- **67 Topics**
+- Canonical knowledge corpus present in the repository.
+- Current V2 corpus is retained as the source for the completed chapter knowledge layer.
+
+### Chapter 1.10 — JUDGMENT, DECISION-MAKING, AND CHOICE
+- **65 Topics**
+- **V2.0 CERTIFIED / LOCKED / SEALED**
+- Final validation: `knowledge/system-01/chapter-1.10/CHAPTER_1.10_FINAL_VALIDATION.md`
+- Validation gates: ontology, structural integrity, ownership, semantic depth, neighbor distinctions, scientific/evidence integrity, relationships, retrieval, anti-template, and cross-chapter boundaries — all PASS.
+
+### Chapter 1.11 — LANGUAGE AND INTELLIGENCE
+- **60 Topics**
+- **LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 1.0**
+- Exact architecture match: **60/60**
+- Total chapter words: **15,277**
+- Total Core Understanding words: **7,353**
+- Average Core Understanding: **122.6 words/topic**
+- Minimum Core Understanding: **107 words**
+- Maximum Core Understanding: **139 words**
+- Six-section Knowledge Objects: **60/60**
+- Owns boundaries: **60/60**
+- Defers boundaries: **60/60**
+- Generic/repeated Core Understanding blocks: **0**
+- Topic additions/removals/renames: **0**
+- Final validation: `knowledge/system-01/chapter-1.11/CHAPTER_1.11_FINAL_VALIDATION.md`
+
+### Completed System 1 State
+- Chapters completed through **1.11**
+- Canonical chapter Topics written through 1.11: **733**
+- Chapter 1.11 is the latest completed canonical knowledge layer.
+- Next target: **Chapter 1.12** — only after a fresh architecture/ownership audit against the live repository.
 
 
 ## System 1 Architecture Precision Pass — Completed
