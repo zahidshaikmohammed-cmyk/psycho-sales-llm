@@ -298,7 +298,7 @@ Final audit metrics:
 - **62/62** Owns boundaries
 - **62/62** Defers boundaries
 - **0** Topics below 300 words
-- **0** Topics below 400 words
+- **67/67** Topic-specific evidence/mechanism layers
 - **840** minimum Topic corpus
 - **5,133** maximum Topic corpus
 - **49,486** Core Understanding / retrieval corpus words
@@ -320,7 +320,7 @@ The chapter was re-audited against the live surgical architecture before sealing
 
 **Canonical Topic count:** 67
 
-**Status:** LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 1.0
+**Status:** RE-AUDITED — CANONICAL KNOWLEDGE VERSION 2.0
 
 Canonical file: `knowledge/system-01/chapter-1.14/CHAPTER_1.14.md`
 
@@ -329,17 +329,17 @@ Validation file: `knowledge/system-01/chapter-1.14/CHAPTER_1.14_FINAL_VALIDATION
 Final audit metrics:
 
 - **67/67** exact architecture Topics
-- **60,480** total words
-- **44,359** Core Understanding words
-- **662.07** average Core Understanding words/topic
-- **648–690** Core Understanding range
-- **902.27** average Topic corpus
-- **876** minimum Topic corpus
-- **977** maximum Topic corpus
+- **39,029** total words
+- **21,276** Core Understanding words
+- **317.55** average Core Understanding words/topic
+- **298–357** Core Understanding range
+- **604.48** average Topic corpus
+- **541** minimum Topic corpus
+- **668** maximum Topic corpus
 - **67/67** six-section Knowledge Objects
 - **67/67** Owns boundaries
 - **67/67** Defers boundaries
-- **0** Topics below 400 words
+- **67/67** Topic-specific evidence/mechanism layers
 - **0** architecture mismatches
 - **0** forbidden supplement/rebuild/depth-index artifacts
 
