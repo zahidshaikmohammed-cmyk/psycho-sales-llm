@@ -1984,6 +1984,21 @@ Birth timing, health, complications, nutrition, and caregiving conditions can in
 ### Evidence Status
 Neonatal capacities should be interpreted as developing systems rather than as fixed indicators of later personality or intelligence.
 
+### Transition to extrauterine life
+Birth is a major biological transition because physiological systems must rapidly adapt to an environment in which breathing, temperature regulation, feeding, circulation, and sensory input operate differently from the prenatal environment. Neonatal development concerns the early period after birth in which these systems stabilize and begin adapting to repeated environmental demands.
+
+### Newborn capacities
+Newborns are not passive organisms waiting for development to begin. They show reflexes, sensory preferences, regulation of arousal, recognition of familiar patterns, and capacities for social orientation. At the same time, many systems remain immature and highly dependent on caregiving and environmental support. Development therefore combines existing organization with substantial capacity for change.
+
+### Regulation and caregiving
+Newborns have limited independent ability to regulate sleep, arousal, temperature, feeding, and distress. Caregivers provide external structure through predictable responses, physical contact, feeding, soothing, and environmental adjustment. These interactions are part of early development rather than merely responses to an already developed child.
+
+### Individual variation
+Gestational age, birth complications, prenatal conditions, nutrition, health, and genetic factors can affect neonatal functioning. Prematurity is particularly important because chronological age and developmental maturity can diverge. Developmental interpretation therefore requires attention to gestational age and medical context rather than relying only on chronological age.
+
+### Assessment and limits
+Neonatal behavior can be influenced by sleep state, hunger, pain, medication, illness, and environmental stimulation. A single observation should not be treated as a stable measure of later psychological ability. Early differences can predict later outcomes probabilistically, but prediction is not destiny and postnatal development can alter trajectories.
+
 ## 4. Relationship to This Chapter
 This stage connects prenatal development with infancy.
 
@@ -2019,6 +2034,27 @@ Infants vary substantially in temperament, health, developmental timing, and env
 ### Evidence Status
 Developmental milestones describe common patterns rather than rigid universal schedules.
 
+### Infancy as rapid reorganization
+Infancy is characterized by rapid change in motor control, perception, communication, attachment-related behavior, emotion, learning, and social engagement. Development is not a single staircase: different systems mature at different rates and influence one another.
+
+### Learning and exploration
+Infants learn through repeated interaction with people and objects. Reaching, grasping, looking, listening, and moving create opportunities to discover regularities. Exploration is therefore a developmental mechanism because action changes the information available to the infant and helps coordinate perception with behavior.
+
+### Communication
+Early communication progresses from crying and other affective signals toward increasingly intentional gestures, vocalizations, joint attention, and language-related behaviors. Caregiver responsiveness can support communication by making social exchanges predictable and meaningful. The infant also contributes through attention, temperament, and increasingly intentional behavior.
+
+### Attachment and relationships
+Infants develop expectations about caregivers through repeated interactions. Attachment is addressed as a dedicated developmental system later in this chapter; infancy provides the developmental period in which early attachment-related organization becomes especially visible. It should not be reduced to simple preference for the person who provides the most rewards.
+
+### Cognitive and emotional change
+Infants show learning, memory, anticipation, categorization, and increasingly coordinated emotional responses. Emotional regulation remains strongly supported by caregivers. Improvements in attention and memory change what infants can learn from social environments, illustrating the interconnected nature of developmental domains.
+
+### Individual differences
+Infants differ in temperament, activity level, reactivity, sleep, attention, and rates of motor and language development. These differences can affect caregiver responses and environmental opportunities, creating transactional pathways. Early differences are meaningful but do not establish fixed adult personality or ability.
+
+### Research considerations
+Infant research often relies on looking behavior, habituation, preferential looking, physiological measures, caregiver reports, and observed interaction. These measures are indirect and can be affected by attention, fatigue, and task design. Developmental conclusions should therefore rely on converging evidence rather than a single indicator.
+
 ## 4. Relationship to This Chapter
 Infancy is a lifespan stage containing major foundational developmental changes.
 
@@ -2051,6 +2087,27 @@ Development reflects maturation, language, learning, caregiver guidance, peer in
 ### Boundary Conditions
 Development varies with family context, culture, health, education, and individual characteristics.
 
+### Developmental organization
+Early childhood involves rapid growth in language, symbolic thought, self-understanding, emotion regulation, social competence, motor coordination, and emerging executive control. The period is important because several capacities become increasingly coordinated, allowing children to participate in more complex social and learning environments.
+
+### Symbolic and representational development
+Children increasingly use language, drawings, pretend play, gestures, and internal representations to stand for absent objects or events. Symbolic activity supports planning and communication, but children's representations remain constrained by developing knowledge and perspective-taking abilities. Development is therefore neither a simple absence nor presence of abstract thought.
+
+### Language and social learning
+Vocabulary and grammar expand rapidly, allowing children to ask questions, explain experiences, negotiate with peers, and learn from instruction. Adults provide models and feedback, while children actively explore language through conversation and play. Differences in language exposure and educational opportunity can influence trajectories.
+
+### Self and emotion
+Children develop increasingly differentiated descriptions of themselves and become better able to identify emotional states and use simple regulatory strategies. They also begin to understand that other people can have different feelings and goals. Regulation remains strongly dependent on adult support, routines, and environmental structure.
+
+### Play and learning
+Play provides opportunities to practice symbolic representation, planning, social negotiation, motor coordination, and rule following. The developmental value of play depends on its form and context; not every playful activity produces the same learning outcome. Structured learning and spontaneous exploration can both contribute to development.
+
+### Social relationships
+Peer interaction becomes increasingly important. Children learn cooperation, conflict resolution, turn taking, friendship maintenance, and group expectations. Family relationships remain influential, but children's expanding social worlds create new sources of learning and comparison.
+
+### Developmental variability
+Children differ substantially in timing and profile. Cultural practices, family structure, language environment, health, education, and individual characteristics shape opportunities. Developmental norms should be used as guides for identifying patterns, not as rigid schedules that define every individual trajectory.
+
 ## 4. Relationship to This Chapter
 Early childhood is a major period of cognitive, social, emotional, and self development.
 
@@ -2082,6 +2139,27 @@ Schooling, practice, peer interaction, family processes, cognitive development, 
 
 ### Boundary Conditions
 Experiences differ substantially by educational system, family resources, culture, health, and social environment.
+
+### New developmental demands
+Middle childhood brings expanding academic demands, increasingly organized peer groups, greater independence, and more complex understanding of rules and social relationships. Children become better able to coordinate information, plan actions, compare performance, and evaluate themselves against standards.
+
+### Cognitive development
+Schooling and accumulated knowledge support changes in reasoning, memory strategies, attention, and problem solving. Children become increasingly able to use deliberate strategies and to understand that different tasks require different approaches. These gains reflect interactions among maturation, instruction, practice, and knowledge.
+
+### Self-evaluation
+Self-descriptions become more comparative and differentiated. Children can evaluate abilities in specific domains and begin integrating feedback from teachers, parents, and peers. Social comparison can provide useful information but can also alter motivation and self-evaluation depending on context and interpretation.
+
+### Peer development
+Friendships become more stable and reciprocal, with greater emphasis on trust, shared interests, loyalty, and mutual support. Peer acceptance and rejection can affect emotional experiences and opportunities. Peer influence is not uniformly negative or positive; its developmental effect depends on group norms, relationships, and individual characteristics.
+
+### Moral and social understanding
+Children increasingly distinguish rules that are moral, conventional, or tied to particular settings. They can consider intentions and fairness more systematically. These changes support more complex cooperation and conflict management, while cultural environments continue to shape which norms receive emphasis.
+
+### School context
+School is a major developmental environment because it provides repeated demands for attention, planning, learning, evaluation, and social coordination. Educational quality, teacher relationships, peer climate, and expectations can influence developmental opportunities. School effects should not be interpreted independently of family and community context.
+
+### Transition toward adolescence
+Later middle childhood often includes increasing awareness of social status, identity, and future possibilities. Biological changes may begin before visible puberty, but developmental timing varies widely. The transition is therefore gradual rather than a single boundary between childhood and adolescence.
 
 ## 4. Relationship to This Chapter
 Middle childhood is a distinct developmental stage linking early childhood to adolescence.
@@ -2118,6 +2196,27 @@ Adolescent development varies widely across individuals and cultures. “Adolesc
 ### Evidence Status
 Some adolescent behavioral patterns are associated with developmental changes in reward sensitivity and control processes, but simplistic claims that adolescents are universally irrational or incapable of self-control are unsupported.
 
+### A period of reorganization
+Adolescence involves coordinated changes in puberty, social roles, cognition, identity, emotional experience, autonomy, and peer relationships. It is not accurately described as a universal period of instability. Developmental outcomes vary according to individual characteristics, family relationships, cultural expectations, and social conditions.
+
+### Cognitive change
+Adolescents generally develop greater capacity for abstract reasoning, planning, perspective coordination, and consideration of hypothetical possibilities. Improvements are uneven and strongly affected by context. A person may reason well in familiar settings yet make impulsive decisions under emotional or peer pressure.
+
+### Autonomy and relationships
+Adolescence involves renegotiation of dependence and independence. Young people increasingly make decisions for themselves while still relying on parents and other adults for resources, guidance, and emotional support. Healthy autonomy does not require severing relationships; it often involves changing the form of dependence and increasing reciprocal interaction.
+
+### Peer context
+Peer relationships become highly salient. Acceptance, status, belonging, and social evaluation can affect behavior and emotion. Peer influence can support learning, cooperation, identity exploration, and prosocial action as well as risk behavior. The effect depends on the norms and characteristics of the peer context.
+
+### Identity development
+Adolescence often provides increased opportunities to explore values, roles, relationships, education, occupation, and social identity. Exploration is not necessarily resolved by the end of adolescence, and identity continues to develop in emerging adulthood and later life.
+
+### Emotion and reward
+Adolescent development involves changing relationships among reward sensitivity, social motivation, cognitive control, and emotional regulation. This can create situations in which immediate social rewards exert strong influence. It does not imply that adolescents lack rationality or that risk taking is universal.
+
+### Cultural and historical context
+The timing and meaning of adolescence differ across societies and historical periods. Educational systems, labor markets, family expectations, technology, and cultural norms influence the length and structure of the transition. Developmental claims should therefore specify the population and historical context.
+
 ## 4. Relationship to This Chapter
 Adolescence is a central lifespan stage with major transitions across multiple developmental domains.
 
@@ -2152,6 +2251,24 @@ Pubertal timing and experience vary by genetics, nutrition, health, stress, and 
 
 ### Evidence Status
 Puberty is primarily a biological developmental process; psychological effects depend heavily on social and individual context.
+
+### Biological transition
+Puberty is a period of endocrine and physical maturation that leads toward reproductive capability and produces substantial changes in body composition, growth, and secondary sexual characteristics. Puberty is biological, but its psychological meaning is shaped by social context and individual experience.
+
+### Timing and tempo
+The timing and rate of pubertal changes vary considerably. Early or late timing relative to peers can alter social experiences and self-perception, but the effects are not uniform. Family context, peer responses, cultural standards, body image, and individual coping all influence psychological consequences.
+
+### Hormonal changes
+Puberty involves changes in the hypothalamic–pituitary–gonadal axis and other endocrine systems. Hormones interact with brain development, sleep, energy, mood, and behavior. It is scientifically inaccurate to attribute every adolescent psychological change directly to a single hormone because multiple biological and social processes change simultaneously.
+
+### Sleep and circadian change
+Adolescence commonly involves a shift toward later sleep timing. School schedules, technology, social activity, and biological circadian changes can combine to produce sleep restriction. Sleep loss can affect attention, emotion regulation, and decision making, illustrating how biological development interacts with environmental schedules.
+
+### Body and social meaning
+Physical changes can alter how young people are treated by others and how they evaluate themselves. Body image is therefore partly social. Pubertal development does not produce a single psychological response; reactions vary with cultural ideals, peer norms, family communication, and individual differences.
+
+### Boundaries
+Puberty should be distinguished from adolescence. Puberty is primarily a biological maturation process, while adolescence is a broader developmental period involving biological, psychological, and social change. Their timing overlaps but they are not interchangeable concepts.
 
 ## 4. Relationship to This Chapter
 Puberty is a biological process that overlaps with adolescence but is not synonymous with it.
