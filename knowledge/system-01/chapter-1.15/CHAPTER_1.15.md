@@ -623,6 +623,122 @@ This boundary is central to the chapter's architecture. Depth does not mean abso
 
 ---
 
+
+# CHAPTER-LEVEL RETRIEVAL AND REASONING GUIDE
+
+## Developmental questions and where to look
+
+When the question is "What changes across time?", the primary conceptual homes are Development, Developmental Change, Stability, Change, Continuity, Discontinuity, and Plasticity. These Topics answer different parts of the same temporal problem. Development defines the overall construct. Developmental Change describes change within persons. Stability addresses persistence. Continuity and Discontinuity distinguish gradual persistence from reorganization. Plasticity addresses capacity for modification.
+
+When the question is "Why did development change?", the primary homes are Developmental Mechanisms, Developmental Systems Perspective, Nature–Nurture Interaction, and the relevant domain-specific Topic. The answer should identify mechanisms rather than simply naming age.
+
+When the question is "When does development happen?", use Critical Period, Sensitive Period, Lifespan Development, the relevant lifespan stage, and Cohort Effect. Timing must be distinguished from chronological age and from historical period.
+
+When the question is "Why do people differ?", use Individual developmental concepts, Developmental Systems Perspective, Nature–Nurture Interaction, Temperament Development, Risk, Resilience, and the relevant domain Topic. Individual differences are not noise around the average; they are part of developmental explanation.
+
+When the question is "How should an age difference be interpreted?", begin with Developmental Research Methods, Cohort Effect, and the distinction between within-person change and between-person differences. Only then interpret the domain-specific finding.
+
+When the question is "Can development change?", use Developmental Plasticity, Developmental Resilience, and the relevant developmental mechanism. Avoid translating plasticity into unlimited malleability.
+
+When the question is "What role do relationships play?", use Attachment, Attachment Theory, Attachment Security, Attachment Insecurity, Attachment Development, Parenting Processes, Family Influences, and Peer Development according to the specific relational question.
+
+When the question is "How does society shape development?", use School and Learning Context, Cultural Influences, Cohort Effect, Family Influences, and the relevant social or identity Topic. Social context should be described as a mechanism or opportunity structure rather than as a vague background.
+
+When the question is "How does development change with aging?", use Adulthood, Older Adulthood, Aging, Cognitive Aging, Socioemotional Aging, Adult Cognitive Development, Socioemotional Selectivity, and Cognitive Reserve. Avoid treating all later-life changes as one process.
+
+## Cross-topic relationship types
+
+Developmental relationships should be represented explicitly.
+
+A Topic can contribute to another without being identical to it. Temperament can contribute to Personality Development. Parenting Processes can contribute to Attachment Development. School and Learning Context can contribute to Cognitive Development and Identity Development. Cultural Influences can shape the expression of Emotional Development, Moral Development, and Self Development.
+
+A Topic can moderate another. Culture can moderate how identity exploration is expressed. Environmental demands can moderate how executive functions are expressed. Social support can moderate the consequences of developmental risk. Health can moderate the practical consequences of cognitive aging.
+
+A Topic can depend on another. Theory of Mind depends on developing representational and cognitive capacities. Emotion Regulation Development depends partly on developing attention, language, and executive control. Identity Development depends partly on increasing self-knowledge and social understanding.
+
+A Topic can differ from another while remaining closely related. Puberty differs from Adolescence. Temperament differs from Personality. Attachment differs from Parenting. Developmental Risk differs from Developmental Resilience. Cognitive Reserve differs from Cognitive Aging.
+
+A Topic can contain a process that later becomes reorganized. Early social communication can provide conditions for later language development. Early caregiver relationships can contribute to later attachment expectations. Early exploration can create opportunities for later cognitive specialization.
+
+Explicit relationship labels prevent an AI system from treating every co-mentioned concept as equivalent.
+
+## Developmental interpretation in practical reasoning
+
+A developmental explanation should normally move through five questions.
+
+First: what changed? Identify the construct and the observed pattern.
+
+Second: whose change is being described? Distinguish within-person change from age-group difference.
+
+Third: when did it change? Identify chronological age, developmental period, event timing, or historical context as appropriate.
+
+Fourth: what mechanisms could produce the change? Consider biological, experiential, social, cultural, and transactional processes.
+
+Fifth: what limits the conclusion? Identify measurement issues, cohort effects, confounding, heterogeneity, and uncertainty.
+
+This sequence prevents many common errors. It also creates a useful retrieval structure for future AI systems because the answer can be decomposed into observation, trajectory, timing, mechanism, and evidence boundary.
+
+## Developmental examples as reasoning templates
+
+A child who becomes more competent at a school task can show several simultaneous changes: knowledge accumulation, improved strategy, executive development, language growth, increased familiarity, and changes in motivation. The observation alone cannot determine which mechanism dominates. A good developmental explanation therefore asks which processes were measured.
+
+An adolescent who takes more risks may be influenced by reward sensitivity, peer context, opportunity, emotional arousal, identity exploration, and changing autonomy. The presence of risk behavior does not prove a general reasoning deficit. A context-sensitive explanation is more precise.
+
+An adult who becomes more conscientious may be experiencing role demands, selection into structured environments, accumulated habits, or broader personality development. The change should not automatically be labeled maturation.
+
+An older adult who performs more slowly on a laboratory task may still demonstrate strong real-world competence through accumulated knowledge and compensatory strategies. The laboratory result remains valid, but its functional interpretation must be kept separate.
+
+A person who maintains functioning after adversity may demonstrate resilience, but the correct question is what protective processes allowed adaptation and what outcome was preserved. Resilience should not be inferred merely from the absence of a visible problem at one moment.
+
+## Why the chapter needs both stage and mechanism knowledge
+
+Stage knowledge tells the reader where a developmental process is being organized. Mechanism knowledge explains why it changes. Neither is sufficient alone.
+
+Knowing that adolescence is a period of identity exploration does not explain how identity develops. Knowing that identity is influenced by social feedback does not tell the reader when the developmental opportunities for exploration become especially available. Stage and mechanism therefore form complementary layers.
+
+The same applies to aging. Knowing that cognitive aging includes changes in processing speed does not explain how accumulated knowledge or compensation affects functioning. Knowing about cognitive reserve does not replace knowledge about the broader aging process.
+
+The architecture therefore keeps stage Topics and mechanism Topics separate. This allows the knowledge graph to represent relationships rather than embedding every mechanism inside a stage description.
+
+## Why the chapter needs both risk and resilience
+
+Risk and resilience are complementary but not opposites. Risk describes increased probability of adverse outcomes. Resilience describes adaptation despite meaningful challenge. A person can experience risk and resilience simultaneously.
+
+A resilient outcome does not erase the presence of risk. A person may adapt while still carrying costs. Likewise, the absence of an adverse outcome does not prove that no risk was present.
+
+Protective processes can also change over time. A caregiver may be protective in early childhood; peer support may become more important in adolescence; occupational and community resources may become more important in adulthood. Developmental resilience therefore requires a changing systems view.
+
+## Why the chapter needs both biology and culture
+
+Biological development and cultural development are not competing explanations. Biology provides developing capacities and constraints; culture organizes experiences and meanings through which those capacities are expressed.
+
+Puberty is biological, but the meaning of pubertal change is socially organized. Language learning depends on biological capacities and culturally specific linguistic input. Aging has biological components, but social roles and environmental design influence functional outcomes.
+
+The same principle applies to nature–nurture interaction. The useful question is not which side wins. It is how biological differences and environments interact to produce particular trajectories.
+
+## Why the chapter needs both continuity and change
+
+A person can remain recognizably the same while changing substantially. Developmental identity depends partly on continuity of organization, memory, relationships, values, and personality, but those elements can be reorganized.
+
+This is especially important for identity development. Revising a career goal or value does not necessarily destroy identity coherence. It can represent a more adaptive integration of new information.
+
+The same applies to personality. Trait stability can coexist with mean-level change. Attachment expectations can persist while later relationships modify them. Cognitive abilities can change while accumulated knowledge preserves competence.
+
+The chapter therefore treats continuity and change as complementary dimensions.
+
+## Final retrieval rule
+
+If a future system must answer a developmental question, it should first identify the exact developmental object. It should then locate the canonical Topic, retrieve the Topic's Core Understanding, follow explicit Related Concepts and Defers boundaries, and only then synthesize across Topics.
+
+The system should never infer ownership merely because a concept is mentioned. It should use the chapter's ownership structure.
+
+The system should also preserve epistemic status. A theory should remain a theory. An association should remain an association. A causal conclusion should remain tied to causal evidence. A population risk should not become an individual prediction.
+
+The chapter's deepest purpose is therefore not to produce a long list of age facts. It is to provide a precise model of human change across time that remains readable to humans and decomposable by machines.
+
+
+---
+
 # 1. Development
 
 ## 1. Purpose
