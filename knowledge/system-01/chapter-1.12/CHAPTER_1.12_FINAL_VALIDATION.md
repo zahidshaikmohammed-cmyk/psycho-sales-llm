@@ -1,6 +1,6 @@
 # CHAPTER 1.12 — FINAL VALIDATION RECORD
 
-**Status:** VALIDATION COMPLETE — READY FOR CANONICAL SEAL  
+**Status:** VALIDATION COMPLETE — CANONICAL SEAL CERTIFIED  
 **Canonical title:** Motivation, Needs, Goals, and Self-Regulation  
 **Architecture source:** `system_1/SYSTEM_1_SURGICAL_CANONICAL_ARCHITECTURE_v2.md`
 
