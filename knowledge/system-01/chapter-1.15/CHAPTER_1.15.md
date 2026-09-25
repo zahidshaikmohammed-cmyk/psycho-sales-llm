@@ -950,6 +950,118 @@ That is the permanent knowledge structure this chapter is designed to preserve.
 
 ---
 
+
+# CHAPTER-LEVEL PERMANENT PRINCIPLES
+
+## Principle 1: Development is change plus organization
+
+A developmental account must describe not only whether a characteristic increased or decreased, but how the organization of functioning changed. The same numerical performance can arise from different strategies, and the same strategy can produce different performance under different conditions.
+
+## Principle 2: Time must be specified
+
+Every developmental claim has a relevant time scale. A process can unfold across seconds, days, years, or generations. Chronological age is only one possible time variable. Event timing, developmental stage, pubertal status, historical period, and duration of exposure may be more informative for particular questions.
+
+## Principle 3: Age differences require interpretation
+
+An age-group difference is not automatically a developmental trajectory. Cohort effects, period effects, selection, measurement, and health can contribute to differences. Strong developmental conclusions should identify the design that supports them.
+
+## Principle 4: Individual trajectories matter
+
+Population averages can hide substantial variation. Developmental science should ask whether people change at different rates, whether some people change in different directions, and which conditions predict those differences.
+
+## Principle 5: Stability and plasticity coexist
+
+A characteristic can remain relatively stable while remaining modifiable. Stability describes persistence; plasticity describes capacity for change. Neither concept should be used to erase the other.
+
+## Principle 6: Development is transactional
+
+People influence environments and environments influence people. Caregivers respond to children, children respond to caregivers, peers shape behavior, individuals select environments, and environments change the opportunities available to individuals.
+
+## Principle 7: Timing changes meaning
+
+The same experience can have different consequences depending on developmental timing. Sensitive periods, transitions, cumulative exposure, and historical context all demonstrate that when something happens can matter as much as what happens.
+
+## Principle 8: Domains interact without becoming identical
+
+Cognition, language, emotion, social cognition, personality, identity, self, and biological development influence one another. The encyclopedia must preserve separate ownership so these relationships remain explicit rather than collapsing distinct constructs.
+
+## Principle 9: Context is part of functioning
+
+Observed behavior reflects both person and environment. A capacity can be hidden by environmental demands or revealed by supportive conditions. Functional development therefore cannot always be inferred from isolated laboratory performance.
+
+## Principle 10: Development is multidirectional
+
+Growth, maintenance, reorganization, compensation, and decline can occur simultaneously. A person can gain knowledge while losing speed, gain autonomy while losing some external support, or develop stronger emotional selectivity while having a smaller social network.
+
+## Principle 11: Risk changes probability
+
+Risk factors increase the probability of outcomes under specified conditions. They do not define individuals. Developmental risk should therefore always be interpreted with timing, dose, context, protective processes, and uncertainty.
+
+## Principle 12: Resilience is adaptation under challenge
+
+Resilience is meaningful only relative to adversity and outcome. It can involve recovery, maintenance, compensation, or a changed pathway. It is not immunity, toughness, or a moral requirement to tolerate preventable harm.
+
+## Principle 13: Culture shapes development without replacing biology
+
+Biological capacities and cultural environments interact. Cultural practices organize learning opportunities, meanings, roles, and expectations, while biological development constrains and enables what can be learned and expressed.
+
+## Principle 14: Stage labels are maps
+
+Prenatal development, infancy, childhood, adolescence, emerging adulthood, adulthood, and older adulthood are useful organizing periods. They are not rigid boxes. Developmental processes cross boundaries and vary in timing.
+
+## Principle 15: Mechanisms matter more than labels
+
+Calling something maturation, socialization, resilience, attachment, or risk is not enough. A strong explanation specifies what process is occurring, under what conditions, and with what evidence.
+
+## Principle 16: Measurement determines what can be concluded
+
+A developmental result is limited by the validity, reliability, comparability, and timing of the measurement. A changing measure can create apparent change; an insensitive measure can hide real change.
+
+## Principle 17: Causal language must match design
+
+Associations should remain associations. Temporal precedence is not by itself causation. Intervention effects should be described in terms of what was manipulated and what changed. Theories should be distinguished from established findings.
+
+## Principle 18: Early influence is not destiny
+
+Early development matters because it changes later probabilities and conditions. Later experience can reorganize trajectories. Development is cumulative but revisable.
+
+## Principle 19: Adult development is genuine development
+
+Adulthood contains learning, role transitions, personality change, identity revision, expertise, adaptation, and changing relationships. It should not be treated as a static endpoint between adolescence and aging.
+
+## Principle 20: Aging is heterogeneous
+
+Age-related changes differ by domain and person. Biological aging, cognitive aging, socioemotional aging, health, accumulated knowledge, and environmental demands must be considered separately and then integrated.
+
+## Principle 21: Cognitive aging is not one process
+
+Different cognitive abilities show different trajectories. Processing speed, memory, knowledge, executive control, expertise, and practical reasoning cannot be reduced to one global score.
+
+## Principle 22: Relationships are developmental infrastructure
+
+Attachment, parenting, family, peers, schools, and communities provide repeated environments in which skills, expectations, identity, and regulation develop. Relationships remain important throughout adulthood.
+
+## Principle 23: Autonomy is relational
+
+Increasing independence does not require eliminating relationships. Development often involves changing the form of dependence, support, and reciprocity rather than moving from dependence to complete self-sufficiency.
+
+## Principle 24: Exploration and commitment can coexist
+
+Identity development can involve exploration, commitment, revision, and reorganization. A person can maintain meaningful commitments while remaining open to new information.
+
+## Principle 25: Developmental knowledge should remain human-readable and machine-retrievable
+
+A complete explanation should be understandable to a person without specialized training while remaining structured enough for an AI system to retrieve definitions, mechanisms, evidence status, boundaries, and relationships.
+
+## Permanent final rule
+
+When two explanations compete, prefer the explanation that accounts for more of the observed developmental pattern with fewer unsupported assumptions. When evidence is incomplete, preserve the uncertainty. When a neighboring construct owns a fact, defer to that owner. When a developmental relationship is important, name the relationship explicitly.
+
+The chapter is complete only when depth improves understanding rather than merely increasing length. The 50,000-word threshold is therefore treated as a minimum depth requirement, not as permission to pad the knowledge object. Every added layer must either clarify a developmental mechanism, distinguish a neighboring concept, improve evidence interpretation, connect canonical Topics, or preserve a boundary needed for accurate retrieval.
+
+
+---
+
 # 1. Development
 
 ## 1. Purpose
