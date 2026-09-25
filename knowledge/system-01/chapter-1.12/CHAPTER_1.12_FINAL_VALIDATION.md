@@ -2,6 +2,7 @@
 
 **Status:** VALIDATION COMPLETE — CANONICAL SEAL CERTIFIED  
 **Canonical title:** Motivation, Needs, Goals, and Self-Regulation  
+**Canonical version:** 1.1  
 **Architecture source:** `system_1/SYSTEM_1_SURGICAL_CANONICAL_ARCHITECTURE_v2.md`
 
 ## 1. Architecture Gate
@@ -12,23 +13,14 @@
 - Added Topics: **0**
 - Removed Topics: **0**
 - Renamed Topics: **0**
-- Architecture version/source used: live repository architecture
-- Ontology source: **architecture only; no handoff index used as ontology**
+- Ontology source: **live architecture only**
 
 ## 2. Ownership Gate
 
-The live precision registry identifies **Self-regulation** in Chapter 1.1 as a duplicate-name non-owner appearance whose canonical owner is Chapter 1.12. Chapter 1.12 therefore retains the unqualified **Self-regulation** Topic as the canonical owner.
-
-The Chapter 1.12 architecture also contains the explicit relationship/application node **Motivation and context**. It is retained as a relationship node and does not create a duplicate independent construct owner.
-
-The theory/model registry identifies these Chapter 1.12 entries as theory/model knowledge:
-- Drive-reduction theory
-- Arousal theory
-- Incentive theory
-- Self-determination theory
-- Expectancy-value theory
-
-The chapter preserves those as models rather than presenting them as settled facts.
+- **Self-regulation** remains the canonical owner in Chapter 1.12; its Chapter 1.1 occurrence is treated as the registered duplicate-name non-owner appearance.
+- **Motivation and context** remains an explicit relationship/application node and is not promoted into a duplicate independent construct owner.
+- Theory/model Topics are preserved as models rather than silently converted into established facts.
+- Chapter-level synthesis is explicitly non-owning and does not create additional canonical Topics.
 
 ## 3. Structural Gate
 
@@ -37,125 +29,141 @@ The chapter preserves those as models rather than presenting them as settled fac
 - Topic order: **exact**
 - Missing Topics: **0**
 - Duplicate Topic headings: **0**
-- Missing sections: **0**
-- Owns boundaries: **75/75**
-- Defers boundaries: **75/75**
+- Chapter-level synthesis separated from Topic 75: **PASS**
+- Rebuild/supplement files: **0 in the canonical chapter**
+- Rebuild-era language: **removed**
 
-## 4. Depth Metrics
+## 4. Depth Gate
 
-- Total chapter words: **19,034**
-- Core Understanding words: **8,674**
-- Average Core Understanding: **115.7 words/topic**
-- Minimum Core Understanding: **95**
-- Maximum Core Understanding: **143**
+- Total chapter words: **55,270**
+- Canonical Topic corpus: **32,398**
+- Chapter-level synthesis: **22,840**
+- Average Topic corpus: **432.0 words/topic**
+- Core Understanding words: **21,924**
+- Average Core Understanding: **292.3 words/topic**
+- Minimum Core Understanding: **156**
+- Maximum Core Understanding: **769**
+- Minimum Topic corpus: **270**
+- Maximum Topic corpus: **918**
+- Topics under 300 words: **8**
+- Topics under 400 words: **58**
 - Exact duplicate Core Understanding blocks: **0**
-- Generic/repeated Core Understanding template: **0**
+- Artificial fixed word floor: **none** — adaptive depth is retained per Constitution.
+
+The chapter exceeds the requested **55,000-word chapter-level depth target** without treating word count as a substitute for conceptual completeness. Depth is distributed between the 75 canonical objects and an explicit chapter-level synthesis.
 
 ## 5. Per-Topic Metrics
 
-| # | Topic | Core words | Total words |
+| # | Topic | Core words | Topic words |
 |---:|---|---:|---:|
-| 1 | Motivation | 139 | 294 |
-| 2 | Motive | 143 | 291 |
-| 3 | Need | 134 | 277 |
-| 4 | Drive | 130 | 283 |
-| 5 | Incentive | 136 | 268 |
-| 6 | Instinctive motivation | 126 | 267 |
-| 7 | Drive-reduction theory | 128 | 274 |
-| 8 | Arousal theory | 124 | 277 |
-| 9 | Incentive theory | 123 | 261 |
-| 10 | Need-based theories | 122 | 270 |
-| 11 | Goal | 123 | 261 |
-| 12 | Goal representation | 117 | 256 |
-| 13 | Goal selection | 109 | 242 |
-| 14 | Goal activation | 116 | 250 |
-| 15 | Goal commitment | 126 | 266 |
-| 16 | Goal pursuit | 124 | 269 |
-| 17 | Goal monitoring | 124 | 266 |
-| 18 | Goal progress | 113 | 256 |
-| 19 | Goal standard | 118 | 262 |
-| 20 | Goal conflict | 122 | 259 |
-| 21 | Goal shielding | 116 | 253 |
-| 22 | Goal substitution | 127 | 270 |
-| 23 | Goal disengagement | 120 | 259 |
-| 24 | Goal reengagement | 100 | 229 |
-| 25 | Goal gradient | 119 | 255 |
-| 26 | Intrinsic motivation | 125 | 259 |
-| 27 | Extrinsic motivation | 115 | 247 |
-| 28 | Incentive motivation | 121 | 256 |
-| 29 | Approach motivation | 114 | 245 |
-| 30 | Avoidance motivation | 109 | 233 |
-| 31 | Achievement motivation | 119 | 241 |
-| 32 | Affiliation motivation | 120 | 244 |
-| 33 | Power motivation | 116 | 258 |
-| 34 | Curiosity | 112 | 245 |
-| 35 | Exploration | 109 | 245 |
-| 36 | Competence | 118 | 256 |
-| 37 | Autonomy | 114 | 243 |
-| 38 | Relatedness | 103 | 245 |
-| 39 | Need for achievement | 119 | 265 |
-| 40 | Need for affiliation | 110 | 242 |
-| 41 | Need for power | 101 | 240 |
-| 42 | Self-determination theory | 125 | 283 |
-| 43 | Expectancy-value theory | 118 | 265 |
-| 44 | Control-value processes | 107 | 242 |
-| 45 | Regulatory focus | 116 | 248 |
-| 46 | Approach–avoidance regulation | 119 | 252 |
-| 47 | Hunger | 119 | 262 |
-| 48 | Appetite | 113 | 243 |
-| 49 | Satiety | 114 | 243 |
-| 50 | Thirst | 107 | 237 |
-| 51 | Sexual motivation | 109 | 242 |
-| 52 | Sexual desire | 95 | 222 |
-| 53 | Sexuality | 106 | 233 |
-| 54 | Sexual behavior | 103 | 240 |
-| 55 | Sexual orientation | 110 | 252 |
-| 56 | Reward | 111 | 248 |
-| 57 | Reward sensitivity | 111 | 237 |
-| 58 | Reward prediction | 99 | 240 |
-| 59 | Reward prediction error | 132 | 275 |
-| 60 | Self-regulation | 103 | 267 |
-| 61 | Self-efficacy | 123 | 258 |
-| 62 | Self-control | 112 | 260 |
-| 63 | Delay of gratification | 114 | 252 |
-| 64 | Impulse control | 99 | 238 |
-| 65 | Motivation regulation | 109 | 240 |
-| 66 | Effort | 111 | 251 |
-| 67 | Persistence | 101 | 214 |
-| 68 | Persistence failure | 101 | 237 |
-| 69 | Implementation intentions | 116 | 248 |
-| 70 | Action orientation | 111 | 249 |
-| 71 | State orientation | 112 | 260 |
-| 72 | Procrastination | 114 | 241 |
-| 73 | Motivation crowding | 112 | 244 |
-| 74 | Ego-depletion/resource models and evidence limits | 108 | 275 |
-| 75 | Motivation and context | 110 | 257 |
+| 1 | Motivation | 749 | 905 |
+| 2 | Motive | 769 | 918 |
+| 3 | Need | 761 | 905 |
+| 4 | Drive | 743 | 897 |
+| 5 | Incentive | 687 | 820 |
+| 6 | Instinctive motivation | 650 | 792 |
+| 7 | Drive-reduction theory | 646 | 793 |
+| 8 | Arousal theory | 624 | 778 |
+| 9 | Incentive theory | 626 | 765 |
+| 10 | Need-based theories | 657 | 806 |
+| 11 | Goal | 716 | 855 |
+| 12 | Goal representation | 648 | 788 |
+| 13 | Goal selection | 622 | 756 |
+| 14 | Goal activation | 679 | 814 |
+| 15 | Goal commitment | 690 | 831 |
+| 16 | Goal pursuit | 267 | 413 |
+| 17 | Goal monitoring | 258 | 401 |
+| 18 | Goal progress | 229 | 373 |
+| 19 | Goal standard | 237 | 382 |
+| 20 | Goal conflict | 239 | 377 |
+| 21 | Goal shielding | 229 | 367 |
+| 22 | Goal substitution | 243 | 387 |
+| 23 | Goal disengagement | 238 | 378 |
+| 24 | Goal reengagement | 224 | 354 |
+| 25 | Goal gradient | 252 | 389 |
+| 26 | Intrinsic motivation | 242 | 377 |
+| 27 | Extrinsic motivation | 216 | 349 |
+| 28 | Incentive motivation | 212 | 348 |
+| 29 | Approach motivation | 199 | 331 |
+| 30 | Avoidance motivation | 203 | 328 |
+| 31 | Achievement motivation | 200 | 323 |
+| 32 | Affiliation motivation | 203 | 328 |
+| 33 | Power motivation | 202 | 345 |
+| 34 | Curiosity | 206 | 340 |
+| 35 | Exploration | 190 | 327 |
+| 36 | Competence | 217 | 356 |
+| 37 | Autonomy | 196 | 326 |
+| 38 | Relatedness | 175 | 318 |
+| 39 | Need for achievement | 207 | 354 |
+| 40 | Need for affiliation | 188 | 321 |
+| 41 | Need for power | 184 | 324 |
+| 42 | Self-determination theory | 217 | 376 |
+| 43 | Expectancy-value theory | 197 | 345 |
+| 44 | Control-value processes | 191 | 327 |
+| 45 | Regulatory focus | 194 | 327 |
+| 46 | Approach–avoidance regulation | 195 | 329 |
+| 47 | Hunger | 188 | 332 |
+| 48 | Appetite | 172 | 303 |
+| 49 | Satiety | 172 | 302 |
+| 50 | Thirst | 168 | 299 |
+| 51 | Sexual motivation | 186 | 320 |
+| 52 | Sexual desire | 169 | 297 |
+| 53 | Sexuality | 165 | 293 |
+| 54 | Sexual behavior | 163 | 301 |
+| 55 | Sexual orientation | 176 | 319 |
+| 56 | Reward | 177 | 315 |
+| 57 | Reward sensitivity | 176 | 303 |
+| 58 | Reward prediction | 157 | 299 |
+| 59 | Reward prediction error | 198 | 342 |
+| 60 | Self-regulation | 156 | 321 |
+| 61 | Self-efficacy | 181 | 317 |
+| 62 | Self-control | 162 | 311 |
+| 63 | Delay of gratification | 183 | 322 |
+| 64 | Impulse control | 157 | 297 |
+| 65 | Motivation regulation | 167 | 299 |
+| 66 | Effort | 166 | 307 |
+| 67 | Persistence | 156 | 270 |
+| 68 | Persistence failure | 156 | 293 |
+| 69 | Implementation intentions | 181 | 314 |
+| 70 | Action orientation | 166 | 305 |
+| 71 | State orientation | 167 | 316 |
+| 72 | Procrastination | 177 | 305 |
+| 73 | Motivation crowding | 167 | 300 |
+| 74 | Ego-depletion/resource models and evidence limits | 201 | 369 |
+| 75 | Motivation and context | 197 | 384 |
 
 ## 6. Scientific Integrity Gate
 
-The chapter explicitly distinguishes:
-- motivation from motive, need, incentive, reward, and self-regulation;
-- goals from goal activation, commitment, pursuit, and attainment;
-- intrinsic from extrinsic motivation;
-- approach from avoidance;
-- affiliation from relatedness and attachment;
-- sexual motivation, sexual desire, sexuality, sexual behavior, and sexual orientation;
-- reward from reinforcement;
-- reward prediction from reward prediction error;
-- self-efficacy from objective ability and self-esteem;
-- self-control from broad self-regulation;
-- persistence from indiscriminate continuation;
-- procrastination from legitimate or strategic delay;
-- theory/model claims from established findings.
+PASS on the reviewed architecture/knowledge-layer checks:
 
-The chapter also preserves evidence limits for **ego-depletion/resource models and evidence limits** rather than presenting strong resource-depletion claims as settled fact.
+- Definitions remain distinct from theories and models.
+- Theory/model entries are not represented as automatically settled fact.
+- Causal language is constrained where evidence is uncertain.
+- Ego-depletion/resource models retain explicit evidence limits.
+- Motivation is distinguished from motive, need, drive, incentive, reward, goal processes, and self-regulation.
+- Goal target, activation, commitment, pursuit, monitoring, progress, conflict, shielding, substitution, disengagement, and reengagement remain separately retrievable.
+- Intrinsic/extrinsic and approach/avoidance distinctions are preserved.
+- Sexual motivation, sexual desire, sexuality, sexual behavior, and sexual orientation remain distinct.
+- Reward, reward sensitivity, reward prediction, and reward prediction error remain distinct.
+- Self-efficacy, self-control, impulse control, and broad self-regulation remain distinct.
+- Persistence and disengagement are not treated as synonymous.
+- Context is represented as a relationship rather than a duplicate owner.
 
-## 7. Final Result
+## 7. Repository Hygiene Gate
+
+- Canonical chapter is **one continuous file**.
+- No separate surgical deepening files are required for the chapter.
+- No rebuild record or depth index is used as canonical knowledge.
+- Chapter-level synthesis is visibly separated from the 75 Knowledge Objects.
+- Validation metrics correspond to the current canonical file.
+
+## 8. Final Result
 
 **ONTOLOGY: PASS**  
 **STRUCTURE: PASS**  
 **OWNERSHIP: PASS**  
+**DEPTH: PASS**  
 **SCIENTIFIC INTEGRITY: PASS**  
-**DEPTH: PASS**
+**REPOSITORY HYGIENE: PASS**
 
-The chapter is ready to be marked **LOCKED & SEALED** after final repository metadata synchronization.
+**Final certification:** Chapter 1.12 is eligible for **LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 1.1**.
