@@ -99,7 +99,7 @@ The cross-chapter ownership audit is maintained against the live locked System 1
 
 `knowledge/system-01/CROSS_CHAPTER_OWNERSHIP_REMEDIATION.md`
 
-The completed System 1 chapters are maintained as individually versioned canonical knowledge objects. Current completion is through Chapter 1.11.
+The completed System 1 chapters are maintained as individually versioned canonical knowledge objects. Current completion is through Chapter 1.12.
 
 ---
 
@@ -180,12 +180,29 @@ This structure reflects the current canonical repository state. Chapter-specific
 - Generic/repeated Core Understanding blocks: **0**
 - Topic additions/removals/renames: **0**
 - Final validation: `knowledge/system-01/chapter-1.11/CHAPTER_1.11_FINAL_VALIDATION.md`
+### Chapter 1.12 — MOTIVATION, NEEDS, GOALS, AND SELF-REGULATION
+- **75 Topics**
+- **LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 1.0**
+- Exact architecture match: **75/75**
+- Total chapter words: **19,034**
+- Total Core Understanding words: **8,674**
+- Average Core Understanding: **115.7 words/topic**
+- Minimum Core Understanding: **95 words**
+- Maximum Core Understanding: **143 words**
+- Six-section Knowledge Objects: **75/75**
+- Owns boundaries: **75/75**
+- Defers boundaries: **75/75**
+- Generic/repeated Core Understanding blocks: **0**
+- Topic additions/removals/renames: **0**
+- Ownership gate: **PASS**
+- Final validation: `knowledge/system-01/chapter-1.12/CHAPTER_1.12_FINAL_VALIDATION.md`
+
 
 ### Completed System 1 State
-- Chapters completed through **1.11**
-- Canonical chapter Topics written through 1.11: **733**
-- Chapter 1.11 is the latest completed canonical knowledge layer.
-- Next target: **Chapter 1.12** — only after a fresh architecture/ownership audit against the live repository.
+- Chapters completed through **1.12**
+- Canonical chapter Topics written through 1.12: **808**
+- Chapter 1.12 is the latest completed canonical knowledge layer.
+- Next target: **Chapter 1.13** — only after a fresh architecture/ownership audit against the live repository.
 
 
 ## System 1 Architecture Precision Pass — Completed
