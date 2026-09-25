@@ -3099,6 +3099,24 @@ Peer relationships provide opportunities for cooperation, negotiation, compariso
 
 Peer relationships become increasingly important during childhood and adolescence, while remaining relevant across adulthood.
 
+### Peer relationships as developmental contexts
+Peer development concerns how relationships among people of similar age or status change over time and how those relationships shape social learning, identity, emotion, and behavior. Peer relationships differ from adult–child relationships because they involve greater reciprocity and increasingly shared status.
+
+### Friendship development
+Early friendships often involve proximity and shared activity. With development, friendship becomes increasingly organized around trust, reciprocity, shared interests, emotional support, and understanding. Children and adolescents become more capable of maintaining relationships across conflict and separation, although individual and cultural differences are substantial.
+
+### Peer groups and norms
+Groups provide standards for what is admired, accepted, mocked, or rejected. Young people learn these norms and may adjust behavior to gain belonging or status. Peer influence is therefore a mechanism of social learning, not simply pressure toward risky behavior.
+
+### Acceptance and rejection
+Peer acceptance can provide opportunities for interaction and support, while chronic rejection can restrict social opportunities and increase stress. Associations between peer status and later outcomes are complex because behavior, temperament, family context, and peer environments can influence both status and later functioning.
+
+### Adolescence
+Peer relationships become especially salient during adolescence as young people gain autonomy and spend more time with peers. Romantic relationships may also emerge and become contexts for learning intimacy, conflict management, and emotional regulation.
+
+### Cultural variation
+The timing and meaning of peer autonomy differ across societies. Some cultures place greater emphasis on family-centered socialization, while others provide more opportunities for independent peer interaction. Developmental research should distinguish universal capacities for affiliation from culturally organized patterns of peer life.
+
 ## 4. Relationship to This Chapter
 Peer development is a developmental system connecting social experience with social-cognitive and emotional development.
 
@@ -3128,6 +3146,27 @@ Effects depend on teaching quality, school climate, resources, culture, student 
 
 Schooling is not synonymous with learning; learning occurs in many environments.
 
+### School as a developmental environment
+School and learning contexts provide structured opportunities for cognitive, social, emotional, and identity development. School is not only a location where information is transmitted; it organizes time, relationships, evaluation, expectations, status, and access to resources.
+
+### Instruction and cognitive development
+Instruction can provide scaffolding, repeated practice, feedback, conceptual explanation, and opportunities to apply knowledge. Learning depends on prior knowledge, motivation, language, attention, sleep, classroom conditions, and teaching quality. Schooling can therefore contribute to development without being the sole source of cognitive change.
+
+### Teacher relationships
+Teacher expectations and relationships can affect engagement, belonging, feedback, and opportunity. The causal interpretation of teacher effects is difficult because teachers and students are not randomly matched and classroom environments contain many correlated influences.
+
+### Peer climate
+Schools also provide peer environments. Cooperation, competition, exclusion, bullying, friendship, and social comparison can affect emotional and social development. Peer climate can alter how students interpret school and whether they feel safe enough to participate.
+
+### Educational inequality
+Access to high-quality education is shaped by family resources, neighborhood conditions, institutional funding, language, disability support, discrimination, and broader social inequality. Differences in educational outcomes therefore cannot automatically be attributed to differences in individual ability or motivation.
+
+### Developmental transitions
+Moving between school levels changes academic demands, social networks, teacher structures, and expectations for autonomy. Transitions can be opportunities for growth but can also produce stress. Preparation, continuity of support, and fit between demands and skills influence adaptation.
+
+### Boundaries
+This Topic owns developmental effects of school and learning contexts. General learning mechanisms belong to the learning chapter, and general educational psychology should not be duplicated here.
+
 ## 4. Relationship to This Chapter
 It identifies education as a developmental context across childhood and adolescence.
 
@@ -3154,6 +3193,27 @@ Cultural influences are developmental effects arising from culturally shared pra
 Culture shapes what behaviors are encouraged, which developmental goals are emphasized, how relationships are organized, and what roles are available. Individuals also participate in and reproduce cultural practices.
 
 Cultural influences do not imply that every person within a culture is psychologically identical.
+
+### Culture as a developmental context
+Cultural influences include shared meanings, practices, values, institutions, language patterns, social roles, and norms that shape developmental opportunities and interpretations. Culture is not a single variable added to biology; it is embedded in the environments in which people develop.
+
+### Cultural practices and development
+Children participate in culturally organized activities such as caregiving, schooling, work, play, ritual, communication, and family decision making. These activities provide repeated experiences that can shape skills, expectations, and identity. A developmental difference can therefore reflect differences in opportunity and practice rather than a difference in underlying capacity.
+
+### Cultural models of the self and relationships
+Cultures vary in the emphasis placed on independence, interdependence, family obligation, hierarchy, equality, autonomy, and relational identity. These differences can influence developmental goals and self-understanding. They should not be reduced to simplistic national stereotypes because substantial within-culture variation exists.
+
+### Culture and timing
+The timing of developmental transitions can be culturally organized. The meaning of adolescence, adult independence, marriage, work, caregiving, and aging differs across societies. Developmental stages should therefore be interpreted as partly biological and partly socially structured.
+
+### Acculturation and migration
+When people move between cultural contexts, they may encounter new norms, languages, roles, and expectations. Development can involve maintaining elements of an earlier cultural identity while acquiring practices from a new context. Experiences differ according to discrimination, social support, language, family dynamics, and community resources.
+
+### Research implications
+Developmental measures may not function identically across cultures. Differences in language, response styles, familiarity with tasks, and normative expectations can affect scores. Cross-cultural developmental research therefore requires careful measurement and interpretation rather than assuming that one population's developmental sequence is universal.
+
+### Boundary
+This Topic owns cultural influence on developmental processes. General cultural psychology, cross-cultural differences, and culture-specific psychological mechanisms belong to Chapter 1.17.
 
 ## 4. Relationship to This Chapter
 This Topic identifies culture as a developmental system; broader cultural psychology remains in Chapter 1.17.
@@ -3184,6 +3244,27 @@ Family, peers, culture, education, socioeconomic conditions, and opportunities f
 
 Exploration can continue after adolescence, especially during major adult transitions.
 
+### Exploration as a developmental process
+Adolescent identity exploration involves considering alternatives concerning values, relationships, education, occupation, culture, beliefs, and future roles. Exploration can involve trying possibilities, gathering information, observing role models, discussing alternatives, and revising earlier assumptions.
+
+### Why adolescence creates opportunities
+Biological maturation, increasing cognitive capacity, expanded social worlds, educational choices, and greater autonomy create new possibilities for self-definition. These opportunities do not guarantee exploration. Family expectations, economic constraints, cultural norms, and social inequality can narrow or shape available choices.
+
+### Exploration and commitment
+Exploration and commitment are related but distinct. A person may explore extensively before committing, commit early and later reconsider, or maintain a provisional commitment while continuing to evaluate alternatives. Identity development should therefore not be represented as a single universal sequence.
+
+### Domains differ
+Identity exploration can be active in one domain and minimal in another. A young person may have a clear occupational goal while still exploring cultural identity or relationships. Aggregate measures can conceal this domain-specific pattern.
+
+### Social feedback
+Peers, parents, teachers, mentors, and online environments provide information and social feedback that can influence identity. Feedback is interpreted through existing beliefs and goals. Positive recognition can support exploration, while rejection or discrimination can constrain possibilities or intensify identity-related uncertainty.
+
+### Culture and identity
+Cultural traditions can provide ready-made identity commitments, while multicultural environments can require negotiation among multiple cultural frameworks. Neither strong tradition nor extensive exploration is inherently healthier. Development depends on whether identity organization supports coherent functioning, belonging, and adaptation.
+
+### Later development
+Identity exploration often continues beyond adolescence as education, work, relationships, migration, parenthood, and other life changes create new questions. Adolescence is therefore an important period of identity development, not its final endpoint.
+
 ## 4. Relationship to This Chapter
 It is a specific developmental manifestation of identity development.
 
@@ -3212,6 +3293,27 @@ Risk-taking varies by context. Adolescents may show heightened sensitivity to re
 Risk-taking can be maladaptive, but some forms of exploration involve acceptable or even adaptive challenges.
 
 Age-related averages do not imply that every adolescent takes excessive risks.
+
+### Definition
+Adolescent risk-taking refers to behavior that involves a meaningful possibility of negative consequences, including some forms of substance use, unsafe driving, sexual risk, aggression, or dangerous experimentation. Risk-taking is heterogeneous and should not be treated as one psychological process.
+
+### Developmental mechanisms
+Adolescent risk behavior can reflect interactions among reward sensitivity, novelty seeking, emotional arousal, social motivation, cognitive control, perceived norms, opportunity, and expected consequences. The relative contribution of these factors varies by behavior and context.
+
+### Peer influence
+Peers can increase risk when risky behavior is rewarded socially or when group norms support it. The same peer context can also reduce risk when peers model caution or prosocial behavior. Adolescents are not simply irrational under peer pressure; social rewards can alter the value assigned to an option at the moment of choice.
+
+### Experience and learning
+Risk behavior can produce immediate rewards that reinforce repetition even when long-term costs are known. Adolescents may therefore understand consequences in the abstract yet choose differently in emotionally intense situations. This distinction separates knowledge of risk from behavior under particular motivational conditions.
+
+### Developmental context
+Some forms of exploration may be relatively normative, while severe or persistent risk behavior can be associated with significant harm. Risk should be evaluated by frequency, severity, context, and consequences rather than by age alone.
+
+### Protective factors
+Supportive relationships, clear expectations, opportunities for competence, structured activities, school engagement, and access to accurate information can reduce some forms of risk. Protective factors are not guarantees and can operate differently across behaviors.
+
+### Measurement limits
+Self-report of risk behavior can be affected by memory, privacy concerns, and social desirability. Official records capture only detected behavior. Developmental research therefore benefits from multiple sources when feasible and should avoid treating any one measure as complete.
 
 ## 4. Relationship to This Chapter
 It is a developmental manifestation of adolescent behavior and decision-making.
