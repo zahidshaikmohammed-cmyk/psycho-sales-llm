@@ -312,3 +312,42 @@ The chapter was re-audited against the live surgical architecture before sealing
 **Current completed System 1 state:** Chapters 1.1–1.13, with **870 canonical chapter Topics** completed through Chapter 1.13.
 
 **Next target:** Chapter 1.14 — only after a fresh live architecture and ownership audit.
+
+
+## Chapter 1.14 — Final Canonical State
+
+**Canonical title:** Personality, Self, Identity, and Individual Differences
+
+**Canonical Topic count:** 67
+
+**Status:** LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 1.0
+
+Canonical file: `knowledge/system-01/chapter-1.14/CHAPTER_1.14.md`
+
+Validation file: `knowledge/system-01/chapter-1.14/CHAPTER_1.14_FINAL_VALIDATION.md`
+
+Final audit metrics:
+
+- **67/67** exact architecture Topics
+- **60,480** total words
+- **44,359** Core Understanding words
+- **662.07** average Core Understanding words/topic
+- **648–690** Core Understanding range
+- **902.27** average Topic corpus
+- **876** minimum Topic corpus
+- **977** maximum Topic corpus
+- **67/67** six-section Knowledge Objects
+- **67/67** Owns boundaries
+- **67/67** Defers boundaries
+- **0** Topics below 400 words
+- **0** architecture mismatches
+- **0** forbidden supplement/rebuild/depth-index artifacts
+
+Special ownership controls preserved:
+- **Self-awareness** remains the Chapter 1.14 canonical self-related owner.
+- **Attachment style → 1.15 canonical owner (redirect only)** is preserved exactly.
+- Individual-difference scope is separated from general foundational, biological, and domain-specific owners.
+
+**Current completed System 1 state:** Chapters 1.1–1.14, with **937 canonical chapter Topics** completed through Chapter 1.14.
+
+**Next target:** Chapter 1.15 — only after a fresh live architecture and ownership audit.
