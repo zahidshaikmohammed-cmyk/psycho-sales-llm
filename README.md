@@ -329,11 +329,11 @@ Validation file: `knowledge/system-01/chapter-1.14/CHAPTER_1.14_FINAL_VALIDATION
 Final audit metrics:
 
 - **67/67** exact architecture Topics
-- **39,029** total words
+- **39,028** total words
 - **21,276** Core Understanding words
 - **317.55** average Core Understanding words/topic
 - **298–357** Core Understanding range
-- **604.48** average Topic corpus
+- **583.06** average Topic corpus
 - **541** minimum Topic corpus
 - **668** maximum Topic corpus
 - **67/67** six-section Knowledge Objects
