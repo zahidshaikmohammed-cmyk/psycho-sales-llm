@@ -9,7 +9,7 @@ Six-section objects: 67/67
 Topic-specific evidence layers: 67/67
 Architecture mismatches: 0
 Forbidden artifacts: 0
-Total words: 39029
+Total words: 39028
 Core Understanding: 21276
 Core Understanding average: 317.55
 Core Understanding range: 298-357
