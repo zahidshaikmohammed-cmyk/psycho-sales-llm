@@ -991,3 +991,500 @@ The general appraisal process and individual appraisal dimensions to their dedic
 - Appraisal need not be fully conscious.
 - Specific appraisal rules vary across theories and evidence.
 
+
+---
+
+## 1.13.32 Basic-emotion approaches
+
+## 1. Purpose
+Explain theories proposing that some emotions are relatively distinct, biologically prepared categories.
+
+## 2. Definition
+Basic-emotion approaches propose that a limited set of emotions can be distinguished as relatively fundamental states with characteristic evolutionary, physiological, expressive, or behavioral properties.
+
+## 3. Core Understanding
+Basic-emotion approaches differ in what makes an emotion “basic.” Some emphasize evolutionary functions, some characteristic expressions, and some neural or developmental evidence. Commonly discussed candidates include fear, anger, disgust, sadness, happiness, and surprise, although lists vary and the status of particular categories is debated.
+
+The approach has generated influential research on emotion recognition, facial expression, development, and comparative behavior. At the same time, evidence does not establish that every emotion category has a single universal biological signature or that facial expressions map one-to-one onto private emotional states. Context, culture, learning, and conceptual knowledge can alter expression and interpretation.
+
+Basic-emotion models are therefore best treated as a family of theories rather than a settled inventory of universal emotion modules.
+
+## 4. Relationship to This Chapter
+This theory family provides one explanation for why some emotions may show recurring patterns across people and situations.
+
+## 5. Boundaries
+### Owns
+Basic-emotion theoretical approaches.
+### Defers
+Specific emotions and expression to their dedicated Topics.
+
+## 6. Key Principles
+- Some emotional categories may have recurrent biological and behavioral properties.
+- “Basic” has multiple definitions.
+- Universality claims require careful evidence.
+
+---
+
+## 1.13.33 Dimensional approaches
+
+## 1. Purpose
+Explain models that represent affective states using continuous dimensions rather than discrete categories.
+
+## 2. Definition
+Dimensional approaches represent affective experience as positions or trajectories within continuous dimensions such as valence and arousal.
+
+## 3. Core Understanding
+Dimensional models can describe many affective states using a small number of quantitative dimensions. A state can be pleasant or unpleasant and highly or weakly activated, allowing continuous variation rather than requiring membership in a fixed category. Some models add dimensions such as dominance or control.
+
+The strength of dimensional approaches is descriptive economy. They capture similarities among emotions and allow changes in affect to be measured continuously. Their limitation is that dimensions may not fully explain differences in meaning, action tendency, social function, or category structure. Two states can occupy similar dimensional locations while differing in psychologically important ways.
+
+Dimensional and categorical descriptions need not be mutually exclusive. A researcher may use dimensions to describe affective space while also studying emotion categories.
+
+## 4. Relationship to This Chapter
+Dimensional approaches provide the theoretical basis for the chapter's treatment of valence and arousal.
+
+## 5. Boundaries
+### Owns
+Dimensional theories of affect.
+### Defers
+Valence and arousal as constructs and discrete emotion categories.
+
+## 6. Key Principles
+- Affect can vary continuously.
+- Valence and arousal are useful but incomplete dimensions.
+- Dimensional and categorical descriptions can coexist.
+
+---
+
+## 1.13.34 Constructed-emotion approaches
+
+## 1. Purpose
+Explain theories proposing that emotional episodes are constructed from more basic processes rather than produced by fixed emotion-specific programs.
+
+## 2. Definition
+Constructed-emotion approaches propose that emotions emerge from interactions among core affective states, bodily regulation, conceptual knowledge, prediction, and contextual information.
+
+## 3. Core Understanding
+Constructed approaches challenge the assumption that each named emotion must correspond to a dedicated biological package. In influential versions, the brain uses prior knowledge and concepts to make sense of bodily and environmental signals and construct an emotion appropriate to the situation.
+
+This framework highlights variability across contexts and individuals and explains why similar bodily states can be categorized differently. It also emphasizes prediction and categorization rather than a simple stimulus-to-emotion pipeline.
+
+The approach remains theoretically influential but contested. Competing evidence supports some specialized emotional processes and recurrent patterns, while the degree to which emotions are constructed versus biologically differentiated remains an active scientific question. The correct conclusion is not that all emotions are either fixed modules or arbitrary inventions.
+
+## 4. Relationship to This Chapter
+Constructed-emotion theory provides a major alternative to basic-emotion and purely dimensional accounts.
+
+## 5. Boundaries
+### Owns
+Constructed-emotion theoretical approaches.
+### Defers
+Core affect, conceptual knowledge, and emotion generation mechanisms.
+
+## 6. Key Principles
+- Emotional categories can depend on context and concepts.
+- Construction does not mean emotion is unreal.
+- The theoretical debate remains open.
+
+---
+
+## 1.13.35 Facial-feedback hypothesis
+
+## 1. Purpose
+Explain the proposal that facial muscle activity can contribute to emotional experience.
+
+## 2. Definition
+The facial-feedback hypothesis proposes that changes in facial configuration can influence, and in some formulations contribute to, emotional experience.
+
+## 3. Core Understanding
+The hypothesis emerged from the idea that expressive behavior is not merely an output of emotion but can also feed back into affective processing. Facial movement may alter sensory feedback, social interaction, or interpretation of one's own state.
+
+Evidence for facial feedback has been mixed. Some studies report small effects under particular conditions, while replication work has questioned the size and reliability of some classic findings. The strongest claim—that producing a particular facial expression reliably creates the corresponding emotion—should therefore not be treated as established.
+
+The hypothesis remains scientifically useful because it illustrates a broader possibility: emotional processes may be recurrent, with expression and experience influencing each other.
+
+## 4. Relationship to This Chapter
+It connects emotional expression with subjective feeling and emotion generation.
+
+## 5. Boundaries
+### Owns
+The facial-feedback theoretical hypothesis.
+### Defers
+General facial expression and emotion generation.
+
+## 6. Key Principles
+- Expression may feed back into emotion.
+- Evidence for large universal facial-feedback effects is limited.
+- The hypothesis is not equivalent to a claim that expressions cause full emotions.
+
+---
+
+## 1.13.36 Positive affect
+
+## 1. Purpose
+Define positively valenced affective experience without equating it with a single emotion.
+
+## 2. Definition
+Positive affect refers to pleasant or desirable affective states, often including feelings such as contentment, enthusiasm, interest, or joy.
+
+## 3. Core Understanding
+Positive affect is a broad valence class rather than one emotion. It can occur at low or high arousal and can differ in duration, cause, and behavioral consequences. Calm satisfaction and energized enthusiasm are both positive but support different patterns of attention and action.
+
+Positive affect is associated in many studies with exploration, social engagement, and flexible processing, but these relationships are not universal. The effect of positive affect depends on intensity, task demands, goals, and context. Extremely elevated positive activation can also coexist with poor judgment or reduced sensitivity to negative information.
+
+Positive affect should therefore be treated descriptively rather than as a synonym for psychological health or successful functioning.
+
+## 4. Relationship to This Chapter
+Positive affect is one major valence domain and provides a contrast with negative affect.
+
+## 5. Boundaries
+### Owns
+The broad category of positively valenced affect.
+### Defers
+Specific positive emotions and well-being constructs.
+
+## 6. Key Principles
+- Positive affect is broader than happiness.
+- Positive valence does not guarantee adaptive consequences.
+- Activation level changes the meaning of positive affect.
+
+---
+
+## 1.13.37 Negative affect
+
+## 1. Purpose
+Define negatively valenced affect without treating unpleasantness as inherently pathological.
+
+## 2. Definition
+Negative affect refers to unpleasant or aversive affective states, including distress, fear, anger, sadness, and related experiences.
+
+## 3. Core Understanding
+Negative affect is a broad category rather than a single emotion. It can signal threat, loss, frustration, violation, uncertainty, or other concerns. Different negative emotions have different action tendencies and meanings, so treating all unpleasant states as equivalent loses important information.
+
+Negative affect can support adaptation by directing attention toward problems and motivating protective or corrective behavior. Persistent or disproportionate negative affect can also be associated with impairment, but clinical significance depends on duration, severity, context, and functioning rather than valence alone.
+
+Research on negative affect often uses general distress measures, but such measures can conceal meaningful distinctions among specific emotions.
+
+## 4. Relationship to This Chapter
+Negative affect organizes several discrete emotions while preserving their differences.
+
+## 5. Boundaries
+### Owns
+The broad category of negatively valenced affect.
+### Defers
+Specific emotions and clinical conditions.
+
+## 6. Key Principles
+- Negative affect is heterogeneous.
+- Unpleasantness can have adaptive functions.
+- Clinical significance cannot be inferred from valence alone.
+
+---
+
+## 1.13.38 Happiness
+
+## 1. Purpose
+Describe happiness as a positive affective and evaluative phenomenon.
+
+## 2. Definition
+Happiness is a term used for pleasant emotional experience and, in broader usage, positive evaluations of one's life or circumstances.
+
+## 3. Core Understanding
+Happiness has both state-like and broader evaluative meanings. A person can feel happy at a particular moment, while life satisfaction refers to a more reflective judgment about one's life. These should not be treated as identical. Happiness can fluctuate with events, relationships, bodily states, goals, and interpretation.
+
+Positive emotion does not require continuous pleasure. People can experience happiness alongside sadness, concern, or effort. Nor does happiness provide a universal measure of adaptation. Pursuing meaningful goals can involve temporary discomfort, and some pleasant experiences can have long-term costs.
+
+Scientific research commonly separates momentary affect, global life evaluations, and related well-being constructs because they answer different questions.
+
+## 4. Relationship to This Chapter
+Happiness is a major positive affective experience and illustrates the difference between emotion and broader well-being judgments.
+
+## 5. Boundaries
+### Owns
+Happiness as an affective/evaluative construct.
+### Defers
+Life satisfaction and well-being as broader constructs.
+
+## 6. Key Principles
+- Happiness has both experiential and evaluative meanings.
+- Momentary happiness is not the same as life satisfaction.
+- Happiness is not a complete measure of psychological functioning.
+
+---
+
+## 1.13.39 Sadness
+
+## 1. Purpose
+Explain sadness as a negatively valenced emotional state associated with loss, disappointment, separation, or reduced goal attainment.
+
+## 2. Definition
+Sadness is an unpleasant affective state commonly associated with perceived loss, separation, disappointment, helplessness, or failure to attain an important outcome.
+
+## 3. Core Understanding
+Sadness often shifts attention toward loss and can reduce immediate action intensity while supporting reflection, social support seeking, or adjustment. Its meaning depends on the situation. The same outward behavior can reflect sadness, fatigue, withdrawal, or deliberate rest.
+
+Sadness is a normal emotion and should not be equated with depression. Clinical conditions involve patterns of symptoms, duration, impairment, and diagnostic criteria that exceed the presence of a single emotion.
+
+Sadness can also coexist with other emotions. Loss may produce sadness, anger, guilt, or relief at different moments. Emotional episodes are dynamic rather than mutually exclusive boxes.
+
+## 4. Relationship to This Chapter
+Sadness is a core negatively valenced emotion and demonstrates how emotion can organize responses to loss.
+
+## 5. Boundaries
+### Owns
+Sadness as an emotional experience.
+### Defers
+Depressive disorders and clinical mood states.
+
+## 6. Key Principles
+- Sadness commonly relates to perceived loss.
+- It is a normal emotion, not a diagnosis.
+- Emotional responses to loss can include multiple emotions.
+
+---
+
+## 1.13.40 Fear
+
+## 1. Purpose
+Explain fear as an emotion associated with perceived threat and protective action readiness.
+
+## 2. Definition
+Fear is an affective state commonly arising when a person perceives or represents a threat and becomes oriented toward protection, avoidance, escape, or coping.
+
+## 3. Core Understanding
+Fear can be triggered by immediate danger, anticipated threat, uncertainty, learned cues, memories, or imagination. It often involves increased attention to threat and action readiness, but the exact bodily and behavioral pattern varies. Fear can be adaptive when it improves detection and protection, while disproportionate or persistent fear can become impairing.
+
+Fear is shaped by appraisal. A cue becomes frightening partly through what it means to the person and what coping options appear available. Learned safety can reduce fear without requiring the original stimulus to disappear.
+
+Fear should be distinguished from anxiety. Fear is often more closely linked to a perceived present or specific threat, whereas anxiety can involve uncertain or diffuse future threat; however, the distinction is not absolute in ordinary language or research.
+
+## 4. Relationship to This Chapter
+Fear illustrates threat-related emotion and links appraisal, action tendency, and physiological arousal.
+
+## 5. Boundaries
+### Owns
+Fear as a normal emotional experience.
+### Defers
+Anxiety as a broader emotional experience and clinical anxiety disorders.
+
+## 6. Key Principles
+- Fear is commonly organized around perceived threat.
+- Threat perception can be learned and revised.
+- Fear is not itself a clinical disorder.
+
+---
+
+## 1.13.41 Anger
+
+## 1. Purpose
+Explain anger as an emotion commonly associated with perceived obstruction, wrongdoing, insult, or goal violation.
+
+## 2. Definition
+Anger is a negatively valenced emotional state often involving perceived offense, injustice, obstruction, frustration, or violation of a valued expectation.
+
+## 3. Core Understanding
+Anger can increase readiness to confront, correct, resist, or remove an obstacle. It can therefore support action when a person perceives that change is possible. Anger does not automatically produce aggression; behavior depends on appraisal, norms, goals, learned strategies, and regulation.
+
+Anger can be directed at a person, situation, institution, oneself, or an abstract state of affairs. The perceived cause matters because anger commonly involves attribution of responsibility or preventability, though different theories emphasize different appraisal dimensions.
+
+Like other emotions, anger can be useful or costly depending on intensity, accuracy, duration, and expression. Suppressing all anger is not necessarily adaptive, and acting on every angry impulse is not either.
+
+## 4. Relationship to This Chapter
+Anger illustrates the link between appraisal of obstruction or wrongdoing and action tendency.
+
+## 5. Boundaries
+### Owns
+Anger as an emotional experience.
+### Defers
+Aggression and social conflict to later behavioral/social domains.
+
+## 6. Key Principles
+- Anger often signals perceived obstruction or violation.
+- Anger is not identical to aggression.
+- Regulation affects whether anger becomes constructive or harmful behavior.
+
+---
+
+## 1.13.42 Disgust
+
+## 1. Purpose
+Explain disgust as an aversive emotion associated with contamination, rejection, and avoidance.
+
+## 2. Definition
+Disgust is an aversive emotional state commonly associated with perceived contamination, bodily rejection, decay, or other cues judged unacceptable or repellent.
+
+## 3. Core Understanding
+Disgust often promotes withdrawal and avoidance. Its functions are strongly linked to disease-avoidance in many contexts, but disgust can also be shaped by social learning and cultural norms. Foods, practices, people, or ideas can become disgust-associated through learning even when they are not physically contaminating.
+
+Disgust therefore demonstrates that emotion categories can extend beyond their original biological functions. It can influence moral and social judgments, but such influences should not be interpreted as proof that moral evaluations are simply disguised disgust responses.
+
+Individual sensitivity to disgust varies, and context can strongly alter responses.
+
+## 4. Relationship to This Chapter
+Disgust illustrates an avoidance-oriented emotion with biological, learned, and social dimensions.
+
+## 5. Boundaries
+### Owns
+Disgust as an emotional experience.
+### Defers
+Moral judgment and social evaluation.
+
+## 6. Key Principles
+- Disgust commonly supports avoidance.
+- Its triggers can be learned and culturally shaped.
+- Disgust and moral judgment can interact without being identical.
+
+---
+
+## 1.13.43 Surprise
+
+## 1. Purpose
+Explain surprise as a response to unexpected events.
+
+## 2. Definition
+Surprise is an affective response associated with a discrepancy between what occurs and what was expected.
+
+## 3. Core Understanding
+Surprise is often brief and can involve rapid orientation toward an unexpected event. Its valence is not fixed: an unexpected event can be pleasant, unpleasant, or neutral. Surprise therefore differs from emotions such as fear or happiness that have more consistent valence.
+
+The response depends on prior expectations. A person who expects a particular outcome may experience surprise when it fails to occur, while another person exposed to the same event may not. Surprise can prompt attention and information gathering because the current mental model needs updating.
+
+Not every unexpected event produces strong subjective surprise. Expectation strength, attention, salience, and context matter.
+
+## 4. Relationship to This Chapter
+Surprise demonstrates how expectation and prediction shape emotional response.
+
+## 5. Boundaries
+### Owns
+Surprise as an affective response to unexpectedness.
+### Defers
+Prediction and belief updating to cognition.
+
+## 6. Key Principles
+- Surprise depends on violated expectations.
+- It is not inherently positive or negative.
+- Surprise can trigger information seeking and updating.
+
+---
+
+## 1.13.44 Interest
+
+## 1. Purpose
+Explain interest as an affective state that supports engagement with information, objects, or activities.
+
+## 2. Definition
+Interest is a positively oriented affective state involving attention and engagement toward something perceived as novel, meaningful, complex, or potentially rewarding.
+
+## 3. Core Understanding
+Interest can direct attention toward exploration and sustained engagement. It often arises when something is sufficiently novel to be informative but sufficiently understandable or relevant to invite continued processing. Personal relevance, curiosity, knowledge, and context all influence it.
+
+Interest is related to motivation but is not identical to it. A person can be interested without pursuing an external reward, and motivation can exist without interest. Interest can also change as knowledge increases: what was initially novel may become familiar, while new complexity can renew engagement.
+
+Because interest can sustain attention, it can contribute to learning and exploration, but its effects depend on task structure and opportunity.
+
+## 4. Relationship to This Chapter
+Interest is a positive affective experience that connects emotion with exploration and motivation.
+
+## 5. Boundaries
+### Owns
+Interest as an affective state of engagement.
+### Defers
+Curiosity and motivation to their canonical owners.
+
+## 6. Key Principles
+- Interest promotes engagement.
+- Novelty and relevance can jointly support interest.
+- Interest and motivation overlap without being identical.
+
+---
+
+## 1.13.45 Love and affection
+
+## 1. Purpose
+Describe love and affection as affective experiences involving positive attachment, care, attraction, or emotional closeness.
+
+## 2. Definition
+Love and affection refer to positive affective experiences involving attachment, care, warmth, attraction, intimacy, or valued interpersonal connection.
+
+## 3. Core Understanding
+Love is not a single uniform emotional state. Research distinguishes forms and components involving attachment, caregiving, attraction, intimacy, commitment, and companionate affection. Different relationships can therefore involve different mixtures of affective, motivational, cognitive, and behavioral processes.
+
+Affection can be expressed through attention, warmth, touch, communication, support, or other behavior, but expression varies across people and cultures. Feeling affection also does not guarantee healthy relationship behavior.
+
+Because love is multifaceted, simple biological or emotional definitions are insufficient. Romantic attraction, attachment, caregiving, and enduring commitment can overlap while remaining conceptually distinct.
+
+## 4. Relationship to This Chapter
+Love and affection represent complex positive interpersonal affect and connect emotion with social relationships.
+
+## 5. Boundaries
+### Owns
+Love and affection as affective phenomena.
+### Defers
+Attachment, sexuality, and relationship processes to their dedicated domains.
+
+## 6. Key Principles
+- Love is heterogeneous.
+- Feeling, expression, attraction, attachment, and commitment can dissociate.
+- Cultural and relational context matters.
+
+---
+
+## 1.13.46 Shame
+
+## 1. Purpose
+Explain shame as a self-conscious emotion involving negative evaluation of the self in a social or moral context.
+
+## 2. Definition
+Shame is a self-conscious emotional state involving a negative evaluation of the self, often accompanied by a sense of exposure, inadequacy, or desire to withdraw.
+
+## 3. Core Understanding
+Shame commonly involves attention directed toward the self as an object of evaluation. It can arise after perceived failure, rejection, humiliation, or violation of standards. The emotional experience can include withdrawal, concealment, or attempts to escape social evaluation.
+
+Shame differs from guilt, although the two can co-occur. Guilt more specifically concerns a perceived wrong action or failure, whereas shame more broadly concerns what the event means about the self. These distinctions are not absolute, and people's interpretations vary.
+
+Shame can support social learning when it motivates repair or conformity, but intense or chronic shame can also contribute to avoidance and impaired self-evaluation. Consequences depend on appraisal and regulation.
+
+## 4. Relationship to This Chapter
+Shame introduces self-conscious emotion and prepares the distinction from guilt and pride.
+
+## 5. Boundaries
+### Owns
+Shame as a self-conscious emotional experience.
+### Defers
+Self-concept and personality to their canonical chapters.
+
+## 6. Key Principles
+- Shame commonly centers on negative self-evaluation.
+- It differs conceptually from guilt.
+- Its effects depend on interpretation and regulation.
+
+---
+
+## 1.13.47 Guilt
+
+## 1. Purpose
+Explain guilt as a self-conscious emotion associated with perceived wrongdoing or failure to meet an important responsibility.
+
+## 2. Definition
+Guilt is a self-conscious emotional state involving negative evaluation of one's action, omission, or responsibility for a perceived wrong.
+
+## 3. Core Understanding
+Guilt typically focuses on what a person did or failed to do rather than on the global worth of the self. It can motivate apology, repair, restitution, or behavior change when the person believes corrective action is possible. Guilt can also become maladaptive when responsibility is exaggerated or assigned for events outside one's control.
+
+Guilt is therefore shaped by standards, responsibility judgments, social relationships, and interpretation. A person can feel guilty without actually being responsible, just as a responsible person may not experience guilt.
+
+Guilt and shame often occur together but should not be collapsed into one construct. Their different objects of evaluation can produce different behavioral tendencies.
+
+## 4. Relationship to This Chapter
+Guilt is a self-conscious emotion that contrasts with shame and connects emotion to moral and interpersonal behavior.
+
+## 5. Boundaries
+### Owns
+Guilt as an emotional response to perceived wrongdoing or responsibility.
+### Defers
+Moral judgment and responsibility reasoning.
+
+## 6. Key Principles
+- Guilt commonly focuses on an action or omission.
+- Guilt can motivate repair.
+- Feeling guilty does not prove actual responsibility.
+
