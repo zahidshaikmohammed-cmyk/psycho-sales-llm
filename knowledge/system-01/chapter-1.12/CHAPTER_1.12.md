@@ -2570,3 +2570,76 @@ Sexual desire can also be responsive to context. Some people experience desire s
 Research on sexual motivation uses self-report, behavioral measures, physiological measures, relationship data, and longitudinal methods. Each method captures different aspects and has limitations. Subjective desire cannot be reduced to physiological arousal, and physiological arousal cannot by itself establish subjective desire or consent.
 
 The broad scientific principle is that sexual motivation is multi-determined and dynamic. Biological regulation, learned associations, emotional states, relationships, personal values, and context can interact. Keeping sexual motivation, desire, sexuality, behavior, and orientation distinct prevents major conceptual errors and avoids turning one domain into a proxy for another.
+
+
+## S11. Reward, reward sensitivity, prediction, and prediction error
+
+Reward is a central but easily overloaded term. In psychological science it can refer to an outcome that is valued, pleasant, reinforcing, or behaviorally consequential depending on the theoretical framework. Reward sensitivity concerns how strongly a person or organism responds to reward-related information. Reward prediction concerns expected outcomes. Reward prediction error concerns discrepancies between expected and obtained outcomes. These are related constructs, not interchangeable labels.
+
+Expected reward can influence behavior before the outcome occurs. People allocate effort, attention, and choice partly according to what they predict will happen. Predictions are built from prior experience and current context, so they can be inaccurate. When the outcome differs from expectation, the discrepancy provides information that can update future predictions.
+
+A positive prediction error occurs when an outcome is better than expected; a negative prediction error occurs when it is worse than expected. A zero prediction error can occur when an outcome matches expectation. These concepts are computational descriptions of learning signals, not simple synonyms for happiness or disappointment. Subjective emotion may accompany prediction error, but the constructs are not identical.
+
+Reward sensitivity is also distinct from reward value. A person may be highly responsive to reward cues while consciously valuing a particular outcome modestly. Conversely, someone may value an outcome strongly but show limited immediate behavioral responsiveness because of fatigue, competing goals, low expectancy, or self-regulatory constraints.
+
+Revaluation is crucial. If an outcome changes in desirability, the motivational effect of associated cues can change, but learned cue responses can sometimes persist. This illustrates why reward learning can create partially autonomous motivational dynamics. A cue can become behaviorally important because of its history even when the current context has changed.
+
+Reward prediction and goal pursuit interact continuously. A person pursuing a goal uses feedback to update expectations about progress and outcomes. Unexpected success can increase confidence and effort; unexpected failure can lower expectancy or trigger strategy change. Whether prediction error produces persistence or disengagement depends on how the person interprets the information and what alternatives exist.
+
+Reward sensitivity can also differ across individuals and situations. Biological factors, learning history, current deprivation, personality-related tendencies, and context can influence responsiveness. It is therefore unsafe to infer a stable global “reward sensitivity” from one behavior or one experimental task.
+
+The relation between reward and reinforcement must remain explicit. Reinforcement concerns a change in future behavior caused by a consequence. Reward can be valuable without producing reinforcement, and reinforcement does not require conscious pleasure. This distinction prevents motivational explanations from collapsing learning and valuation into one mechanism.
+
+Reward also interacts with effort. A larger expected reward can increase willingness to exert effort when the person believes the reward is attainable, but the relationship is moderated by effort cost, delay, uncertainty, and competing goals. Reward value alone therefore does not determine behavior.
+
+Computational accounts are useful because they formalize how expectations and errors can change across repeated decisions. They are models, not literal descriptions of every psychological process. A fitted prediction-error parameter does not by itself prove a specific neural or subjective mechanism.
+
+The durable architecture is: reward concerns the value or consequence of an outcome; sensitivity concerns responsiveness; prediction concerns expected value; prediction error concerns discrepancy between expected and obtained outcomes. These processes connect learning, motivation, and decision-making while remaining conceptually distinct.
+
+## S12. Self-regulation as dynamic management of goals, standards, and competing demands
+
+Self-regulation is the process by which people manage thoughts, feelings, motivation, and behavior in relation to goals, standards, and situational demands. It is broader than self-control. Self-control usually refers to regulating impulses or conflicting responses, whereas self-regulation includes goal selection, monitoring, planning, persistence, adjustment, disengagement, and reengagement.
+
+A central architecture is feedback. The person represents a desired or required state, observes the current state, compares them, and selects actions intended to reduce or manage the discrepancy. This model is useful but incomplete because goals can also involve maintenance, prevention, and multiple competing standards. Regulation therefore includes both discrepancy reduction and coordination among priorities.
+
+Self-regulation operates across time scales. Moment-to-moment regulation can involve resisting a distraction; longer-term regulation can involve structuring environments, building habits, changing goals, and maintaining relationships. A person can therefore regulate effectively by changing the environment rather than relying on momentary effort alone.
+
+Multiple goals are a central source of complexity. People often need to manage work, health, relationships, rest, finances, learning, and identity simultaneously. Effective self-regulation requires allocating limited resources across these domains. Goal conflict, opportunity cost, and changing circumstances make this allocation dynamic rather than fixed.
+
+Monitoring is essential but can fail. People may use poor indicators, misinterpret feedback, or selectively attend to evidence. Control can also fail even when monitoring is accurate. Recognizing that a behavior is harmful does not automatically produce the capacity or motivation to change it. Self-regulation therefore contains separable information, valuation, control, and action components.
+
+Self-regulation also depends on motivation. A person can possess strong cognitive control but not invest it in a low-value goal. Conversely, strong motivation can lead a person to restructure the environment, seek assistance, and persist through difficulty. Contemporary work increasingly treats self-regulation as an interaction between control processes and motivational dynamics rather than as a fixed supply of mental strength.
+
+Emotional states can alter regulation by changing attention, valuation, urgency, and interpretation. The relationship is bidirectional: regulation can change emotion, and emotion can change which goals are salient. This means emotional regulation and self-regulation overlap but are not identical.
+
+Context is equally important. Distractions, deadlines, social support, physical fatigue, cues, and institutional structures can alter the probability of successful regulation. A behavior that looks like strong self-control in one environment may require little control because the environment removes temptation. Another person may struggle because the environment repeatedly activates competing goals.
+
+Self-regulation also includes strategic flexibility. If a strategy fails, effective regulation can involve changing the strategy rather than simply increasing effort. If the goal itself becomes unrealistic or low-value, disengagement may be appropriate. Thus persistence is one possible regulatory response, not the definition of successful regulation.
+
+The evidence base contains several competing models. Some emphasize executive control, some motivational value, some feedback loops, some habits and environmental design, and some interactions among these levels. No single model has been established as a complete theory of all self-regulation.
+
+The most important conceptual boundary is therefore that self-regulation is a dynamic process, not a personality label and not a moral virtue. It concerns how people coordinate internal states, goals, standards, actions, and environments over time. Individual differences can influence the process, but situational structure and current motivation remain essential.
+
+## S13. Self-efficacy, self-control, delay of gratification, and impulse control
+
+Self-efficacy, self-control, delay of gratification, and impulse control all concern regulation but answer different questions. Self-efficacy concerns perceived capability to organize and execute actions required for a particular outcome. Self-control concerns regulating behavior when immediate responses conflict with longer-term or higher-priority goals. Delay of gratification concerns choosing or maintaining a delayed outcome over an immediately available one. Impulse control concerns inhibiting or redirecting rapid action tendencies.
+
+Self-efficacy is prospective. It concerns whether the person believes they can perform the required behavior. It can influence goal choice, effort, persistence, and recovery from setbacks. High self-efficacy does not guarantee skill or success, because beliefs can be inaccurate and circumstances can change. Conversely, low self-efficacy can suppress action despite adequate ability.
+
+Self-control is relational: the problem exists because two action tendencies or goals compete. The immediate option may be attractive while a longer-term goal has greater priority. Self-control can involve inhibition, attention shifting, reappraisal, environmental restructuring, or choosing not to enter a tempting situation. It is therefore broader than “willpower.”
+
+Delay of gratification is a particular class of self-control involving temporal trade-offs. The delayed outcome may be larger, more valuable, or more aligned with a higher-order goal. Delay behavior depends on trust, expected waiting time, reward differences, context, learning history, and available alternatives. It should not be interpreted as a pure measure of a stable self-control trait.
+
+Impulse control focuses on rapid tendencies to act. An impulse may arise from reward cues, emotion, habit, or physiological state. Successful regulation can involve stopping the response, delaying it, changing attention, or altering the environment. Not every impulse should be suppressed; some rapid responses are adaptive and efficient.
+
+The four constructs can interact. High self-efficacy can increase willingness to attempt self-control; effective impulse control can support delayed outcomes; repeated success can strengthen perceived capability; and environmental design can reduce the need for momentary control. But none is reducible to another.
+
+The history of ego-depletion research is especially relevant to self-control. Earlier strength-model accounts proposed that self-control consumed a limited resource that could become depleted. Subsequent large collaborative replication efforts and broader reviews have produced substantial uncertainty about the size and robustness of a generalized depletion effect. The evidence does not justify treating self-control as a simple finite fuel tank. Contemporary research increasingly examines motivation, task demands, context, beliefs, and flexible control processes.
+
+This evidence shift illustrates why the chapter preserves uncertainty. A historically influential model can remain conceptually important without retaining its original empirical status. The correct approach is to distinguish the strength model as a theory from the current evidence regarding its predictions.
+
+Self-control also has an important motivational component. People may know how to regulate but choose not to invest control because the immediate alternative is valued or because the long-term goal has low current priority. Conversely, strong personal meaning can make regulation easier. This is why contemporary accounts examine the interaction between motivation and control.
+
+Effective self-control can occur upstream. Removing temptations, changing cues, creating implementation intentions, arranging deadlines, or choosing supportive environments can prevent a conflict from becoming intense. Such strategies are not evidence of weak self-control; they are forms of regulation that change the conditions under which control is required.
+
+The key distinction is therefore functional: self-efficacy asks “Can I execute the required behavior?”; self-control asks “How do I regulate competing tendencies?”; delay of gratification asks “Can I maintain the delayed option over the immediate one?”; impulse control asks “Can I redirect a rapid action tendency?” Their overlap is substantial, but precise retrieval requires preserving these differences.
