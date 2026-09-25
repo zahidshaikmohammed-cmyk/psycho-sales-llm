@@ -62,9 +62,13 @@ This Topic belongs in Chapter 1.14 because it addresses organized patterns of th
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Personality defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Personality defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -128,9 +132,13 @@ This Topic belongs in Chapter 1.14 because it addresses relatively enduring dime
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Personality trait defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Personality trait defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -194,9 +202,13 @@ This Topic belongs in Chapter 1.14 because it addresses approaches explaining pe
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Trait theory defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Trait theory defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -260,9 +272,13 @@ This Topic belongs in Chapter 1.14 because it addresses time-limited configurati
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Personality state defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Personality state defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -326,9 +342,13 @@ This Topic belongs in Chapter 1.14 because it addresses dynamic mechanisms linki
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Personality process defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Personality process defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -392,9 +412,13 @@ This Topic belongs in Chapter 1.14 because it addresses situational activation o
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Trait activation defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Trait activation defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -458,9 +482,13 @@ This Topic belongs in Chapter 1.14 because it addresses continuity of personalit
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Personality stability defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Personality stability defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -524,9 +552,13 @@ This Topic belongs in Chapter 1.14 because it addresses systematic change in per
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Personality change defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Personality change defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -590,9 +622,13 @@ This Topic belongs in Chapter 1.14 because it addresses lifespan emergence, orga
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Personality development defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Personality development defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -656,9 +692,13 @@ This Topic belongs in Chapter 1.14 because it addresses how person characteristi
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Person–situation debate defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Person–situation debate defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -722,9 +762,13 @@ This Topic belongs in Chapter 1.14 because it addresses behavior as a product of
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Interactionist personality model defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Interactionist personality model defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -788,9 +832,13 @@ This Topic belongs in Chapter 1.14 because it addresses unconscious processes, c
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Psychodynamic perspective defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Psychodynamic perspective defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -854,9 +902,13 @@ This Topic belongs in Chapter 1.14 because it addresses learned behavior and env
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Behavioral perspective defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Behavioral perspective defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -920,9 +972,13 @@ This Topic belongs in Chapter 1.14 because it addresses reciprocal relations amo
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Social-cognitive perspective defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Social-cognitive perspective defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -986,9 +1042,13 @@ This Topic belongs in Chapter 1.14 because it addresses subjective experience, a
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Humanistic perspective defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Humanistic perspective defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -1052,9 +1112,13 @@ This Topic belongs in Chapter 1.14 because it addresses genetic, neural, physiol
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Biological perspective defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Biological perspective defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -1118,9 +1182,13 @@ This Topic belongs in Chapter 1.14 because it addresses possible evolved functio
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Evolutionary perspective defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Evolutionary perspective defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -1184,9 +1252,13 @@ This Topic belongs in Chapter 1.14 because it addresses measurable dimensions of
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Trait perspective defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Trait perspective defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -1250,9 +1322,13 @@ This Topic belongs in Chapter 1.14 because it addresses cultural systems, norms,
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Cultural perspective defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Cultural perspective defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -1316,9 +1392,13 @@ This Topic belongs in Chapter 1.14 because it addresses hierarchical organizatio
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Big Five model defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Big Five model defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -1382,9 +1462,13 @@ This Topic belongs in Chapter 1.14 because it addresses curiosity, imagination, 
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Openness defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Openness defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -1448,9 +1532,13 @@ This Topic belongs in Chapter 1.14 because it addresses organization, persistenc
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Conscientiousness defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Conscientiousness defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -1514,9 +1602,13 @@ This Topic belongs in Chapter 1.14 because it addresses sociability, assertivene
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Extraversion defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Extraversion defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -1580,9 +1672,13 @@ This Topic belongs in Chapter 1.14 because it addresses cooperation, warmth, tru
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Agreeableness defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Agreeableness defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -1646,9 +1742,13 @@ This Topic belongs in Chapter 1.14 because it addresses negative emotionality an
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Neuroticism defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Neuroticism defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -1712,9 +1812,13 @@ This Topic belongs in Chapter 1.14 because it addresses early-emerging patterns 
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Temperament defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Temperament defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -1778,9 +1882,13 @@ This Topic belongs in Chapter 1.14 because it addresses moral, motivational, or 
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Character defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Character defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -1844,9 +1952,13 @@ This Topic belongs in Chapter 1.14 because it addresses capacity and tendency to
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Agency defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Agency defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -1910,9 +2022,13 @@ This Topic belongs in Chapter 1.14 because it addresses orientation toward conne
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Communion defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Communion defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -1976,9 +2092,13 @@ This Topic belongs in Chapter 1.14 because it addresses organized psychological 
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Self defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Self defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -2042,9 +2162,13 @@ This Topic belongs in Chapter 1.14 because it addresses beliefs and representati
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Self-concept defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Self-concept defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -2108,9 +2232,13 @@ This Topic belongs in Chapter 1.14 because it addresses self-related knowledge s
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Self-schema defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Self-schema defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -2174,9 +2302,13 @@ This Topic belongs in Chapter 1.14 because it addresses awareness of one's own s
 
 ## 5. Boundaries
 
-### Owns Self-awareness as a self-related psychological construct: awareness of one's own states, characteristics, actions, and self-related processes.
+### Owns
 
-### Defers Consciousness-specific self-awareness → Chapter 1.5; metacognitive monitoring → Chapter 1.9; emotional awareness → Chapter 1.13.
+Self-awareness as a self-related psychological construct: awareness of one's own states, characteristics, actions, and self-related processes.
+
+### Defers
+
+Consciousness-specific self-awareness → Chapter 1.5; metacognitive monitoring → Chapter 1.9; emotional awareness → Chapter 1.13.
 
 ## 6. Key Principles
 
@@ -2240,9 +2372,13 @@ This Topic belongs in Chapter 1.14 because it addresses knowledge about one's ow
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Self-knowledge defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Self-knowledge defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -2306,9 +2442,13 @@ This Topic belongs in Chapter 1.14 because it addresses evaluation of one's own 
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Self-esteem defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Self-esteem defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -2372,9 +2512,13 @@ This Topic belongs in Chapter 1.14 because it addresses broader sense of having 
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Self-worth defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Self-worth defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -2438,9 +2582,13 @@ This Topic belongs in Chapter 1.14 because it addresses coherence or continuity 
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Self-consistency defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Self-consistency defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -2504,9 +2652,13 @@ This Topic belongs in Chapter 1.14 because it addresses perceived mismatch among
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Self-discrepancy defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Self-discrepancy defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -2570,9 +2722,13 @@ This Topic belongs in Chapter 1.14 because it addresses representation of charac
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Actual self defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Actual self defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -2636,9 +2792,13 @@ This Topic belongs in Chapter 1.14 because it addresses representation of charac
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Ideal self defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Ideal self defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -2702,9 +2862,13 @@ This Topic belongs in Chapter 1.14 because it addresses representation of charac
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Ought self defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Ought self defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -2768,9 +2932,13 @@ This Topic belongs in Chapter 1.14 because it addresses representations of what 
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Possible selves defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Possible selves defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -2834,9 +3002,13 @@ This Topic belongs in Chapter 1.14 because it addresses seeking or interpreting 
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Self-verification defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Self-verification defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -2900,9 +3072,13 @@ This Topic belongs in Chapter 1.14 because it addresses processes maintaining or
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Self-enhancement defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Self-enhancement defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -2966,9 +3142,13 @@ This Topic belongs in Chapter 1.14 because it addresses creating or claiming obs
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Self-handicapping defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Self-handicapping defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -3032,9 +3212,13 @@ This Topic belongs in Chapter 1.14 because it addresses behavior aimed at influe
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Self-presentation defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Self-presentation defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -3098,9 +3282,13 @@ This Topic belongs in Chapter 1.14 because it addresses strategic regulation of 
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Impression management defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Impression management defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -3164,9 +3352,13 @@ This Topic belongs in Chapter 1.14 because it addresses monitoring social cues a
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Self-monitoring defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Self-monitoring defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -3230,9 +3422,13 @@ This Topic belongs in Chapter 1.14 because it addresses sense of being a continu
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Personal identity defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Personal identity defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -3296,9 +3492,13 @@ This Topic belongs in Chapter 1.14 because it addresses organization and accessi
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Identity structure defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Identity structure defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -3362,9 +3562,13 @@ This Topic belongs in Chapter 1.14 because it addresses centrality of moral qual
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Moral identity defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Moral identity defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -3428,9 +3632,13 @@ This Topic belongs in Chapter 1.14 because it addresses enduring beliefs about w
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Personal values defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Personal values defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -3494,9 +3702,13 @@ This Topic belongs in Chapter 1.14 because it addresses beliefs about whether ou
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Locus of control defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Locus of control defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -3560,9 +3772,13 @@ This Topic belongs in Chapter 1.14 because it addresses characteristic ways of e
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Attributional style defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Attributional style defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -3626,9 +3842,13 @@ This Topic belongs in Chapter 1.14 because it addresses generalized expectation 
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Optimism defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Optimism defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -3692,9 +3912,13 @@ This Topic belongs in Chapter 1.14 because it addresses generalized expectation 
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Pessimism defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Pessimism defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -3758,9 +3982,13 @@ This Topic belongs in Chapter 1.14 because it addresses demanding standards and 
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Perfectionism defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Perfectionism defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -3824,9 +4052,13 @@ This Topic belongs in Chapter 1.14 because it addresses characteristic expectati
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Attachment style → 1.15 canonical owner (redirect only) defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Attachment style → 1.15 canonical owner (redirect only) defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -3890,9 +4122,13 @@ This Topic belongs in Chapter 1.14 because it addresses systematic ways people v
 
 ## 5. Boundaries
 
-### Owns Individual differences within personality, self, identity, and individual-difference psychology.
+### Owns
 
-### Defers General foundational individual differences → Chapter 1.1; biological individual differences → Chapter 1.3; domain-specific individual differences → their respective canonical chapters.
+Individual differences within personality, self, identity, and individual-difference psychology.
+
+### Defers
+
+General foundational individual differences → Chapter 1.1; biological individual differences → Chapter 1.3; domain-specific individual differences → their respective canonical chapters.
 
 ## 6. Key Principles
 
@@ -3956,9 +4192,13 @@ This Topic belongs in Chapter 1.14 because it addresses systematic measurement o
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Personality assessment defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Personality assessment defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -4022,9 +4262,13 @@ This Topic belongs in Chapter 1.14 because it addresses assessment based on a pe
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Self-report assessment defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Self-report assessment defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -4088,9 +4332,13 @@ This Topic belongs in Chapter 1.14 because it addresses assessment based on repo
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Informant assessment defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Informant assessment defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -4154,9 +4402,13 @@ This Topic belongs in Chapter 1.14 because it addresses assessment using observe
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Behavioral assessment defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Behavioral assessment defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -4220,9 +4472,13 @@ This Topic belongs in Chapter 1.14 because it addresses methods inferring psycho
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Projective assessment defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Projective assessment defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -4286,9 +4542,13 @@ This Topic belongs in Chapter 1.14 because it addresses systematic alteration of
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Response distortion defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Response distortion defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -4352,9 +4612,13 @@ This Topic belongs in Chapter 1.14 because it addresses tendency to present ones
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Social desirability defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Social desirability defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
@@ -4418,9 +4682,13 @@ This Topic belongs in Chapter 1.14 because it addresses degree to which personal
 
 ## 5. Boundaries
 
-### Owns The canonical personality/self/identity/individual-difference meaning of Personality measurement validity defined in this object.
+### Owns
 
-### Defers Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
+The canonical personality/self/identity/individual-difference meaning of Personality measurement validity defined in this object.
+
+### Defers
+
+Neighboring constructs, mechanisms, specialized manifestations, clinical conditions, and cross-domain processes with separate canonical owners.
 
 ## 6. Key Principles
 
