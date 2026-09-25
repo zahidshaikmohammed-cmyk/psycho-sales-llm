@@ -613,6 +613,21 @@ Stability varies by characteristic, developmental period, measurement method, an
 
 Longitudinal research is required to estimate stability directly. Measurement reliability is also important because unstable measurement can appear as developmental instability.
 
+### Forms of stability
+Stability can refer to persistence of an average level, preservation of rank order, consistency of a behavioral pattern, or maintenance of an underlying organization. These forms can produce different conclusions. A group mean can remain stable while every individual changes in a coordinated way. Conversely, rank order can remain stable even while the group mean rises or falls. Developmental writing should therefore specify what is stable.
+
+### Relative and absolute stability
+Relative stability asks whether people retain their relative positions compared with others. Absolute or mean-level stability asks whether the level of a characteristic changes over time. A high correlation across two ages indicates relative stability, not absence of developmental change. This distinction is essential when interpreting longitudinal personality, ability, or behavioral data.
+
+### Mechanisms of stability
+Stability can arise from persistent biological characteristics, recurring environments, established habits, durable relationships, accumulated knowledge, and person–environment feedback. Early patterns can also influence later opportunities, which can reinforce the original pattern. Such continuity should not automatically be interpreted as biological determination because environmental stability can produce similar-looking persistence.
+
+### Stability is usually probabilistic
+Developmental characteristics are rarely perfectly stable. Even highly persistent traits show measurement error and individual change. Stability therefore describes a degree of consistency, not an unchangeable essence. The practical question is often how much stability exists, at what age, for which characteristic, and under which conditions.
+
+### Stability and plasticity
+Stability and plasticity are compatible. A characteristic can be relatively stable while remaining modifiable. Plasticity refers to capacity for change; it does not imply that change is easy, unlimited, or equally likely for everyone. Understanding both concepts prevents the false assumption that either development is fixed or everything is infinitely changeable.
+
 ## 4. Relationship to This Chapter
 
 Stability is a core temporal property that must be considered alongside change, continuity, discontinuity, and plasticity.
@@ -668,6 +683,21 @@ The meaning and direction of change depend on the construct and measurement. Cha
 
 To establish developmental change, researchers must distinguish within-person change from differences between age groups and account for relevant cohort, period, and measurement effects.
 
+### Change as a developmental property
+Change is broader than improvement. A developmental characteristic can increase, decrease, reorganize, differentiate, integrate, or fluctuate. Some changes represent gains in capacity; others reflect trade-offs, adaptation, or loss. A complete developmental account therefore describes direction and function rather than assuming that movement in any direction is inherently positive or negative.
+
+### Magnitude, rate, and timing
+Developmental change has magnitude and rate. Two individuals can experience the same total change through different trajectories, and the timing of change can alter its meaning. A change that occurs during a transition to a new social role may have different consequences from the same numerical change occurring under stable conditions.
+
+### Sources of change
+Change can arise from maturation, learning, practice, altered motivation, social relationships, environmental transitions, illness or injury, cultural change, and self-directed behavior. These sources often interact. A person may change because an environment changes, because the person changes how they interpret that environment, or because both processes occur together.
+
+### Detecting true change
+Observed change is not automatically developmental change. Measurement error, regression to the mean, practice effects, selective dropout, and changes in measurement instruments can create apparent changes. Strong developmental inference requires designs and analyses that separate genuine within-person change from artifacts.
+
+### Adaptive and maladaptive change
+Developmental change can improve adaptation, reduce it, or do both depending on context. A strategy that is effective in one environment may become costly when demands change. Adaptation therefore requires attention to person–environment fit rather than treating one behavioral pattern as universally optimal.
+
 ## 4. Relationship to This Chapter
 
 Change is a foundational temporal concept connecting developmental change, stability, continuity, discontinuity, plasticity, and lifespan development.
@@ -721,6 +751,21 @@ Some strong critical-period effects are well established in biological and perce
 
 “Critical period” does not mean that development becomes impossible after a birthday or age cutoff in every case.
 
+### Meaning of a critical period
+A critical period is a bounded developmental window during which a particular experience or input is required, or has unusually constrained timing, for a system to develop in a characteristic way. The term is strongest when evidence shows that later experience cannot fully produce the same outcome. It should not be used as a synonym for any age when learning is especially easy.
+
+### Evidence and biological constraint
+Critical periods are well established for some biological and perceptual systems, but their presence and strictness vary across functions. Human psychological development often involves more flexible timing than the strongest examples from animal developmental biology. Claims about a human psychological critical period therefore require direct evidence rather than analogy.
+
+### Critical period versus sensitive period
+A sensitive period is a time when experience has especially strong effects but later learning remains possible. A critical period implies substantially stronger timing constraints. Confusing these terms can produce unnecessary claims of irreversible developmental damage when the evidence instead supports prolonged plasticity.
+
+### Mechanisms
+Critical-period effects can arise when biological systems are especially receptive to particular inputs and later become less responsive or less easily reorganized. Changes in neural connectivity, inhibitory processes, sensory experience, and competing representations can contribute to such timing effects. Mechanisms differ across systems and should not be generalized from one domain to another.
+
+### Limits and misconceptions
+The existence of a critical period does not mean that development outside the window is impossible in every respect. A system may retain partial plasticity, and related functions may develop through alternative pathways. Developmental science therefore distinguishes timing constraints from absolute impossibility.
+
 ## 4. Relationship to This Chapter
 
 Critical periods explain how developmental timing can constrain plasticity.
@@ -773,6 +818,21 @@ Experience outside a sensitive period may still matter, but it can require more 
 ### Evidence Status
 
 Sensitive-period claims require evidence comparing developmental effects across timing of exposure. Age alone is not sufficient evidence that a sensitive period exists.
+
+### Core meaning
+A sensitive period is a developmental interval during which particular experiences have especially strong or efficient effects on a developing capacity, while learning or change remains possible outside that interval. Sensitivity describes altered responsiveness to experience, not a universal deadline.
+
+### Why sensitivity changes with development
+Sensitivity can change because biological systems mature, because prior learning changes what new information can be integrated, and because environmental opportunities change. Earlier experience can prepare a system to benefit from later input, while later experience can sometimes compensate for missing earlier opportunities. Timing is therefore one factor in a larger developmental system.
+
+### Sensitive periods across domains
+Sensitive periods have been studied in language, perceptual learning, social attachment, and other domains, but their evidence and boundaries differ. A sensitive period for one component of a skill should not be generalized to the entire skill. Language, for example, contains multiple systems whose development can have different timing and plasticity.
+
+### Experience-expectant and experience-dependent processes
+Some developmental processes depend on broadly expected inputs, such as ordinary sensory stimulation, whereas others reflect experiences that are highly specific to an individual's environment. Sensitive-period reasoning can apply differently to these forms of development. The distinction helps explain why some experiences are broadly necessary for typical development while others create individual specialization.
+
+### Practical interpretation
+A sensitive period should not be treated as a simple claim that late experience is useless. The correct conclusion is usually probabilistic: earlier experience may be easier, faster, or more influential, while later change remains possible to varying degrees. Evidence should specify what changes, how much timing matters, and what later experience can accomplish.
 
 ## 4. Relationship to This Chapter
 
@@ -831,6 +891,21 @@ Age, health, prior experience, motivation, social support, environmental stabili
 
 Plasticity does not mean that any psychological characteristic can be changed arbitrarily with sufficient effort.
 
+### What plasticity means
+Developmental plasticity is the capacity of a developing system to change its organization or functioning in response to experience, conditions, or altered demands. Plasticity can involve neural, behavioral, cognitive, emotional, social, or strategic change. It is a capacity for modification, not a guarantee that any desired outcome can be produced.
+
+### Sources of plasticity
+Plasticity can arise through learning, practice, changes in neural organization, altered social environments, education, rehabilitation, and shifts in goals or strategies. Different systems have different constraints. Plasticity can also vary with age, health, prior experience, motivation, and the availability of supportive environments.
+
+### Costs and limits
+Change can require effort and resources. Plasticity can have trade-offs: specialization in one function may reduce flexibility elsewhere, and repeated adaptation to a demanding environment may produce patterns that are useful in that context but costly in another. Developmental systems can also become increasingly constrained by accumulated structure and experience.
+
+### Plasticity and resilience
+Plasticity helps explain how people can adapt after adversity, but plasticity and resilience are not identical. Plasticity describes capacity for change; resilience concerns adaptation despite significant challenge or disruption. A system may be highly plastic without producing good outcomes, and resilience can involve stability rather than large visible change.
+
+### Evidence interpretation
+Evidence of change following an intervention demonstrates modifiability under those conditions; it does not prove unlimited developmental potential. Strong claims require attention to duration, transfer, generalization, maintenance, and whether changes reflect the targeted construct or a narrower task-specific improvement.
+
 ## 4. Relationship to This Chapter
 
 Plasticity explains one reason developmental trajectories can change rather than simply unfold according to a fixed timetable.
@@ -881,6 +956,21 @@ Longitudinal, cross-sectional, and sequential designs provide different informat
 ### Misconceptions
 
 A cohort difference is not automatically evidence that people change in that way as they grow older.
+
+### Definition in developmental research
+A cohort effect occurs when people who share a historical or social experience because they belong to the same birth or entry cohort differ from other cohorts in ways that can be mistaken for age-related development. Cohort effects are central to interpreting cross-sectional lifespan data.
+
+### Examples of cohort-generating conditions
+Education systems, technology, nutrition, economic conditions, war, migration, public-health changes, cultural norms, and major social events can affect cohorts differently. People born decades apart may have learned different skills or faced different opportunities even when tested at the same chronological age.
+
+### Age–period–cohort problem
+Age, historical period, and cohort are mathematically related: cohort can be represented as period minus age. Because of this dependency, separating their effects statistically is difficult without strong design assumptions or additional information. Researchers must therefore be cautious when interpreting age differences as developmental change.
+
+### Longitudinal and sequential designs
+Longitudinal studies follow the same individuals and can reduce some cohort ambiguity, but they can still be influenced by historical events and selective attrition. Sequential designs combine information across cohorts and measurement periods to improve identification of age, period, and cohort patterns. No design removes every interpretive challenge automatically.
+
+### Importance for lifespan claims
+Cohort effects are especially important when a finding concerns abilities or behaviors that are strongly shaped by historical conditions. Apparent age-related improvement or decline may partly reflect differences between generations. A careful lifespan conclusion therefore identifies the population, historical period, and study design before generalizing across age groups.
 
 ## 4. Relationship to This Chapter
 
@@ -937,6 +1027,30 @@ Measurement must remain comparable enough across ages for observed differences t
 
 No single developmental design answers every question. Strong developmental science triangulates evidence across complementary designs and distinguishes descriptive age patterns from explanations of developmental mechanisms.
 
+### The methodological problem
+Developmental research must distinguish age differences from developmental change and must determine whether an observed trajectory reflects biological maturation, experience, selection, measurement, or historical context. Method choice therefore affects what conclusions are possible.
+
+### Cross-sectional designs
+Cross-sectional studies compare different age groups at one time. They are efficient and can reveal age-related differences, but the groups belong to different cohorts. Consequently, age differences cannot automatically be interpreted as within-person developmental change.
+
+### Longitudinal designs
+Longitudinal studies repeatedly assess the same people. They provide direct information about individual change and temporal ordering, but they introduce attrition, repeated-testing effects, historical-period influences, and the possibility that measurement properties change with age. Longitudinal evidence is powerful but not automatically causal.
+
+### Sequential designs
+Sequential approaches combine age, cohort, and longitudinal information. They can help distinguish developmental change from cohort effects and can reveal whether trajectories replicate across generations. They require more complex sampling and analysis but are especially valuable for lifespan questions.
+
+### Experimental and quasi-experimental methods
+Experiments can test causal mechanisms when researchers can manipulate an appropriate variable and control relevant conditions. Many developmental variables cannot ethically or practically be manipulated, so natural experiments, policy changes, adoption designs, twin designs, and other quasi-experimental approaches can sometimes provide complementary evidence. Each design answers a different causal question.
+
+### Measurement and developmental equivalence
+A measure must function comparably enough across ages for scores to be interpreted as the same construct. Younger and older participants may understand instructions differently, have different baseline knowledge, or encounter different task demands. Measurement invariance, age-appropriate tasks, multiple informants, and behavioral as well as self-report measures can improve interpretability.
+
+### Ethics and vulnerable populations
+Developmental research often involves children, older adults, families, or people experiencing dependency. Ethical research requires informed consent or appropriate parental permission and assent procedures, privacy protections, minimization of burden, and safeguards proportionate to vulnerability. Ethical constraints are part of sound methodology, not an afterthought.
+
+### Evidence hierarchy
+No single method is universally superior. Descriptive studies establish patterns; longitudinal designs clarify temporal change; experiments strengthen causal inference when feasible; qualitative methods can reveal meanings and processes that standardized measures miss. Strong developmental science integrates methods according to the question rather than treating one design as capable of answering every question.
+
 ## 4. Relationship to This Chapter
 
 Developmental research methods provide the methodological framework for testing the chapter's claims about change, continuity, stages, domains, and systems.
@@ -984,6 +1098,24 @@ Biological age and chronological age are not identical. People of the same chron
 
 ### Evidence Status
 Biological developmental claims require evidence appropriate to the system being studied. Biological change should not automatically be interpreted as a direct psychological effect.
+
+### Scope
+Biological development includes changes in body structure, physiological systems, neural organization, reproductive maturation, immune function, and other biological processes across the lifespan. It provides conditions for psychological development but should not be equated with psychological development itself.
+
+### Maturation and experience
+Maturation refers to biologically organized changes that unfold with development, while experience can modify biological systems through activity, nutrition, stress, learning, and other environmental inputs. The distinction is useful for analysis but the processes interact. Biological development is not a purely internal clock operating independently of context.
+
+### Brain and nervous system
+Neural development involves changes in connectivity, myelination, synaptic organization, network specialization, and functional coordination. Developmental neuroscience shows both continuity and reorganization. Brain differences between age groups do not by themselves establish the psychological meaning or cause of those differences.
+
+### Puberty and reproductive development
+Puberty involves coordinated endocrine and physical changes that establish reproductive maturity and produce substantial changes in body composition and secondary sexual characteristics. Timing varies among individuals and populations. Pubertal changes can interact with social expectations, peer relationships, sleep patterns, and emotional experiences, so their psychological effects are not purely biological.
+
+### Biological aging
+Biological development continues after physical growth ends. Aging involves cumulative changes in physiological systems, repair processes, sensory systems, immune function, and neural and cardiovascular functioning. These changes are heterogeneous: people of the same chronological age can differ substantially in biological condition and functional capacity.
+
+### Developmental interpretation
+Biological development should be described at the level supported by evidence. A biological correlate of a psychological change is not automatically its cause. Psychological functioning can also influence biology through behavior, stress regulation, activity, relationships, and health practices. The most accurate account therefore treats biological and psychological development as interacting systems while keeping their concepts distinct.
 
 ## 4. Relationship to This Chapter
 Biological development supplies the biological layer underlying lifespan change across psychological domains.
