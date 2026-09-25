@@ -2576,6 +2576,27 @@ Reduced social-network size does not necessarily mean reduced social well-being;
 ### Evidence Status
 Age-related emotional patterns show both average trends and substantial individual variation.
 
+### Core pattern
+Socioemotional aging concerns age-related changes in emotional experience, regulation, goals, social relationships, and the allocation of attention to emotionally meaningful information. It does not imply that older adults are uniformly happier or that negative emotion disappears. Development is better described as a changing balance among goals, opportunities, relationships, and regulatory strategies.
+
+### Emotional priorities
+As people perceive time as more limited or priorities change, they may place greater value on emotionally meaningful experiences and relationships. This can influence social selection, attention, and goal choice. Such processes are not restricted to one universal age boundary; they vary with health, culture, life circumstances, and perceived future time.
+
+### Regulation and experience
+Accumulated experience can provide knowledge about emotional situations and strategies for managing them. Older adults may sometimes use strategies that reduce exposure to unnecessary interpersonal conflict or prioritize situations likely to support positive affect. These patterns reflect adaptation and selection, not proof that aging automatically improves every regulatory capacity.
+
+### Social networks
+Social networks can become smaller with age because of retirement, relocation, bereavement, health limitations, or deliberate selection. Network size alone is therefore a poor measure of social well-being. A smaller network can contain more emotionally meaningful relationships, while involuntary isolation can have very different consequences.
+
+### Negative emotion and resilience
+Older adults still experience sadness, anger, anxiety, grief, and stress. Developmental differences in emotional well-being depend on context. Some older people may show effective recovery from everyday stressors, while major losses or chronic illness can produce substantial distress. Socioemotional aging should never be used to dismiss legitimate negative experiences.
+
+### Cultural context
+Family structures, intergenerational obligations, retirement systems, and cultural beliefs about aging influence emotional priorities and relationships. A finding from one cultural setting should not automatically be treated as a universal feature of aging.
+
+### Measurement issues
+Age differences in emotional reports can reflect differences in reporting norms, memory, health, social context, and exposure to stress. Researchers should distinguish emotional frequency, intensity, duration, regulation, and satisfaction rather than treating them as one outcome.
+
 ## 4. Relationship to This Chapter
 This Topic captures the socioemotional dimension of aging separately from cognitive and biological aging.
 
@@ -2610,6 +2631,27 @@ Culture, religion, health status, social support, pain, prognosis, personal valu
 
 ### Evidence Status
 There is no single universal emotional sequence through dying. Popular stage-based descriptions should not be treated as mandatory psychological stages.
+
+### Developmental position
+Death and dying are part of the human lifespan and involve biological, psychological, relational, and cultural processes. Developmental study concerns how people understand mortality, respond to dying, adapt to loss, and organize meaning across life stages. It does not reduce dying to a psychological stage sequence.
+
+### Understanding mortality
+Children's concepts of death develop gradually as they learn about irreversibility, nonfunctionality, universality, and causality. Understanding is shaped by cognitive development, personal experience, cultural and religious teachings, and conversations with adults. Children's reactions to death should therefore be interpreted in developmental and contextual terms.
+
+### Adult awareness of mortality
+Adults can integrate knowledge of mortality into long-term goals, relationships, values, and meaning. Awareness may become especially salient during illness, bereavement, aging, or exposure to death. Responses vary widely; there is no single psychologically correct reaction to mortality.
+
+### Dying and adaptation
+People approaching death may experience physical symptoms, fear, sadness, acceptance, uncertainty, anger, or peace in varying combinations and sequences. Popular stage models can be useful as descriptive possibilities but should not be treated as universal stages that every dying person must experience.
+
+### Grief and bereavement
+Grief is a response to loss that can include emotional, cognitive, physical, social, and behavioral changes. Grief trajectories vary. Some people experience intense distress followed by adaptation; others have persistent or complicated responses. There is no single timetable that defines normal grieving across all cultures and circumstances.
+
+### Social and cultural systems
+Dying affects families, caregivers, clinicians, and communities. Cultural rituals, beliefs, communication practices, and expectations shape how death is understood and how grief is expressed. Developmental science should distinguish individual psychological processes from the social systems surrounding them.
+
+### Ethical boundaries
+Research and practice involving dying people require heightened attention to autonomy, informed consent, dignity, privacy, burden, and vulnerability. Psychological understanding should support communication and care rather than imposing a predetermined emotional pathway.
 
 ## 4. Relationship to This Chapter
 Death and dying forms the boundary condition of lifespan development and connects developmental psychology with grief and health.
@@ -2650,6 +2692,30 @@ Attachment is not identical to dependency, love, temperament, or general social 
 ### Evidence Status
 Attachment is strongly supported as a developmental and relational construct. Specific claims about fixed adult outcomes from early attachment require appropriate longitudinal evidence.
 
+### Developmental system
+Attachment is an enduring relational system through which humans seek proximity, protection, and a sense of security in relationships with attachment figures, particularly under conditions of threat, fatigue, illness, or uncertainty. Attachment is not synonymous with affection, dependence, parenting quality, or general sociability.
+
+### Evolutionary and developmental function
+Attachment is understood as an adaptation that helps vulnerable young humans remain connected to protective caregivers. The system becomes organized through repeated interactions. Caregiving provides a context in which children learn expectations about availability, responsiveness, comfort, and exploration.
+
+### Secure base and safe haven
+Attachment relationships can support exploration when the environment feels manageable and can provide a source of comfort when distress increases. These functions are related but distinct: the attachment figure can serve as a secure base for exploration and a safe haven during threat. The child's behavior changes with context rather than remaining constant across situations.
+
+### Internal working models
+Repeated relational experiences contribute to expectations about self and others. These representations can influence attention, interpretation, emotion regulation, and relationship behavior, while remaining open to revision. An early attachment pattern should therefore not be treated as a fixed personality label that mechanically determines adult relationships.
+
+### Multiple attachment relationships
+Children can form attachment relationships with more than one caregiver. The quality and role of these relationships can differ. A single global label may conceal meaningful differences across caregivers and contexts.
+
+### Development beyond infancy
+Attachment remains relevant across childhood and adulthood, but its behavioral expression changes. Adults can seek support, proximity, reassurance, and emotional security through complex reciprocal relationships. Adult attachment should not simply be mapped onto infant behavior without considering developmental changes in autonomy and relationship structure.
+
+### Measurement and interpretation
+Attachment is assessed through different methods, including observational procedures, interviews, questionnaires, and relational measures. These methods do not measure exactly the same thing. Researchers should specify whether they are assessing behavior in a particular relationship, broader representations, or self-reported relational tendencies.
+
+### Evidence boundary
+Attachment is influential but not destiny. Temperament, later relationships, culture, social adversity, and new caregiving experiences can alter developmental pathways. Strong causal claims require evidence that separates attachment processes from correlated family and environmental factors.
+
 ## 4. Relationship to This Chapter
 Attachment is canonically owned by Chapter 1.15 because its development spans infancy through adulthood. Adult attachment is a lifespan manifestation, not a duplicate personality owner.
 
@@ -2686,6 +2752,27 @@ Attachment theory has generated substantial empirical research, but individual p
 ### Misconceptions
 Attachment theory is not the claim that one childhood relationship permanently determines all later relationships.
 
+### Theoretical framework
+Attachment theory provides a framework for explaining how attachment relationships develop, function, and change. It is a theory about a relational system, not a claim that one attachment style explains all personality or relationship behavior.
+
+### Core concepts
+The framework emphasizes attachment behavior, proximity seeking, secure-base behavior, internal working models, caregiver responsiveness, and the activation of attachment under conditions of threat or uncertainty. These concepts explain why the same child can explore confidently in one context and seek proximity in another.
+
+### Developmental organization
+Attachment theory proposes that repeated interactions contribute to expectations about caregiver availability and the child's own ability to obtain support. These expectations can guide behavior, but developmental systems remain plastic. Later relationships and environmental changes can modify expectations.
+
+### Individual differences
+Research distinguishes patterns of attachment security and insecurity. These patterns describe relational organization rather than moral character. Insecure attachment should not be equated with pathology, and secure attachment should not be interpreted as immunity from later psychological difficulty.
+
+### Relationship to caregiving
+Caregiving sensitivity and responsiveness are important influences, but attachment development is not reducible to one parenting behavior. Child characteristics, family stress, social support, culture, and broader environmental conditions can alter interactions. Attachment theory is therefore best understood within a larger developmental system.
+
+### Theoretical status
+Attachment theory has generated extensive empirical research, but specific claims within the theory vary in evidentiary support. The broad importance of early relationships is compatible with many findings, while precise predictions about long-term outcomes require careful qualification. Theory should guide hypotheses rather than substitute for evidence.
+
+### Boundaries
+Attachment theory owns the theoretical framework for attachment development. General personality, emotion regulation, social cognition, and relationship psychology remain separate canonical domains. Cross-references should preserve these distinctions.
+
 ## 4. Relationship to This Chapter
 The theory explains the developmental organization of the canonical Attachment Topic.
 
@@ -2714,6 +2801,27 @@ Security supports use of a relationship as a safe haven under distress and a sec
 Security can be relationship-specific and can vary across contexts. A person may feel secure with one attachment figure and less secure with another.
 
 Development is influenced by caregiving responsiveness, consistency, context, and later relationship experience.
+
+### Definition
+Attachment security refers to a pattern in which an attachment relationship provides sufficient confidence in caregiver availability that the person can use the relationship as a source of support while engaging with the environment. Security is relational and contextual; it is not a global rating of a person's worth or psychological health.
+
+### Secure-base functioning
+A secure relationship supports exploration because the person can return to the relationship when support is needed. Exploration and proximity seeking are therefore complementary rather than opposite behaviors. A securely attached child can explore actively and still seek comfort when distressed.
+
+### Conditions supporting security
+Reliable responsiveness, appropriate protection, emotional availability, and predictable repair after relational disruption can support secure expectations. These conditions operate within broader contexts such as caregiver stress, resources, mental health, family relationships, and social support. Security should not be attributed to one isolated parenting technique.
+
+### Security and regulation
+Attachment security can provide a relational context for emotion regulation. A person who expects support may be more willing to seek help, communicate distress, and return to exploration after regulation. This does not mean that secure attachment eliminates distress or guarantees superior regulation in every setting.
+
+### Developmental change
+Security can change. Stable caregiving can strengthen it, while prolonged disruption can undermine it; later supportive relationships can also modify earlier expectations. Longitudinal research is therefore important when making claims about continuity.
+
+### Measurement
+Security may be assessed within a specific relationship or through broader representations. A secure pattern with one caregiver does not automatically imply identical security with every other attachment figure. Measures must be interpreted according to what relationship and behavior they actually assess.
+
+### Misconceptions
+Security is not the same as constant closeness, obedience, dependence, or absence of conflict. Healthy attachment includes autonomy and exploration. Likewise, insecurity does not mean that a person lacks love, empathy, or capacity for healthy relationships.
 
 ## 4. Relationship to This Chapter
 Attachment security is a developmental form of attachment organization.
