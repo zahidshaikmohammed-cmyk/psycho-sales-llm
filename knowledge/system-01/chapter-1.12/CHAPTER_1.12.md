@@ -2684,3 +2684,62 @@ Implementation intentions shift some regulation upstream. Rather than repeatedly
 Evidence is strongest when the cue and response are clearly specified and the behavior is substantially under the person's control. Implementation intentions should not be treated as guaranteed behavior-change formulas. Their effectiveness depends on noticing the cue, possessing the required ability and opportunity, and retaining sufficient commitment to the underlying goal.
 
 The broader conceptual lesson is that intention is a motivational representation, while action requires additional links among cues, opportunities, habits, control, and execution. Implementation intentions strengthen one of those links without replacing the rest of the self-regulatory system.
+
+
+## S16. Procrastination as temporal conflict, emotion regulation, and task structure
+
+Procrastination is unnecessary or voluntary delay of an intended action despite expecting that the delay will produce negative consequences. The defining feature is not lateness by itself. A person can postpone an action for legitimate reasons, such as waiting for information or changing priorities, without procrastinating. Procrastination involves a mismatch between intended timing and actual behavior in which delay is at least partly self-regulatory.
+
+Procrastination often reflects competition between immediate and delayed outcomes. The intended task may provide benefits later, while alternative activities provide immediate relief, stimulation, social contact, or reward. The immediate option can therefore dominate action even when the person continues to endorse the long-term goal. This is a motivational conflict, not simply absence of desire for the intended outcome.
+
+Emotion regulation can be involved. A task may evoke boredom, anxiety, frustration, uncertainty, or fear of evaluation. Delaying the task can reduce that unpleasant state temporarily, creating short-term relief. If relief becomes reliably associated with delay, avoidance can be strengthened. The person then faces a feedback loop in which anticipated discomfort increases delay, delay reduces discomfort briefly, and the growing deadline later increases distress.
+
+Task structure also matters. Vague goals can make initiation difficult because the person does not know what action counts as starting. Large tasks can create high perceived effort, while distant deadlines reduce immediate urgency. Breaking the task into concrete actions and establishing meaningful cues can change the behavioral landscape without requiring a change in the underlying value of the goal.
+
+Self-efficacy can contribute when the person expects difficulty or failure. Yet procrastination should not be reduced to low confidence. Some people delay tasks they know they can perform because the immediate activity is more attractive, the task is boring, or the environment supplies strong distractions. Others delay because high standards make initiation emotionally costly.
+
+Perfectionistic standards can therefore be one pathway among several. If a task is represented as requiring exceptional performance, starting can become threatening because action creates evidence that performance may fall short. Delay temporarily protects the person from confronting that possibility. The mechanism is not perfectionism itself but the interaction between standards, threat, and avoidance.
+
+Environmental design can either amplify or reduce procrastination. Immediate distractions are often more accessible than delayed benefits. A person can therefore create conditions that make the intended action easier to start and competing activities harder to access. Implementation intentions, time boundaries, and reduced cue exposure are examples of upstream regulation.
+
+Not all delay is maladaptive. Delaying a decision can improve information quality, and waiting can allow emotional intensity to decline. The relevant question is whether delay serves the person's goal system or undermines it. A useful definition therefore requires reference to intended timing, expected consequences, and available alternatives.
+
+Procrastination demonstrates why “motivation” cannot be treated as a single amount. A person can strongly value the long-term goal, strongly dislike failing it, and still repeatedly choose immediate relief. The observable delay emerges from the interaction of temporal valuation, emotion, goal conflict, task structure, habits, and environmental cues. This is why moral labels such as lazy or careless add little explanatory value.
+
+## S17. Motivation crowding and the changing psychological meaning of incentives
+
+Motivation crowding refers to cases in which an external intervention changes pre-existing motivation rather than merely adding a separate incentive. Rewards, rules, monitoring, praise, deadlines, and social expectations can alter how a person understands the activity, the reason for acting, and the degree of autonomy or competence experienced.
+
+Crowding can occur in different directions. External rewards can increase engagement by making an outcome more valuable, but under some conditions they can reduce intrinsic or autonomous motivation if they are experienced as controlling. Supportive external structures can instead facilitate internalization by providing a rationale, useful feedback, or a meaningful connection between the behavior and personal values.
+
+The psychological meaning of the intervention matters. A reward presented as surveillance can communicate pressure, whereas a reward interpreted as information about competence may have a different effect. This is why broad claims that rewards always undermine intrinsic motivation are scientifically inaccurate. Effects depend on the task, contingency, timing, existing interest, perceived control, and interpretation.
+
+Crowding also separates behavioral quantity from motivational quality. An incentive may increase immediate performance while changing why the person acts. If the contingency disappears, behavior may change again. Conversely, a behavior can become internalized so that an originally external reason becomes personally endorsed.
+
+The evidence base is heterogeneous because crowding is studied using different tasks, incentives, populations, and outcome measures. Some effects concern immediate performance; others concern persistence after the incentive is removed; still others concern subjective interest or perceived autonomy. These outcomes should not be treated as interchangeable.
+
+Motivation crowding also illustrates that social context communicates meaning. An external rule can signal that an activity is obligatory, but it can also provide structure that makes action easier. The same objective intervention can therefore produce different effects depending on how it is framed and experienced.
+
+Crowding should be distinguished from reinforcement. A consequence can strengthen behavior without necessarily changing the person's intrinsic interest, and a change in intrinsic interest does not by itself establish a change in reinforcement. Keeping these concepts separate preserves the difference between learning effects and motivational interpretation.
+
+The central implication is that external incentives operate inside an existing motivational system. They can change value, attention, perceived autonomy, competence, social meaning, or expectations. A complete explanation must therefore ask not only “Did behavior increase?” but also “What psychological process changed, and under what conditions?”
+
+## S18. Ego-depletion and resource models: historical importance, replication limits, and current interpretation
+
+Resource models of self-control proposed that exerting self-control consumes a limited psychological resource, making subsequent control more difficult. The idea became influential because it offered a simple explanation for why people sometimes show poorer regulation after demanding tasks. It also provided a bridge between laboratory experiments and everyday experiences of fatigue.
+
+The original model treated self-control somewhat like a limited strength that could become temporarily depleted. This metaphor generated many experiments in which participants completed one demanding task and then performed another task requiring control. Early findings were interpreted as evidence for a generalized depletion effect.
+
+Subsequent research has complicated this picture. Large-scale replication attempts and methodological reviews have produced substantial uncertainty about the magnitude and robustness of a general ego-depletion effect. Differences in task design, samples, analysis, publication practices, expectations, and measurement have all been considered. The evidence does not justify treating self-control as a simple finite fuel tank that inevitably runs down after any demanding act.
+
+This does not mean that fatigue, effort, stress, or reduced performance are imaginary. People can become tired, overloaded, disengaged, or less willing to invest effort. The question is whether these effects are best explained by depletion of a single domain-general resource. Current evidence supports more nuanced accounts involving motivation, task demands, beliefs, opportunity costs, affect, and context.
+
+One important shift is from capacity-only models to capacity-plus-motivation models. A person may be physically or cognitively capable of exerting control but decide that continued effort is not worthwhile. Another person may remain highly engaged because the task has strong personal value. Thus observed performance after a demanding task can reflect changed willingness to invest, not only reduced ability.
+
+Context can also alter the meaning of effort. A task perceived as meaningful may be sustained longer than an equally demanding task perceived as pointless. Social evaluation, incentives, feedback, and perceived progress can change effort allocation. These variables complicate any simple resource interpretation.
+
+The history of ego depletion illustrates an important evidence principle for this chapter: theoretical influence and empirical certainty are different dimensions. A model can be historically important because it organized a large research program while later evidence substantially revises its claims. The appropriate knowledge object therefore preserves the model's conceptual role and explicitly states the evidence limits.
+
+Resource metaphors may still be useful as informal descriptions of subjective fatigue or limited capacity, but they should not be mistaken for established mechanisms. Cognitive and physical systems obviously have constraints, yet those constraints do not establish one universal psychological reservoir called self-control strength.
+
+The broader lesson is that self-regulation should be understood as dynamic coordination among goals, motivation, control, context, and capacity. When regulation deteriorates after a demanding period, several mechanisms may be possible. The scientific task is to distinguish them rather than assuming depletion by default.
