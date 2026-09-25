@@ -1688,3 +1688,424 @@ The architecture registry identifies this unqualified Topic as canonically owned
 - Regulation can involve initiation, persistence, change, or disengagement.
 - Self-regulation is constrained by person, task, and context.
 
+
+---
+
+## 1.12.61 Self-efficacy
+
+## 1. Purpose
+Define self-efficacy as a person's belief about their capability to organize and execute actions required for particular outcomes.
+
+## 2. Definition
+Self-efficacy is a person's perceived capability to perform the actions needed to manage specific tasks, demands, or situations.
+
+## 3. Core Understanding
+Self-efficacy concerns capability beliefs, not objective ability, general self-esteem, or optimism in the abstract. A person may feel highly capable in one domain and uncertain in another. These beliefs can influence which goals are selected, how much effort is invested, persistence after setbacks, and interpretation of difficulty. Sources of efficacy information can include prior performance, observing others, social persuasion, and physiological or affective states, although the influence of each source depends on how it is interpreted. High self-efficacy does not guarantee success because actual skills, resources, and circumstances remain important. Nor is low self-efficacy simply a lack of motivation; it can reflect accurate information about current capability. Self-efficacy is therefore best understood as a domain- and task-sensitive belief that can influence motivational regulation.
+
+## 4. Relationship to This Chapter
+Self-efficacy connects perceived capability with Goal selection, Goal commitment, Expectancy-value theory, competence, effort, and persistence.
+
+## 5. Boundaries
+### Owns
+Beliefs about one's capability to execute specific actions or manage particular demands.
+
+### Defers
+General self-esteem and self-concept to Chapter 1.14; objective ability to relevant ability domains; expectancy-value theory to its dedicated Topic.
+
+## 6. Key Principles
+- Self-efficacy is domain- and task-specific.
+- Capability beliefs can influence motivation without determining performance.
+- Self-efficacy differs from self-esteem and objective ability.
+
+---
+
+## 1.12.62 Self-control
+
+## 1. Purpose
+Define self-control as the regulation of behavior, thought, or emotion when immediate impulses or competing responses conflict with valued standards or goals.
+
+## 2. Definition
+Self-control is the capacity and process of regulating responses in order to align behavior with longer-term goals, standards, or chosen priorities despite competing impulses or temptations.
+
+## 3. Core Understanding
+Self-control is most clearly observed when a person faces a conflict between an immediately compelling response and a valued alternative. Regulation can involve inhibiting an action, redirecting attention, changing the environment, or selecting a strategy that makes the desired behavior easier. Self-control is therefore not synonymous with suppression or effortful resistance. Effective regulation can occur before temptation becomes strong, for example by avoiding cues or creating implementation intentions. Self-control also depends on motivation, habits, context, available resources, and the structure of the choice environment. Claims that self-control always relies on a single limited resource are not established as a universal explanation. The construct is best understood as one part of broader self-regulation.
+
+## 4. Relationship to This Chapter
+Self-control is a central self-regulatory process that connects goals, impulse control, delay of gratification, motivation regulation, and implementation intentions.
+
+## 5. Boundaries
+### Owns
+Regulation of competing responses in service of valued goals or standards.
+
+### Defers
+Broader executive functions to Chapter 1.9; self-regulation to Self-regulation; clinical impulse-control disorders to Chapter 1.19.
+
+## 6. Key Principles
+- Self-control involves conflict between competing responses or goals.
+- Regulation can be proactive as well as reactive.
+- Self-control is broader than simple inhibition.
+
+---
+
+## 1.12.63 Delay of gratification
+
+## 1. Purpose
+Explain the ability or strategy of foregoing an immediate reward in favor of a later valued outcome.
+
+## 2. Definition
+Delay of gratification is the process of postponing an immediately available reward or outcome to pursue a more valuable or important delayed outcome.
+
+## 3. Core Understanding
+Delay of gratification involves a temporal trade-off between immediate and later outcomes. Successful delay can depend on the relative value of the outcomes, waiting time, confidence that the delayed reward will actually occur, attention to tempting cues, and available self-regulatory strategies. People can improve delay by changing how the immediate option is represented, distracting attention, making the future outcome more concrete, or altering the environment. Performance in a delay task should not be interpreted as a pure measure of a fixed self-control trait because task conditions, trust, reward value, development, and context all influence behavior. Delay also differs from simple refusal: the person continues to value the immediate reward but chooses to postpone it.
+
+## 4. Relationship to This Chapter
+Delay of gratification connects self-control with temporal goal conflict, reward valuation, and persistence.
+
+## 5. Boundaries
+### Owns
+Postponement of immediate reward in favor of a later valued outcome.
+
+### Defers
+Temporal discounting and choice valuation to Chapter 1.10; developmental changes in self-regulation to Chapter 1.15.
+
+## 6. Key Principles
+- Delay involves a conflict between immediate and later outcomes.
+- Strategy and context strongly affect delay behavior.
+- Delay-task performance is not a pure trait measure.
+
+---
+
+## 1.12.64 Impulse control
+
+## 1. Purpose
+Define impulse control as regulation of strongly activated responses when immediate action conflicts with goals or standards.
+
+## 2. Definition
+Impulse control is the process of regulating or inhibiting an immediately activated response when acting on that response would conflict with relevant goals, standards, or consequences.
+
+## 3. Core Understanding
+Impulse control concerns response regulation under conditions of strong immediate activation. An impulse can arise from motivational, emotional, habitual, or environmental processes and does not necessarily produce action. Control can occur by inhibiting the response, redirecting attention, delaying action, changing the environment, or selecting an alternative behavior. The effectiveness of control depends on the intensity of the impulse, available alternatives, motivation, learned habits, and context. Impulse control should not be equated with eliminating spontaneous behavior; many spontaneous responses are adaptive and require no suppression. The construct becomes especially important when immediate responses repeatedly interfere with longer-term goals or safety.
+
+## 4. Relationship to This Chapter
+Impulse control is a specific self-control process linking immediate motivational activation with goal-directed regulation.
+
+## 5. Boundaries
+### Owns
+Regulation of strongly activated immediate responses in conflict with goals or standards.
+
+### Defers
+General inhibitory control to Chapter 1.9; clinical impulse-control disorders to Chapter 1.19.
+
+## 6. Key Principles
+- An impulse is not identical to an action.
+- Control can involve inhibition or changing the conditions that trigger action.
+- Effective impulse regulation is context-sensitive.
+
+---
+
+## 1.12.65 Motivation regulation
+
+## 1. Purpose
+Explain how people deliberately or strategically influence the strength, direction, or persistence of their own motivation.
+
+## 2. Definition
+Motivation regulation is the process of modifying one's motivational state or orientation to support desired goals, activities, or standards.
+
+## 3. Core Understanding
+People do not merely regulate behavior after motivation appears; they can also regulate motivation itself. A person may increase interest by connecting a task with personal values, reduce avoidance by reframing anticipated difficulty, create incentives, alter the environment, or choose a strategy that makes future action easier. Motivation regulation can target initiation, persistence, intensity, or disengagement. It can also involve changing a goal when continued motivation is no longer adaptive. Because motivation is influenced by context, regulation often works indirectly by changing cues, task structure, expected value, perceived competence, or immediate costs. Motivation regulation therefore differs from simply “trying harder”: it concerns changing the conditions that determine motivational engagement.
+
+## 4. Relationship to This Chapter
+Motivation regulation integrates motivation with goals, self-efficacy, self-control, implementation intentions, effort, and persistence.
+
+## 5. Boundaries
+### Owns
+Intentional or strategic modification of one's own motivational engagement.
+
+### Defers
+Emotion regulation to Chapter 1.13; executive control to Chapter 1.9; environmental behavior-change methods to later applied systems.
+
+## 6. Key Principles
+- Motivation itself can become a target of regulation.
+- Regulation can change goals, incentives, expectations, or context.
+- Motivational regulation is broader than effortful persistence.
+
+---
+
+## 1.12.66 Effort
+
+## 1. Purpose
+Define effort as the allocation of resources toward achieving or maintaining a goal under relevant costs and demands.
+
+## 2. Definition
+Effort is the expenditure or allocation of cognitive, behavioral, physiological, or motivational resources in service of a task, goal, or desired outcome.
+
+## 3. Core Understanding
+Effort is observable through work, persistence, resource allocation, or changes in performance under demand, but it is not identical to time spent or subjective difficulty. People allocate effort according to expected benefits, costs, capability, competing goals, feedback, and the perceived probability that effort will produce a valued outcome. Subjective effort and objective workload can diverge. Effort can also be strategically adjusted: increasing effort is not always adaptive if a different strategy or goal would produce a better result. Motivation influences effort, but effort itself is not a direct measure of motivation because external constraints and skills also affect performance. The construct therefore links motivational value with resource allocation during goal pursuit.
+
+## 4. Relationship to This Chapter
+Effort is a central behavioral expression of motivation and connects with commitment, persistence, self-efficacy, and goal progress.
+
+## 5. Boundaries
+### Owns
+Allocation or expenditure of resources toward goal-directed activity.
+
+### Defers
+Physical energy physiology to Chapter 1.3; cognitive load to Chapter 1.9; performance measurement to Chapter 1.2.
+
+## 6. Key Principles
+- Effort concerns resource allocation, not merely duration.
+- Subjective effort and objective demand can differ.
+- More effort is not always better than better strategy or goal selection.
+
+---
+
+## 1.12.67 Persistence
+
+## 1. Purpose
+Explain continued engagement with a goal or task despite difficulty, delay, or incomplete progress.
+
+## 2. Definition
+Persistence is the continuation of goal-directed activity over time despite obstacles, effort costs, delayed outcomes, or temporary setbacks.
+
+## 3. Core Understanding
+Persistence is temporal: it describes maintaining engagement rather than the amount of effort at a single moment. People persist when goals remain sufficiently valuable, attainable, and important relative to competing alternatives. Persistence can be supported by commitment, progress feedback, self-efficacy, incentives, habits, social support, or meaningful standards. It is not always adaptive. Continuing an unattainable or harmful goal can waste resources, and strategic disengagement can sometimes be the more effective regulatory response. Persistence should therefore be interpreted relative to goal attainability, costs, opportunity costs, and changing circumstances. A person can also persist through changing strategies rather than repeating the same behavior.
+
+## 4. Relationship to This Chapter
+Persistence connects Goal commitment, Goal progress, Goal gradient, effort, self-efficacy, and disengagement.
+
+## 5. Boundaries
+### Owns
+Continued goal-directed engagement across time and obstacles.
+
+### Defers
+Perseveration and compulsive behavior to relevant clinical chapters; habit persistence to Chapter 1.7.
+
+## 6. Key Principles
+- Persistence is continuation across time.
+- Adaptive persistence can include changing strategies.
+- Persistence is not inherently beneficial.
+
+---
+
+## 1.12.68 Persistence failure
+
+## 1. Purpose
+Define persistence failure as an interruption or collapse of goal-directed engagement before a desired endpoint is reached.
+
+## 2. Definition
+Persistence failure is the reduction or termination of goal-directed engagement before goal attainment under conditions in which continued pursuit was intended or expected.
+
+## 3. Core Understanding
+Persistence failure can result from declining motivation, repeated setbacks, low perceived capability, excessive costs, competing goals, inadequate resources, poor strategy, or changing circumstances. It should not be treated as a single psychological defect. A person may stop because the goal has become infeasible, because the environment changed, or because a better alternative emerged. In other cases, persistence failure can reflect avoidable self-regulatory difficulty. Distinguishing these possibilities requires examining the goal, expected outcome, available resources, strategy quality, and reasons for disengagement. The concept is therefore descriptive rather than inherently evaluative: stopping before attainment can be either maladaptive failure or appropriate goal disengagement.
+
+## 4. Relationship to This Chapter
+Persistence failure provides the counterpart to Persistence and connects with self-efficacy, effort, goal conflict, disengagement, and reengagement.
+
+## 5. Boundaries
+### Owns
+Unplanned or undesired interruption of intended goal pursuit before attainment.
+
+### Defers
+Adaptive goal disengagement to Goal disengagement; clinical avoidance or motivational impairment to relevant clinical chapters.
+
+## 6. Key Principles
+- Persistence failure has multiple possible causes.
+- Stopping is not automatically evidence of poor self-regulation.
+- Interpretation requires the goal and context.
+
+---
+
+## 1.12.69 Implementation intentions
+
+## 1. Purpose
+Explain implementation intentions as if–then plans that specify how a person will respond to a relevant future situation.
+
+## 2. Definition
+Implementation intentions are specific if–then plans that link a situational cue or condition with a planned goal-directed response.
+
+## 3. Core Understanding
+An implementation intention specifies both when or where a relevant situation will occur and what response will follow. By linking a cue to an action in advance, the plan can reduce the need to decide what to do at the moment of action. For example, a person can specify a response to a predictable distraction, obstacle, or opportunity. The effectiveness of such plans depends on whether the cue is identifiable, the response is feasible, and the plan matches the person's actual goal and context. Implementation intentions do not guarantee behavior and are not equivalent to vague intentions such as “I should do this.” They are a self-regulatory planning mechanism that can support goal initiation and persistence.
+
+## 4. Relationship to This Chapter
+Implementation intentions connect Goal pursuit with self-control, action orientation, motivation regulation, and persistence.
+
+## 5. Boundaries
+### Owns
+If–then planning that links anticipated situations with specified responses.
+
+### Defers
+General planning and problem solving to Chapter 1.9; habit formation to Chapter 1.7.
+
+## 6. Key Principles
+- Implementation intentions specify a cue and a response.
+- They reduce some decision demands at the moment of action.
+- Their effectiveness depends on cue clarity and response feasibility.
+
+---
+
+## 1.12.70 Action orientation
+
+## 1. Purpose
+Define action orientation as a tendency toward initiating and organizing action rather than remaining stuck in prolonged deliberation or state-focused processing.
+
+## 2. Definition
+Action orientation is a motivational-regulatory tendency to initiate goal-directed action and move toward implementation, especially after decisions or setbacks.
+
+## 3. Core Understanding
+Action orientation concerns how people transition from intention or deliberation into effective action. It is often contrasted with a more state-oriented pattern characterized by prolonged focus on the current situation, past events, or internal states. Action orientation does not mean acting impulsively or without thought; effective action can follow careful planning. It can become especially relevant after setbacks, when continued rumination or indecision can interfere with goal initiation. Individual differences in action orientation are studied as self-regulatory tendencies, but situational demands also matter. The construct should therefore not be interpreted as universally superior to reflection: deliberation and state analysis can be useful when information is incomplete or a strategy needs revision.
+
+## 4. Relationship to This Chapter
+Action orientation connects motivation with initiation, self-regulation, implementation intentions, and persistence.
+
+## 5. Boundaries
+### Owns
+The tendency toward translating intentions into action and maintaining action under relevant conditions.
+
+### Defers
+General action selection to Chapter 1.9; decision-making to Chapter 1.10; personality-level individual differences to Chapter 1.14.
+
+## 6. Key Principles
+- Action orientation concerns implementation, not impulsivity.
+- Reflection can be adaptive when strategy revision is needed.
+- Action orientation is influenced by both person and situation.
+
+---
+
+## 1.12.71 State orientation
+
+## 1. Purpose
+Define state orientation as a self-regulatory tendency toward remaining focused on current states, concerns, or events rather than readily initiating action.
+
+## 2. Definition
+State orientation is a self-regulatory tendency involving sustained attention to one's current state, circumstances, or concerns, particularly when action initiation or transition is difficult.
+
+## 3. Core Understanding
+State orientation is studied in relation to how people respond to demands for action, decisions, and recovery from setbacks. A state-oriented person may remain focused on what happened, how they feel, or why a situation is difficult rather than rapidly converting an intention into action. This can interfere with implementation when persistent focus becomes immobilizing, but state focus is not inherently maladaptive. Reflection can help identify errors, process experiences, and determine whether a goal should be revised. The distinction from action orientation is therefore one of regulatory tendency and functional emphasis, not a simple good-versus-bad classification. Context, goal clarity, and available strategies influence whether state focus or action initiation is more useful.
+
+## 4. Relationship to This Chapter
+State orientation provides the conceptual counterpart to Action orientation and connects self-regulation with action initiation and persistence.
+
+## 5. Boundaries
+### Owns
+The self-regulatory tendency toward state-focused rather than action-focused processing.
+
+### Defers
+Rumination and emotion-related processes to Chapter 1.13 where applicable; personality-level differences to Chapter 1.14.
+
+## 6. Key Principles
+- State orientation concerns regulatory focus on current states or concerns.
+- State focus can be useful or obstructive depending on context.
+- It is not synonymous with passivity or low motivation.
+
+---
+
+## 1.12.72 Procrastination
+
+## 1. Purpose
+Define procrastination as unnecessary delay of an intended action despite expecting that the delay may have negative consequences.
+
+## 2. Definition
+Procrastination is voluntary delay of an intended course of action despite expecting that the delay is likely to be disadvantageous.
+
+## 3. Core Understanding
+Procrastination is defined by delay in intended action, not merely by poor time management or slow progress. The delayed task is usually available to begin, yet initiation is postponed even when the person expects the delay to create costs. Motivational factors can include low immediate value, aversive emotion, task difficulty, uncertainty, competing rewards, and difficulties with self-regulation. Procrastination can also be domain-specific rather than a uniform characteristic across all activities. Not every delay is procrastination: strategic postponement, necessary waiting, and prioritization of more important tasks do not meet the same definition. The construct is therefore best understood as a mismatch between intention and timely action under conditions where delay is expected to be disadvantageous.
+
+## 4. Relationship to This Chapter
+Procrastination connects goal commitment, motivation regulation, self-control, action orientation, temporal valuation, and persistence.
+
+## 5. Boundaries
+### Owns
+Unnecessary delay of intended action despite anticipated negative consequences.
+
+### Defers
+Temporal discounting to Chapter 1.10; clinical conditions involving severe impairment to relevant clinical chapters.
+
+## 6. Key Principles
+- Procrastination requires intended action plus unnecessary delay.
+- Not every postponement is procrastination.
+- Emotional and motivational processes can contribute to delay.
+
+---
+
+## 1.12.73 Motivation crowding
+
+## 1. Purpose
+Explain how introducing or changing external incentives can alter pre-existing intrinsic or internalized motivation.
+
+## 2. Definition
+Motivation crowding refers to changes in existing motivation associated with the introduction, removal, or structure of external rewards, controls, or incentives.
+
+## 3. Core Understanding
+External incentives can have more complex effects than simply adding motivation on top of an existing motive. In some circumstances, a reward can increase engagement by making an outcome more valuable or salient. In other circumstances, an external reward or controlling contingency can reduce intrinsic interest or change how the person interprets the activity. Effects depend on the type of incentive, whether it is expected, how controlling or informative it feels, the task, baseline motivation, and the population studied. Motivation crowding is therefore a contextual interaction rather than a universal law that rewards always undermine intrinsic motivation. Careful analysis must distinguish changes in immediate behavior from changes in underlying reasons for acting.
+
+## 4. Relationship to This Chapter
+Motivation crowding connects Intrinsic motivation, Extrinsic motivation, Incentive motivation, Reward, and Self-determination theory.
+
+## 5. Boundaries
+### Owns
+Changes in existing motivation associated with external incentives or controls.
+
+### Defers
+Learning effects of reinforcement to Chapter 1.7; broader economic incentive effects to Chapter 1.10.
+
+## 6. Key Principles
+- External incentives can interact with pre-existing motives.
+- Effects vary with incentive structure and interpretation.
+- Reward effects should not be generalized from one context to all motivation.
+
+---
+
+## 1.12.74 Ego-depletion/resource models and evidence limits
+
+## 1. Purpose
+Describe the proposal that self-control depends on a limited resource while preserving the substantial evidence limits surrounding strong resource-depletion claims.
+
+## 2. Definition
+Ego-depletion/resource models are theories proposing that self-control performance can decline after prior exertion because regulatory resources are limited, with current evidence requiring careful qualification of the strength and generality of this claim.
+
+## 3. Core Understanding
+Resource models historically proposed that exerting self-control consumes a limited psychological resource, making subsequent control more difficult. This idea generated extensive research but also substantial debate concerning effect sizes, replication, measurement, task design, motivation, expectations, and publication practices. The strongest versions of a single global resource model are not established as settled psychological fact. Current interpretations therefore distinguish the empirical observation that prior tasks, fatigue, motivation, expectations, incentives, and context can affect subsequent self-regulation from the stronger claim that all such effects reflect depletion of one finite resource. The Topic is included to preserve the historical and theoretical importance of the model while making the evidence limits explicit.
+
+## 4. Relationship to This Chapter
+This Topic qualifies the resource account of Self-control and Self-regulation and protects the chapter from treating a contested theory as established mechanism.
+
+## 5. Boundaries
+### Owns
+The resource/depletion model as a theoretical account and its evidence limitations.
+
+### Defers
+General fatigue and biological energy regulation to Chapter 1.3; self-control to Self-control; research methodology and replication to Chapter 1.2.
+
+## 6. Key Principles
+- Strong global resource-depletion claims remain contested.
+- Self-regulatory performance can vary for multiple reasons.
+- The model should be presented as theory with evidence limits, not settled mechanism.
+
+---
+
+## 1.12.75 Motivation and context
+
+## 1. Purpose
+Explain why motivational processes are shaped by environmental, social, temporal, cultural, and task conditions.
+
+## 2. Definition
+Motivation and context refers to the relationship between motivational processes and the situational conditions that alter goals, values, incentives, constraints, and opportunities for action.
+
+## 3. Core Understanding
+Motivation does not operate independently of the environment in which behavior occurs. The same goal can become more or less valuable depending on social expectations, available resources, time pressure, cues, norms, task structure, and anticipated consequences. Context can also determine which goals are activated and which actions are feasible. Social environments can support or undermine autonomy, competence, and relatedness, while cultural settings can shape the meanings attached to achievement, affiliation, responsibility, and reward. Context therefore does not merely “trigger” a fixed motivational system; it can alter the information, incentives, standards, and opportunities that constitute the motivational problem. The relationship is bidirectional because motivated behavior also changes environments and future opportunities.
+
+## 4. Relationship to This Chapter
+Motivation and context is the chapter's explicit relationship node, linking the entire motivational architecture to environmental conditions without creating a duplicate construct.
+
+## 5. Boundaries
+### Owns
+The cross-context relationship between motivational processes and situational conditions.
+
+### Defers
+General context and person–environment interaction to Chapter 1.1; culture to Chapter 1.17; social systems to Chapter 1.16; health context to Chapter 1.18.
+
+## 6. Key Principles
+- Motivation is context-sensitive.
+- Context can change goals, incentives, standards, and available actions.
+- The relationship is bidirectional rather than purely environmental causation.
+
