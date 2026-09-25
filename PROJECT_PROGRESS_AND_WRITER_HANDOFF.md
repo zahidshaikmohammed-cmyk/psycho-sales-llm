@@ -1352,32 +1352,387 @@ The final audit used the live architecture directly and preserved all 62 canonic
 
 ## Chapter 1.14 — Final Canonical State — 2026-09-25
 
-Chapter 1.14 — **PERSONALITY, SELF, IDENTITY, AND INDIVIDUAL DIFFERENCES** is completed, validated, locked, and sealed.
+Chapter 1.14 — **PERSONALITY, SELF, IDENTITY, AND INDIVIDUAL DIFFERENCES** is now **COMPLETE, RE-AUDITED, AND RESEALED**.
+
+### Canonical repository state
 
 - Architecture source: `system_1/SYSTEM_1_SURGICAL_CANONICAL_ARCHITECTURE_v2.md`
+- Architecture SHA: `534b107326d2b7bfe3c08a060464b5a92d9fd0c9`
+- Canonical chapter: `knowledge/system-01/chapter-1.14/CHAPTER_1.14.md`
+- Validation: `knowledge/system-01/chapter-1.14/CHAPTER_1.14_FINAL_VALIDATION.md`
+- Status: **COMPLETE — RE-AUDITED & RESEALED — CANONICAL KNOWLEDGE VERSION 2.0**
+- Final chapter blob SHA: `85db37371ebee4070a9e20b63605bfb409e71102`
 - Exact architecture Topics: **67/67**
-- Canonical chapter file: `knowledge/system-01/chapter-1.14/CHAPTER_1.14.md`
-- Final validation: `knowledge/system-01/chapter-1.14/CHAPTER_1.14_FINAL_VALIDATION.md`
-- Status: **RE-AUDITED — CANONICAL KNOWLEDGE VERSION 2.0**
-- Total words: **39,028**
-- Core Understanding words: **21,276**
-- Average Core Understanding: **662.07 words/topic**
-- Core Understanding range: **648–690 words**
-- Topic corpus range: **876–977 words**
+- Exact Topic-name match: **67/67**
 - Six-section objects: **67/67**
-- Owns boundaries: **67/67**
-- Defers boundaries: **67/67**
+- Owns: **67/67**
+- Defers: **67/67**
+- Topic-specific evidence/mechanism layers: **67/67**
 - Architecture mismatches: **0**
+- Generic old definition-template remnants: **0**
 - Forbidden supplement/rebuild/depth-index artifacts: **0**
-- Final sealed chapter SHA: `85db37371ebee4070a9e20b63605bfb409e71102`
 
-Ownership audit notes:
-- **Self-awareness** is owned here as the self-related construct; Chapter 1.5 owns only consciousness-specific self-awareness.
-- **Attachment style → 1.15 canonical owner (redirect only)** remains an exact redirect.
-- **Individual differences** is scoped to personality/self/identity treatment and defers general, biological, and domain-specific owners appropriately.
+### Final corpus metrics
 
-**Completed canonical chapters:** 1.1–1.14
+- Total chapter words: **39,029**
+- Core Understanding corpus: **21,276**
+- Average Core Understanding: **317.55 words/topic**
+- Core Understanding range: **298–357**
+- Average Topic corpus: **582.52 words**
+- Topic corpus range: **541–668**
 
-**Completed canonical Topic count through Chapter 1.14:** **937**
+These numbers are measurements, not targets. The Permanent Knowledge Object Writer Constitution requires minimum-sufficient, adaptive depth. Future chapters may be shorter or longer depending on the real knowledge required.
 
-**Next target:** Chapter 1.15, after a fresh architecture + ownership + constitution audit.
+---
+
+# HANDOFF TO THE NEXT CONVERSATION — CHAPTER 1.15
+
+## 1. Start with a fresh live audit
+
+Do **not** begin Chapter 1.15 prose immediately.
+
+First fetch:
+
+1. `system_1/SYSTEM_1_SURGICAL_CANONICAL_ARCHITECTURE_v2.md`
+2. `knowledge/system-01/CROSS_CHAPTER_OWNERSHIP_REMEDIATION.md`
+3. `constitution/PERMANENT_KNOWLEDGE_OBJECT_WRITER_CONSTITUTION.md`
+4. `knowledge/system-01/chapter-1.14/CHAPTER_1.14_FINAL_VALIDATION.md`
+
+The live architecture is always the source of truth for Topic names and counts. Never rely on a stale handoff or remembered count. Never invent Topics to reconcile counts.
+
+## 2. Permanent writing mission
+
+The writer's job is:
+
+- a human should understand the Topic completely;
+- an AI should retrieve it precisely;
+- the concept should have one authoritative home;
+- nothing important should be omitted;
+- nothing unnecessary should be added.
+
+The goal is **maximum understanding with minimum necessary words**.
+
+Do not write toward a word-count target.
+
+## 3. Required six-section object
+
+Every Topic must use exactly:
+
+1. **Purpose**
+2. **Definition**
+3. **Core Understanding**
+4. **Relationship to This Chapter**
+5. **Boundaries**
+   - Owns
+   - Defers
+6. **Key Principles**
+
+The six sections are mandatory. The internal knowledge blocks inside Core Understanding are adaptive.
+
+## 4. Core Understanding is adaptive
+
+Use only the blocks that genuinely apply:
+
+- Components / Dimensions
+- Types / Forms
+- Mechanism
+- Antecedents
+- Development
+- Consequences
+- Moderators / Boundary Conditions
+- Damage / Repair
+- Calibration
+- Theory / Model
+- Evidence Status
+- Open Questions
+- Misconceptions
+- Related Concepts
+- Examples
+
+Do **not** force every Topic to contain every block.
+
+A small concept may be short. A major theory or measurement domain may require much more depth.
+
+## 5. The critical lesson from the 1.14 re-audit
+
+The original 1.14 draft had too much repeated template prose. Many unrelated Topics received essentially the same explanation about situations, stability, self-report, measurement, and uncertainty.
+
+That made the chapter look deep without providing enough unique knowledge.
+
+This has now been repaired.
+
+For 1.15, never write:
+
+**generic framework + Topic name replacement**
+
+Instead ask:
+
+> **What is uniquely true about this Topic?**
+
+Then build the Core Understanding around that.
+
+Every paragraph must add knowledge specific to the Topic.
+
+## 6. Mechanism writing
+
+A mechanism must answer:
+
+**How does this phenomenon work?**
+
+Do not merely list cognition, emotion, motivation, memory, or biology.
+
+Explain the actual process relevant to the Topic.
+
+If another chapter owns that mechanism, link/defer it instead of re-owning it.
+
+## 7. Theory and model writing
+
+Always distinguish:
+
+**phenomenon → theory/model → evidence → limitations**
+
+Use:
+
+- “The model proposes...”
+- “According to...”
+- “Evidence supports...”
+- “Evidence is mixed...”
+- “This remains debated...”
+
+Never turn a named theory into established fact automatically.
+
+## 8. Measurement writing
+
+For assessment Topics, preserve:
+
+**construct → operationalization → observation/response → score → interpretation → intended use**
+
+A score is not the construct.
+
+Reliability is not validity.
+
+A self-report is not automatically a transparent representation of the underlying psychological state or trait.
+
+Population, context, response style, method, and inference all matter where relevant.
+
+## 9. Ownership discipline
+
+Before writing each Topic, determine:
+
+- What does this Topic own?
+- What does another Topic own?
+- What relationships must be linked?
+- What must be deferred?
+
+Important 1.14 boundaries that remain relevant:
+
+- **Self-awareness** → 1.14
+- **Consciousness-specific self-awareness** → 1.5
+- **Attachment style** → 1.15
+- General individual differences → 1.1
+- Biological individual differences → 1.3
+- Personality/self/identity individual differences → 1.14
+
+For 1.15, perform a new audit rather than assuming these are its only boundaries.
+
+## 10. Relationship/application rule
+
+The architecture says:
+
+**Cross-domain relationships are links, not duplicate owners.**
+
+If an architecture Topic is explicitly a relationship/application node, preserve that status.
+
+Do not turn a relationship into a new construct simply because it has substantial content.
+
+## 11. Plain-English standard
+
+Use smooth professional English.
+
+Prefer:
+
+- short clear sentences;
+- common words;
+- necessary technical terms with plain explanations;
+- concrete explanations before abstraction.
+
+Avoid:
+
+- academic ornament;
+- unnecessary jargon;
+- vague language;
+- repetitive conclusions;
+- filler history;
+- fake complexity;
+- long sentences carrying multiple unrelated ideas.
+
+The standard is:
+
+**simple language, precise thinking.**
+
+## 12. Evidence standard
+
+Preserve epistemic status.
+
+Use clear distinctions:
+
+- **Definition:** “X means...”
+- **Established finding:** “Research consistently shows...”
+- **Association:** “X is associated with...”
+- **Causal evidence:** “Evidence supports the conclusion that...”
+- **Theory/model:** “According to...”
+- **Interpretation:** “This suggests...”
+- **Uncertainty:** “It remains unclear whether...”
+
+Never turn correlation into causation.
+
+Never turn theory into fact.
+
+Never hide uncertainty.
+
+## 13. Adaptive-depth test
+
+Before adding any paragraph, ask:
+
+1. Does this knowledge genuinely belong to this Topic?
+2. Does it add new understanding?
+3. Would omitting it create a meaningful gap?
+4. Does another Topic already own it?
+5. Is there enough reliable evidence to state it?
+
+If another Topic owns it, defer it.
+
+If evidence is insufficient, qualify it or state the uncertainty.
+
+## 14. Density test
+
+After writing each block:
+
+> Can this be made shorter without reducing correct understanding?
+
+If yes, shorten it.
+
+Then:
+
+> Can it be made shorter without increasing ambiguity or creating a false impression?
+
+If yes, shorten it again.
+
+Stop at minimum sufficient form.
+
+## 15. Chapter 1.15 workflow
+
+### Phase A — Architecture
+Extract the exact 1.15 Topic list from the live architecture.
+
+### Phase B — Ownership
+Audit every Topic for canonical ownership, specialized ownership, relationship status, and neighboring owners.
+
+### Phase C — Conceptual map
+Privately map each Topic:
+
+- definition;
+- unique mechanism;
+- important distinctions;
+- development/time course;
+- evidence;
+- uncertainty;
+- related concepts;
+- ownership boundary.
+
+Do not create a repository depth-index or supplement from this.
+
+### Phase D — Write
+Write one continuous canonical Chapter 1.15 file.
+
+Do not create chunk files, supplements, rebuild records, or duplicate knowledge objects.
+
+### Phase E — Structural audit
+Verify exact Topics, exact names, order, six sections, Owns, Defers, and zero invented/missing Topics.
+
+### Phase F — Semantic audit
+Check definitions, mechanisms, evidence, boundaries, ownership, uncertainty, and Topic-specificity.
+
+### Phase G — Redundancy audit
+Search for repeated substantive paragraphs and template-like prose.
+
+Repeated headings are fine.
+
+Repeated knowledge is not.
+
+### Phase H — Density audit
+Measure actual words, Core Understanding, Topic ranges, and repeated phrases.
+
+Do not optimize for a target number.
+
+### Phase I — Validation
+Create the final validation file with the actual final metrics.
+
+### Phase J — Synchronization
+Synchronize:
+
+- canonical chapter;
+- validation;
+- README;
+- handoff.
+
+Only then mark the chapter complete.
+
+## 16. What must never happen
+
+Do not:
+
+- invent Topics;
+- rename architecture Topics casually;
+- trust stale counts;
+- pad with generic paragraphs;
+- duplicate another Topic's ownership;
+- create supplements/rebuild records/depth indexes;
+- turn theories into facts;
+- turn correlations into causal claims;
+- hide uncertainty;
+- contaminate universal psychology with sales implementation;
+- seal merely because structural checks pass.
+
+A chapter is complete only when **ontology + ownership + scientific integrity + conceptual depth + repository bookkeeping** all pass.
+
+## 17. Current progress
+
+**Completed chapters:** 1.1–1.14
+
+**Completed canonical Topics:** 937
+
+**Current next target:** **Chapter 1.15**
+
+Chapter 1.14 is the completed reference state.
+
+## 18. Exact starting instruction for the next conversation
+
+Begin with:
+
+> **“I’m taking over from the Chapter 1.14 handoff. First I’ll audit the live Chapter 1.15 architecture, ownership boundaries, and constitution before writing anything.”**
+
+Then perform the live audit.
+
+Do not start Chapter 1.15 prose before that audit.
+
+## 19. Final principle
+
+The objective is not the largest chapter.
+
+The objective is the **most trustworthy canonical psychological knowledge layer**.
+
+Every Topic should answer its own question.
+
+Every concept should have one home.
+
+Every relationship should be explicit.
+
+Every theory should retain its epistemic status.
+
+Every measurement claim should respect inference limits.
+
+Every sentence should earn its place.
+
+**Build knowledge, not word count.**
+
