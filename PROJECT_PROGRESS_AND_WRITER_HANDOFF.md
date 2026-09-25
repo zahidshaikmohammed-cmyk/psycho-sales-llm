@@ -6,7 +6,7 @@
 
 **Critical rule:** This document is a handoff/control layer. It does not override the canonical architecture, constitution, locked chapters, or ownership records. When this document conflicts with a canonical source, the canonical source wins and the discrepancy must be investigated.
 
-**Current handoff state (verified against live repository):** System 1 Chapters 1.1–1.11 have completed canonical knowledge layers. Chapter 1.10 is V2.0 certified/locked/sealed. Chapter 1.11 — **LANGUAGE AND INTELLIGENCE** is V1.0 certified/locked/sealed with 60/60 exact architecture Topics. The next writer must not restart the project, rewrite completed chapters, or invent a new writing method.
+**Current handoff state (verified against live repository):** System 1 Chapters 1.1–1.12 have completed canonical knowledge layers. Chapter 1.10 is V2.0 certified/locked/sealed. Chapter 1.11 — **LANGUAGE AND INTELLIGENCE** is V1.0 certified/locked/sealed with 60/60 exact architecture Topics. Chapter 1.12 — **MOTIVATION, NEEDS, GOALS, AND SELF-REGULATION** is V1.0 certified/locked/sealed with 75/75 exact architecture Topics. The next writer must not restart the project, rewrite completed chapters, or invent a new writing method.
 
 ---
 
@@ -59,7 +59,7 @@ And:
 
 # 2A. LATEST VERIFIED REPOSITORY STATE — 2026-09-25
 
-The live repository was inspected before the Chapter 1.11 build.
+The live repository was inspected before the Chapter 1.12 build.
 
 - Architecture source: `system_1/SYSTEM_1_SURGICAL_CANONICAL_ARCHITECTURE_v2.md`
 - Chapter 1.11 title: **LANGUAGE AND INTELLIGENCE**
@@ -74,8 +74,20 @@ The live repository was inspected before the Chapter 1.11 build.
 - Chapter 1.11 Defers boundaries: **60/60**
 - Chapter 1.11 additions/removals/renames: **0**
 - Chapter 1.11 final validation: `knowledge/system-01/chapter-1.11/CHAPTER_1.11_FINAL_VALIDATION.md`
-- Current completed chapter Topic count through 1.11: **733**
-- Next target: **Chapter 1.12**, after a fresh live architecture and ownership audit.
+- Chapter 1.12 title: **MOTIVATION, NEEDS, GOALS, AND SELF-REGULATION**
+- Chapter 1.12 architecture Topics: **75**
+- Chapter 1.12 canonical Topics written: **75/75**
+- Chapter 1.12 total words: **19,034**
+- Chapter 1.12 Core Understanding words: **8,674**
+- Chapter 1.12 average Core Understanding: **115.7 words/topic**
+- Chapter 1.12 Core Understanding range: **95–143 words**
+- Chapter 1.12 six-section objects: **75/75**
+- Chapter 1.12 Owns boundaries: **75/75**
+- Chapter 1.12 Defers boundaries: **75/75**
+- Chapter 1.12 additions/removals/renames: **0**
+- Chapter 1.12 final validation: `knowledge/system-01/chapter-1.12/CHAPTER_1.12_FINAL_VALIDATION.md`
+- Current completed chapter Topic count through 1.12: **808**
+- Next target: **Chapter 1.13**, after a fresh live architecture and ownership audit.
 
 The Chapter 1.11 ontology was taken only from the live surgical architecture file. No Topic was inferred from memory or from the handoff document.
 
