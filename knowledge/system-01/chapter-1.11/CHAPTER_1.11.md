@@ -1,6 +1,6 @@
 # CHAPTER 1.11 — LANGUAGE AND INTELLIGENCE
 
-**Status:** CANONICAL KNOWLEDGE BUILD — DEEP REVISION IN PROGRESS  
+**Status:** LOCKED & SEALED 🔒 — CANONICAL KNOWLEDGE VERSION 1.0  
 **Canonical Topic count:** 60  
 **System:** 1 — HUMAN PSYCHOLOGY  
 **Architecture source:** `system_1/SYSTEM_1_SURGICAL_CANONICAL_ARCHITECTURE_v2.md`
@@ -1612,7 +1612,7 @@ Explain the observed historical rise in average scores on many standardized inte
 The Flynn effect is the observed increase in average scores on standardized intelligence tests across generations or successive normative cohorts.
 
 ## 3. Core Understanding
-The Flynn effect is a population-level measurement phenomenon: average scores on many intelligence tests have risen across successive cohorts in numerous settings, although the size and pattern vary by test, country, period, and ability level. A major meta-analysis found substantial average gains across hundreds of comparisons, while also finding meaningful heterogeneity. The effect does not mean that a person's intelligence automatically increases simply because a newer test is used. Nor does it identify a single cause. Proposed explanations include education, health, nutrition, environmental complexity, changes in test-taking and measurement, and other social or biological factors. Because IQ tests are normed to population distributions, older norms can become inappropriate over time, which is why restandardization matters. The Flynn effect demonstrates that population-level cognitive-test performance is historically changeable and that test scores cannot be interpreted independently of their normative context. citeturn0search0turn0search2
+The Flynn effect is a population-level measurement phenomenon: average scores on many intelligence tests have risen across successive cohorts in numerous settings, although the size and pattern vary by test, country, period, and ability level. A major meta-analysis found substantial average gains across hundreds of comparisons, while also finding meaningful heterogeneity. The effect does not mean that a person's intelligence automatically increases simply because a newer test is used. Nor does it identify a single cause. Proposed explanations include education, health, nutrition, environmental complexity, changes in test-taking and measurement, and other social or biological factors. Because IQ tests are normed to population distributions, older norms can become inappropriate over time, which is why restandardization matters. The Flynn effect demonstrates that population-level cognitive-test performance is historically changeable and that test scores cannot be interpreted independently of their normative context.
 
 ## 4. Relationship to This Chapter
 The Flynn effect qualifies the interpretation of IQ, standardization, and intelligence across historical time.
