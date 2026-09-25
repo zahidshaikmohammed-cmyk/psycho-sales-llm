@@ -70,6 +70,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+Trait summaries describe regularities, while process accounts explain how those regularities arise in particular contexts. A complete personality account therefore needs both enduring individual differences and the mechanisms that translate them into situation-specific thoughts, feelings, goals, and behavior.
+
 ## 1.14.2 Personality trait
 
 ## 1. Purpose
@@ -129,6 +133,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+A trait is a tendency, not a rule that predicts every act. Its expression depends on the situations encountered and other characteristics of the person. Trait evidence is strongest when characteristic patterns recur across relevant observations rather than when one behavior is used to label someone.
 
 ## 1.14.3 Trait theory
 
@@ -190,6 +198,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+Trait theories differ in the dimensions they propose, their hierarchical organization, and the mechanisms they assume connect traits to behavior. Descriptive usefulness and causal completeness are separate questions; a trait model can summarize reliable variation without explaining every process that produced it.
+
 ## 1.14.4 Personality state
 
 ## 1. Purpose
@@ -249,6 +261,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+States reveal how personality is expressed moment by moment. They can be shaped by goals, social cues, stress, opportunities, and internal conditions. Repeated state observations can therefore explain how enduring characteristics become visible without treating state variation as mere measurement noise.
 
 ## 1.14.5 Personality process
 
@@ -310,6 +326,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+Process explanations ask what happens between person characteristics and observable behavior. Interpretation, goal activation, emotion, self-regulation, and feedback can mediate expression. This level is especially important when the same trait produces different behavior across contexts.
+
 ## 1.14.6 Trait activation
 
 ## 1. Purpose
@@ -369,6 +389,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+Possessing a trait is not equivalent to expressing it at every moment. Situational cues make particular trait-relevant concerns salient, increasing the probability that a characteristic pattern will appear. Strong explanations specify which cues activate which tendencies.
 
 ## 1.14.7 Personality stability
 
@@ -430,6 +454,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+Stability has multiple meanings, including rank-order, mean-level, structural, and pattern continuity. These forms can diverge: people may retain relative ordering while the average level of a characteristic changes across development.
+
 ## 1.14.8 Personality change
 
 ## 1. Purpose
@@ -489,6 +517,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+Change can reflect maturation, repeated experience, roles, relationships, deliberate effort, or environmental shifts. A changed score is not automatically a transformed personality construct; reliable longitudinal measurement and appropriate comparisons are needed.
 
 ## 1.14.9 Personality development
 
@@ -550,6 +582,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+Development includes emergence, differentiation, consolidation, reorganization, and changing expression. Biological maturation and social experience can interact, so developmental explanations should avoid treating personality as either purely inherited or purely learned.
+
 ## 1.14.10 Person–situation debate
 
 ## 1. Purpose
@@ -609,6 +645,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+The apparent trait-versus-situation opposition is incomplete. Person characteristics influence which situations people enter and how they interpret them, while situations elicit and constrain behavior. The psychologically meaningful unit is often the person-in-context pattern.
 
 ## 1.14.11 Interactionist personality model
 
@@ -670,6 +710,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+Interactionism predicts that person variables and situational variables can jointly determine behavior. A cue can affect people differently because they interpret it differently, while a trait can be expressed differently because the environment changes.
+
 ## 1.14.12 Psychodynamic perspective
 
 ## 1. Purpose
@@ -729,6 +773,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+Psychodynamic approaches emphasize processes that may not be fully conscious, including conflict, developmental history, internalized relationships, and defensive organization. Historical status does not establish every psychoanalytic claim; mechanisms must be evaluated separately.
 
 ## 1.14.13 Behavioral perspective
 
@@ -790,6 +838,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+Behavioral approaches explain stable patterns partly through learning histories and environmental contingencies. Personality-relevant behavior can emerge from reinforcement without requiring an internal trait as the sole explanation, while modern learning accounts can complement trait descriptions.
+
 ## 1.14.14 Social-cognitive perspective
 
 ## 1. Purpose
@@ -849,6 +901,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+Social-cognitive approaches emphasize reciprocal influence among person factors, cognition, behavior, and environments. Beliefs, expectations, goals, and perceived capabilities affect situation selection and interpretation, helping explain both consistency and variability.
 
 ## 1.14.15 Humanistic perspective
 
@@ -910,6 +966,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+Humanistic approaches emphasize subjective meaning, agency, authenticity, and growth. These ideas become scientific claims only when they are operationalized and tested; philosophical language should not be treated as empirical evidence by itself.
+
 ## 1.14.16 Biological perspective
 
 ## 1. Purpose
@@ -969,6 +1029,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+Biological approaches identify temperamental, neural, hormonal, and genetic contributions. Biological influence does not imply genetic determinism because development remains shaped by environments and interactions among biological and experiential processes.
 
 ## 1.14.17 Evolutionary perspective
 
@@ -1030,6 +1094,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+Evolutionary explanations propose functions shaped by selection but do not prove that a trait is currently adaptive. Ultimate evolutionary explanations must be distinguished from proximate psychological mechanisms and tested against competing explanations.
+
 ## 1.14.18 Trait perspective
 
 ## 1. Purpose
@@ -1089,6 +1157,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+Trait approaches provide a common language for describing stable individual variation. Their predictive and measurement strengths do not make them complete causal theories; process models can explain when and how trait patterns are expressed.
 
 ## 1.14.19 Cultural perspective
 
@@ -1150,6 +1222,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+Culture shapes personality through norms, practices, institutions, roles, language, and developmental environments. Cross-cultural differences can reflect both genuine variation and differences in measurement meaning, making conceptual and measurement equivalence important.
+
 ## 1.14.20 Big Five model
 
 ## 1. Purpose
@@ -1209,6 +1285,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+The Big Five is primarily a broad dimensional model, not a complete theory of personality. Its dimensions summarize covariance among narrower characteristics. It organizes variation effectively but does not by itself specify all developmental, biological, or situational mechanisms.
 
 ## 1.14.21 Openness
 
@@ -1270,6 +1350,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+Openness includes related tendencies such as intellectual exploration, imagination, aesthetic engagement, and receptivity to novelty. These components need not move identically. High or low levels are not inherently better; relevance depends on context and criterion.
+
 ## 1.14.22 Conscientiousness
 
 ## 1. Purpose
@@ -1329,6 +1413,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+Conscientiousness includes organization, persistence, responsibility, and goal-directed regulation. Its behavioral expression depends on task structure and incentives. A score does not guarantee performance because ability, opportunity, and situational demands also matter.
 
 ## 1.14.23 Extraversion
 
@@ -1390,6 +1478,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+Extraversion is broader than talkativeness. Sociability, assertiveness, activity, and positive engagement can vary somewhat independently. Social behavior should therefore not be reduced to a single dimension or interpreted without considering context.
+
 ## 1.14.24 Agreeableness
 
 ## 1. Purpose
@@ -1449,6 +1541,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+Agreeableness concerns interpersonal tendencies such as cooperation, trust, warmth, and concern for others. It does not mean universal compliance. Values, goals, and situations determine whether agreeable tendencies produce accommodation, cooperation, compassion, or principled disagreement.
 
 ## 1.14.25 Neuroticism
 
@@ -1510,6 +1606,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+Neuroticism captures individual differences in negative emotionality and sensitivity to distress. It is not a mental disorder. Clinical significance requires an appropriate symptom pattern, persistence, impairment, and context.
+
 ## 1.14.26 Temperament
 
 ## 1. Purpose
@@ -1569,6 +1669,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+Temperament often refers to early-emerging patterns of reactivity and regulation with substantial biological influence. Developmental experience modifies expression, so temperament provides a foundation for variation without determining adult personality one-to-one.
 
 ## 1.14.27 Character
 
@@ -1630,6 +1734,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+Character has multiple meanings across traditions. Some approaches emphasize moral functioning, others motivational or valued patterns. It should not silently be treated as identical to personality as a whole.
+
 ## 1.14.28 Agency
 
 ## 1. Purpose
@@ -1689,6 +1797,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+Agency concerns initiating and regulating action toward goals. Perceived agency and enacted control are distinct: a person can feel agentic while facing external constraints, and successful action can be limited despite strong intention.
 
 ## 1.14.29 Communion
 
@@ -1750,6 +1862,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+Communion organizes personality and self-definition around connection, belonging, care, and relationship. It overlaps with interpersonal constructs but is not synonymous with agreeableness or attachment because those concepts answer different explanatory questions.
+
 ## 1.14.30 Self
 
 ## 1. Purpose
@@ -1809,6 +1925,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+The self is not a single object stored in the mind. It includes representations, evaluations, memories, goals, perspectives, and ongoing processes through which a person experiences and interprets themselves. Different self-aspects can become salient in different contexts.
 
 ## 1.14.31 Self-concept
 
@@ -1870,6 +1990,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+Self-concept is multidimensional and can include role, trait, social, physical, moral, and autobiographical information. Its contents are not equally accessible at all times; current goals and contexts can make particular self-aspects more salient.
+
 ## 1.14.32 Self-schema
 
 ## 1. Purpose
@@ -1929,6 +2053,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+Self-schemas organize knowledge about particular self-domains and can influence attention, interpretation, and memory. Their effects are domain-specific rather than globally active. A schema is a knowledge structure, not necessarily a consciously articulated story.
 
 ## 1.14.33 Self-awareness
 
@@ -1990,6 +2118,10 @@ Consciousness-specific self-awareness → Chapter 1.5; metacognitive monitoring 
 
 ---
 
+### Topic-specific evidence layer
+
+Self-awareness can involve attention to internal states, behavior, appearance, characteristics, or the self as an object of reflection. It is not consciousness in general, and awareness of a state does not guarantee accurate understanding of its cause.
+
 ## 1.14.34 Self-knowledge
 
 ## 1. Purpose
@@ -2049,6 +2181,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+Self-knowledge draws on introspection, memory, behavior, feedback, and social comparison. People can know some aspects of themselves well and misjudge others, so confidence in a self-belief is not equivalent to its accuracy.
 
 ## 1.14.35 Self-esteem
 
@@ -2110,6 +2246,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+Self-esteem can differ in level, stability, domain specificity, and contingency. High self-esteem is not automatically healthy and low self-esteem is not identical to a disorder. Interpretation depends on how evaluation responds to success, failure, and social feedback.
+
 ## 1.14.36 Self-worth
 
 ## 1. Purpose
@@ -2169,6 +2309,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+Self-worth concerns broader personal value rather than one performance or characteristic. A person can experience failure without concluding that they lack value, while narrowly contingent worth can make ordinary setbacks more globally threatening.
 
 ## 1.14.37 Self-consistency
 
@@ -2230,6 +2374,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+Self-consistency concerns coherence among self-representations. People can tolerate some inconsistency and revise self-beliefs when evidence accumulates. A desire for consistency should not be treated as an absolute force that overrides all new information.
+
 ## 1.14.38 Self-discrepancy
 
 ## 1. Purpose
@@ -2289,6 +2437,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+Different self-guides create different kinds of discrepancy, and their significance depends on importance, endorsement, attainability, and interpretation. A discrepancy is not itself a disorder or inevitable source of distress.
 
 ## 1.14.39 Actual self
 
@@ -2350,6 +2502,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+The actual self represents characteristics believed to be currently possessed rather than an objective inventory of everything the person is. It can differ from behavioral or informant evidence and is psychologically important partly because of how its contents are evaluated.
+
 ## 1.14.40 Ideal self
 
 ## 1. Purpose
@@ -2409,6 +2565,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+The ideal self represents desired characteristics and can organize motivation and comparison. Ideals can support growth but can become rigid when treated as mandatory or unattainable. Effects depend on importance, attainability, and regulation.
 
 ## 1.14.41 Ought self
 
@@ -2470,6 +2630,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+The ought self represents characteristics perceived as obligations or expectations. Its motivational meaning differs from the ideal self even though they can overlap. Sources include internalized norms, roles, relationships, and social expectations.
+
 ## 1.14.42 Possible selves
 
 ## 1. Purpose
@@ -2529,6 +2693,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+Possible selves represent potential futures, including hoped-for and feared identities. They can guide attention and motivation by making future outcomes psychologically concrete. Their effects depend on perceived plausibility, pathways, and emotional significance.
 
 ## 1.14.43 Self-verification
 
@@ -2590,6 +2758,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+Self-verification involves seeking or interpreting feedback that confirms important self-views. It can lead people to accept confirming information even when unfavorable. The process is therefore not identical to accuracy seeking and can interact with self-enhancement.
+
 ## 1.14.44 Self-enhancement
 
 ## 1. Purpose
@@ -2649,6 +2821,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+Self-enhancement involves maintaining or increasing favorable self-views. It can support motivation in some contexts, but excessive distortion can interfere with accurate feedback. The balance between positive self-regard and calibration is context-dependent.
 
 ## 1.14.45 Self-handicapping
 
@@ -2710,6 +2886,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+Self-handicapping protects self-evaluation by creating or claiming obstacles before performance is evaluated. It can reduce immediate threat but also impair performance or reinforce avoidance. Claimed and behavioral handicaps should be distinguished.
+
 ## 1.14.46 Self-presentation
 
 ## 1. Purpose
@@ -2769,6 +2949,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+Self-presentation is broader than deliberate deception. People select which aspects of themselves to communicate, and some presentations are sincere attempts to express identity or fit social expectations.
 
 ## 1.14.47 Impression management
 
@@ -2830,6 +3014,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+Impression management regulates information or behavior to influence how others perceive the person. It can be deliberate or habitual. Strategic presentation does not prove that the presented identity is false.
+
 ## 1.14.48 Self-monitoring
 
 ## 1. Purpose
@@ -2889,6 +3077,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+Self-monitoring concerns attention to social cues and adjustment of behavior. It differs from self-awareness because the defining issue is regulation of presentation in relation to social information.
 
 ## 1.14.49 Personal identity
 
@@ -2950,6 +3142,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+Personal identity concerns continuity and distinctiveness across time. Memories, commitments, values, roles, and self-representations contribute to that continuity, which can change without requiring complete psychological discontinuity.
+
 ## 1.14.50 Identity structure
 
 ## 1. Purpose
@@ -3009,6 +3205,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+Identity structure concerns how multiple self-defining identities are organized, prioritized, and made accessible. Identities can overlap, conflict, or become more salient across settings, affecting transitions and integration.
 
 ## 1.14.51 Moral identity
 
@@ -3070,6 +3270,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+Moral identity concerns the centrality of moral qualities to self-definition. Centrality is not identical to moral behavior because action also depends on situations, judgment, motivation, and self-regulation.
+
 ## 1.14.52 Personal values
 
 ## 1. Purpose
@@ -3129,6 +3333,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+Values are enduring standards of importance that organize priorities across situations. They differ from concrete goals because one value can guide many goals, and from traits because they concern what a person considers important or desirable.
 
 ## 1.14.53 Locus of control
 
@@ -3190,6 +3398,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+Locus of control concerns generalized beliefs about contingency between actions and outcomes. It should not be interpreted as a belief that every outcome is controllable; external constraints can be real and perceived control can be calibrated or distorted.
+
 ## 1.14.54 Attributional style
 
 ## 1. Purpose
@@ -3249,6 +3461,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+Attributional style concerns characteristic ways of explaining causes, such as internal versus external, stable versus changeable, and broad versus specific causes. It is an explanatory tendency, not proof that the explanation is objectively correct.
 
 ## 1.14.55 Optimism
 
@@ -3310,6 +3526,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+Optimism concerns generalized positive expectations rather than certainty about particular outcomes. It can influence persistence and planning, but realistic optimism differs from ignoring evidence. Broad expectations should be distinguished from situation-specific predictions.
+
 ## 1.14.56 Pessimism
 
 ## 1. Purpose
@@ -3369,6 +3589,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+Pessimism concerns generalized negative expectations. Negative expectation can sometimes reflect accurate risk appraisal, so pessimism should not automatically be labeled dysfunctional. Consequences depend on accuracy, rigidity, and effects on action.
 
 ## 1.14.57 Perfectionism
 
@@ -3430,6 +3654,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+Perfectionism can include demanding standards, concern over mistakes, perceived discrepancy, and conditional self-evaluation. These dimensions can have different correlates, so high standards alone should not be equated with maladaptive perfectionism.
+
 ## 1.14.58 Attachment style → 1.15 canonical owner (redirect only)
 
 ## 1. Purpose
@@ -3489,6 +3717,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+This entry is an explicit redirect because the canonical attachment construct is owned by Chapter 1.15. Chapter 1.14 can reference attachment when discussing personality or individual differences but must not duplicate the attachment framework.
 
 ## 1.14.59 Individual differences
 
@@ -3550,6 +3782,10 @@ General foundational individual differences → Chapter 1.1; biological individu
 
 ---
 
+### Topic-specific evidence layer
+
+Individual differences can concern traits, abilities, motives, beliefs, preferences, states, or response patterns. A difference between people is not automatically a stable trait; the relevant object and level of variation must be specified.
+
 ## 1.14.60 Personality assessment
 
 ## 1. Purpose
@@ -3609,6 +3845,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+Assessment requires a defined construct, appropriate method, scoring model, and interpretation supported by evidence. Different methods answer different questions, so no assessment format is universally optimal.
 
 ## 1.14.61 Self-report assessment
 
@@ -3670,6 +3910,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+Self-report is useful for private beliefs, evaluations, and experiences that may not be directly observable. Limitations include response style, social desirability, limited insight, memory error, and differences in item interpretation.
+
 ## 1.14.62 Informant assessment
 
 ## 1. Purpose
@@ -3729,6 +3973,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+Informants can report observable patterns across contexts and may detect characteristics that targets do not report. Disagreement can reflect different observation opportunities or genuine context dependence rather than simple error.
 
 ## 1.14.63 Behavioral assessment
 
@@ -3790,6 +4038,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+Behavioral assessment connects constructs to observed action, but behavior is strongly context-dependent. Repeated observations across relevant situations are more informative than one isolated behavior.
+
 ## 1.14.64 Projective assessment
 
 ## 1. Purpose
@@ -3849,6 +4101,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+Projective methods infer psychological characteristics from responses to ambiguous stimuli. Interpretive flexibility can create reliability and validity problems, so conclusions should be limited to evidence supporting the particular method and scoring system.
 
 ## 1.14.65 Response distortion
 
@@ -3910,6 +4166,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+Response distortion can arise intentionally or unintentionally from impression management, misunderstanding, memory limitations, motivation, or response habits. Unexpected responses should not automatically be interpreted as dishonesty.
+
 ## 1.14.66 Social desirability
 
 ## 1. Purpose
@@ -3970,6 +4230,10 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 
 ---
 
+### Topic-specific evidence layer
+
+Social desirability involves presenting oneself favorably or acceptably. It can affect self-report, but a favorable answer is not necessarily distorted because people can genuinely possess socially valued characteristics.
+
 ## 1.14.67 Personality measurement validity
 
 ## 1. Purpose
@@ -4029,4 +4293,8 @@ Neighboring constructs, mechanisms, specialized manifestations, clinical conditi
 - Relationships with neighboring constructs should be explicit rather than treated as identity.
 
 ---
+
+### Topic-specific evidence layer
+
+Validity concerns whether evidence supports the intended interpretation and use of scores. It is not a permanent property independent of population, context, scoring, construct definition, and inference.
 
