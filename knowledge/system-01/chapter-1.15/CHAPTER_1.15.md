@@ -484,6 +484,145 @@ Trajectory thinking changes the question from "What happens at this age?" to "Ho
 
 ---
 
+
+# CHAPTER-LEVEL CONCEPTUAL BOUNDARY AUDIT
+
+## Development is not synonymous with improvement
+
+Development includes change, stability, reorganization, maintenance, adaptation, gains, and losses. A later state is not automatically better because it is later. Some developmental changes increase capability, some redistribute capability, and some involve loss. This is especially important in adulthood and aging, where a narrow growth model can misrepresent multidirectional change.
+
+The chapter therefore avoids treating childhood as a climb toward a final adult state. Adults continue to learn and change, and older adults can show both losses and strengths. Development is a temporal process, not a value judgment.
+
+## Age is not a mechanism
+
+Chronological age is a useful organizing variable but rarely explains why a psychological change occurs. Age correlates with many biological, social, and historical processes. When age is used as an explanatory variable without identifying the underlying mechanism, the explanation remains incomplete.
+
+A precise developmental statement therefore asks what changes with age, why it might change, and which alternative explanations remain. This principle applies to cognition, emotion, personality, social relationships, and health-related development.
+
+## Maturation is not the same as development
+
+Maturation refers to biologically organized change. Development is broader and includes biological maturation, learning, experience, socialization, relationships, culture, and individual action. Maturation is therefore one contributor to development, not a synonym for it.
+
+A behavior can become more common with age because of maturation, practice, changing expectations, or a combination. Without evidence, an age-related increase should not automatically be labeled maturational.
+
+## Critical periods are not universal deadlines
+
+Critical periods are stronger claims than sensitive periods. A sensitive period means that timing affects the efficiency or magnitude of learning; later experience can still matter. A critical period implies a stronger constraint.
+
+Many developmental processes are better described by graded sensitivity than by absolute deadlines. This distinction matters because exaggerated critical-period claims can create unnecessary assumptions of irreversible damage or lost opportunity.
+
+## Stability is not immutability
+
+A characteristic can show high rank-order stability while changing in average level. It can also remain relatively stable while being modifiable under some conditions. Stability describes observed persistence; it does not prove that the underlying system cannot change.
+
+This is particularly important for personality and attachment. Early patterns can show continuity without determining adult outcomes. Later experiences can modify trajectories even when continuity is statistically meaningful.
+
+## Attachment is not parenting quality
+
+Attachment is a relational developmental system. Parenting includes a broader set of caregiving processes. A child's attachment pattern can be influenced by caregiving but is not a complete score of parenting quality.
+
+Likewise, attachment insecurity is not a diagnosis and should not be treated as evidence that a caregiver failed. Development occurs within family and social systems, and attachment patterns can change.
+
+## Temperament is not personality destiny
+
+Temperament describes early-emerging differences in reactivity and regulation. Personality is broader and includes enduring patterns across multiple domains. Temperamental characteristics can contribute to later personality, but social experience, roles, culture, learning, and individual choices also matter.
+
+A child who is highly inhibited can develop many different adult patterns depending on environmental fit and accumulated experience. Developmental continuity is probabilistic rather than deterministic.
+
+## Risk is not prediction
+
+A developmental risk factor changes probability. It does not identify what will happen to a particular individual. The difference is crucial in clinical, educational, family, and policy contexts.
+
+Risk factors often cluster, and their effects can depend on timing, dose, context, and protective factors. A responsible developmental statement therefore includes uncertainty and avoids labeling a person by a population-level risk association.
+
+## Resilience is not invulnerability
+
+Resilience does not mean that adversity causes no harm. A person can function relatively well while still experiencing distress, losses, or hidden costs. Resilience can involve recovery, adaptation, compensation, or maintenance of functioning, and it must be defined relative to the adversity and outcome.
+
+Resilience should not be used to romanticize harmful conditions or shift responsibility for structural problems onto individuals.
+
+## Adolescence is not universal instability
+
+Adolescence includes substantial change, but the stereotype that adolescents are inevitably irrational, rebellious, or emotionally unstable is too broad. Development varies by context and person. Peer influence can produce risk but can also support prosocial behavior. Cognitive capacity can increase while performance remains context-sensitive.
+
+A developmental explanation should therefore identify the conditions under which a behavior is more likely rather than treating adolescence itself as the cause.
+
+## Puberty is not adolescence
+
+Puberty is primarily a biological maturation process involving endocrine and physical changes. Adolescence is a broader developmental period involving biological, cognitive, emotional, social, and identity changes. They overlap but are not interchangeable.
+
+This distinction prevents biological changes from being treated as complete explanations for social or psychological behavior.
+
+## Emerging adulthood is not universal
+
+Emerging adulthood describes a particular pattern of extended transition that is especially relevant where education, marriage, employment, and residential independence are delayed. It is not a universal stage experienced in the same way across all cultures.
+
+The concept should therefore be applied with attention to historical and socioeconomic context.
+
+## Aging is not disease
+
+Aging includes normal biological and psychological change. Disease can occur during aging, but disease is not synonymous with aging. Some age-related changes are normative, some reflect pathology, and some are strongly influenced by behavior and environment.
+
+This distinction matters for cognitive aging. Atypical impairment should not be inferred simply from chronological age, and normal age-related changes should not automatically be pathologized.
+
+## Cognitive aging is not global cognitive collapse
+
+Different cognitive abilities follow different trajectories. Processing speed can decline while knowledge remains strong. Some forms of memory can become less efficient while semantic knowledge and expertise remain relatively preserved. Compensation can preserve real-world performance.
+
+A single cognitive measure therefore cannot summarize the entire developmental state of an older adult.
+
+## Cognitive reserve is not a stored quantity
+
+Cognitive reserve is a theoretical construct used to explain differences in cognitive functioning relative to brain changes or pathology. It is inferred through patterns of performance and associated experiences; it is not a simple physical reservoir that can be measured directly.
+
+Education and intellectually demanding activity are often used as indicators or correlates, but they are not interchangeable with reserve itself.
+
+## Culture is not nationality
+
+Culture includes shared practices, meanings, institutions, norms, and traditions. A national boundary does not define one psychological culture, and people within a cultural group differ substantially.
+
+Developmental research should therefore avoid reducing cultural influence to country labels or stereotypes. Cultural processes can operate within families, communities, institutions, languages, and social groups.
+
+## Cross-sectional age differences are not automatically developmental change
+
+This is one of the chapter's most important methodological boundaries. Cross-sectional designs compare people of different ages. Longitudinal designs observe people over time. The former is useful for identifying age-group differences; the latter is better suited to direct estimation of within-person change.
+
+Neither design is universally sufficient. The correct choice depends on the research question, and sequential designs can help separate age, cohort, and period effects.
+
+## Biological correlates are not automatically causes
+
+A neural, hormonal, or physiological difference associated with a psychological developmental change can be part of the mechanism, a consequence of behavior, a correlated process, or some combination. Biological evidence is valuable but requires causal interpretation.
+
+Developmental systems are reciprocal. Experience can influence biology, and biological changes can alter experience. The direction of influence must therefore be tested rather than assumed.
+
+## Social context is not background decoration
+
+Family, school, peer, community, and cultural contexts can change the opportunities available for development. They also alter the expression of capacities. A person's observed behavior is therefore partly a property of the person-in-context system.
+
+This does not mean that context explains everything. It means that developmental theories should specify when context is expected to matter and through which mechanism.
+
+## Developmental stages are not rigid boxes
+
+Stage labels are organizational tools. They help locate common developmental transitions but do not imply that every person changes at the same age or in the same sequence.
+
+Biological, cognitive, social, and identity processes can cross stage boundaries. The chapter therefore uses stages as retrieval anchors while preserving continuity across the lifespan.
+
+## Developmental domains are distinct but interconnected
+
+The chapter separates domains to preserve conceptual ownership. This should never be interpreted as a claim that domains operate independently.
+
+Motor, perceptual, cognitive, language, emotional, social, personality, moral, self, identity, executive, and social-cognitive processes interact. The correct knowledge representation is therefore a network of distinct constructs connected by explicit relationships.
+
+## The final ownership principle
+
+Chapter 1.15 owns developmental change and developmental organization. It does not become the canonical owner of every psychological construct that changes with age.
+
+When a Topic discusses memory, emotion, personality, motivation, learning, social behavior, or culture, it should do so from the developmental angle and defer the general construct to its canonical home. This preserves one authoritative source for universal psychology while allowing Chapter 1.15 to explain how that psychology changes across the lifespan.
+
+This boundary is central to the chapter's architecture. Depth does not mean absorbing neighboring chapters. Depth means explaining developmental mechanisms, trajectories, timing, variation, context, and evidence with enough precision that the developmental question can be answered without repeatedly rebuilding the entire discipline inside one chapter.
+
+---
+
 # 1. Development
 
 ## 1. Purpose
