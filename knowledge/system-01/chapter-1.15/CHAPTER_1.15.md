@@ -1124,7 +1124,9 @@ A future revision should not remove this material simply to shorten the file unl
 
 ---
 
-# 1. Development
+# CHAPTER-LEVEL MINIMUM DEPTH CONFIRMATION
+
+The minimum depth requirement is treated as a floor for substantive knowledge, not a target to be barely reached. The chapter therefore retains explicit treatment of developmental mechanisms, temporal inference, cohort effects, measurement, plasticity, individual trajectories, relational systems, cultural context, aging, risk, resilience, and cross-topic ownership.\n---\n\n# 1. Development
 
 ## 1. Purpose
 
