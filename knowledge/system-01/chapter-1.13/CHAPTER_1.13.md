@@ -29,6 +29,20 @@ Measurement also requires care. Self-report captures conscious experience, while
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Affect is especially useful when the research question concerns broad feeling tone rather than a named emotion. Its dimensions can move independently, which prevents a common error: assuming that pleasantness, activation, and emotional category are interchangeable. Affective measurement also has a temporal problem. A brief reaction, a daily mood average, and a stable individual tendency can all produce different affect scores while referring to different phenomena. Researchers therefore need to specify time scale, measurement channel, and context. Affective experience can also be generated internally: memory, imagination, bodily discomfort, and anticipation can change feeling even when the external environment is unchanged. The broadness of the construct is its strength for organizing phenomena but also its main limitation. If affect is used as a catch-all explanation, it can become too vague to explain mechanism. A good explanation therefore moves from affect to the more specific construct that carries the causal or descriptive burden.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic defines a broad organizing layer of affective science. The same observable event can produce different responses when goals, learning history, bodily state, expectations, social setting, or available actions differ. Conversely, different events can converge on similar affective responses when they share psychological significance. This prevents a simple stimulus-response interpretation. The construct is better understood as a relation between person, situation, representation, and current state. Affect should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Affect is the broad organizing concept for the chapter's treatment of mood, emotion, feeling, valence, arousal, expression, regulation, and discrete affective experiences.
 
@@ -68,6 +82,20 @@ Mood is also partly inferred from patterns over time. A momentary unpleasant fee
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Mood should be understood as a temporal background condition rather than an undifferentiated emotional residue. Its persistence can alter how subsequent events are interpreted, but the direction of that influence depends on what information is encountered and what the person is trying to do. Mood can also be shaped by repeated small events rather than one identifiable cause. This makes causal attribution difficult: a person may report feeling irritable without one event being responsible. Mood measurement therefore benefits from repeated sampling instead of relying only on retrospective summaries. A further boundary is between ordinary mood variation and clinically significant mood disturbance. Duration, severity, functional impairment, and symptom pattern matter. A temporary low mood is not evidence of a disorder. Mood can also be congruent or incongruent with the immediate situation, and a mismatch does not by itself prove pathology. The scientific value of mood lies in explaining how a diffuse affective state provides a background against which more specific emotional episodes occur.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic defines a broad organizing layer of affective science. The same observable event can produce different responses when goals, learning history, bodily state, expectations, social setting, or available actions differ. Conversely, different events can converge on similar affective responses when they share psychological significance. This prevents a simple stimulus-response interpretation. The construct is better understood as a relation between person, situation, representation, and current state. Mood should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Mood is the chapter's principal sustained affective state and provides an important contrast with discrete emotional episodes.
 
@@ -107,6 +135,20 @@ Emotion is neither inherently rational nor irrational. It provides information a
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Emotion is best treated as a coordinated process with partially separable components. This prevents two opposite errors: reducing emotion to a private feeling, or treating an emotion label as if it were a single biological event. The same emotional episode can contain rapid orienting, appraisal, bodily activation, subjective feeling, expression, action readiness, and later reinterpretation. These components can have different time courses and can be altered independently. Emotional meaning is also relational: an event matters emotionally because of what it signifies for the organism's needs, goals, values, relationships, or predictions. This explains both individual variation and within-person change. The theoretical debate about emotion concerns how these components are organized and generated, not whether affective responding exists. A rigorous account therefore identifies which component is being studied, what evidence supports its relation to other components, and what remains uncertain.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic defines a broad organizing layer of affective science. The same observable event can produce different responses when goals, learning history, bodily state, expectations, social setting, or available actions differ. Conversely, different events can converge on similar affective responses when they share psychological significance. This prevents a simple stimulus-response interpretation. The construct is better understood as a relation between person, situation, representation, and current state. Emotion should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Emotion is the chapter's central construct. Other Topics specify its components, generation processes, theories, regulation, expression, and particular emotional experiences.
 
@@ -143,6 +185,20 @@ The concept is useful because emotion words can conceal temporal dynamics. “An
 ### Integrated mechanism, boundary, and retrieval deepening
 
 The episode concept adds temporal resolution that a static emotion label cannot provide. An episode can contain escalation, peak, maintenance, recovery, and recurrence. These phases need not be symmetrical. A response may begin quickly but remain elevated because the person repeatedly encounters confirming information, or it may decline rapidly after safety information arrives. Regulation can occur at any point, and later appraisals can change the trajectory without erasing the earlier response. This makes emotional episodes particularly suitable for experience-sampling and time-series research. It also clarifies why retrospective labels can be misleading: remembering that one was angry compresses an entire trajectory into one category. Episode-level analysis asks when the response changed, which component changed first, and what environmental or cognitive event accompanied the transition.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic defines a broad organizing layer of affective science. The same observable event can produce different responses when goals, learning history, bodily state, expectations, social setting, or available actions differ. Conversely, different events can converge on similar affective responses when they share psychological significance. This prevents a simple stimulus-response interpretation. The construct is better understood as a relation between person, situation, representation, and current state. Emotional episode should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Emotional episode connects the chapter's static-sounding constructs to the dynamic sequence of emotion generation and regulation.
 
@@ -179,6 +235,20 @@ The term stimulus should not imply a simple stimulus-response chain. The same in
 ### Integrated mechanism, boundary, and retrieval deepening
 
 An emotional stimulus is best understood as an input to an interpretive system rather than a guaranteed emotional cause. Its significance depends on perceptual processing, prior learning, current goals, bodily state, and context. The same cue can become less emotionally potent through habituation or safety learning, or more potent through conditioning and repeated association. Stimuli can also be internally generated. A remembered insult, imagined future failure, or anticipated reunion can evoke emotion without a corresponding external event. This matters because emotional research sometimes uses standardized stimuli and then generalizes too quickly to everyday life. Laboratory stimuli provide control but can differ from personally meaningful events. A complete account therefore distinguishes stimulus properties from the psychological meaning assigned to them and avoids assuming that an observed response is caused by the stimulus alone.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic defines a broad organizing layer of affective science. The same observable event can produce different responses when goals, learning history, bodily state, expectations, social setting, or available actions differ. Conversely, different events can converge on similar affective responses when they share psychological significance. This prevents a simple stimulus-response interpretation. The construct is better understood as a relation between person, situation, representation, and current state. Emotional stimulus should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Emotional stimulus provides the event-side counterpart to emotion generation and appraisal.
 
@@ -215,6 +285,20 @@ Valence is often measured with self-report scales, affective ratings, or behavio
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Valence is a powerful compression of affective experience, but compression necessarily loses information. Two negatively valenced states may differ in urgency, action tendency, physiological profile, and social meaning. Valence can also change within the same episode as circumstances are reinterpreted. An unpleasant medical procedure may be followed by relief; a pleasant reward may become aversive when it conflicts with a valued goal. This shows why valence should not be treated as a simple property of an object. It is a feature of the person's current relation to the object or event. Measurement is similarly context-sensitive. A single rating captures a person's report at one time, whereas repeated ratings can reveal trajectories. Finally, valence is not synonymous with desirability in every sense: an unpleasant emotion can be useful, and a pleasant state can support maladaptive behavior.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic isolates a component that can be present within an emotional episode without being identical to the whole episode. Emotional responding is multicomponent. Feeling, appraisal, physiology, expression, attention, action readiness, and regulation can correlate while remaining partially separable. A change in one component does not prove that every other component changed. Dissociation is therefore an informative result: it can reveal timing, causal direction, or selective regulation. Emotional valence should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Valence supplies one major dimension for organizing affective states and complements arousal and more specific emotional categories.
 
@@ -251,6 +335,20 @@ Arousal can alter attention, action readiness, and performance, but effects depe
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Arousal is easiest to understand when separated from both valence and physiological activation. Psychological arousal describes experienced activation or energy, whereas physiological arousal refers to bodily processes. They often correlate but can diverge. A person may report intense activation while physiological measures are modest, or show substantial bodily activation without labeling a strong emotion. Arousal also has no fixed behavioral meaning. High activation can support rapid responding when a task benefits from urgency, but it can interfere with complex processing when demands exceed available control. Low activation can reflect calm concentration or disengagement depending on context. The construct therefore requires a specified measurement channel and task context. Treating arousal as a universal stress signal is scientifically too coarse.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic isolates a component that can be present within an emotional episode without being identical to the whole episode. Emotional responding is multicomponent. Feeling, appraisal, physiology, expression, attention, action readiness, and regulation can correlate while remaining partially separable. A change in one component does not prove that every other component changed. Dissociation is therefore an informative result: it can reveal timing, causal direction, or selective regulation. Arousal should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Arousal is one of the chapter's major affective dimensions and must be distinguished from physiological arousal and emotional intensity.
 
@@ -287,6 +385,20 @@ The meaning of intensity is therefore measurement-dependent. A self-report ratin
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Intensity should be anchored to the component whose magnitude is being described. Subjective intensity asks how strong the experience feels; expressive intensity asks how strongly emotion is displayed; physiological intensity concerns the magnitude of a bodily response. These measures can correlate without being identical. Intensity also changes over time and can be influenced by attention, appraisal, uncertainty, personal relevance, and regulation. A person can deliberately reduce expression while maintaining strong internal feeling. Conversely, an expressive reaction can be large because of learned display habits without indicating equally strong private experience. This makes intensity particularly vulnerable to measurement error when researchers combine different indicators under one label. Stronger is therefore not automatically more important, more accurate, or more adaptive.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic isolates a component that can be present within an emotional episode without being identical to the whole episode. Emotional responding is multicomponent. Feeling, appraisal, physiology, expression, attention, action readiness, and regulation can correlate while remaining partially separable. A change in one component does not prove that every other component changed. Dissociation is therefore an informative result: it can reveal timing, causal direction, or selective regulation. Emotional intensity should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Intensity clarifies the magnitude dimension of emotion and prevents confusion between strength, valence, and activation.
 
@@ -323,6 +435,20 @@ Physiological arousal can contribute to how people experience and interpret emot
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Physiological arousal is informative because emotional processes are embodied, but bodily signals are not emotion-specific codes. Heart rate, skin conductance, respiration, pupil changes, muscle activity, and endocrine responses reflect partly different systems and can be affected by movement, temperature, medication, fitness, illness, and anticipation. The same physiological pattern can occur during excitement, fear, exercise, or cognitive effort. Interpretation therefore requires context and comparison conditions. Bodily feedback can still matter causally: changes in bodily state may influence feeling, appraisal, and action readiness. The scientific question is how much and under which conditions, not whether physiology matters at all. This preserves the insight of bodily theories without treating physiology as a simple decoder of named emotions.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic isolates a component that can be present within an emotional episode without being identical to the whole episode. Emotional responding is multicomponent. Feeling, appraisal, physiology, expression, attention, action readiness, and regulation can correlate while remaining partially separable. A change in one component does not prove that every other component changed. Dissociation is therefore an informative result: it can reveal timing, causal direction, or selective regulation. Physiological arousal should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Physiological arousal provides the bodily component that must be distinguished from subjective feeling and broader psychological arousal.
 
@@ -359,6 +485,20 @@ The concept is central to theories of consciousness and emotion because differen
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Subjective feeling is privileged for questions about conscious emotional experience but limited for questions about processes outside awareness. People can report what they feel, yet the report is constructed through attention, concepts, memory, language, and the available response scale. Someone who lacks a precise emotion label may still have a meaningful affective experience. Conversely, a confident label can be inaccurate about the underlying event or physiological process. Feeling should therefore be treated as evidence about experienced state, not as an infallible explanation of cause. Its dissociation from expression and physiology is scientifically important rather than a measurement failure. Different theories also disagree about whether conscious feeling is necessary for every emotional process, making careful definition essential.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic isolates a component that can be present within an emotional episode without being identical to the whole episode. Emotional responding is multicomponent. Feeling, appraisal, physiology, expression, attention, action readiness, and regulation can correlate while remaining partially separable. A change in one component does not prove that every other component changed. Dissociation is therefore an informative result: it can reveal timing, causal direction, or selective regulation. Subjective feeling should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Subjective feeling is the experiential counterpart to physiological, expressive, appraisal, and action components of emotion.
 
@@ -395,6 +535,20 @@ The relation between expression and emotion is therefore probabilistic and conte
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Expression is a communication channel, not a transparent window into private experience. Observers infer emotion by combining facial, vocal, postural, linguistic, and situational information. The same outward movement can have different meanings depending on context, and different emotions can share expressive features. Social norms further shape what people show. This is why attempts to identify a person's exact emotion from one facial cue are unreliable. Expression can also serve functions beyond communication, including interaction coordination and self-regulation. A person may intentionally alter display to protect a relationship, maintain professionalism, or avoid escalation. Expression is therefore both an output of emotional processes and a social behavior in its own right.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic isolates a component that can be present within an emotional episode without being identical to the whole episode. Emotional responding is multicomponent. Feeling, appraisal, physiology, expression, attention, action readiness, and regulation can correlate while remaining partially separable. A change in one component does not prove that every other component changed. Dissociation is therefore an informative result: it can reveal timing, causal direction, or selective regulation. Emotional expression should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Expression connects internal affective processes with interpersonal behavior and leads directly to display rules and expression regulation.
 
@@ -431,6 +585,20 @@ The same emotion can also support different actions in different contexts. Anger
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Action tendency explains the bridge between affective significance and behavioral readiness. It is directional rather than deterministic. A tendency can be blocked by competing goals, social norms, lack of opportunity, or deliberate control. This distinction is especially important when studying strong emotion: an intense urge to act does not imply that action will occur. Action tendencies can also change during an episode as new information alters appraisal. Fear can shift from escape toward investigation when safety becomes credible; anger can shift from confrontation toward problem solving when a constructive route appears. The construct therefore captures preparedness and direction, not a fixed behavioral script.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic isolates a component that can be present within an emotional episode without being identical to the whole episode. Emotional responding is multicomponent. Feeling, appraisal, physiology, expression, attention, action readiness, and regulation can correlate while remaining partially separable. A change in one component does not prove that every other component changed. Dissociation is therefore an informative result: it can reveal timing, causal direction, or selective regulation. Action tendency should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Action tendency links emotion to motivation and behavior while remaining distinct from the actual action.
 
@@ -467,6 +635,20 @@ Awareness should not be equated with emotional control or intelligence. Knowing 
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Emotional awareness is partly a problem of detection and partly a problem of interpretation. Detecting bodily activation does not guarantee correct emotion identification, and naming an emotion does not guarantee accurate knowledge of its cause. Awareness can be coarse or fine-grained, immediate or retrospective, and stable or context-dependent. It can support regulation because deliberate modification usually benefits from knowing what is occurring, but awareness is neither necessary nor sufficient for every regulatory process. Measurement should distinguish perceived awareness from demonstrated discrimination. Someone can believe they understand their emotions while showing poor differentiation when tested across repeated states.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic isolates a component that can be present within an emotional episode without being identical to the whole episode. Emotional responding is multicomponent. Feeling, appraisal, physiology, expression, attention, action readiness, and regulation can correlate while remaining partially separable. A change in one component does not prove that every other component changed. Dissociation is therefore an informative result: it can reveal timing, causal direction, or selective regulation. Emotional awareness should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Emotional awareness provides a foundation for emotional granularity, differentiation, and deliberate regulation.
 
@@ -503,6 +685,20 @@ Research often examines granularity by analyzing patterns of repeated emotion ra
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Granularity concerns the structure of emotional categories a person uses across experiences. It is not simply the number of words in a vocabulary. A person can know many emotion terms without reliably applying them in differentiated ways. Conversely, a smaller vocabulary can still support useful distinctions. Granularity is influenced by language and conceptual learning but is also tied to attention, culture, context, and experience. Its potential value is functional: different emotional states can imply different interpretations and possible actions. Yet greater differentiation is not automatically better. Categories must be meaningful and sufficiently accurate for the context in which they are used.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic isolates a component that can be present within an emotional episode without being identical to the whole episode. Emotional responding is multicomponent. Feeling, appraisal, physiology, expression, attention, action readiness, and regulation can correlate while remaining partially separable. A change in one component does not prove that every other component changed. Dissociation is therefore an informative result: it can reveal timing, causal direction, or selective regulation. Emotional granularity should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Granularity explains one route by which emotional awareness becomes more precise and connects naturally with emotional differentiation.
 
@@ -539,6 +735,20 @@ Differentiation is shaped by attention, learning, concepts, language, and repeat
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Differentiation is closely related to granularity but emphasizes separation among experienced states. It becomes particularly important when several emotions share bodily activation or broad valence. Distinguishing fear from excitement, anger from frustration, or sadness from exhaustion can change how a person interprets the situation and what action seems appropriate. Differentiation can be assessed across repeated reports by examining whether a person's ratings distinguish states consistently rather than collapsing them into one general dimension. It is influenced by conceptual knowledge, attention, learning, and language. It should not be treated as a simple marker of emotional superiority; a distinction is useful only if it corresponds to meaningful differences in the person's situation.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic isolates a component that can be present within an emotional episode without being identical to the whole episode. Emotional responding is multicomponent. Feeling, appraisal, physiology, expression, attention, action readiness, and regulation can correlate while remaining partially separable. A change in one component does not prove that every other component changed. Dissociation is therefore an informative result: it can reveal timing, causal direction, or selective regulation. Emotional differentiation should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Differentiation complements granularity by explaining how distinct emotional experiences are separated within affective representation.
 
@@ -576,6 +786,20 @@ Different appraisal theories specify different appraisal dimensions and their co
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Appraisal is a meaning-making process, not necessarily a conscious verdict. It concerns what an event means for goals, needs, expectations, responsibility, control, and other personally relevant dimensions. Because meaning can change, emotional response can change even when the external event remains unchanged. Appraisal also helps explain individual differences: two people can receive the same information but evaluate its significance differently. However, appraisal should not become a circular explanation in which any emotion is simply said to reflect an appraisal of that same emotion. Useful models specify dimensions and mechanisms that generate testable predictions. Evidence is strongest when appraisal is measured independently of the emotional outcome and when alternative explanations are controlled.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic isolates a component that can be present within an emotional episode without being identical to the whole episode. Emotional responding is multicomponent. Feeling, appraisal, physiology, expression, attention, action readiness, and regulation can correlate while remaining partially separable. A change in one component does not prove that every other component changed. Dissociation is therefore an informative result: it can reveal timing, causal direction, or selective regulation. Appraisal should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Appraisal connects emotional stimuli with emotion generation and helps explain why the same event can produce different emotional responses.
 
@@ -611,6 +835,20 @@ Emotion generation can also be interrupted or redirected. New information may re
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Emotion generation is best treated as a distributed process in which multiple signals converge and interact. An event can alter perception, appraisal, bodily regulation, attention, memory accessibility, and action readiness. The relative contribution of each component can change across time. This makes simple linear models useful as teaching approximations but inadequate as universal mechanisms. Generation can also be recursive: an initial response changes the situation, the changed situation produces new information, and the new information modifies the emotion. This feedback structure helps explain escalation and recovery. A complete explanation therefore specifies both initiating conditions and feedback processes.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic isolates a component that can be present within an emotional episode without being identical to the whole episode. Emotional responding is multicomponent. Feeling, appraisal, physiology, expression, attention, action readiness, and regulation can correlate while remaining partially separable. A change in one component does not prove that every other component changed. Dissociation is therefore an informative result: it can reveal timing, causal direction, or selective regulation. Emotion generation should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Emotion generation is the process-level bridge among stimulus, appraisal, feeling, physiology, expression, and action tendency.
 
@@ -646,6 +884,20 @@ Recognition should not be confused with expression. A person can recognize an em
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Emotion recognition is inferential because another person's private experience is not directly observable. Observers combine expressive behavior, context, prior knowledge, language, and expectations. Recognition accuracy can therefore improve when multiple cues converge and decline when cues conflict or are ambiguous. Self-recognition has a similar problem: internal signals must be interpreted. Recognition is thus a judgment about emotional state, not a direct measurement of it. This distinction is particularly important when evaluating claims about facial-expression decoding or lie detection.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic isolates a component that can be present within an emotional episode without being identical to the whole episode. Emotional responding is multicomponent. Feeling, appraisal, physiology, expression, attention, action readiness, and regulation can correlate while remaining partially separable. A change in one component does not prove that every other component changed. Dissociation is therefore an informative result: it can reveal timing, causal direction, or selective regulation. Emotion recognition should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Emotion recognition links emotional awareness and perception with interpersonal interpretation.
 
@@ -681,6 +933,20 @@ The process can operate before a person forms an explicit verbal judgment, yet r
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Emotion perception begins with processing cues that can carry affective significance, but perception is shaped by attention and context. A threatening-looking scene can be interpreted differently after additional information changes its meaning. Perception can also be rapid without being infallible. Salient emotional information may receive priority because rapid detection can be useful, yet false alarms are possible. Laboratory tasks that isolate emotional cues can therefore reveal perceptual biases without establishing that everyday emotion perception operates identically under natural conditions.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic isolates a component that can be present within an emotional episode without being identical to the whole episode. Emotional responding is multicomponent. Feeling, appraisal, physiology, expression, attention, action readiness, and regulation can correlate while remaining partially separable. A change in one component does not prove that every other component changed. Dissociation is therefore an informative result: it can reveal timing, causal direction, or selective regulation. Emotion perception should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Emotion perception supplies the perceptual side of emotion recognition and connects affect with sensation and attention.
 
@@ -716,6 +982,20 @@ Regulation can target different components: the stimulus, appraisal, subjective 
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Emotion regulation is a goal-dependent process. The same emotional change can be adaptive in one situation and maladaptive in another. Increasing fear may improve vigilance before a genuine danger; reducing fear may support action when fear has become disproportionate. Regulation can target the situation, attention, appraisal, physiology, expression, or behavior. Timing matters because changing an early process can prevent later components from escalating, whereas late regulation may require greater effort. This is why regulation should be evaluated by function and context rather than by whether emotion was reduced.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic belongs to the control and modification side of affective processing. Regulatory processes are goal-dependent. The desired outcome is not necessarily less emotion; it can be safer action, clearer communication, sustained engagement, faster recovery, reduced expression, or changed interpretation. Timing matters because a process used before escalation can have a different effect from the same process used near peak intensity or during recovery. Emotion regulation should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Emotion regulation is the chapter's central process for explaining change in emotional responding.
 
@@ -751,6 +1031,20 @@ Because suppression is often studied through self-report, observed expression, a
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Suppression primarily changes observable expression and can therefore create divergence between inner experience and outward behavior. The regulatory effort required can itself influence attention and physiological responding, especially when suppression is sustained. But these effects are not universal, and suppression can be socially useful when immediate expression would create harm or violate legitimate norms. The scientific question is not whether suppression is always bad but when it changes which component, at what cost, and for what purpose.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic belongs to the control and modification side of affective processing. Regulatory processes are goal-dependent. The desired outcome is not necessarily less emotion; it can be safer action, clearer communication, sustained engagement, faster recovery, reduced expression, or changed interpretation. Timing matters because a process used before escalation can have a different effect from the same process used near peak intensity or during recovery. Emotional suppression should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Suppression is a specific regulation strategy and therefore does not define emotion regulation as a whole.
 
@@ -786,6 +1080,20 @@ Research often finds reappraisal associated with changes in reported emotion and
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Reappraisal operates by changing the meaning assigned to an event. Its mechanism therefore depends on whether the alternative interpretation is plausible and available before the emotional response becomes entrenched. Reappraisal can involve changing responsibility, considering alternative explanations, broadening time perspective, or identifying coping options. It should not be confused with denial: denying evidence can preserve rather than regulate threat. Effects also depend on the target emotion and situation. A strategy that helps with anger may not operate identically for grief or fear.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic belongs to the control and modification side of affective processing. Regulatory processes are goal-dependent. The desired outcome is not necessarily less emotion; it can be safer action, clearer communication, sustained engagement, faster recovery, reduced expression, or changed interpretation. Timing matters because a process used before escalation can have a different effect from the same process used near peak intensity or during recovery. Cognitive reappraisal should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Reappraisal is a central example of appraisal-based emotion regulation.
 
@@ -821,6 +1129,20 @@ Research on acceptance appears across emotion regulation, mindfulness, and psych
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Acceptance changes the relationship to an emotional experience rather than requiring the experience to disappear. This distinction matters because attempts to control internal states can sometimes create additional monitoring and struggle. Acceptance can permit a person to acknowledge fear while still acting, or acknowledge sadness without organizing all behavior around escape. It is not passive resignation and does not require agreement with the thoughts accompanying an emotion. Evidence must also distinguish acceptance as a measured process from broad claims about therapies that include acceptance-related techniques.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic belongs to the control and modification side of affective processing. Regulatory processes are goal-dependent. The desired outcome is not necessarily less emotion; it can be safer action, clearer communication, sustained engagement, faster recovery, reduced expression, or changed interpretation. Timing matters because a process used before escalation can have a different effect from the same process used near peak intensity or during recovery. Acceptance should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Acceptance represents a regulatory stance distinct from suppression and reappraisal.
 
@@ -856,6 +1178,20 @@ The social meaning of expression also matters. What counts as appropriate or ina
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Expression regulation is partly interpersonal because expression changes what other people can infer and how they respond. The person therefore manages not only an internal state but also a social information channel. Regulation can be conscious or habitual and can involve timing, intensity, channel selection, or substitution. A person may suppress facial expression while allowing neutral verbal communication, or delay a response until a private setting. These choices illustrate why emotional display cannot be interpreted without considering social goals and norms.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic belongs to the control and modification side of affective processing. Regulatory processes are goal-dependent. The desired outcome is not necessarily less emotion; it can be safer action, clearer communication, sustained engagement, faster recovery, reduced expression, or changed interpretation. Timing matters because a process used before escalation can have a different effect from the same process used near peak intensity or during recovery. Expression regulation should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Expression regulation links emotional expression with display rules and suppression.
 
@@ -891,6 +1227,20 @@ Display rules also change over development and context. A person may follow diff
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Display rules are learned through observation, feedback, instruction, and social participation. They help explain why expression differs across settings without requiring that emotional experience differ equally. Rules can concern intensity, timing, target, and acceptable forms of expression. They may also conflict with one another: a person may be expected to show warmth while feeling anger, or remain calm while experiencing fear. Such conflicts create regulatory demands. Cross-cultural differences should be described carefully because within-culture variation can be large and cultures are not internally uniform.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic belongs to the control and modification side of affective processing. Regulatory processes are goal-dependent. The desired outcome is not necessarily less emotion; it can be safer action, clearer communication, sustained engagement, faster recovery, reduced expression, or changed interpretation. Timing matters because a process used before escalation can have a different effect from the same process used near peak intensity or during recovery. Display rules should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Display rules provide the social framework within which emotional expression and expression regulation occur.
 
@@ -926,6 +1276,20 @@ The concept should not be confused with a fixed personality trait. A habit is a 
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Emotional habits become powerful when repeated responses are reinforced by predictable contexts and consequences. A habitual interpretation can occur before deliberate reasoning, while a habitual regulation response can become the default whenever a cue appears. Habits can be disrupted when context changes or when the expected consequence no longer occurs. This makes emotional habits closely related to learning without making them identical to general habit formation. The relevant question is which emotional response pattern has been learned and under what cues it is activated.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic belongs to the control and modification side of affective processing. Regulatory processes are goal-dependent. The desired outcome is not necessarily less emotion; it can be safer action, clearer communication, sustained engagement, faster recovery, reduced expression, or changed interpretation. Timing matters because a process used before escalation can have a different effect from the same process used near peak intensity or during recovery. Emotional habits should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Emotional habits connect emotion regulation with learning and repeated patterns of responding.
 
@@ -961,6 +1325,20 @@ The concept is therefore causal only when the research design supports influence
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Emotion contagion requires more than emotional similarity. To establish contagion, evidence must support a pathway by which one person's state or expression influences another's. Shared events, common group membership, and selective interaction can produce apparent convergence without direct transmission. Mechanisms may include mimicry, attention, interpretation, interactional feedback, and social affiliation. Contagion can be beneficial when it coordinates groups, but it can also transmit distress or escalation. Its effects therefore depend on the social environment.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic belongs to the control and modification side of affective processing. Regulatory processes are goal-dependent. The desired outcome is not necessarily less emotion; it can be safer action, clearer communication, sustained engagement, faster recovery, reduced expression, or changed interpretation. Timing matters because a process used before escalation can have a different effect from the same process used near peak intensity or during recovery. Emotion contagion should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Emotion contagion extends emotion beyond the individual and connects expression with interpersonal affective influence.
 
@@ -996,6 +1374,20 @@ Its lasting contribution is theoretical: it placed bodily feedback at the center
 ### Integrated mechanism, boundary, and retrieval deepening
 
 James–Lange theory remains useful as a historical marker because it made bodily feedback central to emotional experience. Its modern value is not that its original sequence has been proven in full, but that it raised a testable question: how do bodily changes contribute to feeling? Contemporary research on interoception and embodied emotion continues to address related questions. The theory should therefore be preserved with historical precision while avoiding the claim that one peripheral response uniquely identifies one emotion.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic is a theoretical account and must be treated as an explanatory model rather than as a synonym for the phenomenon itself. The scientific value of a theory lies in the mechanisms and predictions it supplies. A historical label is not evidence by itself. Competing theories should be compared by their assumptions, predicted timing, component relationships, boundary conditions, and empirical support. A later finding can preserve part of a model while revising another part. James–Lange theory should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 The theory belongs here because it is one of the historically influential models of emotion generation.
 
@@ -1031,6 +1423,20 @@ Its value for contemporary understanding is therefore partly conceptual and hist
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Cannon–Bard theory helped separate the idea of emotional feeling from the idea that bodily response must be its simple precursor. Its historical importance lies in emphasizing coordinated central processes. Modern evidence suggests that emotional experience and bodily response can interact through recurrent pathways rather than following one universal order. Thus the theory is best retained as an important conceptual step in the development of emotion science, not as a complete contemporary architecture.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic is a theoretical account and must be treated as an explanatory model rather than as a synonym for the phenomenon itself. The scientific value of a theory lies in the mechanisms and predictions it supplies. A historical label is not evidence by itself. Competing theories should be compared by their assumptions, predicted timing, component relationships, boundary conditions, and empirical support. A later finding can preserve part of a model while revising another part. Cannon–Bard theory should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 It provides a contrasting historical model of emotion generation.
 
@@ -1066,6 +1472,20 @@ The model remains useful as a conceptual demonstration that bodily activation an
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Two-factor theory highlights an important possibility: physiological activation can be interpreted using contextual information. The classic theory is stronger than the claim that context matters, because it proposes a particular relation between relatively nonspecific arousal and cognitive labeling. Later evidence has complicated that formulation. Some bodily signals carry more differentiated information than the classic model assumed, and emotional processes can begin without deliberate labeling. The enduring insight is therefore interaction between bodily state and interpretation, not a universal two-stage algorithm.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic is a theoretical account and must be treated as an explanatory model rather than as a synonym for the phenomenon itself. The scientific value of a theory lies in the mechanisms and predictions it supplies. A historical label is not evidence by itself. Competing theories should be compared by their assumptions, predicted timing, component relationships, boundary conditions, and empirical support. A later finding can preserve part of a model while revising another part. Two-factor theory should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Two-factor theory connects physiological arousal, cognition, context, and subjective feeling.
 
@@ -1101,6 +1521,20 @@ Evidence supports important links between interpretations of events and emotiona
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Cognitive appraisal theories vary in their proposed dimensions, but they share the idea that emotional significance depends on how an event relates to the person's concerns. Appraisals can concern novelty, goal relevance, responsibility, controllability, certainty, or coping potential. Their value is explanatory: they predict why identical events can evoke different emotions. Their limitation is that overly flexible appraisal accounts can become difficult to falsify. Strong models therefore specify which appraisal patterns should produce which responses and under what boundary conditions.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic is a theoretical account and must be treated as an explanatory model rather than as a synonym for the phenomenon itself. The scientific value of a theory lies in the mechanisms and predictions it supplies. A historical label is not evidence by itself. Competing theories should be compared by their assumptions, predicted timing, component relationships, boundary conditions, and empirical support. A later finding can preserve part of a model while revising another part. Cognitive appraisal theories should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Appraisal theories provide a major theoretical family explaining emotion generation and differentiation.
 
@@ -1137,6 +1571,20 @@ Basic-emotion models are therefore best treated as a family of theories rather t
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Basic-emotion approaches gain strength when they make precise claims about recurrent properties and weaken when they assume that a named emotion must have a single universal expression or physiology. Developmental, comparative, and cross-cultural evidence can inform claims about biological preparedness, but variability within and across populations must remain visible. A basic emotion can also have multiple expressive forms depending on context. The scientific issue is degree of differentiation and preparedness, not a simple choice between universal modules and total social construction.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic is a theoretical account and must be treated as an explanatory model rather than as a synonym for the phenomenon itself. The scientific value of a theory lies in the mechanisms and predictions it supplies. A historical label is not evidence by itself. Competing theories should be compared by their assumptions, predicted timing, component relationships, boundary conditions, and empirical support. A later finding can preserve part of a model while revising another part. Basic-emotion approaches should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 This theory family provides one explanation for why some emotions may show recurring patterns across people and situations.
 
@@ -1172,6 +1620,20 @@ Dimensional and categorical descriptions need not be mutually exclusive. A resea
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Basic-emotion models become empirically useful when their claims are precise enough to test. Questions include whether particular response patterns recur, whether they emerge early in development, whether they show cross-cultural regularities, and whether they have identifiable functions. None of these questions requires assuming a rigid one-emotion/one-expression mapping. Emotional categories can show recurrent tendencies while remaining flexible. The most defensible use of the approach therefore separates evidence for preparedness from stronger claims about universal expression or physiology.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic is a theoretical account and must be treated as an explanatory model rather than as a synonym for the phenomenon itself. The scientific value of a theory lies in the mechanisms and predictions it supplies. A historical label is not evidence by itself. Competing theories should be compared by their assumptions, predicted timing, component relationships, boundary conditions, and empirical support. A later finding can preserve part of a model while revising another part. Dimensional approaches should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Dimensional approaches provide the theoretical basis for the chapter's treatment of valence and arousal.
 
@@ -1207,6 +1669,20 @@ The approach remains theoretically influential but contested. Competing evidence
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Dimensional models excel at representing gradual change. They can show that an experience becomes more unpleasant or more activated even when a categorical label stays the same. However, dimensions can conceal why a state changed. Two states at the same valence and arousal can have very different meanings. A strong scientific representation therefore uses dimensions where they answer the question and categories or components where those distinctions carry explanatory value.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic is a theoretical account and must be treated as an explanatory model rather than as a synonym for the phenomenon itself. The scientific value of a theory lies in the mechanisms and predictions it supplies. A historical label is not evidence by itself. Competing theories should be compared by their assumptions, predicted timing, component relationships, boundary conditions, and empirical support. A later finding can preserve part of a model while revising another part. Constructed-emotion approaches should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Constructed-emotion theory provides a major alternative to basic-emotion and purely dimensional accounts.
 
@@ -1242,6 +1718,20 @@ The hypothesis remains scientifically useful because it illustrates a broader po
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Constructed-emotion theories are strongest when treated as mechanistic hypotheses about categorization, prediction, and bodily regulation rather than as claims that emotions are imaginary. A constructed category can still have real consequences because the resulting experience changes perception, action, and social behavior. The major empirical question concerns the relative contribution of learned concepts, context, bodily signals, and recurring biological structure. Evidence should be evaluated at the level of those mechanisms rather than by caricaturing the theory as either total construction or denial of biology.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic is a theoretical account and must be treated as an explanatory model rather than as a synonym for the phenomenon itself. The scientific value of a theory lies in the mechanisms and predictions it supplies. A historical label is not evidence by itself. Competing theories should be compared by their assumptions, predicted timing, component relationships, boundary conditions, and empirical support. A later finding can preserve part of a model while revising another part. Facial-feedback hypothesis should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 It connects emotional expression with subjective feeling and emotion generation.
 
@@ -1277,6 +1767,20 @@ Positive affect should therefore be treated descriptively rather than as a synon
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Facial feedback requires careful causal separation. If expression changes emotion, the pathway could involve sensory feedback from facial muscles, changes in social interaction, altered self-perception, or expectations about what an expression means. Different experiments may test different pathways. This is why a small average effect in one laboratory paradigm cannot be generalized to a universal law that smiling creates happiness. The useful conclusion is that expression may participate in feedback loops, with effect size and conditions requiring continued investigation.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic describes a recurring affective phenomenon whose meaning depends on context, appraisal, action readiness, and time. The named state should not be reduced to one facial movement, bodily pattern, or verbal label. Its elicitation, appraisal, action tendency, subjective experience, expression, duration, recovery, and social consequences can vary independently. Similar labels can therefore describe episodes with different underlying configurations. Positive affect should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Positive affect is one major valence domain and provides a contrast with negative affect.
 
@@ -1312,6 +1816,20 @@ Research on negative affect often uses general distress measures, but such measu
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Positive affect can influence information processing, but its consequences depend on activation, task demands, and motivational relevance. Pleasant low-arousal states may support satisfaction and restoration, whereas high-arousal positive states may increase approach and exploration. Positive affect can also coexist with uncertainty or loss. Therefore, positive affect should not be used as a proxy for psychological health, morality, competence, or correct judgment.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic describes a recurring affective phenomenon whose meaning depends on context, appraisal, action readiness, and time. The named state should not be reduced to one facial movement, bodily pattern, or verbal label. Its elicitation, appraisal, action tendency, subjective experience, expression, duration, recovery, and social consequences can vary independently. Similar labels can therefore describe episodes with different underlying configurations. Negative affect should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Negative affect organizes several discrete emotions while preserving their differences.
 
@@ -1347,6 +1865,20 @@ Scientific research commonly separates momentary affect, global life evaluations
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Negative affect is heterogeneous enough that broad distress scores can hide important mechanisms. Fear can prioritize threat, sadness can orient toward loss, anger can orient toward obstruction, and disgust can orient toward rejection. Their shared unpleasantness is real but incomplete. A broad negative-affect construct is useful for describing overall burden, while specific emotions are needed for mechanism. This distinction is important for both research and interpretation of individual experience.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic describes a recurring affective phenomenon whose meaning depends on context, appraisal, action readiness, and time. The named state should not be reduced to one facial movement, bodily pattern, or verbal label. Its elicitation, appraisal, action tendency, subjective experience, expression, duration, recovery, and social consequences can vary independently. Similar labels can therefore describe episodes with different underlying configurations. Happiness should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Happiness is a major positive affective experience and illustrates the difference between emotion and broader well-being judgments.
 
@@ -1382,6 +1914,20 @@ Sadness can also coexist with other emotions. Loss may produce sadness, anger, g
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Happiness is partly a measurement problem because people use the word for immediate feeling, remembered frequency of positive experience, and global life evaluation. These measures can correlate but are not identical. A person can have frequent pleasure but low life satisfaction if important values are unmet, or high life satisfaction while experiencing temporary sadness. Scientific claims about happiness should therefore name the measurement target rather than treating all positive self-reports as the same construct.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic describes a recurring affective phenomenon whose meaning depends on context, appraisal, action readiness, and time. The named state should not be reduced to one facial movement, bodily pattern, or verbal label. Its elicitation, appraisal, action tendency, subjective experience, expression, duration, recovery, and social consequences can vary independently. Similar labels can therefore describe episodes with different underlying configurations. Sadness should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Sadness is a core negatively valenced emotion and demonstrates how emotion can organize responses to loss.
 
@@ -1417,6 +1963,20 @@ Fear should be distinguished from anxiety. Fear is often more closely linked to 
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Sadness can change the person's relationship to goals. When an important outcome is lost, immediate approach behavior may decrease while reflection, support seeking, or reassessment becomes more prominent. These are tendencies rather than mandatory functions. The emotion can also interact with social context: supportive responses may facilitate recovery, whereas isolation can maintain distress. The distinction from depression remains essential because a normal emotional episode does not establish a clinical syndrome.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic describes a recurring affective phenomenon whose meaning depends on context, appraisal, action readiness, and time. The named state should not be reduced to one facial movement, bodily pattern, or verbal label. Its elicitation, appraisal, action tendency, subjective experience, expression, duration, recovery, and social consequences can vary independently. Similar labels can therefore describe episodes with different underlying configurations. Fear should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Fear illustrates threat-related emotion and links appraisal, action tendency, and physiological arousal.
 
@@ -1452,6 +2012,20 @@ Like other emotions, anger can be useful or costly depending on intensity, accur
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Fear involves a calibration problem between detecting danger and avoiding unnecessary alarm. Threat detection is shaped by learning, prediction, context, and perceived coping ability. When safety information becomes credible, fear can decrease, but context changes can restore the response. This does not mean the person failed to learn; emotional memory can remain sensitive to uncertainty and retrieval conditions. Fear therefore illustrates the dynamic interaction among learning, appraisal, physiology, and regulation.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic describes a recurring affective phenomenon whose meaning depends on context, appraisal, action readiness, and time. The named state should not be reduced to one facial movement, bodily pattern, or verbal label. Its elicitation, appraisal, action tendency, subjective experience, expression, duration, recovery, and social consequences can vary independently. Similar labels can therefore describe episodes with different underlying configurations. Anger should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Anger illustrates the link between appraisal of obstruction or wrongdoing and action tendency.
 
@@ -1487,6 +2061,20 @@ Individual sensitivity to disgust varies, and context can strongly alter respons
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Anger often contains information about blocked goals or perceived violations, but its informational value depends on the accuracy of the underlying appraisal. Anger can motivate problem solving, boundary setting, or persistence, while uncontrolled action can produce aggression and social harm. Because the emotion and behavior are separable, interventions or explanations should identify whether the target is feeling intensity, appraisal, expression, or action. This preserves the distinction between having anger and acting destructively.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic describes a recurring affective phenomenon whose meaning depends on context, appraisal, action readiness, and time. The named state should not be reduced to one facial movement, bodily pattern, or verbal label. Its elicitation, appraisal, action tendency, subjective experience, expression, duration, recovery, and social consequences can vary independently. Similar labels can therefore describe episodes with different underlying configurations. Disgust should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Disgust illustrates an avoidance-oriented emotion with biological, learned, and social dimensions.
 
@@ -1522,6 +2110,20 @@ Not every unexpected event produces strong subjective surprise. Expectation stre
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Disgust is unusually informative for studying the interaction of biological preparedness and cultural learning. Some triggers are widely aversive, while others vary greatly across groups and individuals. The response can also generalize through symbolic association. Such generalization may be adaptive in contamination contexts but can produce socially harmful judgments when applied indiscriminately to people or groups. Emotional response therefore does not by itself justify the evaluation attached to it.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic describes a recurring affective phenomenon whose meaning depends on context, appraisal, action readiness, and time. The named state should not be reduced to one facial movement, bodily pattern, or verbal label. Its elicitation, appraisal, action tendency, subjective experience, expression, duration, recovery, and social consequences can vary independently. Similar labels can therefore describe episodes with different underlying configurations. Surprise should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Surprise demonstrates how expectation and prediction shape emotional response.
 
@@ -1557,6 +2159,20 @@ Because interest can sustain attention, it can contribute to learning and explor
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Surprise is fundamentally comparative: it reflects the gap between what was expected and what occurred. A highly probable event that occurs may produce little surprise; an unlikely event can produce a large response. Because surprise can be pleasant, unpleasant, or neutral, it cannot be classified by valence alone. Its main behavioral consequence is often rapid updating or orientation, after which another emotion may become dominant.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic describes a recurring affective phenomenon whose meaning depends on context, appraisal, action readiness, and time. The named state should not be reduced to one facial movement, bodily pattern, or verbal label. Its elicitation, appraisal, action tendency, subjective experience, expression, duration, recovery, and social consequences can vary independently. Similar labels can therefore describe episodes with different underlying configurations. Interest should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Interest is a positive affective experience that connects emotion with exploration and motivation.
 
@@ -1592,6 +2208,20 @@ Because love is multifaceted, simple biological or emotional definitions are ins
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Interest can be sustained when a person perceives enough novelty to invite exploration without losing a sense of relevance or possible comprehension. It can therefore change as knowledge changes. An initially interesting subject may become routine, while a deeper layer can renew interest. This dynamic helps distinguish interest from a fixed preference. Interest can support attention and learning but requires opportunity and accessible information.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic describes a recurring affective phenomenon whose meaning depends on context, appraisal, action readiness, and time. The named state should not be reduced to one facial movement, bodily pattern, or verbal label. Its elicitation, appraisal, action tendency, subjective experience, expression, duration, recovery, and social consequences can vary independently. Similar labels can therefore describe episodes with different underlying configurations. Love and affection should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Love and affection represent complex positive interpersonal affect and connect emotion with social relationships.
 
@@ -1627,6 +2257,20 @@ Shame can support social learning when it motivates repair or conformity, but in
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Love and affection illustrate why emotional categories often contain multiple components. Attraction can orient toward another person, affection can reflect warmth and care, attachment can organize security and proximity, and commitment can organize longer-term choice. These processes can reinforce one another but can also diverge. A relationship can contain commitment without strong momentary affection, or attraction without stable caregiving. The broad term love should therefore be unpacked when precise explanation is required.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic describes a recurring affective phenomenon whose meaning depends on context, appraisal, action readiness, and time. The named state should not be reduced to one facial movement, bodily pattern, or verbal label. Its elicitation, appraisal, action tendency, subjective experience, expression, duration, recovery, and social consequences can vary independently. Similar labels can therefore describe episodes with different underlying configurations. Shame should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Shame introduces self-conscious emotion and prepares the distinction from guilt and pride.
 
@@ -1662,6 +2306,20 @@ Guilt and shame often occur together but should not be collapsed into one constr
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Shame often becomes intense when self-evaluation and perceived social exposure converge. The person is not merely evaluating an event but what the event means about who they are or how others may see them. This can produce concealment or withdrawal, but repair is possible when the appraisal shifts toward specific behavior and change. The distinction from guilt is therefore functional as well as semantic: different objects of evaluation can organize different responses.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic describes a recurring affective phenomenon whose meaning depends on context, appraisal, action readiness, and time. The named state should not be reduced to one facial movement, bodily pattern, or verbal label. Its elicitation, appraisal, action tendency, subjective experience, expression, duration, recovery, and social consequences can vary independently. Similar labels can therefore describe episodes with different underlying configurations. Guilt should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Guilt is a self-conscious emotion that contrasts with shame and connects emotion to moral and interpersonal behavior.
 
@@ -1698,6 +2356,20 @@ Because pride is self-conscious, it depends on representations of the self and s
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Guilt can be constructive when it accurately tracks responsibility and points toward feasible repair. It becomes less informative when responsibility is exaggerated, impossible to satisfy, or disconnected from actual agency. This is why guilt should not be treated as a moral truth signal. It is evidence about the person's appraisal of responsibility. Its relationship to behavior depends on whether the person can translate that appraisal into proportionate corrective action.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic describes a recurring affective phenomenon whose meaning depends on context, appraisal, action readiness, and time. The named state should not be reduced to one facial movement, bodily pattern, or verbal label. Its elicitation, appraisal, action tendency, subjective experience, expression, duration, recovery, and social consequences can vary independently. Similar labels can therefore describe episodes with different underlying configurations. Pride should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Pride completes the central group of self-conscious emotions alongside shame and guilt.
 
@@ -1733,6 +2405,20 @@ Envy is not automatically destructive. It can motivate self-improvement when int
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Envy is intensified when the comparison target is similar, relevant, and attainable enough to make the difference psychologically meaningful. It can therefore contain information about personal goals as well as threat to self-evaluation. The same comparison can motivate improvement or produce resentment depending on appraisal and available action. Envy is not established simply by observing that one person lacks what another has; emotional relevance and comparison are required.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic describes a recurring affective phenomenon whose meaning depends on context, appraisal, action readiness, and time. The named state should not be reduced to one facial movement, bodily pattern, or verbal label. Its elicitation, appraisal, action tendency, subjective experience, expression, duration, recovery, and social consequences can vary independently. Similar labels can therefore describe episodes with different underlying configurations. Envy should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Envy illustrates how emotion can emerge from social comparison and self-evaluation.
 
@@ -1768,6 +2454,20 @@ Jealousy differs from envy because envy is primarily a comparison over another p
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Jealousy is structurally relational. It depends on a valued connection, a perceived threat, and a competing claim or person. Ambiguity can intensify the process because uncertain evidence leaves room for competing interpretations. Jealousy can therefore be generated by imagination as well as actual events. The emotion is informative about perceived threat, but it is not evidence that betrayal or loss has occurred.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic describes a recurring affective phenomenon whose meaning depends on context, appraisal, action readiness, and time. The named state should not be reduced to one facial movement, bodily pattern, or verbal label. Its elicitation, appraisal, action tendency, subjective experience, expression, duration, recovery, and social consequences can vary independently. Similar labels can therefore describe episodes with different underlying configurations. Jealousy should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Jealousy demonstrates how multiple affective processes can combine around social threat.
 
@@ -1803,6 +2503,20 @@ Feeling grateful does not require that the benefit be objectively large. Perceiv
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Gratitude involves appraisal of benefit and appreciation of its source or significance. The same objective benefit can produce different gratitude depending on perceived intention, relationship, need, and expectations. Gratitude can support reciprocity and relationship maintenance, but social pressure can also make expressions of gratitude performative. Feeling grateful and expressing gratitude are therefore separate components.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic describes a recurring affective phenomenon whose meaning depends on context, appraisal, action readiness, and time. The named state should not be reduced to one facial movement, bodily pattern, or verbal label. Its elicitation, appraisal, action tendency, subjective experience, expression, duration, recovery, and social consequences can vary independently. Similar labels can therefore describe episodes with different underlying configurations. Gratitude should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Gratitude is a positive social emotion illustrating how affect can encode beneficial interpersonal events.
 
@@ -1838,6 +2552,20 @@ Hope can coexist with fear, grief, or uncertainty. Emotional states are not mutu
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Hope is future-oriented and often persists precisely because the desired outcome is uncertain. It can support planning and sustained engagement when paired with credible pathways. Hope without realistic appraisal can become detached from evidence, but uncertainty alone does not make hope irrational. Its psychological function is partly to keep a valued possibility behaviorally and emotionally available.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic describes a recurring affective phenomenon whose meaning depends on context, appraisal, action readiness, and time. The named state should not be reduced to one facial movement, bodily pattern, or verbal label. Its elicitation, appraisal, action tendency, subjective experience, expression, duration, recovery, and social consequences can vary independently. Similar labels can therefore describe episodes with different underlying configurations. Hope should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Hope connects positive affect with future-oriented cognition and motivation.
 
@@ -1873,6 +2601,20 @@ Anxiety as an emotion must be distinguished from anxiety disorders. A clinical d
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Anxiety is especially sensitive to uncertainty because the threat is often not fully specified. This can promote broad monitoring and preparation, but it can also consume attention when possible threats proliferate without clear resolution. The distinction from fear is therefore one of prototypical structure rather than an absolute biological boundary. Anxiety can be a normal emotion even when uncomfortable; clinical significance depends on persistence, disproportion, and impairment.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic describes a recurring affective phenomenon whose meaning depends on context, appraisal, action readiness, and time. The named state should not be reduced to one facial movement, bodily pattern, or verbal label. Its elicitation, appraisal, action tendency, subjective experience, expression, duration, recovery, and social consequences can vary independently. Similar labels can therefore describe episodes with different underlying configurations. Anxiety as emotional experience should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Anxiety provides the chapter's major future-oriented threat emotion and contrasts with fear.
 
@@ -1908,6 +2650,20 @@ This Topic is a relationship node rather than a third owner. The chapter does no
 ### Integrated mechanism, boundary, and retrieval deepening
 
 The relationship between emotion and cognition is reciprocal at multiple levels. Emotion can change which information is selected, how ambiguous evidence is interpreted, and which outcomes receive weight. Cognitive representations can generate, intensify, attenuate, or reinterpret emotion. This makes the old idea of two separate systems—emotion on one side and reason on the other—too simple. The scientifically useful question is which cognitive operation interacts with which affective component under which conditions.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic is an explicit cross-domain relationship and therefore does not re-own the neighboring psychological system. The relationship can be reciprocal rather than one-way. Affective states can alter another psychological process, while cognition, memory, attention, motivation, action, or social judgment can alter emotional generation and regulation. The evidence must specify which direction, component, population, and time scale are actually supported. Emotion and cognition should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 It integrates emotion with the cognitive systems described in Chapters 1.6, 1.8, 1.9, and 1.10.
 
@@ -1943,6 +2699,20 @@ This relationship is complex enough that “emotion improves memory” is an ina
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Emotion can alter encoding and retrieval by changing attention, salience, consolidation conditions, and current state. Yet emotional memories can be vivid without being complete or accurate. Remembering an emotional event also reconstructs it, and the act of remembering can reactivate affect. The relationship is therefore bidirectional and dynamic. Claims about “emotional memory” should specify the memory process involved.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic is an explicit cross-domain relationship and therefore does not re-own the neighboring psychological system. The relationship can be reciprocal rather than one-way. Affective states can alter another psychological process, while cognition, memory, attention, motivation, action, or social judgment can alter emotional generation and regulation. The evidence must specify which direction, component, population, and time scale are actually supported. Emotion and memory should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 This relationship node connects Chapter 1.13 with the canonical memory system in Chapter 1.8.
 
@@ -1978,6 +2748,20 @@ This relationship should not duplicate the general attention system. Its purpose
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Emotionally salient information can receive priority in attention, but capture is not guaranteed. Current goals, task demands, attentional control, and stimulus competition all matter. Attention can also regulate emotion by changing which information remains active. This bidirectionality means that emotional attention should not be described as a fixed reflex that always overrides goals.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic is an explicit cross-domain relationship and therefore does not re-own the neighboring psychological system. The relationship can be reciprocal rather than one-way. Affective states can alter another psychological process, while cognition, memory, attention, motivation, action, or social judgment can alter emotional generation and regulation. The evidence must specify which direction, component, population, and time scale are actually supported. Emotion and attention should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 It links emotional salience to Chapter 1.6's canonical attention mechanisms.
 
@@ -2013,6 +2797,20 @@ The relationship is not a license to explain every decision as emotional. Decisi
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Emotion contributes to decision-making through valuation, risk perception, urgency, and anticipated outcomes. It can provide useful information about preference and significance while also producing biases under some conditions. Anticipated regret or relief can shape future choices even when the person is not currently feeling those emotions. Decision quality therefore cannot be evaluated simply by asking whether emotion was involved; human choice normally involves affective as well as cognitive information.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic is an explicit cross-domain relationship and therefore does not re-own the neighboring psychological system. The relationship can be reciprocal rather than one-way. Affective states can alter another psychological process, while cognition, memory, attention, motivation, action, or social judgment can alter emotional generation and regulation. The evidence must specify which direction, component, population, and time scale are actually supported. Emotion and decision-making should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 This relationship node connects emotion with Chapter 1.10's canonical decision-making system.
 
@@ -2048,6 +2846,20 @@ This distinction is important because the chapter should not re-own the motivati
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Emotion and motivation are coupled because emotional significance changes priority and motivational goals shape what becomes emotionally important. Yet neither is reducible to the other. A goal can remain important during low affect, and an emotion can arise without producing sustained goal pursuit. The relationship is strongest when emotion changes the attractiveness or urgency of actions while motivation determines which outcomes matter.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic is an explicit cross-domain relationship and therefore does not re-own the neighboring psychological system. The relationship can be reciprocal rather than one-way. Affective states can alter another psychological process, while cognition, memory, attention, motivation, action, or social judgment can alter emotional generation and regulation. The evidence must specify which direction, component, population, and time scale are actually supported. Emotion and motivation should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 It links affective action readiness to the motivational architecture of Chapter 1.12.
 
@@ -2083,6 +2895,20 @@ This relationship also explains why emotional regulation can change behavior wit
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Emotion can bias action selection without determining behavior. The final behavior depends on opportunity, skills, social rules, competing goals, and control. This explains why people sometimes feel a strong impulse but behave differently. It also explains why emotional regulation can be evaluated by changes in action even when subjective feeling remains. The emotion–action relation is therefore a pathway, not a command.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic is an explicit cross-domain relationship and therefore does not re-own the neighboring psychological system. The relationship can be reciprocal rather than one-way. Affective states can alter another psychological process, while cognition, memory, attention, motivation, action, or social judgment can alter emotional generation and regulation. The evidence must specify which direction, component, population, and time scale are actually supported. Emotion and action should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 It connects action tendency to observable behavior and links emotion with the general behavior system.
 
@@ -2118,6 +2944,20 @@ This relationship is especially sensitive to attribution. The same emotional sta
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Social judgments can incorporate emotional information from both the evaluator and the person being evaluated. Anger may alter perceived responsibility; fear may increase threat sensitivity; observed sadness may influence judgments of need. But emotional influence is filtered through attribution and context. If an observer recognizes that their anger comes from an unrelated frustration, they may discount it. Emotional states therefore bias judgment without necessarily replacing other evidence.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic is an explicit cross-domain relationship and therefore does not re-own the neighboring psychological system. The relationship can be reciprocal rather than one-way. Affective states can alter another psychological process, while cognition, memory, attention, motivation, action, or social judgment can alter emotional generation and regulation. The evidence must specify which direction, component, population, and time scale are actually supported. Emotion and social judgment should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 It connects emotion with the social-cognitive processes addressed in later System 1 chapters.
 
@@ -2153,6 +2993,20 @@ Emotional intelligence should not be interpreted as proof that a person always m
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Emotional intelligence must be unpacked before it can be evaluated. Ability models ask whether people can solve emotion-related information problems; trait models ask about perceived emotional characteristics; mixed models combine emotion with broader competencies. These are not interchangeable. Predictive validity also depends on what outcome is being predicted and whether overlapping personality or cognitive variables are controlled. The construct should therefore never be treated as a single universal score of emotional quality.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic is an explicit cross-domain relationship and therefore does not re-own the neighboring psychological system. The relationship can be reciprocal rather than one-way. Affective states can alter another psychological process, while cognition, memory, attention, motivation, action, or social judgment can alter emotional generation and regulation. The evidence must specify which direction, component, population, and time scale are actually supported. Emotional intelligence should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 Emotional intelligence integrates emotional awareness, recognition, understanding, and regulation while remaining a model-level construct rather than a synonym for emotional maturity.
 
@@ -2188,6 +3042,20 @@ Individual differences also do not imply fixed destiny. Emotional patterns can c
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Individual differences in emotion are multidimensional. Reactivity, baseline affect, recovery speed, awareness, differentiation, expression, and regulation can vary independently. Genetic, developmental, learning, personality, social, cultural, and situational factors can all contribute. A broad label such as “highly emotional” therefore has little scientific value unless the dimension and context are specified. Stability and plasticity coexist: a person may show recurring tendencies while still changing across development and circumstances.
+
+### Canonical mechanism, boundary, temporal, and measurement deepening
+
+This Topic is an explicit cross-domain relationship and therefore does not re-own the neighboring psychological system. The relationship can be reciprocal rather than one-way. Affective states can alter another psychological process, while cognition, memory, attention, motivation, action, or social judgment can alter emotional generation and regulation. The evidence must specify which direction, component, population, and time scale are actually supported. Individual differences in emotion should therefore be interpreted at its own explanatory level rather than used as a catch-all label.
+
+Temporal analysis should distinguish onset, escalation, peak, maintenance, recovery, and recurrence. A single retrospective report compresses these phases and may obscure when the important change occurred. Repeated or event-contingent measurement can reveal patterns that a single score cannot. The same construct may also behave differently within one person across contexts, so between-person averages should not automatically be treated as person-level laws.
+
+Boundary discipline is equally important. Everyday language often merges nearby constructs because they co-occur, but a canonical knowledge object should state what its owner explains and what must be deferred. Subjective report, observable behavior, physiology, context, and inferred cause are different levels of evidence. None should automatically be treated as a perfect proxy for the others. A measure can be reliable without being valid, and an association can be real without identifying its mechanism.
+
+Contextual moderators include culture, language, development, learning history, interpersonal roles, current goals, uncertainty, fatigue, and available regulatory resources. These moderators do not make the construct arbitrary; they specify the conditions under which its operation changes. Strong claims should therefore be conditional when the evidence is conditional.
+
+For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
+
+The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
 ## 4. Relationship to This Chapter
 This relationship-level Topic closes the chapter by integrating variation across all major affective processes.
 
