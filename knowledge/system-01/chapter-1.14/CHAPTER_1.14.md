@@ -46,6 +46,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Personality explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Trait summaries describe regularities, while process accounts explain how those regularities arise in particular contexts. A complete personality account therefore needs both enduring individual differences and the mechanisms that translate them into situation-specific thoughts, feelings, goals, and behavior.
+
+The retrieval distinction is that Personality should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses organized patterns of thought, feeling, motivation, and behavior as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -102,6 +112,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Personality trait explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+A trait is a tendency, not a rule that predicts every act. Its expression depends on the situations encountered and other characteristics of the person. Trait evidence is strongest when characteristic patterns recur across relevant observations rather than when one behavior is used to label someone.
+
+The retrieval distinction is that Personality trait should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses relatively enduring dimension of individual variation as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -158,6 +178,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Trait theory explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Trait theories differ in the dimensions they propose, their hierarchical organization, and the mechanisms they assume connect traits to behavior. Descriptive usefulness and causal completeness are separate questions; a trait model can summarize reliable variation without explaining every process that produced it.
+
+The retrieval distinction is that Trait theory should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses approaches explaining personality through enduring dimensions as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -214,6 +244,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Personality state explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+States reveal how personality is expressed moment by moment. They can be shaped by goals, social cues, stress, opportunities, and internal conditions. Repeated state observations can therefore explain how enduring characteristics become visible without treating state variation as mere measurement noise.
+
+The retrieval distinction is that Personality state should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses time-limited configuration of personality-relevant states as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -270,6 +310,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Personality process explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Process explanations ask what happens between person characteristics and observable behavior. Interpretation, goal activation, emotion, self-regulation, and feedback can mediate expression. This level is especially important when the same trait produces different behavior across contexts.
+
+The retrieval distinction is that Personality process should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses dynamic mechanisms linking person characteristics and situations as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -326,6 +376,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Trait activation explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Possessing a trait is not equivalent to expressing it at every moment. Situational cues make particular trait-relevant concerns salient, increasing the probability that a characteristic pattern will appear. Strong explanations specify which cues activate which tendencies.
+
+The retrieval distinction is that Trait activation should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses situational activation of trait-relevant tendencies as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -382,6 +442,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Personality stability explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Stability has multiple meanings, including rank-order, mean-level, structural, and pattern continuity. These forms can diverge: people may retain relative ordering while the average level of a characteristic changes across development.
+
+The retrieval distinction is that Personality stability should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses continuity of personality characteristics across time as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -438,6 +508,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Personality change explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Change can reflect maturation, repeated experience, roles, relationships, deliberate effort, or environmental shifts. A changed score is not automatically a transformed personality construct; reliable longitudinal measurement and appropriate comparisons are needed.
+
+The retrieval distinction is that Personality change should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses systematic change in personality characteristics as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -494,6 +574,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Personality development explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Development includes emergence, differentiation, consolidation, reorganization, and changing expression. Biological maturation and social experience can interact, so developmental explanations should avoid treating personality as either purely inherited or purely learned.
+
+The retrieval distinction is that Personality development should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses lifespan emergence, organization, stability, and change of personality as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -550,6 +640,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Person–situation debate explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+The apparent trait-versus-situation opposition is incomplete. Person characteristics influence which situations people enter and how they interpret them, while situations elicit and constrain behavior. The psychologically meaningful unit is often the person-in-context pattern.
+
+The retrieval distinction is that Person–situation debate should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses how person characteristics and situations jointly relate to behavior as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -606,6 +706,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Interactionist personality model explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Interactionism predicts that person variables and situational variables can jointly determine behavior. A cue can affect people differently because they interpret it differently, while a trait can be expressed differently because the environment changes.
+
+The retrieval distinction is that Interactionist personality model should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses behavior as a product of person–situation interaction as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -662,6 +772,16 @@ A theoretical perspective is an explanatory framework, not automatically an esta
 
 The canonical retrieval question is: what does Psychodynamic perspective explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Psychodynamic approaches emphasize processes that may not be fully conscious, including conflict, developmental history, internalized relationships, and defensive organization. Historical status does not establish every psychoanalytic claim; mechanisms must be evaluated separately.
+
+The retrieval distinction is that Psychodynamic perspective should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses unconscious processes, conflict, development, relationships, and motivation as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -718,6 +838,16 @@ A theoretical perspective is an explanatory framework, not automatically an esta
 
 The canonical retrieval question is: what does Behavioral perspective explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Behavioral approaches explain stable patterns partly through learning histories and environmental contingencies. Personality-relevant behavior can emerge from reinforcement without requiring an internal trait as the sole explanation, while modern learning accounts can complement trait descriptions.
+
+The retrieval distinction is that Behavioral perspective should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses learned behavior and environmental contingencies as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -774,6 +904,16 @@ A theoretical perspective is an explanatory framework, not automatically an esta
 
 The canonical retrieval question is: what does Social-cognitive perspective explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Social-cognitive approaches emphasize reciprocal influence among person factors, cognition, behavior, and environments. Beliefs, expectations, goals, and perceived capabilities affect situation selection and interpretation, helping explain both consistency and variability.
+
+The retrieval distinction is that Social-cognitive perspective should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses reciprocal relations among person factors, cognition, behavior, and social environment as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -830,6 +970,16 @@ A theoretical perspective is an explanatory framework, not automatically an esta
 
 The canonical retrieval question is: what does Humanistic perspective explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Humanistic approaches emphasize subjective meaning, agency, authenticity, and growth. These ideas become scientific claims only when they are operationalized and tested; philosophical language should not be treated as empirical evidence by itself.
+
+The retrieval distinction is that Humanistic perspective should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses subjective experience, agency, meaning, and growth as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -886,6 +1036,16 @@ A theoretical perspective is an explanatory framework, not automatically an esta
 
 The canonical retrieval question is: what does Biological perspective explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Biological approaches identify temperamental, neural, hormonal, and genetic contributions. Biological influence does not imply genetic determinism because development remains shaped by environments and interactions among biological and experiential processes.
+
+The retrieval distinction is that Biological perspective should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses genetic, neural, physiological, and temperamental contributions as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -942,6 +1102,16 @@ A theoretical perspective is an explanatory framework, not automatically an esta
 
 The canonical retrieval question is: what does Evolutionary perspective explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Evolutionary explanations propose functions shaped by selection but do not prove that a trait is currently adaptive. Ultimate evolutionary explanations must be distinguished from proximate psychological mechanisms and tested against competing explanations.
+
+The retrieval distinction is that Evolutionary perspective should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses possible evolved functions and recurrent adaptive problems as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -998,6 +1168,16 @@ A theoretical perspective is an explanatory framework, not automatically an esta
 
 The canonical retrieval question is: what does Trait perspective explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Trait approaches provide a common language for describing stable individual variation. Their predictive and measurement strengths do not make them complete causal theories; process models can explain when and how trait patterns are expressed.
+
+The retrieval distinction is that Trait perspective should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses measurable dimensions of relatively consistent individual differences as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -1054,6 +1234,16 @@ A theoretical perspective is an explanatory framework, not automatically an esta
 
 The canonical retrieval question is: what does Cultural perspective explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Culture shapes personality through norms, practices, institutions, roles, language, and developmental environments. Cross-cultural differences can reflect both genuine variation and differences in measurement meaning, making conceptual and measurement equivalence important.
+
+The retrieval distinction is that Cultural perspective should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses cultural systems, norms, practices, and meanings shaping personality as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -1110,6 +1300,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Big Five model explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+The Big Five is primarily a broad dimensional model, not a complete theory of personality. Its dimensions summarize covariance among narrower characteristics. It organizes variation effectively but does not by itself specify all developmental, biological, or situational mechanisms.
+
+The retrieval distinction is that Big Five model should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses hierarchical organization of broad personality variation into five dimensions as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -1166,6 +1366,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Openness explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Openness includes related tendencies such as intellectual exploration, imagination, aesthetic engagement, and receptivity to novelty. These components need not move identically. High or low levels are not inherently better; relevance depends on context and criterion.
+
+The retrieval distinction is that Openness should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses curiosity, imagination, novelty, and receptivity to experience as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -1222,6 +1432,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Conscientiousness explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Conscientiousness includes organization, persistence, responsibility, and goal-directed regulation. Its behavioral expression depends on task structure and incentives. A score does not guarantee performance because ability, opportunity, and situational demands also matter.
+
+The retrieval distinction is that Conscientiousness should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses organization, persistence, responsibility, and goal-directed regulation as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -1278,6 +1498,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Extraversion explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Extraversion is broader than talkativeness. Sociability, assertiveness, activity, and positive engagement can vary somewhat independently. Social behavior should therefore not be reduced to a single dimension or interpreted without considering context.
+
+The retrieval distinction is that Extraversion should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses sociability, assertiveness, activity, and positive engagement as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -1334,6 +1564,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Agreeableness explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Agreeableness concerns interpersonal tendencies such as cooperation, trust, warmth, and concern for others. It does not mean universal compliance. Values, goals, and situations determine whether agreeable tendencies produce accommodation, cooperation, compassion, or principled disagreement.
+
+The retrieval distinction is that Agreeableness should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses cooperation, warmth, trust, and concern for others as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -1390,6 +1630,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Neuroticism explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Neuroticism captures individual differences in negative emotionality and sensitivity to distress. It is not a mental disorder. Clinical significance requires an appropriate symptom pattern, persistence, impairment, and context.
+
+The retrieval distinction is that Neuroticism should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses negative emotionality and sensitivity to distress or threat as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -1446,6 +1696,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Temperament explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Temperament often refers to early-emerging patterns of reactivity and regulation with substantial biological influence. Developmental experience modifies expression, so temperament provides a foundation for variation without determining adult personality one-to-one.
+
+The retrieval distinction is that Temperament should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses early-emerging patterns of emotional reactivity and regulation as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -1502,6 +1762,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Character explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Character has multiple meanings across traditions. Some approaches emphasize moral functioning, others motivational or valued patterns. It should not silently be treated as identical to personality as a whole.
+
+The retrieval distinction is that Character should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses moral, motivational, or valued patterns of functioning as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -1558,6 +1828,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Agency explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Agency concerns initiating and regulating action toward goals. Perceived agency and enacted control are distinct: a person can feel agentic while facing external constraints, and successful action can be limited despite strong intention.
+
+The retrieval distinction is that Agency should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses capacity and tendency to initiate and regulate goal-directed action as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -1614,6 +1894,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Communion explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Communion organizes personality and self-definition around connection, belonging, care, and relationship. It overlaps with interpersonal constructs but is not synonymous with agreeableness or attachment because those concepts answer different explanatory questions.
+
+The retrieval distinction is that Communion should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses orientation toward connection, belonging, cooperation, and relationships as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -1670,6 +1960,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Self explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+The self is not a single object stored in the mind. It includes representations, evaluations, memories, goals, perspectives, and ongoing processes through which a person experiences and interprets themselves. Different self-aspects can become salient in different contexts.
+
+The retrieval distinction is that Self should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses organized psychological representation and experience of being a particular individual as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -1726,6 +2026,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Self-concept explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Self-concept is multidimensional and can include role, trait, social, physical, moral, and autobiographical information. Its contents are not equally accessible at all times; current goals and contexts can make particular self-aspects more salient.
+
+The retrieval distinction is that Self-concept should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses beliefs and representations about who one is as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -1782,6 +2092,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Self-schema explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Self-schemas organize knowledge about particular self-domains and can influence attention, interpretation, and memory. Their effects are domain-specific rather than globally active. A schema is a knowledge structure, not necessarily a consciously articulated story.
+
+The retrieval distinction is that Self-schema should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses self-related knowledge structures influencing attention and interpretation as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -1838,6 +2158,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Self-awareness explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Self-awareness can involve attention to internal states, behavior, appearance, characteristics, or the self as an object of reflection. It is not consciousness in general, and awareness of a state does not guarantee accurate understanding of its cause.
+
+The retrieval distinction is that Self-awareness should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses awareness of one's own states, characteristics, actions, or self-related processes as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -1894,6 +2224,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Self-knowledge explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Self-knowledge draws on introspection, memory, behavior, feedback, and social comparison. People can know some aspects of themselves well and misjudge others, so confidence in a self-belief is not equivalent to its accuracy.
+
+The retrieval distinction is that Self-knowledge should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses knowledge about one's own characteristics, patterns, motives, preferences, and history as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -1950,6 +2290,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Self-esteem explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Self-esteem can differ in level, stability, domain specificity, and contingency. High self-esteem is not automatically healthy and low self-esteem is not identical to a disorder. Interpretation depends on how evaluation responds to success, failure, and social feedback.
+
+The retrieval distinction is that Self-esteem should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses evaluation of one's own worth or value as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2006,6 +2356,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Self-worth explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Self-worth concerns broader personal value rather than one performance or characteristic. A person can experience failure without concluding that they lack value, while narrowly contingent worth can make ordinary setbacks more globally threatening.
+
+The retrieval distinction is that Self-worth should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses broader sense of having value as a person as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2062,6 +2422,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Self-consistency explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Self-consistency concerns coherence among self-representations. People can tolerate some inconsistency and revise self-beliefs when evidence accumulates. A desire for consistency should not be treated as an absolute force that overrides all new information.
+
+The retrieval distinction is that Self-consistency should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses coherence or continuity among self-relevant beliefs and experiences as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2118,6 +2488,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Self-discrepancy explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Different self-guides create different kinds of discrepancy, and their significance depends on importance, endorsement, attainability, and interpretation. A discrepancy is not itself a disorder or inevitable source of distress.
+
+The retrieval distinction is that Self-discrepancy should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses perceived mismatch among different self-representations as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2174,6 +2554,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Actual self explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+The actual self represents characteristics believed to be currently possessed rather than an objective inventory of everything the person is. It can differ from behavioral or informant evidence and is psychologically important partly because of how its contents are evaluated.
+
+The retrieval distinction is that Actual self should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses representation of characteristics believed to be currently possessed as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2230,6 +2620,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Ideal self explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+The ideal self represents desired characteristics and can organize motivation and comparison. Ideals can support growth but can become rigid when treated as mandatory or unattainable. Effects depend on importance, attainability, and regulation.
+
+The retrieval distinction is that Ideal self should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses representation of characteristics one would ideally like to possess as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2286,6 +2686,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Ought self explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+The ought self represents characteristics perceived as obligations or expectations. Its motivational meaning differs from the ideal self even though they can overlap. Sources include internalized norms, roles, relationships, and social expectations.
+
+The retrieval distinction is that Ought self should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses representation of characteristics one believes one should possess as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2342,6 +2752,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Possible selves explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Possible selves represent potential futures, including hoped-for and feared identities. They can guide attention and motivation by making future outcomes psychologically concrete. Their effects depend on perceived plausibility, pathways, and emotional significance.
+
+The retrieval distinction is that Possible selves should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses representations of what one might, could, or fears becoming as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2398,6 +2818,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Self-verification explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Self-verification involves seeking or interpreting feedback that confirms important self-views. It can lead people to accept confirming information even when unfavorable. The process is therefore not identical to accuracy seeking and can interact with self-enhancement.
+
+The retrieval distinction is that Self-verification should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses seeking or interpreting feedback that confirms important self-views as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2454,6 +2884,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Self-enhancement explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Self-enhancement involves maintaining or increasing favorable self-views. It can support motivation in some contexts, but excessive distortion can interfere with accurate feedback. The balance between positive self-regard and calibration is context-dependent.
+
+The retrieval distinction is that Self-enhancement should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses processes maintaining or increasing favorable self-views as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2510,6 +2950,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Self-handicapping explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Self-handicapping protects self-evaluation by creating or claiming obstacles before performance is evaluated. It can reduce immediate threat but also impair performance or reinforce avoidance. Claimed and behavioral handicaps should be distinguished.
+
+The retrieval distinction is that Self-handicapping should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses creating or claiming obstacles that protect self-evaluation from failure as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2566,6 +3016,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Self-presentation explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Self-presentation is broader than deliberate deception. People select which aspects of themselves to communicate, and some presentations are sincere attempts to express identity or fit social expectations.
+
+The retrieval distinction is that Self-presentation should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses behavior aimed at influencing how others perceive the self as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2622,6 +3082,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Impression management explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Impression management regulates information or behavior to influence how others perceive the person. It can be deliberate or habitual. Strategic presentation does not prove that the presented identity is false.
+
+The retrieval distinction is that Impression management should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses strategic regulation of information or behavior to shape impressions as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2678,6 +3148,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Self-monitoring explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Self-monitoring concerns attention to social cues and adjustment of behavior. It differs from self-awareness because the defining issue is regulation of presentation in relation to social information.
+
+The retrieval distinction is that Self-monitoring should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses monitoring social cues and adjusting behavior to situational demands as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2734,6 +3214,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Personal identity explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Personal identity concerns continuity and distinctiveness across time. Memories, commitments, values, roles, and self-representations contribute to that continuity, which can change without requiring complete psychological discontinuity.
+
+The retrieval distinction is that Personal identity should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses sense of being a continuous and distinctive individual across time as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2790,6 +3280,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Identity structure explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Identity structure concerns how multiple self-defining identities are organized, prioritized, and made accessible. Identities can overlap, conflict, or become more salient across settings, affecting transitions and integration.
+
+The retrieval distinction is that Identity structure should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses organization and accessibility of identities composing self-definition as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2846,6 +3346,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Moral identity explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Moral identity concerns the centrality of moral qualities to self-definition. Centrality is not identical to moral behavior because action also depends on situations, judgment, motivation, and self-regulation.
+
+The retrieval distinction is that Moral identity should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses centrality of moral qualities to self-definition as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2902,6 +3412,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Personal values explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Values are enduring standards of importance that organize priorities across situations. They differ from concrete goals because one value can guide many goals, and from traits because they concern what a person considers important or desirable.
+
+The retrieval distinction is that Personal values should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses enduring beliefs about what is important, desirable, or worth pursuing as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2958,6 +3478,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Locus of control explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Locus of control concerns generalized beliefs about contingency between actions and outcomes. It should not be interpreted as a belief that every outcome is controllable; external constraints can be real and perceived control can be calibrated or distorted.
+
+The retrieval distinction is that Locus of control should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses beliefs about whether outcomes depend mainly on one's actions or external forces as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -3014,6 +3544,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Attributional style explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Attributional style concerns characteristic ways of explaining causes, such as internal versus external, stable versus changeable, and broad versus specific causes. It is an explanatory tendency, not proof that the explanation is objectively correct.
+
+The retrieval distinction is that Attributional style should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses characteristic ways of explaining causes of events as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -3070,6 +3610,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Optimism explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Optimism concerns generalized positive expectations rather than certainty about particular outcomes. It can influence persistence and planning, but realistic optimism differs from ignoring evidence. Broad expectations should be distinguished from situation-specific predictions.
+
+The retrieval distinction is that Optimism should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses generalized expectation of favorable future outcomes as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -3126,6 +3676,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Pessimism explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Pessimism concerns generalized negative expectations. Negative expectation can sometimes reflect accurate risk appraisal, so pessimism should not automatically be labeled dysfunctional. Consequences depend on accuracy, rigidity, and effects on action.
+
+The retrieval distinction is that Pessimism should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses generalized expectation of unfavorable future outcomes as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -3182,6 +3742,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Perfectionism explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Perfectionism can include demanding standards, concern over mistakes, perceived discrepancy, and conditional self-evaluation. These dimensions can have different correlates, so high standards alone should not be equated with maladaptive perfectionism.
+
+The retrieval distinction is that Perfectionism should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses demanding standards and concerns about performance, evaluation, or mistakes as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -3238,6 +3808,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Attachment style → 1.15 canonical owner (redirect only) explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+This entry is an explicit redirect because the canonical attachment construct is owned by Chapter 1.15. Chapter 1.14 can reference attachment when discussing personality or individual differences but must not duplicate the attachment framework.
+
+The retrieval distinction is that Attachment style should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses characteristic expectations, emotions, and behaviors in close relationships; canonical owner is Chapter 1.15 as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -3294,6 +3874,16 @@ Empirical interpretation should distinguish description from mechanism, associat
 
 The canonical retrieval question is: what does Individual differences explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Individual differences can concern traits, abilities, motives, beliefs, preferences, states, or response patterns. A difference between people is not automatically a stable trait; the relevant object and level of variation must be specified.
+
+The retrieval distinction is that Individual differences should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses systematic ways people vary in psychological characteristics, processes, and behavior as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -3350,6 +3940,16 @@ Assessment claims require separation of reliability, validity, and interpretatio
 
 The canonical retrieval question is: what does Personality assessment explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Assessment requires a defined construct, appropriate method, scoring model, and interpretation supported by evidence. Different methods answer different questions, so no assessment format is universally optimal.
+
+The retrieval distinction is that Personality assessment should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses systematic measurement of personality characteristics as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -3406,6 +4006,16 @@ Assessment claims require separation of reliability, validity, and interpretatio
 
 The canonical retrieval question is: what does Self-report assessment explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Self-report is useful for private beliefs, evaluations, and experiences that may not be directly observable. Limitations include response style, social desirability, limited insight, memory error, and differences in item interpretation.
+
+The retrieval distinction is that Self-report assessment should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses assessment based on a person's own reports as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -3462,6 +4072,16 @@ Assessment claims require separation of reliability, validity, and interpretatio
 
 The canonical retrieval question is: what does Informant assessment explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Informants can report observable patterns across contexts and may detect characteristics that targets do not report. Disagreement can reflect different observation opportunities or genuine context dependence rather than simple error.
+
+The retrieval distinction is that Informant assessment should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses assessment based on reports from people who know the target as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -3518,6 +4138,16 @@ Assessment claims require separation of reliability, validity, and interpretatio
 
 The canonical retrieval question is: what does Behavioral assessment explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Behavioral assessment connects constructs to observed action, but behavior is strongly context-dependent. Repeated observations across relevant situations are more informative than one isolated behavior.
+
+The retrieval distinction is that Behavioral assessment should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses assessment using observed or recorded behavior as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -3574,6 +4204,16 @@ Assessment claims require separation of reliability, validity, and interpretatio
 
 The canonical retrieval question is: what does Projective assessment explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Projective methods infer psychological characteristics from responses to ambiguous stimuli. Interpretive flexibility can create reliability and validity problems, so conclusions should be limited to evidence supporting the particular method and scoring system.
+
+The retrieval distinction is that Projective assessment should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses methods inferring psychological characteristics from responses to ambiguous stimuli as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -3630,6 +4270,16 @@ Assessment claims require separation of reliability, validity, and interpretatio
 
 The canonical retrieval question is: what does Response distortion explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Response distortion can arise intentionally or unintentionally from impression management, misunderstanding, memory limitations, motivation, or response habits. Unexpected responses should not automatically be interpreted as dishonesty.
+
+The retrieval distinction is that Response distortion should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses systematic alteration of assessment responses away from accurate reporting as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -3686,6 +4336,16 @@ Assessment claims require separation of reliability, validity, and interpretatio
 
 The canonical retrieval question is: what does Social desirability explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Social desirability involves presenting oneself favorably or acceptably. It can affect self-report, but a favorable answer is not necessarily distorted because people can genuinely possess socially valued characteristics.
+
+The retrieval distinction is that Social desirability should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses tendency to present oneself in socially acceptable or favorable ways as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -3742,6 +4402,16 @@ Assessment claims require separation of reliability, validity, and interpretatio
 
 The canonical retrieval question is: what does Personality measurement validity explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
 
+
+### Topic-specific mechanism, evidence, and boundary deepening
+
+Validity concerns whether evidence supports the intended interpretation and use of scores. It is not a permanent property independent of population, context, scoring, construct definition, and inference.
+
+The retrieval distinction is that Personality measurement validity should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
+
+Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
+
+Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses degree to which personality measures support intended score interpretations and uses as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
