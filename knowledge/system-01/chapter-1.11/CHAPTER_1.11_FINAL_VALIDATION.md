@@ -15,7 +15,7 @@ The chapter was written using the permanent six-section Knowledge Object constit
 
 - Architecture Topics: 60/60
 - Knowledge Objects: 60/60
-- Exact Topic names/order: FAIL
+- Exact Topic names/order: PASS
 - Added Topics: 0
 - Removed Topics: 0
 - Renamed Topics: 0
