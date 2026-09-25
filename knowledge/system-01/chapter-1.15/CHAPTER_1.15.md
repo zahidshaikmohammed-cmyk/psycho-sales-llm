@@ -1598,6 +1598,24 @@ Self development is influenced by cognitive capacity, social interaction, feedba
 ### Boundary Conditions
 Self-representations can vary across contexts and can contain contradictions without implying that the person lacks a coherent self.
 
+### Development of the self
+Self development concerns changes in how a person represents, evaluates, and regulates the self across time. The general constructs of self, self-concept, self-esteem, and related processes are owned elsewhere; this Topic focuses on how these representations and functions become differentiated, integrated, and reorganized through development.
+
+### From concrete to differentiated representations
+Young children often describe themselves using observable characteristics, activities, possessions, preferences, and relationships. With development, self-descriptions can become more abstract, comparative, psychologically complex, and sensitive to context. A person can increasingly represent apparently conflicting qualities without assuming that one must make the other impossible.
+
+### Self-knowledge and social information
+Self-development is partly social because people learn about themselves through feedback, comparison, relationships, roles, and cultural categories. Social feedback does not simply determine self-understanding; people interpret it, accept some information, reject some information, and integrate information with existing representations.
+
+### Integration and differentiation
+Development can involve differentiation of the self into roles and contexts and integration across those contexts. A person may recognize that behavior at school, work, home, and with friends differs without concluding that these are unrelated selves. Increasing complexity can allow context sensitivity while preserving a sense of continuity.
+
+### Evaluation and regulation
+As self-representations become more sophisticated, people can compare current functioning with goals, standards, memories, and possible futures. This supports planning and self-regulation but can also create discrepancies between actual and desired states. The developmental study of these processes should remain distinct from the general psychology of self-regulation.
+
+### Cultural and relational context
+Cultures differ in which aspects of self are emphasized, including independence, interdependence, family roles, achievement, relational obligations, and social identity. Developmental patterns must therefore distinguish broadly shared capacities for self-representation from culturally shaped content and priorities.
+
 ## 4. Relationship to This Chapter
 Self development is the developmental domain for self-related change; the general self constructs remain owned by Chapter 1.14.
 
@@ -1635,6 +1653,24 @@ Identity is shaped by culture and social context. Not every culture organizes id
 
 ### Evidence Status
 Identity development is not a single universal sequence. Different identity domains can develop at different rates.
+
+### Identity as a developmental organization
+Identity development concerns how people organize answers to questions such as who they are, what they value, which groups or roles they belong to, and what commitments guide their lives. The general construct of identity belongs elsewhere; this Topic concerns how identity structures and commitments change across development.
+
+### Exploration and commitment
+Development can involve exploring alternatives before making, revising, or maintaining commitments. Exploration is not always linear, and commitment is not always permanent. People may revisit educational, occupational, relational, moral, cultural, or ideological choices as circumstances change.
+
+### Multiple identity domains
+Identity is multidimensional. Personal, relational, social, occupational, cultural, and moral identities can overlap or come into tension. Development does not require all domains to become identical or equally important. Integration can mean being able to coordinate multiple identities while preserving meaningful distinctions.
+
+### Social context
+Family expectations, peers, institutions, discrimination, migration, cultural traditions, and historical conditions shape identity opportunities. Individuals also exercise agency by selecting environments, interpreting expectations, and constructing narratives about their experiences. Identity development is therefore neither purely chosen nor purely imposed.
+
+### Continuity and revision
+A coherent identity does not require an unchanging life story. Mature identity can include revision when new evidence or circumstances make previous commitments less appropriate. Developmental stability can therefore coexist with meaningful reorganization.
+
+### Evidence boundaries
+Identity measures differ in whether they assess exploration, commitment, narrative coherence, domain content, or social identification. These should not be treated as interchangeable indicators. Developmental conclusions must specify which aspect of identity changed and what evidence supports the claim.
 
 ## 4. Relationship to This Chapter
 Identity development is the developmental treatment of identity; the general identity constructs remain owned by Chapter 1.14.
@@ -1674,6 +1710,27 @@ Performance depends on task demands, motivation, fatigue, stress, familiarity, a
 ### Evidence Status
 Executive functions are related but distinguishable. Developmental claims should specify which component and which task are being measured.
 
+### Scope
+Executive-function development concerns age-related changes in the coordination of attention, working information, inhibition, switching, planning, monitoring, and goal-directed control. These processes are related but not perfectly unitary. Development in one executive function does not imply identical development in all others.
+
+### Inhibition and control
+Early development includes substantial improvement in the ability to suppress a dominant response when a goal requires another response. This capacity is affected by task demands, motivation, language, fatigue, and familiarity. Apparent developmental differences can therefore reflect both control processes and broader task complexity.
+
+### Working information and updating
+Children progressively improve in maintaining and manipulating relevant information, although performance depends on strategy and knowledge as well as capacity. As people learn efficient strategies, developmental gains can reflect changes in both underlying control and how information is represented.
+
+### Cognitive flexibility
+Flexibility involves shifting between rules, perspectives, tasks, or strategies. Development includes becoming better able to disengage from a previously relevant rule and apply a new one. Flexibility can be constrained when emotional arousal, fatigue, or high cognitive load consumes available control.
+
+### Planning and monitoring
+Planning requires representing goals, anticipating consequences, organizing steps, and monitoring progress. These capacities become increasingly sophisticated through childhood and adolescence and continue to be refined by experience. Adults can also show failures when demands exceed available resources.
+
+### Developmental mechanisms
+Executive development reflects interactions among neural maturation, language, learning, socialization, practice, and environmental demands. Schooling can provide repeated opportunities for planning and rule coordination, while structured routines can reduce demands on executive control. Environmental support therefore changes how much control is required for successful behavior.
+
+### Measurement limits
+Executive tasks are often impure measures because they require memory, language, speed, and motivation. A single laboratory task should not be treated as a complete measure of a person's general executive functioning. Developmental interpretation benefits from multiple tasks and real-world measures.
+
 ## 4. Relationship to This Chapter
 Executive-function development is the developmental counterpart of the general executive-function constructs.
 
@@ -1709,6 +1766,27 @@ The effectiveness of a strategy depends on context. A strategy that is useful in
 ### Evidence Status
 Developmental increases in regulatory capacity do not mean that older people regulate emotion successfully in every situation.
 
+### Developmental meaning
+Emotion-regulation development concerns how people become able to influence the timing, intensity, duration, expression, and functional consequences of emotional responses. It is distinct from the general mechanisms of emotion regulation, which are owned by Chapter 1.13.
+
+### Early regulation
+Infants rely heavily on caregivers and environmental structure to reduce or organize arousal. Over time, children gain increasing ability to redirect attention, use learned strategies, seek support, label feelings, and alter situations. This does not mean that mature regulation is completely independent; social regulation remains important across life.
+
+### Strategy development
+Strategies can include attentional deployment, reappraisal, problem solving, acceptance, behavioral change, social support, and environmental modification. Development involves learning which strategies fit which situations. A strategy is not universally adaptive or maladaptive; its usefulness depends on timing, intensity, context, and goal.
+
+### Language and social understanding
+Language gives people tools for labeling internal states, communicating needs, and discussing causes and consequences. Social understanding also helps individuals anticipate how emotional expression affects other people. These capacities support increasingly deliberate regulation but do not eliminate automatic emotional processes.
+
+### Co-regulation and autonomy
+Caregivers initially provide substantial external regulation. Development involves increasing internal regulation while retaining the ability to use relationships and environments strategically. Healthy development is therefore not defined by never needing help; it includes appropriate use of external supports.
+
+### Adolescence and adulthood
+Adolescence brings changing emotional intensity, social demands, autonomy, and reward sensitivity, creating new regulatory challenges. Adults continue to develop regulation through experience, role demands, relationships, and changing priorities. Aging can involve shifts in emotional goals and strategy use, but individual variability remains substantial.
+
+### Measurement and evidence
+Reports of regulation may reflect beliefs about how one usually behaves rather than actual regulation in demanding situations. Developmental research therefore benefits from combining self-report, behavioral tasks, physiological measures, and observations when possible.
+
 ## 4. Relationship to This Chapter
 This Topic describes the developmental trajectory of emotion regulation; the general emotion-regulation construct is owned by Chapter 1.13.
 
@@ -1743,6 +1821,24 @@ Children increasingly distinguish their own perspective from others' perspective
 
 ### Boundary Conditions
 Performance depends on familiarity, emotion, culture, social context, and the complexity of the situation.
+
+### What develops
+Social-cognition development concerns changes in how people represent other people's thoughts, intentions, emotions, traits, relationships, and social categories. It includes perspective taking, intention understanding, social inference, and interpretation of complex interpersonal situations.
+
+### From observable behavior to mental states
+Young children initially rely heavily on observable actions and outcomes. With development, they become increasingly able to infer that behavior can reflect beliefs, desires, intentions, knowledge, uncertainty, and social goals. This does not mean that adults always make accurate inferences; greater representational capacity can coexist with bias.
+
+### Perspective coordination
+Social-cognitive development includes coordinating one's own perspective with another person's perspective. This can involve recognizing that two people may have different information or interpretations of the same event. More complex social situations require tracking multiple perspectives simultaneously.
+
+### Social knowledge and culture
+People learn culturally specific norms, roles, scripts, and categories through participation. Social-cognitive development therefore involves both general capacities for inference and culturally supplied content. A person can be highly skilled at reading one social environment and less familiar with another.
+
+### Relationship to behavior
+Better social understanding does not guarantee better social behavior. Motivation, emotion, norms, opportunity, and group pressures affect whether social knowledge is used. Developmental accounts should therefore distinguish social-cognitive competence from social conduct.
+
+### Development across adulthood
+Social cognition continues to change as people gain experience with relationships, institutions, occupations, and complex social systems. Older adults may show strengths in knowledge and social understanding alongside changes in processing speed or some forms of fluid reasoning. Development is therefore multidimensional rather than uniformly progressive.
 
 ## 4. Relationship to This Chapter
 It links cognitive development with social development and provides the broader developmental context for theory of mind.
@@ -1782,6 +1878,24 @@ Theory of mind is not simply “knowing what someone thinks.” It concerns repr
 ### Evidence Status
 Theory of mind is a well-established developmental research domain, but researchers continue to debate the relative contributions of language, social experience, domain-specific mechanisms, and general cognitive development.
 
+### Definition
+Theory of mind is the capacity to represent and reason about mental states such as beliefs, desires, intentions, perceptions, and knowledge, including the possibility that another person's mental state differs from one's own. It is a component of social cognition, not a synonym for all interpersonal understanding.
+
+### Developmental progression
+Young children develop increasingly sophisticated understanding that people can have different desires and knowledge, that beliefs can be mistaken, and that behavior can be guided by beliefs that do not match reality. Tasks used to study these capacities vary substantially in language and executive demands, so age performance should not be interpreted as a pure measure of mental-state reasoning.
+
+### False belief and its interpretation
+False-belief tasks are widely used because they test whether a person can represent a belief that conflicts with reality. Performance can be affected by language, working memory, inhibition, familiarity with the task, and cultural practices. Therefore, failure on one task does not establish absence of all theory-of-mind abilities.
+
+### Beyond early childhood
+Mental-state reasoning continues to become more nuanced. Older children and adults can reason about sarcasm, deception, conflicting intentions, social norms, hidden motives, and nested beliefs. However, greater complexity does not guarantee accuracy; adults remain vulnerable to assumptions and social biases.
+
+### Social interaction and development
+Conversation, pretend play, explanation of emotions, sibling interaction, and participation in social relationships can provide opportunities to practice mental-state reasoning. The causal contribution of each experience is difficult to isolate, and associations should not automatically be interpreted as proof that a specific social activity causes theory-of-mind development.
+
+### Boundaries
+Theory of mind owns developmental knowledge about representing mental states. General empathy, perspective taking, attribution, and social cognition are related but distinct constructs and should be referenced rather than collapsed into this Topic.
+
 ## 4. Relationship to This Chapter
 Theory of mind is a specific developmental component within social-cognition development.
 
@@ -1816,6 +1930,24 @@ A prenatal exposure does not guarantee a particular later outcome. Risk factors 
 
 ### Evidence Status
 Human prenatal research often relies on observational evidence because controlled experimentation is ethically limited. Causal interpretations therefore require careful triangulation.
+
+### Scope and stages
+Prenatal development begins at conception and proceeds through highly coordinated biological changes before birth. It is commonly described in germinal, embryonic, and fetal periods, although developmental processes overlap rather than occurring as perfectly separate compartments.
+
+### Genetic and cellular processes
+Early development involves rapid cell division, differentiation, migration, tissue organization, and formation of organ systems. Genetic instructions interact with cellular signaling and the prenatal environment. Developmental errors can arise from genetic variation, chromosomal differences, environmental exposures, or interactions among these factors.
+
+### Maternal and environmental influences
+Nutrition, illness, medications, toxins, stress-related physiology, infections, and other prenatal conditions can affect development. Effects depend on dose, timing, biological susceptibility, and the specific system involved. It is therefore inappropriate to assume that one exposure has the same consequence regardless of when or how much exposure occurs.
+
+### Brain development
+The nervous system undergoes extensive prenatal organization, including neural proliferation, migration, differentiation, and early connectivity. Prenatal development creates foundations for later psychological capacities but does not determine the final developmental outcome independently of postnatal experience.
+
+### Risk interpretation
+Prenatal risk factors generally alter probabilities rather than determine individual outcomes. A population association between an exposure and a later outcome does not mean that every exposed child will experience the outcome. Protective factors, postnatal environments, timing, and individual variation can alter trajectories.
+
+### Evidence limitations
+Prenatal research often relies on observational designs because controlled exposure is unethical. Confounding, measurement error, recall bias, and correlated exposures complicate causal inference. Strong conclusions require careful separation of association from demonstrated causal effect.
 
 ## 4. Relationship to This Chapter
 Prenatal development is the earliest lifespan stage and provides foundations for later developmental trajectories.
