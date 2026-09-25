@@ -1388,3 +1388,476 @@ General social cognition to Chapter 1.16 and general cognition/language to their
 - Other people can hold mental states different from one's own.
 - Theory of mind develops through multiple interacting processes.
 - Passing a theory-of-mind task depends partly on task and language demands.
+
+# 31. Prenatal development
+
+## 1. Purpose
+Prenatal development establishes the developmental processes occurring before birth and the biological conditions under which later development begins.
+
+## 2. Definition
+Prenatal development is the development of the organism from conception through birth, including major changes in biological structure, neural organization, sensory capacity, and physiological regulation.
+
+## 3. Core Understanding
+### Development
+Prenatal development involves rapid cellular differentiation, organ formation, neural development, and increasing specialization. Development proceeds through interacting genetic and environmental processes rather than a single predetermined sequence.
+
+### Mechanism
+Nutrition, maternal health, hormones, infections, toxins, medications, stress physiology, and other environmental conditions can affect development. Effects depend on timing, dose, duration, genetic characteristics, and the developmental system involved.
+
+### Boundary Conditions
+A prenatal exposure does not guarantee a particular later outcome. Risk factors change probabilities and can interact with protective conditions.
+
+### Evidence Status
+Human prenatal research often relies on observational evidence because controlled experimentation is ethically limited. Causal interpretations therefore require careful triangulation.
+
+## 4. Relationship to This Chapter
+Prenatal development is the earliest lifespan stage and provides foundations for later developmental trajectories.
+
+## 5. Boundaries
+### Owns
+Developmental processes before birth.
+### Defers
+General biological mechanisms to Chapter 1.3 and later developmental outcomes to their relevant Topics.
+
+## 6. Key Principles
+- Prenatal development involves rapid biological organization.
+- Timing and intensity of exposure matter.
+- Risk is probabilistic rather than destiny.
+
+# 32. Birth and neonatal development
+
+## 1. Purpose
+This Topic covers the transition from prenatal life to early postnatal functioning.
+
+## 2. Definition
+Birth and neonatal development refers to the developmental transition surrounding birth and the first weeks of postnatal life, including rapid physiological adaptation and early behavioral organization.
+
+## 3. Core Understanding
+### Development
+The newborn must regulate breathing, temperature, feeding, sleep–wake states, and sensory interaction outside the prenatal environment. Early behavioral capacities coexist with substantial developmental immaturity.
+
+### Mechanism
+Neonatal functioning reflects prenatal preparation, maturation, immediate environmental conditions, caregiving, and biological adaptation.
+
+### Boundary Conditions
+Birth timing, health, complications, nutrition, and caregiving conditions can influence early trajectories.
+
+### Evidence Status
+Neonatal capacities should be interpreted as developing systems rather than as fixed indicators of later personality or intelligence.
+
+## 4. Relationship to This Chapter
+This stage connects prenatal development with infancy.
+
+## 5. Boundaries
+### Owns
+Developmental transition around birth and neonatal period.
+### Defers
+Medical neonatal conditions to health/clinical domains and general biological mechanisms to Chapter 1.3.
+
+## 6. Key Principles
+- Birth requires rapid physiological adaptation.
+- Newborn capacities are real but immature.
+- Neonatal behavior does not directly determine adult functioning.
+
+# 33. Infancy
+
+## 1. Purpose
+Infancy covers the early period in which rapid changes occur in perception, motor control, attachment, communication, cognition, and regulation.
+
+## 2. Definition
+Infancy is the early developmental period following birth characterized by rapid biological, cognitive, emotional, social, and motor change.
+
+## 3. Core Understanding
+### Development
+Infants acquire increasingly coordinated movement, perceptual abilities, communication, social engagement, and representations of people and objects. Early caregiver relationships become increasingly organized.
+
+### Mechanism
+Development reflects maturation, exploration, learning, caregiver interaction, and environmental structure.
+
+### Boundary Conditions
+Infants vary substantially in temperament, health, developmental timing, and environmental conditions.
+
+### Evidence Status
+Developmental milestones describe common patterns rather than rigid universal schedules.
+
+## 4. Relationship to This Chapter
+Infancy is a lifespan stage containing major foundational developmental changes.
+
+## 5. Boundaries
+### Owns
+The stage-level organization of infancy.
+### Defers
+Attachment, motor, cognitive, language, and emotional mechanisms to their dedicated Topics.
+
+## 6. Key Principles
+- Infancy involves rapid multidomain change.
+- Development is shaped by both maturation and experience.
+- Individual timing varies.
+
+# 34. Early childhood
+
+## 1. Purpose
+Early childhood describes a period of expanding language, self-regulation, social understanding, symbolic thought, and increasingly organized behavior.
+
+## 2. Definition
+Early childhood is the developmental period following infancy in which children develop increasingly complex language, cognition, social understanding, self-regulation, and autonomous action.
+
+## 3. Core Understanding
+### Development
+Children become increasingly capable of symbolic representation, language use, social participation, perspective-taking, and deliberate regulation. Play and interaction provide important contexts for learning.
+
+### Mechanism
+Development reflects maturation, language, learning, caregiver guidance, peer interaction, schooling, and cultural practices.
+
+### Boundary Conditions
+Development varies with family context, culture, health, education, and individual characteristics.
+
+## 4. Relationship to This Chapter
+Early childhood is a major period of cognitive, social, emotional, and self development.
+
+## 5. Boundaries
+### Owns
+Stage-level organization of early childhood development.
+### Defers
+Specific mechanisms and domains to their canonical Topics.
+
+## 6. Key Principles
+- Symbolic and social capacities become increasingly complex.
+- Regulation becomes more self-directed.
+- Development is strongly shaped by social and cultural context.
+
+# 35. Middle childhood
+
+## 1. Purpose
+Middle childhood captures development during the period of expanding school experience, peer relationships, cognitive competence, and social comparison.
+
+## 2. Definition
+Middle childhood is the developmental period between early childhood and adolescence characterized by increasing cognitive competence, social differentiation, self-evaluation, and participation in organized settings.
+
+## 3. Core Understanding
+### Development
+Children develop more advanced academic skills, executive control, social understanding, self-evaluation, and awareness of group norms. Peer relationships become increasingly important.
+
+### Mechanism
+Schooling, practice, peer interaction, family processes, cognitive development, and cultural expectations contribute to change.
+
+### Boundary Conditions
+Experiences differ substantially by educational system, family resources, culture, health, and social environment.
+
+## 4. Relationship to This Chapter
+Middle childhood is a distinct developmental stage linking early childhood to adolescence.
+
+## 5. Boundaries
+### Owns
+Stage-level organization of middle childhood.
+### Defers
+Specific cognitive, social, emotional, personality, and moral processes.
+
+## 6. Key Principles
+- School and peer contexts become increasingly important.
+- Cognitive and self-evaluative abilities become more differentiated.
+- Development remains context-dependent.
+
+# 36. Adolescence
+
+## 1. Purpose
+Adolescence covers a period of substantial biological, cognitive, social, emotional, and identity-related reorganization.
+
+## 2. Definition
+Adolescence is a developmental period marked by puberty-related biological change, increasing cognitive capacity, changing social relationships, growing autonomy, and identity exploration.
+
+## 3. Core Understanding
+### Development
+Adolescence includes substantial physical maturation and changes in social roles, self-understanding, risk processing, emotion, peer relationships, and future-oriented thinking.
+
+### Mechanism
+Development reflects interacting biological maturation, learning, social context, peer influence, family relationships, cultural expectations, and increasing autonomy.
+
+### Boundary Conditions
+Adolescent development varies widely across individuals and cultures. “Adolescence” is not a single psychological state.
+
+### Evidence Status
+Some adolescent behavioral patterns are associated with developmental changes in reward sensitivity and control processes, but simplistic claims that adolescents are universally irrational or incapable of self-control are unsupported.
+
+## 4. Relationship to This Chapter
+Adolescence is a central lifespan stage with major transitions across multiple developmental domains.
+
+## 5. Boundaries
+### Owns
+Stage-level organization of adolescent development.
+### Defers
+Puberty, identity, risk-taking, cognition, emotion, and social development to dedicated Topics.
+
+## 6. Key Principles
+- Adolescence involves multidomain reorganization.
+- Development is highly context-sensitive.
+- Adolescents are not uniformly impulsive or immature.
+
+# 37. Puberty
+
+## 1. Purpose
+Puberty identifies the biological transition involving reproductive maturation and associated physical changes.
+
+## 2. Definition
+Puberty is the developmental process through which hormonal and bodily changes produce sexual maturation and reproductive capability.
+
+## 3. Core Understanding
+### Mechanism
+Puberty involves activation and regulation of endocrine processes that produce changes in reproductive organs, body composition, secondary sexual characteristics, and other physical features.
+
+### Development
+Timing varies substantially across individuals. Pubertal change can influence psychological experience indirectly through bodily change, social responses, sleep, mood, and changing social expectations.
+
+### Boundary Conditions
+Pubertal timing and experience vary by genetics, nutrition, health, stress, and environmental conditions.
+
+### Evidence Status
+Puberty is primarily a biological developmental process; psychological effects depend heavily on social and individual context.
+
+## 4. Relationship to This Chapter
+Puberty is a biological process that overlaps with adolescence but is not synonymous with it.
+
+## 5. Boundaries
+### Owns
+Developmental process of pubertal maturation.
+### Defers
+General endocrine mechanisms to Chapter 1.3 and broader adolescent development to Adolescence.
+
+## 6. Key Principles
+- Puberty and adolescence are related but distinct.
+- Pubertal timing varies.
+- Psychological effects are shaped by social context.
+
+# 38. Emerging adulthood
+
+## 1. Purpose
+Emerging adulthood describes a developmental period in some contemporary societies characterized by extended exploration of roles, relationships, education, work, and identity.
+
+## 2. Definition
+Emerging adulthood is a proposed developmental period, typically following adolescence and preceding established adult roles, marked in some societies by extended exploration and transition.
+
+## 3. Core Understanding
+### Development
+Common features can include identity exploration, instability in roles, experimentation, increasing independence, and a sense of being between adolescent and adult positions.
+
+### Boundary Conditions
+Emerging adulthood is not a universal biological stage. Its prevalence and characteristics depend strongly on social, economic, educational, and cultural conditions.
+
+### Evidence Status
+The concept is most applicable where social transitions into adult roles are extended. It should not be treated as a universal stage through which every society or person passes.
+
+## 4. Relationship to This Chapter
+It provides a stage-level framework for understanding transitions between adolescence and more established adulthood.
+
+## 5. Boundaries
+### Owns
+The developmental concept of emerging adulthood as a socially patterned transitional period.
+### Defers
+Identity, education, work, relationships, and personality development to their canonical Topics.
+
+## 6. Key Principles
+- Emerging adulthood is context-dependent.
+- It is not a universal biological stage.
+- Exploration and instability are common themes but not universal experiences.
+
+# 39. Adulthood
+
+## 1. Purpose
+Adulthood covers the broad developmental period in which people occupy increasingly varied social, occupational, relational, and self-directed roles.
+
+## 2. Definition
+Adulthood is the developmental period following adolescence in which individuals participate in adult roles and continue to experience biological, psychological, social, and contextual change.
+
+## 3. Core Understanding
+### Development
+Adulthood is not developmentally static. Cognitive abilities, personality, relationships, identity, goals, health, and social roles can change substantially across adult life.
+
+### Boundary Conditions
+Adult development varies with culture, historical period, health, socioeconomic conditions, family roles, work, and individual choices.
+
+## 4. Relationship to This Chapter
+Adulthood is the broad stage category containing multiple distinct developmental periods and trajectories.
+
+## 5. Boundaries
+### Owns
+The stage-level concept of adulthood.
+### Defers
+Specific adult developmental processes to their dedicated Topics.
+
+## 6. Key Principles
+- Adulthood includes substantial development.
+- Adult trajectories are heterogeneous.
+- Social roles and historical context matter.
+
+# 40. Older adulthood
+
+## 1. Purpose
+Older adulthood describes later adult development while avoiding the assumption that aging is equivalent to universal decline.
+
+## 2. Definition
+Older adulthood is the later portion of the adult lifespan characterized by continued psychological and social development alongside variable biological aging and changing life circumstances.
+
+## 3. Core Understanding
+### Development
+Later adulthood can involve changes in physical health, sensory functioning, processing speed, memory, social networks, roles, goals, and emotional priorities. It can also involve continued knowledge, expertise, adaptation, and selective maintenance of abilities.
+
+### Boundary Conditions
+Older adults differ greatly in health, socioeconomic conditions, education, social support, and cognitive functioning.
+
+### Evidence Status
+Average age-related differences do not determine an individual's functioning. Some abilities decline while others remain stable or improve through accumulated knowledge.
+
+## 4. Relationship to This Chapter
+Older adulthood is the lifespan stage preceding and overlapping with the broader process of aging.
+
+## 5. Boundaries
+### Owns
+Stage-level organization of later adulthood.
+### Defers
+Cognitive aging, socioemotional aging, health, and resilience to dedicated Topics.
+
+## 6. Key Principles
+- Older adulthood is heterogeneous.
+- Aging includes gains, stability, and losses.
+- Average age trends do not define every individual.
+
+# 41. Aging
+
+## 1. Purpose
+Aging provides the broad lifespan concept for understanding cumulative biological, psychological, and social change associated with advancing age.
+
+## 2. Definition
+Aging is the multidimensional process of change associated with advancing age, including biological senescence, psychological adaptation, social transitions, and changes in functioning.
+
+## 3. Core Understanding
+### Components / Dimensions
+Aging includes biological changes, cognitive changes, emotional and motivational changes, changes in social networks and roles, and adaptations to changing capacities.
+
+### Mechanism
+Aging reflects accumulated biological processes, health behavior, environmental exposures, experience, social conditions, and adaptive responses.
+
+### Boundary Conditions
+Aging trajectories vary greatly. Chronological age is an imperfect proxy for biological or functional age.
+
+### Evidence Status
+Aging should not be reduced to decline. Some abilities decline, some remain stable, and some forms of knowledge and expertise can continue to grow.
+
+## 4. Relationship to This Chapter
+Aging is the broad process underlying later-life developmental changes.
+
+## 5. Boundaries
+### Owns
+The general developmental concept of aging.
+### Defers
+Specific biological aging mechanisms to Chapter 1.3 and cognitive/socioemotional aging to dedicated Topics.
+
+## 6. Key Principles
+- Aging is multidimensional.
+- Aging is not synonymous with decline.
+- Individual trajectories vary substantially.
+
+# 42. Cognitive aging
+
+## 1. Purpose
+Cognitive aging describes age-related changes in cognitive functioning while distinguishing losses from preserved or improved abilities.
+
+## 2. Definition
+Cognitive aging is developmental change in cognitive processes and performance associated with advancing age.
+
+## 3. Core Understanding
+### Components / Dimensions
+Processing speed, some forms of working memory, episodic memory, and executive performance can show age-related changes, while vocabulary, semantic knowledge, and expertise can remain stable or improve for long periods.
+
+### Mechanism
+Cognitive aging reflects interacting biological changes, health, sensory functioning, accumulated knowledge, strategy use, education, and environmental demands.
+
+### Boundary Conditions
+Age effects vary by cognitive domain, task, health, education, motivation, and individual differences.
+
+### Evidence Status
+Average age-related differences should not be interpreted as inevitable cognitive failure. Normal cognitive aging is distinct from clinical neurocognitive disorders.
+
+## 4. Relationship to This Chapter
+Cognitive aging is the lifespan-specific development of cognition in later adulthood.
+
+## 5. Boundaries
+### Owns
+Normal developmental change in cognition associated with aging.
+### Defers
+General cognition and memory to Chapters 1.8–1.11; clinical disorders to Chapter 1.19.
+
+## 6. Key Principles
+- Cognitive aging is domain-specific.
+- Knowledge can remain strong while some processing abilities decline.
+- Normal aging is not equivalent to dementia.
+
+# 43. Socioemotional aging
+
+## 1. Purpose
+Socioemotional aging describes age-related changes in emotional functioning, social priorities, relationships, and regulation.
+
+## 2. Definition
+Socioemotional aging is developmental change in emotional experience, regulation, social goals, relationships, and social selectivity associated with later adulthood.
+
+## 3. Core Understanding
+### Development
+Later adulthood can involve shifts in social priorities, greater selectivity in social networks, and changes in emotional goals and regulation. These patterns are not universal and can be shaped by health, loss, culture, and social opportunity.
+
+### Mechanism
+Changes can reflect developmental priorities, accumulated experience, changing time horizons, social-role transitions, and adaptation to changing resources.
+
+### Boundary Conditions
+Reduced social-network size does not necessarily mean reduced social well-being; network composition and relationship quality matter.
+
+### Evidence Status
+Age-related emotional patterns show both average trends and substantial individual variation.
+
+## 4. Relationship to This Chapter
+This Topic captures the socioemotional dimension of aging separately from cognitive and biological aging.
+
+## 5. Boundaries
+### Owns
+Developmental change in socioemotional functioning with age.
+### Defers
+General emotion to Chapter 1.13 and social relationships to Chapter 1.16.
+
+## 6. Key Principles
+- Later-life social selectivity can reflect changing priorities.
+- Smaller networks do not automatically mean poorer social functioning.
+- Socioemotional aging is heterogeneous.
+
+# 44. Death and dying
+
+## 1. Purpose
+This Topic addresses psychological development and adaptation surrounding the end of life.
+
+## 2. Definition
+Death and dying refers to the developmental and psychological processes surrounding the end of biological life, including awareness of mortality, adaptation to terminal decline, dying, and responses of affected others.
+
+## 3. Core Understanding
+### Components / Dimensions
+Relevant processes can include mortality awareness, meaning, autonomy, grief anticipation, communication, decision-making, emotional adaptation, and changes in social roles.
+
+### Development
+Understanding of death changes across development as cognitive and social capacities change. In later life, awareness of mortality can become more personally salient, but responses vary greatly.
+
+### Boundary Conditions
+Culture, religion, health status, social support, pain, prognosis, personal values, and circumstances of death shape experience.
+
+### Evidence Status
+There is no single universal emotional sequence through dying. Popular stage-based descriptions should not be treated as mandatory psychological stages.
+
+## 4. Relationship to This Chapter
+Death and dying forms the boundary condition of lifespan development and connects developmental psychology with grief and health.
+
+## 5. Boundaries
+### Owns
+Developmental and psychological understanding of dying and mortality across the lifespan.
+### Defers
+Grief and bereavement to Chapter 1.18 and clinical conditions to Chapter 1.19.
+
+## 6. Key Principles
+- Responses to dying are highly variable.
+- Death understanding changes developmentally.
+- Stage models should not be treated as universal sequences.
+
