@@ -283,6 +283,157 @@ The most useful developmental question is not whether people can change. It is h
 
 ---
 
+
+# CHAPTER-LEVEL ANALYTICAL ATLAS II
+
+## 10. Developmental systems across family, school, peers, and culture
+
+A developing person is simultaneously a child or adult within a family, a learner within institutions, a member of peer networks, and a participant in a cultural system. These contexts overlap. Developmental effects that appear to originate in one context can be transmitted through another.
+
+Family processes provide early organization and repeated interaction. School later adds formal instruction, evaluation, peer comparison, and institutional expectations. Peer relationships provide reciprocal social learning. Culture supplies meanings, norms, and practices that operate across all three. A developmental account that isolates one context may therefore miss the pathways through which influence travels.
+
+Consider educational development. A child's learning opportunity is affected by classroom instruction, but classroom participation can be influenced by language development, emotional regulation, peer relationships, sleep, family routines, and expectations. Educational outcomes therefore cannot be attributed to teaching quality alone, even when teaching quality matters.
+
+The same logic applies to identity. Identity is constructed through self-reflection, but available identities are socially organized. Family values, peer groups, school roles, cultural traditions, and discrimination can expand or constrain identity options. The individual actively interprets these inputs, but interpretation occurs within a social field.
+
+Developmental systems can also contain mismatches. A young person may have advanced cognitive capacity but limited institutional opportunity. An older adult may have high knowledge but an environment designed around rapid processing. A child may have strong regulation skills but a highly unpredictable environment. Developmental outcomes depend partly on fit between capacities and demands.
+
+This makes environmental modification a developmental mechanism. Changing the environment can alter functioning without changing the underlying person immediately. A classroom scaffold, mobility aid, predictable routine, supportive relationship, or accessible workplace can transform what a person is able to accomplish. Observable behavior is therefore not a pure readout of internal capacity.
+
+## 11. Attachment, temperament, and parenting as a transactional system
+
+Attachment, temperament, and parenting are often discussed separately, but developmentally they interact. Temperament concerns relatively early-emerging differences in reactivity and regulation. Parenting describes caregiving processes. Attachment describes the organization of the relationship around security and proximity. None of the three should be treated as a complete explanation for the others.
+
+A highly reactive child may require more external regulation. Caregivers can respond with increased support, increased control, withdrawal, or inconsistent responses. The child's later behavior can then be influenced by the pattern that emerges. This is a transactional process rather than a one-directional parental effect.
+
+Goodness of fit is particularly useful because it explains why the same temperamental characteristic can produce different outcomes in different environments. A child who needs frequent movement may struggle in a setting that requires long periods of stillness but function well in an environment that provides structured physical activity. The characteristic is not inherently pathological; the fit matters.
+
+Attachment development adds another layer. Repeated experiences with caregivers can influence expectations about whether support will be available. Temperament can affect how the child signals distress and how easily the child is soothed, while caregiver behavior affects the predictability of the response. Attachment patterns therefore emerge from relational histories.
+
+Parenting is also affected by the child. A child's sleep, health, temperament, communication, and behavior can change parental stress and responses. Studies that treat parenting as the sole cause of child outcomes risk reversing part of this transactional relationship.
+
+The same principle continues into later development. Adolescents influence parents through increasing autonomy and negotiation. Adults influence partners through attachment-related behavior, and partners influence adults in return. Developmental systems do not stop being transactional when childhood ends.
+
+## 12. Risk accumulation and developmental cascades
+
+Risk is often cumulative rather than isolated. A person may experience multiple modest disadvantages that interact to create a substantial developmental burden. Cumulative risk models can therefore be useful when individual exposures are difficult to interpret separately.
+
+However, counting risks is not enough. Two people with the same number of risk factors may experience very different outcomes because the risks differ in timing, severity, duration, and interaction. A developmental analysis should therefore examine the structure of risk, not only its quantity.
+
+Risk can accumulate through mechanisms. Economic instability can reduce housing stability. Housing instability can disrupt schooling. School disruption can reduce learning continuity. Reduced competence can affect self-evaluation and peer opportunities. These pathways can create cascades in which later difficulties are partly generated by earlier changes in opportunity.
+
+Protective processes can interrupt cascades. A stable relationship can preserve school attendance during family disruption. A supportive teacher can provide continuity after a move. Access to healthcare can reduce the functional consequences of illness. Community resources can prevent a temporary problem from becoming a persistent developmental constraint.
+
+The concept of resilience is useful precisely because it asks why similar exposure does not produce identical outcomes. Resilience research should identify the process that appears protective rather than merely labeling the successful person resilient.
+
+Developmental cascades can also be positive. Early competence can create more opportunities for practice. Increased competence can improve social feedback. Positive feedback can increase motivation. Increased motivation can produce more practice. Such positive loops can amplify small early differences.
+
+Amplification does not imply destiny. A positive trajectory can be disrupted, and a difficult trajectory can improve. The point is that developmental pathways can become self-reinforcing because earlier states alter the conditions of later experience.
+
+## 13. Developmental change in adolescence as a coordinated system
+
+Adolescence is often described through isolated themes such as puberty, risk taking, identity, or peer influence. A developmental systems view shows that these changes interact.
+
+Puberty changes body and endocrine systems. These biological changes alter sleep, physical appearance, and social attention. Social responses to those changes can influence self-evaluation and identity. At the same time, cognitive development increases the ability to imagine alternatives and long-term consequences. Peer relationships become more salient as autonomy increases. Reward and social motivation can be particularly influential in emotionally charged settings.
+
+None of these components alone explains adolescent behavior. The developmental pattern emerges from their coordination.
+
+For example, an adolescent may understand the long-term danger of a risky action but still choose it in a high-arousal peer context. This does not establish a global reasoning deficit. It may indicate that decision behavior depends on the interaction among knowledge, reward value, social context, emotion, and control resources.
+
+Identity exploration is similarly contextual. Adolescents receive feedback from parents, peers, teachers, cultural groups, and online environments. New cognitive capacities allow more explicit reflection on these inputs. Increased autonomy creates more opportunity to act on emerging commitments. Economic and institutional conditions determine which options are realistically available.
+
+Adolescent development therefore demonstrates a general principle of the chapter: development is not a single trait moving upward. It is coordination among multiple changing systems.
+
+## 14. Developmental change in adulthood and aging
+
+Adult development is often distorted by a growth-versus-decline model. A more accurate account separates abilities and asks which functions change, which remain stable, which improve through experience, and which can be compensated for.
+
+Processing speed may slow while knowledge increases. Some forms of memory may become less efficient while semantic knowledge remains strong. Physical capacity can decline while strategic knowledge improves. Social networks can shrink while emotional selectivity increases. These patterns demonstrate multidirectionality.
+
+Adult roles also create developmental opportunities. Work provides repeated practice in specialized skills. Parenting provides opportunities to coordinate long-term goals and respond to another person's needs. Caregiving can increase demands while also developing practical knowledge. Retirement changes time allocation and social structure. Each transition changes the developmental environment.
+
+Aging is similarly heterogeneous. Health, education, occupation, socioeconomic conditions, relationships, activity, and lifelong experiences contribute to different trajectories. Age should therefore be treated as one organizing variable rather than a complete explanation.
+
+Cognitive reserve illustrates how accumulated experience can alter the relationship between brain changes and observed functioning. It does not mean that education or occupation prevents all decline. It suggests that people can differ in how cognitive performance is maintained in the presence of similar biological burden.
+
+Socioemotional selectivity provides another example. Perceived future time can alter social priorities. If a person focuses more strongly on emotionally meaningful goals, a smaller social network may reflect selection rather than generalized social loss. Context determines whether the same observable behavior represents adaptation, constraint, or both.
+
+## 15. Death, loss, and continuity of development
+
+Developmental science continues through late life and dying because development concerns change across the entire life course. Death is a biological endpoint, but psychological responses to mortality and loss remain developmentally organized.
+
+Understanding death changes as cognitive and social capacities develop. Young children may initially have incomplete concepts of irreversibility or universality. Later understanding becomes more abstract and causally organized. Cultural and family explanations strongly influence meaning.
+
+For adults, mortality can alter goals, relationships, and priorities. Major illness can make future time more salient. Bereavement can reorganize social networks and identity. These changes are not uniform and cannot be reduced to a fixed sequence of emotional stages.
+
+Grief illustrates why developmental science must distinguish process from stereotype. People can experience intense emotion, periods of relative calm, adaptation, renewed distress, and changes in meaning. The trajectory depends on the relationship, circumstances of death, cultural practices, support, health, and individual differences.
+
+Continuity remains possible after loss. A person's relationship with someone who has died can continue through memory, values, rituals, identity, and ongoing meaning. Developmental change does not require erasing earlier relationships; it can involve reorganizing their psychological place.
+
+## 16. The developmental meaning of agency
+
+Agency refers to the capacity to act intentionally within constraints. Development increases some forms of agency because people acquire skills, knowledge, resources, mobility, and social authority. But agency is always embedded in context.
+
+Children have less control over environments than adults, but they still select attention, initiate interaction, explore, and influence caregivers. Adolescents gain more control over social and educational choices. Adults can select occupations, relationships, and environments but remain constrained by institutions, resources, health, and historical conditions.
+
+Agency contributes to developmental transactions. A person's choices change the experiences they encounter, and those experiences feed back into development. This can create self-reinforcing trajectories, but choice should not be confused with complete responsibility for outcomes.
+
+Structural conditions matter because the range of available choices differs across people. Poverty, discrimination, disability, migration status, family obligations, and institutional barriers can constrain agency without eliminating it. A developmental account should therefore avoid both extremes: treating people as passive products of environment or treating every outcome as an unconstrained personal choice.
+
+## 17. Developmental resilience as system recovery
+
+Resilience is most informative when treated as a developmental process. A person may initially be disrupted by adversity and later recover. Another may maintain functioning despite adversity. Another may change pathways and preserve valued goals through different means.
+
+Recovery requires time, so resilience cannot be inferred from a single observation. A person may appear well immediately after an event and struggle later, or struggle initially and adapt over time. Longitudinal observation is therefore particularly important.
+
+Resilience can be supported by relationships, resources, skills, institutions, and changes in circumstances. These factors can interact. A supportive adult may make school participation possible; school participation can provide competence and peer support; competence can improve self-evaluation; improved self-evaluation can support persistence.
+
+Resilience is therefore not reducible to toughness. It can depend on external resources and social systems. Calling an outcome resilient should not obscure the conditions that made adaptation possible.
+
+## 18. A developmental framework for interpreting interventions
+
+Interventions can target different levels of development. A biological intervention may change a physiological constraint. An educational intervention may provide practice or instruction. A parenting intervention may alter interaction patterns. A social intervention may change opportunities or norms.
+
+An intervention effect can therefore reveal a mechanism, but only if the study design and measurement support that interpretation. Improvement on the trained task may indicate task-specific learning. Generalization to related tasks suggests broader transfer. Long-term maintenance suggests durability. Improvement in everyday functioning suggests ecological significance.
+
+Developmental interventions also interact with timing. The same intervention can have different effects depending on baseline capacity, developmental stage, motivation, environmental support, and duration.
+
+A negative intervention result does not prove that the target process is immutable. The intervention may have been too weak, poorly timed, incorrectly measured, or poorly matched to the mechanism. Conversely, a positive result does not prove a broad developmental transformation.
+
+The scientifically useful question is therefore not simply whether an intervention worked. It is what changed, for whom, under what conditions, through what mechanism, and with what evidence of transfer and durability.
+
+## 19. Developmental evidence and causal humility
+
+Developmental science often studies phenomena that cannot ethically be randomized. Researchers therefore rely on longitudinal, naturalistic, quasi-experimental, genetically informed, and intervention designs in different combinations.
+
+Causal humility means stating what the design can support. A longitudinal association can establish temporal ordering more clearly than a cross-sectional association, but unmeasured confounding can remain. A natural experiment can strengthen causal inference when assumptions are credible, but those assumptions must be examined. An intervention can provide stronger causal evidence about the manipulated component, but generalization remains a separate question.
+
+The strongest developmental explanations often converge across methods. If observational studies identify a pattern, longitudinal studies show temporal ordering, experimental studies demonstrate modifiability, and mechanistic measures support a plausible pathway, confidence increases.
+
+Evidence should also be separated from theory. A theory can organize observations and generate predictions without being proven by every finding that is consistent with it. Competing theories may explain the same descriptive pattern through different mechanisms.
+
+Developmental knowledge therefore advances by refining models, testing alternatives, improving measurement, and identifying boundary conditions rather than by declaring a single final explanation.
+
+## 20. The chapter's permanent conceptual map
+
+The chapter can be understood as five connected layers.
+
+The first layer is developmental science: development, lifespan development, developmental change, mechanisms, systems, nature–nurture interaction, continuity, discontinuity, stability, change, timing, plasticity, cohort effects, and methods.
+
+The second layer is developmental domains: biological, motor, perceptual, cognitive, language, emotional, social, personality, moral, self, identity, executive, emotion-regulation, social-cognitive development, and theory of mind.
+
+The third layer is lifespan organization: prenatal development, birth and neonatal development, infancy, early childhood, middle childhood, adolescence, puberty, emerging adulthood, adulthood, older adulthood, aging, cognitive aging, socioemotional aging, and death and dying.
+
+The fourth layer is developmental systems: attachment and its theory, security and insecurity, attachment development, temperament, parenting, family, peers, school, culture, adolescent identity exploration, adolescent risk taking, adult cognitive development, socioemotional selectivity, cognitive reserve, developmental risk, and developmental resilience.
+
+The fifth layer is the relationship among all four. Developmental mechanisms connect domains. Lifespan stages provide temporal organization. Developmental systems provide context. Individual differences determine how trajectories vary. The resulting model is not a linear staircase but a network of interacting processes unfolding over time.
+
+This map also clarifies ownership. A Topic can mention a neighboring construct because development rarely occurs in isolation, but mentioning it does not transfer ownership. The detailed psychology of memory remains elsewhere; Chapter 1.15 owns how memory-related capacities change developmentally when that change is relevant. The detailed psychology of emotion remains elsewhere; this chapter owns emotional development. The detailed psychology of social behavior remains elsewhere; this chapter owns social development.
+
+The result is a chapter that is deep without making every concept mean everything. Its value lies in explaining change, continuity, timing, interaction, context, and trajectory while preserving precise boundaries.
+
+---
+
 # 1. Development
 
 ## 1. Purpose
