@@ -2643,3 +2643,44 @@ Self-control also has an important motivational component. People may know how t
 Effective self-control can occur upstream. Removing temptations, changing cues, creating implementation intentions, arranging deadlines, or choosing supportive environments can prevent a conflict from becoming intense. Such strategies are not evidence of weak self-control; they are forms of regulation that change the conditions under which control is required.
 
 The key distinction is therefore functional: self-efficacy asks “Can I execute the required behavior?”; self-control asks “How do I regulate competing tendencies?”; delay of gratification asks “Can I maintain the delayed option over the immediate one?”; impulse control asks “Can I redirect a rapid action tendency?” Their overlap is substantial, but precise retrieval requires preserving these differences.
+
+
+## S14. Effort, persistence, failure, and adaptive continuation
+
+Effort is the mobilization of physical or cognitive resources toward a goal. It is not identical to motivation, because a person can be highly motivated but unable to exert much effort, or exert substantial effort because of obligation while having little intrinsic interest. Effort is also not equivalent to success. High effort can be directed through ineffective strategies or constrained by external barriers.
+
+Effort allocation depends on expected value, perceived probability of success, costs, competing goals, and available resources. People are more likely to invest when expected benefit justifies cost. This relation is dynamic because feedback changes expected value and perceived feasibility. A strategy that initially appears worthwhile may become unattractive after repeated failure, while a new opportunity can increase effort without changing the underlying motive.
+
+Persistence is continuation of goal-directed activity over time. It can be adaptive when the goal remains valuable and attainable, but persistence itself is not evidence of good regulation. Persistence in an impossible or harmful goal can consume resources and prevent adaptation. The relevant question is whether continued pursuit remains justified by current information.
+
+Persistence failure can arise from many mechanisms. Value may decline, expectancy may fall, competing goals may become more important, effort costs may rise, feedback may be discouraging, or the environment may remove the means required for success. Therefore “gave up” does not identify a psychological cause. It is an outcome that requires explanation.
+
+Failure can function as information. If a strategy fails while the goal remains valuable, the person can modify the strategy, seek help, increase skill, or revise the standard. If repeated evidence indicates that the goal is unattainable or no longer valuable, disengagement may be adaptive. The distinction between strategy failure and goal failure is central.
+
+Persistence is influenced by temporal discounting and goal distance. Immediate costs can feel disproportionately large relative to delayed benefits, especially when the future outcome is uncertain. Intermediate milestones can make progress visible and reduce the psychological distance of a distant goal.
+
+Self-efficacy interacts with persistence but is not its sole cause. Belief in capability can support continued effort, but unrealistic confidence can sustain ineffective action. Conversely, low confidence can suppress effort despite objective feasibility. Effective persistence requires both motivational commitment and information that supports an appropriate strategy.
+
+Social context can stabilize persistence through support, accountability, shared goals, and identity. It can also create maladaptive persistence through pressure, status concerns, or sunk-cost dynamics. A person may continue because stopping would be socially embarrassing even when the goal no longer makes sense.
+
+The relationship between persistence and disengagement is therefore complementary. Adaptive self-regulation requires a switching mechanism that decides when to continue, when to change strategy, and when to stop. The strongest motivational system is not the one that never quits; it is the one that can preserve important goals while responding to evidence.
+
+## S15. Implementation intentions and the intention–behavior gap
+
+Implementation intentions are if–then plans that link a specified situational cue to a planned response. They differ from goal intentions, which specify what a person wants to achieve. The implementation form adds a behavioral contingency: when situation X occurs, perform response Y. This can reduce deliberation at the moment of action.
+
+Implementation intentions are useful because many failures occur after a goal has already been endorsed. A person may genuinely intend to exercise but fail to translate that intention into behavior when the relevant time arrives. A cue-response plan can make the opportunity recognizable and the response accessible. The strategy does not eliminate competing goals, environmental barriers, or motivational conflict, but it can improve the transition from intention to action.
+
+The quality of the cue matters. A vague plan such as “I will work harder” provides little situational information. A plan that identifies when, where, and under what condition an action will occur is more behaviorally specific. Excessive rigidity can be problematic when environments are unpredictable, so plans must remain revisable.
+
+Implementation intentions can also regulate undesirable responses. A person can plan to redirect attention when a distracting cue appears or delay an impulsive response when a particular situation occurs. Such planning changes the control structure before the conflict becomes intense.
+
+These plans interact with goal activation. A strong implementation cue can automatically activate a relevant action sequence when the situation occurs. However, if the goal loses value or circumstances change, automatic execution may become inappropriate. Good self-regulation therefore includes updating plans when the underlying goal or environment changes.
+
+The intention–behavior gap demonstrates why motivation cannot be equated with intention. People can report strong intentions and still fail to act because of habits, forgetting, competing goals, environmental friction, low perceived control, or poor timing. Conversely, behavior can occur without a consciously stated intention when habits and cues are strong.
+
+Implementation intentions shift some regulation upstream. Rather than repeatedly deciding at the point of temptation, the person pre-specifies a response. This is one example of a broader principle: successful self-regulation can be achieved by altering the environment, cue structure, or decision process before a conflict becomes difficult.
+
+Evidence is strongest when the cue and response are clearly specified and the behavior is substantially under the person's control. Implementation intentions should not be treated as guaranteed behavior-change formulas. Their effectiveness depends on noticing the cue, possessing the required ability and opportunity, and retaining sufficient commitment to the underlying goal.
+
+The broader conceptual lesson is that intention is a motivational representation, while action requires additional links among cues, opportunities, habits, control, and execution. Implementation intentions strengthen one of those links without replacing the rest of the self-regulatory system.
