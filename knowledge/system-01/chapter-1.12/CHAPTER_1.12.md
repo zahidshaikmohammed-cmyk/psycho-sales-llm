@@ -425,3 +425,424 @@ General commitment outside goal pursuit to relevant personality or social domain
 - Strong commitment does not guarantee attainability or success.
 - Commitment, activation, and effort are distinct processes.
 
+
+---
+
+## 1.12.16 Goal pursuit
+
+## 1. Purpose
+Explain the process of translating a goal into sustained cognitive and behavioral activity directed toward attainment.
+
+## 2. Definition
+Goal pursuit is the ongoing process of organizing thought, action, effort, and adjustment in service of achieving a goal.
+
+## 3. Core Understanding
+Goal pursuit begins after a goal becomes sufficiently active and prioritized, but it is not a single step. Pursuit can involve planning, initiating action, monitoring progress, allocating effort, responding to obstacles, and changing tactics. Successful pursuit requires some coordination between the desired end state and the current state, because discrepancies can provide information about whether further action is needed. Pursuit is also dynamic: feedback can reveal that a strategy is ineffective, the environment has changed, or the goal itself needs revision. Competing goals can interrupt pursuit even when commitment remains strong. People can also pursue goals through habits or well-learned routines with relatively little conscious deliberation. Goal pursuit therefore includes both deliberate and partially automated processes and should not be equated simply with effort.
+
+## 4. Relationship to This Chapter
+Goal pursuit is the central action process connecting goal representation and commitment with monitoring, progress, conflict, persistence, and eventual attainment or disengagement.
+
+## 5. Boundaries
+### Owns
+The general process of sustained activity organized around achieving a selected goal.
+
+### Defers
+Planning and problem-solving mechanisms to Chapter 1.9; decision-making to Chapter 1.10; effort and persistence to their dedicated Topics.
+
+## 6. Key Principles
+- Goal pursuit is dynamic rather than a single act.
+- Feedback can change strategies and priorities during pursuit.
+- Pursuit may include deliberate and automated processes.
+
+---
+
+## 1.12.17 Goal monitoring
+
+## 1. Purpose
+Explain how people track the state of a goal and compare current conditions with desired standards.
+
+## 2. Definition
+Goal monitoring is the process of assessing current progress, relevant feedback, and discrepancies relative to a goal or standard.
+
+## 3. Core Understanding
+Monitoring provides information about whether ongoing behavior is moving toward the desired state. A person may compare current performance with a target, track elapsed time, notice obstacles, or evaluate whether an action produced the expected result. Monitoring can be explicit and deliberate or relatively automatic when feedback is frequent and well learned. Its usefulness depends on the quality and interpretation of feedback: an inaccurate standard, noisy signal, or biased evaluation can produce misleading conclusions about progress. Monitoring can also redirect attention and effort when a discrepancy becomes salient. It does not itself guarantee correction, because people may lack resources, motivation, or effective strategies for responding to the information obtained. Goal monitoring is therefore an information-and-evaluation process within self-regulation, not the same thing as self-control.
+
+## 4. Relationship to This Chapter
+Goal monitoring supports Goal progress, persistence, strategy adjustment, and decisions to continue, disengage, or reengage.
+
+## 5. Boundaries
+### Owns
+Assessment of current goal state, progress, and discrepancy relative to a goal or standard.
+
+### Defers
+Metacognitive monitoring to Chapter 1.9; measurement methods to Chapter 1.2; self-control to Self-control.
+
+## 6. Key Principles
+- Monitoring compares current information with a goal or standard.
+- Monitoring can reveal progress or discrepancy without guaranteeing correction.
+- The quality of monitoring depends on the quality of available feedback and standards.
+
+---
+
+## 1.12.18 Goal progress
+
+## 1. Purpose
+Define progress as movement toward a desired goal state and explain why perceived progress can influence motivation.
+
+## 2. Definition
+Goal progress is the degree or rate to which current conditions or performance have moved toward a goal relative to a relevant baseline or standard.
+
+## 3. Core Understanding
+Progress is inherently relational: it requires a current state, a desired state, and some basis for comparison. Objective progress and perceived progress can diverge because people may use different standards, incomplete information, or changing reference points. Progress information can influence motivation in several ways. Evidence of advancement may increase confidence and sustain effort, whereas stalled progress can prompt strategy change or disengagement. However, apparent progress can also reduce effort when the goal is perceived as nearly complete or sufficiently satisfied. The motivational effect therefore depends on the goal, remaining discrepancy, expected attainability, feedback, and interpretation of the signal. Progress is not identical to success; movement toward a goal can occur without eventual attainment.
+
+## 4. Relationship to This Chapter
+Goal progress connects monitoring with goal gradient, persistence, disengagement, and reengagement.
+
+## 5. Boundaries
+### Owns
+Movement toward a desired goal state and its informational or motivational significance.
+
+### Defers
+Performance measurement to Chapter 1.2; self-efficacy to Self-efficacy; final outcome or attainment to the relevant goal domain.
+
+## 6. Key Principles
+- Progress is defined relative to a goal and comparison point.
+- Objective and perceived progress can differ.
+- Progress can motivate, but its effect depends on context and interpretation.
+
+---
+
+## 1.12.19 Goal standard
+
+## 1. Purpose
+Explain the reference criterion against which goal-related performance or state can be evaluated.
+
+## 2. Definition
+A goal standard is a criterion, target, or desired level used to determine whether current performance or circumstances meet a goal.
+
+## 3. Core Understanding
+A standard gives a goal operational meaning by specifying what counts as sufficient, successful, or improved performance. Standards can be quantitative, such as a target score, or qualitative, such as maintaining a particular relationship quality. They may be self-generated, socially communicated, externally imposed, or derived from prior performance. Standards influence monitoring because the same current state can be interpreted differently against different criteria. Standards can also be revised when circumstances change, although changing a standard may reflect adaptive adjustment or avoidance of an unmet goal. A useful standard should be sufficiently clear to guide evaluation while remaining appropriate to the domain and available evidence. Standards are therefore not merely measurements; they are evaluative reference points within goal systems.
+
+## 4. Relationship to This Chapter
+Goal standard supplies the criterion used by Goal monitoring and Goal progress and helps define goal attainment and discrepancy.
+
+## 5. Boundaries
+### Owns
+The target or evaluative criterion against which goal-related states or performance are compared.
+
+### Defers
+Measurement theory to Chapter 1.2; statistical standards to Chapter 1.2; personal values to Chapter 1.14 where relevant.
+
+## 6. Key Principles
+- Standards make goal evaluation possible.
+- Different standards can produce different judgments of the same performance.
+- Standards can be revised, but revision does not automatically mean genuine progress.
+
+---
+
+## 1.12.20 Goal conflict
+
+## 1. Purpose
+Explain how simultaneous goals can interfere when their pursuit requires incompatible actions, resources, or outcomes.
+
+## 2. Definition
+Goal conflict occurs when pursuing one goal makes pursuit or attainment of another goal more difficult, incompatible, or costly.
+
+## 3. Core Understanding
+Goal conflict is common because people operate with multiple valued objectives and limited resources. A work goal can compete with a rest goal, a financial goal can conflict with immediate consumption, and a social obligation can compete with a personal project. Conflict can arise because goals require incompatible actions, because they compete for time or attention, or because achieving one changes the conditions supporting another. Conflict can increase cognitive and emotional burden, but not every trade-off constitutes a psychological conflict; some competing demands are simply choices among alternatives. People may respond by prioritizing one goal, alternating between goals, integrating them, postponing one, or abandoning one. The consequences depend on the structure of the goals and the resources available for resolving the conflict.
+
+## 4. Relationship to This Chapter
+Goal conflict connects goal selection and pursuit with goal shielding, substitution, disengagement, and self-regulation.
+
+## 5. Boundaries
+### Owns
+Conflict among simultaneously represented goals within motivational systems.
+
+### Defers
+General decision conflict to Chapter 1.10; interpersonal conflict to Chapter 1.16; cognitive conflict mechanisms to Chapter 1.9 where applicable.
+
+## 6. Key Principles
+- Goal conflict reflects incompatibility or competition among goals.
+- Limited resources can create conflict even between individually desirable goals.
+- Conflict can be managed through prioritization, integration, delay, or disengagement.
+
+---
+
+## 1.12.21 Goal shielding
+
+## 1. Purpose
+Explain how an active priority can be protected from interference by competing goals.
+
+## 2. Definition
+Goal shielding is the process by which cognitive and behavioral resources are preferentially directed toward a focal goal while competing goal influences are reduced.
+
+## 3. Core Understanding
+Goal shielding helps maintain a priority when multiple goals are active. Once a goal is strongly prioritized, attention and action can become biased toward information and behaviors relevant to that goal, while competing goals receive less access to limited resources. Shielding can be adaptive when distraction threatens an important objective, but it can also reduce sensitivity to legitimate changes in circumstances or neglected responsibilities. The effectiveness of shielding depends on commitment, context, available control, and the strength of competing goals. Shielding is therefore not simply “ignoring distractions”; it is a motivational-control process that protects a selected objective from competing motivational demands. Excessive shielding may make flexible adjustment more difficult when a goal becomes infeasible or harmful.
+
+## 4. Relationship to This Chapter
+Goal shielding links goal commitment and selection with attentional control, persistence, and resistance to competing goals.
+
+## 5. Boundaries
+### Owns
+Protection of a prioritized goal from interference by competing goals.
+
+### Defers
+General attentional control to Chapter 1.6; executive control to Chapter 1.9; goal conflict to Goal conflict.
+
+## 6. Key Principles
+- Shielding protects a prioritized goal from competing motivational influences.
+- Shielding can support persistence but reduce flexibility.
+- It is not identical to general attentional inhibition.
+
+---
+
+## 1.12.22 Goal substitution
+
+## 1. Purpose
+Explain how one goal can replace another when the original objective becomes unavailable, difficult, or less valuable.
+
+## 2. Definition
+Goal substitution is the replacement of an active goal with another goal that can serve a similar or alternative motivational function.
+
+## 3. Core Understanding
+Goal substitution can occur when an original goal is blocked, costly, unattainable, or no longer sufficiently valuable. A person may pursue an alternative route to a similar outcome or adopt a different outcome that partially satisfies the original motivational concern. Substitution can therefore preserve motivational functioning when circumstances change. It is not always equivalent to giving up: an alternative goal can maintain the underlying purpose while changing the specific target. Substitution can also occur under resource constraints when the original standard is unrealistic. Whether substitution is adaptive depends on the relation between the original and replacement goals, the reason for the change, and the consequences of the new goal. The concept should not be used to assume that every change in preference reflects a hidden unmet motive.
+
+## 4. Relationship to This Chapter
+Goal substitution connects goal conflict and blocked pursuit with disengagement, reengagement, and motivational flexibility.
+
+## 5. Boundaries
+### Owns
+Replacement of one active goal by another in response to motivational or situational conditions.
+
+### Defers
+General coping and adaptation to relevant chapters; decision-making processes to Chapter 1.10.
+
+## 6. Key Principles
+- Substitution can preserve function while changing the specific goal.
+- A replacement goal may be similar to or substantially different from the original.
+- Substitution is not automatically evidence of failure or avoidance.
+
+---
+
+## 1.12.23 Goal disengagement
+
+## 1. Purpose
+Explain the process of withdrawing commitment and effort from a goal that is no longer being pursued.
+
+## 2. Definition
+Goal disengagement is the reduction or termination of commitment, effort, and active pursuit of a previously held goal.
+
+## 3. Core Understanding
+Disengagement can be adaptive when a goal becomes unattainable, excessively costly, incompatible with changing circumstances, or no longer valuable. Continuing indefinitely can consume resources that could be directed toward more feasible or important objectives. Disengagement can involve changing one's desired end state, reducing effort, stopping relevant behavior, or psychologically accepting that the goal will not be attained. It can also be difficult when a goal is strongly tied to identity, prior investment, social expectations, or anticipated regret. Disengagement should not automatically be interpreted as low motivation: strategically abandoning one goal can enable effective pursuit of another. Conversely, premature disengagement can terminate pursuit before adequate information or opportunity is available. The adaptive value of disengagement therefore depends on context and timing.
+
+## 4. Relationship to This Chapter
+Goal disengagement provides the exit process from goal pursuit and creates a transition point for substitution, reengagement, or new goal selection.
+
+## 5. Boundaries
+### Owns
+Withdrawal from active commitment and pursuit of a previously held goal.
+
+### Defers
+General avoidance behavior to relevant behavioral and clinical chapters; decision-making about stopping to Chapter 1.10.
+
+## 6. Key Principles
+- Disengagement can be adaptive or maladaptive depending on context.
+- Stopping one goal can free resources for another.
+- Disengagement is distinct from temporary interruption.
+
+---
+
+## 1.12.24 Goal reengagement
+
+## 1. Purpose
+Explain renewed commitment to a previously disengaged goal or to a revised version of it.
+
+## 2. Definition
+Goal reengagement is the restoration of active commitment and pursuit toward a previously abandoned, interrupted, or revised goal.
+
+## 3. Core Understanding
+Reengagement can follow changes in circumstances, resources, expectations, or perceived attainability. A person may return to the same goal after an obstacle passes, resume an interrupted project, or reformulate the goal into a more feasible version. Reengagement differs from simple continuation because active pursuit had been reduced or stopped. It can be supported by new information, renewed value, changed constraints, social support, or improved perceived capability. Reengagement is not always beneficial: returning to an inappropriate or infeasible goal can recreate earlier costs. Effective reengagement therefore involves not only renewed motivation but also reassessment of the goal and conditions surrounding it.
+
+## 4. Relationship to This Chapter
+Goal reengagement completes the chapter's cycle of pursuit, disengagement, and renewed pursuit and connects with persistence and goal substitution.
+
+## 5. Boundaries
+### Owns
+Renewed active pursuit after prior disengagement or interruption.
+
+### Defers
+Self-efficacy beliefs to Self-efficacy; decision processes to Chapter 1.10.
+
+## 6. Key Principles
+- Reengagement follows a meaningful reduction or interruption in pursuit.
+- Changed circumstances can make renewed pursuit reasonable.
+- Reengagement should not be equated with persistence at any cost.
+
+---
+
+## 1.12.25 Goal gradient
+
+## 1. Purpose
+Explain the tendency for motivation or effort to change as a person perceives increasing proximity to a goal.
+
+## 2. Definition
+The goal gradient is the pattern in which perceived proximity to a goal is associated with changes in motivation, effort, or persistence.
+
+## 3. Core Understanding
+Goal-gradient effects describe how the remaining distance to an objective can influence behavior. As a goal appears closer, progress can become more salient and effort may increase, especially when the person can clearly detect advancement and expects attainment to be feasible. The effect is not universal or necessarily linear. Perceived progress, goal value, feedback, effort costs, uncertainty, and competing goals can all alter the relationship between proximity and motivation. A person may also reduce effort after reaching a meaningful threshold or when remaining costs outweigh expected benefits. The goal gradient therefore describes a motivational pattern rather than a fixed psychological law. It is most informative when the goal, distance metric, feedback structure, and relevant behavioral outcome are clearly specified.
+
+## 4. Relationship to This Chapter
+Goal gradient links Goal progress with persistence and illustrates how perceived distance can alter motivational intensity during pursuit.
+
+## 5. Boundaries
+### Owns
+Motivational changes associated with perceived proximity to a goal.
+
+### Defers
+General reinforcement effects to Chapter 1.7; decision valuation to Chapter 1.10.
+
+## 6. Key Principles
+- Perceived proximity can change motivation and effort.
+- Goal-gradient effects depend on feedback and expected attainability.
+- Proximity does not guarantee increasing effort in every context.
+
+---
+
+## 1.12.26 Intrinsic motivation
+
+## 1. Purpose
+Define motivation arising from inherent interest, enjoyment, or satisfaction in engaging with an activity itself.
+
+## 2. Definition
+Intrinsic motivation is motivation to engage in an activity because the activity is experienced as interesting, enjoyable, satisfying, or inherently worthwhile.
+
+## 3. Core Understanding
+Intrinsic motivation is centered on the activity rather than primarily on an external consequence. A person may read because reading is enjoyable, solve a puzzle because the challenge is interesting, or practice a skill because mastery itself is satisfying. Intrinsic motivation can coexist with external incentives, but the reasons for acting are conceptually different. It can be influenced by perceived autonomy, competence, novelty, challenge, and social context. External rewards do not uniformly eliminate intrinsic motivation; their effects depend on how the reward changes the meaning of the activity, perceived control, informational feedback, and the person's prior interest. Intrinsic motivation also varies across activities and individuals rather than representing a fixed trait-like level. It should therefore be studied as a motivational relationship between person and activity.
+
+## 4. Relationship to This Chapter
+Intrinsic motivation is a major motivational form and a central construct in self-determination theory.
+
+## 5. Boundaries
+### Owns
+Motivation grounded in the inherent experience or satisfaction of an activity.
+
+### Defers
+General interest to relevant cognitive and affective domains; self-determination theory to its dedicated Topic.
+
+## 6. Key Principles
+- The activity itself is a primary source of value.
+- Intrinsic and extrinsic motives can coexist.
+- Context can change the experience and expression of intrinsic motivation.
+
+---
+
+## 1.12.27 Extrinsic motivation
+
+## 1. Purpose
+Define motivation directed toward an activity because of outcomes separable from the activity itself.
+
+## 2. Definition
+Extrinsic motivation is motivation to engage in behavior because of an external or separable consequence, outcome, obligation, or valued result.
+
+## 3. Core Understanding
+Extrinsic motivation encompasses many forms, from behavior driven by external rewards or punishments to behavior performed because the person personally values an outcome that the activity helps achieve. It is therefore broader than simply “being paid” or “being forced.” The degree of autonomy involved can differ substantially across extrinsically motivated behavior. External consequences can initiate behavior, sustain it, provide information about performance, or change its perceived meaning. Their effects depend on the person's interpretation, the structure of the contingency, and whether the behavior becomes personally endorsed. Extrinsic motivation can also coexist with intrinsic interest. Treating intrinsic and extrinsic motivation as mutually exclusive categories can therefore obscure important differences in why the same behavior is performed.
+
+## 4. Relationship to This Chapter
+Extrinsic motivation complements Intrinsic motivation and provides a foundation for incentive motivation and self-determination theory.
+
+## 5. Boundaries
+### Owns
+Motivation based on consequences or outcomes separable from the activity itself.
+
+### Defers
+Reinforcement and punishment mechanisms to Chapter 1.7; incentive value to Incentive; autonomous versus controlled regulation to Self-determination theory.
+
+## 6. Key Principles
+- Extrinsic motivation is broader than external reward.
+- Different extrinsic motives can vary in autonomy.
+- Intrinsic and extrinsic reasons can coexist.
+
+---
+
+## 1.12.28 Incentive motivation
+
+## 1. Purpose
+Explain motivation generated by the anticipated attractiveness or value of an outcome or cue.
+
+## 2. Definition
+Incentive motivation is motivation produced by the anticipated value of an outcome, stimulus, or consequence that directs behavior toward or away from it.
+
+## 3. Core Understanding
+Incentive motivation emphasizes the pull or push of anticipated outcomes. The anticipated outcome can be tangible, social, symbolic, or internally experienced, and its motivational value depends on learning, current state, expectations, and context. Incentive motivation differs from drive-based motivation because behavior can be energized by valued outcomes even without a strong internal deficit. It also differs from reinforcement because reinforcement concerns the effect of consequences on future behavior, whereas incentive motivation concerns anticipated value before or during action. Incentives can attract attention and effort, but the strength of an incentive does not guarantee action when barriers, competing goals, or self-control processes intervene. The concept is therefore most useful when the anticipated outcome and its role in directing behavior are clearly identified.
+
+## 4. Relationship to This Chapter
+Incentive motivation is the applied motivational form of Incentive and Incentive theory and connects directly to Reward and goal pursuit.
+
+## 5. Boundaries
+### Owns
+Motivation attributable to anticipated incentive value.
+
+### Defers
+Learning effects of consequences to Chapter 1.7; reward prediction to Reward prediction; decision valuation to Chapter 1.10.
+
+## 6. Key Principles
+- Incentive motivation depends on anticipated value.
+- Anticipation distinguishes it from reinforcement by consequences.
+- Competing goals and barriers can moderate incentive effects.
+
+---
+
+## 1.12.29 Approach motivation
+
+## 1. Purpose
+Define motivation oriented toward attaining, engaging with, or moving closer to desired outcomes.
+
+## 2. Definition
+Approach motivation is motivational orientation toward desired outcomes, opportunities, rewards, or states that an individual seeks to obtain or experience.
+
+## 3. Core Understanding
+Approach motivation organizes behavior around movement toward something valued rather than primarily away from an unwanted state. It can support exploration, reward pursuit, achievement, social engagement, and goal-directed action. Approach motivation is not synonymous with positive emotion or with a guarantee that the anticipated outcome is objectively beneficial. A person may approach something because it is expected to satisfy a current motive even when the longer-term consequences are unfavorable. Approach and avoidance orientations can also coexist within the same situation, producing ambivalence or conflict. The strength and expression of approach motivation depend on expected value, perceived attainability, current needs, learning, and context. It is therefore a motivational orientation rather than a single physiological mechanism.
+
+## 4. Relationship to This Chapter
+Approach motivation forms one pole of the chapter's approach–avoidance motivational architecture and connects with reward, incentives, and regulatory focus.
+
+## 5. Boundaries
+### Owns
+Motivational orientation toward desired or attractive outcomes.
+
+### Defers
+Approach–avoidance regulation to its dedicated Topic; reward mechanisms to Reward; emotion valence to Chapter 1.13.
+
+## 6. Key Principles
+- Approach motivation is directed toward desired outcomes.
+- Approach does not imply that the outcome is objectively beneficial.
+- Approach and avoidance can operate simultaneously.
+
+---
+
+## 1.12.30 Avoidance motivation
+
+## 1. Purpose
+Define motivation oriented toward preventing, escaping, or reducing undesired outcomes or states.
+
+## 2. Definition
+Avoidance motivation is motivational orientation toward preventing, escaping, or moving away from outcomes or states perceived as undesirable.
+
+## 3. Core Understanding
+Avoidance motivation directs behavior away from anticipated threat, loss, discomfort, failure, rejection, or other undesired states. It can be adaptive when it protects the person from genuine danger or meaningful costs, but it can also produce short-term relief that maintains avoidance even when long-term consequences are harmful. Avoidance can involve preventing an event before it occurs or escaping an event already occurring, and these processes can have different learning histories. Avoidance motivation can coexist with approach motivation, producing choices that reflect competing desired and undesired outcomes. Its strength depends on anticipated cost, perceived probability, controllability, prior learning, and available alternatives. Avoidance should therefore not be treated as inherently maladaptive.
+
+## 4. Relationship to This Chapter
+Avoidance motivation complements Approach motivation and provides the motivational basis for approach–avoidance regulation.
+
+## 5. Boundaries
+### Owns
+Motivational orientation away from undesired or threatening outcomes.
+
+### Defers
+Fear and anxiety to Chapter 1.13 and relevant clinical chapters; avoidance learning to Chapter 1.7.
+
+## 6. Key Principles
+- Avoidance can protect against real costs and threats.
+- Preventive and escape forms can differ.
+- Avoidance becomes problematic only in relation to context and consequences.
+
