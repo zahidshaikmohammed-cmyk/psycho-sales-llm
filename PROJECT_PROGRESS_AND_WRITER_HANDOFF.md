@@ -1359,7 +1359,7 @@ Chapter 1.14 — **PERSONALITY, SELF, IDENTITY, AND INDIVIDUAL DIFFERENCES** is 
 - Canonical chapter file: `knowledge/system-01/chapter-1.14/CHAPTER_1.14.md`
 - Final validation: `knowledge/system-01/chapter-1.14/CHAPTER_1.14_FINAL_VALIDATION.md`
 - Status: **RE-AUDITED — CANONICAL KNOWLEDGE VERSION 2.0**
-- Total words: **39,029**
+- Total words: **39,028**
 - Core Understanding words: **21,276**
 - Average Core Understanding: **662.07 words/topic**
 - Core Understanding range: **648–690 words**
@@ -1369,7 +1369,7 @@ Chapter 1.14 — **PERSONALITY, SELF, IDENTITY, AND INDIVIDUAL DIFFERENCES** is 
 - Defers boundaries: **67/67**
 - Architecture mismatches: **0**
 - Forbidden supplement/rebuild/depth-index artifacts: **0**
-- Final sealed chapter SHA: `60449bf180a27ed4786603da50db228a52db7eb9`
+- Final sealed chapter SHA: `85db37371ebee4070a9e20b63605bfb409e71102`
 
 Ownership audit notes:
 - **Self-awareness** is owned here as the self-related construct; Chapter 1.5 owns only consciousness-specific self-awareness.
