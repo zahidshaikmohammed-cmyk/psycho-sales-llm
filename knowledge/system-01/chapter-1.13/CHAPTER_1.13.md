@@ -26,6 +26,9 @@ Affective states influence attention, memory, action readiness, motivation, and 
 Measurement also requires care. Self-report captures conscious experience, while facial behavior, physiology, reaction time, and behavioral choice provide different kinds of evidence. No single measure is a complete readout of affect.
 
 
+
+### retrieval-core refinement
+Affect should be understood as a mechanism-level object, not merely as a descriptive label. The construct should also be read across levels of analysis: immediate experience, unfolding episode, longer state, and stable individual tendency are not interchangeable. Its effects emerge through interaction with goals, representations, bodily conditions, learning history, and social context. This makes context part of the explanatory model rather than a footnote.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Affect is especially useful when the research question concerns broad feeling tone rather than a named emotion. Its dimensions can move independently, which prevents a common error: assuming that pleasantness, activation, and emotional category are interchangeable. Affective measurement also has a temporal problem. A brief reaction, a daily mood average, and a stable individual tendency can all produce different affect scores while referring to different phenomena. Researchers therefore need to specify time scale, measurement channel, and context. Affective experience can also be generated internally: memory, imagination, bodily discomfort, and anticipation can change feeling even when the external environment is unchanged. The broadness of the construct is its strength for organizing phenomena but also its main limitation. If affect is used as a catch-all explanation, it can become too vague to explain mechanism. A good explanation therefore moves from affect to the more specific construct that carries the causal or descriptive burden.
@@ -83,6 +86,9 @@ Because mood persists across situations, it can bias attention, interpretation, 
 Mood is also partly inferred from patterns over time. A momentary unpleasant feeling does not by itself establish a sustained mood state. Research commonly measures mood through repeated self-report or state measures, while recognizing that retrospective reports can be affected by memory and interpretation.
 
 
+
+### retrieval-core refinement
+Mood should be understood as a mechanism-level object, not merely as a descriptive label. The construct should also be read across levels of analysis: immediate experience, unfolding episode, longer state, and stable individual tendency are not interchangeable. Its effects emerge through interaction with goals, representations, bodily conditions, learning history, and social context. This makes context part of the explanatory model rather than a footnote.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Mood should be understood as a temporal background condition rather than an undifferentiated emotional residue. Its persistence can alter how subsequent events are interpreted, but the direction of that influence depends on what information is encountered and what the person is trying to do. Mood can also be shaped by repeated small events rather than one identifiable cause. This makes causal attribution difficult: a person may report feeling irritable without one event being responsible. Mood measurement therefore benefits from repeated sampling instead of relying only on retrospective summaries. A further boundary is between ordinary mood variation and clinically significant mood disturbance. Duration, severity, functional impairment, and symptom pattern matter. A temporary low mood is not evidence of a disorder. Mood can also be congruent or incongruent with the immediate situation, and a mismatch does not by itself prove pathology. The scientific value of mood lies in explaining how a diffuse affective state provides a background against which more specific emotional episodes occur.
@@ -140,6 +146,9 @@ Emotions are often elicited by events that matter to the person. The same event 
 Emotion is neither inherently rational nor irrational. It provides information about relevance and prepares action, but emotional responses can also be shaped by inaccurate interpretations, learned associations, or context-insensitive habits. Scientific theories disagree about whether emotions are best understood as biologically prepared categories, dimensional states, appraisals, or constructed episodes. These disagreements concern the architecture of emotion, not whether people experience affective responses.
 
 
+
+### retrieval-core refinement
+Emotion should be understood as a mechanism-level object, not merely as a descriptive label. The construct should also be read across levels of analysis: immediate experience, unfolding episode, longer state, and stable individual tendency are not interchangeable. Its effects emerge through interaction with goals, representations, bodily conditions, learning history, and social context. This makes context part of the explanatory model rather than a footnote.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Emotion is best treated as a coordinated process with partially separable components. This prevents two opposite errors: reducing emotion to a private feeling, or treating an emotion label as if it were a single biological event. The same emotional episode can contain rapid orienting, appraisal, bodily activation, subjective feeling, expression, action readiness, and later reinterpretation. These components can have different time courses and can be altered independently. Emotional meaning is also relational: an event matters emotionally because of what it signifies for the organism's needs, goals, values, relationships, or predictions. This explains both individual variation and within-person change. The theoretical debate about emotion concerns how these components are organized and generated, not whether affective responding exists. A rigorous account therefore identifies which component is being studied, what evidence supports its relation to other components, and what remains uncertain.
@@ -194,6 +203,9 @@ Episodes vary greatly. Some are brief and intense; others develop gradually and 
 The concept is useful because emotion words can conceal temporal dynamics. “Anger” may describe an initial response, sustained state, or recurrent episode, even though each has different mechanisms. Studying episodes makes it possible to ask what triggered the response, how it changed, what interrupted it, and which components were synchronized or dissociated.
 
 
+
+### retrieval-core refinement
+Emotional episode should be understood as a mechanism-level object, not merely as a descriptive label. The construct should also be read across levels of analysis: immediate experience, unfolding episode, longer state, and stable individual tendency are not interchangeable. Its effects emerge through interaction with goals, representations, bodily conditions, learning history, and social context. This makes context part of the explanatory model rather than a footnote.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 The episode concept adds temporal resolution that a static emotion label cannot provide. An episode can contain escalation, peak, maintenance, recovery, and recurrence. These phases need not be symmetrical. A response may begin quickly but remain elevated because the person repeatedly encounters confirming information, or it may decline rapidly after safety information arrives. Regulation can occur at any point, and later appraisals can change the trajectory without erasing the earlier response. This makes emotional episodes particularly suitable for experience-sampling and time-series research. It also clarifies why retrospective labels can be misleading: remembering that one was angry compresses an entire trajectory into one category. Episode-level analysis asks when the response changed, which component changed first, and what environmental or cognitive event accompanied the transition.
@@ -248,6 +260,9 @@ Stimuli can be concrete, social, symbolic, anticipated, remembered, or imagined.
 The term stimulus should not imply a simple stimulus-response chain. The same input can produce different emotional outcomes because perception, appraisal, memory, goals, and bodily state intervene between event and response.
 
 
+
+### retrieval-core refinement
+Emotional stimulus should be understood as a mechanism-level object, not merely as a descriptive label. The construct should also be read across levels of analysis: immediate experience, unfolding episode, longer state, and stable individual tendency are not interchangeable. Its effects emerge through interaction with goals, representations, bodily conditions, learning history, and social context. This makes context part of the explanatory model rather than a footnote.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 An emotional stimulus is best understood as an input to an interpretive system rather than a guaranteed emotional cause. Its significance depends on perceptual processing, prior learning, current goals, bodily state, and context. The same cue can become less emotionally potent through habituation or safety learning, or more potent through conditioning and repeated association. Stimuli can also be internally generated. A remembered insult, imagined future failure, or anticipated reunion can evoke emotion without a corresponding external event. This matters because emotional research sometimes uses standardized stimuli and then generalizes too quickly to everyday life. Laboratory stimuli provide control but can differ from personally meaningful events. A complete account therefore distinguishes stimulus properties from the psychological meaning assigned to them and avoids assuming that an observed response is caused by the stimulus alone.
@@ -302,6 +317,9 @@ Valence can change during an emotional episode and can depend on comparison stan
 Valence is often measured with self-report scales, affective ratings, or behavioral and physiological indicators. These measures should not be assumed interchangeable. Valence also does not equal adaptive value. Some unpleasant states are useful signals, and some pleasant states can accompany poor decisions.
 
 
+
+### retrieval-core refinement
+Emotional valence should be understood as a mechanism-level object, not merely as a descriptive label. Its scientific value is greatest when it is examined alongside, rather than substituted for, neighboring components. Feeling, physiology, expression, appraisal, and action can converge or dissociate. Such dissociations can identify temporal order and selective regulation, so disagreement among measures is sometimes a result to explain rather than an error to eliminate.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Valence is a powerful compression of affective experience, but compression necessarily loses information. Two negatively valenced states may differ in urgency, action tendency, physiological profile, and social meaning. Valence can also change within the same episode as circumstances are reinterpreted. An unpleasant medical procedure may be followed by relief; a pleasant reward may become aversive when it conflicts with a valued goal. This shows why valence should not be treated as a simple property of an object. It is a feature of the person's current relation to the object or event. Measurement is similarly context-sensitive. A single rating captures a person's report at one time, whereas repeated ratings can reveal trajectories. Finally, valence is not synonymous with desirability in every sense: an unpleasant emotion can be useful, and a pleasant state can support maladaptive behavior.
@@ -356,6 +374,9 @@ Arousal can refer to psychological activation, physiological activation, or both
 Arousal can alter attention, action readiness, and performance, but effects depend on task demands, baseline state, and the specific source of activation. It should therefore not be treated as a universal “more is better” or “more is worse” variable.
 
 
+
+### retrieval-core refinement
+Arousal should be understood as a mechanism-level object, not merely as a descriptive label. Its scientific value is greatest when it is examined alongside, rather than substituted for, neighboring components. Feeling, physiology, expression, appraisal, and action can converge or dissociate. Such dissociations can identify temporal order and selective regulation, so disagreement among measures is sometimes a result to explain rather than an error to eliminate.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Arousal is easiest to understand when separated from both valence and physiological activation. Psychological arousal describes experienced activation or energy, whereas physiological arousal refers to bodily processes. They often correlate but can diverge. A person may report intense activation while physiological measures are modest, or show substantial bodily activation without labeling a strong emotion. Arousal also has no fixed behavioral meaning. High activation can support rapid responding when a task benefits from urgency, but it can interfere with complex processing when demands exceed available control. Low activation can reflect calm concentration or disengagement depending on context. The construct therefore requires a specified measurement channel and task context. Treating arousal as a universal stress signal is scientifically too coarse.
@@ -410,6 +431,9 @@ Intensity changes during episodes and can be amplified or reduced by attention, 
 The meaning of intensity is therefore measurement-dependent. A self-report rating answers a different question from facial movement or physiological response. Treating all as interchangeable can create false precision.
 
 
+
+### retrieval-core refinement
+Emotional intensity should be understood as a mechanism-level object, not merely as a descriptive label. Its scientific value is greatest when it is examined alongside, rather than substituted for, neighboring components. Feeling, physiology, expression, appraisal, and action can converge or dissociate. Such dissociations can identify temporal order and selective regulation, so disagreement among measures is sometimes a result to explain rather than an error to eliminate.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Intensity should be anchored to the component whose magnitude is being described. Subjective intensity asks how strong the experience feels; expressive intensity asks how strongly emotion is displayed; physiological intensity concerns the magnitude of a bodily response. These measures can correlate without being identical. Intensity also changes over time and can be influenced by attention, appraisal, uncertainty, personal relevance, and regulation. A person can deliberately reduce expression while maintaining strong internal feeling. Conversely, an expressive reaction can be large because of learned display habits without indicating equally strong private experience. This makes intensity particularly vulnerable to measurement error when researchers combine different indicators under one label. Stronger is therefore not automatically more important, more accurate, or more adaptive.
@@ -464,6 +488,9 @@ Measurement therefore requires interpretation. Heart rate, skin conductance, pup
 Physiological arousal can contribute to how people experience and interpret emotion, but the causal role differs across theories. Bodily feedback may be part of emotional generation without being sufficient to specify the emotion's meaning.
 
 
+
+### retrieval-core refinement
+Physiological arousal should be understood as a mechanism-level object, not merely as a descriptive label. Its scientific value is greatest when it is examined alongside, rather than substituted for, neighboring components. Feeling, physiology, expression, appraisal, and action can converge or dissociate. Such dissociations can identify temporal order and selective regulation, so disagreement among measures is sometimes a result to explain rather than an error to eliminate.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Physiological arousal is informative because emotional processes are embodied, but bodily signals are not emotion-specific codes. Heart rate, skin conductance, respiration, pupil changes, muscle activity, and endocrine responses reflect partly different systems and can be affected by movement, temperature, medication, fitness, illness, and anticipation. The same physiological pattern can occur during excitement, fear, exercise, or cognitive effort. Interpretation therefore requires context and comparison conditions. Bodily feedback can still matter causally: changes in bodily state may influence feeling, appraisal, and action readiness. The scientific question is how much and under which conditions, not whether physiology matters at all. This preserves the insight of bodily theories without treating physiology as a simple decoder of named emotions.
@@ -518,6 +545,9 @@ Subjective feeling should be distinguished from emotional expression and physiol
 The concept is central to theories of consciousness and emotion because different theories disagree about whether conscious feeling is a necessary component of emotion or an emergent representation of coordinated processes. Regardless of theoretical position, subjective feeling is an important empirical phenomenon that must be measured on its own terms.
 
 
+
+### retrieval-core refinement
+Subjective feeling should be understood as a mechanism-level object, not merely as a descriptive label. Its scientific value is greatest when it is examined alongside, rather than substituted for, neighboring components. Feeling, physiology, expression, appraisal, and action can converge or dissociate. Such dissociations can identify temporal order and selective regulation, so disagreement among measures is sometimes a result to explain rather than an error to eliminate.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Subjective feeling is privileged for questions about conscious emotional experience but limited for questions about processes outside awareness. People can report what they feel, yet the report is constructed through attention, concepts, memory, language, and the available response scale. Someone who lacks a precise emotion label may still have a meaningful affective experience. Conversely, a confident label can be inaccurate about the underlying event or physiological process. Feeling should therefore be treated as evidence about experienced state, not as an infallible explanation of cause. Its dissociation from expression and physiology is scientifically important rather than a measurement failure. Different theories also disagree about whether conscious feeling is necessary for every emotional process, making careful definition essential.
@@ -572,6 +602,9 @@ People regulate expression according to social norms, goals, relationships, cult
 The relation between expression and emotion is therefore probabilistic and context-sensitive. Facial movement should not be treated as a universal decoder that reveals a person's exact internal state. Different expressions can have overlapping meanings, and observers use situational information to interpret them.
 
 
+
+### retrieval-core refinement
+Emotional expression should be understood as a mechanism-level object, not merely as a descriptive label. Its scientific value is greatest when it is examined alongside, rather than substituted for, neighboring components. Feeling, physiology, expression, appraisal, and action can converge or dissociate. Such dissociations can identify temporal order and selective regulation, so disagreement among measures is sometimes a result to explain rather than an error to eliminate.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Expression is a communication channel, not a transparent window into private experience. Observers infer emotion by combining facial, vocal, postural, linguistic, and situational information. The same outward movement can have different meanings depending on context, and different emotions can share expressive features. Social norms further shape what people show. This is why attempts to identify a person's exact emotion from one facial cue are unreliable. Expression can also serve functions beyond communication, including interaction coordination and self-regulation. A person may intentionally alter display to protect a relationship, maintain professionalism, or avoid escalation. Expression is therefore both an output of emotional processes and a social behavior in its own right.
@@ -626,6 +659,9 @@ Action tendencies help explain why emotion is not merely a feeling. They connect
 The same emotion can also support different actions in different contexts. Anger may promote confrontation when action is possible but persistence or strategic planning when direct confrontation is costly. Thus action tendency should be treated as directional readiness rather than a fixed behavioral script.
 
 
+
+### retrieval-core refinement
+Action tendency should be understood as a mechanism-level object, not merely as a descriptive label. Its scientific value is greatest when it is examined alongside, rather than substituted for, neighboring components. Feeling, physiology, expression, appraisal, and action can converge or dissociate. Such dissociations can identify temporal order and selective regulation, so disagreement among measures is sometimes a result to explain rather than an error to eliminate.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Action tendency explains the bridge between affective significance and behavioral readiness. It is directional rather than deterministic. A tendency can be blocked by competing goals, social norms, lack of opportunity, or deliberate control. This distinction is especially important when studying strong emotion: an intense urge to act does not imply that action will occur. Action tendencies can also change during an episode as new information alters appraisal. Fear can shift from escape toward investigation when safety becomes credible; anger can shift from confrontation toward problem solving when a constructive route appears. The construct therefore captures preparedness and direction, not a fixed behavioral script.
@@ -680,6 +716,9 @@ Awareness depends partly on attention to internal signals, language, conceptual 
 Awareness should not be equated with emotional control or intelligence. Knowing what one feels does not guarantee effective regulation, and limited labeling can coexist with adaptive behavior. Measurement also requires care because self-report of emotional awareness is itself a report about a person's perceived awareness.
 
 
+
+### retrieval-core refinement
+Emotional awareness should be understood as a mechanism-level object, not merely as a descriptive label. Its scientific value is greatest when it is examined alongside, rather than substituted for, neighboring components. Feeling, physiology, expression, appraisal, and action can converge or dissociate. Such dissociations can identify temporal order and selective regulation, so disagreement among measures is sometimes a result to explain rather than an error to eliminate.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Emotional awareness is partly a problem of detection and partly a problem of interpretation. Detecting bodily activation does not guarantee correct emotion identification, and naming an emotion does not guarantee accurate knowledge of its cause. Awareness can be coarse or fine-grained, immediate or retrospective, and stable or context-dependent. It can support regulation because deliberate modification usually benefits from knowing what is occurring, but awareness is neither necessary nor sufficient for every regulatory process. Measurement should distinguish perceived awareness from demonstrated discrimination. Someone can believe they understand their emotions while showing poor differentiation when tested across repeated states.
@@ -734,6 +773,9 @@ Granularity is influenced by language, conceptual knowledge, learning history, a
 Research often examines granularity by analyzing patterns of repeated emotion ratings and the consistency of differentiation across contexts. Measurement therefore concerns how a person organizes experience rather than simply how many emotion words they know.
 
 
+
+### retrieval-core refinement
+Emotional granularity should be understood as a mechanism-level object, not merely as a descriptive label. Its scientific value is greatest when it is examined alongside, rather than substituted for, neighboring components. Feeling, physiology, expression, appraisal, and action can converge or dissociate. Such dissociations can identify temporal order and selective regulation, so disagreement among measures is sometimes a result to explain rather than an error to eliminate.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Granularity concerns the structure of emotional categories a person uses across experiences. It is not simply the number of words in a vocabulary. A person can know many emotion terms without reliably applying them in differentiated ways. Conversely, a smaller vocabulary can still support useful distinctions. Granularity is influenced by language and conceptual learning but is also tied to attention, culture, context, and experience. Its potential value is functional: different emotional states can imply different interpretations and possible actions. Yet greater differentiation is not automatically better. Categories must be meaningful and sufficiently accurate for the context in which they are used.
@@ -788,6 +830,9 @@ High differentiation does not mean experiencing emotions less strongly. It means
 Differentiation is shaped by attention, learning, concepts, language, and repeated experience. It can vary by context and across individuals. It is therefore better understood as an empirical property of emotional representation than as a simple measure of emotional maturity.
 
 
+
+### retrieval-core refinement
+Emotional differentiation should be understood as a mechanism-level object, not merely as a descriptive label. Its scientific value is greatest when it is examined alongside, rather than substituted for, neighboring components. Feeling, physiology, expression, appraisal, and action can converge or dissociate. Such dissociations can identify temporal order and selective regulation, so disagreement among measures is sometimes a result to explain rather than an error to eliminate.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Differentiation is closely related to granularity but emphasizes separation among experienced states. It becomes particularly important when several emotions share bodily activation or broad valence. Distinguishing fear from excitement, anger from frustration, or sadness from exhaustion can change how a person interprets the situation and what action seems appropriate. Differentiation can be assessed across repeated reports by examining whether a person's ratings distinguish states consistently rather than collapsing them into one general dimension. It is influenced by conceptual knowledge, attention, learning, and language. It should not be treated as a simple marker of emotional superiority; a distinction is useful only if it corresponds to meaningful differences in the person's situation.
@@ -843,6 +888,9 @@ Appraisal does not require a slow, conscious verbal judgment. Some evaluations c
 Different appraisal theories specify different appraisal dimensions and their combinations. There is substantial evidence that interpretations of significance are related to emotional responses, but no single fixed appraisal algorithm explains every emotion across people and contexts.
 
 
+
+### retrieval-core refinement
+Appraisal should be understood as a mechanism-level object, not merely as a descriptive label. Its scientific value is greatest when it is examined alongside, rather than substituted for, neighboring components. Feeling, physiology, expression, appraisal, and action can converge or dissociate. Such dissociations can identify temporal order and selective regulation, so disagreement among measures is sometimes a result to explain rather than an error to eliminate.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Appraisal is a meaning-making process, not necessarily a conscious verdict. It concerns what an event means for goals, needs, expectations, responsibility, control, and other personally relevant dimensions. Because meaning can change, emotional response can change even when the external event remains unchanged. Appraisal also helps explain individual differences: two people can receive the same information but evaluate its significance differently. However, appraisal should not become a circular explanation in which any emotion is simply said to reflect an appraisal of that same emotion. Useful models specify dimensions and mechanisms that generate testable predictions. Evidence is strongest when appraisal is measured independently of the emotional outcome and when alternative explanations are controlled.
@@ -896,6 +944,9 @@ Different theories place different components at the beginning of the process. S
 Emotion generation can also be interrupted or redirected. New information may reduce threat, a goal may suppress expression, or a competing action may become more important. Thus generation and regulation can overlap temporally without being identical.
 
 
+
+### retrieval-core refinement
+Emotion generation should be understood as a mechanism-level object, not merely as a descriptive label. Its scientific value is greatest when it is examined alongside, rather than substituted for, neighboring components. Feeling, physiology, expression, appraisal, and action can converge or dissociate. Such dissociations can identify temporal order and selective regulation, so disagreement among measures is sometimes a result to explain rather than an error to eliminate.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Emotion generation is best treated as a distributed process in which multiple signals converge and interact. An event can alter perception, appraisal, bodily regulation, attention, memory accessibility, and action readiness. The relative contribution of each component can change across time. This makes simple linear models useful as teaching approximations but inadequate as universal mechanisms. Generation can also be recursive: an initial response changes the situation, the changed situation produces new information, and the new information modifies the emotion. This feedback structure helps explain escalation and recovery. A complete explanation therefore specifies both initiating conditions and feedback processes.
@@ -949,6 +1000,9 @@ Self-recognition can also be imperfect. A person may notice arousal but mislabel
 Recognition should not be confused with expression. A person can recognize an emotion without displaying it, and an observer can infer an emotion incorrectly from an expression. Cross-cultural differences and display rules further complicate interpretation.
 
 
+
+### retrieval-core refinement
+Emotion recognition should be understood as a mechanism-level object, not merely as a descriptive label. Its scientific value is greatest when it is examined alongside, rather than substituted for, neighboring components. Feeling, physiology, expression, appraisal, and action can converge or dissociate. Such dissociations can identify temporal order and selective regulation, so disagreement among measures is sometimes a result to explain rather than an error to eliminate.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Emotion recognition is inferential because another person's private experience is not directly observable. Observers combine expressive behavior, context, prior knowledge, language, and expectations. Recognition accuracy can therefore improve when multiple cues converge and decline when cues conflict or are ambiguous. Self-recognition has a similar problem: internal signals must be interpreted. Recognition is thus a judgment about emotional state, not a direct measurement of it. This distinction is particularly important when evaluating claims about facial-expression decoding or lie detection.
@@ -1002,6 +1056,9 @@ Emotion perception is therefore not simply reading an emotion directly from a st
 The process can operate before a person forms an explicit verbal judgment, yet rapid processing does not guarantee accuracy. Salient or threatening cues may attract attention while still being misinterpreted.
 
 
+
+### retrieval-core refinement
+Emotion perception should be understood as a mechanism-level object, not merely as a descriptive label. Its scientific value is greatest when it is examined alongside, rather than substituted for, neighboring components. Feeling, physiology, expression, appraisal, and action can converge or dissociate. Such dissociations can identify temporal order and selective regulation, so disagreement among measures is sometimes a result to explain rather than an error to eliminate.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Emotion perception begins with processing cues that can carry affective significance, but perception is shaped by attention and context. A threatening-looking scene can be interpreted differently after additional information changes its meaning. Perception can also be rapid without being infallible. Salient emotional information may receive priority because rapid detection can be useful, yet false alarms are possible. Laboratory tasks that isolate emotional cues can therefore reveal perceptual biases without establishing that everyday emotion perception operates identically under natural conditions.
@@ -1055,6 +1112,9 @@ Effective regulation does not mean eliminating negative emotion. Emotions can pr
 Regulation can target different components: the stimulus, appraisal, subjective feeling, physiology, expression, or action. A strategy that reduces outward expression may leave internal feeling relatively unchanged. This distinction is essential when interpreting evidence.
 
 
+
+### retrieval-core refinement
+Emotion regulation should be understood as a mechanism-level object, not merely as a descriptive label. Its function must be judged relative to the regulatory goal, timing, target, and downstream consequence. Immediate reduction is not the only meaningful outcome. A regulatory process can alter intensity, duration, expression, interpretation, recovery, behavior, or social interaction, and these outcomes can move in different directions. Flexibility and context therefore matter.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Emotion regulation is a goal-dependent process. The same emotional change can be adaptive in one situation and maladaptive in another. Increasing fear may improve vigilance before a genuine danger; reducing fear may support action when fear has become disproportionate. Regulation can target the situation, attention, appraisal, physiology, expression, or behavior. Timing matters because changing an early process can prevent later components from escalating, whereas late regulation may require greater effort. This is why regulation should be evaluated by function and context rather than by whether emotion was reduced.
@@ -1108,6 +1168,9 @@ Suppression should not be treated as universally harmful. Its effects depend on 
 Because suppression is often studied through self-report, observed expression, and physiological measures, researchers must distinguish reduced display from reduced emotional experience.
 
 
+
+### retrieval-core refinement
+Emotional suppression should be understood as a mechanism-level object, not merely as a descriptive label. Its function must be judged relative to the regulatory goal, timing, target, and downstream consequence. Immediate reduction is not the only meaningful outcome. A regulatory process can alter intensity, duration, expression, interpretation, recovery, behavior, or social interaction, and these outcomes can move in different directions. Flexibility and context therefore matter.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Suppression primarily changes observable expression and can therefore create divergence between inner experience and outward behavior. The regulatory effort required can itself influence attention and physiological responding, especially when suppression is sustained. But these effects are not universal, and suppression can be socially useful when immediate expression would create harm or violate legitimate norms. The scientific question is not whether suppression is always bad but when it changes which component, at what cost, and for what purpose.
@@ -1161,6 +1224,9 @@ Its effectiveness depends on whether the alternative interpretation is credible,
 Research often finds reappraisal associated with changes in reported emotion and expression, but effects vary by strategy, context, person, and target emotion. It should therefore be treated as one regulatory option rather than a universally superior method.
 
 
+
+### retrieval-core refinement
+Cognitive reappraisal should be understood as a mechanism-level object, not merely as a descriptive label. Its function must be judged relative to the regulatory goal, timing, target, and downstream consequence. Immediate reduction is not the only meaningful outcome. A regulatory process can alter intensity, duration, expression, interpretation, recovery, behavior, or social interaction, and these outcomes can move in different directions. Flexibility and context therefore matter.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Reappraisal operates by changing the meaning assigned to an event. Its mechanism therefore depends on whether the alternative interpretation is plausible and available before the emotional response becomes entrenched. Reappraisal can involve changing responsibility, considering alternative explanations, broadening time perspective, or identifying coping options. It should not be confused with denial: denying evidence can preserve rather than regulate threat. Effects also depend on the target emotion and situation. A strategy that helps with anger may not operate identically for grief or fear.
@@ -1214,6 +1280,9 @@ Acceptance can reduce secondary struggle when attempts to control an internal st
 Research on acceptance appears across emotion regulation, mindfulness, and psychotherapy frameworks, but these literatures use related terms in somewhat different ways. Claims should therefore specify the operational definition being studied.
 
 
+
+### retrieval-core refinement
+Acceptance should be understood as a mechanism-level object, not merely as a descriptive label. Its function must be judged relative to the regulatory goal, timing, target, and downstream consequence. Immediate reduction is not the only meaningful outcome. A regulatory process can alter intensity, duration, expression, interpretation, recovery, behavior, or social interaction, and these outcomes can move in different directions. Flexibility and context therefore matter.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Acceptance changes the relationship to an emotional experience rather than requiring the experience to disappear. This distinction matters because attempts to control internal states can sometimes create additional monitoring and struggle. Acceptance can permit a person to acknowledge fear while still acting, or acknowledge sadness without organizing all behavior around escape. It is not passive resignation and does not require agreement with the thoughts accompanying an emotion. Evidence must also distinguish acceptance as a measured process from broad claims about therapies that include acceptance-related techniques.
@@ -1267,6 +1336,9 @@ Expression regulation is distinct from changing the underlying emotion. A person
 The social meaning of expression also matters. What counts as appropriate or inappropriate display varies with relationship, setting, role, culture, and power. Consequently, the same behavior can communicate different things in different environments.
 
 
+
+### retrieval-core refinement
+Expression regulation should be understood as a mechanism-level object, not merely as a descriptive label. Its function must be judged relative to the regulatory goal, timing, target, and downstream consequence. Immediate reduction is not the only meaningful outcome. A regulatory process can alter intensity, duration, expression, interpretation, recovery, behavior, or social interaction, and these outcomes can move in different directions. Flexibility and context therefore matter.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Expression regulation is partly interpersonal because expression changes what other people can infer and how they respond. The person therefore manages not only an internal state but also a social information channel. Regulation can be conscious or habitual and can involve timing, intensity, channel selection, or substitution. A person may suppress facial expression while allowing neutral verbal communication, or delay a response until a private setting. These choices illustrate why emotional display cannot be interpreted without considering social goals and norms.
@@ -1320,6 +1392,9 @@ Display rules do not prove that emotional experience itself differs in the same 
 Display rules also change over development and context. A person may follow different rules at work, with family, among friends, or in public. The rules can conflict with personal feelings, creating regulatory demands.
 
 
+
+### retrieval-core refinement
+Display rules should be understood as a mechanism-level object, not merely as a descriptive label. Its function must be judged relative to the regulatory goal, timing, target, and downstream consequence. Immediate reduction is not the only meaningful outcome. A regulatory process can alter intensity, duration, expression, interpretation, recovery, behavior, or social interaction, and these outcomes can move in different directions. Flexibility and context therefore matter.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Display rules are learned through observation, feedback, instruction, and social participation. They help explain why expression differs across settings without requiring that emotional experience differ equally. Rules can concern intensity, timing, target, and acceptable forms of expression. They may also conflict with one another: a person may be expected to show warmth while feeling anger, or remain calm while experiencing fear. Such conflicts create regulatory demands. Cross-cultural differences should be described carefully because within-culture variation can be large and cultures are not internally uniform.
@@ -1373,6 +1448,9 @@ Emotional habits develop through learning, reinforcement, repeated context-respo
 The concept should not be confused with a fixed personality trait. A habit is a learned pattern of responding that can change, especially when context and consequences change.
 
 
+
+### retrieval-core refinement
+Emotional habits should be understood as a mechanism-level object, not merely as a descriptive label. Its function must be judged relative to the regulatory goal, timing, target, and downstream consequence. Immediate reduction is not the only meaningful outcome. A regulatory process can alter intensity, duration, expression, interpretation, recovery, behavior, or social interaction, and these outcomes can move in different directions. Flexibility and context therefore matter.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Emotional habits become powerful when repeated responses are reinforced by predictable contexts and consequences. A habitual interpretation can occur before deliberate reasoning, while a habitual regulation response can become the default whenever a cue appears. Habits can be disrupted when context changes or when the expected consequence no longer occurs. This makes emotional habits closely related to learning without making them identical to general habit formation. The relevant question is which emotional response pattern has been learned and under what cues it is activated.
@@ -1426,6 +1504,9 @@ Contagion is influenced by attention, relationship, identification, social conte
 The concept is therefore causal only when the research design supports influence from one person's affective state to another's. Observing synchronized moods alone does not establish contagion.
 
 
+
+### retrieval-core refinement
+Emotion contagion should be understood as a mechanism-level object, not merely as a descriptive label. Its function must be judged relative to the regulatory goal, timing, target, and downstream consequence. Immediate reduction is not the only meaningful outcome. A regulatory process can alter intensity, duration, expression, interpretation, recovery, behavior, or social interaction, and these outcomes can move in different directions. Flexibility and context therefore matter.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Emotion contagion requires more than emotional similarity. To establish contagion, evidence must support a pathway by which one person's state or expression influences another's. Shared events, common group membership, and selective interaction can produce apparent convergence without direct transmission. Mechanisms may include mimicry, attention, interpretation, interactional feedback, and social affiliation. Contagion can be beneficial when it coordinates groups, but it can also transmit distress or escalation. Its effects therefore depend on the social environment.
@@ -1479,6 +1560,9 @@ Modern evidence supports an important relationship between bodily states and emo
 Its lasting contribution is theoretical: it placed bodily feedback at the center of a scientific explanation of emotion and helped establish emotion as a problem involving interaction among physiology and psychological experience.
 
 
+
+### retrieval-core refinement
+James–Lange theory should be understood as a mechanism-level object, not merely as a descriptive label. Its claims should be separated into assumptions, mechanisms, predictions, and evidence. Historical status does not establish empirical truth. The theory is most informative when its predictions can be distinguished from alternatives through manipulation, temporal measurement, convergent evidence, or clearly specified boundary conditions.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 James–Lange theory remains useful as a historical marker because it made bodily feedback central to emotional experience. Its modern value is not that its original sequence has been proven in full, but that it raised a testable question: how do bodily changes contribute to feeling? Contemporary research on interoception and embodied emotion continues to address related questions. The theory should therefore be preserved with historical precision while avoiding the claim that one peripheral response uniquely identifies one emotion.
@@ -1532,6 +1616,9 @@ Modern emotion science does not generally treat the original theory as a complet
 Its value for contemporary understanding is therefore partly conceptual and historical rather than as a fully sufficient model.
 
 
+
+### retrieval-core refinement
+Cannon–Bard theory should be understood as a mechanism-level object, not merely as a descriptive label. Its claims should be separated into assumptions, mechanisms, predictions, and evidence. Historical status does not establish empirical truth. The theory is most informative when its predictions can be distinguished from alternatives through manipulation, temporal measurement, convergent evidence, or clearly specified boundary conditions.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Cannon–Bard theory helped separate the idea of emotional feeling from the idea that bodily response must be its simple precursor. Its historical importance lies in emphasizing coordinated central processes. Modern evidence suggests that emotional experience and bodily response can interact through recurrent pathways rather than following one universal order. Thus the theory is best retained as an important conceptual step in the development of emotion science, not as a complete contemporary architecture.
@@ -1585,6 +1672,9 @@ The theory had major influence on research linking physiology, cognition, and so
 The model remains useful as a conceptual demonstration that bodily activation and interpretation can interact.
 
 
+
+### retrieval-core refinement
+Two-factor theory should be understood as a mechanism-level object, not merely as a descriptive label. Its claims should be separated into assumptions, mechanisms, predictions, and evidence. Historical status does not establish empirical truth. The theory is most informative when its predictions can be distinguished from alternatives through manipulation, temporal measurement, convergent evidence, or clearly specified boundary conditions.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Two-factor theory highlights an important possibility: physiological activation can be interpreted using contextual information. The classic theory is stronger than the claim that context matters, because it proposes a particular relation between relatively nonspecific arousal and cognitive labeling. Later evidence has complicated that formulation. Some bodily signals carry more differentiated information than the classic model assumed, and emotional processes can begin without deliberate labeling. The enduring insight is therefore interaction between bodily state and interpretation, not a universal two-stage algorithm.
@@ -1638,6 +1728,9 @@ These theories do not necessarily claim that every appraisal is conscious or ver
 Evidence supports important links between interpretations of events and emotional responding, but the strength and universality of specific appraisal rules remain debated.
 
 
+
+### retrieval-core refinement
+Cognitive appraisal theories should be understood as a mechanism-level object, not merely as a descriptive label. Its claims should be separated into assumptions, mechanisms, predictions, and evidence. Historical status does not establish empirical truth. The theory is most informative when its predictions can be distinguished from alternatives through manipulation, temporal measurement, convergent evidence, or clearly specified boundary conditions.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Cognitive appraisal theories vary in their proposed dimensions, but they share the idea that emotional significance depends on how an event relates to the person's concerns. Appraisals can concern novelty, goal relevance, responsibility, controllability, certainty, or coping potential. Their value is explanatory: they predict why identical events can evoke different emotions. Their limitation is that overly flexible appraisal accounts can become difficult to falsify. Strong models therefore specify which appraisal patterns should produce which responses and under what boundary conditions.
@@ -1692,6 +1785,9 @@ The approach has generated influential research on emotion recognition, facial e
 Basic-emotion models are therefore best treated as a family of theories rather than a settled inventory of universal emotion modules.
 
 
+
+### retrieval-core refinement
+Basic-emotion approaches should be understood as a mechanism-level object, not merely as a descriptive label. Its claims should be separated into assumptions, mechanisms, predictions, and evidence. Historical status does not establish empirical truth. The theory is most informative when its predictions can be distinguished from alternatives through manipulation, temporal measurement, convergent evidence, or clearly specified boundary conditions.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Basic-emotion approaches gain strength when they make precise claims about recurrent properties and weaken when they assume that a named emotion must have a single universal expression or physiology. Developmental, comparative, and cross-cultural evidence can inform claims about biological preparedness, but variability within and across populations must remain visible. A basic emotion can also have multiple expressive forms depending on context. The scientific issue is degree of differentiation and preparedness, not a simple choice between universal modules and total social construction.
@@ -1745,6 +1841,9 @@ The strength of dimensional approaches is descriptive economy. They capture simi
 Dimensional and categorical descriptions need not be mutually exclusive. A researcher may use dimensions to describe affective space while also studying emotion categories.
 
 
+
+### retrieval-core refinement
+Dimensional approaches should be understood as a mechanism-level object, not merely as a descriptive label. Its claims should be separated into assumptions, mechanisms, predictions, and evidence. Historical status does not establish empirical truth. The theory is most informative when its predictions can be distinguished from alternatives through manipulation, temporal measurement, convergent evidence, or clearly specified boundary conditions.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Basic-emotion models become empirically useful when their claims are precise enough to test. Questions include whether particular response patterns recur, whether they emerge early in development, whether they show cross-cultural regularities, and whether they have identifiable functions. None of these questions requires assuming a rigid one-emotion/one-expression mapping. Emotional categories can show recurrent tendencies while remaining flexible. The most defensible use of the approach therefore separates evidence for preparedness from stronger claims about universal expression or physiology.
@@ -1798,6 +1897,9 @@ This framework highlights variability across contexts and individuals and explai
 The approach remains theoretically influential but contested. Competing evidence supports some specialized emotional processes and recurrent patterns, while the degree to which emotions are constructed versus biologically differentiated remains an active scientific question. The correct conclusion is not that all emotions are either fixed modules or arbitrary inventions.
 
 
+
+### retrieval-core refinement
+Constructed-emotion approaches should be understood as a mechanism-level object, not merely as a descriptive label. Its claims should be separated into assumptions, mechanisms, predictions, and evidence. Historical status does not establish empirical truth. The theory is most informative when its predictions can be distinguished from alternatives through manipulation, temporal measurement, convergent evidence, or clearly specified boundary conditions.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Dimensional models excel at representing gradual change. They can show that an experience becomes more unpleasant or more activated even when a categorical label stays the same. However, dimensions can conceal why a state changed. Two states at the same valence and arousal can have very different meanings. A strong scientific representation therefore uses dimensions where they answer the question and categories or components where those distinctions carry explanatory value.
@@ -1851,6 +1953,9 @@ Evidence for facial feedback has been mixed. Some studies report small effects u
 The hypothesis remains scientifically useful because it illustrates a broader possibility: emotional processes may be recurrent, with expression and experience influencing each other.
 
 
+
+### retrieval-core refinement
+Facial-feedback hypothesis should be understood as a mechanism-level object, not merely as a descriptive label. Its claims should be separated into assumptions, mechanisms, predictions, and evidence. Historical status does not establish empirical truth. The theory is most informative when its predictions can be distinguished from alternatives through manipulation, temporal measurement, convergent evidence, or clearly specified boundary conditions.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Constructed-emotion theories are strongest when treated as mechanistic hypotheses about categorization, prediction, and bodily regulation rather than as claims that emotions are imaginary. A constructed category can still have real consequences because the resulting experience changes perception, action, and social behavior. The major empirical question concerns the relative contribution of learned concepts, context, bodily signals, and recurring biological structure. Evidence should be evaluated at the level of those mechanisms rather than by caricaturing the theory as either total construction or denial of biology.
@@ -1904,6 +2009,9 @@ Positive affect is associated in many studies with exploration, social engagemen
 Positive affect should therefore be treated descriptively rather than as a synonym for psychological health or successful functioning.
 
 
+
+### retrieval-core refinement
+Positive affect should be understood as a mechanism-level object, not merely as a descriptive label. The category should be treated as a dynamic pattern rather than a rigid package. Appraisal, learning, bodily state, social context, expectations, and available actions can alter its expression. Intensity, duration, recurrence, recovery, and consequences are therefore part of understanding the phenomenon, not secondary details.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Facial feedback requires careful causal separation. If expression changes emotion, the pathway could involve sensory feedback from facial muscles, changes in social interaction, altered self-perception, or expectations about what an expression means. Different experiments may test different pathways. This is why a small average effect in one laboratory paradigm cannot be generalized to a universal law that smiling creates happiness. The useful conclusion is that expression may participate in feedback loops, with effect size and conditions requiring continued investigation.
@@ -1957,6 +2065,9 @@ Negative affect can support adaptation by directing attention toward problems an
 Research on negative affect often uses general distress measures, but such measures can conceal meaningful distinctions among specific emotions.
 
 
+
+### retrieval-core refinement
+Negative affect should be understood as a mechanism-level object, not merely as a descriptive label. The category should be treated as a dynamic pattern rather than a rigid package. Appraisal, learning, bodily state, social context, expectations, and available actions can alter its expression. Intensity, duration, recurrence, recovery, and consequences are therefore part of understanding the phenomenon, not secondary details.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Positive affect can influence information processing, but its consequences depend on activation, task demands, and motivational relevance. Pleasant low-arousal states may support satisfaction and restoration, whereas high-arousal positive states may increase approach and exploration. Positive affect can also coexist with uncertainty or loss. Therefore, positive affect should not be used as a proxy for psychological health, morality, competence, or correct judgment.
@@ -2010,6 +2121,9 @@ Positive emotion does not require continuous pleasure. People can experience hap
 Scientific research commonly separates momentary affect, global life evaluations, and related well-being constructs because they answer different questions.
 
 
+
+### retrieval-core refinement
+Happiness should be understood as a mechanism-level object, not merely as a descriptive label. The category should be treated as a dynamic pattern rather than a rigid package. Appraisal, learning, bodily state, social context, expectations, and available actions can alter its expression. Intensity, duration, recurrence, recovery, and consequences are therefore part of understanding the phenomenon, not secondary details.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Negative affect is heterogeneous enough that broad distress scores can hide important mechanisms. Fear can prioritize threat, sadness can orient toward loss, anger can orient toward obstruction, and disgust can orient toward rejection. Their shared unpleasantness is real but incomplete. A broad negative-affect construct is useful for describing overall burden, while specific emotions are needed for mechanism. This distinction is important for both research and interpretation of individual experience.
@@ -2063,6 +2177,9 @@ Sadness is a normal emotion and should not be equated with depression. Clinical 
 Sadness can also coexist with other emotions. Loss may produce sadness, anger, guilt, or relief at different moments. Emotional episodes are dynamic rather than mutually exclusive boxes.
 
 
+
+### retrieval-core refinement
+Sadness should be understood as a mechanism-level object, not merely as a descriptive label. The category should be treated as a dynamic pattern rather than a rigid package. Appraisal, learning, bodily state, social context, expectations, and available actions can alter its expression. Intensity, duration, recurrence, recovery, and consequences are therefore part of understanding the phenomenon, not secondary details.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Happiness is partly a measurement problem because people use the word for immediate feeling, remembered frequency of positive experience, and global life evaluation. These measures can correlate but are not identical. A person can have frequent pleasure but low life satisfaction if important values are unmet, or high life satisfaction while experiencing temporary sadness. Scientific claims about happiness should therefore name the measurement target rather than treating all positive self-reports as the same construct.
@@ -2116,6 +2233,9 @@ Fear is shaped by appraisal. A cue becomes frightening partly through what it me
 Fear should be distinguished from anxiety. Fear is often more closely linked to a perceived present or specific threat, whereas anxiety can involve uncertain or diffuse future threat; however, the distinction is not absolute in ordinary language or research.
 
 
+
+### retrieval-core refinement
+Fear should be understood as a mechanism-level object, not merely as a descriptive label. The category should be treated as a dynamic pattern rather than a rigid package. Appraisal, learning, bodily state, social context, expectations, and available actions can alter its expression. Intensity, duration, recurrence, recovery, and consequences are therefore part of understanding the phenomenon, not secondary details.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Sadness can change the person's relationship to goals. When an important outcome is lost, immediate approach behavior may decrease while reflection, support seeking, or reassessment becomes more prominent. These are tendencies rather than mandatory functions. The emotion can also interact with social context: supportive responses may facilitate recovery, whereas isolation can maintain distress. The distinction from depression remains essential because a normal emotional episode does not establish a clinical syndrome.
@@ -2169,6 +2289,9 @@ Anger can be directed at a person, situation, institution, oneself, or an abstra
 Like other emotions, anger can be useful or costly depending on intensity, accuracy, duration, and expression. Suppressing all anger is not necessarily adaptive, and acting on every angry impulse is not either.
 
 
+
+### retrieval-core refinement
+Anger should be understood as a mechanism-level object, not merely as a descriptive label. The category should be treated as a dynamic pattern rather than a rigid package. Appraisal, learning, bodily state, social context, expectations, and available actions can alter its expression. Intensity, duration, recurrence, recovery, and consequences are therefore part of understanding the phenomenon, not secondary details.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Fear involves a calibration problem between detecting danger and avoiding unnecessary alarm. Threat detection is shaped by learning, prediction, context, and perceived coping ability. When safety information becomes credible, fear can decrease, but context changes can restore the response. This does not mean the person failed to learn; emotional memory can remain sensitive to uncertainty and retrieval conditions. Fear therefore illustrates the dynamic interaction among learning, appraisal, physiology, and regulation.
@@ -2222,6 +2345,9 @@ Disgust therefore demonstrates that emotion categories can extend beyond their o
 Individual sensitivity to disgust varies, and context can strongly alter responses.
 
 
+
+### retrieval-core refinement
+Disgust should be understood as a mechanism-level object, not merely as a descriptive label. The category should be treated as a dynamic pattern rather than a rigid package. Appraisal, learning, bodily state, social context, expectations, and available actions can alter its expression. Intensity, duration, recurrence, recovery, and consequences are therefore part of understanding the phenomenon, not secondary details.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Anger often contains information about blocked goals or perceived violations, but its informational value depends on the accuracy of the underlying appraisal. Anger can motivate problem solving, boundary setting, or persistence, while uncontrolled action can produce aggression and social harm. Because the emotion and behavior are separable, interventions or explanations should identify whether the target is feeling intensity, appraisal, expression, or action. This preserves the distinction between having anger and acting destructively.
@@ -2275,6 +2401,9 @@ The response depends on prior expectations. A person who expects a particular ou
 Not every unexpected event produces strong subjective surprise. Expectation strength, attention, salience, and context matter.
 
 
+
+### retrieval-core refinement
+Surprise should be understood as a mechanism-level object, not merely as a descriptive label. The category should be treated as a dynamic pattern rather than a rigid package. Appraisal, learning, bodily state, social context, expectations, and available actions can alter its expression. Intensity, duration, recurrence, recovery, and consequences are therefore part of understanding the phenomenon, not secondary details.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Disgust is unusually informative for studying the interaction of biological preparedness and cultural learning. Some triggers are widely aversive, while others vary greatly across groups and individuals. The response can also generalize through symbolic association. Such generalization may be adaptive in contamination contexts but can produce socially harmful judgments when applied indiscriminately to people or groups. Emotional response therefore does not by itself justify the evaluation attached to it.
@@ -2328,6 +2457,9 @@ Interest is related to motivation but is not identical to it. A person can be in
 Because interest can sustain attention, it can contribute to learning and exploration, but its effects depend on task structure and opportunity.
 
 
+
+### retrieval-core refinement
+Interest should be understood as a mechanism-level object, not merely as a descriptive label. The category should be treated as a dynamic pattern rather than a rigid package. Appraisal, learning, bodily state, social context, expectations, and available actions can alter its expression. Intensity, duration, recurrence, recovery, and consequences are therefore part of understanding the phenomenon, not secondary details.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Surprise is fundamentally comparative: it reflects the gap between what was expected and what occurred. A highly probable event that occurs may produce little surprise; an unlikely event can produce a large response. Because surprise can be pleasant, unpleasant, or neutral, it cannot be classified by valence alone. Its main behavioral consequence is often rapid updating or orientation, after which another emotion may become dominant.
@@ -2381,6 +2513,9 @@ Affection can be expressed through attention, warmth, touch, communication, supp
 Because love is multifaceted, simple biological or emotional definitions are insufficient. Romantic attraction, attachment, caregiving, and enduring commitment can overlap while remaining conceptually distinct.
 
 
+
+### retrieval-core refinement
+Love and affection should be understood as a mechanism-level object, not merely as a descriptive label. The category should be treated as a dynamic pattern rather than a rigid package. Appraisal, learning, bodily state, social context, expectations, and available actions can alter its expression. Intensity, duration, recurrence, recovery, and consequences are therefore part of understanding the phenomenon, not secondary details.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Interest can be sustained when a person perceives enough novelty to invite exploration without losing a sense of relevance or possible comprehension. It can therefore change as knowledge changes. An initially interesting subject may become routine, while a deeper layer can renew interest. This dynamic helps distinguish interest from a fixed preference. Interest can support attention and learning but requires opportunity and accessible information.
@@ -2434,6 +2569,9 @@ Shame differs from guilt, although the two can co-occur. Guilt more specifically
 Shame can support social learning when it motivates repair or conformity, but intense or chronic shame can also contribute to avoidance and impaired self-evaluation. Consequences depend on appraisal and regulation.
 
 
+
+### retrieval-core refinement
+Shame should be understood as a mechanism-level object, not merely as a descriptive label. The category should be treated as a dynamic pattern rather than a rigid package. Appraisal, learning, bodily state, social context, expectations, and available actions can alter its expression. Intensity, duration, recurrence, recovery, and consequences are therefore part of understanding the phenomenon, not secondary details.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Love and affection illustrate why emotional categories often contain multiple components. Attraction can orient toward another person, affection can reflect warmth and care, attachment can organize security and proximity, and commitment can organize longer-term choice. These processes can reinforce one another but can also diverge. A relationship can contain commitment without strong momentary affection, or attraction without stable caregiving. The broad term love should therefore be unpacked when precise explanation is required.
@@ -2487,6 +2625,9 @@ Guilt is therefore shaped by standards, responsibility judgments, social relatio
 Guilt and shame often occur together but should not be collapsed into one construct. Their different objects of evaluation can produce different behavioral tendencies.
 
 
+
+### retrieval-core refinement
+Guilt should be understood as a mechanism-level object, not merely as a descriptive label. The category should be treated as a dynamic pattern rather than a rigid package. Appraisal, learning, bodily state, social context, expectations, and available actions can alter its expression. Intensity, duration, recurrence, recovery, and consequences are therefore part of understanding the phenomenon, not secondary details.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Shame often becomes intense when self-evaluation and perceived social exposure converge. The person is not merely evaluating an event but what the event means about who they are or how others may see them. This can produce concealment or withdrawal, but repair is possible when the appraisal shifts toward specific behavior and change. The distinction from guilt is therefore functional as well as semantic: different objects of evaluation can organize different responses.
@@ -2541,6 +2682,9 @@ Pride is not equivalent to narcissism or arrogance. Its expression and consequen
 Because pride is self-conscious, it depends on representations of the self and standards of evaluation. It is therefore partly social even when the achievement is private.
 
 
+
+### retrieval-core refinement
+Pride should be understood as a mechanism-level object, not merely as a descriptive label. The category should be treated as a dynamic pattern rather than a rigid package. Appraisal, learning, bodily state, social context, expectations, and available actions can alter its expression. Intensity, duration, recurrence, recovery, and consequences are therefore part of understanding the phenomenon, not secondary details.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Guilt can be constructive when it accurately tracks responsibility and points toward feasible repair. It becomes less informative when responsibility is exaggerated, impossible to satisfy, or disconnected from actual agency. This is why guilt should not be treated as a moral truth signal. It is evidence about the person's appraisal of responsibility. Its relationship to behavior depends on whether the person can translate that appraisal into proportionate corrective action.
@@ -2594,6 +2738,9 @@ Envy differs from jealousy. Envy typically concerns a comparison between oneself
 Envy is not automatically destructive. It can motivate self-improvement when interpreted as information about a valued goal, but it can also produce hostility or devaluation when the comparison is experienced as threatening.
 
 
+
+### retrieval-core refinement
+Envy should be understood as a mechanism-level object, not merely as a descriptive label. The category should be treated as a dynamic pattern rather than a rigid package. Appraisal, learning, bodily state, social context, expectations, and available actions can alter its expression. Intensity, duration, recurrence, recovery, and consequences are therefore part of understanding the phenomenon, not secondary details.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Envy is intensified when the comparison target is similar, relevant, and attainable enough to make the difference psychologically meaningful. It can therefore contain information about personal goals as well as threat to self-evaluation. The same comparison can motivate improvement or produce resentment depending on appraisal and available action. Envy is not established simply by observing that one person lacks what another has; emotional relevance and comparison are required.
@@ -2647,6 +2794,9 @@ Jealousy can be triggered by actual threats, ambiguous cues, imagined possibilit
 Jealousy differs from envy because envy is primarily a comparison over another person's advantage, whereas jealousy involves threatened possession or relationship exclusivity. The two can coexist.
 
 
+
+### retrieval-core refinement
+Jealousy should be understood as a mechanism-level object, not merely as a descriptive label. The category should be treated as a dynamic pattern rather than a rigid package. Appraisal, learning, bodily state, social context, expectations, and available actions can alter its expression. Intensity, duration, recurrence, recovery, and consequences are therefore part of understanding the phenomenon, not secondary details.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Jealousy is structurally relational. It depends on a valued connection, a perceived threat, and a competing claim or person. Ambiguity can intensify the process because uncertain evidence leaves room for competing interpretations. Jealousy can therefore be generated by imagination as well as actual events. The emotion is informative about perceived threat, but it is not evidence that betrayal or loss has occurred.
@@ -2700,6 +2850,9 @@ Gratitude can be directed toward people, groups, circumstances, institutions, or
 Feeling grateful does not require that the benefit be objectively large. Perceived value, intention, relationship, and comparison standards shape the response.
 
 
+
+### retrieval-core refinement
+Gratitude should be understood as a mechanism-level object, not merely as a descriptive label. The category should be treated as a dynamic pattern rather than a rigid package. Appraisal, learning, bodily state, social context, expectations, and available actions can alter its expression. Intensity, duration, recurrence, recovery, and consequences are therefore part of understanding the phenomenon, not secondary details.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Gratitude involves appraisal of benefit and appreciation of its source or significance. The same objective benefit can produce different gratitude depending on perceived intention, relationship, need, and expectations. Gratitude can support reciprocity and relationship maintenance, but social pressure can also make expressions of gratitude performative. Feeling grateful and expressing gratitude are therefore separate components.
@@ -2753,6 +2906,9 @@ Hope can support persistence, planning, and coping, but unrealistic hope can als
 Hope can coexist with fear, grief, or uncertainty. Emotional states are not mutually exclusive categories.
 
 
+
+### retrieval-core refinement
+Hope should be understood as a mechanism-level object, not merely as a descriptive label. The category should be treated as a dynamic pattern rather than a rigid package. Appraisal, learning, bodily state, social context, expectations, and available actions can alter its expression. Intensity, duration, recurrence, recovery, and consequences are therefore part of understanding the phenomenon, not secondary details.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Hope is future-oriented and often persists precisely because the desired outcome is uncertain. It can support planning and sustained engagement when paired with credible pathways. Hope without realistic appraisal can become detached from evidence, but uncertainty alone does not make hope irrational. Its psychological function is partly to keep a valued possibility behaviorally and emotionally available.
@@ -2806,6 +2962,9 @@ Anxiety can increase vigilance and preparation. Moderate anticipatory anxiety ma
 Anxiety as an emotion must be distinguished from anxiety disorders. A clinical diagnosis requires a broader pattern of symptoms and impairment; ordinary anxiety is part of normal human functioning.
 
 
+
+### retrieval-core refinement
+Anxiety as emotional experience should be understood as a mechanism-level object, not merely as a descriptive label. The category should be treated as a dynamic pattern rather than a rigid package. Appraisal, learning, bodily state, social context, expectations, and available actions can alter its expression. Intensity, duration, recurrence, recovery, and consequences are therefore part of understanding the phenomenon, not secondary details.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Anxiety is especially sensitive to uncertainty because the threat is often not fully specified. This can promote broad monitoring and preparation, but it can also consume attention when possible threats proliferate without clear resolution. The distinction from fear is therefore one of prototypical structure rather than an absolute biological boundary. Anxiety can be a normal emotion even when uncomfortable; clinical significance depends on persistence, disproportion, and impairment.
@@ -2859,6 +3018,9 @@ The relationship is therefore not accurately described as “emotion versus reas
 This Topic is a relationship node rather than a third owner. The chapter does not re-own general cognition, reasoning, or decision-making.
 
 
+
+### retrieval-core refinement
+Emotion and cognition should be understood as a mechanism-level object, not merely as a descriptive label. The relationship is best represented as reciprocal and conditional. Affect can influence the partner system while the partner system can alter emotional generation, interpretation, regulation, or expression. The evidence should specify direction, timing, task, population, and measurement rather than treating the relationship as a universal effect.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 The relationship between emotion and cognition is reciprocal at multiple levels. Emotion can change which information is selected, how ambiguous evidence is interpreted, and which outcomes receive weight. Cognitive representations can generate, intensify, attenuate, or reinterpret emotion. This makes the old idea of two separate systems—emotion on one side and reason on the other—too simple. The scientifically useful question is which cognitive operation interacts with which affective component under which conditions.
@@ -2912,6 +3074,9 @@ Remembering can itself trigger emotion. A memory of loss can evoke sadness even 
 This relationship is complex enough that “emotion improves memory” is an inadequate generalization. Effects depend on arousal, task, material, timing, attention, and the type of memory being assessed.
 
 
+
+### retrieval-core refinement
+Emotion and memory should be understood as a mechanism-level object, not merely as a descriptive label. The relationship is best represented as reciprocal and conditional. Affect can influence the partner system while the partner system can alter emotional generation, interpretation, regulation, or expression. The evidence should specify direction, timing, task, population, and measurement rather than treating the relationship as a universal effect.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Emotion can alter encoding and retrieval by changing attention, salience, consolidation conditions, and current state. Yet emotional memories can be vivid without being complete or accurate. Remembering an emotional event also reconstructs it, and the act of remembering can reactivate affect. The relationship is therefore bidirectional and dynamic. Claims about “emotional memory” should specify the memory process involved.
@@ -2965,6 +3130,9 @@ These effects depend on task demands and individual differences. Emotional salie
 This relationship should not duplicate the general attention system. Its purpose is to explain how affective significance interacts with selection.
 
 
+
+### retrieval-core refinement
+Emotion and attention should be understood as a mechanism-level object, not merely as a descriptive label. The relationship is best represented as reciprocal and conditional. Affect can influence the partner system while the partner system can alter emotional generation, interpretation, regulation, or expression. The evidence should specify direction, timing, task, population, and measurement rather than treating the relationship as a universal effect.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Emotionally salient information can receive priority in attention, but capture is not guaranteed. Current goals, task demands, attentional control, and stimulus competition all matter. Attention can also regulate emotion by changing which information remains active. This bidirectionality means that emotional attention should not be described as a fixed reflex that always overrides goals.
@@ -3018,6 +3186,9 @@ The effects are highly context-dependent. Anger, fear, excitement, and sadness c
 The relationship is not a license to explain every decision as emotional. Decision-making also depends on knowledge, probabilities, goals, incentives, and cognitive processes.
 
 
+
+### retrieval-core refinement
+Emotion and decision-making should be understood as a mechanism-level object, not merely as a descriptive label. The relationship is best represented as reciprocal and conditional. Affect can influence the partner system while the partner system can alter emotional generation, interpretation, regulation, or expression. The evidence should specify direction, timing, task, population, and measurement rather than treating the relationship as a universal effect.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Emotion contributes to decision-making through valuation, risk perception, urgency, and anticipated outcomes. It can provide useful information about preference and significance while also producing biases under some conditions. Anticipated regret or relief can shape future choices even when the person is not currently feeling those emotions. Decision quality therefore cannot be evaluated simply by asking whether emotion was involved; human choice normally involves affective as well as cognitive information.
@@ -3071,6 +3242,9 @@ The relationship is bidirectional. A valued goal can make success emotionally re
 This distinction is important because the chapter should not re-own the motivational system already established in Chapter 1.12.
 
 
+
+### retrieval-core refinement
+Emotion and motivation should be understood as a mechanism-level object, not merely as a descriptive label. The relationship is best represented as reciprocal and conditional. Affect can influence the partner system while the partner system can alter emotional generation, interpretation, regulation, or expression. The evidence should specify direction, timing, task, population, and measurement rather than treating the relationship as a universal effect.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Emotion and motivation are coupled because emotional significance changes priority and motivational goals shape what becomes emotionally important. Yet neither is reducible to the other. A goal can remain important during low affect, and an emotion can arise without producing sustained goal pursuit. The relationship is strongest when emotion changes the attractiveness or urgency of actions while motivation determines which outcomes matter.
@@ -3124,6 +3298,9 @@ The same emotion can therefore lead to different actions. Fear can produce avoid
 This relationship also explains why emotional regulation can change behavior without eliminating the underlying feeling.
 
 
+
+### retrieval-core refinement
+Emotion and action should be understood as a mechanism-level object, not merely as a descriptive label. The relationship is best represented as reciprocal and conditional. Affect can influence the partner system while the partner system can alter emotional generation, interpretation, regulation, or expression. The evidence should specify direction, timing, task, population, and measurement rather than treating the relationship as a universal effect.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Emotion can bias action selection without determining behavior. The final behavior depends on opportunity, skills, social rules, competing goals, and control. This explains why people sometimes feel a strong impulse but behave differently. It also explains why emotional regulation can be evaluated by changes in action even when subjective feeling remains. The emotion–action relation is therefore a pathway, not a command.
@@ -3177,6 +3354,9 @@ Social judgment is not determined by emotion alone. Knowledge, norms, stereotype
 This relationship is especially sensitive to attribution. The same emotional state may produce different judgments depending on whether it is attributed to the person being evaluated, to the observer's own circumstances, or to an unrelated source.
 
 
+
+### retrieval-core refinement
+Emotion and social judgment should be understood as a mechanism-level object, not merely as a descriptive label. The relationship is best represented as reciprocal and conditional. Affect can influence the partner system while the partner system can alter emotional generation, interpretation, regulation, or expression. The evidence should specify direction, timing, task, population, and measurement rather than treating the relationship as a universal effect.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Social judgments can incorporate emotional information from both the evaluator and the person being evaluated. Anger may alter perceived responsibility; fear may increase threat sensitivity; observed sadness may influence judgments of need. But emotional influence is filtered through attribution and context. If an observer recognizes that their anger comes from an unrelated frustration, they may discount it. Emotional states therefore bias judgment without necessarily replacing other evidence.
@@ -3230,6 +3410,9 @@ Claims about emotional intelligence must specify the model and measurement metho
 Emotional intelligence should not be interpreted as proof that a person always manages emotion well, nor as a guarantee of social success. It is a family of psychological models whose scientific status depends on the operational definition.
 
 
+
+### retrieval-core refinement
+Emotional intelligence should be understood as a mechanism-level object, not merely as a descriptive label. The relationship is best represented as reciprocal and conditional. Affect can influence the partner system while the partner system can alter emotional generation, interpretation, regulation, or expression. The evidence should specify direction, timing, task, population, and measurement rather than treating the relationship as a universal effect.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Emotional intelligence must be unpacked before it can be evaluated. Ability models ask whether people can solve emotion-related information problems; trait models ask about perceived emotional characteristics; mixed models combine emotion with broader competencies. These are not interchangeable. Predictive validity also depends on what outcome is being predicted and whether overlapping personality or cognitive variables are controlled. The construct should therefore never be treated as a single universal score of emotional quality.
@@ -3283,6 +3466,9 @@ Individual differences are often dimensional rather than categorical. Someone ma
 Individual differences also do not imply fixed destiny. Emotional patterns can change with learning, environment, development, and intentional regulation. At the same time, biological and developmental constraints can make some patterns more persistent than others.
 
 
+
+### retrieval-core refinement
+Individual differences in emotion should be understood as a mechanism-level object, not merely as a descriptive label. The relationship is best represented as reciprocal and conditional. Affect can influence the partner system while the partner system can alter emotional generation, interpretation, regulation, or expression. The evidence should specify direction, timing, task, population, and measurement rather than treating the relationship as a universal effect.
 ### Integrated mechanism, boundary, and retrieval deepening
 
 Individual differences in emotion are multidimensional. Reactivity, baseline affect, recovery speed, awareness, differentiation, expression, and regulation can vary independently. Genetic, developmental, learning, personality, social, cultural, and situational factors can all contribute. A broad label such as “highly emotional” therefore has little scientific value unless the dimension and context are specified. Stability and plasticity coexist: a person may show recurring tendencies while still changing across development and circumstances.
