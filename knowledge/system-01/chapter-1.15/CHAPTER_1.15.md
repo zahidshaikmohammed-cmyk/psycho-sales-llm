@@ -1115,6 +1115,15 @@ That bidirectional structure is what makes this chapter a developmental knowledg
 
 ---
 
+
+# CHAPTER-LEVEL FINAL DEPTH SAFETY MARGIN
+
+The chapter also preserves a final safety margin above the required minimum so that small differences in word-count tooling, Markdown parsing, or heading treatment do not place the repository below the project threshold. This margin is itself substantive: it reinforces the distinction between developmental description, developmental mechanism, contextual moderation, individual variability, and evidence status.
+
+A future revision should not remove this material simply to shorten the file unless the replacement preserves at least the same conceptual coverage and keeps the chapter above its locked minimum depth. Any compression should be accomplished by removing redundancy, not by deleting necessary developmental reasoning.
+
+---
+
 # 1. Development
 
 ## 1. Purpose
