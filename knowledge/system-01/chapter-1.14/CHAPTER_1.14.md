@@ -18,44 +18,34 @@ Personality provides the canonical psychological account of organized patterns o
 
 ## 2. Definition
 
-**Personality** is organized patterns of thought, feeling, motivation, and behavior. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Personality is the organized patterning of psychological characteristics, including relatively enduring tendencies and processes that shape how a person typically thinks, feels, wants, and behaves across contexts.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Personality concerns organized patterns of thought, feeling, motivation, and behavior. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Personality** is the organization of enduring tendencies, transient states, processes, and context-sensitive expression. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Personality requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Personality requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Personality, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Personality must be interpreted across time scales. Momentary variation, repeated behavior, rank-order continuity, and developmental change answer different questions. A single observation is therefore insufficient evidence for a construct defined as a tendency or trajectory.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Personality should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Personality explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Personality should not be used as a catch-all label for personality or self. Its defining phenomenon is **the organization of enduring tendencies, transient states, processes, and context-sensitive expression**. A related construct may influence, accompany, measure, or be influenced by Personality without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Personality may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Trait summaries describe regularities, while process accounts explain how those regularities arise in particular contexts. A complete personality account therefore needs both enduring individual differences and the mechanisms that translate them into situation-specific thoughts, feelings, goals, and behavior.
-
-The retrieval distinction is that Personality should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses organized patterns of thought, feeling, motivation, and behavior as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -64,7 +54,7 @@ This Topic belongs in Chapter 1.14 because it addresses organized patterns of th
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Personality defined in this object.
+Personality is the organized patterning of psychological characteristics, including relatively enduring tendencies and processes that shape how a person typically thinks, feels, wants, and behaves across contexts.
 
 ### Defers
 
@@ -88,44 +78,34 @@ Personality trait provides the canonical psychological account of relatively end
 
 ## 2. Definition
 
-**Personality trait** is relatively enduring dimension of individual variation. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**A personality trait is a relatively enduring dimension of individual variation that describes a tendency to think, feel, or behave in characteristic ways across relevant situations.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Personality trait concerns relatively enduring dimension of individual variation. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Personality trait** is cross-situational regularity and individual differences in characteristic tendencies. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Personality trait requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Personality trait requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Personality trait, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Personality trait must be interpreted across time scales. Momentary variation, repeated behavior, rank-order continuity, and developmental change answer different questions. A single observation is therefore insufficient evidence for a construct defined as a tendency or trajectory.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Personality trait should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Personality trait explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Personality trait should not be used as a catch-all label for personality or self. Its defining phenomenon is **cross-situational regularity and individual differences in characteristic tendencies**. A related construct may influence, accompany, measure, or be influenced by Personality trait without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Personality trait may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-A trait is a tendency, not a rule that predicts every act. Its expression depends on the situations encountered and other characteristics of the person. Trait evidence is strongest when characteristic patterns recur across relevant observations rather than when one behavior is used to label someone.
-
-The retrieval distinction is that Personality trait should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses relatively enduring dimension of individual variation as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -134,7 +114,7 @@ This Topic belongs in Chapter 1.14 because it addresses relatively enduring dime
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Personality trait defined in this object.
+A personality trait is a relatively enduring dimension of individual variation that describes a tendency to think, feel, or behave in characteristic ways across relevant situations.
 
 ### Defers
 
@@ -158,44 +138,34 @@ Trait theory provides the canonical psychological account of approaches explaini
 
 ## 2. Definition
 
-**Trait theory** is approaches explaining personality through enduring dimensions. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Trait theory explains personality primarily in terms of measurable, relatively enduring dimensions on which people differ and that can be used to describe and compare individuals.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Trait theory concerns approaches explaining personality through enduring dimensions. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Trait theory** is the descriptive organization of personality into measurable dimensions. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Trait theory requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Trait theory requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Trait theory, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Trait theory must be interpreted across time scales. Momentary variation, repeated behavior, rank-order continuity, and developmental change answer different questions. A single observation is therefore insufficient evidence for a construct defined as a tendency or trajectory.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Trait theory should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Trait theory explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Trait theory should not be used as a catch-all label for personality or self. Its defining phenomenon is **the descriptive organization of personality into measurable dimensions**. A related construct may influence, accompany, measure, or be influenced by Trait theory without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Trait theory may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Trait theories differ in the dimensions they propose, their hierarchical organization, and the mechanisms they assume connect traits to behavior. Descriptive usefulness and causal completeness are separate questions; a trait model can summarize reliable variation without explaining every process that produced it.
-
-The retrieval distinction is that Trait theory should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses approaches explaining personality through enduring dimensions as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -204,7 +174,7 @@ This Topic belongs in Chapter 1.14 because it addresses approaches explaining pe
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Trait theory defined in this object.
+Trait theory explains personality primarily in terms of measurable, relatively enduring dimensions on which people differ and that can be used to describe and compare individuals.
 
 ### Defers
 
@@ -228,44 +198,34 @@ Personality state provides the canonical psychological account of time-limited c
 
 ## 2. Definition
 
-**Personality state** is time-limited configuration of personality-relevant states. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**A personality state is a relatively temporary configuration of thoughts, feelings, motives, and behavior that reflects the person's current condition rather than only their enduring characteristics.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Personality state concerns time-limited configuration of personality-relevant states. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Personality state** is temporary configurations that vary within the same person across occasions. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Personality state requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Personality state requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Personality state, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Personality state must be interpreted across time scales. Momentary variation, repeated behavior, rank-order continuity, and developmental change answer different questions. A single observation is therefore insufficient evidence for a construct defined as a tendency or trajectory.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Personality state should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Personality state explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Personality state should not be used as a catch-all label for personality or self. Its defining phenomenon is **temporary configurations that vary within the same person across occasions**. A related construct may influence, accompany, measure, or be influenced by Personality state without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Personality state may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-States reveal how personality is expressed moment by moment. They can be shaped by goals, social cues, stress, opportunities, and internal conditions. Repeated state observations can therefore explain how enduring characteristics become visible without treating state variation as mere measurement noise.
-
-The retrieval distinction is that Personality state should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses time-limited configuration of personality-relevant states as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -274,7 +234,7 @@ This Topic belongs in Chapter 1.14 because it addresses time-limited configurati
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Personality state defined in this object.
+A personality state is a relatively temporary configuration of thoughts, feelings, motives, and behavior that reflects the person's current condition rather than only their enduring characteristics.
 
 ### Defers
 
@@ -298,44 +258,34 @@ Personality process provides the canonical psychological account of dynamic mech
 
 ## 2. Definition
 
-**Personality process** is dynamic mechanisms linking person characteristics and situations. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**A personality process is a dynamic psychological operation through which person characteristics, perceptions, motives, emotions, and situations interact to produce moment-to-moment behavior and experience.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Personality process concerns dynamic mechanisms linking person characteristics and situations. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Personality process** is dynamic sequences linking person characteristics, perception, motivation, emotion, regulation, and action. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Personality process requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Personality process requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Personality process, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Personality process must be interpreted across time scales. Momentary variation, repeated behavior, rank-order continuity, and developmental change answer different questions. A single observation is therefore insufficient evidence for a construct defined as a tendency or trajectory.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Personality process should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Personality process explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Personality process should not be used as a catch-all label for personality or self. Its defining phenomenon is **dynamic sequences linking person characteristics, perception, motivation, emotion, regulation, and action**. A related construct may influence, accompany, measure, or be influenced by Personality process without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Personality process may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Process explanations ask what happens between person characteristics and observable behavior. Interpretation, goal activation, emotion, self-regulation, and feedback can mediate expression. This level is especially important when the same trait produces different behavior across contexts.
-
-The retrieval distinction is that Personality process should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses dynamic mechanisms linking person characteristics and situations as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -344,7 +294,7 @@ This Topic belongs in Chapter 1.14 because it addresses dynamic mechanisms linki
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Personality process defined in this object.
+A personality process is a dynamic psychological operation through which person characteristics, perceptions, motives, emotions, and situations interact to produce moment-to-moment behavior and experience.
 
 ### Defers
 
@@ -368,44 +318,34 @@ Trait activation provides the canonical psychological account of situational act
 
 ## 2. Definition
 
-**Trait activation** is situational activation of trait-relevant tendencies. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Trait activation is the process by which situational cues make a personality trait more relevant and increase the likelihood that its characteristic tendencies will be expressed.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Trait activation concerns situational activation of trait-relevant tendencies. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Trait activation** is situational cues that make particular trait tendencies relevant to behavior. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Trait activation requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Trait activation requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Trait activation, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Trait activation must be interpreted across time scales. Momentary variation, repeated behavior, rank-order continuity, and developmental change answer different questions. A single observation is therefore insufficient evidence for a construct defined as a tendency or trajectory.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Trait activation should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Trait activation explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Trait activation should not be used as a catch-all label for personality or self. Its defining phenomenon is **situational cues that make particular trait tendencies relevant to behavior**. A related construct may influence, accompany, measure, or be influenced by Trait activation without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Trait activation may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Possessing a trait is not equivalent to expressing it at every moment. Situational cues make particular trait-relevant concerns salient, increasing the probability that a characteristic pattern will appear. Strong explanations specify which cues activate which tendencies.
-
-The retrieval distinction is that Trait activation should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses situational activation of trait-relevant tendencies as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -414,7 +354,7 @@ This Topic belongs in Chapter 1.14 because it addresses situational activation o
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Trait activation defined in this object.
+Trait activation is the process by which situational cues make a personality trait more relevant and increase the likelihood that its characteristic tendencies will be expressed.
 
 ### Defers
 
@@ -438,44 +378,34 @@ Personality stability provides the canonical psychological account of continuity
 
 ## 2. Definition
 
-**Personality stability** is continuity of personality characteristics across time. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Personality stability is the degree to which individual differences or characteristic patterns remain similar across time, occasions, or developmental periods.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Personality stability concerns continuity of personality characteristics across time. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Personality stability** is rank-order continuity, mean-level stability, and other distinct forms of temporal consistency. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Personality stability requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Personality stability requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Personality stability, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Personality stability must be interpreted across time scales. Momentary variation, repeated behavior, rank-order continuity, and developmental change answer different questions. A single observation is therefore insufficient evidence for a construct defined as a tendency or trajectory.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Personality stability should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Personality stability explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Personality stability should not be used as a catch-all label for personality or self. Its defining phenomenon is **rank-order continuity, mean-level stability, and other distinct forms of temporal consistency**. A related construct may influence, accompany, measure, or be influenced by Personality stability without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Personality stability may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Stability has multiple meanings, including rank-order, mean-level, structural, and pattern continuity. These forms can diverge: people may retain relative ordering while the average level of a characteristic changes across development.
-
-The retrieval distinction is that Personality stability should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses continuity of personality characteristics across time as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -484,7 +414,7 @@ This Topic belongs in Chapter 1.14 because it addresses continuity of personalit
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Personality stability defined in this object.
+Personality stability is the degree to which individual differences or characteristic patterns remain similar across time, occasions, or developmental periods.
 
 ### Defers
 
@@ -508,44 +438,34 @@ Personality change provides the canonical psychological account of systematic ch
 
 ## 2. Definition
 
-**Personality change** is systematic change in personality characteristics. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Personality change is systematic alteration in the level, organization, expression, or meaning of personality characteristics across time.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Personality change concerns systematic change in personality characteristics. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Personality change** is systematic within-person shifts rather than random fluctuation or measurement noise. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Personality change requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Personality change requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Personality change, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Personality change must be interpreted across time scales. Momentary variation, repeated behavior, rank-order continuity, and developmental change answer different questions. A single observation is therefore insufficient evidence for a construct defined as a tendency or trajectory.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Personality change should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Personality change explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Personality change should not be used as a catch-all label for personality or self. Its defining phenomenon is **systematic within-person shifts rather than random fluctuation or measurement noise**. A related construct may influence, accompany, measure, or be influenced by Personality change without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Personality change may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Change can reflect maturation, repeated experience, roles, relationships, deliberate effort, or environmental shifts. A changed score is not automatically a transformed personality construct; reliable longitudinal measurement and appropriate comparisons are needed.
-
-The retrieval distinction is that Personality change should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses systematic change in personality characteristics as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -554,7 +474,7 @@ This Topic belongs in Chapter 1.14 because it addresses systematic change in per
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Personality change defined in this object.
+Personality change is systematic alteration in the level, organization, expression, or meaning of personality characteristics across time.
 
 ### Defers
 
@@ -578,44 +498,34 @@ Personality development provides the canonical psychological account of lifespan
 
 ## 2. Definition
 
-**Personality development** is lifespan emergence, organization, stability, and change of personality. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Personality development is the emergence, consolidation, differentiation, or transformation of personality characteristics across the life course.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Personality development concerns lifespan emergence, organization, stability, and change of personality. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Personality development** is the emergence and transformation of personality through maturation, learning, roles, relationships, and environments. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Personality development requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Personality development requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Personality development, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Personality development must be interpreted across time scales. Momentary variation, repeated behavior, rank-order continuity, and developmental change answer different questions. A single observation is therefore insufficient evidence for a construct defined as a tendency or trajectory.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Personality development should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Personality development explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Personality development should not be used as a catch-all label for personality or self. Its defining phenomenon is **the emergence and transformation of personality through maturation, learning, roles, relationships, and environments**. A related construct may influence, accompany, measure, or be influenced by Personality development without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Personality development may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Development includes emergence, differentiation, consolidation, reorganization, and changing expression. Biological maturation and social experience can interact, so developmental explanations should avoid treating personality as either purely inherited or purely learned.
-
-The retrieval distinction is that Personality development should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses lifespan emergence, organization, stability, and change of personality as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -624,7 +534,7 @@ This Topic belongs in Chapter 1.14 because it addresses lifespan emergence, orga
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Personality development defined in this object.
+Personality development is the emergence, consolidation, differentiation, or transformation of personality characteristics across the life course.
 
 ### Defers
 
@@ -648,44 +558,34 @@ Person–situation debate provides the canonical psychological account of how pe
 
 ## 2. Definition
 
-**Person–situation debate** is how person characteristics and situations jointly relate to behavior. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**The person–situation debate concerns the relative explanatory roles of enduring person characteristics and situational conditions in producing behavior.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Person–situation debate concerns how person characteristics and situations jointly relate to behavior. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Person–situation debate** is the relative contributions of enduring person characteristics and situational conditions. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Person–situation debate requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Person–situation debate requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Person–situation debate, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Person–situation debate must be interpreted across time scales. Momentary variation, repeated behavior, rank-order continuity, and developmental change answer different questions. A single observation is therefore insufficient evidence for a construct defined as a tendency or trajectory.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Person–situation debate should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Person–situation debate explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Person–situation debate should not be used as a catch-all label for personality or self. Its defining phenomenon is **the relative contributions of enduring person characteristics and situational conditions**. A related construct may influence, accompany, measure, or be influenced by Person–situation debate without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Person–situation debate may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-The apparent trait-versus-situation opposition is incomplete. Person characteristics influence which situations people enter and how they interpret them, while situations elicit and constrain behavior. The psychologically meaningful unit is often the person-in-context pattern.
-
-The retrieval distinction is that Person–situation debate should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses how person characteristics and situations jointly relate to behavior as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -694,7 +594,7 @@ This Topic belongs in Chapter 1.14 because it addresses how person characteristi
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Person–situation debate defined in this object.
+The person–situation debate concerns the relative explanatory roles of enduring person characteristics and situational conditions in producing behavior.
 
 ### Defers
 
@@ -718,44 +618,34 @@ Interactionist personality model provides the canonical psychological account of
 
 ## 2. Definition
 
-**Interactionist personality model** is behavior as a product of person–situation interaction. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**An interactionist personality model explains behavior as arising from the joint influence of person characteristics and situational conditions rather than from either source alone.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Interactionist personality model concerns behavior as a product of person–situation interaction. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Interactionist personality model** is joint and reciprocal effects of person characteristics and situational features. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Interactionist personality model requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Interactionist personality model requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Interactionist personality model, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Interactionist personality model must be interpreted across time scales. Momentary variation, repeated behavior, rank-order continuity, and developmental change answer different questions. A single observation is therefore insufficient evidence for a construct defined as a tendency or trajectory.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Interactionist personality model should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Interactionist personality model explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Interactionist personality model should not be used as a catch-all label for personality or self. Its defining phenomenon is **joint and reciprocal effects of person characteristics and situational features**. A related construct may influence, accompany, measure, or be influenced by Interactionist personality model without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Interactionist personality model may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Interactionism predicts that person variables and situational variables can jointly determine behavior. A cue can affect people differently because they interpret it differently, while a trait can be expressed differently because the environment changes.
-
-The retrieval distinction is that Interactionist personality model should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses behavior as a product of person–situation interaction as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -764,7 +654,7 @@ This Topic belongs in Chapter 1.14 because it addresses behavior as a product of
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Interactionist personality model defined in this object.
+An interactionist personality model explains behavior as arising from the joint influence of person characteristics and situational conditions rather than from either source alone.
 
 ### Defers
 
@@ -788,44 +678,34 @@ Psychodynamic perspective provides the canonical psychological account of uncons
 
 ## 2. Definition
 
-**Psychodynamic perspective** is unconscious processes, conflict, development, relationships, and motivation. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**The psychodynamic perspective explains personality through interacting conscious and nonconscious processes, motivational conflict, developmental history, relationships, and internal representations.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Psychodynamic perspective concerns unconscious processes, conflict, development, relationships, and motivation. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Psychodynamic perspective** is nonconscious processes, conflict, developmental history, internal representations, and relationships. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Psychodynamic perspective requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Psychodynamic perspective requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Psychodynamic perspective, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+As a perspective, Psychodynamic perspective supplies a way of organizing explanation rather than a guarantee that every associated claim is true. Its historical influence, conceptual value, empirical support, and limitations must be evaluated separately.
 
 ### Evidence Status
 
-A theoretical perspective is an explanatory framework, not automatically an established fact. Its claims should be judged by assumptions, predictions, empirical support, limitations, and whether later evidence preserves or revises parts of the framework. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Psychodynamic perspective should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Psychodynamic perspective explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Psychodynamic perspective should not be used as a catch-all label for personality or self. Its defining phenomenon is **nonconscious processes, conflict, developmental history, internal representations, and relationships**. A related construct may influence, accompany, measure, or be influenced by Psychodynamic perspective without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Psychodynamic perspective may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Psychodynamic approaches emphasize processes that may not be fully conscious, including conflict, developmental history, internalized relationships, and defensive organization. Historical status does not establish every psychoanalytic claim; mechanisms must be evaluated separately.
-
-The retrieval distinction is that Psychodynamic perspective should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses unconscious processes, conflict, development, relationships, and motivation as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -834,7 +714,7 @@ This Topic belongs in Chapter 1.14 because it addresses unconscious processes, c
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Psychodynamic perspective defined in this object.
+The psychodynamic perspective explains personality through interacting conscious and nonconscious processes, motivational conflict, developmental history, relationships, and internal representations.
 
 ### Defers
 
@@ -858,44 +738,34 @@ Behavioral perspective provides the canonical psychological account of learned b
 
 ## 2. Definition
 
-**Behavioral perspective** is learned behavior and environmental contingencies. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**The behavioral perspective explains personality-relevant behavior through learning histories, environmental contingencies, reinforcement, punishment, and other processes that shape observable action.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Behavioral perspective concerns learned behavior and environmental contingencies. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Behavioral perspective** is learning histories and environmental contingencies. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Behavioral perspective requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Behavioral perspective requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Behavioral perspective, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+As a perspective, Behavioral perspective supplies a way of organizing explanation rather than a guarantee that every associated claim is true. Its historical influence, conceptual value, empirical support, and limitations must be evaluated separately.
 
 ### Evidence Status
 
-A theoretical perspective is an explanatory framework, not automatically an established fact. Its claims should be judged by assumptions, predictions, empirical support, limitations, and whether later evidence preserves or revises parts of the framework. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Behavioral perspective should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Behavioral perspective explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Behavioral perspective should not be used as a catch-all label for personality or self. Its defining phenomenon is **learning histories and environmental contingencies**. A related construct may influence, accompany, measure, or be influenced by Behavioral perspective without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Behavioral perspective may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Behavioral approaches explain stable patterns partly through learning histories and environmental contingencies. Personality-relevant behavior can emerge from reinforcement without requiring an internal trait as the sole explanation, while modern learning accounts can complement trait descriptions.
-
-The retrieval distinction is that Behavioral perspective should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses learned behavior and environmental contingencies as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -904,7 +774,7 @@ This Topic belongs in Chapter 1.14 because it addresses learned behavior and env
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Behavioral perspective defined in this object.
+The behavioral perspective explains personality-relevant behavior through learning histories, environmental contingencies, reinforcement, punishment, and other processes that shape observable action.
 
 ### Defers
 
@@ -928,44 +798,34 @@ Social-cognitive perspective provides the canonical psychological account of rec
 
 ## 2. Definition
 
-**Social-cognitive perspective** is reciprocal relations among person factors, cognition, behavior, and social environment. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**The social-cognitive perspective explains personality through reciprocal relations among cognition, affect, behavior, social environments, observational learning, expectancies, goals, and self-regulatory processes.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Social-cognitive perspective concerns reciprocal relations among person factors, cognition, behavior, and social environment. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Social-cognitive perspective** is reciprocal person–behavior–environment relations, expectancies, goals, observational learning, and self-regulation. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Social-cognitive perspective requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Social-cognitive perspective requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Social-cognitive perspective, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+As a perspective, Social-cognitive perspective supplies a way of organizing explanation rather than a guarantee that every associated claim is true. Its historical influence, conceptual value, empirical support, and limitations must be evaluated separately.
 
 ### Evidence Status
 
-A theoretical perspective is an explanatory framework, not automatically an established fact. Its claims should be judged by assumptions, predictions, empirical support, limitations, and whether later evidence preserves or revises parts of the framework. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Social-cognitive perspective should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Social-cognitive perspective explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Social-cognitive perspective should not be used as a catch-all label for personality or self. Its defining phenomenon is **reciprocal person–behavior–environment relations, expectancies, goals, observational learning, and self-regulation**. A related construct may influence, accompany, measure, or be influenced by Social-cognitive perspective without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Social-cognitive perspective may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Social-cognitive approaches emphasize reciprocal influence among person factors, cognition, behavior, and environments. Beliefs, expectations, goals, and perceived capabilities affect situation selection and interpretation, helping explain both consistency and variability.
-
-The retrieval distinction is that Social-cognitive perspective should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses reciprocal relations among person factors, cognition, behavior, and social environment as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -974,7 +834,7 @@ This Topic belongs in Chapter 1.14 because it addresses reciprocal relations amo
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Social-cognitive perspective defined in this object.
+The social-cognitive perspective explains personality through reciprocal relations among cognition, affect, behavior, social environments, observational learning, expectancies, goals, and self-regulatory processes.
 
 ### Defers
 
@@ -998,44 +858,34 @@ Humanistic perspective provides the canonical psychological account of subjectiv
 
 ## 2. Definition
 
-**Humanistic perspective** is subjective experience, agency, meaning, and growth. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**The humanistic perspective emphasizes subjective experience, agency, meaning, values, personal growth, and the person's active interpretation of life circumstances.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Humanistic perspective concerns subjective experience, agency, meaning, and growth. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Humanistic perspective** is subjective experience, meaning, agency, authenticity, values, and growth. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Humanistic perspective requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Humanistic perspective requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Humanistic perspective, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+As a perspective, Humanistic perspective supplies a way of organizing explanation rather than a guarantee that every associated claim is true. Its historical influence, conceptual value, empirical support, and limitations must be evaluated separately.
 
 ### Evidence Status
 
-A theoretical perspective is an explanatory framework, not automatically an established fact. Its claims should be judged by assumptions, predictions, empirical support, limitations, and whether later evidence preserves or revises parts of the framework. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Humanistic perspective should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Humanistic perspective explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Humanistic perspective should not be used as a catch-all label for personality or self. Its defining phenomenon is **subjective experience, meaning, agency, authenticity, values, and growth**. A related construct may influence, accompany, measure, or be influenced by Humanistic perspective without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Humanistic perspective may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Humanistic approaches emphasize subjective meaning, agency, authenticity, and growth. These ideas become scientific claims only when they are operationalized and tested; philosophical language should not be treated as empirical evidence by itself.
-
-The retrieval distinction is that Humanistic perspective should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses subjective experience, agency, meaning, and growth as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -1044,7 +894,7 @@ This Topic belongs in Chapter 1.14 because it addresses subjective experience, a
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Humanistic perspective defined in this object.
+The humanistic perspective emphasizes subjective experience, agency, meaning, values, personal growth, and the person's active interpretation of life circumstances.
 
 ### Defers
 
@@ -1068,44 +918,34 @@ Biological perspective provides the canonical psychological account of genetic, 
 
 ## 2. Definition
 
-**Biological perspective** is genetic, neural, physiological, and temperamental contributions. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**The biological perspective explains personality in relation to genetic variation, brain and physiological systems, temperament, and biological processes that constrain or contribute to individual differences.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Biological perspective concerns genetic, neural, physiological, and temperamental contributions. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Biological perspective** is genetic, neural, physiological, and temperamental contributions. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Biological perspective requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Biological perspective requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Biological perspective, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+As a perspective, Biological perspective supplies a way of organizing explanation rather than a guarantee that every associated claim is true. Its historical influence, conceptual value, empirical support, and limitations must be evaluated separately.
 
 ### Evidence Status
 
-A theoretical perspective is an explanatory framework, not automatically an established fact. Its claims should be judged by assumptions, predictions, empirical support, limitations, and whether later evidence preserves or revises parts of the framework. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Biological perspective should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Biological perspective explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Biological perspective should not be used as a catch-all label for personality or self. Its defining phenomenon is **genetic, neural, physiological, and temperamental contributions**. A related construct may influence, accompany, measure, or be influenced by Biological perspective without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Biological perspective may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Biological approaches identify temperamental, neural, hormonal, and genetic contributions. Biological influence does not imply genetic determinism because development remains shaped by environments and interactions among biological and experiential processes.
-
-The retrieval distinction is that Biological perspective should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses genetic, neural, physiological, and temperamental contributions as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -1114,7 +954,7 @@ This Topic belongs in Chapter 1.14 because it addresses genetic, neural, physiol
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Biological perspective defined in this object.
+The biological perspective explains personality in relation to genetic variation, brain and physiological systems, temperament, and biological processes that constrain or contribute to individual differences.
 
 ### Defers
 
@@ -1138,44 +978,34 @@ Evolutionary perspective provides the canonical psychological account of possibl
 
 ## 2. Definition
 
-**Evolutionary perspective** is possible evolved functions and recurrent adaptive problems. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**The evolutionary perspective interprets personality characteristics partly in terms of inherited adaptations, trade-offs, ecological pressures, and mechanisms shaped by natural selection.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Evolutionary perspective concerns possible evolved functions and recurrent adaptive problems. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Evolutionary perspective** is functional hypotheses about adaptation, trade-offs, and ecological pressures. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Evolutionary perspective requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Evolutionary perspective requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Evolutionary perspective, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+As a perspective, Evolutionary perspective supplies a way of organizing explanation rather than a guarantee that every associated claim is true. Its historical influence, conceptual value, empirical support, and limitations must be evaluated separately.
 
 ### Evidence Status
 
-A theoretical perspective is an explanatory framework, not automatically an established fact. Its claims should be judged by assumptions, predictions, empirical support, limitations, and whether later evidence preserves or revises parts of the framework. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Evolutionary perspective should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Evolutionary perspective explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Evolutionary perspective should not be used as a catch-all label for personality or self. Its defining phenomenon is **functional hypotheses about adaptation, trade-offs, and ecological pressures**. A related construct may influence, accompany, measure, or be influenced by Evolutionary perspective without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Evolutionary perspective may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Evolutionary explanations propose functions shaped by selection but do not prove that a trait is currently adaptive. Ultimate evolutionary explanations must be distinguished from proximate psychological mechanisms and tested against competing explanations.
-
-The retrieval distinction is that Evolutionary perspective should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses possible evolved functions and recurrent adaptive problems as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -1184,7 +1014,7 @@ This Topic belongs in Chapter 1.14 because it addresses possible evolved functio
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Evolutionary perspective defined in this object.
+The evolutionary perspective interprets personality characteristics partly in terms of inherited adaptations, trade-offs, ecological pressures, and mechanisms shaped by natural selection.
 
 ### Defers
 
@@ -1208,44 +1038,34 @@ Trait perspective provides the canonical psychological account of measurable dim
 
 ## 2. Definition
 
-**Trait perspective** is measurable dimensions of relatively consistent individual differences. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**The trait perspective treats personality primarily as a structured system of relatively enduring individual differences that can be described, measured, and compared.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Trait perspective concerns measurable dimensions of relatively consistent individual differences. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Trait perspective** is personality as a structured space of measurable individual differences. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Trait perspective requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Trait perspective requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Trait perspective, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+As a perspective, Trait perspective supplies a way of organizing explanation rather than a guarantee that every associated claim is true. Its historical influence, conceptual value, empirical support, and limitations must be evaluated separately.
 
 ### Evidence Status
 
-A theoretical perspective is an explanatory framework, not automatically an established fact. Its claims should be judged by assumptions, predictions, empirical support, limitations, and whether later evidence preserves or revises parts of the framework. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Trait perspective should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Trait perspective explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Trait perspective should not be used as a catch-all label for personality or self. Its defining phenomenon is **personality as a structured space of measurable individual differences**. A related construct may influence, accompany, measure, or be influenced by Trait perspective without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Trait perspective may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Trait approaches provide a common language for describing stable individual variation. Their predictive and measurement strengths do not make them complete causal theories; process models can explain when and how trait patterns are expressed.
-
-The retrieval distinction is that Trait perspective should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses measurable dimensions of relatively consistent individual differences as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -1254,7 +1074,7 @@ This Topic belongs in Chapter 1.14 because it addresses measurable dimensions of
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Trait perspective defined in this object.
+The trait perspective treats personality primarily as a structured system of relatively enduring individual differences that can be described, measured, and compared.
 
 ### Defers
 
@@ -1278,44 +1098,34 @@ Cultural perspective provides the canonical psychological account of cultural sy
 
 ## 2. Definition
 
-**Cultural perspective** is cultural systems, norms, practices, and meanings shaping personality. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**The cultural perspective examines how cultural systems, norms, practices, meanings, and social environments shape the development, expression, interpretation, and consequences of personality.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Cultural perspective concerns cultural systems, norms, practices, and meanings shaping personality. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Cultural perspective** is culture's role in personality development, expression, meaning, and measurement. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Cultural perspective requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Cultural perspective requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Cultural perspective, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+As a perspective, Cultural perspective supplies a way of organizing explanation rather than a guarantee that every associated claim is true. Its historical influence, conceptual value, empirical support, and limitations must be evaluated separately.
 
 ### Evidence Status
 
-A theoretical perspective is an explanatory framework, not automatically an established fact. Its claims should be judged by assumptions, predictions, empirical support, limitations, and whether later evidence preserves or revises parts of the framework. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Cultural perspective should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Cultural perspective explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Cultural perspective should not be used as a catch-all label for personality or self. Its defining phenomenon is **culture's role in personality development, expression, meaning, and measurement**. A related construct may influence, accompany, measure, or be influenced by Cultural perspective without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Cultural perspective may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Culture shapes personality through norms, practices, institutions, roles, language, and developmental environments. Cross-cultural differences can reflect both genuine variation and differences in measurement meaning, making conceptual and measurement equivalence important.
-
-The retrieval distinction is that Cultural perspective should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses cultural systems, norms, practices, and meanings shaping personality as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -1324,7 +1134,7 @@ This Topic belongs in Chapter 1.14 because it addresses cultural systems, norms,
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Cultural perspective defined in this object.
+The cultural perspective examines how cultural systems, norms, practices, meanings, and social environments shape the development, expression, interpretation, and consequences of personality.
 
 ### Defers
 
@@ -1348,44 +1158,34 @@ Big Five model provides the canonical psychological account of hierarchical orga
 
 ## 2. Definition
 
-**Big Five model** is hierarchical organization of broad personality variation into five dimensions. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**The Big Five model represents broad personality variation using five major dimensions commonly labeled openness, conscientiousness, extraversion, agreeableness, and neuroticism.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Big Five model concerns hierarchical organization of broad personality variation into five dimensions. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Big Five model** is five broad dimensions organizing covariation among personality characteristics. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Big Five model requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Big Five model requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Big Five model, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Variation in Big Five model can be stable without being invariant. Development, learning, role demands, biological conditions, and situational cues can alter its level or expression without erasing the underlying individual difference.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Big Five model should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Big Five model explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Big Five model should not be used as a catch-all label for personality or self. Its defining phenomenon is **five broad dimensions organizing covariation among personality characteristics**. A related construct may influence, accompany, measure, or be influenced by Big Five model without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Big Five model may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-The Big Five is primarily a broad dimensional model, not a complete theory of personality. Its dimensions summarize covariance among narrower characteristics. It organizes variation effectively but does not by itself specify all developmental, biological, or situational mechanisms.
-
-The retrieval distinction is that Big Five model should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses hierarchical organization of broad personality variation into five dimensions as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -1394,7 +1194,7 @@ This Topic belongs in Chapter 1.14 because it addresses hierarchical organizatio
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Big Five model defined in this object.
+The Big Five model represents broad personality variation using five major dimensions commonly labeled openness, conscientiousness, extraversion, agreeableness, and neuroticism.
 
 ### Defers
 
@@ -1418,44 +1218,34 @@ Openness provides the canonical psychological account of curiosity, imagination,
 
 ## 2. Definition
 
-**Openness** is curiosity, imagination, novelty, and receptivity to experience. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Openness is a broad personality dimension involving differences in receptivity to novelty, imagination, intellectual exploration, aesthetic experience, and complexity.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Openness concerns curiosity, imagination, novelty, and receptivity to experience. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Openness** is novelty, imagination, intellectual exploration, aesthetic experience, and complexity. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Openness requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Openness requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Openness, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Variation in Openness can be stable without being invariant. Development, learning, role demands, biological conditions, and situational cues can alter its level or expression without erasing the underlying individual difference.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Openness should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Openness explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Openness should not be used as a catch-all label for personality or self. Its defining phenomenon is **novelty, imagination, intellectual exploration, aesthetic experience, and complexity**. A related construct may influence, accompany, measure, or be influenced by Openness without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Openness may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Openness includes related tendencies such as intellectual exploration, imagination, aesthetic engagement, and receptivity to novelty. These components need not move identically. High or low levels are not inherently better; relevance depends on context and criterion.
-
-The retrieval distinction is that Openness should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses curiosity, imagination, novelty, and receptivity to experience as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -1464,7 +1254,7 @@ This Topic belongs in Chapter 1.14 because it addresses curiosity, imagination, 
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Openness defined in this object.
+Openness is a broad personality dimension involving differences in receptivity to novelty, imagination, intellectual exploration, aesthetic experience, and complexity.
 
 ### Defers
 
@@ -1488,44 +1278,34 @@ Conscientiousness provides the canonical psychological account of organization, 
 
 ## 2. Definition
 
-**Conscientiousness** is organization, persistence, responsibility, and goal-directed regulation. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Conscientiousness is a broad personality dimension involving differences in organization, responsibility, persistence, self-discipline, and goal-directed regulation.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Conscientiousness concerns organization, persistence, responsibility, and goal-directed regulation. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Conscientiousness** is organization, persistence, responsibility, self-discipline, and goal regulation. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Conscientiousness requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Conscientiousness requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Conscientiousness, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Variation in Conscientiousness can be stable without being invariant. Development, learning, role demands, biological conditions, and situational cues can alter its level or expression without erasing the underlying individual difference.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Conscientiousness should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Conscientiousness explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Conscientiousness should not be used as a catch-all label for personality or self. Its defining phenomenon is **organization, persistence, responsibility, self-discipline, and goal regulation**. A related construct may influence, accompany, measure, or be influenced by Conscientiousness without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Conscientiousness may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Conscientiousness includes organization, persistence, responsibility, and goal-directed regulation. Its behavioral expression depends on task structure and incentives. A score does not guarantee performance because ability, opportunity, and situational demands also matter.
-
-The retrieval distinction is that Conscientiousness should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses organization, persistence, responsibility, and goal-directed regulation as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -1534,7 +1314,7 @@ This Topic belongs in Chapter 1.14 because it addresses organization, persistenc
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Conscientiousness defined in this object.
+Conscientiousness is a broad personality dimension involving differences in organization, responsibility, persistence, self-discipline, and goal-directed regulation.
 
 ### Defers
 
@@ -1558,44 +1338,34 @@ Extraversion provides the canonical psychological account of sociability, assert
 
 ## 2. Definition
 
-**Extraversion** is sociability, assertiveness, activity, and positive engagement. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Extraversion is a broad personality dimension involving differences in social engagement, assertiveness, activity, positive affect, and sensitivity to rewarding interpersonal stimulation.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Extraversion concerns sociability, assertiveness, activity, and positive engagement. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Extraversion** is social engagement, assertiveness, activity, positive affect, and reward sensitivity. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Extraversion requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Extraversion requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Extraversion, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Variation in Extraversion can be stable without being invariant. Development, learning, role demands, biological conditions, and situational cues can alter its level or expression without erasing the underlying individual difference.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Extraversion should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Extraversion explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Extraversion should not be used as a catch-all label for personality or self. Its defining phenomenon is **social engagement, assertiveness, activity, positive affect, and reward sensitivity**. A related construct may influence, accompany, measure, or be influenced by Extraversion without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Extraversion may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Extraversion is broader than talkativeness. Sociability, assertiveness, activity, and positive engagement can vary somewhat independently. Social behavior should therefore not be reduced to a single dimension or interpreted without considering context.
-
-The retrieval distinction is that Extraversion should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses sociability, assertiveness, activity, and positive engagement as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -1604,7 +1374,7 @@ This Topic belongs in Chapter 1.14 because it addresses sociability, assertivene
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Extraversion defined in this object.
+Extraversion is a broad personality dimension involving differences in social engagement, assertiveness, activity, positive affect, and sensitivity to rewarding interpersonal stimulation.
 
 ### Defers
 
@@ -1628,44 +1398,34 @@ Agreeableness provides the canonical psychological account of cooperation, warmt
 
 ## 2. Definition
 
-**Agreeableness** is cooperation, warmth, trust, and concern for others. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Agreeableness is a broad personality dimension involving differences in interpersonal cooperation, compassion, trust, politeness, and concern for others.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Agreeableness concerns cooperation, warmth, trust, and concern for others. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Agreeableness** is cooperation, compassion, trust, politeness, and concern for others. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Agreeableness requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Agreeableness requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Agreeableness, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Variation in Agreeableness can be stable without being invariant. Development, learning, role demands, biological conditions, and situational cues can alter its level or expression without erasing the underlying individual difference.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Agreeableness should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Agreeableness explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Agreeableness should not be used as a catch-all label for personality or self. Its defining phenomenon is **cooperation, compassion, trust, politeness, and concern for others**. A related construct may influence, accompany, measure, or be influenced by Agreeableness without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Agreeableness may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Agreeableness concerns interpersonal tendencies such as cooperation, trust, warmth, and concern for others. It does not mean universal compliance. Values, goals, and situations determine whether agreeable tendencies produce accommodation, cooperation, compassion, or principled disagreement.
-
-The retrieval distinction is that Agreeableness should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses cooperation, warmth, trust, and concern for others as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -1674,7 +1434,7 @@ This Topic belongs in Chapter 1.14 because it addresses cooperation, warmth, tru
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Agreeableness defined in this object.
+Agreeableness is a broad personality dimension involving differences in interpersonal cooperation, compassion, trust, politeness, and concern for others.
 
 ### Defers
 
@@ -1698,44 +1458,34 @@ Neuroticism provides the canonical psychological account of negative emotionalit
 
 ## 2. Definition
 
-**Neuroticism** is negative emotionality and sensitivity to distress or threat. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Neuroticism is a broad personality dimension involving differences in proneness to negative emotionality, emotional reactivity, and sensitivity to stress and threat.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Neuroticism concerns negative emotionality and sensitivity to distress or threat. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Neuroticism** is negative emotionality, stress sensitivity, reactivity, and threat sensitivity. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Neuroticism requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Neuroticism requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Neuroticism, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Variation in Neuroticism can be stable without being invariant. Development, learning, role demands, biological conditions, and situational cues can alter its level or expression without erasing the underlying individual difference.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Neuroticism should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Neuroticism explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Neuroticism should not be used as a catch-all label for personality or self. Its defining phenomenon is **negative emotionality, stress sensitivity, reactivity, and threat sensitivity**. A related construct may influence, accompany, measure, or be influenced by Neuroticism without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Neuroticism may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Neuroticism captures individual differences in negative emotionality and sensitivity to distress. It is not a mental disorder. Clinical significance requires an appropriate symptom pattern, persistence, impairment, and context.
-
-The retrieval distinction is that Neuroticism should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses negative emotionality and sensitivity to distress or threat as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -1744,7 +1494,7 @@ This Topic belongs in Chapter 1.14 because it addresses negative emotionality an
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Neuroticism defined in this object.
+Neuroticism is a broad personality dimension involving differences in proneness to negative emotionality, emotional reactivity, and sensitivity to stress and threat.
 
 ### Defers
 
@@ -1768,44 +1518,34 @@ Temperament provides the canonical psychological account of early-emerging patte
 
 ## 2. Definition
 
-**Temperament** is early-emerging patterns of emotional reactivity and regulation. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Temperament refers to relatively early-emerging and partly biologically influenced individual differences in emotional reactivity, activity, attention, and regulation.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Temperament concerns early-emerging patterns of emotional reactivity and regulation. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Temperament** is early-emerging reactivity and regulation with biological and developmental relevance. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Temperament requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Temperament requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Temperament, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Variation in Temperament can be stable without being invariant. Development, learning, role demands, biological conditions, and situational cues can alter its level or expression without erasing the underlying individual difference.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Temperament should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Temperament explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Temperament should not be used as a catch-all label for personality or self. Its defining phenomenon is **early-emerging reactivity and regulation with biological and developmental relevance**. A related construct may influence, accompany, measure, or be influenced by Temperament without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Temperament may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Temperament often refers to early-emerging patterns of reactivity and regulation with substantial biological influence. Developmental experience modifies expression, so temperament provides a foundation for variation without determining adult personality one-to-one.
-
-The retrieval distinction is that Temperament should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses early-emerging patterns of emotional reactivity and regulation as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -1814,7 +1554,7 @@ This Topic belongs in Chapter 1.14 because it addresses early-emerging patterns 
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Temperament defined in this object.
+Temperament refers to relatively early-emerging and partly biologically influenced individual differences in emotional reactivity, activity, attention, and regulation.
 
 ### Defers
 
@@ -1838,44 +1578,34 @@ Character provides the canonical psychological account of moral, motivational, o
 
 ## 2. Definition
 
-**Character** is moral, motivational, or valued patterns of functioning. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Character refers to patterns of values, moral commitments, habits, and self-regulatory qualities that are expressed in how a person chooses and evaluates conduct.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Character concerns moral, motivational, or valued patterns of functioning. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Character** is values, moral commitments, habits, and self-regulatory qualities expressed through conduct. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Character requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Character requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Character, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Variation in Character can be stable without being invariant. Development, learning, role demands, biological conditions, and situational cues can alter its level or expression without erasing the underlying individual difference.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Character should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Character explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Character should not be used as a catch-all label for personality or self. Its defining phenomenon is **values, moral commitments, habits, and self-regulatory qualities expressed through conduct**. A related construct may influence, accompany, measure, or be influenced by Character without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Character may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Character has multiple meanings across traditions. Some approaches emphasize moral functioning, others motivational or valued patterns. It should not silently be treated as identical to personality as a whole.
-
-The retrieval distinction is that Character should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses moral, motivational, or valued patterns of functioning as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -1884,7 +1614,7 @@ This Topic belongs in Chapter 1.14 because it addresses moral, motivational, or 
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Character defined in this object.
+Character refers to patterns of values, moral commitments, habits, and self-regulatory qualities that are expressed in how a person chooses and evaluates conduct.
 
 ### Defers
 
@@ -1908,44 +1638,34 @@ Agency provides the canonical psychological account of capacity and tendency to 
 
 ## 2. Definition
 
-**Agency** is capacity and tendency to initiate and regulate goal-directed action. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Agency is the capacity and tendency to experience oneself as an active source of action, choice, goal pursuit, and influence over one's circumstances.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Agency concerns capacity and tendency to initiate and regulate goal-directed action. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Agency** is intentional action, choice, goal pursuit, and perceived influence. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Agency requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Agency requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Agency, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Variation in Agency can be stable without being invariant. Development, learning, role demands, biological conditions, and situational cues can alter its level or expression without erasing the underlying individual difference.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Agency should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Agency explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Agency should not be used as a catch-all label for personality or self. Its defining phenomenon is **intentional action, choice, goal pursuit, and perceived influence**. A related construct may influence, accompany, measure, or be influenced by Agency without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Agency may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Agency concerns initiating and regulating action toward goals. Perceived agency and enacted control are distinct: a person can feel agentic while facing external constraints, and successful action can be limited despite strong intention.
-
-The retrieval distinction is that Agency should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses capacity and tendency to initiate and regulate goal-directed action as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -1954,7 +1674,7 @@ This Topic belongs in Chapter 1.14 because it addresses capacity and tendency to
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Agency defined in this object.
+Agency is the capacity and tendency to experience oneself as an active source of action, choice, goal pursuit, and influence over one's circumstances.
 
 ### Defers
 
@@ -1978,44 +1698,34 @@ Communion provides the canonical psychological account of orientation toward con
 
 ## 2. Definition
 
-**Communion** is orientation toward connection, belonging, cooperation, and relationships. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Communion is an orientation toward connection, belonging, care, cooperation, and maintaining meaningful relationships with other people.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Communion concerns orientation toward connection, belonging, cooperation, and relationships. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Communion** is belonging, connection, care, cooperation, and relational self-definition. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Communion requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Communion requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Communion, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Variation in Communion can be stable without being invariant. Development, learning, role demands, biological conditions, and situational cues can alter its level or expression without erasing the underlying individual difference.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Communion should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Communion explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Communion should not be used as a catch-all label for personality or self. Its defining phenomenon is **belonging, connection, care, cooperation, and relational self-definition**. A related construct may influence, accompany, measure, or be influenced by Communion without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Communion may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Communion organizes personality and self-definition around connection, belonging, care, and relationship. It overlaps with interpersonal constructs but is not synonymous with agreeableness or attachment because those concepts answer different explanatory questions.
-
-The retrieval distinction is that Communion should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses orientation toward connection, belonging, cooperation, and relationships as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2024,7 +1734,7 @@ This Topic belongs in Chapter 1.14 because it addresses orientation toward conne
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Communion defined in this object.
+Communion is an orientation toward connection, belonging, care, cooperation, and maintaining meaningful relationships with other people.
 
 ### Defers
 
@@ -2048,44 +1758,34 @@ Self provides the canonical psychological account of organized psychological rep
 
 ## 2. Definition
 
-**Self** is organized psychological representation and experience of being a particular individual. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**The self is the person's organized psychological representation and experience of being a distinct individual, including self-related knowledge, evaluation, continuity, and agency.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Self concerns organized psychological representation and experience of being a particular individual. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Self** is self-representation, self-experience, continuity, evaluation, and agency. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Self requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Self requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Self, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+The accessibility of Self can change with goals, threats, feedback, social comparison, memory, and context. Within-person variation therefore does not automatically contradict a stable self-related construct.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Self should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Self explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Self should not be used as a catch-all label for personality or self. Its defining phenomenon is **self-representation, self-experience, continuity, evaluation, and agency**. A related construct may influence, accompany, measure, or be influenced by Self without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Self may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-The self is not a single object stored in the mind. It includes representations, evaluations, memories, goals, perspectives, and ongoing processes through which a person experiences and interprets themselves. Different self-aspects can become salient in different contexts.
-
-The retrieval distinction is that Self should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses organized psychological representation and experience of being a particular individual as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2094,7 +1794,7 @@ This Topic belongs in Chapter 1.14 because it addresses organized psychological 
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Self defined in this object.
+The self is the person's organized psychological representation and experience of being a distinct individual, including self-related knowledge, evaluation, continuity, and agency.
 
 ### Defers
 
@@ -2118,44 +1818,34 @@ Self-concept provides the canonical psychological account of beliefs and represe
 
 ## 2. Definition
 
-**Self-concept** is beliefs and representations about who one is. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Self-concept is the organized set of beliefs, descriptions, and representations a person holds about who they are and what characteristics they possess.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Self-concept concerns beliefs and representations about who one is. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Self-concept** is the content and organization of beliefs about one's own characteristics. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Self-concept requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Self-concept requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Self-concept, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+The accessibility of Self-concept can change with goals, threats, feedback, social comparison, memory, and context. Within-person variation therefore does not automatically contradict a stable self-related construct.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Self-concept should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Self-concept explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Self-concept should not be used as a catch-all label for personality or self. Its defining phenomenon is **the content and organization of beliefs about one's own characteristics**. A related construct may influence, accompany, measure, or be influenced by Self-concept without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Self-concept may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Self-concept is multidimensional and can include role, trait, social, physical, moral, and autobiographical information. Its contents are not equally accessible at all times; current goals and contexts can make particular self-aspects more salient.
-
-The retrieval distinction is that Self-concept should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses beliefs and representations about who one is as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2164,7 +1854,7 @@ This Topic belongs in Chapter 1.14 because it addresses beliefs and representati
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Self-concept defined in this object.
+Self-concept is the organized set of beliefs, descriptions, and representations a person holds about who they are and what characteristics they possess.
 
 ### Defers
 
@@ -2188,44 +1878,34 @@ Self-schema provides the canonical psychological account of self-related knowled
 
 ## 2. Definition
 
-**Self-schema** is self-related knowledge structures influencing attention and interpretation. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**A self-schema is a cognitive structure that organizes and guides processing of information relevant to a particular aspect of the self.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Self-schema concerns self-related knowledge structures influencing attention and interpretation. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Self-schema** is selective organization of self-relevant information. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Self-schema requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Self-schema requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Self-schema, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+The accessibility of Self-schema can change with goals, threats, feedback, social comparison, memory, and context. Within-person variation therefore does not automatically contradict a stable self-related construct.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Self-schema should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Self-schema explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Self-schema should not be used as a catch-all label for personality or self. Its defining phenomenon is **selective organization of self-relevant information**. A related construct may influence, accompany, measure, or be influenced by Self-schema without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Self-schema may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Self-schemas organize knowledge about particular self-domains and can influence attention, interpretation, and memory. Their effects are domain-specific rather than globally active. A schema is a knowledge structure, not necessarily a consciously articulated story.
-
-The retrieval distinction is that Self-schema should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses self-related knowledge structures influencing attention and interpretation as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2234,7 +1914,7 @@ This Topic belongs in Chapter 1.14 because it addresses self-related knowledge s
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Self-schema defined in this object.
+A self-schema is a cognitive structure that organizes and guides processing of information relevant to a particular aspect of the self.
 
 ### Defers
 
@@ -2258,44 +1938,34 @@ Self-awareness provides the canonical psychological account of awareness of one'
 
 ## 2. Definition
 
-**Self-awareness** is awareness of one's own states, characteristics, actions, or self-related processes. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Self-awareness is the capacity to attend to and represent aspects of oneself as an object of psychological experience, including one's thoughts, feelings, characteristics, and behavior.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Self-awareness concerns awareness of one's own states, characteristics, actions, or self-related processes. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Self-awareness** is attention to oneself as an object of experience and representation. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Self-awareness requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Self-awareness requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Self-awareness, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+The accessibility of Self-awareness can change with goals, threats, feedback, social comparison, memory, and context. Within-person variation therefore does not automatically contradict a stable self-related construct.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Self-awareness should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Self-awareness explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Self-awareness should not be used as a catch-all label for personality or self. Its defining phenomenon is **attention to oneself as an object of experience and representation**. A related construct may influence, accompany, measure, or be influenced by Self-awareness without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Self-awareness may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Self-awareness can involve attention to internal states, behavior, appearance, characteristics, or the self as an object of reflection. It is not consciousness in general, and awareness of a state does not guarantee accurate understanding of its cause.
-
-The retrieval distinction is that Self-awareness should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses awareness of one's own states, characteristics, actions, or self-related processes as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2304,7 +1974,7 @@ This Topic belongs in Chapter 1.14 because it addresses awareness of one's own s
 
 ### Owns
 
-Self-awareness as a self-related psychological construct: awareness of one's own states, characteristics, actions, and self-related processes.
+Self-awareness is the capacity to attend to and represent aspects of oneself as an object of psychological experience, including one's thoughts, feelings, characteristics, and behavior.
 
 ### Defers
 
@@ -2328,44 +1998,34 @@ Self-knowledge provides the canonical psychological account of knowledge about o
 
 ## 2. Definition
 
-**Self-knowledge** is knowledge about one's own characteristics, patterns, motives, preferences, and history. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Self-knowledge is a person's knowledge or beliefs about their own characteristics, preferences, abilities, motives, values, and typical patterns.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Self-knowledge concerns knowledge about one's own characteristics, patterns, motives, preferences, and history. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Self-knowledge** is knowledge and beliefs about one's own characteristics and functioning. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Self-knowledge requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Self-knowledge requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Self-knowledge, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+The accessibility of Self-knowledge can change with goals, threats, feedback, social comparison, memory, and context. Within-person variation therefore does not automatically contradict a stable self-related construct.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Self-knowledge should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Self-knowledge explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Self-knowledge should not be used as a catch-all label for personality or self. Its defining phenomenon is **knowledge and beliefs about one's own characteristics and functioning**. A related construct may influence, accompany, measure, or be influenced by Self-knowledge without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Self-knowledge may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Self-knowledge draws on introspection, memory, behavior, feedback, and social comparison. People can know some aspects of themselves well and misjudge others, so confidence in a self-belief is not equivalent to its accuracy.
-
-The retrieval distinction is that Self-knowledge should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses knowledge about one's own characteristics, patterns, motives, preferences, and history as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2374,7 +2034,7 @@ This Topic belongs in Chapter 1.14 because it addresses knowledge about one's ow
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Self-knowledge defined in this object.
+Self-knowledge is a person's knowledge or beliefs about their own characteristics, preferences, abilities, motives, values, and typical patterns.
 
 ### Defers
 
@@ -2398,44 +2058,34 @@ Self-esteem provides the canonical psychological account of evaluation of one's 
 
 ## 2. Definition
 
-**Self-esteem** is evaluation of one's own worth or value. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Self-esteem is a person's evaluative appraisal of their own worth or value.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Self-esteem concerns evaluation of one's own worth or value. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Self-esteem** is evaluation of one's own worth. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Self-esteem requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Self-esteem requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Self-esteem, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+The accessibility of Self-esteem can change with goals, threats, feedback, social comparison, memory, and context. Within-person variation therefore does not automatically contradict a stable self-related construct.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Self-esteem should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Self-esteem explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Self-esteem should not be used as a catch-all label for personality or self. Its defining phenomenon is **evaluation of one's own worth**. A related construct may influence, accompany, measure, or be influenced by Self-esteem without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Self-esteem may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Self-esteem can differ in level, stability, domain specificity, and contingency. High self-esteem is not automatically healthy and low self-esteem is not identical to a disorder. Interpretation depends on how evaluation responds to success, failure, and social feedback.
-
-The retrieval distinction is that Self-esteem should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses evaluation of one's own worth or value as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2444,7 +2094,7 @@ This Topic belongs in Chapter 1.14 because it addresses evaluation of one's own 
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Self-esteem defined in this object.
+Self-esteem is a person's evaluative appraisal of their own worth or value.
 
 ### Defers
 
@@ -2468,44 +2118,34 @@ Self-worth provides the canonical psychological account of broader sense of havi
 
 ## 2. Definition
 
-**Self-worth** is broader sense of having value as a person. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Self-worth is the perceived fundamental value or worth of the self, which can be experienced as relatively global or contingent on particular domains.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Self-worth concerns broader sense of having value as a person. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Self-worth** is perceived value of the self and its sources of security or contingency. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Self-worth requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Self-worth requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Self-worth, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+The accessibility of Self-worth can change with goals, threats, feedback, social comparison, memory, and context. Within-person variation therefore does not automatically contradict a stable self-related construct.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Self-worth should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Self-worth explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Self-worth should not be used as a catch-all label for personality or self. Its defining phenomenon is **perceived value of the self and its sources of security or contingency**. A related construct may influence, accompany, measure, or be influenced by Self-worth without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Self-worth may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Self-worth concerns broader personal value rather than one performance or characteristic. A person can experience failure without concluding that they lack value, while narrowly contingent worth can make ordinary setbacks more globally threatening.
-
-The retrieval distinction is that Self-worth should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses broader sense of having value as a person as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2514,7 +2154,7 @@ This Topic belongs in Chapter 1.14 because it addresses broader sense of having 
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Self-worth defined in this object.
+Self-worth is the perceived fundamental value or worth of the self, which can be experienced as relatively global or contingent on particular domains.
 
 ### Defers
 
@@ -2538,44 +2178,34 @@ Self-consistency provides the canonical psychological account of coherence or co
 
 ## 2. Definition
 
-**Self-consistency** is coherence or continuity among self-relevant beliefs and experiences. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Self-consistency is the tendency to preserve coherence between self-relevant beliefs, experiences, and behavior or to reduce perceived inconsistency among them.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Self-consistency concerns coherence or continuity among self-relevant beliefs and experiences. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Self-consistency** is coherence among self-beliefs, experiences, and behavior. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Self-consistency requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Self-consistency requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Self-consistency, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+The accessibility of Self-consistency can change with goals, threats, feedback, social comparison, memory, and context. Within-person variation therefore does not automatically contradict a stable self-related construct.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Self-consistency should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Self-consistency explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Self-consistency should not be used as a catch-all label for personality or self. Its defining phenomenon is **coherence among self-beliefs, experiences, and behavior**. A related construct may influence, accompany, measure, or be influenced by Self-consistency without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Self-consistency may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Self-consistency concerns coherence among self-representations. People can tolerate some inconsistency and revise self-beliefs when evidence accumulates. A desire for consistency should not be treated as an absolute force that overrides all new information.
-
-The retrieval distinction is that Self-consistency should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses coherence or continuity among self-relevant beliefs and experiences as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2584,7 +2214,7 @@ This Topic belongs in Chapter 1.14 because it addresses coherence or continuity 
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Self-consistency defined in this object.
+Self-consistency is the tendency to preserve coherence between self-relevant beliefs, experiences, and behavior or to reduce perceived inconsistency among them.
 
 ### Defers
 
@@ -2608,44 +2238,34 @@ Self-discrepancy provides the canonical psychological account of perceived misma
 
 ## 2. Definition
 
-**Self-discrepancy** is perceived mismatch among different self-representations. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Self-discrepancy is a perceived mismatch between different self-representations, especially the actual, ideal, and ought selves.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Self-discrepancy concerns perceived mismatch among different self-representations. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Self-discrepancy** is mismatch among self-representations. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Self-discrepancy requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Self-discrepancy requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Self-discrepancy, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+The accessibility of Self-discrepancy can change with goals, threats, feedback, social comparison, memory, and context. Within-person variation therefore does not automatically contradict a stable self-related construct.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Self-discrepancy should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Self-discrepancy explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Self-discrepancy should not be used as a catch-all label for personality or self. Its defining phenomenon is **mismatch among self-representations**. A related construct may influence, accompany, measure, or be influenced by Self-discrepancy without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Self-discrepancy may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Different self-guides create different kinds of discrepancy, and their significance depends on importance, endorsement, attainability, and interpretation. A discrepancy is not itself a disorder or inevitable source of distress.
-
-The retrieval distinction is that Self-discrepancy should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses perceived mismatch among different self-representations as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2654,7 +2274,7 @@ This Topic belongs in Chapter 1.14 because it addresses perceived mismatch among
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Self-discrepancy defined in this object.
+Self-discrepancy is a perceived mismatch between different self-representations, especially the actual, ideal, and ought selves.
 
 ### Defers
 
@@ -2678,44 +2298,34 @@ Actual self provides the canonical psychological account of representation of ch
 
 ## 2. Definition
 
-**Actual self** is representation of characteristics believed to be currently possessed. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**The actual self is the person's representation of characteristics they believe they currently possess.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Actual self concerns representation of characteristics believed to be currently possessed. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Actual self** is current self-description and perceived present characteristics. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Actual self requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Actual self requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Actual self, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+The accessibility of Actual self can change with goals, threats, feedback, social comparison, memory, and context. Within-person variation therefore does not automatically contradict a stable self-related construct.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Actual self should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Actual self explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Actual self should not be used as a catch-all label for personality or self. Its defining phenomenon is **current self-description and perceived present characteristics**. A related construct may influence, accompany, measure, or be influenced by Actual self without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Actual self may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-The actual self represents characteristics believed to be currently possessed rather than an objective inventory of everything the person is. It can differ from behavioral or informant evidence and is psychologically important partly because of how its contents are evaluated.
-
-The retrieval distinction is that Actual self should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses representation of characteristics believed to be currently possessed as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2724,7 +2334,7 @@ This Topic belongs in Chapter 1.14 because it addresses representation of charac
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Actual self defined in this object.
+The actual self is the person's representation of characteristics they believe they currently possess.
 
 ### Defers
 
@@ -2748,44 +2358,34 @@ Ideal self provides the canonical psychological account of representation of cha
 
 ## 2. Definition
 
-**Ideal self** is representation of characteristics one would ideally like to possess. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**The ideal self is the person's representation of characteristics they would ideally like to possess.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Ideal self concerns representation of characteristics one would ideally like to possess. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Ideal self** is desired characteristics and aspirations. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Ideal self requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Ideal self requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Ideal self, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+The accessibility of Ideal self can change with goals, threats, feedback, social comparison, memory, and context. Within-person variation therefore does not automatically contradict a stable self-related construct.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Ideal self should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Ideal self explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Ideal self should not be used as a catch-all label for personality or self. Its defining phenomenon is **desired characteristics and aspirations**. A related construct may influence, accompany, measure, or be influenced by Ideal self without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Ideal self may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-The ideal self represents desired characteristics and can organize motivation and comparison. Ideals can support growth but can become rigid when treated as mandatory or unattainable. Effects depend on importance, attainability, and regulation.
-
-The retrieval distinction is that Ideal self should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses representation of characteristics one would ideally like to possess as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2794,7 +2394,7 @@ This Topic belongs in Chapter 1.14 because it addresses representation of charac
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Ideal self defined in this object.
+The ideal self is the person's representation of characteristics they would ideally like to possess.
 
 ### Defers
 
@@ -2818,44 +2418,34 @@ Ought self provides the canonical psychological account of representation of cha
 
 ## 2. Definition
 
-**Ought self** is representation of characteristics one believes one should possess. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**The ought self is the person's representation of characteristics they believe they should possess because of duties, standards, obligations, or expectations.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Ought self concerns representation of characteristics one believes one should possess. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Ought self** is standards linked to duties, obligations, or perceived expectations. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Ought self requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Ought self requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Ought self, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+The accessibility of Ought self can change with goals, threats, feedback, social comparison, memory, and context. Within-person variation therefore does not automatically contradict a stable self-related construct.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Ought self should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Ought self explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Ought self should not be used as a catch-all label for personality or self. Its defining phenomenon is **standards linked to duties, obligations, or perceived expectations**. A related construct may influence, accompany, measure, or be influenced by Ought self without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Ought self may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-The ought self represents characteristics perceived as obligations or expectations. Its motivational meaning differs from the ideal self even though they can overlap. Sources include internalized norms, roles, relationships, and social expectations.
-
-The retrieval distinction is that Ought self should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses representation of characteristics one believes one should possess as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2864,7 +2454,7 @@ This Topic belongs in Chapter 1.14 because it addresses representation of charac
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Ought self defined in this object.
+The ought self is the person's representation of characteristics they believe they should possess because of duties, standards, obligations, or expectations.
 
 ### Defers
 
@@ -2888,44 +2478,34 @@ Possible selves provides the canonical psychological account of representations 
 
 ## 2. Definition
 
-**Possible selves** is representations of what one might, could, or fears becoming. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Possible selves are representations of what a person might become, would like to become, or fears becoming in the future.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Possible selves concerns representations of what one might, could, or fears becoming. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Possible selves** is future-oriented self-representations that organize aspiration and avoidance. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Possible selves requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Possible selves requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Possible selves, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+The accessibility of Possible selves can change with goals, threats, feedback, social comparison, memory, and context. Within-person variation therefore does not automatically contradict a stable self-related construct.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Possible selves should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Possible selves explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Possible selves should not be used as a catch-all label for personality or self. Its defining phenomenon is **future-oriented self-representations that organize aspiration and avoidance**. A related construct may influence, accompany, measure, or be influenced by Possible selves without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Possible selves may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Possible selves represent potential futures, including hoped-for and feared identities. They can guide attention and motivation by making future outcomes psychologically concrete. Their effects depend on perceived plausibility, pathways, and emotional significance.
-
-The retrieval distinction is that Possible selves should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses representations of what one might, could, or fears becoming as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -2934,7 +2514,7 @@ This Topic belongs in Chapter 1.14 because it addresses representations of what 
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Possible selves defined in this object.
+Possible selves are representations of what a person might become, would like to become, or fears becoming in the future.
 
 ### Defers
 
@@ -2958,44 +2538,34 @@ Self-verification provides the canonical psychological account of seeking or int
 
 ## 2. Definition
 
-**Self-verification** is seeking or interpreting feedback that confirms important self-views. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Self-verification is the tendency to seek, interpret, and respond to social information in ways that confirm important existing self-views.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Self-verification concerns seeking or interpreting feedback that confirms important self-views. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Self-verification** is processes that preserve important existing self-views in social interaction. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Self-verification requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Self-verification requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Self-verification, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+The accessibility of Self-verification can change with goals, threats, feedback, social comparison, memory, and context. Within-person variation therefore does not automatically contradict a stable self-related construct.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Self-verification should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Self-verification explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Self-verification should not be used as a catch-all label for personality or self. Its defining phenomenon is **processes that preserve important existing self-views in social interaction**. A related construct may influence, accompany, measure, or be influenced by Self-verification without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Self-verification may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Self-verification involves seeking or interpreting feedback that confirms important self-views. It can lead people to accept confirming information even when unfavorable. The process is therefore not identical to accuracy seeking and can interact with self-enhancement.
-
-The retrieval distinction is that Self-verification should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses seeking or interpreting feedback that confirms important self-views as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -3004,7 +2574,7 @@ This Topic belongs in Chapter 1.14 because it addresses seeking or interpreting 
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Self-verification defined in this object.
+Self-verification is the tendency to seek, interpret, and respond to social information in ways that confirm important existing self-views.
 
 ### Defers
 
@@ -3028,44 +2598,34 @@ Self-enhancement provides the canonical psychological account of processes maint
 
 ## 2. Definition
 
-**Self-enhancement** is processes maintaining or increasing favorable self-views. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Self-enhancement is the tendency to maintain or increase favorable evaluations of the self, including through selective interpretation, comparison, or self-protective processes.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Self-enhancement concerns processes maintaining or increasing favorable self-views. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Self-enhancement** is processes that protect or increase favorable self-evaluation. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Self-enhancement requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Self-enhancement requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Self-enhancement, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+The accessibility of Self-enhancement can change with goals, threats, feedback, social comparison, memory, and context. Within-person variation therefore does not automatically contradict a stable self-related construct.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Self-enhancement should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Self-enhancement explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Self-enhancement should not be used as a catch-all label for personality or self. Its defining phenomenon is **processes that protect or increase favorable self-evaluation**. A related construct may influence, accompany, measure, or be influenced by Self-enhancement without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Self-enhancement may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Self-enhancement involves maintaining or increasing favorable self-views. It can support motivation in some contexts, but excessive distortion can interfere with accurate feedback. The balance between positive self-regard and calibration is context-dependent.
-
-The retrieval distinction is that Self-enhancement should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses processes maintaining or increasing favorable self-views as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -3074,7 +2634,7 @@ This Topic belongs in Chapter 1.14 because it addresses processes maintaining or
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Self-enhancement defined in this object.
+Self-enhancement is the tendency to maintain or increase favorable evaluations of the self, including through selective interpretation, comparison, or self-protective processes.
 
 ### Defers
 
@@ -3098,44 +2658,34 @@ Self-handicapping provides the canonical psychological account of creating or cl
 
 ## 2. Definition
 
-**Self-handicapping** is creating or claiming obstacles that protect self-evaluation from failure. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Self-handicapping is the creation or use of obstacles or excuses that can protect self-worth by providing an alternative explanation for possible poor performance.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Self-handicapping concerns creating or claiming obstacles that protect self-evaluation from failure. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Self-handicapping** is obstacles or excuses that protect self-worth from threatening performance interpretations. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Self-handicapping requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Self-handicapping requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Self-handicapping, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+The accessibility of Self-handicapping can change with goals, threats, feedback, social comparison, memory, and context. Within-person variation therefore does not automatically contradict a stable self-related construct.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Self-handicapping should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Self-handicapping explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Self-handicapping should not be used as a catch-all label for personality or self. Its defining phenomenon is **obstacles or excuses that protect self-worth from threatening performance interpretations**. A related construct may influence, accompany, measure, or be influenced by Self-handicapping without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Self-handicapping may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Self-handicapping protects self-evaluation by creating or claiming obstacles before performance is evaluated. It can reduce immediate threat but also impair performance or reinforce avoidance. Claimed and behavioral handicaps should be distinguished.
-
-The retrieval distinction is that Self-handicapping should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses creating or claiming obstacles that protect self-evaluation from failure as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -3144,7 +2694,7 @@ This Topic belongs in Chapter 1.14 because it addresses creating or claiming obs
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Self-handicapping defined in this object.
+Self-handicapping is the creation or use of obstacles or excuses that can protect self-worth by providing an alternative explanation for possible poor performance.
 
 ### Defers
 
@@ -3168,44 +2718,34 @@ Self-presentation provides the canonical psychological account of behavior aimed
 
 ## 2. Definition
 
-**Self-presentation** is behavior aimed at influencing how others perceive the self. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Self-presentation is the regulation of one's observable behavior or communicated information in order to influence how other people perceive oneself.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Self-presentation concerns behavior aimed at influencing how others perceive the self. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Self-presentation** is regulation of publicly observable information about oneself. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Self-presentation requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Self-presentation requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Self-presentation, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+The accessibility of Self-presentation can change with goals, threats, feedback, social comparison, memory, and context. Within-person variation therefore does not automatically contradict a stable self-related construct.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Self-presentation should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Self-presentation explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Self-presentation should not be used as a catch-all label for personality or self. Its defining phenomenon is **regulation of publicly observable information about oneself**. A related construct may influence, accompany, measure, or be influenced by Self-presentation without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Self-presentation may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Self-presentation is broader than deliberate deception. People select which aspects of themselves to communicate, and some presentations are sincere attempts to express identity or fit social expectations.
-
-The retrieval distinction is that Self-presentation should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses behavior aimed at influencing how others perceive the self as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -3214,7 +2754,7 @@ This Topic belongs in Chapter 1.14 because it addresses behavior aimed at influe
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Self-presentation defined in this object.
+Self-presentation is the regulation of one's observable behavior or communicated information in order to influence how other people perceive oneself.
 
 ### Defers
 
@@ -3238,44 +2778,34 @@ Impression management provides the canonical psychological account of strategic 
 
 ## 2. Definition
 
-**Impression management** is strategic regulation of information or behavior to shape impressions. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Impression management is the deliberate or strategic control of information and behavior intended to shape another person's impression.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Impression management concerns strategic regulation of information or behavior to shape impressions. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Impression management** is intentional influence over another person's impression. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Impression management requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Impression management requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Impression management, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+The accessibility of Impression management can change with goals, threats, feedback, social comparison, memory, and context. Within-person variation therefore does not automatically contradict a stable self-related construct.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Impression management should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Impression management explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Impression management should not be used as a catch-all label for personality or self. Its defining phenomenon is **intentional influence over another person's impression**. A related construct may influence, accompany, measure, or be influenced by Impression management without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Impression management may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Impression management regulates information or behavior to influence how others perceive the person. It can be deliberate or habitual. Strategic presentation does not prove that the presented identity is false.
-
-The retrieval distinction is that Impression management should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses strategic regulation of information or behavior to shape impressions as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -3284,7 +2814,7 @@ This Topic belongs in Chapter 1.14 because it addresses strategic regulation of 
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Impression management defined in this object.
+Impression management is the deliberate or strategic control of information and behavior intended to shape another person's impression.
 
 ### Defers
 
@@ -3308,44 +2838,34 @@ Self-monitoring provides the canonical psychological account of monitoring socia
 
 ## 2. Definition
 
-**Self-monitoring** is monitoring social cues and adjusting behavior to situational demands. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Self-monitoring is the tendency to attend to social cues and regulate one's self-presentation according to situational demands and interpersonal feedback.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Self-monitoring concerns monitoring social cues and adjusting behavior to situational demands. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Self-monitoring** is attention to social cues and regulation of self-presentation. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Self-monitoring requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Self-monitoring requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Self-monitoring, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+The accessibility of Self-monitoring can change with goals, threats, feedback, social comparison, memory, and context. Within-person variation therefore does not automatically contradict a stable self-related construct.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Self-monitoring should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Self-monitoring explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Self-monitoring should not be used as a catch-all label for personality or self. Its defining phenomenon is **attention to social cues and regulation of self-presentation**. A related construct may influence, accompany, measure, or be influenced by Self-monitoring without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Self-monitoring may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Self-monitoring concerns attention to social cues and adjustment of behavior. It differs from self-awareness because the defining issue is regulation of presentation in relation to social information.
-
-The retrieval distinction is that Self-monitoring should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses monitoring social cues and adjusting behavior to situational demands as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -3354,7 +2874,7 @@ This Topic belongs in Chapter 1.14 because it addresses monitoring social cues a
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Self-monitoring defined in this object.
+Self-monitoring is the tendency to attend to social cues and regulate one's self-presentation according to situational demands and interpersonal feedback.
 
 ### Defers
 
@@ -3378,44 +2898,34 @@ Personal identity provides the canonical psychological account of sense of being
 
 ## 2. Definition
 
-**Personal identity** is sense of being a continuous and distinctive individual across time. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Personal identity is the person's sense of being a particular, continuous individual with characteristics, commitments, memories, and life history that distinguish them from others.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Personal identity concerns sense of being a continuous and distinctive individual across time. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Personal identity** is continuity and distinctiveness of the individual across time and contexts. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Personal identity requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Personal identity requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Personal identity, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Personal identity is shaped by social context and by the person's history of interpretation and learning. Population-level regularities should not be converted into deterministic claims about a particular person.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Personal identity should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Personal identity explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Personal identity should not be used as a catch-all label for personality or self. Its defining phenomenon is **continuity and distinctiveness of the individual across time and contexts**. A related construct may influence, accompany, measure, or be influenced by Personal identity without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Personal identity may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Personal identity concerns continuity and distinctiveness across time. Memories, commitments, values, roles, and self-representations contribute to that continuity, which can change without requiring complete psychological discontinuity.
-
-The retrieval distinction is that Personal identity should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses sense of being a continuous and distinctive individual across time as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -3424,7 +2934,7 @@ This Topic belongs in Chapter 1.14 because it addresses sense of being a continu
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Personal identity defined in this object.
+Personal identity is the person's sense of being a particular, continuous individual with characteristics, commitments, memories, and life history that distinguish them from others.
 
 ### Defers
 
@@ -3448,44 +2958,34 @@ Identity structure provides the canonical psychological account of organization 
 
 ## 2. Definition
 
-**Identity structure** is organization and accessibility of identities composing self-definition. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Identity structure is the organization, differentiation, integration, and relative centrality of the identities and self-defining commitments a person holds.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Identity structure concerns organization and accessibility of identities composing self-definition. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Identity structure** is organization and integration of multiple identities and commitments. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Identity structure requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Identity structure requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Identity structure, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Identity structure is shaped by social context and by the person's history of interpretation and learning. Population-level regularities should not be converted into deterministic claims about a particular person.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Identity structure should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Identity structure explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Identity structure should not be used as a catch-all label for personality or self. Its defining phenomenon is **organization and integration of multiple identities and commitments**. A related construct may influence, accompany, measure, or be influenced by Identity structure without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Identity structure may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Identity structure concerns how multiple self-defining identities are organized, prioritized, and made accessible. Identities can overlap, conflict, or become more salient across settings, affecting transitions and integration.
-
-The retrieval distinction is that Identity structure should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses organization and accessibility of identities composing self-definition as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -3494,7 +2994,7 @@ This Topic belongs in Chapter 1.14 because it addresses organization and accessi
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Identity structure defined in this object.
+Identity structure is the organization, differentiation, integration, and relative centrality of the identities and self-defining commitments a person holds.
 
 ### Defers
 
@@ -3518,44 +3018,34 @@ Moral identity provides the canonical psychological account of centrality of mor
 
 ## 2. Definition
 
-**Moral identity** is centrality of moral qualities to self-definition. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Moral identity is the degree to which moral traits, values, roles, or commitments are incorporated into a person's sense of self.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Moral identity concerns centrality of moral qualities to self-definition. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Moral identity** is incorporation of moral characteristics and commitments into self-definition. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Moral identity requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Moral identity requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Moral identity, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Moral identity is shaped by social context and by the person's history of interpretation and learning. Population-level regularities should not be converted into deterministic claims about a particular person.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Moral identity should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Moral identity explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Moral identity should not be used as a catch-all label for personality or self. Its defining phenomenon is **incorporation of moral characteristics and commitments into self-definition**. A related construct may influence, accompany, measure, or be influenced by Moral identity without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Moral identity may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Moral identity concerns the centrality of moral qualities to self-definition. Centrality is not identical to moral behavior because action also depends on situations, judgment, motivation, and self-regulation.
-
-The retrieval distinction is that Moral identity should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses centrality of moral qualities to self-definition as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -3564,7 +3054,7 @@ This Topic belongs in Chapter 1.14 because it addresses centrality of moral qual
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Moral identity defined in this object.
+Moral identity is the degree to which moral traits, values, roles, or commitments are incorporated into a person's sense of self.
 
 ### Defers
 
@@ -3588,44 +3078,34 @@ Personal values provides the canonical psychological account of enduring beliefs
 
 ## 2. Definition
 
-**Personal values** is enduring beliefs about what is important, desirable, or worth pursuing. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Personal values are enduring beliefs about what is important, desirable, worthwhile, or preferable that guide evaluation and choice.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Personal values concerns enduring beliefs about what is important, desirable, or worth pursuing. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Personal values** is stable evaluative priorities organizing preference, judgment, and action. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Personal values requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Personal values requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Personal values, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Personal values is shaped by social context and by the person's history of interpretation and learning. Population-level regularities should not be converted into deterministic claims about a particular person.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Personal values should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Personal values explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Personal values should not be used as a catch-all label for personality or self. Its defining phenomenon is **stable evaluative priorities organizing preference, judgment, and action**. A related construct may influence, accompany, measure, or be influenced by Personal values without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Personal values may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Values are enduring standards of importance that organize priorities across situations. They differ from concrete goals because one value can guide many goals, and from traits because they concern what a person considers important or desirable.
-
-The retrieval distinction is that Personal values should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses enduring beliefs about what is important, desirable, or worth pursuing as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -3634,7 +3114,7 @@ This Topic belongs in Chapter 1.14 because it addresses enduring beliefs about w
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Personal values defined in this object.
+Personal values are enduring beliefs about what is important, desirable, worthwhile, or preferable that guide evaluation and choice.
 
 ### Defers
 
@@ -3658,44 +3138,34 @@ Locus of control provides the canonical psychological account of beliefs about w
 
 ## 2. Definition
 
-**Locus of control** is beliefs about whether outcomes depend mainly on one's actions or external forces. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Locus of control is a person's generalized expectation about whether important outcomes are primarily contingent on their own actions or on forces outside their control.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Locus of control concerns beliefs about whether outcomes depend mainly on one's actions or external forces. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Locus of control** is generalized expectations about personal control over outcomes. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Locus of control requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Locus of control requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Locus of control, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Locus of control is shaped by social context and by the person's history of interpretation and learning. Population-level regularities should not be converted into deterministic claims about a particular person.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Locus of control should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Locus of control explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Locus of control should not be used as a catch-all label for personality or self. Its defining phenomenon is **generalized expectations about personal control over outcomes**. A related construct may influence, accompany, measure, or be influenced by Locus of control without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Locus of control may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Locus of control concerns generalized beliefs about contingency between actions and outcomes. It should not be interpreted as a belief that every outcome is controllable; external constraints can be real and perceived control can be calibrated or distorted.
-
-The retrieval distinction is that Locus of control should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses beliefs about whether outcomes depend mainly on one's actions or external forces as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -3704,7 +3174,7 @@ This Topic belongs in Chapter 1.14 because it addresses beliefs about whether ou
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Locus of control defined in this object.
+Locus of control is a person's generalized expectation about whether important outcomes are primarily contingent on their own actions or on forces outside their control.
 
 ### Defers
 
@@ -3728,44 +3198,34 @@ Attributional style provides the canonical psychological account of characterist
 
 ## 2. Definition
 
-**Attributional style** is characteristic ways of explaining causes of events. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Attributional style is a person's characteristic tendency to explain causes of events along dimensions such as internal versus external, stable versus unstable, and global versus specific.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Attributional style concerns characteristic ways of explaining causes of events. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Attributional style** is habitual causal explanations and their implications. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Attributional style requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Attributional style requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Attributional style, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Attributional style is shaped by social context and by the person's history of interpretation and learning. Population-level regularities should not be converted into deterministic claims about a particular person.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Attributional style should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Attributional style explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Attributional style should not be used as a catch-all label for personality or self. Its defining phenomenon is **habitual causal explanations and their implications**. A related construct may influence, accompany, measure, or be influenced by Attributional style without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Attributional style may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Attributional style concerns characteristic ways of explaining causes, such as internal versus external, stable versus changeable, and broad versus specific causes. It is an explanatory tendency, not proof that the explanation is objectively correct.
-
-The retrieval distinction is that Attributional style should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses characteristic ways of explaining causes of events as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -3774,7 +3234,7 @@ This Topic belongs in Chapter 1.14 because it addresses characteristic ways of e
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Attributional style defined in this object.
+Attributional style is a person's characteristic tendency to explain causes of events along dimensions such as internal versus external, stable versus unstable, and global versus specific.
 
 ### Defers
 
@@ -3798,44 +3258,34 @@ Optimism provides the canonical psychological account of generalized expectation
 
 ## 2. Definition
 
-**Optimism** is generalized expectation of favorable future outcomes. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Optimism is a generalized tendency to expect or judge that desirable outcomes are attainable or that future circumstances are more favorable than unfavorable.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Optimism concerns generalized expectation of favorable future outcomes. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Optimism** is positive expectations about attainable future outcomes. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Optimism requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Optimism requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Optimism, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Optimism is shaped by social context and by the person's history of interpretation and learning. Population-level regularities should not be converted into deterministic claims about a particular person.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Optimism should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Optimism explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Optimism should not be used as a catch-all label for personality or self. Its defining phenomenon is **positive expectations about attainable future outcomes**. A related construct may influence, accompany, measure, or be influenced by Optimism without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Optimism may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Optimism concerns generalized positive expectations rather than certainty about particular outcomes. It can influence persistence and planning, but realistic optimism differs from ignoring evidence. Broad expectations should be distinguished from situation-specific predictions.
-
-The retrieval distinction is that Optimism should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses generalized expectation of favorable future outcomes as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -3844,7 +3294,7 @@ This Topic belongs in Chapter 1.14 because it addresses generalized expectation 
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Optimism defined in this object.
+Optimism is a generalized tendency to expect or judge that desirable outcomes are attainable or that future circumstances are more favorable than unfavorable.
 
 ### Defers
 
@@ -3868,44 +3318,34 @@ Pessimism provides the canonical psychological account of generalized expectatio
 
 ## 2. Definition
 
-**Pessimism** is generalized expectation of unfavorable future outcomes. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Pessimism is a generalized tendency to expect or judge that undesirable outcomes are likely, attainable goals are less likely, or future circumstances will be unfavorable.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Pessimism concerns generalized expectation of unfavorable future outcomes. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Pessimism** is negative expectations and interpretations of future outcomes. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Pessimism requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Pessimism requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Pessimism, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Pessimism is shaped by social context and by the person's history of interpretation and learning. Population-level regularities should not be converted into deterministic claims about a particular person.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Pessimism should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Pessimism explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Pessimism should not be used as a catch-all label for personality or self. Its defining phenomenon is **negative expectations and interpretations of future outcomes**. A related construct may influence, accompany, measure, or be influenced by Pessimism without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Pessimism may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Pessimism concerns generalized negative expectations. Negative expectation can sometimes reflect accurate risk appraisal, so pessimism should not automatically be labeled dysfunctional. Consequences depend on accuracy, rigidity, and effects on action.
-
-The retrieval distinction is that Pessimism should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses generalized expectation of unfavorable future outcomes as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -3914,7 +3354,7 @@ This Topic belongs in Chapter 1.14 because it addresses generalized expectation 
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Pessimism defined in this object.
+Pessimism is a generalized tendency to expect or judge that undesirable outcomes are likely, attainable goals are less likely, or future circumstances will be unfavorable.
 
 ### Defers
 
@@ -3938,44 +3378,34 @@ Perfectionism provides the canonical psychological account of demanding standard
 
 ## 2. Definition
 
-**Perfectionism** is demanding standards and concerns about performance, evaluation, or mistakes. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Perfectionism is a pattern involving unusually high personal standards and/or concerns about mistakes, evaluation, discrepancy, or failure to meet standards.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Perfectionism concerns demanding standards and concerns about performance, evaluation, or mistakes. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Perfectionism** is high standards and/or evaluative concerns around mistakes and discrepancy. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Perfectionism requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Perfectionism requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Perfectionism, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Perfectionism is shaped by social context and by the person's history of interpretation and learning. Population-level regularities should not be converted into deterministic claims about a particular person.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Perfectionism should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Perfectionism explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Perfectionism should not be used as a catch-all label for personality or self. Its defining phenomenon is **high standards and/or evaluative concerns around mistakes and discrepancy**. A related construct may influence, accompany, measure, or be influenced by Perfectionism without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Perfectionism may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Perfectionism can include demanding standards, concern over mistakes, perceived discrepancy, and conditional self-evaluation. These dimensions can have different correlates, so high standards alone should not be equated with maladaptive perfectionism.
-
-The retrieval distinction is that Perfectionism should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses demanding standards and concerns about performance, evaluation, or mistakes as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -3984,7 +3414,7 @@ This Topic belongs in Chapter 1.14 because it addresses demanding standards and 
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Perfectionism defined in this object.
+Perfectionism is a pattern involving unusually high personal standards and/or concerns about mistakes, evaluation, discrepancy, or failure to meet standards.
 
 ### Defers
 
@@ -4008,44 +3438,34 @@ Attachment style → 1.15 canonical owner (redirect only) provides the canonical
 
 ## 2. Definition
 
-**Attachment style → 1.15 canonical owner (redirect only)** is characteristic expectations, emotions, and behaviors in close relationships; canonical owner is Chapter 1.15. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Attachment style is an individual pattern of expectations, emotions, and behavior in close relationships; Chapter 1.14 does not canonically own this construct and redirects it to Chapter 1.15.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Attachment style → 1.15 canonical owner (redirect only) concerns characteristic expectations, emotions, and behaviors in close relationships; canonical owner is Chapter 1.15. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Attachment style → 1.15 canonical owner (redirect only)** is the boundary between personality/self/identity and attachment constructs. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Attachment style → 1.15 canonical owner (redirect only) requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Attachment style → 1.15 canonical owner (redirect only) requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Attachment style → 1.15 canonical owner (redirect only), interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Attachment style → 1.15 canonical owner (redirect only) is shaped by social context and by the person's history of interpretation and learning. Population-level regularities should not be converted into deterministic claims about a particular person.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Attachment style → 1.15 canonical owner (redirect only) should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Attachment style → 1.15 canonical owner (redirect only) explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Attachment style → 1.15 canonical owner (redirect only) should not be used as a catch-all label for personality or self. Its defining phenomenon is **the boundary between personality/self/identity and attachment constructs**. A related construct may influence, accompany, measure, or be influenced by Attachment style → 1.15 canonical owner (redirect only) without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Attachment style → 1.15 canonical owner (redirect only) may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-This entry is an explicit redirect because the canonical attachment construct is owned by Chapter 1.15. Chapter 1.14 can reference attachment when discussing personality or individual differences but must not duplicate the attachment framework.
-
-The retrieval distinction is that Attachment style should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses characteristic expectations, emotions, and behaviors in close relationships; canonical owner is Chapter 1.15 as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -4054,7 +3474,7 @@ This Topic belongs in Chapter 1.14 because it addresses characteristic expectati
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Attachment style → 1.15 canonical owner (redirect only) defined in this object.
+Attachment style is an individual pattern of expectations, emotions, and behavior in close relationships; Chapter 1.14 does not canonically own this construct and redirects it to Chapter 1.15.
 
 ### Defers
 
@@ -4078,44 +3498,34 @@ Individual differences provides the canonical psychological account of systemati
 
 ## 2. Definition
 
-**Individual differences** is systematic ways people vary in psychological characteristics, processes, and behavior. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Individual differences are systematic ways in which people vary from one another in psychological characteristics, tendencies, capacities, or patterns of functioning.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Individual differences concerns systematic ways people vary in psychological characteristics, processes, and behavior. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Individual differences** is systematic variation between people and the distinction between population regularities and individual prediction. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Individual differences requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Individual differences requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Individual differences, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Measurement of Individual differences depends on sampling, method, respondent or observer perspective, scoring, and intended inference. A score or observed response is evidence about a construct, not the construct itself.
 
 ### Evidence Status
 
-Empirical interpretation should distinguish description from mechanism, association from causation, and group-level regularities from predictions about individuals. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Individual differences should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Individual differences explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Individual differences should not be used as a catch-all label for personality or self. Its defining phenomenon is **systematic variation between people and the distinction between population regularities and individual prediction**. A related construct may influence, accompany, measure, or be influenced by Individual differences without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Individual differences may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Individual differences can concern traits, abilities, motives, beliefs, preferences, states, or response patterns. A difference between people is not automatically a stable trait; the relevant object and level of variation must be specified.
-
-The retrieval distinction is that Individual differences should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses systematic ways people vary in psychological characteristics, processes, and behavior as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -4124,7 +3534,7 @@ This Topic belongs in Chapter 1.14 because it addresses systematic ways people v
 
 ### Owns
 
-Individual differences within personality, self, identity, and individual-difference psychology.
+Individual differences are systematic ways in which people vary from one another in psychological characteristics, tendencies, capacities, or patterns of functioning.
 
 ### Defers
 
@@ -4148,44 +3558,34 @@ Personality assessment provides the canonical psychological account of systemati
 
 ## 2. Definition
 
-**Personality assessment** is systematic measurement of personality characteristics. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Personality assessment is the systematic measurement and interpretation of personality characteristics using defined methods, scoring procedures, and evidence for intended inferences.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Personality assessment concerns systematic measurement of personality characteristics. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Personality assessment** is the inference chain from construct definition through measurement, scoring, interpretation, and intended use. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Personality assessment requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Personality assessment requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Personality assessment, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Measurement of Personality assessment depends on sampling, method, respondent or observer perspective, scoring, and intended inference. A score or observed response is evidence about a construct, not the construct itself.
 
 ### Evidence Status
 
-Assessment claims require separation of reliability, validity, and interpretation. A stable score can still fail to represent the intended construct, and an association between a score and an outcome does not by itself establish a causal mechanism. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Personality assessment should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Personality assessment explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Personality assessment should not be used as a catch-all label for personality or self. Its defining phenomenon is **the inference chain from construct definition through measurement, scoring, interpretation, and intended use**. A related construct may influence, accompany, measure, or be influenced by Personality assessment without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Personality assessment may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Assessment requires a defined construct, appropriate method, scoring model, and interpretation supported by evidence. Different methods answer different questions, so no assessment format is universally optimal.
-
-The retrieval distinction is that Personality assessment should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses systematic measurement of personality characteristics as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -4194,7 +3594,7 @@ This Topic belongs in Chapter 1.14 because it addresses systematic measurement o
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Personality assessment defined in this object.
+Personality assessment is the systematic measurement and interpretation of personality characteristics using defined methods, scoring procedures, and evidence for intended inferences.
 
 ### Defers
 
@@ -4218,44 +3618,34 @@ Self-report assessment provides the canonical psychological account of assessmen
 
 ## 2. Definition
 
-**Self-report assessment** is assessment based on a person's own reports. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Self-report assessment measures psychological characteristics through a person's own reported descriptions, judgments, experiences, or responses to standardized items or questions.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Self-report assessment concerns assessment based on a person's own reports. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Self-report assessment** is information obtained through self-description and its response processes. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Self-report assessment requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Self-report assessment requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Self-report assessment, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Measurement of Self-report assessment depends on sampling, method, respondent or observer perspective, scoring, and intended inference. A score or observed response is evidence about a construct, not the construct itself.
 
 ### Evidence Status
 
-Assessment claims require separation of reliability, validity, and interpretation. A stable score can still fail to represent the intended construct, and an association between a score and an outcome does not by itself establish a causal mechanism. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Self-report assessment should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Self-report assessment explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Self-report assessment should not be used as a catch-all label for personality or self. Its defining phenomenon is **information obtained through self-description and its response processes**. A related construct may influence, accompany, measure, or be influenced by Self-report assessment without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Self-report assessment may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Self-report is useful for private beliefs, evaluations, and experiences that may not be directly observable. Limitations include response style, social desirability, limited insight, memory error, and differences in item interpretation.
-
-The retrieval distinction is that Self-report assessment should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses assessment based on a person's own reports as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -4264,7 +3654,7 @@ This Topic belongs in Chapter 1.14 because it addresses assessment based on a pe
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Self-report assessment defined in this object.
+Self-report assessment measures psychological characteristics through a person's own reported descriptions, judgments, experiences, or responses to standardized items or questions.
 
 ### Defers
 
@@ -4288,44 +3678,34 @@ Informant assessment provides the canonical psychological account of assessment 
 
 ## 2. Definition
 
-**Informant assessment** is assessment based on reports from people who know the target. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Informant assessment measures personality through reports made by people who know or observe the target person in relevant contexts.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Informant assessment concerns assessment based on reports from people who know the target. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Informant assessment** is observer-based knowledge and self–other disagreement. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Informant assessment requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Informant assessment requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Informant assessment, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Measurement of Informant assessment depends on sampling, method, respondent or observer perspective, scoring, and intended inference. A score or observed response is evidence about a construct, not the construct itself.
 
 ### Evidence Status
 
-Assessment claims require separation of reliability, validity, and interpretation. A stable score can still fail to represent the intended construct, and an association between a score and an outcome does not by itself establish a causal mechanism. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Informant assessment should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Informant assessment explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Informant assessment should not be used as a catch-all label for personality or self. Its defining phenomenon is **observer-based knowledge and self–other disagreement**. A related construct may influence, accompany, measure, or be influenced by Informant assessment without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Informant assessment may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Informants can report observable patterns across contexts and may detect characteristics that targets do not report. Disagreement can reflect different observation opportunities or genuine context dependence rather than simple error.
-
-The retrieval distinction is that Informant assessment should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses assessment based on reports from people who know the target as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -4334,7 +3714,7 @@ This Topic belongs in Chapter 1.14 because it addresses assessment based on repo
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Informant assessment defined in this object.
+Informant assessment measures personality through reports made by people who know or observe the target person in relevant contexts.
 
 ### Defers
 
@@ -4358,44 +3738,34 @@ Behavioral assessment provides the canonical psychological account of assessment
 
 ## 2. Definition
 
-**Behavioral assessment** is assessment using observed or recorded behavior. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Behavioral assessment infers psychological characteristics from observed or recorded behavior sampled under defined conditions.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Behavioral assessment concerns assessment using observed or recorded behavior. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Behavioral assessment** is sampling observable action while preserving situational context. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Behavioral assessment requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Behavioral assessment requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Behavioral assessment, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Measurement of Behavioral assessment depends on sampling, method, respondent or observer perspective, scoring, and intended inference. A score or observed response is evidence about a construct, not the construct itself.
 
 ### Evidence Status
 
-Assessment claims require separation of reliability, validity, and interpretation. A stable score can still fail to represent the intended construct, and an association between a score and an outcome does not by itself establish a causal mechanism. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Behavioral assessment should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Behavioral assessment explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Behavioral assessment should not be used as a catch-all label for personality or self. Its defining phenomenon is **sampling observable action while preserving situational context**. A related construct may influence, accompany, measure, or be influenced by Behavioral assessment without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Behavioral assessment may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Behavioral assessment connects constructs to observed action, but behavior is strongly context-dependent. Repeated observations across relevant situations are more informative than one isolated behavior.
-
-The retrieval distinction is that Behavioral assessment should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses assessment using observed or recorded behavior as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -4404,7 +3774,7 @@ This Topic belongs in Chapter 1.14 because it addresses assessment using observe
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Behavioral assessment defined in this object.
+Behavioral assessment infers psychological characteristics from observed or recorded behavior sampled under defined conditions.
 
 ### Defers
 
@@ -4428,44 +3798,34 @@ Projective assessment provides the canonical psychological account of methods in
 
 ## 2. Definition
 
-**Projective assessment** is methods inferring psychological characteristics from responses to ambiguous stimuli. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Projective assessment uses responses to relatively ambiguous stimuli and interprets those responses as potentially informative about psychological characteristics or processes.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Projective assessment concerns methods inferring psychological characteristics from responses to ambiguous stimuli. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Projective assessment** is responses to ambiguous stimuli and the inferential assumptions required to interpret them. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Projective assessment requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Projective assessment requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Projective assessment, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Measurement of Projective assessment depends on sampling, method, respondent or observer perspective, scoring, and intended inference. A score or observed response is evidence about a construct, not the construct itself.
 
 ### Evidence Status
 
-Assessment claims require separation of reliability, validity, and interpretation. A stable score can still fail to represent the intended construct, and an association between a score and an outcome does not by itself establish a causal mechanism. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Projective assessment should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Projective assessment explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Projective assessment should not be used as a catch-all label for personality or self. Its defining phenomenon is **responses to ambiguous stimuli and the inferential assumptions required to interpret them**. A related construct may influence, accompany, measure, or be influenced by Projective assessment without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Projective assessment may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Projective methods infer psychological characteristics from responses to ambiguous stimuli. Interpretive flexibility can create reliability and validity problems, so conclusions should be limited to evidence supporting the particular method and scoring system.
-
-The retrieval distinction is that Projective assessment should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses methods inferring psychological characteristics from responses to ambiguous stimuli as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -4474,7 +3834,7 @@ This Topic belongs in Chapter 1.14 because it addresses methods inferring psycho
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Projective assessment defined in this object.
+Projective assessment uses responses to relatively ambiguous stimuli and interprets those responses as potentially informative about psychological characteristics or processes.
 
 ### Defers
 
@@ -4498,44 +3858,34 @@ Response distortion provides the canonical psychological account of systematic a
 
 ## 2. Definition
 
-**Response distortion** is systematic alteration of assessment responses away from accurate reporting. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Response distortion is systematic alteration of assessment responses that reduces their correspondence with the respondent's intended or accurate report.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Response distortion concerns systematic alteration of assessment responses away from accurate reporting. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Response distortion** is intentional and unintentional departures from accurate or intended responding. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Response distortion requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Response distortion requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Response distortion, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Measurement of Response distortion depends on sampling, method, respondent or observer perspective, scoring, and intended inference. A score or observed response is evidence about a construct, not the construct itself.
 
 ### Evidence Status
 
-Assessment claims require separation of reliability, validity, and interpretation. A stable score can still fail to represent the intended construct, and an association between a score and an outcome does not by itself establish a causal mechanism. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Response distortion should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Response distortion explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Response distortion should not be used as a catch-all label for personality or self. Its defining phenomenon is **intentional and unintentional departures from accurate or intended responding**. A related construct may influence, accompany, measure, or be influenced by Response distortion without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Response distortion may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Response distortion can arise intentionally or unintentionally from impression management, misunderstanding, memory limitations, motivation, or response habits. Unexpected responses should not automatically be interpreted as dishonesty.
-
-The retrieval distinction is that Response distortion should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses systematic alteration of assessment responses away from accurate reporting as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -4544,7 +3894,7 @@ This Topic belongs in Chapter 1.14 because it addresses systematic alteration of
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Response distortion defined in this object.
+Response distortion is systematic alteration of assessment responses that reduces their correspondence with the respondent's intended or accurate report.
 
 ### Defers
 
@@ -4568,44 +3918,34 @@ Social desirability provides the canonical psychological account of tendency to 
 
 ## 2. Definition
 
-**Social desirability** is tendency to present oneself in socially acceptable or favorable ways. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Social desirability is the tendency to report or present oneself in ways that appear socially acceptable, favorable, or valued.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Social desirability concerns tendency to present oneself in socially acceptable or favorable ways. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Social desirability** is favorable responding distinguished from genuinely possessing socially valued characteristics. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Social desirability requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Social desirability requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Social desirability, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Measurement of Social desirability depends on sampling, method, respondent or observer perspective, scoring, and intended inference. A score or observed response is evidence about a construct, not the construct itself.
 
 ### Evidence Status
 
-Assessment claims require separation of reliability, validity, and interpretation. A stable score can still fail to represent the intended construct, and an association between a score and an outcome does not by itself establish a causal mechanism. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Social desirability should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Social desirability explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Social desirability should not be used as a catch-all label for personality or self. Its defining phenomenon is **favorable responding distinguished from genuinely possessing socially valued characteristics**. A related construct may influence, accompany, measure, or be influenced by Social desirability without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Social desirability may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Social desirability involves presenting oneself favorably or acceptably. It can affect self-report, but a favorable answer is not necessarily distorted because people can genuinely possess socially valued characteristics.
-
-The retrieval distinction is that Social desirability should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses tendency to present oneself in socially acceptable or favorable ways as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -4614,7 +3954,7 @@ This Topic belongs in Chapter 1.14 because it addresses tendency to present ones
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Social desirability defined in this object.
+Social desirability is the tendency to report or present oneself in ways that appear socially acceptable, favorable, or valued.
 
 ### Defers
 
@@ -4638,44 +3978,34 @@ Personality measurement validity provides the canonical psychological account of
 
 ## 2. Definition
 
-**Personality measurement validity** is degree to which personality measures support intended score interpretations and uses. The construct should not be equated automatically with any single behavior, feeling, judgment, biological measure, or social outcome associated with it; those relationships require their own evidence.
+**Personality measurement validity concerns the degree to which evidence supports the intended interpretation and use of scores from a personality measure.**
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Personality measurement validity concerns degree to which personality measures support intended score interpretations and uses. The construct has a specific explanatory scope within personality, self, identity, or individual-difference science. It should not be used as a catch-all label for every behavior, thought, feeling, or social outcome that happens to correlate with it. Its meaning becomes clearer when the person's characteristics are considered together with current state, situation, goals, learning history, social context, and available responses.
+The defining domain of **Personality measurement validity** is evidence required to justify score interpretations and uses for defined populations and contexts. Its boundaries matter because neighboring personality, self, identity, and assessment concepts can use overlapping language while answering different psychological questions. The construct should therefore be represented at the level supported by evidence, not expanded into every phenomenon associated with it.
 
 ### Mechanism
 
-Understanding Personality measurement validity requires separating the construct from the processes through which it is expressed. Depending on the Topic, those processes can involve attention, interpretation, emotion, motivation, memory, self-regulation, interpersonal feedback, learning, or biological constraints. A characteristic is not identical to every behavior through which it appears, and a self-representation is not identical to every judgment it influences. This distinction prevents circular explanations in which the behavior is simply renamed as the cause of itself.
+Understanding Personality measurement validity requires identifying how its defining pattern is generated, maintained, expressed, or detected. Relevant processes may include cognition, affect, motivation, learning, regulation, social feedback, or biological constraints, but those processes are explanatory links rather than synonyms for the Topic. A correlation with another variable does not by itself establish a mechanism.
 
-### Temporal Dynamics and Development
+### Temporal Dynamics and Context
 
-Personality-related phenomena operate on different time scales. Some describe relatively enduring individual differences; others describe states, episodes, processes, or developmental trajectories. Stability can coexist with change: a person may retain a characteristic pattern while its average level, expression, or meaning changes with maturation, roles, relationships, learning, or environmental conditions. For Personality measurement validity, interpretation should therefore specify whether the evidence concerns momentary expression, repeated behavior, longitudinal continuity, or developmental change.
-
-### Context and Individual Variation
-
-Person-level characteristics do not operate independently of situations. Social roles, incentives, norms, stress, relationships, culture, and perceived control can alter expression. The same person may act differently in different settings without this automatically contradicting a trait account. Conversely, similar behavior in two people does not guarantee identical underlying characteristics. Group averages are useful for identifying population regularities but should not be converted into deterministic individual predictions.
+Measurement of Personality measurement validity depends on sampling, method, respondent or observer perspective, scoring, and intended inference. A score or observed response is evidence about a construct, not the construct itself.
 
 ### Evidence Status
 
-Assessment claims require separation of reliability, validity, and interpretation. A stable score can still fail to represent the intended construct, and an association between a score and an outcome does not by itself establish a causal mechanism. Stronger conclusions come from converging methods and from evidence that survives reasonable tests of alternative explanations. Self-report can directly access beliefs or self-evaluations but can be affected by memory, language, insight, response style, and social context. Informant and behavioral evidence provide complementary information, while biological evidence can illuminate constraints or correlates without reducing personality to biology alone. Cross-cultural and longitudinal evidence are especially important when claims are intended to generalize broadly.
+Evidence about Personality measurement validity should distinguish description from explanation, association from causation, and theory from established finding. Stronger conclusions require converging evidence across appropriate methods, populations, and contexts. Measurement limitations, alternative explanations, and uncertainty should remain visible when they materially affect interpretation.
 
-### Retrieval Logic
+### Boundary Conditions
 
-The canonical retrieval question is: what does Personality measurement validity explain that its neighboring constructs do not? The answer should identify its defining mechanism or function, its relevant antecedents and consequences, its major boundary conditions, and the evidence supporting the interpretation. When another Topic owns a neighboring construct, this object should link to it rather than reproduce its explanation.
+Personality measurement validity should not be used as a catch-all label for personality or self. Its defining phenomenon is **evidence required to justify score interpretations and uses for defined populations and contexts**. A related construct may influence, accompany, measure, or be influenced by Personality measurement validity without becoming identical to it. Where another Topic owns the neighboring construct or mechanism, this Topic should link to that owner rather than reproduce its account.
 
+### Topic-specific deepening
 
-### Topic-specific mechanism, evidence, and boundary deepening
+For retrieval, the central distinction is between the construct itself and its manifestations. Personality measurement validity may appear through many behaviors or reports, but those observations acquire meaning only when their context, measurement method, temporal pattern, and alternative explanations are considered. This preserves conceptual precision and prevents circular reasoning.
 
-Validity concerns whether evidence supports the intended interpretation and use of scores. It is not a permanent property independent of population, context, scoring, construct definition, and inference.
-
-The retrieval distinction is that Personality measurement validity should be represented at the level actually supported by evidence. A trait score is not a complete causal model; a self-report is not a transparent window into the mind; a social behavior is not a unique signature of personality; and a theoretical explanation is not equivalent to the phenomenon it explains. Where multiple explanations remain plausible, uncertainty must remain visible rather than being replaced by a stronger claim simply because it is easier to state.
-
-Measurement and interpretation should also be separated. A construct can be meaningful while a particular measure captures it imperfectly. Cross-method disagreement can reveal method-specific variance, context sensitivity, or genuine differences between self-perception and observable behavior. Longitudinal and multi-informant evidence are especially valuable when the Topic concerns stability, change, identity continuity, or interpersonal expression.
-
-Finally, the construct should be interpreted conditionally rather than morally. Personality characteristics, self-evaluations, identities, and assessment scores are not inherently good or bad. Their consequences depend on fit with circumstances, goals, values, regulation, and social environment.
 ## 4. Relationship to This Chapter
 
 This Topic belongs in Chapter 1.14 because it addresses degree to which personality measures support intended score interpretations and uses as part of person-level organization, self-related functioning, identity, individual variation, or the assessment of those constructs. Processes owned by other psychological chapters remain cross-linked rather than re-owned here.
@@ -4684,7 +4014,7 @@ This Topic belongs in Chapter 1.14 because it addresses degree to which personal
 
 ### Owns
 
-The canonical personality/self/identity/individual-difference meaning of Personality measurement validity defined in this object.
+Personality measurement validity concerns the degree to which evidence supports the intended interpretation and use of scores from a personality measure.
 
 ### Defers
 
