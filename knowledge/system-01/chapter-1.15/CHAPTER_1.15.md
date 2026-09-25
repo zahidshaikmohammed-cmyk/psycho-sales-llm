@@ -1126,7 +1126,9 @@ A future revision should not remove this material simply to shorten the file unl
 
 # CHAPTER-LEVEL MINIMUM DEPTH CONFIRMATION
 
-The minimum depth requirement is treated as a floor for substantive knowledge, not a target to be barely reached. The chapter therefore retains explicit treatment of developmental mechanisms, temporal inference, cohort effects, measurement, plasticity, individual trajectories, relational systems, cultural context, aging, risk, resilience, and cross-topic ownership.\n---\n\n# 1. Development
+The minimum depth requirement is treated as a floor for substantive knowledge, not a target to be barely reached. The chapter therefore retains explicit treatment of developmental mechanisms, temporal inference, cohort effects, measurement, plasticity, individual trajectories, relational systems, cultural context, aging, risk, resilience, and cross-topic ownership.\n---\n\n# CHAPTER-LEVEL FINAL VERIFICATION CONTEXT
+
+Developmental knowledge is strongest when it connects observed change with the process that could generate it, the context that could modify it, and the evidence that supports the interpretation. This chapter therefore treats development as a system of trajectories rather than a list of age milestones. It preserves both normative patterns and individual variation, both biological constraints and environmental opportunity, and both continuity and capacity for change. It also preserves the distinction between a developmental construct and the general psychological construct owned by another chapter. These distinctions are necessary for accurate retrieval, scientific integrity, and future expansion of the encyclopedia.\n---\n\n# 1. Development
 
 ## 1. Purpose
 
