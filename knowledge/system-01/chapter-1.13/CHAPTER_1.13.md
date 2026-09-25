@@ -607,6 +607,10 @@ Different theories place different components at the beginning of the process. S
 
 Emotion generation can also be interrupted or redirected. New information may reduce threat, a goal may suppress expression, or a competing action may become more important. Thus generation and regulation can overlap temporally without being identical.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Emotion generation is best treated as a distributed process in which multiple signals converge and interact. An event can alter perception, appraisal, bodily regulation, attention, memory accessibility, and action readiness. The relative contribution of each component can change across time. This makes simple linear models useful as teaching approximations but inadequate as universal mechanisms. Generation can also be recursive: an initial response changes the situation, the changed situation produces new information, and the new information modifies the emotion. This feedback structure helps explain escalation and recovery. A complete explanation therefore specifies both initiating conditions and feedback processes.
 ## 4. Relationship to This Chapter
 Emotion generation is the process-level bridge among stimulus, appraisal, feeling, physiology, expression, and action tendency.
 
@@ -638,6 +642,10 @@ Self-recognition can also be imperfect. A person may notice arousal but mislabel
 
 Recognition should not be confused with expression. A person can recognize an emotion without displaying it, and an observer can infer an emotion incorrectly from an expression. Cross-cultural differences and display rules further complicate interpretation.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Emotion recognition is inferential because another person's private experience is not directly observable. Observers combine expressive behavior, context, prior knowledge, language, and expectations. Recognition accuracy can therefore improve when multiple cues converge and decline when cues conflict or are ambiguous. Self-recognition has a similar problem: internal signals must be interpreted. Recognition is thus a judgment about emotional state, not a direct measurement of it. This distinction is particularly important when evaluating claims about facial-expression decoding or lie detection.
 ## 4. Relationship to This Chapter
 Emotion recognition links emotional awareness and perception with interpersonal interpretation.
 
@@ -669,6 +677,10 @@ Emotion perception is therefore not simply reading an emotion directly from a st
 
 The process can operate before a person forms an explicit verbal judgment, yet rapid processing does not guarantee accuracy. Salient or threatening cues may attract attention while still being misinterpreted.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Emotion perception begins with processing cues that can carry affective significance, but perception is shaped by attention and context. A threatening-looking scene can be interpreted differently after additional information changes its meaning. Perception can also be rapid without being infallible. Salient emotional information may receive priority because rapid detection can be useful, yet false alarms are possible. Laboratory tasks that isolate emotional cues can therefore reveal perceptual biases without establishing that everyday emotion perception operates identically under natural conditions.
 ## 4. Relationship to This Chapter
 Emotion perception supplies the perceptual side of emotion recognition and connects affect with sensation and attention.
 
@@ -700,6 +712,10 @@ Effective regulation does not mean eliminating negative emotion. Emotions can pr
 
 Regulation can target different components: the stimulus, appraisal, subjective feeling, physiology, expression, or action. A strategy that reduces outward expression may leave internal feeling relatively unchanged. This distinction is essential when interpreting evidence.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Emotion regulation is a goal-dependent process. The same emotional change can be adaptive in one situation and maladaptive in another. Increasing fear may improve vigilance before a genuine danger; reducing fear may support action when fear has become disproportionate. Regulation can target the situation, attention, appraisal, physiology, expression, or behavior. Timing matters because changing an early process can prevent later components from escalating, whereas late regulation may require greater effort. This is why regulation should be evaluated by function and context rather than by whether emotion was reduced.
 ## 4. Relationship to This Chapter
 Emotion regulation is the chapter's central process for explaining change in emotional responding.
 
@@ -731,6 +747,10 @@ Suppression should not be treated as universally harmful. Its effects depend on 
 
 Because suppression is often studied through self-report, observed expression, and physiological measures, researchers must distinguish reduced display from reduced emotional experience.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Suppression primarily changes observable expression and can therefore create divergence between inner experience and outward behavior. The regulatory effort required can itself influence attention and physiological responding, especially when suppression is sustained. But these effects are not universal, and suppression can be socially useful when immediate expression would create harm or violate legitimate norms. The scientific question is not whether suppression is always bad but when it changes which component, at what cost, and for what purpose.
 ## 4. Relationship to This Chapter
 Suppression is a specific regulation strategy and therefore does not define emotion regulation as a whole.
 
@@ -762,6 +782,10 @@ Its effectiveness depends on whether the alternative interpretation is credible,
 
 Research often finds reappraisal associated with changes in reported emotion and expression, but effects vary by strategy, context, person, and target emotion. It should therefore be treated as one regulatory option rather than a universally superior method.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Reappraisal operates by changing the meaning assigned to an event. Its mechanism therefore depends on whether the alternative interpretation is plausible and available before the emotional response becomes entrenched. Reappraisal can involve changing responsibility, considering alternative explanations, broadening time perspective, or identifying coping options. It should not be confused with denial: denying evidence can preserve rather than regulate threat. Effects also depend on the target emotion and situation. A strategy that helps with anger may not operate identically for grief or fear.
 ## 4. Relationship to This Chapter
 Reappraisal is a central example of appraisal-based emotion regulation.
 
@@ -793,6 +817,10 @@ Acceptance can reduce secondary struggle when attempts to control an internal st
 
 Research on acceptance appears across emotion regulation, mindfulness, and psychotherapy frameworks, but these literatures use related terms in somewhat different ways. Claims should therefore specify the operational definition being studied.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Acceptance changes the relationship to an emotional experience rather than requiring the experience to disappear. This distinction matters because attempts to control internal states can sometimes create additional monitoring and struggle. Acceptance can permit a person to acknowledge fear while still acting, or acknowledge sadness without organizing all behavior around escape. It is not passive resignation and does not require agreement with the thoughts accompanying an emotion. Evidence must also distinguish acceptance as a measured process from broad claims about therapies that include acceptance-related techniques.
 ## 4. Relationship to This Chapter
 Acceptance represents a regulatory stance distinct from suppression and reappraisal.
 
@@ -824,6 +852,10 @@ Expression regulation is distinct from changing the underlying emotion. A person
 
 The social meaning of expression also matters. What counts as appropriate or inappropriate display varies with relationship, setting, role, culture, and power. Consequently, the same behavior can communicate different things in different environments.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Expression regulation is partly interpersonal because expression changes what other people can infer and how they respond. The person therefore manages not only an internal state but also a social information channel. Regulation can be conscious or habitual and can involve timing, intensity, channel selection, or substitution. A person may suppress facial expression while allowing neutral verbal communication, or delay a response until a private setting. These choices illustrate why emotional display cannot be interpreted without considering social goals and norms.
 ## 4. Relationship to This Chapter
 Expression regulation links emotional expression with display rules and suppression.
 
@@ -855,6 +887,10 @@ Display rules do not prove that emotional experience itself differs in the same 
 
 Display rules also change over development and context. A person may follow different rules at work, with family, among friends, or in public. The rules can conflict with personal feelings, creating regulatory demands.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Display rules are learned through observation, feedback, instruction, and social participation. They help explain why expression differs across settings without requiring that emotional experience differ equally. Rules can concern intensity, timing, target, and acceptable forms of expression. They may also conflict with one another: a person may be expected to show warmth while feeling anger, or remain calm while experiencing fear. Such conflicts create regulatory demands. Cross-cultural differences should be described carefully because within-culture variation can be large and cultures are not internally uniform.
 ## 4. Relationship to This Chapter
 Display rules provide the social framework within which emotional expression and expression regulation occur.
 
@@ -886,6 +922,10 @@ Emotional habits develop through learning, reinforcement, repeated context-respo
 
 The concept should not be confused with a fixed personality trait. A habit is a learned pattern of responding that can change, especially when context and consequences change.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Emotional habits become powerful when repeated responses are reinforced by predictable contexts and consequences. A habitual interpretation can occur before deliberate reasoning, while a habitual regulation response can become the default whenever a cue appears. Habits can be disrupted when context changes or when the expected consequence no longer occurs. This makes emotional habits closely related to learning without making them identical to general habit formation. The relevant question is which emotional response pattern has been learned and under what cues it is activated.
 ## 4. Relationship to This Chapter
 Emotional habits connect emotion regulation with learning and repeated patterns of responding.
 
@@ -917,6 +957,10 @@ Contagion is influenced by attention, relationship, identification, social conte
 
 The concept is therefore causal only when the research design supports influence from one person's affective state to another's. Observing synchronized moods alone does not establish contagion.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Emotion contagion requires more than emotional similarity. To establish contagion, evidence must support a pathway by which one person's state or expression influences another's. Shared events, common group membership, and selective interaction can produce apparent convergence without direct transmission. Mechanisms may include mimicry, attention, interpretation, interactional feedback, and social affiliation. Contagion can be beneficial when it coordinates groups, but it can also transmit distress or escalation. Its effects therefore depend on the social environment.
 ## 4. Relationship to This Chapter
 Emotion contagion extends emotion beyond the individual and connects expression with interpersonal affective influence.
 
@@ -948,6 +992,10 @@ Modern evidence supports an important relationship between bodily states and emo
 
 Its lasting contribution is theoretical: it placed bodily feedback at the center of a scientific explanation of emotion and helped establish emotion as a problem involving interaction among physiology and psychological experience.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+James–Lange theory remains useful as a historical marker because it made bodily feedback central to emotional experience. Its modern value is not that its original sequence has been proven in full, but that it raised a testable question: how do bodily changes contribute to feeling? Contemporary research on interoception and embodied emotion continues to address related questions. The theory should therefore be preserved with historical precision while avoiding the claim that one peripheral response uniquely identifies one emotion.
 ## 4. Relationship to This Chapter
 The theory belongs here because it is one of the historically influential models of emotion generation.
 
@@ -979,6 +1027,10 @@ Modern emotion science does not generally treat the original theory as a complet
 
 Its value for contemporary understanding is therefore partly conceptual and historical rather than as a fully sufficient model.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Cannon–Bard theory helped separate the idea of emotional feeling from the idea that bodily response must be its simple precursor. Its historical importance lies in emphasizing coordinated central processes. Modern evidence suggests that emotional experience and bodily response can interact through recurrent pathways rather than following one universal order. Thus the theory is best retained as an important conceptual step in the development of emotion science, not as a complete contemporary architecture.
 ## 4. Relationship to This Chapter
 It provides a contrasting historical model of emotion generation.
 
@@ -1010,6 +1062,10 @@ The theory had major influence on research linking physiology, cognition, and so
 
 The model remains useful as a conceptual demonstration that bodily activation and interpretation can interact.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Two-factor theory highlights an important possibility: physiological activation can be interpreted using contextual information. The classic theory is stronger than the claim that context matters, because it proposes a particular relation between relatively nonspecific arousal and cognitive labeling. Later evidence has complicated that formulation. Some bodily signals carry more differentiated information than the classic model assumed, and emotional processes can begin without deliberate labeling. The enduring insight is therefore interaction between bodily state and interpretation, not a universal two-stage algorithm.
 ## 4. Relationship to This Chapter
 Two-factor theory connects physiological arousal, cognition, context, and subjective feeling.
 
@@ -1041,6 +1097,10 @@ These theories do not necessarily claim that every appraisal is conscious or ver
 
 Evidence supports important links between interpretations of events and emotional responding, but the strength and universality of specific appraisal rules remain debated.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Cognitive appraisal theories vary in their proposed dimensions, but they share the idea that emotional significance depends on how an event relates to the person's concerns. Appraisals can concern novelty, goal relevance, responsibility, controllability, certainty, or coping potential. Their value is explanatory: they predict why identical events can evoke different emotions. Their limitation is that overly flexible appraisal accounts can become difficult to falsify. Strong models therefore specify which appraisal patterns should produce which responses and under what boundary conditions.
 ## 4. Relationship to This Chapter
 Appraisal theories provide a major theoretical family explaining emotion generation and differentiation.
 
@@ -1073,6 +1133,10 @@ The approach has generated influential research on emotion recognition, facial e
 
 Basic-emotion models are therefore best treated as a family of theories rather than a settled inventory of universal emotion modules.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Basic-emotion approaches gain strength when they make precise claims about recurrent properties and weaken when they assume that a named emotion must have a single universal expression or physiology. Developmental, comparative, and cross-cultural evidence can inform claims about biological preparedness, but variability within and across populations must remain visible. A basic emotion can also have multiple expressive forms depending on context. The scientific issue is degree of differentiation and preparedness, not a simple choice between universal modules and total social construction.
 ## 4. Relationship to This Chapter
 This theory family provides one explanation for why some emotions may show recurring patterns across people and situations.
 
