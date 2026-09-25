@@ -3342,6 +3342,27 @@ Adult cognition can involve continued knowledge acquisition, expertise, strategy
 
 Experience can compensate for some age-related changes by supporting strategy selection and accumulated knowledge.
 
+### Continuing cognitive development
+Adult cognitive development includes changes in knowledge, reasoning, problem solving, expertise, metacognition, and the ability to coordinate complex goals. Development after adolescence is not simply maintenance followed by decline. Different cognitive systems follow different trajectories.
+
+### Knowledge and expertise
+Accumulated knowledge can increase substantially through adulthood. Experience allows adults to recognize patterns, use efficient strategies, and understand domain-specific relationships that may not be captured by general cognitive tests. Expertise therefore represents developmental specialization rather than merely higher raw processing speed.
+
+### Practical reasoning
+Adult decisions often involve incomplete information, competing goals, social responsibilities, and long time horizons. Experience can support recognition of recurring patterns and trade-offs, although experience can also reinforce biases. Practical competence is therefore not guaranteed by age alone.
+
+### Metacognition
+Adults can become increasingly aware of how they learn, where their knowledge is limited, and which strategies work under particular conditions. Metacognitive skill is itself domain-dependent. A person can accurately judge confidence in one field while remaining poorly calibrated in another.
+
+### Role and context
+Work, education, caregiving, and other roles create repeated opportunities for complex planning and problem solving. Environmental demands can therefore support continued cognitive development. Conversely, chronic stress, illness, isolation, sleep disruption, and lack of cognitive stimulation can constrain opportunities.
+
+### Adult learning
+Adults can learn new knowledge and skills, but learning may depend on motivation, prior knowledge, available time, sensory function, and instructional design. Existing knowledge can both help and hinder learning: it provides structure but can also create assumptions that must be revised.
+
+### Relationship to cognitive aging
+Adult cognitive development includes both development and later aging. Some abilities remain stable or improve through experience while others change with age. Treating adulthood as one uniform cognitive period obscures these multidirectional trajectories.
+
 ## 4. Relationship to This Chapter
 It establishes adulthood as an active developmental period for cognition.
 
@@ -3374,6 +3395,24 @@ The theory concerns motivational priorities, not a universal reduction in social
 ### Evidence Status
 Research supports important associations between perceived time horizons and social goals, but the theory should not be treated as a complete explanation of all age-related social behavior.
 
+### Core proposition
+Socioemotional selectivity describes a framework in which perceived future time influences social and emotional goals. When people perceive abundant future time, they may place more emphasis on exploration, information, and future-oriented opportunities; when time is perceived as limited, emotionally meaningful goals and relationships may receive greater priority.
+
+### Developmental relevance
+Age can influence perceptions of future time, but chronological age is not the mechanism itself. Younger people facing severe illness may perceive limited time, while older adults can maintain expansive future goals. The framework therefore emphasizes subjective time perspective as a psychological process.
+
+### Social selection
+Prioritizing meaningful relationships can lead to smaller but more emotionally significant networks. This can be adaptive when social resources are limited or when people deliberately focus on valued relationships. A smaller network should not automatically be interpreted as social withdrawal or isolation.
+
+### Attention and emotion
+The framework has been used to explain age-related differences in attention to positive or emotionally meaningful information. Findings vary by task, context, and individual characteristics. It should therefore be treated as a model that generates predictions, not as a universal law that every older person will display.
+
+### Culture and context
+Social goals are shaped by cultural norms, family obligations, economic resources, and health. A person's perception of future time also depends on life circumstances. Cross-cultural differences in family structure and social expectations can therefore alter how socioemotional selectivity appears.
+
+### Boundaries
+Socioemotional selectivity is a theory about goal priorities and social selection. It does not claim that aging automatically improves emotional health, that older adults stop learning, or that negative emotion disappears.
+
 ## 4. Relationship to This Chapter
 It provides a lifespan model for socioemotional change.
 
@@ -3400,6 +3439,27 @@ Cognitive reserve is the capacity to maintain cognitive functioning despite age-
 Reserve is not a single physical substance. Education, occupational complexity, cognitive activity, social engagement, and other experiences have been proposed as contributors to reserve, but their measurement and causal interpretation require care.
 
 Reserve is often inferred from discrepancies between brain pathology or age-related change and observed cognitive performance.
+
+### Definition
+Cognitive reserve refers to the capacity to maintain cognitive functioning despite age-related brain changes or pathology, thought to be supported by differences in cognitive strategies, education, occupation, intellectual engagement, and other experiences. Reserve is a theoretical construct inferred from patterns of brain–behavior discrepancy rather than a directly observed substance in the brain.
+
+### Reserve versus brain reserve
+Brain reserve traditionally refers more to structural capacity, such as brain size or neuronal resources, whereas cognitive reserve emphasizes how flexibly cognitive processes can use available neural resources. The distinction is useful but the concepts are related and sometimes operationalized differently across studies.
+
+### Developmental accumulation
+Reserve can be influenced by experiences accumulated across the lifespan. Education, cognitively demanding occupations, literacy, leisure activities, social engagement, and continued learning are often studied as correlates. Because these exposures cluster with socioeconomic and health factors, causal interpretation is difficult.
+
+### Compensation
+People with similar brain pathology can show different cognitive outcomes. Some may recruit alternative strategies or networks that help maintain performance. Compensation and reserve are related but not identical concepts; compensation emphasizes changes in processing that support performance under increased demand.
+
+### Measurement challenges
+Reserve is often estimated indirectly from education, occupation, premorbid ability, or residual cognitive performance after accounting for brain measures. Different indicators capture different constructs. A high education level should not automatically be treated as proof of high reserve.
+
+### Lifespan implications
+The concept supports a developmental view in which cognitive outcomes in later life reflect accumulated experiences as well as current biological condition. It does not imply immunity from cognitive decline or disease. Reserve may delay functional expression of pathology without preventing underlying pathology.
+
+### Evidence interpretation
+Because most reserve indicators are observational, causal claims about specific activities producing reserve require careful study. Randomized evidence for long-term prevention is difficult to obtain. The strongest interpretation is that lifelong experiences are associated with differences in cognitive resilience, with mechanisms and causal contributions still under investigation.
 
 ## 4. Relationship to This Chapter
 Cognitive reserve helps explain heterogeneity in adult and later-life cognitive development.
@@ -3432,6 +3492,27 @@ A risk factor does not guarantee an outcome. Protective factors, resilience, tim
 
 ### Evidence Status
 Risk-factor research often establishes association rather than causation. Strong causal claims require appropriate designs and mechanistic evidence.
+
+### Definition
+Developmental risk refers to characteristics or exposures that increase the probability of adverse developmental outcomes. Risk is probabilistic, not deterministic. A risk factor can raise the likelihood of an outcome without causing it in every individual.
+
+### Multiple levels
+Developmental risks can arise at biological, psychological, family, peer, school, community, economic, and historical levels. Risks may accumulate, interact, or occur during periods when a system is particularly sensitive. A single risk factor rarely explains a complex developmental outcome by itself.
+
+### Timing and accumulation
+Timing matters because the same exposure can have different consequences at different developmental stages. Risks can also accumulate across time, producing chronic strain or reducing access to protective resources. Conversely, a short exposure can matter greatly if it occurs during a highly sensitive period or affects a critical developmental process.
+
+### Risk and resilience
+Risk must be interpreted alongside protective factors and developmental resilience. People exposed to similar risks can have different outcomes because of differences in relationships, resources, coping, biology, timing, and opportunity. Resilience is therefore not proof that risk was absent; it is adaptation in the presence of meaningful challenge.
+
+### Correlation and causation
+Many developmental risk factors are correlated with one another. Poverty, family stress, neighborhood disadvantage, health problems, and educational opportunity can cluster. An observed association between one risk factor and an outcome may therefore reflect confounding or a broader causal system.
+
+### Ethical use
+Risk labels should not become predictions about an individual child or family. They are useful for identifying populations or conditions where prevention may be valuable, but they can also produce stigma if treated as destiny. Developmental assessment should communicate uncertainty and the possibility of change.
+
+### Research implications
+Strong developmental risk research examines temporal ordering, dose, timing, mechanisms, moderators, and protective processes. Longitudinal designs are especially useful when the question concerns trajectories, but they must address attrition, measurement change, cohort effects, and unmeasured confounding.
 
 ## 4. Relationship to This Chapter
 Developmental risk provides a general framework for understanding why developmental pathways diverge.
@@ -3466,6 +3547,27 @@ Resilience should be defined relative to meaningful adversity and an appropriate
 
 ### Evidence Status
 Research supports multiple pathways to resilience. No single factor guarantees resilience, and resilient outcomes can coexist with distress or difficulty in other domains.
+
+### Definition
+Developmental resilience refers to patterns of relatively positive adaptation despite exposure to significant adversity, risk, or disruption. Resilience is not simply a personality trait and is not equivalent to being unaffected by hardship. It concerns outcomes and adaptation relative to meaningful challenge.
+
+### Different forms
+Resilience can involve recovery after disruption, resistance to deterioration, sustained competence despite adversity, or successful adaptation through a changed pathway. These forms should not be treated as identical. A person can recover in one domain while continuing to struggle in another.
+
+### Processes rather than a single quality
+Resilience can emerge from supportive relationships, effective regulation, problem-solving skills, access to resources, flexible coping, educational opportunities, community support, and changes in circumstances. Protective processes can operate at different levels and can change across development.
+
+### Developmental timing
+Protective processes can have different effects at different ages. A supportive caregiver may be especially important in early childhood; peer relationships may become increasingly important in adolescence; employment, partnership, community, and health resources may become more influential in adulthood. Resilience therefore has a developmental ecology.
+
+### Plasticity and adaptation
+Resilience is closely related to developmental plasticity because adaptation requires change or reorganization in response to conditions. However, resilience does not always look like visible change. Maintaining stable functioning despite adversity can itself be an adaptive outcome.
+
+### Measurement
+Resilience must be defined relative to the adversity, time period, and outcome being measured. Calling someone resilient without specifying these elements can turn the concept into an unfalsifiable compliment. Researchers should identify the challenge, expected outcome, observed adaptation, and evidence that the adversity was meaningful.
+
+### Ethical boundary
+Resilience should never be used to romanticize adversity or imply that people should tolerate preventable harm. Protective processes can reduce harm, but responsibility for creating safe developmental environments remains with families, institutions, and societies.
 
 ## 4. Relationship to This Chapter
 Developmental resilience is the protective counterpart to developmental risk and helps explain divergent developmental trajectories.
