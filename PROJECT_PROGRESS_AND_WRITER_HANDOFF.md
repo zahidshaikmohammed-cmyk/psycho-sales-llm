@@ -1318,3 +1318,33 @@ The chapter passed structural, ontology, ownership, and scientific-integrity val
 **Current completed System 1 state:** Chapters 1.1–1.8, **541 canonical chapter Topics**.
 
 **Next target:** Chapter 1.9.
+
+
+## Chapter 1.13 — Final Canonical State — 2026-09-25
+
+Chapter 1.13 — **EMOTION AND AFFECT** is now completed, validated, locked, and sealed.
+
+- Architecture source: `system_1/SYSTEM_1_SURGICAL_CANONICAL_ARCHITECTURE_v2.md`
+- Exact architecture Topics: **62/62**
+- Canonical chapter file: `knowledge/system-01/chapter-1.13/CHAPTER_1.13.md`
+- Final validation: `knowledge/system-01/chapter-1.13/CHAPTER_1.13_FINAL_VALIDATION.md`
+- Status: **LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 1.1**
+- Total words: **61,156**
+- Six-section objects: **62/62**
+- Owns boundaries: **62/62**
+- Defers boundaries: **62/62**
+- Minimum Topic corpus: **840 words**
+- Maximum Topic corpus: **5,133 words**
+- Core Understanding / retrieval corpus: **49,486 words**
+- Core Understanding range: **726–944 words**
+- Architecture mismatches: **0**
+- Supplement/rebuild/depth-index artifacts: **0**
+- Final sealed chapter blob SHA: `164c5dc2d45c656096fad1f48f7865c351deed80`
+
+The final audit used the live architecture directly and preserved all 62 canonical Topic names. No new ontology Topics were invented. Relationship/application Topics remain relationship nodes rather than duplicate owners.
+
+**Completed canonical chapters:** 1.1–1.13
+
+**Completed canonical Topic count through Chapter 1.13:** **870**
+
+**Next target:** Chapter 1.14, after a fresh architecture + ownership + constitution audit.
