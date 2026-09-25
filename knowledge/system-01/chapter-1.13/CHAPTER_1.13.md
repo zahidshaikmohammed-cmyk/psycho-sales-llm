@@ -43,6 +43,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the construct is best treated as a state-dependent relation rather than a fixed property. Its effects can be moderated by relevance, expectation, controllability, prior learning, and feedback. This also means that changing the surrounding conditions can change the expression of the construct without changing the person's broader psychological capacity. For Affect, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Affect is the broad organizing concept for the chapter's treatment of mood, emotion, feeling, valence, arousal, expression, regulation, and discrete affective experiences.
 
@@ -96,6 +100,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the construct is best treated as a state-dependent relation rather than a fixed property. Its effects can be moderated by relevance, expectation, controllability, prior learning, and feedback. This also means that changing the surrounding conditions can change the expression of the construct without changing the person's broader psychological capacity. For Mood, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Mood is the chapter's principal sustained affective state and provides an important contrast with discrete emotional episodes.
 
@@ -149,6 +157,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the construct is best treated as a state-dependent relation rather than a fixed property. Its effects can be moderated by relevance, expectation, controllability, prior learning, and feedback. This also means that changing the surrounding conditions can change the expression of the construct without changing the person's broader psychological capacity. For Emotion, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Emotion is the chapter's central construct. Other Topics specify its components, generation processes, theories, regulation, expression, and particular emotional experiences.
 
@@ -199,6 +211,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the construct is best treated as a state-dependent relation rather than a fixed property. Its effects can be moderated by relevance, expectation, controllability, prior learning, and feedback. This also means that changing the surrounding conditions can change the expression of the construct without changing the person's broader psychological capacity. For Emotional episode, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Emotional episode connects the chapter's static-sounding constructs to the dynamic sequence of emotion generation and regulation.
 
@@ -249,6 +265,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the construct is best treated as a state-dependent relation rather than a fixed property. Its effects can be moderated by relevance, expectation, controllability, prior learning, and feedback. This also means that changing the surrounding conditions can change the expression of the construct without changing the person's broader psychological capacity. For Emotional stimulus, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Emotional stimulus provides the event-side counterpart to emotion generation and appraisal.
 
@@ -299,6 +319,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, this component can be altered selectively by context or intervention. That possibility is important because it prevents the component from becoming a proxy for the entire emotional episode. A strong explanation asks whether the component changed first, changed together with another component, or changed as a consequence of later regulation. For Emotional valence, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Valence supplies one major dimension for organizing affective states and complements arousal and more specific emotional categories.
 
@@ -349,6 +373,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, this component can be altered selectively by context or intervention. That possibility is important because it prevents the component from becoming a proxy for the entire emotional episode. A strong explanation asks whether the component changed first, changed together with another component, or changed as a consequence of later regulation. For Arousal, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Arousal is one of the chapter's major affective dimensions and must be distinguished from physiological arousal and emotional intensity.
 
@@ -399,6 +427,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, this component can be altered selectively by context or intervention. That possibility is important because it prevents the component from becoming a proxy for the entire emotional episode. A strong explanation asks whether the component changed first, changed together with another component, or changed as a consequence of later regulation. For Emotional intensity, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Intensity clarifies the magnitude dimension of emotion and prevents confusion between strength, valence, and activation.
 
@@ -449,6 +481,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, this component can be altered selectively by context or intervention. That possibility is important because it prevents the component from becoming a proxy for the entire emotional episode. A strong explanation asks whether the component changed first, changed together with another component, or changed as a consequence of later regulation. For Physiological arousal, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Physiological arousal provides the bodily component that must be distinguished from subjective feeling and broader psychological arousal.
 
@@ -499,6 +535,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, this component can be altered selectively by context or intervention. That possibility is important because it prevents the component from becoming a proxy for the entire emotional episode. A strong explanation asks whether the component changed first, changed together with another component, or changed as a consequence of later regulation. For Subjective feeling, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Subjective feeling is the experiential counterpart to physiological, expressive, appraisal, and action components of emotion.
 
@@ -549,6 +589,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, this component can be altered selectively by context or intervention. That possibility is important because it prevents the component from becoming a proxy for the entire emotional episode. A strong explanation asks whether the component changed first, changed together with another component, or changed as a consequence of later regulation. For Emotional expression, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Expression connects internal affective processes with interpersonal behavior and leads directly to display rules and expression regulation.
 
@@ -599,6 +643,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, this component can be altered selectively by context or intervention. That possibility is important because it prevents the component from becoming a proxy for the entire emotional episode. A strong explanation asks whether the component changed first, changed together with another component, or changed as a consequence of later regulation. For Action tendency, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Action tendency links emotion to motivation and behavior while remaining distinct from the actual action.
 
@@ -649,6 +697,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, this component can be altered selectively by context or intervention. That possibility is important because it prevents the component from becoming a proxy for the entire emotional episode. A strong explanation asks whether the component changed first, changed together with another component, or changed as a consequence of later regulation. For Emotional awareness, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Emotional awareness provides a foundation for emotional granularity, differentiation, and deliberate regulation.
 
@@ -699,6 +751,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, this component can be altered selectively by context or intervention. That possibility is important because it prevents the component from becoming a proxy for the entire emotional episode. A strong explanation asks whether the component changed first, changed together with another component, or changed as a consequence of later regulation. For Emotional granularity, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Granularity explains one route by which emotional awareness becomes more precise and connects naturally with emotional differentiation.
 
@@ -749,6 +805,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, this component can be altered selectively by context or intervention. That possibility is important because it prevents the component from becoming a proxy for the entire emotional episode. A strong explanation asks whether the component changed first, changed together with another component, or changed as a consequence of later regulation. For Emotional differentiation, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Differentiation complements granularity by explaining how distinct emotional experiences are separated within affective representation.
 
@@ -800,6 +860,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, this component can be altered selectively by context or intervention. That possibility is important because it prevents the component from becoming a proxy for the entire emotional episode. A strong explanation asks whether the component changed first, changed together with another component, or changed as a consequence of later regulation. For Appraisal, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Appraisal connects emotional stimuli with emotion generation and helps explain why the same event can produce different emotional responses.
 
@@ -849,6 +913,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, this component can be altered selectively by context or intervention. That possibility is important because it prevents the component from becoming a proxy for the entire emotional episode. A strong explanation asks whether the component changed first, changed together with another component, or changed as a consequence of later regulation. For Emotion generation, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Emotion generation is the process-level bridge among stimulus, appraisal, feeling, physiology, expression, and action tendency.
 
@@ -898,6 +966,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, this component can be altered selectively by context or intervention. That possibility is important because it prevents the component from becoming a proxy for the entire emotional episode. A strong explanation asks whether the component changed first, changed together with another component, or changed as a consequence of later regulation. For Emotion recognition, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Emotion recognition links emotional awareness and perception with interpersonal interpretation.
 
@@ -947,6 +1019,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, this component can be altered selectively by context or intervention. That possibility is important because it prevents the component from becoming a proxy for the entire emotional episode. A strong explanation asks whether the component changed first, changed together with another component, or changed as a consequence of later regulation. For Emotion perception, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Emotion perception supplies the perceptual side of emotion recognition and connects affect with sensation and attention.
 
@@ -996,6 +1072,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, effectiveness must be separated from intention. A strategy may be selected successfully but implemented weakly, or may produce an immediate change that does not persist. The relevant outcome can be immediate intensity, duration, recovery, expression, behavior, social consequence, or longer-term functioning. These outcomes should not be silently treated as equivalent. For Emotion regulation, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Emotion regulation is the chapter's central process for explaining change in emotional responding.
 
@@ -1045,6 +1125,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, effectiveness must be separated from intention. A strategy may be selected successfully but implemented weakly, or may produce an immediate change that does not persist. The relevant outcome can be immediate intensity, duration, recovery, expression, behavior, social consequence, or longer-term functioning. These outcomes should not be silently treated as equivalent. For Emotional suppression, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Suppression is a specific regulation strategy and therefore does not define emotion regulation as a whole.
 
@@ -1094,6 +1178,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, effectiveness must be separated from intention. A strategy may be selected successfully but implemented weakly, or may produce an immediate change that does not persist. The relevant outcome can be immediate intensity, duration, recovery, expression, behavior, social consequence, or longer-term functioning. These outcomes should not be silently treated as equivalent. For Cognitive reappraisal, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Reappraisal is a central example of appraisal-based emotion regulation.
 
@@ -1143,6 +1231,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, effectiveness must be separated from intention. A strategy may be selected successfully but implemented weakly, or may produce an immediate change that does not persist. The relevant outcome can be immediate intensity, duration, recovery, expression, behavior, social consequence, or longer-term functioning. These outcomes should not be silently treated as equivalent. For Acceptance, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Acceptance represents a regulatory stance distinct from suppression and reappraisal.
 
@@ -1192,6 +1284,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, effectiveness must be separated from intention. A strategy may be selected successfully but implemented weakly, or may produce an immediate change that does not persist. The relevant outcome can be immediate intensity, duration, recovery, expression, behavior, social consequence, or longer-term functioning. These outcomes should not be silently treated as equivalent. For Expression regulation, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Expression regulation links emotional expression with display rules and suppression.
 
@@ -1241,6 +1337,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, effectiveness must be separated from intention. A strategy may be selected successfully but implemented weakly, or may produce an immediate change that does not persist. The relevant outcome can be immediate intensity, duration, recovery, expression, behavior, social consequence, or longer-term functioning. These outcomes should not be silently treated as equivalent. For Display rules, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Display rules provide the social framework within which emotional expression and expression regulation occur.
 
@@ -1290,6 +1390,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, effectiveness must be separated from intention. A strategy may be selected successfully but implemented weakly, or may produce an immediate change that does not persist. The relevant outcome can be immediate intensity, duration, recovery, expression, behavior, social consequence, or longer-term functioning. These outcomes should not be silently treated as equivalent. For Emotional habits, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Emotional habits connect emotion regulation with learning and repeated patterns of responding.
 
@@ -1339,6 +1443,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, effectiveness must be separated from intention. A strategy may be selected successfully but implemented weakly, or may produce an immediate change that does not persist. The relevant outcome can be immediate intensity, duration, recovery, expression, behavior, social consequence, or longer-term functioning. These outcomes should not be silently treated as equivalent. For Emotion contagion, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Emotion contagion extends emotion beyond the individual and connects expression with interpersonal affective influence.
 
@@ -1388,6 +1496,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the decisive issue is whether the model generates predictions that distinguish it from alternatives. Evidence is strongest when competing explanations make different predictions under the same manipulation or temporal observation. A theory can remain scientifically useful even when some original claims are revised, provided its surviving mechanisms continue to organize evidence. For James–Lange theory, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 The theory belongs here because it is one of the historically influential models of emotion generation.
 
@@ -1437,6 +1549,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the decisive issue is whether the model generates predictions that distinguish it from alternatives. Evidence is strongest when competing explanations make different predictions under the same manipulation or temporal observation. A theory can remain scientifically useful even when some original claims are revised, provided its surviving mechanisms continue to organize evidence. For Cannon–Bard theory, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 It provides a contrasting historical model of emotion generation.
 
@@ -1486,6 +1602,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the decisive issue is whether the model generates predictions that distinguish it from alternatives. Evidence is strongest when competing explanations make different predictions under the same manipulation or temporal observation. A theory can remain scientifically useful even when some original claims are revised, provided its surviving mechanisms continue to organize evidence. For Two-factor theory, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Two-factor theory connects physiological arousal, cognition, context, and subjective feeling.
 
@@ -1535,6 +1655,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the decisive issue is whether the model generates predictions that distinguish it from alternatives. Evidence is strongest when competing explanations make different predictions under the same manipulation or temporal observation. A theory can remain scientifically useful even when some original claims are revised, provided its surviving mechanisms continue to organize evidence. For Cognitive appraisal theories, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Appraisal theories provide a major theoretical family explaining emotion generation and differentiation.
 
@@ -1585,6 +1709,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the decisive issue is whether the model generates predictions that distinguish it from alternatives. Evidence is strongest when competing explanations make different predictions under the same manipulation or temporal observation. A theory can remain scientifically useful even when some original claims are revised, provided its surviving mechanisms continue to organize evidence. For Basic-emotion approaches, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 This theory family provides one explanation for why some emotions may show recurring patterns across people and situations.
 
@@ -1634,6 +1762,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the decisive issue is whether the model generates predictions that distinguish it from alternatives. Evidence is strongest when competing explanations make different predictions under the same manipulation or temporal observation. A theory can remain scientifically useful even when some original claims are revised, provided its surviving mechanisms continue to organize evidence. For Dimensional approaches, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Dimensional approaches provide the theoretical basis for the chapter's treatment of valence and arousal.
 
@@ -1683,6 +1815,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the decisive issue is whether the model generates predictions that distinguish it from alternatives. Evidence is strongest when competing explanations make different predictions under the same manipulation or temporal observation. A theory can remain scientifically useful even when some original claims are revised, provided its surviving mechanisms continue to organize evidence. For Constructed-emotion approaches, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Constructed-emotion theory provides a major alternative to basic-emotion and purely dimensional accounts.
 
@@ -1732,6 +1868,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the decisive issue is whether the model generates predictions that distinguish it from alternatives. Evidence is strongest when competing explanations make different predictions under the same manipulation or temporal observation. A theory can remain scientifically useful even when some original claims are revised, provided its surviving mechanisms continue to organize evidence. For Facial-feedback hypothesis, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 It connects emotional expression with subjective feeling and emotion generation.
 
@@ -1781,6 +1921,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the category should be connected to eliciting conditions and consequences without assuming a rigid one-to-one signature. Different routes can converge on a similar emotional state, and one route can produce different states depending on meaning. This makes context part of the mechanism rather than a nuisance variable added after the fact. For Positive affect, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Positive affect is one major valence domain and provides a contrast with negative affect.
 
@@ -1830,6 +1974,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the category should be connected to eliciting conditions and consequences without assuming a rigid one-to-one signature. Different routes can converge on a similar emotional state, and one route can produce different states depending on meaning. This makes context part of the mechanism rather than a nuisance variable added after the fact. For Negative affect, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Negative affect organizes several discrete emotions while preserving their differences.
 
@@ -1879,6 +2027,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the category should be connected to eliciting conditions and consequences without assuming a rigid one-to-one signature. Different routes can converge on a similar emotional state, and one route can produce different states depending on meaning. This makes context part of the mechanism rather than a nuisance variable added after the fact. For Happiness, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Happiness is a major positive affective experience and illustrates the difference between emotion and broader well-being judgments.
 
@@ -1928,6 +2080,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the category should be connected to eliciting conditions and consequences without assuming a rigid one-to-one signature. Different routes can converge on a similar emotional state, and one route can produce different states depending on meaning. This makes context part of the mechanism rather than a nuisance variable added after the fact. For Sadness, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Sadness is a core negatively valenced emotion and demonstrates how emotion can organize responses to loss.
 
@@ -1977,6 +2133,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the category should be connected to eliciting conditions and consequences without assuming a rigid one-to-one signature. Different routes can converge on a similar emotional state, and one route can produce different states depending on meaning. This makes context part of the mechanism rather than a nuisance variable added after the fact. For Fear, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Fear illustrates threat-related emotion and links appraisal, action tendency, and physiological arousal.
 
@@ -2026,6 +2186,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the category should be connected to eliciting conditions and consequences without assuming a rigid one-to-one signature. Different routes can converge on a similar emotional state, and one route can produce different states depending on meaning. This makes context part of the mechanism rather than a nuisance variable added after the fact. For Anger, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Anger illustrates the link between appraisal of obstruction or wrongdoing and action tendency.
 
@@ -2075,6 +2239,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the category should be connected to eliciting conditions and consequences without assuming a rigid one-to-one signature. Different routes can converge on a similar emotional state, and one route can produce different states depending on meaning. This makes context part of the mechanism rather than a nuisance variable added after the fact. For Disgust, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Disgust illustrates an avoidance-oriented emotion with biological, learned, and social dimensions.
 
@@ -2124,6 +2292,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the category should be connected to eliciting conditions and consequences without assuming a rigid one-to-one signature. Different routes can converge on a similar emotional state, and one route can produce different states depending on meaning. This makes context part of the mechanism rather than a nuisance variable added after the fact. For Surprise, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Surprise demonstrates how expectation and prediction shape emotional response.
 
@@ -2173,6 +2345,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the category should be connected to eliciting conditions and consequences without assuming a rigid one-to-one signature. Different routes can converge on a similar emotional state, and one route can produce different states depending on meaning. This makes context part of the mechanism rather than a nuisance variable added after the fact. For Interest, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Interest is a positive affective experience that connects emotion with exploration and motivation.
 
@@ -2222,6 +2398,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the category should be connected to eliciting conditions and consequences without assuming a rigid one-to-one signature. Different routes can converge on a similar emotional state, and one route can produce different states depending on meaning. This makes context part of the mechanism rather than a nuisance variable added after the fact. For Love and affection, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Love and affection represent complex positive interpersonal affect and connect emotion with social relationships.
 
@@ -2271,6 +2451,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the category should be connected to eliciting conditions and consequences without assuming a rigid one-to-one signature. Different routes can converge on a similar emotional state, and one route can produce different states depending on meaning. This makes context part of the mechanism rather than a nuisance variable added after the fact. For Shame, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Shame introduces self-conscious emotion and prepares the distinction from guilt and pride.
 
@@ -2320,6 +2504,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the category should be connected to eliciting conditions and consequences without assuming a rigid one-to-one signature. Different routes can converge on a similar emotional state, and one route can produce different states depending on meaning. This makes context part of the mechanism rather than a nuisance variable added after the fact. For Guilt, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Guilt is a self-conscious emotion that contrasts with shame and connects emotion to moral and interpersonal behavior.
 
@@ -2370,6 +2558,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the category should be connected to eliciting conditions and consequences without assuming a rigid one-to-one signature. Different routes can converge on a similar emotional state, and one route can produce different states depending on meaning. This makes context part of the mechanism rather than a nuisance variable added after the fact. For Pride, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Pride completes the central group of self-conscious emotions alongside shame and guilt.
 
@@ -2419,6 +2611,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the category should be connected to eliciting conditions and consequences without assuming a rigid one-to-one signature. Different routes can converge on a similar emotional state, and one route can produce different states depending on meaning. This makes context part of the mechanism rather than a nuisance variable added after the fact. For Envy, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Envy illustrates how emotion can emerge from social comparison and self-evaluation.
 
@@ -2468,6 +2664,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the category should be connected to eliciting conditions and consequences without assuming a rigid one-to-one signature. Different routes can converge on a similar emotional state, and one route can produce different states depending on meaning. This makes context part of the mechanism rather than a nuisance variable added after the fact. For Jealousy, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Jealousy demonstrates how multiple affective processes can combine around social threat.
 
@@ -2517,6 +2717,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the category should be connected to eliciting conditions and consequences without assuming a rigid one-to-one signature. Different routes can converge on a similar emotional state, and one route can produce different states depending on meaning. This makes context part of the mechanism rather than a nuisance variable added after the fact. For Gratitude, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Gratitude is a positive social emotion illustrating how affect can encode beneficial interpersonal events.
 
@@ -2566,6 +2770,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the category should be connected to eliciting conditions and consequences without assuming a rigid one-to-one signature. Different routes can converge on a similar emotional state, and one route can produce different states depending on meaning. This makes context part of the mechanism rather than a nuisance variable added after the fact. For Hope, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Hope connects positive affect with future-oriented cognition and motivation.
 
@@ -2615,6 +2823,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the category should be connected to eliciting conditions and consequences without assuming a rigid one-to-one signature. Different routes can converge on a similar emotional state, and one route can produce different states depending on meaning. This makes context part of the mechanism rather than a nuisance variable added after the fact. For Anxiety as emotional experience, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Anxiety provides the chapter's major future-oriented threat emotion and contrasts with fear.
 
@@ -2664,6 +2876,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the relationship should be represented as a conditional interaction rather than a universal effect. The direction can reverse, disappear, or strengthen as goals, timing, task demands, and individual state change. Cross-domain evidence should therefore preserve the ownership boundary while making reciprocal influence explicit. For Emotion and cognition, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 It integrates emotion with the cognitive systems described in Chapters 1.6, 1.8, 1.9, and 1.10.
 
@@ -2713,6 +2929,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the relationship should be represented as a conditional interaction rather than a universal effect. The direction can reverse, disappear, or strengthen as goals, timing, task demands, and individual state change. Cross-domain evidence should therefore preserve the ownership boundary while making reciprocal influence explicit. For Emotion and memory, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 This relationship node connects Chapter 1.13 with the canonical memory system in Chapter 1.8.
 
@@ -2762,6 +2982,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the relationship should be represented as a conditional interaction rather than a universal effect. The direction can reverse, disappear, or strengthen as goals, timing, task demands, and individual state change. Cross-domain evidence should therefore preserve the ownership boundary while making reciprocal influence explicit. For Emotion and attention, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 It links emotional salience to Chapter 1.6's canonical attention mechanisms.
 
@@ -2811,6 +3035,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the relationship should be represented as a conditional interaction rather than a universal effect. The direction can reverse, disappear, or strengthen as goals, timing, task demands, and individual state change. Cross-domain evidence should therefore preserve the ownership boundary while making reciprocal influence explicit. For Emotion and decision-making, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 This relationship node connects emotion with Chapter 1.10's canonical decision-making system.
 
@@ -2860,6 +3088,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the relationship should be represented as a conditional interaction rather than a universal effect. The direction can reverse, disappear, or strengthen as goals, timing, task demands, and individual state change. Cross-domain evidence should therefore preserve the ownership boundary while making reciprocal influence explicit. For Emotion and motivation, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 It links affective action readiness to the motivational architecture of Chapter 1.12.
 
@@ -2909,6 +3141,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the relationship should be represented as a conditional interaction rather than a universal effect. The direction can reverse, disappear, or strengthen as goals, timing, task demands, and individual state change. Cross-domain evidence should therefore preserve the ownership boundary while making reciprocal influence explicit. For Emotion and action, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 It connects action tendency to observable behavior and links emotion with the general behavior system.
 
@@ -2958,6 +3194,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the relationship should be represented as a conditional interaction rather than a universal effect. The direction can reverse, disappear, or strengthen as goals, timing, task demands, and individual state change. Cross-domain evidence should therefore preserve the ownership boundary while making reciprocal influence explicit. For Emotion and social judgment, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 It connects emotion with the social-cognitive processes addressed in later System 1 chapters.
 
@@ -3007,6 +3247,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the relationship should be represented as a conditional interaction rather than a universal effect. The direction can reverse, disappear, or strengthen as goals, timing, task demands, and individual state change. Cross-domain evidence should therefore preserve the ownership boundary while making reciprocal influence explicit. For Emotional intelligence, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 Emotional intelligence integrates emotional awareness, recognition, understanding, and regulation while remaining a model-level construct rather than a synonym for emotional maturity.
 
@@ -3056,6 +3300,10 @@ Contextual moderators include culture, language, development, learning history, 
 For measurement, use the channel that matches the defining property and add complementary channels where causal interpretation requires them. Self-report is especially informative for conscious experience but is affected by awareness and reporting conditions. Behavioral indicators reveal action but not necessarily internal cause. Physiological indicators reveal bodily change but are rarely category-specific by themselves. Multi-method and longitudinal designs provide stronger tests of convergence, dissociation, and temporal order.
 
 The retrieval standard is simple: the Topic should let the system answer what activates the construct, what mechanism defines it, what it changes, what distinguishes it from adjacent constructs, how it is measured, and where uncertainty remains. That is deeper than a definition because it gives the construct a usable causal and evidential map.
+
+### Causal and retrieval refinement
+
+At the level of causal explanation, the relationship should be represented as a conditional interaction rather than a universal effect. The direction can reverse, disappear, or strengthen as goals, timing, task demands, and individual state change. Cross-domain evidence should therefore preserve the ownership boundary while making reciprocal influence explicit. For Individual differences in emotion, this distinction is especially important when moving from description to inference. The knowledge object should preserve the difference between what is directly observed, what is reported, what is statistically associated, and what is proposed as a mechanism. Retrieval should return the narrow construct first and then its relevant cross-links, so that downstream systems do not infer ownership merely because the construct appears in many relationships.
 ## 4. Relationship to This Chapter
 This relationship-level Topic closes the chapter by integrating variation across all major affective processes.
 
