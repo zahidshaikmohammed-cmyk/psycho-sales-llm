@@ -182,19 +182,22 @@ This structure reflects the current canonical repository state. Chapter-specific
 - Final validation: `knowledge/system-01/chapter-1.11/CHAPTER_1.11_FINAL_VALIDATION.md`
 ### Chapter 1.12 — MOTIVATION, NEEDS, GOALS, AND SELF-REGULATION
 - **75 Topics**
-- **LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 1.0**
+- **LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 1.1**
 - Exact architecture match: **75/75**
-- Total chapter words: **19,034**
-- Total Core Understanding words: **8,674**
-- Average Core Understanding: **115.7 words/topic**
-- Minimum Core Understanding: **95 words**
-- Maximum Core Understanding: **143 words**
+- Total chapter words: **55,270**
+- Canonical Topic corpus: **32,398 words**
+- Chapter-level integrated synthesis: **22,840 words**
+- Average Topic corpus: **432.0 words/topic**
+- Total Core Understanding words: **21,924**
+- Average Core Understanding: **292.3 words/topic**
+- Minimum Core Understanding: **156 words**
+- Maximum Core Understanding: **769 words**
 - Six-section Knowledge Objects: **75/75**
 - Owns boundaries: **75/75**
 - Defers boundaries: **75/75**
-- Generic/repeated Core Understanding blocks: **0**
-- Topic additions/removals/renames: **0**
-- Ownership gate: **PASS**
+- Duplicate Core Understanding blocks: **0**
+- Chapter-level synthesis is explicitly non-owning and separated from Topic 75.
+- Rebuild/supplement-era language removed from the canonical chapter.
 - Final validation: `knowledge/system-01/chapter-1.12/CHAPTER_1.12_FINAL_VALIDATION.md`
 
 
