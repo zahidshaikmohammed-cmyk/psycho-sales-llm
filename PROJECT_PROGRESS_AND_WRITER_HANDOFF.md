@@ -6,7 +6,7 @@
 
 **Critical rule:** This document is a handoff/control layer. It does not override the canonical architecture, constitution, locked chapters, or ownership records. When this document conflicts with a canonical source, the canonical source wins and the discrepancy must be investigated.
 
-**Current handoff state:** System 1 Chapter 1.5 — **CONSCIOUSNESS, SLEEP, AND ALTERED STATES** has been written, validated, and sealed. The next writer must not restart the project, rewrite completed chapters, or invent a new writing method.
+**Current handoff state (verified against live repository):** System 1 Chapters 1.1–1.11 have completed canonical knowledge layers. Chapter 1.10 is V2.0 certified/locked/sealed. Chapter 1.11 — **LANGUAGE AND INTELLIGENCE** is V1.0 certified/locked/sealed with 60/60 exact architecture Topics. The next writer must not restart the project, rewrite completed chapters, or invent a new writing method.
 
 ---
 
@@ -54,6 +54,30 @@ The core quality target is:
 And:
 
 > **Simple on the surface. Deep underneath. Precise throughout.**
+
+---
+
+# 2A. LATEST VERIFIED REPOSITORY STATE — 2026-09-25
+
+The live repository was inspected before the Chapter 1.11 build.
+
+- Architecture source: `system_1/SYSTEM_1_SURGICAL_CANONICAL_ARCHITECTURE_v2.md`
+- Chapter 1.11 title: **LANGUAGE AND INTELLIGENCE**
+- Chapter 1.11 architecture Topics: **60**
+- Chapter 1.11 canonical Topics written: **60/60**
+- Chapter 1.11 total words: **15,277**
+- Chapter 1.11 Core Understanding words: **7,353**
+- Chapter 1.11 average Core Understanding: **122.6 words/topic**
+- Chapter 1.11 Core Understanding range: **107–139 words**
+- Chapter 1.11 six-section objects: **60/60**
+- Chapter 1.11 Owns boundaries: **60/60**
+- Chapter 1.11 Defers boundaries: **60/60**
+- Chapter 1.11 additions/removals/renames: **0**
+- Chapter 1.11 final validation: `knowledge/system-01/chapter-1.11/CHAPTER_1.11_FINAL_VALIDATION.md`
+- Current completed chapter Topic count through 1.11: **733**
+- Next target: **Chapter 1.12**, after a fresh live architecture and ownership audit.
+
+The Chapter 1.11 ontology was taken only from the live surgical architecture file. No Topic was inferred from memory or from the handoff document.
 
 ---
 
