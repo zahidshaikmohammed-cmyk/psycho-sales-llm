@@ -95,11 +95,11 @@ It contains all 44 canonical Topics. Two exact ownership collisions were surgica
 
 ## System 1 Ownership Remediation
 
-The cross-chapter ownership audit has been updated for the current **359-topic canonical System 1 state (Chapters 1.1–1.5)**. Material ownership collisions were remediated without renumbering or deleting canonical Topics. See:
+The cross-chapter ownership audit is maintained against the live locked System 1 architecture. Material ownership collisions are remediated surgically without renumbering or deleting canonical Topics. See:
 
 `knowledge/system-01/CROSS_CHAPTER_OWNERSHIP_REMEDIATION.md`
 
-The six completed System 1 chapters are formally LOCKED & SEALED as canonical knowledge. Chapters 1.1–1.5 are canonical knowledge version 1.1 after structural, scientific-integrity, and ownership validation.
+The completed System 1 chapters are maintained as individually versioned canonical knowledge objects. Current completion is through Chapter 1.11.
 
 ---
 
@@ -144,7 +144,7 @@ psycho-sales-llm/
             └── CHAPTER_1.4_FINAL_VALIDATION.md
 ```
 
-This structure is intentionally minimal and reflects the current canonical repository state.
+This structure reflects the current canonical repository state. Chapter-specific folders continue through Chapter 1.11; the current-state section below records the latest completion metrics.
 
 # Final Standard
 
@@ -255,4 +255,4 @@ Chapter 1.7 — Learning and Behavior Change has been written and depth-audited 
 
 **Source-of-truth note:** The live architecture currently exposes 66 named Topics for Chapter 1.7. No additional Topics were invented to reconcile any separate count.
 
-**Next target:** Chapter 1.8.
+**Historical milestone; superseded by the current completion state recorded above.**
