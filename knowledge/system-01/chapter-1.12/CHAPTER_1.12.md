@@ -18,6 +18,18 @@ Motivation is the set of processes that influence the initiation, direction, int
 ## 3. Core Understanding
 Motivation is not a single force or measurable substance inside a person. It is an umbrella construct used to describe processes that help explain why behavior begins, where it is directed, how much effort is invested, and how long activity is sustained. Motivated behavior can arise from physiological regulation, incentives, anticipated outcomes, intrinsic interest, social motives, goals, values, or combinations of these influences. Motivation can therefore be present even when behavior is not immediately expressed, because competing goals, situational constraints, or self-regulatory processes can suppress or redirect action. Different motivational theories emphasize different mechanisms, and no single theory explains every form of motivated behavior. Motivation also changes over time as needs, expectations, rewards, costs, feedback, and contextual conditions change. It is closely related to emotion, learning, decision-making, and self-regulation, but it is not reducible to any one of them.
 
+### Surgical deepening — expanded mechanism, boundary conditions, and evidence
+
+Motivation is best understood as a dynamic organization of processes that make some actions more likely than others at a particular time. It is not simply “wanting something,” and it is not identical to pleasure, arousal, personality, or conscious intention. Motivational states alter the priority assigned to possible actions by changing attention, valuation, effort allocation, persistence, and sensitivity to outcomes. The same person can therefore have strong motivation for one goal and weak motivation for another without possessing a globally high or low amount of motivation.
+
+A useful analysis separates at least four questions: what outcome is represented as desirable or required, how strongly that outcome is valued, how attainable it is perceived to be, and what action tendencies follow from the motivational state. These components can dissociate. A person may value an outcome highly but expect failure, producing weak engagement; another may expect success but value the outcome little. Motivation can also operate without explicit verbal awareness. Physiological regulation, learned incentives, habits, social expectations, and affective signals can bias action before a person forms a deliberate explanation.
+
+Motivation changes over time because internal states and external conditions change. Fatigue, hunger, opportunity costs, social evaluation, recent success or failure, perceived progress, reward availability, and competing goals can all alter the current motivational landscape. Consequently, observed behavior is not a direct readout of a stable motive. Failure to act can reflect low valuation, low expectancy, competing priorities, insufficient opportunity, environmental friction, inhibitory control, or a mismatch between intention and action.
+
+Motivation also has direction and function. Approach-oriented motivation increases the attractiveness or pursuit of desired states, whereas avoidance-oriented motivation organizes behavior around preventing or escaping undesired states. Many real behaviors contain both: studying may approach mastery while avoiding failure; seeking medical care may approach health while avoiding deterioration.
+
+Scientific motivation research therefore asks what produces action, what sustains it, why priorities change, and why the same incentive can produce different behavior in different people or contexts. No single motivational theory captures all of these processes. The field contains biological, behavioral, cognitive, social, and self-regulatory explanations that operate at different levels.
+
 ## 4. Relationship to This Chapter
 Motivation is the chapter's broad organizing construct. The remaining Topics specify motives, needs, goal processes, motivational forms, major models, biological motives, reward processes, and self-regulation.
 
@@ -45,6 +57,18 @@ A motive is a psychological tendency, need-related concern, or desired outcome t
 
 ## 3. Core Understanding
 Motives provide specificity within the broader construct of motivation. A person may be motivated in general, but a motive identifies what kind of outcome or state is being sought, avoided, maintained, or restored. Motives can be linked to biological regulation, learned preferences, social relationships, achievement, affiliation, power, curiosity, or other recurring concerns. Some motives are relatively stable individual differences, whereas others are activated by current circumstances and goals. Motives do not mechanically determine behavior: their expression depends on situational affordances, competing motives, expectations, perceived costs, available actions, and self-regulatory control. A motive can also operate without a fully conscious verbal representation of its source or purpose. In research, motive is therefore broader and less operationally uniform than a specific experimental variable. It should not be treated as a hidden agent that independently causes behavior without specifying the processes connecting the motive to action.
+
+### Surgical deepening — expanded mechanism, boundary conditions, and evidence
+
+A motive is a relatively enduring motivational tendency that gives behavior a characteristic direction across situations, while a motivational state is more immediate and context-sensitive. Motives can be inferred from recurring choices, goal preferences, fantasies, emotional reactions, or patterns of behavior, but they are not directly observable objects. This distinction matters because a single action can have several possible causes, and the person's stated reason may capture only part of the motivational system involved.
+
+Classic motive research distinguished motives such as achievement, affiliation, and power. Contemporary approaches often treat motives as organized patterns of preference and value rather than as fixed quantities inside the person. Motives may be partly rooted in biological regulation, partly learned through experience, and partly shaped by social environments. Their expression depends on opportunity. A strong achievement motive cannot produce achievement behavior when the person has no meaningful task, while a strong affiliation motive may be expressed differently in a supportive community than in a socially threatening environment.
+
+Motive strength should therefore not be equated with behavioral frequency. A person may have a strong motive but repeatedly suppress its expression because another goal has higher priority, because expression is socially costly, or because the environment provides no suitable route to satisfaction. Conversely, repeated behavior can occur with little conscious motive when habits, external contingencies, or automatic processes dominate.
+
+The concept also requires care about measurement. Motives can be assessed through self-report, behavioral choices, indirect procedures, and goal-related patterns, but these methods do not necessarily measure the same psychological object. Self-reports are useful for consciously accessible motives; indirect methods may capture other aspects but have more complex validity questions. A motive should therefore be treated as an explanatory construct supported by converging evidence rather than as an invisible cause that can be assumed whenever behavior occurs.
+
+Within a motivational architecture, motives help explain why certain goals repeatedly become attractive or important. They do not determine every goal, and they do not eliminate the role of situational incentives, learning, social norms, cognitive appraisal, or self-regulation. Their value lies in explaining patterned motivational direction across time and contexts.
 
 ## 4. Relationship to This Chapter
 Motive provides a bridge between general motivation and the more specific needs, motivational forms, and goal processes covered later in the chapter.
@@ -74,6 +98,18 @@ A need is a state or requirement whose satisfaction is important for biological 
 ## 3. Core Understanding
 Needs can be biological, psychological, or social, and their motivational significance depends on the organism and context. Physiological needs such as water or energy balance can arise from regulatory disturbances that prompt corrective behavior. Psychological theories also describe needs concerning autonomy, competence, relatedness, security, or other conditions considered important for functioning. A need is not identical to a desire: a person can desire something that is not necessary for functioning, and an important need may operate without a clearly articulated desire. Needs also differ in urgency. Some become highly salient when deprivation is substantial, whereas others influence behavior more continuously through values, social context, or developmental history. Need concepts are therefore useful for explaining recurring motivational organization, but the claim that a particular need is universal or fundamental is theory-dependent and requires empirical support.
 
+### Surgical deepening — expanded mechanism, boundary conditions, and evidence
+
+A psychological need is a condition whose satisfaction or restoration is important for functioning, development, or well-being within a specified theoretical framework. The term is used in several ways in psychology, so it must not be treated as a synonym for any desire. Hunger is a regulatory need related to energy balance; autonomy, competence, and relatedness are psychological needs in self-determination theory; and achievement, affiliation, and power are often described as social motives or needs. The scientific meaning depends on the theory and level of analysis.
+
+Needs can generate motivational pressure because a discrepancy between a regulated state and a required or desired state can alter attention, valuation, and action. Biological needs often have identifiable regulatory mechanisms and homeostatic or allostatic functions. Psychological needs may operate through social and cognitive processes rather than through a single physiological deficit. This difference is important: not every “need” is a bodily deficiency, and psychological need satisfaction is not reducible to the feeling of wanting something.
+
+Needs also differ in urgency, flexibility, and means of satisfaction. A biological need can become behaviorally dominant under deprivation, whereas a psychological need can be satisfied through many different activities and relationships. Need satisfaction can therefore be indirect. A person may experience competence through learning, work, sport, creative activity, or solving a difficult problem. Similarly, relatedness can be supported by friendship, family, community, or collaborative activity.
+
+A need should not be inferred solely from the fact that a person pursues an outcome. People often pursue goals because they are instrumentally useful, socially expected, habitual, or rewarded. The goal is the chosen outcome; the need is a broader condition or motivational requirement that may help explain why that outcome matters. Multiple needs can also converge on one goal, and one behavior can serve several needs simultaneously.
+
+Need concepts become scientifically useful when their predicted consequences and boundary conditions are specified. A theory should indicate what counts as satisfaction, what happens under deprivation or frustration, which behaviors are functional substitutes, and how contextual conditions alter the relationship. Without such specification, “need” can become a circular label for any strong desire. In this chapter, needs are therefore treated as structured motivational constructs whose meaning depends on their theoretical definition and empirical evidence.
+
 ## 4. Relationship to This Chapter
 Need is a foundational motivational concept that connects physiological regulation, psychological motives, and need-based theories.
 
@@ -101,6 +137,20 @@ Drive is a motivational state arising from an internal condition that increases 
 
 ## 3. Core Understanding
 Drive concepts traditionally describe motivation as emerging from internal disturbances or deficits. A drive can be understood functionally as increased behavioral pressure associated with a regulatory problem, such as physiological deprivation. Classical drive theories proposed that behavior reduces internal tension and restores equilibrium, making drive reduction a central source of reinforcement. Modern motivational science shows that motivated behavior is not explained by homeostatic drive alone. Organisms can pursue rewards in advance of deprivation, respond to learned cues, and continue behavior when immediate physiological restoration is not the objective. Drive therefore remains useful for describing certain regulatory motivational states but should not be treated as a universal theory of motivation. Drive intensity also does not map perfectly onto action because competing goals, incentives, learning, context, and self-control can alter behavioral expression.
+
+### Surgical deepening — expanded mechanism, boundary conditions, and evidence
+
+A drive is a motivational state traditionally understood as arising from an internal physiological deficit or regulatory disturbance and increasing the tendency to perform behavior that reduces that disturbance. The concept was central to early learning theory because it offered a bridge between biological regulation and learned action. Hunger, thirst, and related states were treated as sources of motivational energy that could energize behavior.
+
+Drive theory has explanatory value for some forms of biological regulation, but the classical idea that all motivation is generated by deprivation has been substantially qualified. Organisms often act before a physiological deficit becomes severe, and people frequently pursue rewards, novelty, affiliation, achievement, or exploration without an obvious deficit. Learned incentives can attract behavior even when homeostatic needs are already satisfied. Anticipation can also alter physiological and behavioral states before the relevant deficit occurs.
+
+The distinction between drive and incentive is therefore fundamental. A drive is classically an internal state associated with regulation or deprivation; an incentive is an external or represented property that makes an outcome attractive. The two can interact. Food can be highly attractive when hungry, but palatable food can also motivate eating in the absence of strong metabolic need. Similarly, thirst can motivate drinking, while the taste or social context of a beverage can contribute additional motivational value.
+
+Drive intensity is not equivalent to a simple conscious feeling. Physiological regulation involves distributed mechanisms that monitor internal variables and alter behavior, autonomic activity, endocrine activity, and cognition. Psychological experience is one output of these systems rather than a complete measurement of them. Modern models therefore often integrate homeostatic regulation, reward valuation, learning, prediction, and contextual control.
+
+Drive concepts also have temporal dynamics. A drive may increase under deprivation, decline after relevant consumption, and interact with competing goals. The same drive can produce different behaviors depending on available opportunities and learned preferences. Consequently, drive is best used as a mechanism-level construct for motivational pressure associated with regulated internal states, not as a universal explanation of human action.
+
+The historical importance of drive theory remains useful because it established a durable question: how do bodily regulatory systems become organized into goal-directed behavior? Contemporary motivational science answers that question with a broader architecture involving physiology, learning, reward, cognition, and context rather than a single undifferentiated drive force.
 
 ## 4. Relationship to This Chapter
 Drive provides the internal-regulation perspective that historically motivated drive-reduction theory and complements incentive- and goal-based accounts.
@@ -130,6 +180,20 @@ An incentive is an anticipated outcome, stimulus, or consequence that increases 
 ## 3. Core Understanding
 Incentives concern the motivational value of outcomes and cues rather than an internal deficit alone. Food can function as an incentive when it is attractive, social approval can become an incentive through learning, and an avoided cost can influence behavior by making an alternative less attractive. Incentive effects depend on learning, current needs, expectations, valuation, context, and available choices. The same outcome can have different motivational value for different people or for the same person at different times. Incentives can therefore interact with intrinsic interest rather than simply replacing it. An incentive is also not synonymous with reward: reward commonly refers to an outcome or process experienced or evaluated as valuable, whereas incentive emphasizes its capacity to influence approach or choice. Incentive explanations should specify what is anticipated and how that anticipation is connected to behavior.
 
+### Surgical deepening — expanded mechanism, boundary conditions, and evidence
+
+An incentive is a feature of an outcome, object, event, or situation that increases or decreases its motivational value and thereby influences behavior. Incentives are often external, such as money, food, social approval, or avoidance of a penalty, but their motivational meaning is represented internally. The same objective outcome can therefore have different incentive value for different people or for the same person at different times.
+
+Incentive value is not identical to reward. A reward is an outcome that functions as reinforcing or desirable under specified conditions; an incentive is a motivational property that can influence approach or choice before the outcome is obtained. Anticipated incentives can guide attention and effort, making behavior more likely even when the outcome is delayed. Incentive cues can also acquire motivational significance through learning. A neutral stimulus repeatedly associated with a rewarding outcome can become attention-grabbing or approach-promoting in its own right.
+
+Incentive effects depend on state and context. Hunger can increase the incentive value of food-related cues; social exclusion can alter the value of affiliation; and repeated experience can change how strongly a cue predicts an outcome. Incentive value can also be reduced by satiation, devaluation, disappointment, or changes in opportunity cost. Thus an incentive is not a fixed property of an object.
+
+Incentives can influence both what people choose and how much effort they are willing to invest. However, the relationship is not perfectly linear. Larger external rewards do not automatically produce proportionally greater effort, and rewards can sometimes interfere with intrinsic motivation or shift how a person interprets an activity. This is one reason motivation research distinguishes incentive-based regulation from intrinsic forms of motivation.
+
+The concept also highlights the difference between outcome value and cue value. A person may respond strongly to a signal that predicts a reward even when the reward itself is no longer valuable. Such learning-dependent effects are important in addiction research, appetite, consumer behavior, and everyday habit formation, although the underlying psychological principles remain broader than any one application.
+
+Scientifically, incentives are most informative when researchers specify the outcome, the individual's current state, the learning history that gives the incentive its meaning, and the behavior being measured. “The incentive was motivating” is therefore incomplete unless the mechanism and context are clear.
+
 ## 4. Relationship to This Chapter
 Incentive is a foundational concept for incentive theory, extrinsic motivation, reward sensitivity, and goal-directed behavior.
 
@@ -157,6 +221,20 @@ Instinctive motivation refers to motivation attributed to relatively species-typ
 
 ## 3. Core Understanding
 Instinct concepts arose from attempts to explain behavior that appears reliably without extensive learning and is characteristic of a species. Early psychological accounts sometimes treated instincts as discrete inherited forces that directly produced behavior. Contemporary science generally uses more specific concepts such as evolved predispositions, biological constraints, reflexes, developmental preparedness, and species-typical behavioral systems because behavior usually reflects interaction among biological organization, learning, and context. Some behaviors have strong innate components, but the existence of an inherited predisposition does not imply that the complete adult behavior is genetically preprogrammed. Development, experience, environmental opportunity, and social learning can substantially shape expression. Instinctive motivation is therefore best treated as a historically important concept and a broad description of biological preparedness rather than a complete modern theory of motivation.
+
+### Surgical deepening — expanded mechanism, boundary conditions, and evidence
+
+Instinctive motivation refers to motivational explanations that attribute behavior to relatively innate, species-typical tendencies or action patterns. Historical instinct theories proposed large lists of human instincts to explain aggression, curiosity, affiliation, parental behavior, and other activities. Modern psychology uses the term much more cautiously because complex human behavior is strongly shaped by learning, development, culture, and context.
+
+Innate predispositions nevertheless remain scientifically important. Evolution can shape sensitivity to particular stimuli, broad behavioral tendencies, physiological regulatory systems, and learning biases. An evolved predisposition does not mean that a behavior is genetically fixed or inevitable. Developmental experience can determine whether, when, and how such predispositions are expressed. The relevant scientific question is therefore usually not whether a behavior is “an instinct,” but which components are biologically prepared and how they interact with learning and environment.
+
+A distinction between reflexes, fixed action patterns, motivational systems, and learned behavior is useful. A reflex is a relatively direct stimulus-response mechanism; a motivational system organizes behavior toward functional outcomes; and a learned behavior depends substantially on experience. Human motivation often combines these levels. Infants show early biases toward social information, while later social behavior is elaborated through learning, attachment, language, norms, and cultural practice.
+
+Instinctive explanations can become circular if the label merely restates the behavior: saying that a person helps because of an “instinct to help” does not explain why helping occurs. A useful biological explanation must identify the underlying mechanism, developmental pathway, adaptive function if relevant, and environmental conditions that regulate expression.
+
+Evolutionary function also must be separated from proximate mechanism. A behavior may have evolved because it historically affected survival or reproduction, yet the immediate psychological cause may involve reward learning, social expectations, emotion, or goal representation. Evolutionary explanations are therefore complementary to psychological explanations rather than replacements for them.
+
+The modern position is not that innate influences are absent. It is that human motivation emerges from interaction among biological predispositions, physiological regulation, learning, cognition, social relationships, and culture. “Instinctive” should therefore be reserved for cases where an inherited motivational or behavioral predisposition is genuinely supported, rather than used as a universal explanation for behavior that looks spontaneous.
 
 ## 4. Relationship to This Chapter
 This Topic provides historical and conceptual context for biological accounts of motivation and clarifies why contemporary motivational science uses more differentiated mechanisms.
@@ -186,6 +264,20 @@ Drive-reduction theory is a motivational model proposing that physiological defi
 ## 3. Core Understanding
 The theory links motivation to homeostatic regulation. A disturbance such as energy or fluid deprivation creates a drive state, behavior reduces that state, and the resulting restoration is reinforcing. This framework helped connect physiological regulation with learning and behavior, especially by explaining why behaviors that reduce deprivation can become strengthened. Its explanatory scope is limited, however, because organisms often pursue outcomes before physiological need is severe and may work for rewards that do not directly reduce a drive. Learned cues can also motivate behavior in the absence of immediate deprivation. Modern approaches therefore retain drive-based mechanisms for relevant regulatory processes while integrating incentive learning, reward prediction, goals, and cognitive control. Drive-reduction theory is consequently an influential historical model rather than a sufficient general account of all human motivation.
 
+### Surgical deepening — expanded mechanism, boundary conditions, and evidence
+
+Drive-reduction theory proposes that physiological deficits create drives that motivate behavior aimed at reducing those drives, thereby restoring internal equilibrium. In its classical form, the theory connected biological need, drive, behavior, and reinforcement: deprivation produces a drive; the organism performs a behavior that reduces it; and the reduction strengthens the behavior.
+
+The model made an important contribution by treating motivation as a regulatory process rather than as a mysterious internal force. It also helped explain why deprivation can increase the probability of relevant behavior and why behaviors followed by restoration can become learned. However, the theory cannot by itself account for the full range of human motivation. People explore, play, seek novelty, pursue achievement, tolerate discomfort, and sometimes consume rewards beyond physiological need.
+
+A key limitation is that drive reduction and reinforcement are not identical. A behavior can be reinforced without producing a large reduction in a physiological drive, and a physiological deficit does not guarantee that a particular response will be learned. Incentive value, prediction, learning history, sensory properties, and opportunity all affect behavior. Modern reward science therefore distinguishes homeostatic regulation from hedonic and learned motivational processes.
+
+Drive-reduction theory also assumes a relatively direct relation between physiological deficit and behavioral output. In reality, regulation is often anticipatory. The organism can adjust behavior before a deficit becomes severe, and cues associated with food, water, temperature, or other regulatory outcomes can trigger responses in advance. This anticipatory regulation is difficult to explain using a purely deficit-based model.
+
+The theory remains useful as a historical and partial model. It provides a clear account of why deprivation states can energize behavior and why restoring a regulated state can be reinforcing. Its limits become apparent when the desired behavior is driven by incentives that do not reduce a biological deficit, or when people continue behavior despite the deficit being absent.
+
+Evidence should therefore be interpreted at the level of specific predictions. Drive-reduction principles have support for aspects of biological regulation, but the broad claim that all motivation is fundamentally drive reduction is not supported. Contemporary motivation science treats drive processes as one component within a larger system that includes incentive learning, reward prediction, cognitive goals, affect, and social motivation.
+
 ## 4. Relationship to This Chapter
 The theory is the principal historical model connecting Drive, Need, physiological regulation, and reinforcement.
 
@@ -213,6 +305,20 @@ Arousal theory is a family of motivational accounts proposing that organisms ten
 
 ## 3. Core Understanding
 Arousal approaches broaden motivation beyond deprivation by emphasizing stimulation and activation. The basic idea is that very low stimulation can be experienced as underactivation, while excessive stimulation can become aversive or impair performance, creating motivation to change the level or pattern of stimulation. This does not imply that every person seeks a single optimal arousal level at all times. Preferred stimulation depends on task demands, individual differences, novelty, context, and the meaning assigned to the situation. Arousal is also multidimensional: physiological activation, subjective alertness, and emotional activation do not always move together. Arousal theory is therefore most useful as a family of ideas about regulation of activation rather than a universal numerical law. It complements, rather than replaces, need-, incentive-, reward-, and goal-based explanations.
+
+### Surgical deepening — expanded mechanism, boundary conditions, and evidence
+
+Arousal theory proposes that behavior is partly organized around the regulation of an organism's level of activation or stimulation. The classic formulation suggested that people seek an intermediate or preferred level of arousal: when under-stimulated they may seek novelty or excitement, whereas excessive stimulation can motivate withdrawal or calming. The concept has influenced research on sensation seeking, attention, performance, and environmental stimulation.
+
+Arousal is not a single psychological substance. It can refer to physiological activation, subjective alertness, neural activation, or task-related activation, and these measures do not always move together. A person can feel highly activated while showing different physiological patterns depending on emotion and context. For that reason, a claim that someone is “seeking arousal” must specify what kind of activation is being regulated.
+
+The relationship between arousal and performance is often represented by an inverted-U pattern, in which very low and very high activation can be less compatible with performance than moderate activation. This is a useful heuristic but not a universal law. Optimal activation depends on task difficulty, individual differences, emotional state, and the specific performance measure. Complex tasks may be disrupted by high arousal more readily than simple or well-practiced tasks.
+
+Arousal can also interact with incentive and goal value. Novelty may be attractive when it provides information or stimulation, but novelty is not universally rewarding. Familiarity can be preferred when uncertainty is costly. Similarly, high-intensity activities may be sought by some individuals and avoided by others. This variation indicates that arousal regulation is only one determinant of motivation.
+
+Modern research therefore treats arousal as one component of broader regulatory and motivational systems. Physiological activation can prepare action, alter attention, and change perceived urgency, while cognitive appraisal determines what that activation means. The same bodily activation can accompany fear, excitement, anger, or effort depending on interpretation and context.
+
+The enduring contribution of arousal theory is its emphasis on regulation of activation rather than simple deficit reduction. Its limitation is the tendency of simple formulations to assume a universal preferred level. Human motivation is better understood as context-sensitive regulation in which activation, reward, threat, task demands, and goals jointly determine behavior.
 
 ## 4. Relationship to This Chapter
 Arousal theory supplies a non-deprivation account of motivational regulation and connects motivational processes with activation and exploration.
@@ -242,6 +348,20 @@ Incentive theory is a motivational framework proposing that behavior is influenc
 ## 3. Core Understanding
 Incentive theory shifts explanatory emphasis from internal deprivation to the properties and learned value of outcomes. People may pursue food because it is valued, seek social approval because it has acquired motivational significance, or approach a challenging task because success is anticipated to be rewarding. Incentive value is not fixed: learning, current physiological state, context, expectations, and prior experience can change what an outcome means and how strongly it motivates action. The framework therefore accommodates motivated behavior that occurs without substantial deprivation. It also highlights why the same objective outcome can have different motivational effects across people or situations. Incentive theory does not mean that external rewards always dominate intrinsic motivation; rather, it identifies anticipated outcomes as one important source of motivational direction.
 
+### Surgical deepening — expanded mechanism, boundary conditions, and evidence
+
+Incentive theory explains motivation primarily through the attractiveness or aversiveness of anticipated outcomes rather than through internal drives alone. An incentive can energize behavior because the organism has learned that a cue, action, or situation predicts a desirable or undesirable consequence. This framework therefore shifts attention from “what deficit is present?” to “what outcome is currently valued and expected?”
+
+Incentive motivation is often anticipatory. A person can work for a reward before receiving it because the future outcome has motivational value. Learned cues can become important parts of this process: a signal associated with money, food, social approval, or achievement may itself attract attention and influence behavior. The motivational effect of a cue depends on its learned predictive relationship with the outcome and on current state.
+
+Incentive theory helps explain why identical outcomes have different effects across people and situations. Value depends on deprivation, preferences, prior learning, social meaning, opportunity costs, and competing goals. A financial reward may be highly motivating for one task but irrelevant for another. A social reward can be powerful when belonging is important and weak when social evaluation is unwanted.
+
+The theory also clarifies why reward size alone is insufficient. Motivation depends on expected value, probability, delay, effort, and the subjective meaning of the outcome. A large reward that is highly uncertain or distant may be less motivating than a smaller but reliable and immediate outcome. Reward prediction errors can further update the value assigned to cues and outcomes when actual results differ from expectations.
+
+A limitation is that incentive theory can understate internally generated goals and activities pursued for their own sake. People sometimes persist in activities without obvious external rewards because the activity is interesting, meaningful, identity-consistent, or satisfying in itself. Social norms and internal standards can also create motives that are not reducible to external incentives.
+
+The strongest contemporary interpretation is therefore integrative. Incentives are central to motivation, but incentive value is computed within a system shaped by learning, biological state, goals, identity, social context, and cognitive control. Incentive theory remains particularly useful for understanding approach behavior, reward anticipation, cue-triggered motivation, and changes in motivation when expected outcomes change.
+
 ## 4. Relationship to This Chapter
 Incentive theory provides the principal theoretical framework for the Incentive Topic and complements drive-based, goal-based, and reward-based explanations.
 
@@ -269,6 +389,22 @@ Need-based theories are motivational models that explain behavior partly through
 
 ## 3. Core Understanding
 Need-based theories differ substantially in what they classify as fundamental needs and how those needs are assumed to influence behavior. Some emphasize physiological requirements; others propose psychological needs involving competence, autonomy, relatedness, achievement, affiliation, or power. A need-based explanation becomes scientifically useful when it specifies the proposed need, the conditions under which it is activated, the processes through which it affects behavior, and the evidence supporting those links. Merely naming a desired outcome as a “need” does not establish a distinct motivational mechanism. Needs can also interact: satisfying one can change the salience of another, and contextual constraints can prevent behavior that would otherwise serve a need. Need-based theories therefore provide a family of motivational frameworks rather than a single unified model.
+
+### Surgical deepening — expanded mechanism, boundary conditions, and evidence
+
+Need-based theories explain motivation by proposing that people are moved toward conditions required for biological regulation, psychological functioning, social participation, or valued development. The family includes very different models, so “need-based theory” is an umbrella rather than a single theory. The theories differ in what they define as a need, whether needs are innate or learned, whether they are hierarchical, and what counts as satisfaction.
+
+Physiological need models focus on regulation of bodily states such as energy and hydration. Other theories emphasize social motives such as achievement, affiliation, and power. Self-determination theory identifies autonomy, competence, and relatedness as basic psychological needs. These approaches should not be collapsed into one list because they make different claims about mechanisms and evidence.
+
+Need-based models are useful when behavior appears organized around restoring or maintaining a condition rather than merely obtaining a particular object. The same need can have many behavioral expressions. Relatedness can motivate conversation, friendship, cooperation, or family contact; competence can motivate practice, learning, or challenge. This flexibility makes psychological needs different from simple stimulus-response links.
+
+Needs can also conflict. A person may simultaneously value autonomy and belonging, achievement and rest, or immediate comfort and long-term health. Motivation therefore requires prioritization rather than simple need satisfaction. Context determines which need is currently salient and which behavioral routes are available.
+
+A major methodological issue is distinguishing a need from a preference. If every strongly desired outcome is called a need, the concept becomes unfalsifiable. Strong need theories specify deprivation or frustration effects, mechanisms of satisfaction, cross-context patterns, and predictions that differ from alternative explanations. Evidence may support some aspects of a theory without validating every claim attached to it.
+
+Need-based approaches also differ on whether needs are universal. Some theories make universal claims; others treat motives as culturally shaped or individually learned. Cross-cultural research is therefore important because a motivational construct can be psychologically meaningful without being expressed identically across societies.
+
+The most defensible synthesis is that humans possess multiple motivational systems operating at biological, psychological, and social levels. Some are strongly constrained by physiology; others are shaped by development and culture. Need-based theories are most useful when their definitions are kept distinct and their empirical predictions are evaluated separately rather than combined into an undifferentiated “human needs” inventory.
 
 ## 4. Relationship to This Chapter
 Need-based theories connect the chapter's foundational Need construct with specific psychological needs and major motivational models.
@@ -298,6 +434,22 @@ A goal is a represented desired state, outcome, or standard toward which behavio
 ## 3. Core Understanding
 Goals provide motivational direction by representing something that has not yet been achieved or a state that should be maintained. They can concern concrete outcomes, performance standards, relationships, identity-relevant states, or internal conditions. A goal can be consciously articulated, partially implicit, short-term, or extended over long periods. Goals influence attention, planning, effort, monitoring, and choice, but having a goal does not guarantee action. Its influence depends on commitment, perceived feasibility, competing goals, available resources, feedback, and contextual constraints. Goals also differ in specificity and abstraction: a broad aspiration can organize many subordinate goals and actions, whereas a narrow performance target can guide a specific behavior. Goal concepts therefore provide a bridge between motivation and self-regulation without implying that all behavior is consciously goal-directed.
 
+### Surgical deepening — expanded mechanism, boundary conditions, and evidence
+
+A goal is a represented desired, preferred, required, or avoided state that organizes behavior toward a specified outcome. Goals can be concrete, such as completing a task, or abstract, such as becoming competent or maintaining a valued identity. They can be consciously chosen or adopted through social learning, institutions, habits, and repeated environmental demands.
+
+Goals differ from motives and needs. A motive helps explain why certain outcomes matter; a need identifies a condition that may be important for functioning or satisfaction; a goal is the represented state toward which action is organized. One goal can serve several motives, and one motive can generate many different goals. This distinction prevents the common error of treating every desired object as a fundamental motivational need.
+
+Goals can operate at multiple levels of abstraction. A higher-order goal may organize several lower-level action goals. “Become healthy” can generate goals involving exercise, sleep, nutrition, or medical care. Hierarchical organization allows people to substitute means while preserving an overarching purpose. It also creates opportunities for conflict when lower-level goals compete or when a means becomes detached from the higher-level reason for pursuing it.
+
+A goal becomes behaviorally consequential when it is sufficiently activated and represented to influence attention, evaluation, and action selection. Merely endorsing a goal does not guarantee pursuit. People can hold goals that are weakly activated, poorly specified, inconsistent with other goals, or perceived as unattainable. Goal commitment, expectancy, value, and environmental affordances therefore influence whether a goal guides behavior.
+
+Goals can be approach or avoidance goals. Approach goals specify a desired state to move toward; avoidance goals specify an undesired state to prevent or escape. These forms can have different effects depending on the task and context. A goal can also be outcome-focused or process-focused, with process goals specifying behaviors that are under more direct control.
+
+Goal research emphasizes that successful pursuit is not only a matter of setting a desirable endpoint. Monitoring, feedback, strategy selection, adjustment, and disengagement are part of the larger regulatory process. Goals can improve coordination by creating standards for evaluating progress, but they can also narrow attention, create conflict, or encourage counterproductive behavior when the metric is poorly chosen.
+
+A goal is therefore not simply a wish. It is a psychologically represented state that can function as a reference point for organizing cognition and behavior. Its influence depends on activation, commitment, perceived feasibility, value, competing goals, feedback, and context.
+
 ## 4. Relationship to This Chapter
 Goal is the organizing construct for the chapter's goal-system section and connects motivation with planning, monitoring, persistence, and self-regulation.
 
@@ -325,6 +477,22 @@ Goal representation is the cognitive representation of a desired end state, stan
 
 ## 3. Core Understanding
 A goal representation can include the desired outcome, relevant standards, action requirements, constraints, temporal information, and reasons for pursuing the goal. The representation does not need to be a complete verbal statement; people can represent goals through images, rules, action plans, or other forms of knowledge. Its content influences what information becomes relevant during pursuit. A well-specified performance standard can make progress easier to monitor, while a vague desired state may require additional interpretation before action can be organized. Goal representations can also be hierarchical, with broad goals containing more specific subgoals. They may change as circumstances or feedback change, and different goals can be simultaneously represented even when they compete for limited cognitive and behavioral resources.
+
+### Surgical deepening — expanded mechanism, boundary conditions, and evidence
+
+Goal representation is the cognitive structure through which a desired or avoided state is specified sufficiently to guide thought and action. A goal representation can include the desired end state, relevant standards, means, constraints, expected consequences, and links to higher-order purposes. It is therefore more than a verbal statement such as “I want to succeed.”
+
+The quality of a representation affects regulation. A vague goal provides little information about what counts as progress or which actions are relevant. A representation that specifies observable criteria can support monitoring, although excessive specificity can become maladaptive when the environment is uncertain. Goal representations can also contain assumptions about feasibility and controllability that are inaccurate. These assumptions influence effort and strategy even when the external situation has not changed.
+
+Goal representations are hierarchical. A person can represent a broad identity-relevant aim and several subordinate goals that implement it. The hierarchy allows flexible means-end substitution: if one route is blocked, another can be selected while preserving the higher-order objective. But hierarchies can also create conflict when subordinate goals satisfy one purpose while undermining another.
+
+Representation includes temporal structure. Goals can refer to immediate states, future outcomes, maintenance conditions, or long-term transformations. Future-oriented goals require mental representation of an outcome that is not currently present. The subjective distance of that outcome can affect valuation and action.
+
+Goals can also be represented socially. People may represent what others expect, what a group is trying to achieve, or what a role requires. Such goals can become self-endorsed or remain externally controlled. The distinction matters because the same behavioral target can have different motivational properties depending on its source and meaning.
+
+Goal representation is not perfectly stable. Attention, affect, context, memory, and current needs can change which features of the goal are accessible. A person may represent a long-term goal abstractly in one setting and concretely in another. This helps explain why intentions that appear stable in reflection can produce different actions in real situations.
+
+A precise goal representation therefore provides the informational structure for regulation, but it does not guarantee action. Activation, valuation, expectancy, available means, competing goals, and self-regulatory processes determine whether the representation becomes behaviorally effective.
 
 ## 4. Relationship to This Chapter
 Goal representation explains the cognitive foundation on which goal activation, selection, pursuit, monitoring, and conflict operate.
@@ -354,6 +522,22 @@ Goal selection is the process through which an individual chooses or prioritizes
 ## 3. Core Understanding
 People commonly have multiple possible goals, and selection determines which objective receives priority under current conditions. Selection can be influenced by expected value, personal importance, perceived feasibility, urgency, social demands, habits, current needs, and available opportunities. It can occur deliberately, but goals can also become prioritized through automatic activation by environmental cues or learned associations. Selection is constrained by limited time, attention, energy, and other resources, making prioritization unavoidable when goals compete. A selected goal can later lose priority when its value changes or another goal becomes more urgent. Goal selection is therefore not equivalent to goal pursuit: deciding what matters and successfully acting on it are distinct processes.
 
+### Surgical deepening — expanded mechanism, boundary conditions, and evidence
+
+Goal selection is the process by which a person chooses which desired, required, or avoided states to pursue when multiple possibilities are available. Selection requires prioritization because time, energy, attention, and resources are limited. People often possess many compatible goals, but they cannot pursue all of them with equal intensity at the same moment.
+
+Selection can be deliberate or shaped by automatic processes. People consciously choose among alternatives when trade-offs are salient, but goals can also become active because of environmental cues, habits, social expectations, or recently experienced outcomes. A selected goal may therefore reflect both current deliberation and the history of what has been made salient or valuable.
+
+Value and expectancy are central but not sufficient. A highly valued goal may be rejected if perceived as unattainable, too costly, or incompatible with a more important goal. Conversely, a modestly valued goal may be selected because it is easy, urgent, socially required, or immediately available. Opportunity costs matter because choosing one goal often means delaying another.
+
+Goal selection also occurs within hierarchies. A person may select a broad goal first and then select subordinate means. When several goals share a higher-order purpose, selection can be flexible. When goals have incompatible standards or deadlines, the person must prioritize explicitly or allow situational cues to determine the outcome.
+
+Emotion can influence selection by changing perceived urgency, value, and attention. Social context can alter the perceived importance of goals through norms, status concerns, obligations, or anticipated evaluation. Identity can also constrain selection: goals that fit a person's self-concept may feel more coherent or legitimate than equally attainable alternatives.
+
+Selection should be distinguished from commitment. Choosing a goal means giving it current priority; commitment involves a stronger intention to continue pursuing it despite obstacles. A person can select a goal and later revise it without having failed at self-regulation. Rational adaptation sometimes requires changing priorities when circumstances change.
+
+A scientifically useful account of goal selection therefore examines the current goal set, the value and expectancy of alternatives, temporal and resource constraints, social context, and the processes that determine which representation becomes dominant. Goal choice is not a single computation but a dynamic competition among possible directions for action.
+
 ## 4. Relationship to This Chapter
 Goal selection is the bridge between motivational valuation and the subsequent commitment and pursuit of a chosen goal.
 
@@ -382,6 +566,22 @@ Goal activation is the process by which a goal becomes sufficiently accessible o
 ## 3. Core Understanding
 A goal can influence behavior when it is active even if it was not selected through deliberate reflection at that moment. Activation can arise from conscious intention, recent pursuit, environmental cues, social expectations, perceived discrepancies, or learned associations. Once active, a goal can make goal-relevant information more salient and influence interpretation of available actions. Activation is not the same as commitment: a goal can become active temporarily without being strongly endorsed or persistently pursued. Nor does activation guarantee behavioral execution, because competing goals, situational barriers, and self-control can intervene. Goal activation is therefore best understood as a change in the accessibility or influence of a goal representation rather than as the creation of motivation from nothing.
 
+### Surgical deepening — expanded mechanism, boundary conditions, and evidence
+
+Goal activation is the process through which a goal becomes sufficiently accessible and influential to affect cognition, emotion, and behavior. A goal can exist in a person's broader motivational repertoire without being active at every moment. Activation determines which desired state is currently capable of shaping attention, interpretation, memory retrieval, action selection, and evaluation.
+
+Activation can be deliberate, such as deciding to begin a task, or triggered by context. Environmental cues can remind people of a goal; social settings can activate role-related standards; and repeated behavior can make goal-related responses highly accessible. The activation process is therefore partly top-down and partly cue-driven. Importantly, activation does not imply conscious awareness. A goal can influence processing without being explicitly verbalized.
+
+Activation strength depends on several factors. Recent use can increase accessibility, emotional significance can increase salience, and perceived urgency can prioritize a goal. Competing goals can inhibit one another. A goal that is highly important but currently inactive may produce little immediate behavior, while a modest goal made salient by a cue can dominate short-term action.
+
+Goal activation also interacts with attention. Once a goal is active, information relevant to pursuing it can become more noticeable, while irrelevant information may receive less processing. This can be adaptive because limited cognitive resources are directed toward goal-relevant information, but it can also create tunnel vision when competing information should be considered.
+
+Activation differs from commitment and intention. A goal can be active because a cue brought it to mind even though the person is not strongly committed to it. Conversely, a person can be deeply committed to a goal that is temporarily inactive while attending to another task. This distinction helps explain why intentions can fail to translate into immediate behavior without assuming that the intention disappeared.
+
+Repeated activation can create learned links between cues and goal-directed responses. Over time, environmental features associated with a goal can automatically trigger relevant action tendencies. Such cueing can support habits and implementation intentions, but it can also make unwanted goals or temptations recurrently accessible.
+
+The central principle is that motivation depends not only on which goals a person holds but on which goal is currently active, how strongly it is represented, what competing goals are active, and what the environment makes salient. Goal activation is therefore a dynamic gateway between motivational representation and moment-to-moment behavior.
+
 ## 4. Relationship to This Chapter
 Goal activation explains how motivational priorities enter ongoing cognition and become capable of shaping subsequent goal-directed processes.
 
@@ -409,6 +609,22 @@ Goal commitment is the strength and persistence of an individual's intention or 
 
 ## 3. Core Understanding
 Commitment concerns the motivational bond between a person and a goal. A highly committed person is generally more likely to continue investing resources in the goal, although persistence is still constrained by feasibility, competing goals, feedback, and changing circumstances. Commitment can arise from personal value, identity, expected benefits, social obligations, prior investment, or explicit choice. It can also be misplaced: strong commitment does not prove that a goal is attainable, beneficial, or rational. Commitment differs from activation because an activated goal may influence current processing without becoming a durable priority. It also differs from effort because a person can be committed while temporarily unable to exert substantial effort. Goal commitment is therefore a motivational property of the person–goal relationship rather than a guarantee of successful attainment.
+
+### Surgical deepening — expanded mechanism, boundary conditions, and evidence
+
+Goal commitment is the strength and persistence of a person's intention to continue pursuing a particular goal. Commitment is more than liking an outcome or stating an intention. It reflects the degree to which the goal has acquired motivational priority and is likely to be maintained when obstacles, competing goals, or short-term costs arise.
+
+Commitment can be influenced by goal value, expected attainability, personal identity, perceived obligation, prior investment, social support, and the availability of alternative goals. A goal that is central to identity can remain important even when progress is slow. A goal adopted mainly because of external pressure may be pursued while the pressure is present and abandoned when it disappears. These patterns are not universal, but they illustrate why commitment depends on how a goal is represented and endorsed.
+
+Commitment has a temporal component. Strong commitment increases the probability that a person will preserve a goal across setbacks, but commitment should not be equated with persistence at all costs. If evidence indicates that a goal is unattainable, harmful, or no longer valuable, adaptive self-regulation may involve disengagement and reengagement with a different goal. Persistence and flexible revision are therefore complementary rather than simple opposites.
+
+Commitment can also change as new information arrives. Feedback about progress, costs, opportunity, or outcome quality can strengthen or weaken commitment. Social relationships may stabilize commitment by providing accountability or shared meaning, but social pressure can also create rigid persistence when disengagement would be beneficial.
+
+Measurement of commitment commonly relies on self-report, behavioral persistence, investment, or combinations of indicators. These measures are not interchangeable. A person can report strong commitment while behavior is constrained by circumstances, and behavior can persist because of habit or sunk costs without reflecting strong current endorsement.
+
+Goal commitment is particularly important in self-regulation because it determines whether discrepancies between the present state and goal standard produce renewed effort, strategic adjustment, or disengagement. Commitment gives a goal continuity across time, but effective regulation also requires monitoring whether continued commitment remains justified.
+
+The key distinction is between commitment to the goal and commitment to a particular strategy. A person can remain committed to learning a skill while abandoning an ineffective study method. Flexible strategy change can therefore be evidence of strong goal commitment rather than weakness. Commitment is most adaptive when it preserves valued aims while remaining responsive to evidence and changing conditions.
 
 ## 4. Relationship to This Chapter
 Goal commitment links goal representation and selection to sustained pursuit, persistence, disengagement, and reengagement.
