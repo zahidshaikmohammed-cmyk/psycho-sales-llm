@@ -1861,3 +1861,552 @@ Grief and bereavement to Chapter 1.18 and clinical conditions to Chapter 1.19.
 - Death understanding changes developmentally.
 - Stage models should not be treated as universal sequences.
 
+
+# 45. Attachment
+
+## 1. Purpose
+Attachment is a central developmental relationship system concerning how people seek, maintain, and use close relationships for safety, comfort, and regulation.
+
+## 2. Definition
+Attachment is an enduring relational system through which individuals form bonds with particular others and, especially under threat or distress, seek proximity, comfort, and a secure base.
+
+## 3. Core Understanding
+### Components / Dimensions
+Attachment involves attachment bonds, proximity-seeking, a secure base, a safe haven, separation responses, and expectations about relationship availability.
+
+### Mechanism
+Early caregiving experiences contribute to expectations about whether others are available and whether support can be obtained. These expectations can influence later relationship behavior, but development is not mechanically fixed by early experience.
+
+### Development
+Attachment processes begin in infancy and continue across the lifespan. The expression of attachment changes with cognitive capacity, autonomy, social roles, and relationship context.
+
+### Boundary Conditions
+Attachment is not identical to dependency, love, temperament, or general social preference. Individual relationships can differ, and attachment patterns can change with experience.
+
+### Evidence Status
+Attachment is strongly supported as a developmental and relational construct. Specific claims about fixed adult outcomes from early attachment require appropriate longitudinal evidence.
+
+## 4. Relationship to This Chapter
+Attachment is canonically owned by Chapter 1.15 because its development spans infancy through adulthood. Adult attachment is a lifespan manifestation, not a duplicate personality owner.
+
+## 5. Boundaries
+### Owns
+Attachment as a developmental relational system and its developmental organization.
+### Defers
+General social relationships to Chapter 1.16; personality to Chapter 1.14.
+
+## 6. Key Principles
+- Attachment concerns enduring relational bonds and regulation.
+- Attachment develops across the lifespan.
+- Early experience matters without rigidly determining later relationships.
+- Individual relationships can differ.
+
+# 46. Attachment theory
+
+## 1. Purpose
+This Topic presents the major theoretical framework used to explain attachment development without treating every theoretical claim as established fact.
+
+## 2. Definition
+Attachment theory is a developmental framework proposing that humans have an evolved system for forming close bonds and seeking proximity to attachment figures, with caregiving experiences contributing to expectations about relationships.
+
+## 3. Core Understanding
+### Theory / Model
+The framework emphasizes attachment behavior, the secure-base function, caregiving, and internal expectations about relational availability. Later extensions distinguish patterns of attachment organization and examine attachment across the lifespan.
+
+### Mechanism
+The theory proposes that repeated interactions with caregivers contribute to expectations that guide attachment-related behavior. These expectations can influence attention to relational cues and responses to separation or support.
+
+### Evidence Status
+Attachment theory has generated substantial empirical research, but individual propositions differ in evidentiary strength. Broad attachment processes are better established than strong deterministic claims that early attachment fixes adult personality or relationship outcomes.
+
+### Misconceptions
+Attachment theory is not the claim that one childhood relationship permanently determines all later relationships.
+
+## 4. Relationship to This Chapter
+The theory explains the developmental organization of the canonical Attachment Topic.
+
+## 5. Boundaries
+### Owns
+Attachment theory as a developmental explanatory framework.
+### Defers
+Attachment constructs to Topic 45 and general developmental theory to Topic 5.
+
+## 6. Key Principles
+- Attachment theory is a model, not a guarantee of individual outcomes.
+- Early caregiving is relevant but not destiny.
+- The framework has evolved through empirical research.
+
+# 47. Attachment security
+
+## 1. Purpose
+Attachment security describes the expectation that an attachment relationship can provide reliable support while allowing exploration.
+
+## 2. Definition
+Attachment security is an attachment organization characterized by confidence that an attachment figure is available and responsive enough to support comfort and exploration.
+
+## 3. Core Understanding
+Security supports use of a relationship as a safe haven under distress and a secure base for exploration. It does not mean constant dependence or absence of distress.
+
+Security can be relationship-specific and can vary across contexts. A person may feel secure with one attachment figure and less secure with another.
+
+Development is influenced by caregiving responsiveness, consistency, context, and later relationship experience.
+
+## 4. Relationship to This Chapter
+Attachment security is a developmental form of attachment organization.
+
+## 5. Boundaries
+### Owns
+Developmental concept of security within attachment relationships.
+### Defers
+General attachment theory to Topic 46 and insecurity to Topic 48.
+
+## 6. Key Principles
+- Security involves confidence in relational availability.
+- Secure attachment supports both comfort and exploration.
+- Security can vary across relationships.
+
+# 48. Attachment insecurity
+
+## 1. Purpose
+Attachment insecurity describes patterns in which confidence in relational availability or responsiveness is less secure.
+
+## 2. Definition
+Attachment insecurity refers to attachment organization characterized by uncertainty, reduced confidence, or maladaptive expectations concerning the availability or responsiveness of attachment figures.
+
+## 3. Core Understanding
+Insecurity can involve different patterns rather than one single state. Some patterns emphasize heightened concern about rejection or availability, while others involve reduced reliance on closeness or discomfort with dependence.
+
+Insecurity is not equivalent to mental disorder, poor character, or permanent relational dysfunction. Its expression can vary by relationship and context.
+
+Development reflects caregiving history, temperament, relationship experience, and later social environments.
+
+## 4. Relationship to This Chapter
+It complements attachment security and provides a developmental account of variability in attachment organization.
+
+## 5. Boundaries
+### Owns
+Developmental concept of attachment insecurity.
+### Defers
+Specific assessment procedures and adult relationship manifestations to relevant canonical Topics.
+
+## 6. Key Principles
+- Insecurity has multiple forms.
+- Insecurity is not itself a clinical disorder.
+- Attachment organization can change with experience.
+
+# 49. Attachment development
+
+## 1. Purpose
+This Topic describes how attachment relationships emerge and reorganize across development.
+
+## 2. Definition
+Attachment development is the developmental process through which attachment bonds, expectations, behaviors, and relationship patterns emerge and change across the lifespan.
+
+## 3. Core Understanding
+### Development
+Early attachment becomes organized during infancy through repeated interaction with caregivers. Later, attachment processes become increasingly integrated with language, memory, self-understanding, autonomy, and adult relationship roles.
+
+### Mechanism
+Caregiving responsiveness, separation and reunion experiences, social learning, temperament, and broader environmental stability contribute to attachment development.
+
+### Boundary Conditions
+Development is not predetermined by infancy. Later relationships, interventions, changes in caregiving, and life circumstances can modify attachment-related expectations and behavior.
+
+### Evidence Status
+Longitudinal evidence supports continuity in some attachment-related characteristics while also demonstrating substantial change and relationship specificity.
+
+## 4. Relationship to This Chapter
+This is the developmental process Topic underlying attachment security and insecurity.
+
+## 5. Boundaries
+### Owns
+Developmental formation and change of attachment.
+### Defers
+General attachment theory to Topic 46 and adult social relationships to Chapter 1.16.
+
+## 6. Key Principles
+- Attachment develops through repeated relationships.
+- Continuity and change coexist.
+- Later experiences can modify attachment-related patterns.
+
+# 50. Temperament development
+
+## 1. Purpose
+Temperament development explains early-emerging individual differences in emotional reactivity, activity, attention, and regulation and how these patterns change over time.
+
+## 2. Definition
+Temperament development is developmental change and continuity in biologically influenced individual differences in emotional reactivity, activity, attention, and self-regulation.
+
+## 3. Core Understanding
+Temperament has biological contributions but is expressed through interaction with experience and context. Characteristics can show continuity while also being modified by maturation, learning, parenting, and environmental demands.
+
+Temperament is not personality in miniature and does not determine later personality. It is one contributor to later individual differences.
+
+## 4. Relationship to This Chapter
+Temperament development is a developmental process that connects biological predispositions with later functioning.
+
+## 5. Boundaries
+### Owns
+Developmental change and continuity in temperament.
+### Defers
+General temperament and personality constructs to Chapter 1.14 where applicable.
+
+## 6. Key Principles
+- Temperament has biological influences.
+- Temperament is not destiny.
+- Context and development shape its expression.
+
+# 51. Parenting processes
+
+## 1. Purpose
+Parenting processes describe how caregiver behavior and parent–child interaction contribute to development.
+
+## 2. Definition
+Parenting processes are the recurring patterns through which caregivers provide protection, structure, stimulation, emotional support, guidance, discipline, and socialization.
+
+## 3. Core Understanding
+### Components / Dimensions
+Parenting can involve warmth, responsiveness, monitoring, autonomy support, communication, discipline, structure, and scaffolding.
+
+### Mechanism
+Parenting influences development partly by shaping children's experiences, expectations, regulation opportunities, learning, and social environments. Children also influence parenting through their characteristics and behavior.
+
+### Boundary Conditions
+Effects depend on culture, child characteristics, family conditions, developmental stage, and the specific parenting behavior being studied.
+
+### Evidence Status
+Parenting is associated with many developmental outcomes, but simple one-way claims are inadequate because parent and child influence one another.
+
+## 4. Relationship to This Chapter
+Parenting is a major developmental system influencing multiple developmental domains.
+
+## 5. Boundaries
+### Owns
+Developmental parenting processes.
+### Defers
+General socialization and social behavior to Chapter 1.16; attachment mechanisms to Topics 45–49.
+
+## 6. Key Principles
+- Parenting is multidimensional.
+- Parent and child influence each other.
+- Parenting effects depend on context.
+
+# 52. Family influences
+
+## 1. Purpose
+Family influences capture developmental effects arising from the broader family system rather than from one caregiver behavior alone.
+
+## 2. Definition
+Family influences are developmental effects associated with family relationships, structures, roles, interactions, resources, and environmental conditions.
+
+## 3. Core Understanding
+Families provide emotional, material, social, and cultural environments. Sibling relationships, caregiver relationships, conflict, support, economic resources, and family transitions can all shape development.
+
+Effects are not mechanically uniform. Children respond differently to similar environments, and family systems themselves change in response to children's development.
+
+## 4. Relationship to This Chapter
+Family influences provide a broader developmental system surrounding parenting and peer development.
+
+## 5. Boundaries
+### Owns
+Developmental influence of family-level systems.
+### Defers
+Parenting processes to Topic 51 and general family/social relationship processes to Chapter 1.16.
+
+## 6. Key Principles
+- Family influence is multidimensional.
+- Children and families influence one another.
+- Family effects are context-dependent.
+
+# 53. Peer development
+
+## 1. Purpose
+Peer development explains how interactions with age-mates and peers change across development.
+
+## 2. Definition
+Peer development is developmental change in peer relationships, friendship, group participation, social status, cooperation, conflict, and peer-related social understanding.
+
+## 3. Core Understanding
+Peer relationships provide opportunities for cooperation, negotiation, comparison, belonging, conflict resolution, and social learning. Peer influence can support adaptive behavior or contribute to maladaptive behavior depending on group norms and context.
+
+Peer relationships become increasingly important during childhood and adolescence, while remaining relevant across adulthood.
+
+## 4. Relationship to This Chapter
+Peer development is a developmental system connecting social experience with social-cognitive and emotional development.
+
+## 5. Boundaries
+### Owns
+Developmental changes in peer relationships and peer contexts.
+### Defers
+General social influence and group processes to Chapter 1.16.
+
+## 6. Key Principles
+- Peer relationships provide developmental opportunities.
+- Peer influence can be beneficial or harmful.
+- Peer importance changes across development and context.
+
+# 54. School and learning context
+
+## 1. Purpose
+This Topic describes the developmental role of organized educational environments without re-owning learning itself.
+
+## 2. Definition
+School and learning context refers to the developmental influence of educational settings, instructional practices, peers, expectations, and opportunities for structured learning.
+
+## 3. Core Understanding
+Schools influence development through instruction, practice, social relationships, feedback, routines, expectations, and access to knowledge. Educational contexts can affect cognitive, social, emotional, and identity development.
+
+Effects depend on teaching quality, school climate, resources, culture, student characteristics, and family context.
+
+Schooling is not synonymous with learning; learning occurs in many environments.
+
+## 4. Relationship to This Chapter
+It identifies education as a developmental context across childhood and adolescence.
+
+## 5. Boundaries
+### Owns
+Developmental role of educational context.
+### Defers
+Learning mechanisms to Chapter 1.7 and the relationship node remains contextual rather than a separate general learning owner.
+
+## 6. Key Principles
+- Educational environments shape developmental opportunities.
+- School effects depend on context and quality.
+- Learning is broader than schooling.
+
+# 55. Cultural influences
+
+## 1. Purpose
+Cultural influences explain how culturally organized practices, values, expectations, institutions, and meanings shape development.
+
+## 2. Definition
+Cultural influences are developmental effects arising from culturally shared practices, meanings, norms, values, institutions, and socialization environments.
+
+## 3. Core Understanding
+Culture shapes what behaviors are encouraged, which developmental goals are emphasized, how relationships are organized, and what roles are available. Individuals also participate in and reproduce cultural practices.
+
+Cultural influences do not imply that every person within a culture is psychologically identical.
+
+## 4. Relationship to This Chapter
+This Topic identifies culture as a developmental system; broader cultural psychology remains in Chapter 1.17.
+
+## 5. Boundaries
+### Owns
+Developmental influence of culture.
+### Defers
+General culture and psychology to Chapter 1.17.
+
+## 6. Key Principles
+- Culture shapes developmental environments.
+- Within-culture variation remains substantial.
+- Individuals and cultures influence one another.
+
+# 56. Adolescent identity exploration
+
+## 1. Purpose
+This Topic isolates identity exploration during adolescence as a developmental process without re-owning identity itself.
+
+## 2. Definition
+Adolescent identity exploration is the process during adolescence of examining possible values, roles, relationships, goals, beliefs, and future directions before or alongside forming stronger commitments.
+
+## 3. Core Understanding
+Exploration can involve trying roles, questioning inherited expectations, comparing alternatives, and imagining possible futures. It can support more differentiated commitments, but exploration does not guarantee a particular identity outcome.
+
+Family, peers, culture, education, socioeconomic conditions, and opportunities for autonomy shape exploration.
+
+Exploration can continue after adolescence, especially during major adult transitions.
+
+## 4. Relationship to This Chapter
+It is a specific developmental manifestation of identity development.
+
+## 5. Boundaries
+### Owns
+Adolescent developmental process of identity exploration.
+### Defers
+General identity development to Topic 26 and general identity constructs to Chapter 1.14.
+
+## 6. Key Principles
+- Exploration involves considering alternatives.
+- Exploration is not the same as commitment.
+- Social context shapes available identity options.
+
+# 57. Adolescent risk-taking
+
+## 1. Purpose
+This Topic explains developmental changes in risk-related behavior during adolescence without portraying all adolescents as reckless.
+
+## 2. Definition
+Adolescent risk-taking is the developmental pattern of engaging in behaviors involving potential negative outcomes during adolescence, often shaped by changing reward, social, cognitive, and regulatory processes.
+
+## 3. Core Understanding
+Risk-taking varies by context. Adolescents may show heightened sensitivity to rewards and social evaluation while control capacities continue to develop, but behavior also depends strongly on peers, opportunity, norms, goals, and perceived consequences.
+
+Risk-taking can be maladaptive, but some forms of exploration involve acceptable or even adaptive challenges.
+
+Age-related averages do not imply that every adolescent takes excessive risks.
+
+## 4. Relationship to This Chapter
+It is a developmental manifestation of adolescent behavior and decision-making.
+
+## 5. Boundaries
+### Owns
+Developmental pattern of risk-taking during adolescence.
+### Defers
+General decision-making and risk perception to Chapter 1.10; action and behavior to Chapter 1.21.
+
+## 6. Key Principles
+- Adolescent risk-taking is heterogeneous.
+- Social context strongly affects risk behavior.
+- Adolescents are not uniformly reckless.
+
+# 58. Adult cognitive development
+
+## 1. Purpose
+This Topic describes cognitive change across adulthood rather than treating cognition as complete once childhood ends.
+
+## 2. Definition
+Adult cognitive development is developmental change in cognitive capacities, knowledge, strategies, and cognitive adaptation across adulthood.
+
+## 3. Core Understanding
+Adult cognition can involve continued knowledge acquisition, expertise, strategy development, adaptation, and changes in processing efficiency. Different abilities follow different trajectories.
+
+Experience can compensate for some age-related changes by supporting strategy selection and accumulated knowledge.
+
+## 4. Relationship to This Chapter
+It establishes adulthood as an active developmental period for cognition.
+
+## 5. Boundaries
+### Owns
+Developmental change in cognition during adulthood.
+### Defers
+General cognition to Chapter 1.9 and cognitive aging to Topic 42.
+
+## 6. Key Principles
+- Adult cognition continues to develop.
+- Knowledge and processing efficiency can have different trajectories.
+- Experience can support cognitive adaptation.
+
+# 59. Socioemotional selectivity
+
+## 1. Purpose
+Socioemotional selectivity explains a major theoretical account of changing social priorities across adulthood.
+
+## 2. Definition
+Socioemotional selectivity is the tendency, proposed in lifespan theory, for perceived remaining time to influence social goals, with shorter perceived time horizons associated with greater emphasis on emotionally meaningful goals and relationships.
+
+## 3. Core Understanding
+### Theory / Model
+The theory proposes that when people perceive time as expansive, knowledge acquisition and future-oriented goals may receive greater priority; when time is perceived as more limited, emotionally meaningful goals may become more prominent.
+
+### Boundary Conditions
+The theory concerns motivational priorities, not a universal reduction in social activity. Culture, health, relationships, and circumstances influence how priorities are expressed.
+
+### Evidence Status
+Research supports important associations between perceived time horizons and social goals, but the theory should not be treated as a complete explanation of all age-related social behavior.
+
+## 4. Relationship to This Chapter
+It provides a lifespan model for socioemotional change.
+
+## 5. Boundaries
+### Owns
+Socioemotional selectivity as a developmental model and its developmental implications.
+### Defers
+General motivation to Chapter 1.12 and social relationships to Chapter 1.16.
+
+## 6. Key Principles
+- Perceived time can influence social goals.
+- The model concerns priorities, not mandatory withdrawal.
+- Context and individual differences matter.
+
+# 60. Cognitive reserve
+
+## 1. Purpose
+Cognitive reserve describes why people with similar levels of brain or age-related change can show different levels of cognitive functioning.
+
+## 2. Definition
+Cognitive reserve is the capacity to maintain cognitive functioning despite age-related, neurological, or other brain changes, thought to reflect differences in cognitive resources, strategies, and lifetime experience.
+
+## 3. Core Understanding
+Reserve is not a single physical substance. Education, occupational complexity, cognitive activity, social engagement, and other experiences have been proposed as contributors to reserve, but their measurement and causal interpretation require care.
+
+Reserve is often inferred from discrepancies between brain pathology or age-related change and observed cognitive performance.
+
+## 4. Relationship to This Chapter
+Cognitive reserve helps explain heterogeneity in adult and later-life cognitive development.
+
+## 5. Boundaries
+### Owns
+The developmental concept of reserve-related differences in cognitive resilience.
+### Defers
+General cognition to Chapter 1.9 and clinical neurocognitive disorders to Chapter 1.19.
+
+## 6. Key Principles
+- People can differ in cognitive functioning despite similar brain changes.
+- Reserve is a theoretical construct, not a single measurable substance.
+- Lifetime experience may contribute to cognitive resilience.
+
+# 61. Developmental risk
+
+## 1. Purpose
+Developmental risk identifies conditions that increase the probability of adverse developmental outcomes without treating risk as destiny.
+
+## 2. Definition
+Developmental risk is a characteristic, exposure, condition, or context associated with increased probability of an adverse developmental outcome.
+
+## 3. Core Understanding
+### Mechanism
+Risk can operate through biological, psychological, social, environmental, or transactional pathways. Multiple risks can accumulate, interact, or become more consequential under particular conditions.
+
+### Boundary Conditions
+A risk factor does not guarantee an outcome. Protective factors, resilience, timing, severity, and individual differences can alter trajectories.
+
+### Evidence Status
+Risk-factor research often establishes association rather than causation. Strong causal claims require appropriate designs and mechanistic evidence.
+
+## 4. Relationship to This Chapter
+Developmental risk provides a general framework for understanding why developmental pathways diverge.
+
+## 5. Boundaries
+### Owns
+General developmental concept of risk.
+### Defers
+Clinical risk factors to Chapter 1.19 and specific biological or social mechanisms to their canonical owners.
+
+## 6. Key Principles
+- Risk changes probability rather than determining outcomes.
+- Timing and accumulation matter.
+- Risk and protection must be interpreted together.
+
+# 62. Developmental resilience
+
+## 1. Purpose
+Developmental resilience explains positive adaptation despite significant adversity or developmental risk.
+
+## 2. Definition
+Developmental resilience is a pattern of relatively positive adaptation or maintained functioning despite circumstances that create substantial developmental risk or adversity.
+
+## 3. Core Understanding
+### Mechanism
+Resilience can arise through interacting protective processes involving relationships, self-regulation, cognitive resources, community support, adaptive environments, and opportunities for recovery.
+
+Resilience is not necessarily a fixed personality trait. It can vary across domains and over time.
+
+### Boundary Conditions
+Resilience should be defined relative to meaningful adversity and an appropriate adaptation criterion. Ordinary successful functioning without substantial adversity is not automatically evidence of resilience.
+
+### Evidence Status
+Research supports multiple pathways to resilience. No single factor guarantees resilience, and resilient outcomes can coexist with distress or difficulty in other domains.
+
+## 4. Relationship to This Chapter
+Developmental resilience is the protective counterpart to developmental risk and helps explain divergent developmental trajectories.
+
+## 5. Boundaries
+### Owns
+The general developmental concept of resilience under adversity.
+### Defers
+Health and post-stress adaptation to Chapter 1.18; clinical recovery to Chapter 1.19.
+
+## 6. Key Principles
+- Resilience concerns adaptation under meaningful adversity.
+- Resilience is usually a process or pattern, not a fixed trait.
+- Protective processes can differ across people and contexts.
