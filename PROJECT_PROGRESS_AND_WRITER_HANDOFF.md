@@ -1348,3 +1348,36 @@ The final audit used the live architecture directly and preserved all 62 canonic
 **Completed canonical Topic count through Chapter 1.13:** **870**
 
 **Next target:** Chapter 1.14, after a fresh architecture + ownership + constitution audit.
+
+
+## Chapter 1.14 — Final Canonical State — 2026-09-25
+
+Chapter 1.14 — **PERSONALITY, SELF, IDENTITY, AND INDIVIDUAL DIFFERENCES** is completed, validated, locked, and sealed.
+
+- Architecture source: `system_1/SYSTEM_1_SURGICAL_CANONICAL_ARCHITECTURE_v2.md`
+- Exact architecture Topics: **67/67**
+- Canonical chapter file: `knowledge/system-01/chapter-1.14/CHAPTER_1.14.md`
+- Final validation: `knowledge/system-01/chapter-1.14/CHAPTER_1.14_FINAL_VALIDATION.md`
+- Status: **LOCKED & SEALED — CANONICAL KNOWLEDGE VERSION 1.0**
+- Total words: **60,480**
+- Core Understanding words: **44,359**
+- Average Core Understanding: **662.07 words/topic**
+- Core Understanding range: **648–690 words**
+- Topic corpus range: **876–977 words**
+- Six-section objects: **67/67**
+- Owns boundaries: **67/67**
+- Defers boundaries: **67/67**
+- Architecture mismatches: **0**
+- Forbidden supplement/rebuild/depth-index artifacts: **0**
+- Final sealed chapter SHA: `642d082fac271b43da87e022e017f68b9467dae8`
+
+Ownership audit notes:
+- **Self-awareness** is owned here as the self-related construct; Chapter 1.5 owns only consciousness-specific self-awareness.
+- **Attachment style → 1.15 canonical owner (redirect only)** remains an exact redirect.
+- **Individual differences** is scoped to personality/self/identity treatment and defers general, biological, and domain-specific owners appropriately.
+
+**Completed canonical chapters:** 1.1–1.14
+
+**Completed canonical Topic count through Chapter 1.14:** **937**
+
+**Next target:** Chapter 1.15, after a fresh architecture + ownership + constitution audit.
