@@ -846,3 +846,424 @@ Fear and anxiety to Chapter 1.13 and relevant clinical chapters; avoidance learn
 - Preventive and escape forms can differ.
 - Avoidance becomes problematic only in relation to context and consequences.
 
+
+---
+
+## 1.12.31 Achievement motivation
+
+## 1. Purpose
+Explain motivation to attain standards of competence, accomplishment, mastery, or successful performance.
+
+## 2. Definition
+Achievement motivation is motivation to attain valued standards of performance, competence, mastery, or accomplishment.
+
+## 3. Core Understanding
+Achievement motivation concerns the pursuit of competence-related outcomes and standards. People may seek to demonstrate ability, improve performance, master a task, or meet a personally meaningful criterion. Achievement motives can differ in what is valued: some contexts emphasize learning and mastery, whereas others emphasize outperforming others or demonstrating ability. Expectations of success, perceived difficulty, feedback, standards, and anticipated consequences can influence achievement behavior. High achievement motivation does not guarantee high performance because skills, resources, opportunity, and task conditions also matter. Nor does achievement motivation necessarily imply competitiveness. A person can be strongly motivated to improve without comparing performance with others. Achievement motivation is therefore a motivational construct concerning accomplishment and competence, not a synonym for general ambition or productivity.
+
+## 4. Relationship to This Chapter
+Achievement motivation is one of the major social motives and connects with competence, expectancy-value processes, goal commitment, and persistence.
+
+## 5. Boundaries
+### Owns
+Motivation to attain standards of accomplishment, competence, mastery, or successful performance.
+
+### Defers
+Competence as a broader psychological need to Competence; achievement-related personality differences to Chapter 1.14.
+
+## 6. Key Principles
+- Achievement motivation concerns valued accomplishment or competence.
+- Mastery and comparison-oriented achievement can differ.
+- Motivation does not guarantee performance.
+
+---
+
+## 1.12.32 Affiliation motivation
+
+## 1. Purpose
+Explain motivation to establish, maintain, or restore meaningful social connection and belonging.
+
+## 2. Definition
+Affiliation motivation is motivation to form, maintain, or participate in valued social relationships and group connections.
+
+## 3. Core Understanding
+Affiliation motivation reflects the importance people can place on social connection. It can motivate seeking companionship, maintaining relationships, participating in groups, and repairing social bonds. The desired form of connection varies across people and contexts: affiliation can involve intimacy, belonging, acceptance, companionship, or shared activity. Affiliation motivation does not mean that people always prefer social contact over solitude; social goals compete with other goals and the value of interaction depends on context and relationship quality. Rejection, isolation, and opportunities for connection can alter the salience of affiliation motives. The construct should also be distinguished from attachment, which has a specific developmental and relational history. Affiliation is a motivational orientation toward social connection rather than a general description of being sociable.
+
+## 4. Relationship to This Chapter
+Affiliation motivation connects the motivational system with social motives and with the Relatedness concept in self-determination theory.
+
+## 5. Boundaries
+### Owns
+Motivation to seek and maintain valued social connection.
+
+### Defers
+Attachment processes to Chapter 1.15; social behavior and relationships to Chapter 1.16; relatedness need to Relatedness.
+
+## 6. Key Principles
+- Affiliation motivation concerns valued social connection.
+- Social motivation varies with relationship and context.
+- Affiliation is not identical to sociability or attachment.
+
+---
+
+## 1.12.33 Power motivation
+
+## 1. Purpose
+Explain motivation to influence, control, direct, or affect the behavior and outcomes of others or one's social environment.
+
+## 2. Definition
+Power motivation is motivation to influence or control people, resources, decisions, or social outcomes.
+
+## 3. Core Understanding
+Power motivation concerns the desire to have influence or control over relevant outcomes. It can be expressed through leadership, resource control, persuasion, status seeking, competition, or attempts to shape collective decisions. Power is not inherently beneficial or harmful; its consequences depend on how influence is pursued, what goals it serves, and the constraints governing behavior. Power motivation can also be expressed through socially accepted roles rather than domination. The motive differs from objective power because a person can occupy a powerful position without strongly desiring influence, and a person can desire influence without possessing it. The motivational significance of power is shaped by social context, norms, expected consequences, and other motives such as affiliation or achievement.
+
+## 4. Relationship to This Chapter
+Power motivation is one of the major social motives and connects with goal pursuit, social context, and motivational regulation.
+
+## 5. Boundaries
+### Owns
+Motivation to influence or control social outcomes, people, or resources.
+
+### Defers
+Actual power structures to Chapter 1.16 and social systems to Chapter 1.17 where relevant; personality-level power traits to Chapter 1.14.
+
+## 6. Key Principles
+- Power motivation concerns desired influence, not merely possession of power.
+- Its expression depends strongly on context and norms.
+- Influence can be pursued through cooperative or coercive routes.
+
+---
+
+## 1.12.34 Curiosity
+
+## 1. Purpose
+Define curiosity as motivation to obtain information, resolve uncertainty, or explore what is not yet understood.
+
+## 2. Definition
+Curiosity is a motivational state or tendency involving interest in acquiring information, resolving uncertainty, or discovering novel properties of the environment.
+
+## 3. Core Understanding
+Curiosity can motivate information seeking even when the information has no immediate instrumental reward. Novelty, uncertainty, complexity, surprise, and perceived knowledge gaps can increase curiosity, although extremely confusing or inaccessible information may instead reduce engagement. Curiosity can be epistemic, involving questions and knowledge, or exploratory, involving active investigation of an environment. The motivational value of information varies with prior knowledge and expectations, so the same stimulus can be highly curious to one person and uninteresting to another. Curiosity can support learning and exploration but can also draw attention away from current goals. It is therefore a motivational process interacting with cognition, attention, and reward rather than a guarantee of accurate knowledge acquisition.
+
+## 4. Relationship to This Chapter
+Curiosity connects motivational processes with exploration, information seeking, learning, and intrinsic motivation.
+
+## 5. Boundaries
+### Owns
+Motivation to seek information, resolve uncertainty, or discover novel properties.
+
+### Defers
+General attention to Chapter 1.6; learning mechanisms to Chapter 1.7; thinking and knowledge representation to Chapter 1.9.
+
+## 6. Key Principles
+- Curiosity can motivate information seeking without immediate external reward.
+- Knowledge gaps and novelty can influence curiosity.
+- Curiosity can facilitate or compete with other goals.
+
+---
+
+## 1.12.35 Exploration
+
+## 1. Purpose
+Explain exploratory motivation as engagement with new information, environments, actions, or possibilities to discover what they contain.
+
+## 2. Definition
+Exploration is motivated behavior directed toward discovering information, opportunities, resources, or properties of an environment through investigation or varied action.
+
+## 3. Core Understanding
+Exploration expands knowledge about possible states and actions rather than immediately exploiting a known option. It can involve physical investigation, trying new strategies, sampling alternatives, or seeking unfamiliar information. Exploration is influenced by novelty, uncertainty, expected information value, perceived safety, prior knowledge, and available resources. It can be intrinsically satisfying but may also serve instrumental goals by improving future choices. Exploration and exploitation are not mutually exclusive states; behavior can alternate between gathering information and using what is already known. Exploration is therefore a motivationally relevant behavioral orientation rather than simply “doing something new.” Its value depends on whether uncertainty is informative, manageable, and relevant to the current goal.
+
+## 4. Relationship to This Chapter
+Exploration complements Curiosity and connects motivational processes with learning, reward, uncertainty, and goal selection.
+
+## 5. Boundaries
+### Owns
+Motivated investigation of new information, options, environments, or action possibilities.
+
+### Defers
+Perceptual exploration mechanisms to Chapter 1.4; learning from exploration to Chapter 1.7; decision strategy selection to Chapter 1.10.
+
+## 6. Key Principles
+- Exploration seeks information or possibilities beyond current knowledge.
+- It can serve intrinsic or instrumental purposes.
+- Exploration and exploitation can alternate within the same activity.
+
+---
+
+## 1.12.36 Competence
+
+## 1. Purpose
+Define competence as the need or motivational concern to feel effective and capable in interacting with one's environment.
+
+## 2. Definition
+Competence is the psychological need or motivational concern to experience effectiveness, capability, and successful interaction with relevant challenges.
+
+## 3. Core Understanding
+Competence concerns experienced effectiveness rather than simply possessing objective skill. People can be highly skilled but feel ineffective when feedback is unclear, standards are unrealistic, or circumstances prevent successful action. Conversely, a person can experience competence while still developing objectively. Competence becomes motivationally relevant when opportunities allow people to exercise and develop abilities, receive informative feedback, and make progress toward meaningful standards. Challenges can support competence when they are manageable enough to permit learning and feedback. Persistent failure or uncontrollable obstacles can undermine the experience of effectiveness. In self-determination theory, competence is treated as one of several basic psychological needs; that theoretical status should not be confused with the broader empirical fact that perceived effectiveness can influence motivation.
+
+## 4. Relationship to This Chapter
+Competence is a major motivational need and a central component of self-determination theory, while also relating to achievement motivation and self-efficacy.
+
+## 5. Boundaries
+### Owns
+The motivational concern for effectiveness and capability in interacting with the environment.
+
+### Defers
+Self-efficacy beliefs to Self-efficacy; achievement motivation to Achievement motivation; objective cognitive or physical ability to relevant domain chapters.
+
+## 6. Key Principles
+- Competence concerns experienced effectiveness.
+- Objective ability and experienced competence can diverge.
+- Feedback and challenge structure influence competence experiences.
+
+---
+
+## 1.12.37 Autonomy
+
+## 1. Purpose
+Define autonomy as the experience of acting with volition and self-endorsement rather than primarily from coercive control.
+
+## 2. Definition
+Autonomy is the experience of volition, self-direction, and endorsement of one's actions and goals.
+
+## 3. Core Understanding
+Autonomy concerns whether a person experiences behavior as self-endorsed and willingly enacted. It does not mean complete independence, absence of social influence, or doing everything alone. A person can autonomously choose an action that is socially coordinated, constrained by circumstances, or undertaken to meet an obligation if the action is genuinely endorsed. Conversely, behavior can be externally caused yet experienced as controlling when the person feels pressured or coerced. Autonomy is central to self-determination theory, where it is treated as a basic psychological need. The construct should not be confused with objective freedom: external constraints and psychological autonomy are related but distinct. Autonomy-supportive contexts can facilitate self-endorsed motivation, whereas controlling contexts can undermine it.
+
+## 4. Relationship to This Chapter
+Autonomy is one of the three needs emphasized by self-determination theory and interacts with intrinsic and extrinsic motivation.
+
+## 5. Boundaries
+### Owns
+The motivational experience of volition and self-endorsement.
+
+### Defers
+Political or legal autonomy to other domains; self-determination theory to its dedicated Topic; independence as a personality or developmental construct to relevant chapters.
+
+## 6. Key Principles
+- Autonomy means volition, not isolation.
+- Autonomy and external influence can coexist.
+- Experienced self-endorsement differs from objective freedom.
+
+---
+
+## 1.12.38 Relatedness
+
+## 1. Purpose
+Define relatedness as the motivational need to experience meaningful connection, mutual care, and belonging with others.
+
+## 2. Definition
+Relatedness is the need or motivational concern to feel connected to, valued by, and significant to other people.
+
+## 3. Core Understanding
+Relatedness concerns the subjective experience of meaningful social connection. It includes feeling accepted, cared for, included, and able to care about others. The need is relational rather than simply numerical: being surrounded by people does not guarantee relatedness if interactions are rejecting or emotionally disconnected. Relatedness can support motivation by making activities and goals feel socially meaningful, while chronic isolation or rejection can undermine engagement. In self-determination theory, relatedness is proposed as a basic psychological need alongside autonomy and competence. Its theoretical role should be distinguished from the broader empirical study of social relationships, belonging, and attachment, which involve additional constructs and mechanisms.
+
+## 4. Relationship to This Chapter
+Relatedness is a central motivational need within self-determination theory and overlaps functionally with affiliation motivation without being identical to it.
+
+## 5. Boundaries
+### Owns
+The motivational need for meaningful interpersonal connection and belonging.
+
+### Defers
+Affiliation motivation to its dedicated Topic; attachment to Chapter 1.15; social relationships to Chapter 1.16.
+
+## 6. Key Principles
+- Relatedness concerns meaningful connection, not mere social contact.
+- It is conceptually related to but distinct from affiliation and attachment.
+- Its theoretical status is specific to motivational frameworks such as self-determination theory.
+
+---
+
+## 1.12.39 Need for achievement
+
+## 1. Purpose
+Define need for achievement as a recurring motivational concern with accomplishing challenging standards and demonstrating competence.
+
+## 2. Definition
+Need for achievement is a motivational disposition or concern involving the desire to accomplish valued standards of excellence or competence.
+
+## 3. Core Understanding
+The need for achievement describes a recurring orientation toward accomplishing difficult or meaningful standards. Classic achievement-motivation research examined how people respond to tasks involving challenge, success, failure, and standards of excellence. The construct can influence choice of task difficulty, effort, persistence, and reactions to performance feedback, but these effects depend on expectations, incentives, skill, and context. It should not be equated with a general desire to work hard or with objective achievement. A person can value achievement while choosing a low-risk task, for example, because perceived attainability and consequences matter. The construct is also distinct from competence as a psychological need: competence concerns experienced effectiveness, whereas need for achievement concerns a more specific motivational orientation toward accomplishment and standards.
+
+## 4. Relationship to This Chapter
+Need for achievement specifies a particular motive within the broader Achievement motivation construct and relates to expectancy-value processes and goal standards.
+
+## 5. Boundaries
+### Owns
+The motivational disposition or concern centered on accomplishment and standards of excellence.
+
+### Defers
+General competence to Competence; broad achievement motivation to Achievement motivation; personality measurement to Chapter 1.14.
+
+## 6. Key Principles
+- Achievement need concerns valued accomplishment and standards.
+- It is not equivalent to general ambition.
+- Task choice and effort depend on expectations and context as well as motive.
+
+---
+
+## 1.12.40 Need for affiliation
+
+## 1. Purpose
+Define the motivational concern for establishing and maintaining valued interpersonal connection.
+
+## 2. Definition
+Need for affiliation is a motivational disposition or concern involving the desire for positive social connection, acceptance, companionship, or belonging.
+
+## 3. Core Understanding
+Need for affiliation represents a recurring orientation toward social connection. It can influence preferences for interaction, relationship maintenance, participation in groups, and sensitivity to social acceptance. The strength of the motive does not imply that a person always seeks contact; context, relationship quality, competing goals, and perceived rejection can change behavior. It is also distinct from relatedness in self-determination theory: need for affiliation is a motive construct with a particular research tradition, whereas relatedness is a proposed basic psychological need concerning the experience of connection. The need for affiliation should not be treated as a simple measure of extraversion or sociability because those constructs include broader behavioral and personality characteristics.
+
+## 4. Relationship to This Chapter
+Need for affiliation specifies a recurring social motive related to Affiliation motivation and provides a motivational perspective on social connection.
+
+## 5. Boundaries
+### Owns
+The motivational concern for positive affiliation and interpersonal acceptance.
+
+### Defers
+Relatedness to Relatedness; attachment to Chapter 1.15; extraversion and personality traits to Chapter 1.14.
+
+## 6. Key Principles
+- Affiliation need concerns valued social connection.
+- It differs from relatedness and from broad sociability.
+- Its behavioral expression depends on context and competing motives.
+
+---
+
+## 1.12.41 Need for power
+
+## 1. Purpose
+Define the motivational concern for having impact, influence, or control over people and outcomes.
+
+## 2. Definition
+Need for power is a motivational disposition or concern involving the desire to influence, control, direct, or have impact on others or relevant outcomes.
+
+## 3. Core Understanding
+Need for power describes a recurring motivational orientation toward influence and impact. It can be expressed through leadership, control of resources, status seeking, persuasion, competition, or responsibility for collective outcomes. The motive itself does not specify whether influence will be exercised cooperatively, coercively, or constructively. Behavioral expression depends on social norms, skills, opportunities, other motives, and anticipated consequences. Need for power also differs from actual social power: a person may have little influence while strongly desiring it, or hold a powerful role without a strong power motive. Measurement and interpretation should therefore distinguish motivational preference from observed authority or social position.
+
+## 4. Relationship to This Chapter
+Need for power is the dispositional counterpart of Power motivation and connects with social goals and regulatory processes.
+
+## 5. Boundaries
+### Owns
+The recurring motivational concern for influence, impact, or control.
+
+### Defers
+Actual social power and group processes to Chapter 1.16; personality-level trait organization to Chapter 1.14.
+
+## 6. Key Principles
+- Power need concerns desired influence, not actual authority.
+- Its expression can be constructive or harmful depending on context.
+- Motive and social position are distinct.
+
+---
+
+## 1.12.42 Self-determination theory
+
+## 1. Purpose
+Explain a major motivational framework emphasizing autonomous functioning and the psychological needs for autonomy, competence, and relatedness.
+
+## 2. Definition
+Self-determination theory is a family of motivational theories proposing that the quality of motivation and well-being are influenced by autonomy, competence, relatedness, and the degree to which behavior is self-endorsed.
+
+## 3. Core Understanding
+Self-determination theory distinguishes motivation not only by whether behavior is internally or externally caused but also by the degree to which the person endorses the regulation of behavior. It proposes autonomy, competence, and relatedness as basic psychological needs and examines how social environments support or frustrate them. The theory includes differentiated forms of extrinsic regulation and treats intrinsic motivation as an important form of self-directed engagement. Its empirical program spans motivation, education, work, health, relationships, and other settings. The theory has generated substantial research, but individual claims should be evaluated on their own evidence rather than treating the framework as a single all-or-nothing empirical proposition. Its constructs also should not be stretched into claims that autonomy means complete independence or that satisfying needs guarantees well-being.
+
+## 4. Relationship to This Chapter
+Self-determination theory integrates Intrinsic motivation, Extrinsic motivation, Competence, Autonomy, Relatedness, and motivational regulation into one major theoretical framework.
+
+## 5. Boundaries
+### Owns
+The theoretical model and its specific account of motivational quality and basic psychological needs.
+
+### Defers
+General motivation to Motivation; individual needs to their dedicated Topics; well-being to relevant health and personality chapters.
+
+## 6. Key Principles
+- Motivation can differ in quality as well as amount.
+- Autonomy, competence, and relatedness are central theoretical needs.
+- The framework is influential but its individual claims require empirical evaluation.
+
+---
+
+## 1.12.43 Expectancy-value theory
+
+## 1. Purpose
+Explain motivational models in which behavior depends on expectations of success and the value assigned to the relevant outcome or task.
+
+## 2. Definition
+Expectancy-value theory is a family of motivational models proposing that engagement is influenced by beliefs about likely success and the subjective value or cost of the task or outcome.
+
+## 3. Core Understanding
+Expectancy-value approaches explain why a person may choose one goal over another by considering both expected attainability and subjective value. A highly valued task may receive little effort if success seems extremely unlikely, while an achievable task may receive little effort if its value is low or its costs are high. Contemporary versions often distinguish several value components, such as intrinsic value, attainment value, utility value, and perceived cost. Expectations and values can change through experience, feedback, socialization, and contextual conditions. The framework therefore connects motivation with both anticipated capability and desired outcomes. It is not a claim that people calculate explicit numerical utilities before every action; the model describes psychological determinants that can be measured or inferred.
+
+## 4. Relationship to This Chapter
+Expectancy-value theory connects Achievement motivation, Goal selection, Competence, Incentive value, and perceived attainability.
+
+## 5. Boundaries
+### Owns
+The theoretical framework linking expected success with subjective task or outcome value and cost.
+
+### Defers
+Formal decision utility to Chapter 1.10; self-efficacy to Self-efficacy; achievement motivation to Achievement motivation.
+
+## 6. Key Principles
+- Motivation depends on both expected attainability and value.
+- Value includes more than external reward.
+- The theory does not require conscious numerical calculation.
+
+---
+
+## 1.12.44 Control-value processes
+
+## 1. Purpose
+Explain motivational and emotional processes arising from perceived control and value in achievement-related settings.
+
+## 2. Definition
+Control-value processes are psychological processes in which perceived control over an activity or outcome and the value assigned to it shape motivation, achievement-related emotions, and engagement.
+
+## 3. Core Understanding
+Control-value approaches emphasize two central appraisals: whether a person believes they can influence relevant outcomes and how important or valuable the activity or outcome is. These appraisals can shape emotions such as enjoyment, anxiety, pride, or boredom and can consequently influence engagement and performance. Control is not equivalent to objective control; perceived control can differ from actual contingencies. Value can concern the activity itself, personal importance, or consequences. The framework is especially associated with achievement settings, where students or performers interpret their ability to succeed and the significance of the task. It therefore connects motivational cognition with emotion rather than treating motivation and emotion as independent systems.
+
+## 4. Relationship to This Chapter
+Control-value processes bridge expectancy, value, achievement motivation, and the motivational role of emotion.
+
+## 5. Boundaries
+### Owns
+The control-and-value appraisal framework for achievement-related motivation and emotion.
+
+### Defers
+General emotion to Chapter 1.13; decision control and utility to Chapter 1.10; self-efficacy to Self-efficacy.
+
+## 6. Key Principles
+- Perceived control and subjective value jointly matter.
+- Motivation and achievement emotions can be linked through these appraisals.
+- Perceived control is not necessarily objective control.
+
+---
+
+## 1.12.45 Regulatory focus
+
+## 1. Purpose
+Explain a motivational framework distinguishing promotion-oriented and prevention-oriented self-regulation.
+
+## 2. Definition
+Regulatory focus is a motivational orientation in which behavior is organized around advancement toward desired gains or protection against undesired losses or failures.
+
+## 3. Core Understanding
+Regulatory focus theory distinguishes promotion and prevention orientations. Promotion focus emphasizes aspirations, advancement, gains, and attaining desired states, whereas prevention focus emphasizes duties, safety, responsibilities, and avoiding negative outcomes. These orientations can be chronic tendencies or induced by situational goals and framing. They influence how people evaluate options, interpret outcomes, and choose strategies, but they do not imply that promotion is always approach behavior or prevention always fear. A promotion-focused person can avoid missing a gain, and a prevention-focused person can actively pursue a safety standard. Regulatory focus is therefore a framework for motivational orientation rather than a simple personality dichotomy. Its effects depend on context, task demands, and the fit between regulatory orientation and strategy.
+
+## 4. Relationship to This Chapter
+Regulatory focus connects approach and avoidance motivation with goal standards, self-regulation, and strategic goal pursuit.
+
+## 5. Boundaries
+### Owns
+The promotion/prevention motivational framework and its regulatory implications.
+
+### Defers
+General approach and avoidance to their dedicated Topics; personality traits to Chapter 1.14.
+
+## 6. Key Principles
+- Promotion emphasizes gains and advancement; prevention emphasizes safety and obligations.
+- Orientations can be situational as well as relatively stable.
+- Promotion and prevention are not simple synonyms for approach and avoidance.
+
