@@ -1488,3 +1488,634 @@ Moral judgment and responsibility reasoning.
 - Guilt can motivate repair.
 - Feeling guilty does not prove actual responsibility.
 
+
+---
+
+## 1.13.48 Pride
+
+## 1. Purpose
+Explain pride as a self-conscious emotion associated with positive evaluation of the self or one's accomplishments.
+
+## 2. Definition
+Pride is a self-conscious emotional state involving positive evaluation of oneself or one's achievements, qualities, or socially valued contributions.
+
+## 3. Core Understanding
+Pride can arise after success, mastery, recognition, or behavior consistent with valued standards. It can reinforce persistence and identity when grounded in genuine accomplishment. Researchers sometimes distinguish pride focused on a specific achievement from more global self-evaluative forms.
+
+Pride is not equivalent to narcissism or arrogance. Its expression and consequences depend on context, attribution, social norms, and how the achievement is interpreted. Pride can support confidence and continued effort, but exaggerated or status-focused pride can also contribute to interpersonal conflict.
+
+Because pride is self-conscious, it depends on representations of the self and standards of evaluation. It is therefore partly social even when the achievement is private.
+
+## 4. Relationship to This Chapter
+Pride completes the central group of self-conscious emotions alongside shame and guilt.
+
+## 5. Boundaries
+### Owns
+Pride as an affective response to positive self-evaluation.
+### Defers
+Self-esteem, personality, and achievement motivation.
+
+## 6. Key Principles
+- Pride involves positive self-evaluation.
+- Pride can support persistence without implying superiority.
+- Context shapes its social consequences.
+
+---
+
+## 1.13.49 Envy
+
+## 1. Purpose
+Explain envy as an emotion arising from comparison with another person who possesses a desired advantage.
+
+## 2. Definition
+Envy is an unpleasant emotional response involving unfavorable comparison with another person whose advantage, possession, status, or outcome is desired.
+
+## 3. Core Understanding
+Envy depends on social comparison and perceived relevance. People are more likely to experience envy when another person's advantage matters to their own goals or identity. The emotion can involve feelings of inferiority, resentment, desire for improvement, or hostility.
+
+Envy differs from jealousy. Envy typically concerns a comparison between oneself and another person over a valued advantage; jealousy commonly involves a valued relationship threatened by a third party. Ordinary language sometimes blurs them, but the psychological structures differ.
+
+Envy is not automatically destructive. It can motivate self-improvement when interpreted as information about a valued goal, but it can also produce hostility or devaluation when the comparison is experienced as threatening.
+
+## 4. Relationship to This Chapter
+Envy illustrates how emotion can emerge from social comparison and self-evaluation.
+
+## 5. Boundaries
+### Owns
+Envy as a social-comparison emotion.
+### Defers
+General social comparison and status processes.
+
+## 6. Key Principles
+- Envy depends on comparison and perceived relevance.
+- Envy differs from jealousy.
+- Its behavioral consequences depend on appraisal and regulation.
+
+---
+
+## 1.13.50 Jealousy
+
+## 1. Purpose
+Explain jealousy as an emotion associated with perceived threat to a valued relationship or resource.
+
+## 2. Definition
+Jealousy is an emotional response to a perceived threat of losing a valued relationship, role, or resource to a rival or competing claim.
+
+## 3. Core Understanding
+Jealousy commonly involves a relational structure containing a valued connection, a perceived threat, and a competing person or alternative. It can include fear, anger, sadness, insecurity, or suspicion. The mixed emotional composition is one reason jealousy cannot be reduced to a single basic emotion.
+
+Jealousy can be triggered by actual threats, ambiguous cues, imagined possibilities, or inaccurate interpretations. The presence of jealousy therefore does not establish that a relationship is actually threatened. Regulation and communication can alter the resulting behavior.
+
+Jealousy differs from envy because envy is primarily a comparison over another person's advantage, whereas jealousy involves threatened possession or relationship exclusivity. The two can coexist.
+
+## 4. Relationship to This Chapter
+Jealousy demonstrates how multiple affective processes can combine around social threat.
+
+## 5. Boundaries
+### Owns
+Jealousy as a relational-threat emotion.
+### Defers
+Attachment and relationship structure.
+
+## 6. Key Principles
+- Jealousy involves perceived threat to something valued.
+- Jealousy can contain several emotions.
+- Feeling jealous does not establish that a threat is real.
+
+---
+
+## 1.13.51 Gratitude
+
+## 1. Purpose
+Explain gratitude as a positive response to perceived benefits received from another person or source.
+
+## 2. Definition
+Gratitude is an affective response involving appreciation for a benefit, gift, help, or positive circumstance perceived as valuable.
+
+## 3. Core Understanding
+Gratitude often involves recognition that something beneficial has been received and, in interpersonal contexts, that another person intentionally contributed to it. It can support relationship maintenance, reciprocity, and prosocial behavior, although these outcomes depend on context.
+
+Gratitude can be directed toward people, groups, circumstances, institutions, or broader sources. It may be a brief emotion after a benefit or a more enduring tendency to notice and appreciate positive contributions.
+
+Feeling grateful does not require that the benefit be objectively large. Perceived value, intention, relationship, and comparison standards shape the response.
+
+## 4. Relationship to This Chapter
+Gratitude is a positive social emotion illustrating how affect can encode beneficial interpersonal events.
+
+## 5. Boundaries
+### Owns
+Gratitude as an emotional response of appreciation.
+### Defers
+Prosocial behavior and reciprocity.
+
+## 6. Key Principles
+- Gratitude depends on perceived benefit and appreciation.
+- It can have interpersonal functions.
+- Its intensity depends on interpretation as well as objective benefit.
+
+---
+
+## 1.13.52 Hope
+
+## 1. Purpose
+Explain hope as an affective and motivational response organized around desirable future outcomes.
+
+## 2. Definition
+Hope is a positive future-oriented state involving expectation or possibility of a valued outcome and some orientation toward its attainment.
+
+## 3. Core Understanding
+Hope is directed toward the future and can remain present under uncertainty. It differs from simple optimism because hope often involves an active representation of a desired possibility and, in some theories, perceived pathways or agency. A person can hope for an outcome without believing it is guaranteed.
+
+Hope can support persistence, planning, and coping, but unrealistic hope can also sustain ineffective behavior when evidence strongly indicates that a goal is unattainable. The emotional experience of hope is therefore related to, but not identical with, probability judgment.
+
+Hope can coexist with fear, grief, or uncertainty. Emotional states are not mutually exclusive categories.
+
+## 4. Relationship to This Chapter
+Hope connects positive affect with future-oriented cognition and motivation.
+
+## 5. Boundaries
+### Owns
+Hope as a future-oriented affective experience.
+### Defers
+Goal pursuit and optimism to their canonical owners.
+
+## 6. Key Principles
+- Hope concerns valued possibilities in the future.
+- Hope does not require certainty.
+- Hope and realistic assessment can coexist.
+
+---
+
+## 1.13.53 Anxiety as emotional experience
+
+## 1. Purpose
+Describe anxiety as an affective experience involving anticipated or uncertain threat.
+
+## 2. Definition
+Anxiety is an unpleasant emotional experience characterized by apprehension, worry, or heightened readiness in relation to uncertain, anticipated, or diffuse threat.
+
+## 3. Core Understanding
+Anxiety often differs from fear in the structure of its perceived threat. Fear is commonly oriented toward a more immediate or identifiable danger, while anxiety often concerns uncertain future possibilities. In real experience the boundary is porous, and both can coexist.
+
+Anxiety can increase vigilance and preparation. Moderate anticipatory anxiety may support planning, while persistent or disproportionate anxiety can interfere with attention, decision-making, sleep, and functioning. These effects depend on intensity, duration, context, and coping resources.
+
+Anxiety as an emotion must be distinguished from anxiety disorders. A clinical diagnosis requires a broader pattern of symptoms and impairment; ordinary anxiety is part of normal human functioning.
+
+## 4. Relationship to This Chapter
+Anxiety provides the chapter's major future-oriented threat emotion and contrasts with fear.
+
+## 5. Boundaries
+### Owns
+Anxiety as an emotional experience.
+### Defers
+Clinical anxiety disorders to psychopathology.
+
+## 6. Key Principles
+- Anxiety commonly concerns uncertain or anticipated threat.
+- It can be adaptive or impairing depending on context and persistence.
+- Emotional anxiety is not itself a diagnosis.
+
+---
+
+## 1.13.54 Emotion and cognition
+
+## 1. Purpose
+Define the relationship between affective processes and thinking without reducing either domain to the other.
+
+## 2. Definition
+Emotion and cognition refers to the bidirectional relationship in which emotional processes influence attention, memory, reasoning, interpretation, and decision-making while cognitive processes also influence emotion.
+
+## 3. Core Understanding
+Emotion can change what information receives priority, how ambiguous events are interpreted, which memories become accessible, and how options are valued. Cognition can likewise alter emotion through appraisal, prediction, reinterpretation, and attention. These influences are dynamic rather than a simple sequence in which one system always comes first.
+
+The relationship is therefore not accurately described as “emotion versus reason.” Some emotional processes improve information prioritization or motivate appropriate action, while some affective states can bias judgment. Cognitive processes can regulate emotion but can also generate or intensify it through interpretation.
+
+This Topic is a relationship node rather than a third owner. The chapter does not re-own general cognition, reasoning, or decision-making.
+
+## 4. Relationship to This Chapter
+It integrates emotion with the cognitive systems described in Chapters 1.6, 1.8, 1.9, and 1.10.
+
+## 5. Boundaries
+### Owns
+No independent third construct; this is an explicit relationship node linking emotion and cognition.
+### Defers
+Cognition, attention, memory, reasoning, and decision-making to their canonical owners.
+
+## 6. Key Principles
+- Emotion and cognition continuously influence one another.
+- Neither domain is simply the enemy of the other.
+- This Topic is a relationship node, not a duplicate owner.
+
+---
+
+## 1.13.55 Emotion and memory
+
+## 1. Purpose
+Describe how emotional states and emotional significance interact with remembering.
+
+## 2. Definition
+Emotion and memory refers to the bidirectional relationship in which emotional states and emotionally significant events influence encoding, consolidation, retrieval, and remembering, while memories can also evoke emotion.
+
+## 3. Core Understanding
+Emotion can influence attention during encoding and alter which aspects of an event receive priority. Emotional arousal can also affect consolidation, while current mood and context can influence retrieval. These effects are not uniformly beneficial: emotional memory can be vivid while still containing inaccuracies, omissions, or reconstruction.
+
+Remembering can itself trigger emotion. A memory of loss can evoke sadness even when the original event is absent. The emotional response to a memory may also change as later information changes its meaning.
+
+This relationship is complex enough that “emotion improves memory” is an inadequate generalization. Effects depend on arousal, task, material, timing, attention, and the type of memory being assessed.
+
+## 4. Relationship to This Chapter
+This relationship node connects Chapter 1.13 with the canonical memory system in Chapter 1.8.
+
+## 5. Boundaries
+### Owns
+No independent memory construct; it owns only the documented relationship between emotion and memory.
+### Defers
+Memory mechanisms to Chapter 1.8.
+
+## 6. Key Principles
+- Emotion can affect what is remembered and how.
+- Emotional vividness does not guarantee accuracy.
+- Memories can reactivate emotional experience.
+
+---
+
+## 1.13.56 Emotion and attention
+
+## 1. Purpose
+Explain the reciprocal relationship between emotion and information selection.
+
+## 2. Definition
+Emotion and attention refers to the relationship in which affective significance influences attentional selection while attention also changes emotional processing.
+
+## 3. Core Understanding
+Threatening or rewarding information can capture or prioritize attention, particularly when it is salient or relevant to current goals. Emotion can therefore change which stimuli receive deeper processing. Attention also affects emotion by determining what aspects of a situation remain in focus and what information is ignored.
+
+These effects depend on task demands and individual differences. Emotional salience does not guarantee attentional capture under every condition, and attention to an emotional cue does not guarantee a particular emotional response.
+
+This relationship should not duplicate the general attention system. Its purpose is to explain how affective significance interacts with selection.
+
+## 4. Relationship to This Chapter
+It links emotional salience to Chapter 1.6's canonical attention mechanisms.
+
+## 5. Boundaries
+### Owns
+No independent attention construct; this is an emotion–attention relationship node.
+### Defers
+Attention and attentional control to Chapter 1.6.
+
+## 6. Key Principles
+- Emotional significance can bias attention.
+- Attention can amplify or reduce emotional processing.
+- Context and task demands moderate the relationship.
+
+---
+
+## 1.13.57 Emotion and decision-making
+
+## 1. Purpose
+Explain how affective states and anticipated emotions interact with judgment and choice.
+
+## 2. Definition
+Emotion and decision-making refers to the reciprocal influence of current and anticipated emotional processes on judgment, valuation, risk perception, and choice.
+
+## 3. Core Understanding
+Current emotion can alter perceived value, risk, urgency, and attention to outcomes. Anticipated emotion can also shape choices by making future regret, relief, fear, or satisfaction psychologically relevant. These influences do not necessarily produce irrational choices; emotion is part of the information used by human decision systems.
+
+The effects are highly context-dependent. Anger, fear, excitement, and sadness can produce different changes in risk perception or valuation, and the same emotion can affect different decisions differently. Emotional regulation and deliberation can further modify the process.
+
+The relationship is not a license to explain every decision as emotional. Decision-making also depends on knowledge, probabilities, goals, incentives, and cognitive processes.
+
+## 4. Relationship to This Chapter
+This relationship node connects emotion with Chapter 1.10's canonical decision-making system.
+
+## 5. Boundaries
+### Owns
+No independent decision-making construct; only the emotion–choice relationship.
+### Defers
+Judgment, heuristics, biases, and decision models to Chapter 1.10.
+
+## 6. Key Principles
+- Emotion contributes to valuation and choice.
+- Anticipated emotions can influence decisions.
+- Emotional influence does not make a decision irrational by definition.
+
+---
+
+## 1.13.58 Emotion and motivation
+
+## 1. Purpose
+Explain how emotional states and motivational processes influence one another.
+
+## 2. Definition
+Emotion and motivation refers to the relationship in which emotions alter action priority and motivational direction while motives and goals shape emotional responses.
+
+## 3. Core Understanding
+Emotions often contain action tendencies that make some responses more urgent or attractive. Fear can prioritize safety, anger can prioritize correction or confrontation, and interest can prioritize exploration. Motivational goals also determine which events become emotionally significant.
+
+The relationship is bidirectional. A valued goal can make success emotionally rewarding and failure emotionally painful, while an emotional state can change which goals appear urgent. Yet emotion is not identical to motivation. A feeling may occur without producing action, and motivated action can continue despite weak current emotion.
+
+This distinction is important because the chapter should not re-own the motivational system already established in Chapter 1.12.
+
+## 4. Relationship to This Chapter
+It links affective action readiness to the motivational architecture of Chapter 1.12.
+
+## 5. Boundaries
+### Owns
+No independent motivation construct; this is an emotion–motivation relationship node.
+### Defers
+Motivation, motives, needs, goals, reward, and self-regulation to Chapter 1.12.
+
+## 6. Key Principles
+- Emotion and motivation are deeply connected but not identical.
+- Goals shape emotional significance.
+- Emotional action tendencies can alter motivational priority.
+
+---
+
+## 1.13.59 Emotion and action
+
+## 1. Purpose
+Explain how emotion influences behavior without treating emotion as a deterministic command.
+
+## 2. Definition
+Emotion and action refers to the relationship through which affective states bias action readiness, selection, initiation, inhibition, and behavioral adjustment.
+
+## 3. Core Understanding
+Emotion can prepare behavior by changing action tendencies, attention, urgency, and valuation. However, action requires more than emotion. Skills, opportunity, norms, competing goals, executive control, and environmental constraints determine whether a tendency becomes behavior.
+
+The same emotion can therefore lead to different actions. Fear can produce avoidance, preparation, information seeking, or confrontation depending on perceived options. Anger can result in direct action, strategic delay, or deliberate nonresponse. Emotion is a source of behavioral bias, not a mechanical trigger.
+
+This relationship also explains why emotional regulation can change behavior without eliminating the underlying feeling.
+
+## 4. Relationship to This Chapter
+It connects action tendency to observable behavior and links emotion with the general behavior system.
+
+## 5. Boundaries
+### Owns
+No independent action construct; only the emotion–action relationship.
+### Defers
+Action and behavior to Chapter 1.1 and the broader behavioral architecture.
+
+## 6. Key Principles
+- Emotion biases action but does not determine it.
+- Behavior depends on opportunity and control as well as affect.
+- Regulation can alter action without eliminating emotion.
+
+---
+
+## 1.13.60 Emotion and social judgment
+
+## 1. Purpose
+Explain how affective states influence judgments about people and social situations.
+
+## 2. Definition
+Emotion and social judgment refers to the relationship in which current and observed emotions influence social evaluation, attribution, trust, blame, and interpretation.
+
+## 3. Core Understanding
+Affective states can change how people interpret ambiguous social information and evaluate others. Anger may increase blame or perceived responsibility in some contexts, while fear may increase attention to threat. Observed emotional expressions can also become evidence in social judgment, although such evidence can be misleading.
+
+Social judgment is not determined by emotion alone. Knowledge, norms, stereotypes, goals, relationships, and contextual information also matter. Emotional influence can therefore bias judgment without replacing reasoning.
+
+This relationship is especially sensitive to attribution. The same emotional state may produce different judgments depending on whether it is attributed to the person being evaluated, to the observer's own circumstances, or to an unrelated source.
+
+## 4. Relationship to This Chapter
+It connects emotion with the social-cognitive processes addressed in later System 1 chapters.
+
+## 5. Boundaries
+### Owns
+No independent social-judgment construct; this is a relationship node.
+### Defers
+Social judgment, attribution, and interpersonal cognition to their canonical owners.
+
+## 6. Key Principles
+- Emotion can bias social interpretation.
+- Attribution of emotional causes matters.
+- Emotional influence does not eliminate other sources of judgment.
+
+---
+
+## 1.13.61 Emotional intelligence
+
+## 1. Purpose
+Define emotional intelligence as a family of abilities or self-related competencies involving emotional information.
+
+## 2. Definition
+Emotional intelligence refers to models and measures proposing that people differ in abilities or competencies involving the perception, understanding, use, and regulation of emotion.
+
+## 3. Core Understanding
+Emotional intelligence is not one universally agreed construct. Ability models treat it as a form of information-processing ability involving emotional perception, understanding, and management. Trait and mixed models incorporate broader self-perceptions, personality, social functioning, or competencies. These approaches therefore measure overlapping but nonidentical constructs.
+
+Claims about emotional intelligence must specify the model and measurement method. Some measures resemble cognitive ability tests; others are self-report or broader competency inventories. Their validity, incremental predictive value, and distinction from established personality and cognitive constructs vary.
+
+Emotional intelligence should not be interpreted as proof that a person always manages emotion well, nor as a guarantee of social success. It is a family of psychological models whose scientific status depends on the operational definition.
+
+## 4. Relationship to This Chapter
+Emotional intelligence integrates emotional awareness, recognition, understanding, and regulation while remaining a model-level construct rather than a synonym for emotional maturity.
+
+## 5. Boundaries
+### Owns
+The emotional-intelligence construct family and its major measurement/model distinctions.
+### Defers
+Specific emotion processes to their canonical Topics; Chapter 1.11's duplicate appearance is a non-owner reference.
+
+## 6. Key Principles
+- Emotional intelligence has multiple competing models.
+- Measurement method changes what is being assessed.
+- It should not be treated as a single proven global ability.
+
+---
+
+## 1.13.62 Individual differences in emotion
+
+## 1. Purpose
+Explain stable and context-sensitive differences among people in emotional experience, expression, and regulation.
+
+## 2. Definition
+Individual differences in emotion are systematic differences among people in the frequency, intensity, reactivity, differentiation, expression, regulation, and meaning of emotional experiences.
+
+## 3. Core Understanding
+People differ in emotional thresholds, typical intensity, recovery, expression, awareness, differentiation, and regulation. These differences arise from interacting biological, developmental, learning, personality, cultural, and situational factors. A difference observed in one context should not automatically be generalized to all emotional situations.
+
+Individual differences are often dimensional rather than categorical. Someone may show greater reactivity to threat but not to positive events, or greater expressive control in professional settings than in close relationships. Measurement therefore needs multiple contexts when the claim concerns broad tendencies.
+
+Individual differences also do not imply fixed destiny. Emotional patterns can change with learning, environment, development, and intentional regulation. At the same time, biological and developmental constraints can make some patterns more persistent than others.
+
+## 4. Relationship to This Chapter
+This relationship-level Topic closes the chapter by integrating variation across all major affective processes.
+
+## 5. Boundaries
+### Owns
+The general psychological phenomenon of individual variation in emotional functioning.
+### Defers
+Personality, development, culture, biology, and clinical conditions to their canonical owners.
+
+## 6. Key Principles
+- Emotional functioning varies systematically across people.
+- Variation is shaped by multiple interacting factors.
+- Individual differences are not automatically fixed traits.
+
+---
+
+# CHAPTER-LEVEL INTEGRATED SYNTHESIS
+## Non-owning synthesis layer
+
+The following synthesis integrates the 62 canonical Topics without creating additional canonical owners. Its purpose is to make the architecture retrievable as a connected system while preserving the ownership boundaries defined above.
+
+## A. The affective system is not one thing
+
+Affect, mood, emotion, feeling, arousal, valence, intensity, expression, physiology, and action tendency describe different levels or components of affective life. They overlap, but treating them as interchangeable creates conceptual errors. Affect is the broadest umbrella in this chapter. Mood describes relatively sustained and diffuse affect. Emotion refers to organized responses to meaningful events or representations. Subjective feeling is the conscious experiential component. Physiological arousal describes bodily activation. Emotional expression describes observable output. Action tendency describes readiness toward classes of behavior.
+
+This decomposition matters because these components can dissociate. A person may experience strong fear while concealing expression. A person may show physiological activation without identifying a specific emotion. A person may recognize an emotion while deliberately choosing not to act on its associated tendency. A single label such as “anger” therefore compresses a multidimensional process.
+
+The most useful scientific question is not “Which one is the real emotion?” but “Which component is being measured, how is it related to the others, and under what conditions do they converge or diverge?”
+
+## B. Emotion is a process, not merely a label
+
+An emotional episode can be analyzed as a changing sequence involving an event or representation, perceptual processing, significance, appraisal, bodily regulation, subjective experience, action readiness, expression, and feedback. Different theories disagree about the ordering and causal importance of these components. The empirical system is therefore better understood as recurrent and interactive than as a universal one-way chain.
+
+An event can become emotionally significant because it matters to a goal, threatens a valued state, signals loss, indicates opportunity, violates expectation, or activates a learned association. The same physical event can have different emotional meanings for different people. Conversely, the same person can respond differently to the same event at different times because goals, expectations, bodily states, memories, and context have changed.
+
+This is why stimulus descriptions alone are insufficient explanations of emotion. “The event caused anger” leaves open the psychologically important question of what the event meant.
+
+## C. Appraisal does not mean conscious reasoning
+
+The word appraisal can misleadingly suggest deliberate intellectual analysis. In emotion science it can refer to rapid and partly automatic evaluations as well as more reflective interpretation. A person does not need to consciously calculate responsibility, controllability, or goal relevance before an event can acquire emotional significance.
+
+At the same time, deliberate interpretation can change emotion. Reappraisal demonstrates that changing the meaning assigned to an event can alter emotional responding. The distinction between appraisal and reappraisal is therefore useful: appraisal concerns significance formation, while reappraisal is a regulatory use of reinterpretation.
+
+Neither process should be reduced to “thinking positively.” Accurate reappraisal can involve recognizing threat while changing its meaning, identifying a solvable problem, changing responsibility attribution, or placing an event in a broader time frame.
+
+## D. Emotion theories answer different questions
+
+The major theory families in this chapter should not be treated as six interchangeable opinions. James–Lange, Cannon–Bard, two-factor, appraisal, basic-emotion, dimensional, constructed-emotion, and facial-feedback approaches emphasize different explanatory problems.
+
+James–Lange highlights bodily feedback. Cannon–Bard emphasizes coordinated feeling and physiological response. Two-factor theory emphasizes the interaction between arousal and contextual interpretation. Appraisal theories emphasize meaning and relevance. Basic-emotion approaches emphasize relatively distinct emotional categories and possible biological preparedness. Dimensional approaches describe affective variation along continuous dimensions. Constructed-emotion approaches emphasize prediction, concepts, bodily regulation, and context. Facial-feedback theories ask whether expressive behavior feeds back into experience.
+
+Modern evidence does not require choosing one historical theory as a complete explanation. Contemporary emotion science often combines mechanisms that earlier theories treated as alternatives. The proper scientific posture is therefore to preserve the explanatory contribution and evidence limits of each model.
+
+## E. Valence and arousal are useful coordinates, not a complete map
+
+Valence answers whether an affective state is pleasant or unpleasant. Arousal describes activation. Together they provide a compact description of many affective states, but they do not uniquely determine emotional meaning.
+
+Two states can have similar valence and arousal but differ in appraisal, action tendency, social meaning, or physiological pattern. Anger and fear may both be unpleasant and highly activated while preparing different responses. Calm contentment and low-energy sadness may differ in valence while sharing relatively low activation.
+
+Dimensional descriptions are therefore especially useful for measurement and comparison, while categorical and componential descriptions can preserve distinctions that dimensions compress.
+
+## F. Emotion and motivation form a coupled system without becoming one construct
+
+Emotions frequently alter motivational priority. Fear makes safety salient; anger can prioritize correction; interest can prioritize exploration; gratitude can support relationship maintenance. Yet emotion and motivation remain distinct.
+
+Motivation concerns direction, activation, persistence, goals, incentives, needs, and regulation. Emotion concerns affective responses to significance. A motivated behavior can continue without strong current emotion, and an emotion can occur without producing overt action.
+
+The architecture therefore places motivation in Chapter 1.12 and emotion in Chapter 1.13, with the relationship explicitly represented here rather than duplicated.
+
+## G. Regulation is not emotional elimination
+
+Emotion regulation is often misunderstood as the requirement to remove negative feelings. A more accurate definition concerns influence over emotional responding in relation to goals and context. Regulation can increase, decrease, maintain, redirect, or transform an emotional response.
+
+Suppression changes expression. Reappraisal changes meaning. Acceptance changes the stance toward an experience. These strategies are not interchangeable. Their effects depend on timing, context, target, and person.
+
+An emotion can be regulated successfully even when it remains present. For example, a person can feel anger while choosing a constructive response. Conversely, apparent calmness can coexist with intense internal activation. Outcome assessment must therefore specify which component changed.
+
+## H. Social context changes emotional meaning
+
+Emotion is not confined to private experience. Expression is interpreted by observers, shaped by display rules, and embedded in relationships. Social norms influence what people show, hide, amplify, or suppress.
+
+Emotion contagion demonstrates another layer: one person's emotional expression can influence another person's state. But similarity between two people's emotions does not by itself establish contagion because shared events can produce similar responses independently.
+
+Culture also matters without making emotion completely arbitrary. Biological processes, learning, socialization, and conceptual systems interact. The correct question is not whether emotion is biological or cultural, but which component varies with which source of influence.
+
+## I. Self-conscious emotions require self-representation
+
+Shame, guilt, pride, envy, and jealousy demonstrate how emotion can depend on representations of self, standards, comparison, and relationships.
+
+Shame typically involves negative evaluation of the self. Guilt focuses more specifically on an action, omission, or responsibility. Pride involves positive self-evaluation. Envy arises from comparison with another person's advantage. Jealousy concerns threat to a valued relationship or resource.
+
+These distinctions are not absolute, and multiple emotions can occur together. Their value lies in identifying the different objects of evaluation that organize each experience.
+
+## J. Emotion does not guarantee accurate interpretation
+
+An emotion is psychologically real even when its interpretation is inaccurate. A person can feel threatened when no objective threat exists, guilty when not responsible, jealous without an actual rival threat, or angry because of a mistaken attribution.
+
+This distinction is essential. The existence of an emotion provides evidence about the person's current psychological state, not automatic evidence about the external situation that the emotion represents.
+
+Emotional experience can therefore be valid as an experience while its appraisal remains open to correction.
+
+## K. Measurement must respect component boundaries
+
+No single instrument measures “emotion” in its entirety. Self-report primarily captures consciously accessible experience. Behavioral measures capture actions or expression. Physiological measures capture bodily processes. Observer judgments capture interpreted social signals. Computational measures can characterize patterns across time.
+
+These measures answer different questions. Agreement across measures can strengthen an interpretation, while divergence can itself be informative.
+
+A facial expression is not a direct readout of feeling. Heart rate is not a direct readout of fear. A self-report label is not a complete map of underlying physiology. Scientific precision requires keeping these distinctions visible.
+
+## L. Individual differences are conditional, not absolute
+
+People differ in reactivity, awareness, differentiation, expression, regulation, and typical affective patterns. But a broad statement such as “this person is emotional” is usually too coarse to be scientifically useful.
+
+Individual differences often interact with context. Someone can be highly reactive to social rejection but relatively calm under physical threat, or highly expressive with close friends but restrained in formal settings. Emotional tendencies therefore require specification of domain, stimulus, context, and measurement.
+
+Differences can also change. Learning, development, relationships, stress exposure, socialization, and deliberate practice can modify emotional patterns. Plasticity does not mean unlimited change; biological and developmental constraints remain relevant.
+
+## M. The chapter's central distinctions
+
+The following distinctions should remain permanently visible:
+
+**Affect vs emotion:** affect is broader; emotion is a more organized affective process.
+
+**Mood vs emotion:** mood is generally more diffuse and extended; emotion is more often organized around a meaningful event or representation.
+
+**Emotion vs feeling:** feeling is the consciously experienced component, not the whole process.
+
+**Arousal vs valence:** arousal concerns activation; valence concerns pleasantness or unpleasantness.
+
+**Intensity vs arousal:** intensity concerns magnitude; arousal concerns activation, although they can correlate.
+
+**Physiology vs feeling:** bodily activation can accompany feeling without uniquely determining it.
+
+**Expression vs experience:** outward display can differ from inner experience.
+
+**Action tendency vs action:** emotional readiness does not force behavior.
+
+**Suppression vs regulation:** suppression is one regulation strategy, primarily targeting expression.
+
+**Reappraisal vs acceptance:** reappraisal changes interpretation; acceptance changes the stance toward the experience.
+
+**Shame vs guilt:** shame centers more broadly on self-evaluation; guilt more specifically concerns action or responsibility.
+
+**Envy vs jealousy:** envy concerns another person's advantage; jealousy concerns threat to a valued relationship or resource.
+
+**Emotion vs motivation:** emotions can shape motivation, but the constructs have different canonical functions.
+
+## N. Evidence discipline for Chapter 1.13
+
+The chapter contains established descriptive distinctions, empirical relationships, historical theories, and contested theoretical models. They must not be written with identical certainty.
+
+The existence of affective experience is not the same type of claim as the universality of a particular emotion category. The finding that emotional states can influence attention is not identical to a claim that every emotion automatically captures attention. Evidence that reappraisal can change emotional responses does not establish that it is optimal in every context. Evidence of physiological arousal does not uniquely identify an emotional category.
+
+Theory names are therefore not evidence by themselves. A recognized theory explains a set of observations; it does not become established fact merely through historical importance.
+
+## O. Retrieval architecture
+
+For machine retrieval, the chapter can be traversed through a compact sequence:
+
+**Affect → Mood → Emotion → Episode → Stimulus → Valence/Arousal/Intensity → Physiology/Feeling/Expression/Action → Awareness/Granularity/Differentiation → Appraisal/Generation/Recognition/Perception → Regulation strategies → Theories → Affective domains → Cross-system relationships.**
+
+This sequence is not a new ontology. It is a retrieval path across existing owners.
+
+A future system asking “What is emotion?” should retrieve the Emotion object. Asking “How is emotion changed?” should retrieve Emotion regulation and its strategy Topics. Asking “What explains emotion?” should retrieve the theory registry and the theory Topics. Asking “How does emotion relate to memory?” should retrieve the explicit relationship node and then defer to Chapter 1.8 for memory mechanisms.
+
+## P. Chapter-level boundary statement
+
+Chapter 1.13 owns the universal psychology of emotion and affect. It does not own cognition, memory, attention, motivation, decision-making, personality, culture, social relationships, clinical disorders, or biological systems as independent constructs. Where emotion interacts with those domains, the architecture uses explicit relationship nodes or cross-chapter references.
+
+This prevents the chapter from becoming a second encyclopedia for every domain emotion touches.
+
+## Q. Final synthesis
+
+Emotion and affect are best understood as a coordinated family of psychological phenomena rather than a single mechanism. Affect provides broad feeling dimensions; emotion organizes responses to meaningful events; mood extends affect over time; feeling captures conscious experience; physiology captures bodily activation; expression captures observable signaling; action tendency captures behavioral readiness; appraisal supplies meaning; regulation modifies the response; social context shapes expression and interpretation; and individual differences alter how these processes operate.
+
+No single component should be mistaken for the whole system. No single theory should be mistaken for settled consensus. No single measurement channel should be treated as a complete emotional readout.
+
+The permanent understanding of this chapter is therefore relational: emotion is a dynamic, multicomponent process embedded in cognition, motivation, bodily regulation, action, and social context, while remaining a distinct psychological domain with its own canonical constructs and evidence boundaries.
+
