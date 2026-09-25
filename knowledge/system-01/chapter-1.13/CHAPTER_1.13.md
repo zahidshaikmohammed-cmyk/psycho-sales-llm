@@ -25,6 +25,10 @@ Affective states influence attention, memory, action readiness, motivation, and 
 
 Measurement also requires care. Self-report captures conscious experience, while facial behavior, physiology, reaction time, and behavioral choice provide different kinds of evidence. No single measure is a complete readout of affect.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Affect is especially useful when the research question concerns broad feeling tone rather than a named emotion. Its dimensions can move independently, which prevents a common error: assuming that pleasantness, activation, and emotional category are interchangeable. Affective measurement also has a temporal problem. A brief reaction, a daily mood average, and a stable individual tendency can all produce different affect scores while referring to different phenomena. Researchers therefore need to specify time scale, measurement channel, and context. Affective experience can also be generated internally: memory, imagination, bodily discomfort, and anticipation can change feeling even when the external environment is unchanged. The broadness of the construct is its strength for organizing phenomena but also its main limitation. If affect is used as a catch-all explanation, it can become too vague to explain mechanism. A good explanation therefore moves from affect to the more specific construct that carries the causal or descriptive burden.
 ## 4. Relationship to This Chapter
 Affect is the broad organizing concept for the chapter's treatment of mood, emotion, feeling, valence, arousal, expression, regulation, and discrete affective experiences.
 
@@ -60,6 +64,10 @@ Because mood persists across situations, it can bias attention, interpretation, 
 
 Mood is also partly inferred from patterns over time. A momentary unpleasant feeling does not by itself establish a sustained mood state. Research commonly measures mood through repeated self-report or state measures, while recognizing that retrospective reports can be affected by memory and interpretation.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Mood should be understood as a temporal background condition rather than an undifferentiated emotional residue. Its persistence can alter how subsequent events are interpreted, but the direction of that influence depends on what information is encountered and what the person is trying to do. Mood can also be shaped by repeated small events rather than one identifiable cause. This makes causal attribution difficult: a person may report feeling irritable without one event being responsible. Mood measurement therefore benefits from repeated sampling instead of relying only on retrospective summaries. A further boundary is between ordinary mood variation and clinically significant mood disturbance. Duration, severity, functional impairment, and symptom pattern matter. A temporary low mood is not evidence of a disorder. Mood can also be congruent or incongruent with the immediate situation, and a mismatch does not by itself prove pathology. The scientific value of mood lies in explaining how a diffuse affective state provides a background against which more specific emotional episodes occur.
 ## 4. Relationship to This Chapter
 Mood is the chapter's principal sustained affective state and provides an important contrast with discrete emotional episodes.
 
@@ -95,6 +103,10 @@ Emotions are often elicited by events that matter to the person. The same event 
 
 Emotion is neither inherently rational nor irrational. It provides information about relevance and prepares action, but emotional responses can also be shaped by inaccurate interpretations, learned associations, or context-insensitive habits. Scientific theories disagree about whether emotions are best understood as biologically prepared categories, dimensional states, appraisals, or constructed episodes. These disagreements concern the architecture of emotion, not whether people experience affective responses.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Emotion is best treated as a coordinated process with partially separable components. This prevents two opposite errors: reducing emotion to a private feeling, or treating an emotion label as if it were a single biological event. The same emotional episode can contain rapid orienting, appraisal, bodily activation, subjective feeling, expression, action readiness, and later reinterpretation. These components can have different time courses and can be altered independently. Emotional meaning is also relational: an event matters emotionally because of what it signifies for the organism's needs, goals, values, relationships, or predictions. This explains both individual variation and within-person change. The theoretical debate about emotion concerns how these components are organized and generated, not whether affective responding exists. A rigorous account therefore identifies which component is being studied, what evidence supports its relation to other components, and what remains uncertain.
 ## 4. Relationship to This Chapter
 Emotion is the chapter's central construct. Other Topics specify its components, generation processes, theories, regulation, expression, and particular emotional experiences.
 
@@ -127,6 +139,10 @@ Episodes vary greatly. Some are brief and intense; others develop gradually and 
 
 The concept is useful because emotion words can conceal temporal dynamics. “Anger” may describe an initial response, sustained state, or recurrent episode, even though each has different mechanisms. Studying episodes makes it possible to ask what triggered the response, how it changed, what interrupted it, and which components were synchronized or dissociated.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+The episode concept adds temporal resolution that a static emotion label cannot provide. An episode can contain escalation, peak, maintenance, recovery, and recurrence. These phases need not be symmetrical. A response may begin quickly but remain elevated because the person repeatedly encounters confirming information, or it may decline rapidly after safety information arrives. Regulation can occur at any point, and later appraisals can change the trajectory without erasing the earlier response. This makes emotional episodes particularly suitable for experience-sampling and time-series research. It also clarifies why retrospective labels can be misleading: remembering that one was angry compresses an entire trajectory into one category. Episode-level analysis asks when the response changed, which component changed first, and what environmental or cognitive event accompanied the transition.
 ## 4. Relationship to This Chapter
 Emotional episode connects the chapter's static-sounding constructs to the dynamic sequence of emotion generation and regulation.
 
@@ -159,6 +175,10 @@ Stimuli can be concrete, social, symbolic, anticipated, remembered, or imagined.
 
 The term stimulus should not imply a simple stimulus-response chain. The same input can produce different emotional outcomes because perception, appraisal, memory, goals, and bodily state intervene between event and response.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+An emotional stimulus is best understood as an input to an interpretive system rather than a guaranteed emotional cause. Its significance depends on perceptual processing, prior learning, current goals, bodily state, and context. The same cue can become less emotionally potent through habituation or safety learning, or more potent through conditioning and repeated association. Stimuli can also be internally generated. A remembered insult, imagined future failure, or anticipated reunion can evoke emotion without a corresponding external event. This matters because emotional research sometimes uses standardized stimuli and then generalizes too quickly to everyday life. Laboratory stimuli provide control but can differ from personally meaningful events. A complete account therefore distinguishes stimulus properties from the psychological meaning assigned to them and avoids assuming that an observed response is caused by the stimulus alone.
 ## 4. Relationship to This Chapter
 Emotional stimulus provides the event-side counterpart to emotion generation and appraisal.
 
@@ -191,6 +211,10 @@ Valence can change during an emotional episode and can depend on comparison stan
 
 Valence is often measured with self-report scales, affective ratings, or behavioral and physiological indicators. These measures should not be assumed interchangeable. Valence also does not equal adaptive value. Some unpleasant states are useful signals, and some pleasant states can accompany poor decisions.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Valence is a powerful compression of affective experience, but compression necessarily loses information. Two negatively valenced states may differ in urgency, action tendency, physiological profile, and social meaning. Valence can also change within the same episode as circumstances are reinterpreted. An unpleasant medical procedure may be followed by relief; a pleasant reward may become aversive when it conflicts with a valued goal. This shows why valence should not be treated as a simple property of an object. It is a feature of the person's current relation to the object or event. Measurement is similarly context-sensitive. A single rating captures a person's report at one time, whereas repeated ratings can reveal trajectories. Finally, valence is not synonymous with desirability in every sense: an unpleasant emotion can be useful, and a pleasant state can support maladaptive behavior.
 ## 4. Relationship to This Chapter
 Valence supplies one major dimension for organizing affective states and complements arousal and more specific emotional categories.
 
@@ -223,6 +247,10 @@ Arousal can refer to psychological activation, physiological activation, or both
 
 Arousal can alter attention, action readiness, and performance, but effects depend on task demands, baseline state, and the specific source of activation. It should therefore not be treated as a universal “more is better” or “more is worse” variable.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Arousal is easiest to understand when separated from both valence and physiological activation. Psychological arousal describes experienced activation or energy, whereas physiological arousal refers to bodily processes. They often correlate but can diverge. A person may report intense activation while physiological measures are modest, or show substantial bodily activation without labeling a strong emotion. Arousal also has no fixed behavioral meaning. High activation can support rapid responding when a task benefits from urgency, but it can interfere with complex processing when demands exceed available control. Low activation can reflect calm concentration or disengagement depending on context. The construct therefore requires a specified measurement channel and task context. Treating arousal as a universal stress signal is scientifically too coarse.
 ## 4. Relationship to This Chapter
 Arousal is one of the chapter's major affective dimensions and must be distinguished from physiological arousal and emotional intensity.
 
@@ -255,6 +283,10 @@ Intensity changes during episodes and can be amplified or reduced by attention, 
 
 The meaning of intensity is therefore measurement-dependent. A self-report rating answers a different question from facial movement or physiological response. Treating all as interchangeable can create false precision.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Intensity should be anchored to the component whose magnitude is being described. Subjective intensity asks how strong the experience feels; expressive intensity asks how strongly emotion is displayed; physiological intensity concerns the magnitude of a bodily response. These measures can correlate without being identical. Intensity also changes over time and can be influenced by attention, appraisal, uncertainty, personal relevance, and regulation. A person can deliberately reduce expression while maintaining strong internal feeling. Conversely, an expressive reaction can be large because of learned display habits without indicating equally strong private experience. This makes intensity particularly vulnerable to measurement error when researchers combine different indicators under one label. Stronger is therefore not automatically more important, more accurate, or more adaptive.
 ## 4. Relationship to This Chapter
 Intensity clarifies the magnitude dimension of emotion and prevents confusion between strength, valence, and activation.
 
@@ -287,6 +319,10 @@ Measurement therefore requires interpretation. Heart rate, skin conductance, pup
 
 Physiological arousal can contribute to how people experience and interpret emotion, but the causal role differs across theories. Bodily feedback may be part of emotional generation without being sufficient to specify the emotion's meaning.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Physiological arousal is informative because emotional processes are embodied, but bodily signals are not emotion-specific codes. Heart rate, skin conductance, respiration, pupil changes, muscle activity, and endocrine responses reflect partly different systems and can be affected by movement, temperature, medication, fitness, illness, and anticipation. The same physiological pattern can occur during excitement, fear, exercise, or cognitive effort. Interpretation therefore requires context and comparison conditions. Bodily feedback can still matter causally: changes in bodily state may influence feeling, appraisal, and action readiness. The scientific question is how much and under which conditions, not whether physiology matters at all. This preserves the insight of bodily theories without treating physiology as a simple decoder of named emotions.
 ## 4. Relationship to This Chapter
 Physiological arousal provides the bodily component that must be distinguished from subjective feeling and broader psychological arousal.
 
@@ -319,6 +355,10 @@ Subjective feeling should be distinguished from emotional expression and physiol
 
 The concept is central to theories of consciousness and emotion because different theories disagree about whether conscious feeling is a necessary component of emotion or an emergent representation of coordinated processes. Regardless of theoretical position, subjective feeling is an important empirical phenomenon that must be measured on its own terms.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Subjective feeling is privileged for questions about conscious emotional experience but limited for questions about processes outside awareness. People can report what they feel, yet the report is constructed through attention, concepts, memory, language, and the available response scale. Someone who lacks a precise emotion label may still have a meaningful affective experience. Conversely, a confident label can be inaccurate about the underlying event or physiological process. Feeling should therefore be treated as evidence about experienced state, not as an infallible explanation of cause. Its dissociation from expression and physiology is scientifically important rather than a measurement failure. Different theories also disagree about whether conscious feeling is necessary for every emotional process, making careful definition essential.
 ## 4. Relationship to This Chapter
 Subjective feeling is the experiential counterpart to physiological, expressive, appraisal, and action components of emotion.
 
@@ -351,6 +391,10 @@ People regulate expression according to social norms, goals, relationships, cult
 
 The relation between expression and emotion is therefore probabilistic and context-sensitive. Facial movement should not be treated as a universal decoder that reveals a person's exact internal state. Different expressions can have overlapping meanings, and observers use situational information to interpret them.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Expression is a communication channel, not a transparent window into private experience. Observers infer emotion by combining facial, vocal, postural, linguistic, and situational information. The same outward movement can have different meanings depending on context, and different emotions can share expressive features. Social norms further shape what people show. This is why attempts to identify a person's exact emotion from one facial cue are unreliable. Expression can also serve functions beyond communication, including interaction coordination and self-regulation. A person may intentionally alter display to protect a relationship, maintain professionalism, or avoid escalation. Expression is therefore both an output of emotional processes and a social behavior in its own right.
 ## 4. Relationship to This Chapter
 Expression connects internal affective processes with interpersonal behavior and leads directly to display rules and expression regulation.
 
@@ -383,6 +427,10 @@ Action tendencies help explain why emotion is not merely a feeling. They connect
 
 The same emotion can also support different actions in different contexts. Anger may promote confrontation when action is possible but persistence or strategic planning when direct confrontation is costly. Thus action tendency should be treated as directional readiness rather than a fixed behavioral script.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Action tendency explains the bridge between affective significance and behavioral readiness. It is directional rather than deterministic. A tendency can be blocked by competing goals, social norms, lack of opportunity, or deliberate control. This distinction is especially important when studying strong emotion: an intense urge to act does not imply that action will occur. Action tendencies can also change during an episode as new information alters appraisal. Fear can shift from escape toward investigation when safety becomes credible; anger can shift from confrontation toward problem solving when a constructive route appears. The construct therefore captures preparedness and direction, not a fixed behavioral script.
 ## 4. Relationship to This Chapter
 Action tendency links emotion to motivation and behavior while remaining distinct from the actual action.
 
@@ -415,6 +463,10 @@ Awareness depends partly on attention to internal signals, language, conceptual 
 
 Awareness should not be equated with emotional control or intelligence. Knowing what one feels does not guarantee effective regulation, and limited labeling can coexist with adaptive behavior. Measurement also requires care because self-report of emotional awareness is itself a report about a person's perceived awareness.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Emotional awareness is partly a problem of detection and partly a problem of interpretation. Detecting bodily activation does not guarantee correct emotion identification, and naming an emotion does not guarantee accurate knowledge of its cause. Awareness can be coarse or fine-grained, immediate or retrospective, and stable or context-dependent. It can support regulation because deliberate modification usually benefits from knowing what is occurring, but awareness is neither necessary nor sufficient for every regulatory process. Measurement should distinguish perceived awareness from demonstrated discrimination. Someone can believe they understand their emotions while showing poor differentiation when tested across repeated states.
 ## 4. Relationship to This Chapter
 Emotional awareness provides a foundation for emotional granularity, differentiation, and deliberate regulation.
 
@@ -447,6 +499,10 @@ Granularity is influenced by language, conceptual knowledge, learning history, a
 
 Research often examines granularity by analyzing patterns of repeated emotion ratings and the consistency of differentiation across contexts. Measurement therefore concerns how a person organizes experience rather than simply how many emotion words they know.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Granularity concerns the structure of emotional categories a person uses across experiences. It is not simply the number of words in a vocabulary. A person can know many emotion terms without reliably applying them in differentiated ways. Conversely, a smaller vocabulary can still support useful distinctions. Granularity is influenced by language and conceptual learning but is also tied to attention, culture, context, and experience. Its potential value is functional: different emotional states can imply different interpretations and possible actions. Yet greater differentiation is not automatically better. Categories must be meaningful and sufficiently accurate for the context in which they are used.
 ## 4. Relationship to This Chapter
 Granularity explains one route by which emotional awareness becomes more precise and connects naturally with emotional differentiation.
 
@@ -479,6 +535,10 @@ High differentiation does not mean experiencing emotions less strongly. It means
 
 Differentiation is shaped by attention, learning, concepts, language, and repeated experience. It can vary by context and across individuals. It is therefore better understood as an empirical property of emotional representation than as a simple measure of emotional maturity.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Differentiation is closely related to granularity but emphasizes separation among experienced states. It becomes particularly important when several emotions share bodily activation or broad valence. Distinguishing fear from excitement, anger from frustration, or sadness from exhaustion can change how a person interprets the situation and what action seems appropriate. Differentiation can be assessed across repeated reports by examining whether a person's ratings distinguish states consistently rather than collapsing them into one general dimension. It is influenced by conceptual knowledge, attention, learning, and language. It should not be treated as a simple marker of emotional superiority; a distinction is useful only if it corresponds to meaningful differences in the person's situation.
 ## 4. Relationship to This Chapter
 Differentiation complements granularity by explaining how distinct emotional experiences are separated within affective representation.
 
@@ -512,6 +572,10 @@ Appraisal does not require a slow, conscious verbal judgment. Some evaluations c
 
 Different appraisal theories specify different appraisal dimensions and their combinations. There is substantial evidence that interpretations of significance are related to emotional responses, but no single fixed appraisal algorithm explains every emotion across people and contexts.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Appraisal is a meaning-making process, not necessarily a conscious verdict. It concerns what an event means for goals, needs, expectations, responsibility, control, and other personally relevant dimensions. Because meaning can change, emotional response can change even when the external event remains unchanged. Appraisal also helps explain individual differences: two people can receive the same information but evaluate its significance differently. However, appraisal should not become a circular explanation in which any emotion is simply said to reflect an appraisal of that same emotion. Useful models specify dimensions and mechanisms that generate testable predictions. Evidence is strongest when appraisal is measured independently of the emotional outcome and when alternative explanations are controlled.
 ## 4. Relationship to This Chapter
 Appraisal connects emotional stimuli with emotion generation and helps explain why the same event can produce different emotional responses.
 
