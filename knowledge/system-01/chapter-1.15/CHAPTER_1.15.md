@@ -2302,6 +2302,27 @@ Emerging adulthood is not a universal biological stage. Its prevalence and chara
 ### Evidence Status
 The concept is most applicable where social transitions into adult roles are extended. It should not be treated as a universal stage through which every society or person passes.
 
+### Developmental status
+Emerging adulthood describes a developmental period often discussed in contexts where young people have extended transitions between adolescence and established adult roles. It is not a universal stage with identical boundaries across cultures. Its usefulness depends on social conditions such as prolonged education, delayed marriage, labor-market conditions, housing, and cultural expectations.
+
+### Identity exploration
+This period can provide opportunities to explore education, occupation, relationships, values, worldview, and lifestyle. Exploration may be broad or focused and can involve reversals. It should not be assumed that uncertainty is inherently dysfunctional; uncertainty can be a normal part of evaluating alternatives when social roles are changing.
+
+### Instability and transition
+Changes in residence, education, employment, relationships, and financial circumstances can make emerging adulthood relatively unstable for some people. Instability is not experienced equally. Structural resources, family support, economic conditions, cultural expectations, and health influence the number and consequences of transitions.
+
+### Autonomy and interdependence
+Young adults may gain decision-making autonomy while remaining economically, emotionally, or practically connected to family. Development should not be measured against a single model of complete independence. In many cultural settings, interdependence is a valued adult arrangement rather than a temporary failure to separate.
+
+### Cognitive and self-regulatory development
+Executive and self-regulatory capacities continue to develop through experience and changing demands. Education and work provide opportunities to coordinate long-term goals, manage competing responsibilities, and learn domain-specific strategies. These changes are influenced by context and are not simply the result of reaching a particular birthday.
+
+### Heterogeneity
+Not everyone experiences an extended transition. Economic conditions, cultural norms, caregiving responsibilities, migration, marriage patterns, and access to education can produce different pathways. The term should therefore be used descriptively and with attention to population and historical period.
+
+### Research boundaries
+Many findings associated with emerging adulthood are based on particular societies, especially contexts where transitions to adult roles are delayed. They should not automatically be generalized to all cultures or historical periods. Age labels are less informative than identifying the actual social conditions that structure the transition.
+
 ## 4. Relationship to This Chapter
 It provides a stage-level framework for understanding transitions between adolescence and more established adulthood.
 
@@ -2330,6 +2351,27 @@ Adulthood is not developmentally static. Cognitive abilities, personality, relat
 
 ### Boundary Conditions
 Adult development varies with culture, historical period, health, socioeconomic conditions, family roles, work, and individual choices.
+
+### Adulthood as continuing development
+Adulthood is not a developmental endpoint at which psychological characteristics stop changing. Adults continue to adapt to work, partnership, parenting, caregiving, health changes, social roles, learning, and historical conditions. Development in adulthood can include gains, maintenance, reorganization, and losses.
+
+### Role transitions
+Adult development is partly shaped by changing roles and responsibilities. Employment can increase demands for planning and coordination; partnership can alter social priorities; parenting introduces long-term caregiving demands; caregiving for older relatives can change time and emotional resources. These transitions can influence development, but selection into roles and individual differences complicate causal conclusions.
+
+### Expertise and knowledge
+Accumulated experience can support sophisticated performance in familiar domains. Adults may develop efficient strategies, extensive knowledge, and practical judgment even when some basic processing capacities change with age. Development therefore cannot be represented by one general line from increasing to decreasing ability.
+
+### Personality and social functioning
+Many adults show substantial personality stability while also showing gradual mean-level changes across life. Social functioning can become more selective as people prioritize relationships, goals, and roles differently. Such changes reflect both developmental processes and changing environments.
+
+### Health and constraints
+Adult development is strongly affected by physical and mental health, sleep, nutrition, activity, socioeconomic conditions, relationships, and access to healthcare. Health changes can alter opportunities for learning and social participation. Conversely, behavior and social environments can influence health, creating reciprocal developmental pathways.
+
+### Agency and adaptation
+Adults often have greater control over their environments than children, but adult choices occur within constraints. People select jobs, partners, communities, and activities, while institutions and economic conditions restrict available options. Development therefore includes agency without assuming unlimited choice.
+
+### Cultural and historical variation
+The meaning of adulthood varies across cultures. Marriage, work, caregiving, residence, and financial independence do not have one universal sequence. A scientifically useful account identifies the developmental processes shared across contexts while recognizing that adult roles are culturally organized.
 
 ## 4. Relationship to This Chapter
 Adulthood is the broad stage category containing multiple distinct developmental periods and trajectories.
@@ -2362,6 +2404,27 @@ Older adults differ greatly in health, socioeconomic conditions, education, soci
 
 ### Evidence Status
 Average age-related differences do not determine an individual's functioning. Some abilities decline while others remain stable or improve through accumulated knowledge.
+
+### Developmental heterogeneity
+Older adulthood is characterized by substantial variation in health, cognition, personality, social networks, resources, and life circumstances. Chronological age alone is therefore an incomplete description of functioning. People of the same age can differ greatly in biological age, accumulated experience, disability, and social opportunity.
+
+### Gains and losses
+Later adulthood can involve losses in processing speed, sensory function, physical capacity, or some forms of memory, while knowledge, expertise, emotional selectivity, and accumulated experience may remain strong or continue to develop. Development is multidirectional: gains in one domain can coexist with losses in another.
+
+### Adaptation and compensation
+People can adapt to changing capacities by changing strategies, using external supports, modifying environments, or selecting goals that fit available resources. Such compensation can preserve functioning even when underlying capacity changes. Successful adaptation should not be mistaken for evidence that no biological or cognitive change occurred.
+
+### Social relationships
+Older adulthood can involve retirement, widowhood, caregiving, changes in friendship networks, and increased intergenerational contact. Some networks become smaller because of loss or reduced opportunity; others become more emotionally focused. Social development in later life therefore reflects both constraint and active selection.
+
+### Health and environment
+Chronic illness, mobility limitations, sensory changes, financial resources, housing, transportation, and access to healthcare can strongly influence later-life functioning. Environmental design can either magnify or reduce the practical consequences of biological change. Development is therefore partly a property of the person–environment system.
+
+### Individual differences
+Education, lifelong activity, socioeconomic resources, health behaviors, relationships, and accumulated experience contribute to diverse aging trajectories. These factors are often correlated, making simple causal claims difficult. A person's later-life functioning should not be interpreted as a direct summary of one earlier-life characteristic.
+
+### Cultural variation
+Expectations about aging, family support, retirement, intergenerational roles, and social participation differ across societies. Some apparent age differences can reflect cultural organization rather than universal developmental change. Research should therefore specify its population and social context.
 
 ## 4. Relationship to This Chapter
 Older adulthood is the lifespan stage preceding and overlapping with the broader process of aging.
@@ -2398,6 +2461,27 @@ Aging trajectories vary greatly. Chronological age is an imperfect proxy for bio
 ### Evidence Status
 Aging should not be reduced to decline. Some abilities decline, some remain stable, and some forms of knowledge and expertise can continue to grow.
 
+### Aging as a multidimensional process
+Aging refers to age-related changes that unfold over time. In psychology it is not equivalent to disease, decline, or chronological age. Aging includes biological changes, changes in cognition and emotion, adaptation to changing environments, and shifts in social roles.
+
+### Primary and secondary influences
+Some age-related changes arise from biological processes associated with aging, while others reflect disease, lifestyle, environmental conditions, education, occupational experience, or social inequality. Distinguishing these influences matters because not every difference between younger and older adults is an inevitable consequence of aging.
+
+### Heterogeneity and variability
+Individuals age at different rates and along different pathways. Within-person variability can also increase in some domains, meaning that chronological age becomes a weaker predictor of individual functioning. Research should therefore report distributions and individual differences rather than relying only on average age-group comparisons.
+
+### Plasticity in aging
+Later-life plasticity remains possible. Physical training, cognitive practice, education, environmental modification, and social engagement can improve or maintain aspects of functioning. The size and durability of these effects vary, and intervention success does not imply that all age-related changes are reversible.
+
+### Compensation and selection
+Older adults may allocate effort toward important goals and use strategies that compensate for reduced efficiency. Selecting meaningful activities can preserve quality of functioning even when the number of activities decreases. These processes demonstrate that adaptation can change the relationship between underlying capacity and observable behavior.
+
+### Biological, psychological, and social aging
+Aging occurs simultaneously at multiple levels. Physiological changes can affect sensory and cognitive functioning; social roles can alter activity and stimulation; psychological responses can influence behavior and health. None of these levels should be treated as a complete explanation on its own.
+
+### Misconceptions
+Aging is not a uniform decline, and youth is not a universal period of superior functioning. Developmental profiles depend on the domain being measured. Some abilities peak early, some remain stable, some improve through accumulated experience, and others show gradual decline.
+
 ## 4. Relationship to This Chapter
 Aging is the broad process underlying later-life developmental changes.
 
@@ -2432,6 +2516,30 @@ Age effects vary by cognitive domain, task, health, education, motivation, and i
 
 ### Evidence Status
 Average age-related differences should not be interpreted as inevitable cognitive failure. Normal cognitive aging is distinct from clinical neurocognitive disorders.
+
+### Scope
+Cognitive aging concerns age-related changes in memory, attention, processing speed, executive functioning, reasoning, and other cognitive processes. Different abilities follow different trajectories, so cognitive aging cannot be summarized by a single measure of intelligence or decline.
+
+### Processing speed and working efficiency
+Some aspects of processing speed tend to become slower with age. Slower speed can affect performance on tasks requiring rapid responses even when the person understands the material. Time pressure can therefore exaggerate apparent age differences in cognitive competence.
+
+### Memory systems
+Memory is not one system. Some forms of episodic retrieval and working-memory efficiency can become more difficult, while semantic knowledge and well-learned skills can remain relatively preserved. Familiarity, meaningfulness, health, sleep, and strategy use can influence performance.
+
+### Knowledge and expertise
+Accumulated knowledge can offset changes in speed or some forms of novel problem solving. An experienced professional may use domain knowledge to solve a familiar problem efficiently even if performance on a laboratory task of rapid processing is slower. This is one reason why laboratory measures and real-world competence can show different age patterns.
+
+### Executive control and strategy
+Older adults may compensate for slower processing by allocating more time, using external aids, reducing distractions, or selecting tasks that fit their strengths. Strategic adaptation can preserve functional performance, but it requires sufficient motivation, health, and environmental support.
+
+### Measurement issues
+Cognitive comparisons across age can be confounded by education, sensory impairment, cohort differences, familiarity with technology, and task format. Cross-sectional age differences may combine aging with cohort effects. Longitudinal studies provide important evidence but are also affected by practice and selective attrition.
+
+### Brain and cognition
+Age-related changes in neural structure and connectivity are associated with cognitive differences, but brain–behavior relationships are complex. A structural difference is not by itself proof of a particular cognitive cause. Cognitive reserve and compensatory processes can allow similar behavioral performance despite different levels of neural change.
+
+### Functional interpretation
+Cognitive aging should be evaluated in relation to everyday demands. A small laboratory difference may have little practical effect when people can compensate, while modest changes in a critical skill can matter greatly in a high-demand environment. Context is therefore essential to interpreting cognitive aging.
 
 ## 4. Relationship to This Chapter
 Cognitive aging is the lifespan-specific development of cognition in later adulthood.
