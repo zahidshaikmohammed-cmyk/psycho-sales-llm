@@ -3166,7 +3166,7 @@ General context and person–environment interaction to Chapter 1.1; culture to 
 
 
 
-# SURGICAL CROSS-TOPIC DEPTH SYNTHESIS
+## Chapter-Level Cross-Topic Depth Synthesis
 
 > This chapter-level synthesis does not create new canonical owners. It integrates mechanisms, distinctions, evidence limits, and interactions among the 75 canonical Topics above. The individual Topics remain the authoritative locations for their named constructs.
 
@@ -4424,7 +4424,7 @@ Adaptive regulation requires both continuation and stopping. Persistence protect
 ### L25. Final completeness test
 A complete motivational explanation should answer: What is valued? Which goal is active? What outcome is expected? What competing goals exist? What resources and opportunities are available? What feedback is being received? Which strategy is being used? What evidence would justify continuing, changing, or stopping? If these questions are left unresolved, the explanation may still be descriptive but is not yet mechanistically complete.
 
-This supplement records additional distinctions, definitions, relationships, evidence notes, and retrieval boundaries for the chapter. The canonical Topics remain the primary owners. The supplement is supporting chapter-level material and does not create additional owners.
+This chapter-level synthesis records additional distinctions, relationships, evidence notes, and retrieval boundaries. The 75 canonical Topics remain the primary owners; this synthesis does not create additional owners.
 
 A complete knowledge architecture must distinguish a concept from its examples, a mechanism from its outcome, a theory from an observed finding, and a relationship from an independent construct. These distinctions reduce ambiguity during retrieval.
 
@@ -4440,7 +4440,7 @@ Context should be specified rather than treated as a residual category. Relevant
 
 The final standard is conceptual precision. Every Topic should remain distinguishable from neighboring Topics, and every relationship should retain its direction and function. This protects the repository from collapsing many different psychological processes into one broad label.
 
-Definitions should remain precise. Mechanisms should explain change. Boundaries should prevent duplication. Relationships should preserve direction and scope. Evidence should retain uncertainty where uncertainty exists. Established findings should be stated directly. The chapter should distinguish current states from enduring tendencies, targets from routes, effort from progress, and value from availability. These distinctions make retrieval more accurate and reduce false inference. The supplements remain supporting chapter material and do not create new canonical owners.
+Definitions should remain precise. Mechanisms should explain change. Boundaries should prevent duplication. Relationships should preserve direction and scope. Evidence should retain uncertainty where uncertainty exists. Established findings should be stated directly. The chapter should distinguish current states from enduring tendencies, targets from routes, effort from progress, and value from availability. These distinctions make retrieval more accurate and reduce false inference. This synthesis remains chapter-level supporting material and does not create new canonical owners.
 
 ### Final synthesis — Motivation as a coordinated control architecture
 Motivational psychology is most accurately understood as a coordinated system rather than a single force. A person occupies a current biological, cognitive, emotional, and social state; evaluates possible outcomes; activates some goals while leaving others inactive; estimates whether available actions can change the situation; allocates effort; monitors feedback; and revises pursuit as evidence accumulates. Each stage can alter the next. A disappointing outcome can reduce expected value, but it can also increase information seeking, change strategy, or strengthen commitment if the failure is interpreted as temporary and informative.
