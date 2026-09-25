@@ -1,3 +1,0 @@
-# Chapter 1.12 — Threshold note
-
-Definitions should remain precise. Mechanisms should explain change. Boundaries should prevent duplication. Relationships should preserve direction and scope. Evidence should retain uncertainty where uncertainty exists. Established findings should be stated directly. The chapter should distinguish current states from enduring tendencies, targets from routes, effort from progress, and value from availability. These distinctions make retrieval more accurate and reduce false inference. The supplements remain supporting chapter material and do not create new canonical owners.
