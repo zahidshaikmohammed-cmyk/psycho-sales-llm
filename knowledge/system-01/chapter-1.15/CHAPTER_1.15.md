@@ -832,3 +832,559 @@ General research methodology, statistics, psychometrics, validity, and scientifi
 
 ---
 
+
+# 16. Biological development
+
+## 1. Purpose
+Biological development describes age-related changes in bodily and physiological organization that provide the biological foundation for psychological development.
+
+## 2. Definition
+Biological development is systematic change in biological structure and function across the lifespan, including maturation, growth, differentiation, maintenance, and age-related change.
+
+## 3. Core Understanding
+### Components / Dimensions
+Biological development includes changes in the nervous system, endocrine function, immune function, physical growth, reproductive maturation, sensory systems, and other bodily systems. Different systems develop on different schedules.
+
+### Mechanism
+Development reflects genetic activity, cellular processes, hormonal regulation, nutrition, health, environmental exposure, and interaction between biological and experiential conditions. Biological development can both constrain and enable psychological functioning without determining every psychological outcome.
+
+### Development
+Early life contains periods of rapid biological organization. Puberty involves substantial endocrine and reproductive changes. Adulthood involves maintenance and adaptation, followed eventually by age-related changes in many biological systems.
+
+### Boundary Conditions
+Biological age and chronological age are not identical. People of the same chronological age can differ in biological development because of genetics, health, nutrition, stress, environment, and other factors.
+
+### Evidence Status
+Biological developmental claims require evidence appropriate to the system being studied. Biological change should not automatically be interpreted as a direct psychological effect.
+
+## 4. Relationship to This Chapter
+Biological development supplies the biological layer underlying lifespan change across psychological domains.
+
+## 5. Boundaries
+### Owns
+General biological development as a lifespan developmental domain.
+### Defers
+Neural structures and mechanisms to Chapter 1.3; specific psychological development to the relevant developmental Topics.
+
+## 6. Key Principles
+- Biological systems develop at different rates.
+- Biological development can constrain and enable psychological development.
+- Chronological age is not identical to biological age.
+- Biological change does not automatically determine psychological outcome.
+
+# 17. Motor development
+
+## 1. Purpose
+Motor development explains age-related changes in movement abilities and coordination.
+
+## 2. Definition
+Motor development is the developmental change in the control, coordination, efficiency, and organization of bodily movement.
+
+## 3. Core Understanding
+### Components / Dimensions
+Motor development includes gross motor abilities involving large-body movements and fine motor abilities involving more precise actions. Coordination, balance, posture, timing, strength, and movement planning can also change.
+
+### Mechanism
+Motor development reflects maturation of biological systems together with practice, exploration, feedback, physical opportunities, and environmental demands. Development is therefore not simply a fixed unfolding of maturation.
+
+### Development
+Early motor development often involves increasing control over posture and movement. Later development includes refinement, specialization, skill acquisition, and adaptation. Aging can involve both preserved abilities and changes in speed, strength, balance, or coordination.
+
+### Moderators / Boundary Conditions
+Opportunities for movement, health, injury, practice, environmental affordances, and neurological conditions can influence trajectories.
+
+### Evidence Status
+Motor milestones describe population patterns, not rigid deadlines for every individual.
+
+## 4. Relationship to This Chapter
+Motor development is a distinct developmental domain that interacts with perception, cognition, learning, and physical development.
+
+## 5. Boundaries
+### Owns
+Developmental change in motor control and movement.
+### Defers
+General motor neuroscience to Chapter 1.3 and skill learning to Chapter 1.7.
+
+## 6. Key Principles
+- Motor development reflects maturation and experience.
+- Milestones are population patterns, not universal deadlines.
+- Motor development remains relevant across the lifespan.
+
+# 18. Perceptual development
+
+## 1. Purpose
+Perceptual development explains how the organization and efficiency of sensory and perceptual processing change with development.
+
+## 2. Definition
+Perceptual development is developmental change in how sensory information is detected, organized, interpreted, and integrated.
+
+## 3. Core Understanding
+### Mechanism
+Perceptual development reflects maturation of sensory and neural systems together with experience-dependent learning. Experience can tune perceptual systems to regularities in the environment.
+
+### Development
+Early perceptual capacities can be present before extensive learning, while later experience refines discrimination, integration, and interpretation. Development can therefore involve both biological preparedness and perceptual learning.
+
+### Boundary Conditions
+Perceptual development differs across sensory systems and depends on typical sensory input, health, environmental exposure, and opportunities for learning.
+
+### Evidence Status
+Age-related differences in perception can reflect sensory maturation, accumulated knowledge, changes in attention, or sensory decline; these explanations must be distinguished empirically.
+
+## 4. Relationship to This Chapter
+It is the developmental counterpart of the general sensation and perception domain.
+
+## 5. Boundaries
+### Owns
+Developmental change in perceptual functioning.
+### Defers
+General perception to Chapter 1.4 and neural mechanisms to Chapter 1.3.
+
+## 6. Key Principles
+- Perception develops through biological and experiential processes.
+- Different sensory systems have different developmental trajectories.
+- Age-related perceptual differences have multiple possible causes.
+
+# 19. Cognitive development
+
+## 1. Purpose
+Cognitive development describes changes in thinking, representation, memory, reasoning, attention, and related cognitive capacities across development.
+
+## 2. Definition
+Cognitive development is developmental change in the structures, processes, strategies, representations, and capacities used to acquire and use knowledge.
+
+## 3. Core Understanding
+### Components / Dimensions
+Cognitive development can involve attention, memory, executive functions, concepts, reasoning, problem solving, metacognition, and knowledge.
+
+### Mechanism
+Changes arise through interacting maturation, learning, experience, instruction, language, social interaction, and increasing knowledge. Development can involve both greater capacity and more effective strategy selection.
+
+### Development
+Cognitive development is not one uniform trajectory. Some abilities improve, others reorganize, and some later decline. Knowledge can increase even when processing speed changes.
+
+### Boundary Conditions
+Performance depends on task demands, familiarity, motivation, education, health, culture, and available strategies.
+
+### Evidence Status
+Cognitive development should be separated from any single stage theory. Different cognitive processes can have different developmental courses.
+
+## 4. Relationship to This Chapter
+It is the central developmental domain corresponding to the general cognition Topics in Chapters 1.6–1.11.
+
+## 5. Boundaries
+### Owns
+Developmental change in cognition as a broad domain.
+### Defers
+General cognition, memory, attention, reasoning, and intelligence to their canonical chapters.
+
+## 6. Key Principles
+- Cognitive development is multidimensional.
+- Different cognitive abilities have different trajectories.
+- Knowledge and processing capacity are not identical.
+
+# 20. Language development
+
+## 1. Purpose
+Language development explains how language comprehension and production emerge and change across the lifespan.
+
+## 2. Definition
+Language development is developmental change in the capacity to understand, produce, represent, and use language.
+
+## 3. Core Understanding
+### Components / Dimensions
+Development can involve speech perception, vocabulary, grammar, sentence processing, discourse, pragmatic use, reading, and writing.
+
+### Mechanism
+Language development reflects interaction among biological capacities, learning, statistical regularities in language input, social interaction, communication demands, and accumulated linguistic knowledge.
+
+### Development
+Early development includes increasing sensitivity to speech patterns and rapid vocabulary and grammatical learning. Later development includes increasingly complex language use, literacy, discourse, and pragmatic skill.
+
+### Boundary Conditions
+Language development varies with input, bilingual or multilingual experience, educational opportunity, hearing, neurodevelopment, social interaction, and cultural-linguistic environment.
+
+### Evidence Status
+Language development should not be reduced to either innate capacity or environmental teaching. Evidence supports contributions from both biological preparedness and experience.
+
+## 4. Relationship to This Chapter
+Language development is a major developmental domain and connects cognitive, social, and cultural development.
+
+## 5. Boundaries
+### Owns
+Developmental change in language.
+### Defers
+General language structure and processing to Chapter 1.11.
+
+## 6. Key Principles
+- Language develops through biological preparedness and experience.
+- Development includes both linguistic knowledge and social use.
+- Developmental trajectories vary with language environment.
+
+# 21. Emotional development
+
+## 1. Purpose
+Emotional development describes changes in emotional experience, expression, understanding, and regulation across development.
+
+## 2. Definition
+Emotional development is developmental change in the generation, experience, expression, understanding, and management of emotion.
+
+## 3. Core Understanding
+### Components / Dimensions
+It includes emotional differentiation, recognition, expression, understanding of emotional causes, emotional communication, and regulation.
+
+### Mechanism
+Emotional development reflects maturation, learning, caregiver interaction, socialization, language, cognitive development, and changing social demands.
+
+### Development
+Early emotional life becomes increasingly differentiated and socially coordinated. With development, people generally acquire more sophisticated understanding and regulation strategies, although emotional functioning remains context-dependent throughout life.
+
+### Moderators / Boundary Conditions
+Temperament, caregiving, culture, stress, relationships, cognitive capacity, and situational demands influence emotional development.
+
+### Evidence Status
+Developmental trends should not be treated as universal fixed sequences. Cultural and individual variation is substantial.
+
+## 4. Relationship to This Chapter
+Emotional development is the developmental domain corresponding to the general emotion system.
+
+## 5. Boundaries
+### Owns
+Developmental change in emotional functioning.
+### Defers
+General emotion and emotion mechanisms to Chapter 1.13; emotion regulation as a general construct remains there.
+
+## 6. Key Principles
+- Emotional development includes experience, expression, understanding, and regulation.
+- Emotional development is shaped by biological and social processes.
+- Developmental patterns vary across people and cultures.
+
+# 22. Social development
+
+## 1. Purpose
+Social development explains changes in how people understand, participate in, and regulate relationships and social interactions across the lifespan.
+
+## 2. Definition
+Social development is developmental change in social understanding, interaction, relationships, roles, and participation in social systems.
+
+## 3. Core Understanding
+### Components / Dimensions
+It includes social cognition, communication, relationships, cooperation, conflict, friendship, family relationships, peer interaction, social roles, and social participation.
+
+### Mechanism
+Social development emerges through interaction with caregivers, peers, institutions, culture, and broader social environments. Cognitive and emotional development also contribute to changing social functioning.
+
+### Development
+Social relationships become more differentiated across childhood and adolescence and are reorganized across adulthood. Later life can involve changes in social networks, roles, and priorities.
+
+### Boundary Conditions
+Culture, family structure, social opportunity, socioeconomic conditions, health, personality, and historical context shape social development.
+
+### Evidence Status
+There is no single universal social trajectory. Developmental patterns must be interpreted in context.
+
+## 4. Relationship to This Chapter
+Social development connects individual development with relationships and social environments.
+
+## 5. Boundaries
+### Owns
+Developmental change in social functioning.
+### Defers
+General social psychology and social behavior to Chapter 1.16; cultural mechanisms to Chapter 1.17.
+
+## 6. Key Principles
+- Social development is relational.
+- Social environments help shape development.
+- Social development varies with culture and context.
+
+# 23. Personality development
+
+## 1. Purpose
+Personality development explains how enduring individual differences change, stabilize, and reorganize across the lifespan.
+
+## 2. Definition
+Personality development is developmental change and continuity in characteristic patterns of thought, emotion, motivation, and behavior that distinguish individuals.
+
+## 3. Core Understanding
+### Mechanism
+Personality development can reflect maturation, social roles, experience, biological processes, learning, and person–environment transactions. People can also select environments that reinforce existing tendencies.
+
+### Development
+Personality shows both stability and change. Relative consistency can coexist with mean-level changes across development. Transitions into new roles and environments can be associated with systematic change.
+
+### Boundary Conditions
+Personality development varies across traits, people, cultures, and developmental periods. Measurement method and informant perspective also matter.
+
+### Evidence Status
+Longitudinal research supports meaningful continuity alongside developmental change. Neither “personality is fixed” nor “personality changes completely” accurately captures the evidence.
+
+## 4. Relationship to This Chapter
+Personality development is explicitly owned here as a developmental phenomenon, while general personality constructs remain canonically owned by Chapter 1.14.
+
+## 5. Boundaries
+### Owns
+Developmental change and continuity in personality.
+### Defers
+General personality traits, self, identity, and individual differences to Chapter 1.14.
+
+## 6. Key Principles
+- Personality can be stable and changeable at the same time.
+- Developmental change does not erase individual differences.
+- Personality development is influenced by biology, experience, roles, and context.
+
+# 24. Moral development
+
+## 1. Purpose
+Moral development describes developmental change in moral understanding, judgment, emotion, identity, and behavior.
+
+## 2. Definition
+Moral development is the developmental transformation of how people understand, evaluate, feel about, and act in relation to moral norms, obligations, harm, fairness, rights, and social expectations.
+
+## 3. Core Understanding
+### Components / Dimensions
+Moral development can involve moral reasoning, moral emotions, moral identity, understanding of norms, perspective-taking, and moral behavior. These components need not develop at the same rate.
+
+### Mechanism
+Development reflects cognitive growth, emotional development, social interaction, parenting, peer experience, cultural learning, and participation in institutions.
+
+### Development
+Children increasingly distinguish rules, intentions, harm, fairness, and social conventions, while adolescents and adults develop more complex moral reasoning and identity. Development is not necessarily a single universal progression.
+
+### Boundary Conditions
+Culture, socialization, institutional context, moral domain, and situational pressures influence moral judgment and behavior.
+
+### Evidence Status
+Moral reasoning and moral behavior are related but not identical. A person can understand a moral principle without consistently acting on it.
+
+## 4. Relationship to This Chapter
+Moral development is a lifespan developmental domain with connections to cognition, emotion, identity, and socialization.
+
+## 5. Boundaries
+### Owns
+Developmental change in moral functioning.
+### Defers
+General moral judgment and decision-making to Chapters 1.10 and 1.16 where applicable.
+
+## 6. Key Principles
+- Moral reasoning and moral behavior are distinct.
+- Moral development is shaped by cognitive, emotional, social, and cultural processes.
+- Moral development is not adequately represented by one universal sequence.
+
+# 25. Self development
+
+## 1. Purpose
+Self development describes developmental changes in how people represent, understand, evaluate, and regulate themselves.
+
+## 2. Definition
+Self development is developmental change in the organization and use of representations and processes concerning oneself.
+
+## 3. Core Understanding
+### Components / Dimensions
+Self development can include self-recognition, self-concept, self-knowledge, self-evaluation, agency, self-continuity, and increasingly differentiated self-representations.
+
+### Development
+Early self-related processes become more differentiated through perception, memory, social feedback, language, and interaction. With development, people can represent multiple aspects of themselves across contexts and time.
+
+### Mechanism
+Self development is influenced by cognitive capacity, social interaction, feedback, cultural models, autobiographical memory, and participation in roles and relationships.
+
+### Boundary Conditions
+Self-representations can vary across contexts and can contain contradictions without implying that the person lacks a coherent self.
+
+## 4. Relationship to This Chapter
+Self development is the developmental domain for self-related change; the general self constructs remain owned by Chapter 1.14.
+
+## 5. Boundaries
+### Owns
+Developmental change in self-related organization.
+### Defers
+Self-concept, self-awareness, self-esteem, self-discrepancy, and related canonical constructs to Chapter 1.14.
+
+## 6. Key Principles
+- Self representations become more differentiated with development.
+- Self development is socially and cognitively shaped.
+- Contextual variation does not necessarily mean an incoherent self.
+
+# 26. Identity development
+
+## 1. Purpose
+Identity development explains how a person develops and reorganizes answers to questions of who they are, where they belong, and what commitments organize their life.
+
+## 2. Definition
+Identity development is the developmental process through which people construct, explore, evaluate, maintain, and revise relatively enduring understandings and commitments concerning who they are.
+
+## 3. Core Understanding
+### Components / Dimensions
+Identity can involve exploration, commitment, continuity, role integration, group belonging, values, goals, and narrative coherence.
+
+### Mechanism
+Identity develops through interaction among self-reflection, social feedback, cultural expectations, relationships, role opportunities, and personally meaningful choices.
+
+### Development
+Identity exploration becomes particularly salient during adolescence and emerging adulthood, but identity development continues throughout life as people encounter new roles, relationships, transitions, losses, and opportunities.
+
+### Boundary Conditions
+Identity is shaped by culture and social context. Not every culture organizes identity around the same degree of individual choice or autonomy.
+
+### Evidence Status
+Identity development is not a single universal sequence. Different identity domains can develop at different rates.
+
+## 4. Relationship to This Chapter
+Identity development is the developmental treatment of identity; the general identity constructs remain owned by Chapter 1.14.
+
+## 5. Boundaries
+### Owns
+Developmental change in identity formation and reorganization.
+### Defers
+General identity structure and identity constructs to Chapter 1.14; social identity processes to Chapter 1.16.
+
+## 6. Key Principles
+- Identity involves both exploration and commitment.
+- Identity development continues beyond adolescence.
+- Cultural and social contexts shape identity pathways.
+
+# 27. Executive-function development
+
+## 1. Purpose
+This Topic explains developmental change in cognitive control capacities that support goal-directed behavior.
+
+## 2. Definition
+Executive-function development is developmental change in the ability to maintain goals, inhibit or control responses, update information, shift strategies, and coordinate behavior under changing demands.
+
+## 3. Core Understanding
+### Components / Dimensions
+Important executive functions include inhibitory control, working-memory updating, and cognitive flexibility, with higher-order control emerging from their coordination.
+
+### Development
+Executive control develops substantially through childhood and adolescence and continues to change across adulthood. Different executive components have different developmental trajectories.
+
+### Mechanism
+Development reflects maturation of neural systems together with practice, learning, environmental demands, and increasingly complex goal requirements.
+
+### Boundary Conditions
+Performance depends on task demands, motivation, fatigue, stress, familiarity, and knowledge. Executive performance should not be interpreted as a single unitary ability in every context.
+
+### Evidence Status
+Executive functions are related but distinguishable. Developmental claims should specify which component and which task are being measured.
+
+## 4. Relationship to This Chapter
+Executive-function development is the developmental counterpart of the general executive-function constructs.
+
+## 5. Boundaries
+### Owns
+Developmental change in executive functioning.
+### Defers
+General executive functions and cognitive control to Chapter 1.9.
+
+## 6. Key Principles
+- Executive functions develop at different rates.
+- Executive functioning is multidimensional.
+- Task performance depends on both control capacity and context.
+
+# 28. Emotion-regulation development
+
+## 1. Purpose
+This Topic explains developmental change in how people influence the timing, intensity, duration, and expression of emotional responses.
+
+## 2. Definition
+Emotion-regulation development is developmental change in the capacities and strategies used to influence emotional responses and their expression.
+
+## 3. Core Understanding
+### Development
+Early regulation depends heavily on caregivers and environmental structure. With development, people increasingly use attention, interpretation, behavior, problem solving, and social support to regulate emotion.
+
+### Mechanism
+Development reflects maturation, language, executive control, learning, caregiver co-regulation, socialization, and repeated experience with emotional demands.
+
+### Boundary Conditions
+The effectiveness of a strategy depends on context. A strategy that is useful in one situation may be ineffective or costly in another.
+
+### Evidence Status
+Developmental increases in regulatory capacity do not mean that older people regulate emotion successfully in every situation.
+
+## 4. Relationship to This Chapter
+This Topic describes the developmental trajectory of emotion regulation; the general emotion-regulation construct is owned by Chapter 1.13.
+
+## 5. Boundaries
+### Owns
+Developmental change in emotion-regulation capacities and strategies.
+### Defers
+General emotion regulation to Chapter 1.13.
+
+## 6. Key Principles
+- Regulation develops from substantial early dependence toward greater self-directed control.
+- Caregivers play an important role in early co-regulation.
+- Strategy effectiveness is context-dependent.
+
+# 29. Social-cognition development
+
+## 1. Purpose
+Social-cognition development explains developmental change in how people understand other people, relationships, intentions, emotions, and social situations.
+
+## 2. Definition
+Social-cognition development is developmental change in the processes used to represent, interpret, predict, and evaluate other people and social interactions.
+
+## 3. Core Understanding
+### Components / Dimensions
+It includes perspective-taking, understanding intentions, social prediction, interpretation of social cues, attribution, and understanding mental states.
+
+### Mechanism
+Development depends on cognitive growth, language, social experience, interaction, feedback, and exposure to different social roles.
+
+### Development
+Children increasingly distinguish their own perspective from others' perspectives and become better able to represent complex intentions and social knowledge. Social reasoning continues to become more differentiated with experience.
+
+### Boundary Conditions
+Performance depends on familiarity, emotion, culture, social context, and the complexity of the situation.
+
+## 4. Relationship to This Chapter
+It links cognitive development with social development and provides the broader developmental context for theory of mind.
+
+## 5. Boundaries
+### Owns
+Developmental change in social-cognitive processing.
+### Defers
+General social cognition to Chapter 1.16 and general cognition to Chapter 1.9.
+
+## 6. Key Principles
+- Social cognition develops through cognitive and social experience.
+- Understanding another person's mind is not the same as accurately predicting behavior.
+- Social-cognitive performance is context-sensitive.
+
+# 30. Theory of mind
+
+## 1. Purpose
+Theory of mind identifies the developmental capacity to represent mental states as belonging to oneself and other people and to use those representations to understand behavior.
+
+## 2. Definition
+Theory of mind is the capacity to represent that other people have beliefs, desires, intentions, perceptions, knowledge, and emotions that can differ from one's own and can influence their behavior.
+
+## 3. Core Understanding
+### Mechanism
+Theory-of-mind development involves increasingly sophisticated representation of mental states and the relationships among mental states, situations, and actions. Language, social interaction, executive processes, and experience contribute to its development.
+
+### Development
+Children acquire increasingly complex understanding of desires, perceptions, knowledge, beliefs, and conflicting or mistaken beliefs. Later development can include more complex reasoning about layered beliefs, irony, deception, and socially embedded mental states.
+
+### Boundary Conditions
+Successful performance depends on language, executive demands, task framing, cultural context, and the complexity of the social situation.
+
+### Misconceptions
+Theory of mind is not simply “knowing what someone thinks.” It concerns representing mental states as mental states and understanding that they may differ from reality or from one's own state.
+
+### Evidence Status
+Theory of mind is a well-established developmental research domain, but researchers continue to debate the relative contributions of language, social experience, domain-specific mechanisms, and general cognitive development.
+
+## 4. Relationship to This Chapter
+Theory of mind is a specific developmental component within social-cognition development.
+
+## 5. Boundaries
+### Owns
+Developmental acquisition and refinement of mental-state representation.
+### Defers
+General social cognition to Chapter 1.16 and general cognition/language to their canonical chapters.
+
+## 6. Key Principles
+- Other people can hold mental states different from one's own.
+- Theory of mind develops through multiple interacting processes.
+- Passing a theory-of-mind task depends partly on task and language demands.
