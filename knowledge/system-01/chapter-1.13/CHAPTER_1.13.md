@@ -1168,6 +1168,10 @@ The strength of dimensional approaches is descriptive economy. They capture simi
 
 Dimensional and categorical descriptions need not be mutually exclusive. A researcher may use dimensions to describe affective space while also studying emotion categories.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Basic-emotion models become empirically useful when their claims are precise enough to test. Questions include whether particular response patterns recur, whether they emerge early in development, whether they show cross-cultural regularities, and whether they have identifiable functions. None of these questions requires assuming a rigid one-emotion/one-expression mapping. Emotional categories can show recurrent tendencies while remaining flexible. The most defensible use of the approach therefore separates evidence for preparedness from stronger claims about universal expression or physiology.
 ## 4. Relationship to This Chapter
 Dimensional approaches provide the theoretical basis for the chapter's treatment of valence and arousal.
 
@@ -1199,6 +1203,10 @@ This framework highlights variability across contexts and individuals and explai
 
 The approach remains theoretically influential but contested. Competing evidence supports some specialized emotional processes and recurrent patterns, while the degree to which emotions are constructed versus biologically differentiated remains an active scientific question. The correct conclusion is not that all emotions are either fixed modules or arbitrary inventions.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Dimensional models excel at representing gradual change. They can show that an experience becomes more unpleasant or more activated even when a categorical label stays the same. However, dimensions can conceal why a state changed. Two states at the same valence and arousal can have very different meanings. A strong scientific representation therefore uses dimensions where they answer the question and categories or components where those distinctions carry explanatory value.
 ## 4. Relationship to This Chapter
 Constructed-emotion theory provides a major alternative to basic-emotion and purely dimensional accounts.
 
@@ -1230,6 +1238,10 @@ Evidence for facial feedback has been mixed. Some studies report small effects u
 
 The hypothesis remains scientifically useful because it illustrates a broader possibility: emotional processes may be recurrent, with expression and experience influencing each other.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Constructed-emotion theories are strongest when treated as mechanistic hypotheses about categorization, prediction, and bodily regulation rather than as claims that emotions are imaginary. A constructed category can still have real consequences because the resulting experience changes perception, action, and social behavior. The major empirical question concerns the relative contribution of learned concepts, context, bodily signals, and recurring biological structure. Evidence should be evaluated at the level of those mechanisms rather than by caricaturing the theory as either total construction or denial of biology.
 ## 4. Relationship to This Chapter
 It connects emotional expression with subjective feeling and emotion generation.
 
@@ -1261,6 +1273,10 @@ Positive affect is associated in many studies with exploration, social engagemen
 
 Positive affect should therefore be treated descriptively rather than as a synonym for psychological health or successful functioning.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Facial feedback requires careful causal separation. If expression changes emotion, the pathway could involve sensory feedback from facial muscles, changes in social interaction, altered self-perception, or expectations about what an expression means. Different experiments may test different pathways. This is why a small average effect in one laboratory paradigm cannot be generalized to a universal law that smiling creates happiness. The useful conclusion is that expression may participate in feedback loops, with effect size and conditions requiring continued investigation.
 ## 4. Relationship to This Chapter
 Positive affect is one major valence domain and provides a contrast with negative affect.
 
@@ -1292,6 +1308,10 @@ Negative affect can support adaptation by directing attention toward problems an
 
 Research on negative affect often uses general distress measures, but such measures can conceal meaningful distinctions among specific emotions.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Positive affect can influence information processing, but its consequences depend on activation, task demands, and motivational relevance. Pleasant low-arousal states may support satisfaction and restoration, whereas high-arousal positive states may increase approach and exploration. Positive affect can also coexist with uncertainty or loss. Therefore, positive affect should not be used as a proxy for psychological health, morality, competence, or correct judgment.
 ## 4. Relationship to This Chapter
 Negative affect organizes several discrete emotions while preserving their differences.
 
@@ -1323,6 +1343,10 @@ Positive emotion does not require continuous pleasure. People can experience hap
 
 Scientific research commonly separates momentary affect, global life evaluations, and related well-being constructs because they answer different questions.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Negative affect is heterogeneous enough that broad distress scores can hide important mechanisms. Fear can prioritize threat, sadness can orient toward loss, anger can orient toward obstruction, and disgust can orient toward rejection. Their shared unpleasantness is real but incomplete. A broad negative-affect construct is useful for describing overall burden, while specific emotions are needed for mechanism. This distinction is important for both research and interpretation of individual experience.
 ## 4. Relationship to This Chapter
 Happiness is a major positive affective experience and illustrates the difference between emotion and broader well-being judgments.
 
@@ -1354,6 +1378,10 @@ Sadness is a normal emotion and should not be equated with depression. Clinical 
 
 Sadness can also coexist with other emotions. Loss may produce sadness, anger, guilt, or relief at different moments. Emotional episodes are dynamic rather than mutually exclusive boxes.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Happiness is partly a measurement problem because people use the word for immediate feeling, remembered frequency of positive experience, and global life evaluation. These measures can correlate but are not identical. A person can have frequent pleasure but low life satisfaction if important values are unmet, or high life satisfaction while experiencing temporary sadness. Scientific claims about happiness should therefore name the measurement target rather than treating all positive self-reports as the same construct.
 ## 4. Relationship to This Chapter
 Sadness is a core negatively valenced emotion and demonstrates how emotion can organize responses to loss.
 
@@ -1385,6 +1413,10 @@ Fear is shaped by appraisal. A cue becomes frightening partly through what it me
 
 Fear should be distinguished from anxiety. Fear is often more closely linked to a perceived present or specific threat, whereas anxiety can involve uncertain or diffuse future threat; however, the distinction is not absolute in ordinary language or research.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Sadness can change the person's relationship to goals. When an important outcome is lost, immediate approach behavior may decrease while reflection, support seeking, or reassessment becomes more prominent. These are tendencies rather than mandatory functions. The emotion can also interact with social context: supportive responses may facilitate recovery, whereas isolation can maintain distress. The distinction from depression remains essential because a normal emotional episode does not establish a clinical syndrome.
 ## 4. Relationship to This Chapter
 Fear illustrates threat-related emotion and links appraisal, action tendency, and physiological arousal.
 
@@ -1416,6 +1448,10 @@ Anger can be directed at a person, situation, institution, oneself, or an abstra
 
 Like other emotions, anger can be useful or costly depending on intensity, accuracy, duration, and expression. Suppressing all anger is not necessarily adaptive, and acting on every angry impulse is not either.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Fear involves a calibration problem between detecting danger and avoiding unnecessary alarm. Threat detection is shaped by learning, prediction, context, and perceived coping ability. When safety information becomes credible, fear can decrease, but context changes can restore the response. This does not mean the person failed to learn; emotional memory can remain sensitive to uncertainty and retrieval conditions. Fear therefore illustrates the dynamic interaction among learning, appraisal, physiology, and regulation.
 ## 4. Relationship to This Chapter
 Anger illustrates the link between appraisal of obstruction or wrongdoing and action tendency.
 
@@ -1447,6 +1483,10 @@ Disgust therefore demonstrates that emotion categories can extend beyond their o
 
 Individual sensitivity to disgust varies, and context can strongly alter responses.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Anger often contains information about blocked goals or perceived violations, but its informational value depends on the accuracy of the underlying appraisal. Anger can motivate problem solving, boundary setting, or persistence, while uncontrolled action can produce aggression and social harm. Because the emotion and behavior are separable, interventions or explanations should identify whether the target is feeling intensity, appraisal, expression, or action. This preserves the distinction between having anger and acting destructively.
 ## 4. Relationship to This Chapter
 Disgust illustrates an avoidance-oriented emotion with biological, learned, and social dimensions.
 
@@ -1478,6 +1518,10 @@ The response depends on prior expectations. A person who expects a particular ou
 
 Not every unexpected event produces strong subjective surprise. Expectation strength, attention, salience, and context matter.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Disgust is unusually informative for studying the interaction of biological preparedness and cultural learning. Some triggers are widely aversive, while others vary greatly across groups and individuals. The response can also generalize through symbolic association. Such generalization may be adaptive in contamination contexts but can produce socially harmful judgments when applied indiscriminately to people or groups. Emotional response therefore does not by itself justify the evaluation attached to it.
 ## 4. Relationship to This Chapter
 Surprise demonstrates how expectation and prediction shape emotional response.
 
@@ -1509,6 +1553,10 @@ Interest is related to motivation but is not identical to it. A person can be in
 
 Because interest can sustain attention, it can contribute to learning and exploration, but its effects depend on task structure and opportunity.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Surprise is fundamentally comparative: it reflects the gap between what was expected and what occurred. A highly probable event that occurs may produce little surprise; an unlikely event can produce a large response. Because surprise can be pleasant, unpleasant, or neutral, it cannot be classified by valence alone. Its main behavioral consequence is often rapid updating or orientation, after which another emotion may become dominant.
 ## 4. Relationship to This Chapter
 Interest is a positive affective experience that connects emotion with exploration and motivation.
 
@@ -1540,6 +1588,10 @@ Affection can be expressed through attention, warmth, touch, communication, supp
 
 Because love is multifaceted, simple biological or emotional definitions are insufficient. Romantic attraction, attachment, caregiving, and enduring commitment can overlap while remaining conceptually distinct.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Interest can be sustained when a person perceives enough novelty to invite exploration without losing a sense of relevance or possible comprehension. It can therefore change as knowledge changes. An initially interesting subject may become routine, while a deeper layer can renew interest. This dynamic helps distinguish interest from a fixed preference. Interest can support attention and learning but requires opportunity and accessible information.
 ## 4. Relationship to This Chapter
 Love and affection represent complex positive interpersonal affect and connect emotion with social relationships.
 
@@ -1571,6 +1623,10 @@ Shame differs from guilt, although the two can co-occur. Guilt more specifically
 
 Shame can support social learning when it motivates repair or conformity, but intense or chronic shame can also contribute to avoidance and impaired self-evaluation. Consequences depend on appraisal and regulation.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Love and affection illustrate why emotional categories often contain multiple components. Attraction can orient toward another person, affection can reflect warmth and care, attachment can organize security and proximity, and commitment can organize longer-term choice. These processes can reinforce one another but can also diverge. A relationship can contain commitment without strong momentary affection, or attraction without stable caregiving. The broad term love should therefore be unpacked when precise explanation is required.
 ## 4. Relationship to This Chapter
 Shame introduces self-conscious emotion and prepares the distinction from guilt and pride.
 
@@ -1602,6 +1658,10 @@ Guilt is therefore shaped by standards, responsibility judgments, social relatio
 
 Guilt and shame often occur together but should not be collapsed into one construct. Their different objects of evaluation can produce different behavioral tendencies.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Shame often becomes intense when self-evaluation and perceived social exposure converge. The person is not merely evaluating an event but what the event means about who they are or how others may see them. This can produce concealment or withdrawal, but repair is possible when the appraisal shifts toward specific behavior and change. The distinction from guilt is therefore functional as well as semantic: different objects of evaluation can organize different responses.
 ## 4. Relationship to This Chapter
 Guilt is a self-conscious emotion that contrasts with shame and connects emotion to moral and interpersonal behavior.
 
@@ -1634,6 +1694,10 @@ Pride is not equivalent to narcissism or arrogance. Its expression and consequen
 
 Because pride is self-conscious, it depends on representations of the self and standards of evaluation. It is therefore partly social even when the achievement is private.
 
+
+### Integrated mechanism, boundary, and retrieval deepening
+
+Guilt can be constructive when it accurately tracks responsibility and points toward feasible repair. It becomes less informative when responsibility is exaggerated, impossible to satisfy, or disconnected from actual agency. This is why guilt should not be treated as a moral truth signal. It is evidence about the person's appraisal of responsibility. Its relationship to behavior depends on whether the person can translate that appraisal into proportionate corrective action.
 ## 4. Relationship to This Chapter
 Pride completes the central group of self-conscious emotions alongside shame and guilt.
 
