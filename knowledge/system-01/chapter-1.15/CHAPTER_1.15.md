@@ -2852,6 +2852,24 @@ Insecurity is not equivalent to mental disorder, poor character, or permanent re
 
 Development reflects caregiving history, temperament, relationship experience, and later social environments.
 
+### Meaning
+Attachment insecurity describes relational patterns in which expectations about availability, support, or the usefulness of proximity are less reliably organized around confidence in an attachment figure. Insecurity is dimensional and relational rather than a diagnosis or moral judgment.
+
+### Different forms
+Insecure organization can involve heightened concern about abandonment and strong proximity seeking, or reduced reliance on others and discomfort with dependence. Different patterns may reflect different developmental histories and strategies. These patterns should not be collapsed into a single category of being insecure.
+
+### Adaptive origins
+Behavior that looks insecure in one context may have developed as an adaptation to repeated experiences in which support was unpredictable, unavailable, intrusive, or otherwise difficult to use. A developmental account asks what relationship between behavior and environment made the pattern understandable rather than assuming that the behavior is inherently irrational.
+
+### Plasticity
+Attachment-related expectations can change with new relationships, caregiving conditions, therapy, maturation, and changes in life circumstances. Stability is common enough to be scientifically important, but it is not equivalent to permanence.
+
+### Context and culture
+Expressions of attachment behavior depend on social norms, family structures, and opportunities for autonomy. Behavior that appears unusually dependent in one cultural context may be normative in another. Measures should therefore be interpreted with cultural and relational sensitivity.
+
+### Boundaries
+Insecurity is not synonymous with mental disorder, low self-worth, poor parenting, or inability to form relationships. The construct describes attachment organization and should not be used as a catch-all explanation for every interpersonal difficulty.
+
 ## 4. Relationship to This Chapter
 It complements attachment security and provides a developmental account of variability in attachment organization.
 
@@ -2887,6 +2905,24 @@ Development is not predetermined by infancy. Later relationships, interventions,
 ### Evidence Status
 Longitudinal evidence supports continuity in some attachment-related characteristics while also demonstrating substantial change and relationship specificity.
 
+### Formation and reorganization
+Attachment development refers to the changing organization of attachment relationships across infancy, childhood, adolescence, and adulthood. It includes the emergence of selective attachment, increasingly complex expectations of caregivers, changes in proximity-seeking behavior, and the development of reciprocal adult relationships.
+
+### Early development
+During early infancy, social preferences and expectations become increasingly organized through repeated interaction. As mobility and cognition develop, attachment behavior becomes more visibly coordinated with exploration and environmental demands. The relationship therefore changes as the child's capacities change.
+
+### Internal representations
+Repeated interactions can contribute to expectations about whether support will be available and whether one's signals will be understood. These expectations can guide attention and behavior, but they remain open to revision when relational experiences change.
+
+### Developmental transitions
+As children gain autonomy, attachment does not disappear. The balance between direct physical proximity and psychological availability changes. Adolescents increasingly seek support from peers as well as caregivers, and adults often distribute attachment functions across reciprocal relationships.
+
+### Multiple pathways
+Attachment development is influenced by caregiver behavior, child characteristics, family stress, social support, culture, and major disruptions. There is no single deterministic pathway from one early experience to one adult outcome. Developmental trajectories can contain stability, discontinuity, recovery, and reorganization.
+
+### Evidence and measurement
+Different attachment measures target different aspects of development. Observational classification, interview-based representations, and self-report relationship tendencies should not be treated as interchangeable. Longitudinal designs are especially important for testing continuity and change over time.
+
 ## 4. Relationship to This Chapter
 This is the developmental process Topic underlying attachment security and insecurity.
 
@@ -2913,6 +2949,24 @@ Temperament development is developmental change and continuity in biologically i
 Temperament has biological contributions but is expressed through interaction with experience and context. Characteristics can show continuity while also being modified by maturation, learning, parenting, and environmental demands.
 
 Temperament is not personality in miniature and does not determine later personality. It is one contributor to later individual differences.
+
+### Definition
+Temperament refers to relatively early-emerging individual differences in emotional reactivity, activity, attention, and self-regulatory tendencies that show some biological contribution and developmental persistence. Temperament is not identical to personality, although it contributes to later personality development.
+
+### Dimensions
+Temperamental characteristics can include positive affect and approach, negative emotionality, activity level, attentional control, behavioral inhibition, and effortful control. Different frameworks organize these dimensions differently. No single list should be treated as the only valid taxonomy.
+
+### Biology and experience
+Temperament has biological foundations, including genetic and physiological influences, but its expression is shaped by experience. Caregiving, culture, peer relationships, and environmental demands can amplify, suppress, or channel temperamental tendencies. A reactive child may develop different patterns in a supportive environment than in a chronically stressful one.
+
+### Goodness of fit
+Development can be influenced by how well a person's characteristics fit the demands and supports of the environment. A high activity level may be manageable in one setting and difficult in another. Fit is therefore relational rather than a judgment that one temperament is intrinsically good or bad.
+
+### Developmental change
+Temperamental tendencies can show continuity while also changing in expression. Increasing self-regulation can alter how early reactivity is displayed. This is one pathway through which temperament contributes to later personality without determining it.
+
+### Assessment limits
+Temperament is often measured through parent reports, laboratory tasks, observation, and physiological indicators. Informants may disagree because they observe different contexts. A single measure should not be treated as a complete description of temperament.
 
 ## 4. Relationship to This Chapter
 Temperament development is a developmental process that connects biological predispositions with later functioning.
@@ -2949,6 +3003,27 @@ Effects depend on culture, child characteristics, family conditions, development
 ### Evidence Status
 Parenting is associated with many developmental outcomes, but simple one-way claims are inadequate because parent and child influence one another.
 
+### Parenting as a developmental process
+Parenting processes include the recurring ways caregivers provide protection, stimulation, discipline, emotional support, monitoring, communication, and opportunities for autonomy. Parenting is not a fixed trait of a parent; it is a set of behaviors and relationships that change with child development and context.
+
+### Responsiveness and structure
+Effective caregiving often requires both responsiveness and structure, although the appropriate balance changes with age and situation. Young children require more direct protection and regulation, while older children can assume more responsibility. Developmental fit matters as much as the presence of a particular behavior.
+
+### Discipline and learning
+Discipline can communicate rules, consequences, expectations, and social values. Its effects depend on consistency, harshness, warmth, context, and the child's characteristics. Correlational findings must be interpreted cautiously because child behavior can also influence parenting responses.
+
+### Autonomy support
+As children develop, caregivers increasingly provide choices, explanations, negotiated boundaries, and opportunities for independent action. Autonomy support does not mean absence of limits. It means adjusting control to developmental capacity while maintaining appropriate safety and expectations.
+
+### Bidirectional influence
+Children influence parents through temperament, behavior, needs, and developmental changes. Parents respond to children, and those responses alter children's behavior, producing feedback loops. Parenting research therefore benefits from models that treat the relationship as transactional rather than assuming one-way parental causation.
+
+### Contextual constraints
+Parenting is shaped by employment, poverty, social support, culture, housing, health, discrimination, family structure, and community resources. Individual parenting behavior cannot be interpreted independently of these conditions. Interventions that ignore structural context may overattribute developmental outcomes to parental choices alone.
+
+### Evidence and ethics
+Parenting research should distinguish associations from causal effects and avoid treating culturally different practices as deficient without evidence. The goal is to understand mechanisms and developmental fit, not to impose one universal family model.
+
 ## 4. Relationship to This Chapter
 Parenting is a major developmental system influencing multiple developmental domains.
 
@@ -2975,6 +3050,27 @@ Family influences are developmental effects associated with family relationships
 Families provide emotional, material, social, and cultural environments. Sibling relationships, caregiver relationships, conflict, support, economic resources, and family transitions can all shape development.
 
 Effects are not mechanically uniform. Children respond differently to similar environments, and family systems themselves change in response to children's development.
+
+### Family as a developmental context
+Family influences include genetic relatedness, caregiving, communication, routines, conflict, support, resources, role expectations, and broader family organization. Family effects are multidimensional and cannot be reduced to one parenting variable.
+
+### Relationships and transactions
+Family members influence one another. Children's behavior affects siblings and parents; parental conflict can alter children's environments; children's developmental changes can require families to reorganize roles. These transactions can produce feedback over years.
+
+### Family structure and family process
+Structure and process should be distinguished. The number or type of family members does not by itself determine developmental outcomes. What often matters is the quality of relationships, stability, resources, conflict, support, and opportunities for secure and stimulating interaction.
+
+### Resources and inequality
+Economic resources influence nutrition, housing, education, healthcare, neighborhood safety, time availability, and stress exposure. These pathways can affect development without implying that low-resource families are inherently less capable. Structural conditions shape the opportunities available to families.
+
+### Siblings and intergenerational relationships
+Sibling relationships provide opportunities for imitation, conflict, cooperation, negotiation, and social learning. Grandparents and other relatives can provide caregiving, cultural continuity, resources, and emotional support. Their effects depend on involvement and relationship quality rather than kinship label alone.
+
+### Culture
+Families transmit language, values, traditions, social expectations, and interpretations of development. Cultural variation should be understood as part of normal human developmental diversity rather than treated automatically as a deviation from one dominant model.
+
+### Boundaries
+Family influences are developmental context, not a universal explanation for individual outcomes. Peer, school, community, biological, and individual processes also contribute. This Topic therefore owns family-level developmental influence rather than all psychological effects of family relationships.
 
 ## 4. Relationship to This Chapter
 Family influences provide a broader developmental system surrounding parenting and peer development.
