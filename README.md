@@ -314,40 +314,38 @@ The chapter was re-audited against the live surgical architecture before sealing
 **Next target:** Chapter 1.14 — only after a fresh live architecture and ownership audit.
 
 
-## Chapter 1.14 — Final Canonical State
+## Chapter 1.14 — Final Canonical State — 2026-09-25
 
-**Canonical title:** Personality, Self, Identity, and Individual Differences
+Chapter 1.14 — **PERSONALITY, SELF, IDENTITY, AND INDIVIDUAL DIFFERENCES** is complete, re-audited, and re-sealed.
 
-**Canonical Topic count:** 67
+- Architecture source: `system_1/SYSTEM_1_SURGICAL_CANONICAL_ARCHITECTURE_v2.md`
+- Exact architecture Topics: **67/67**
+- Canonical chapter file: `knowledge/system-01/chapter-1.14/CHAPTER_1.14.md`
+- Final validation: `knowledge/system-01/chapter-1.14/CHAPTER_1.14_FINAL_VALIDATION.md`
+- Status: **COMPLETE — RE-AUDITED & RESEALED — CANONICAL KNOWLEDGE VERSION 2.0**
+- Total words: **39,029**
+- Core Understanding words: **21,276**
+- Average Core Understanding: **317.55 words/topic**
+- Core Understanding range: **298–357**
+- Average Topic corpus: **582.52 words**
+- Topic corpus range: **541–668**
+- Six-section Knowledge Objects: **67/67**
+- Owns boundaries: **67/67**
+- Defers boundaries: **67/67**
+- Topic-specific evidence/mechanism layers: **67/67**
+- Architecture mismatches: **0**
+- Generic old definition-template remnants: **0**
+- Forbidden supplement/rebuild/depth-index artifacts: **0**
+- Final chapter blob SHA: `85db37371ebee4070a9e20b63605bfb409e71102`
 
-**Status:** RE-AUDITED — CANONICAL KNOWLEDGE VERSION 2.0
+Ownership controls preserved:
+- **Self-awareness** remains the Chapter 1.14 canonical self-related owner; Chapter 1.5 owns only **Consciousness-specific self-awareness**.
+- **Attachment style → 1.15 canonical owner (redirect only)** remains exact.
+- **Individual differences** remains scoped to personality/self/identity treatment and does not re-own general, biological, or domain-specific individual differences.
 
-Canonical file: `knowledge/system-01/chapter-1.14/CHAPTER_1.14.md`
-
-Validation file: `knowledge/system-01/chapter-1.14/CHAPTER_1.14_FINAL_VALIDATION.md`
-
-Final audit metrics:
-
-- **67/67** exact architecture Topics
-- **39,028** total words
-- **21,276** Core Understanding words
-- **317.55** average Core Understanding words/topic
-- **298–357** Core Understanding range
-- **583.06** average Topic corpus
-- **541** minimum Topic corpus
-- **668** maximum Topic corpus
-- **67/67** six-section Knowledge Objects
-- **67/67** Owns boundaries
-- **67/67** Defers boundaries
-- **67/67** Topic-specific evidence/mechanism layers
-- **0** architecture mismatches
-- **0** forbidden supplement/rebuild/depth-index artifacts
-
-Special ownership controls preserved:
-- **Self-awareness** remains the Chapter 1.14 canonical self-related owner.
-- **Attachment style → 1.15 canonical owner (redirect only)** is preserved exactly.
-- Individual-difference scope is separated from general foundational, biological, and domain-specific owners.
+The chapter was specifically re-audited after detecting excessive template repetition. The repair removed generic repeated Core Understanding scaffolding, rebuilt definitions around each Topic, and restored Topic-specific evidence/mechanism material where it added genuine knowledge.
 
 **Current completed System 1 state:** Chapters 1.1–1.14, with **937 canonical chapter Topics** completed through Chapter 1.14.
 
-**Next target:** Chapter 1.15 — only after a fresh live architecture and ownership audit.
+**Next target:** Chapter 1.15 — only after a fresh live architecture + ownership + constitution audit.
+
