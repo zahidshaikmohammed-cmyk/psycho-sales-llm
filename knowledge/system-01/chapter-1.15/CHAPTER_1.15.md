@@ -3685,6 +3685,12 @@ General socialization and social behavior to Chapter 1.16; attachment mechanisms
 - Parent and child influence each other.
 - Parenting effects depend on context.
 
+
+### Topic-specific evidence layer
+
+Parenting processes are developmental because the appropriate balance of protection, structure, responsiveness, monitoring, and autonomy changes as children develop. Parenting is also transactional: child characteristics influence parental responses, while parental responses influence later child behavior. This makes one-way causal interpretations incomplete. Parenting is embedded in economic, cultural, health, employment, and family conditions, so developmental outcomes should not be attributed to parental behavior alone when structural constraints are relevant.
+
+
 # 52. Family influences
 
 ## 1. Purpose
@@ -3733,6 +3739,12 @@ Parenting processes to Topic 51 and general family/social relationship processes
 - Children and families influence one another.
 - Family effects are context-dependent.
 
+
+### Topic-specific evidence layer
+
+Family influences include relationships, resources, routines, roles, conflict, support, and broader family organization. Family structure and family process should be distinguished because the same structure can contain very different relationship qualities and resources. Family effects can also operate through multiple pathways, including stress, opportunity, social learning, communication, and access to education or health. Developmental interpretation should therefore avoid treating family membership as a simple causal variable.
+
+
 # 53. Peer development
 
 ## 1. Purpose
@@ -3777,6 +3789,12 @@ General social influence and group processes to Chapter 1.16.
 - Peer relationships provide developmental opportunities.
 - Peer influence can be beneficial or harmful.
 - Peer importance changes across development and context.
+
+
+### Topic-specific evidence layer
+
+Peer development becomes increasingly important as reciprocal relationships expand. Friends and peer groups provide opportunities for cooperation, comparison, conflict, belonging, social learning, and identity feedback. Peer influence is not inherently harmful; group norms can support either risky or prosocial behavior. Developmental effects also depend on selection because individuals often choose or remain in peer environments partly on the basis of their characteristics and interests.
+
 
 # 54. School and learning context
 
@@ -3828,6 +3846,12 @@ Learning mechanisms to Chapter 1.7 and the relationship node remains contextual 
 - School effects depend on context and quality.
 - Learning is broader than schooling.
 
+
+### Topic-specific evidence layer
+
+School and learning contexts influence development through instruction, evaluation, relationships, routines, peer climate, and access to resources. School effects cannot be separated completely from family resources, language, health, motivation, and neighborhood conditions. Developmental transitions between school levels can change expectations and social networks, creating both opportunities and stress. Evidence should therefore distinguish school-specific mechanisms from broader educational and socioeconomic influences.
+
+
 # 55. Cultural influences
 
 ## 1. Purpose
@@ -3875,6 +3899,12 @@ General culture and psychology to Chapter 1.17.
 - Culture shapes developmental environments.
 - Within-culture variation remains substantial.
 - Individuals and cultures influence one another.
+
+
+### Topic-specific evidence layer
+
+Cultural influences operate through practices, meanings, roles, language, institutions, and expectations. Culture is not a single variable and should not be reduced to national stereotypes. Developmental differences across cultural contexts may reflect different opportunities, goals, socialization practices, or measurement properties rather than differences in basic human capacity. Within-culture variation is substantial, and migration can involve both continuity and reorganization of cultural identity.
+
 
 # 56. Adolescent identity exploration
 
@@ -3926,6 +3956,12 @@ General identity development to Topic 26 and general identity constructs to Chap
 - Exploration is not the same as commitment.
 - Social context shapes available identity options.
 
+
+### Topic-specific evidence layer
+
+Adolescent identity exploration involves considering alternatives and gathering information about values, roles, relationships, education, work, culture, and future direction. Exploration and commitment are not opposites; people can maintain meaningful commitments while revising them in response to new evidence. Exploration is also constrained by opportunity. Family expectations, economic resources, discrimination, institutional pathways, and cultural traditions shape which identities are realistically available.
+
+
 # 57. Adolescent risk-taking
 
 ## 1. Purpose
@@ -3976,6 +4012,12 @@ General decision-making and risk perception to Chapter 1.10; action and behavior
 - Social context strongly affects risk behavior.
 - Adolescents are not uniformly reckless.
 
+
+### Topic-specific evidence layer
+
+Adolescent risk-taking is heterogeneous. Reward sensitivity, novelty seeking, peer context, emotion, perceived norms, cognitive control, opportunity, and expected consequences can contribute differently across behaviors. Adolescents can know that an action is risky and still choose it when immediate social or emotional rewards change the value of the choice. Developmental interpretation should therefore distinguish knowledge of risk from behavior under particular motivational conditions.
+
+
 # 58. Adult cognitive development
 
 ## 1. Purpose
@@ -4023,6 +4065,12 @@ General cognition to Chapter 1.9 and cognitive aging to Topic 42.
 - Adult cognition continues to develop.
 - Knowledge and processing efficiency can have different trajectories.
 - Experience can support cognitive adaptation.
+
+
+### Topic-specific evidence layer
+
+Adult cognitive development includes continuing learning, expertise, metacognition, practical reasoning, and changes in some cognitive processes. Accumulated knowledge can increase even when processing efficiency changes. Adult roles such as work, education, caregiving, and community participation provide repeated cognitive demands that can support specialization. Developmental interpretation should therefore separate basic processing changes from knowledge-based competence and from the effects of environmental opportunity.
+
 
 # 59. Socioemotional selectivity
 
@@ -4074,6 +4122,12 @@ General motivation to Chapter 1.12 and social relationships to Chapter 1.16.
 - The model concerns priorities, not mandatory withdrawal.
 - Context and individual differences matter.
 
+
+### Topic-specific evidence layer
+
+Socioemotional selectivity links perceived future time with changing social and emotional goals. A focus on emotionally meaningful relationships can lead to smaller networks without implying generalized social withdrawal. The theory is about goal priorities, not a universal claim that older adults become happier or stop seeking information. Perceived future time varies with health, life circumstances, and culture, so chronological age is not the mechanism itself.
+
+
 # 60. Cognitive reserve
 
 ## 1. Purpose
@@ -4121,6 +4175,12 @@ General cognition to Chapter 1.9 and clinical neurocognitive disorders to Chapte
 - People can differ in cognitive functioning despite similar brain changes.
 - Reserve is a theoretical construct, not a single measurable substance.
 - Lifetime experience may contribute to cognitive resilience.
+
+
+### Topic-specific evidence layer
+
+Cognitive reserve is a theoretical construct used to explain why people with similar brain changes can show different levels of cognitive functioning. Education, occupation, intellectual engagement, and other experiences are often used as indicators or correlates, but none is identical to reserve. Reserve does not imply immunity from pathology; it concerns differences in functional expression of underlying brain burden and may involve flexible or compensatory processing.
+
 
 # 61. Developmental risk
 
@@ -4174,6 +4234,12 @@ Clinical risk factors to Chapter 1.19 and specific biological or social mechanis
 - Risk changes probability rather than determining outcomes.
 - Timing and accumulation matter.
 - Risk and protection must be interpreted together.
+
+
+### Topic-specific evidence layer
+
+Developmental risk refers to factors that increase the probability of adverse outcomes. Risks can accumulate, interact, vary in timing, and cluster with other conditions. Poverty, family stress, health problems, and educational disadvantage can be correlated, making single-factor causal interpretations difficult. Risk should never be converted into an individual prediction without appropriate evidence. Developmental risk is most useful when paired with protective processes and explicit uncertainty.
+
 
 # 62. Developmental resilience
 
@@ -4229,3 +4295,9 @@ Health and post-stress adaptation to Chapter 1.18; clinical recovery to Chapter 
 - Resilience concerns adaptation under meaningful adversity.
 - Resilience is usually a process or pattern, not a fixed trait.
 - Protective processes can differ across people and contexts.
+
+
+### Topic-specific evidence layer
+
+Developmental resilience concerns relatively positive adaptation despite meaningful adversity or disruption. It can involve recovery, maintenance, compensation, or successful reorganization and must be defined relative to a specific challenge, time period, and outcome. Resilience can depend on relationships, resources, institutions, skills, and changes in circumstances rather than on an internal trait alone. It should not be used to romanticize adversity or imply that people should tolerate preventable harm.
+
