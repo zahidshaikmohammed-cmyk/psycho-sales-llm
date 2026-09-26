@@ -110,7 +110,7 @@ Mechanisms can operate across levels and timescales. A distal social condition c
 
 Systems thinking is strongest when it produces testable relational hypotheses. The perspective should therefore identify the components that interact and the conditions that change their relationship. Its value is explanatory organization, not permission to treat every conceivable influence as equally important.
 
-The interaction principle also protects against false dichotomies. Biological predispositions can matter without determining outcomes, and environmental experiences can matter without making biology irrelevant. Development emerges from their changing relationship.
+The interaction principle also protects against false dichotomies. Biological predispositions can matter without determining outcomes, and environmental experiences can matter without making biology irrelevant. Development emerges from their changing relationship. Developmental knowledge should therefore preserve both trajectory and context. A developmental pattern is most useful when the reader can see what changed, what persisted, and which conditions influenced the pathway. The lifespan perspective also prevents the false assumption that later life is merely the aftermath of earlier development. New roles, environments, and goals continue to create developmental conditions throughout adulthood and aging. A change claim should remain tied to the measurement interval. Short-term fluctuation, repeated practice effects, and durable developmental transformation are different phenomena even when they produce similar scores. Mechanisms should be evaluated by whether changing the proposed process changes the developmental outcome. Correlation can identify a candidate mechanism, but stronger causal interpretation requires stronger evidence. Systems explanations should remain bounded. The relevant system is the set of components whose interaction is necessary for the developmental question, not an unlimited inventory of possible influences. The interaction between biology and environment can also be reciprocal across generations. Developmental environments are created partly by the behavior and institutions of people whose own development was shaped by earlier environments.
 
 ---
 
@@ -629,7 +629,7 @@ Continuity can operate through multiple pathways. A characteristic can persist b
 
 Continuity is therefore not evidence that a developmental pattern is fixed. If continuity is maintained partly through environmental reinforcement, changing the environment may alter the trajectory. This is one reason developmental continuity and plasticity should be studied together.
 
-Continuity can be maintained through repeated transactions rather than through an unchanging internal property. This means that continuity itself can sometimes reveal where developmental leverage exists: changing the maintaining conditions may change the trajectory.
+Continuity can be maintained through repeated transactions rather than through an unchanging internal property. This means that continuity itself can sometimes reveal where developmental leverage exists: changing the maintaining conditions may change the trajectory. Continuity can be useful without being absolute. A developmental trajectory may preserve an underlying organization while changing its surface expression as capacities, roles, and environments change.
 
 ---
 
@@ -711,7 +711,7 @@ Discontinuity is best treated as a claim about organization rather than simply a
 
 This Topic therefore helps prevent stage labels from being mistaken for mechanisms. A stage boundary can mark a period in which reorganization becomes visible, but the mechanisms producing the reorganization must still be identified.
 
-Discontinuity should be interpreted cautiously because apparent stage jumps can arise from measurement thresholds or changes in task demands. Stronger evidence comes from demonstrating a meaningful change in organization or strategy across development.
+Discontinuity should be interpreted cautiously because apparent stage jumps can arise from measurement thresholds or changes in task demands. Stronger evidence comes from demonstrating a meaningful change in organization or strategy across development. Discontinuity should be linked to a specific level of analysis. A qualitative behavioral change can be supported by gradual biological or experiential changes underneath it.
 
 ---
 
@@ -798,7 +798,7 @@ Stability can be meaningful without being complete. Psychological systems contai
 
 The type of stability should therefore always be named when possible. Rank-order stability, mean-level stability, structural stability, and functional stability answer different questions. This precision is especially important when comparing developmental findings across different measures or populations.
 
-Stability is also scale-dependent. A person can be stable across years while showing substantial moment-to-moment variability, and a group can be stable in its average while containing diverse individual trajectories. The level of analysis must therefore be specified.
+Stability is also scale-dependent. A person can be stable across years while showing substantial moment-to-moment variability, and a group can be stable in its average while containing diverse individual trajectories. The level of analysis must therefore be specified. Stability estimates are always conditional on the population, measure, interval, and context. Stability should therefore never be treated as a timeless property of a person.
 
 ---
 
@@ -885,7 +885,7 @@ Developmental change can also involve reorganization rather than simple accumula
 
 The construct is consequently broader than growth. When a question concerns the general fact of alteration across time, Change is the appropriate umbrella. When the question concerns the process, timing, domain, or stage of that alteration, the corresponding developmental Topic should be linked.
 
-Change becomes more informative when its direction, rate, timing, and durability are known. A temporary performance change and a lasting developmental reorganization are different findings even if they initially produce the same observed improvement.
+Change becomes more informative when its direction, rate, timing, and durability are known. A temporary performance change and a lasting developmental reorganization are different findings even if they initially produce the same observed improvement. Change should also be evaluated for generalization. Improvement on a trained task is not automatically improvement across everyday functioning, other tasks, or later developmental contexts.
 
 ---
 
@@ -968,7 +968,7 @@ A critical-period claim should specify the developmental system, the relevant in
 
 The distinction is also important for intervention. If a process is sensitive rather than absolutely critical, later support may remain meaningful even when earlier experience would have been more efficient. Developmental timing therefore informs opportunity without automatically establishing irreversible outcomes.
 
-The critical-versus-sensitive distinction is therefore an evidence distinction as much as a conceptual one. The stronger the claim about irreversibility, the stronger and more specific the developmental evidence must be.
+The critical-versus-sensitive distinction is therefore an evidence distinction as much as a conceptual one. The stronger the claim about irreversibility, the stronger and more specific the developmental evidence must be. Critical-period terminology should be reserved for cases where evidence supports a relatively constrained window. Strong age differences alone are not sufficient.
 
 ---
 
@@ -1051,7 +1051,7 @@ Sensitive periods can be broad, overlapping, and dependent on the quality of exp
 
 The construct therefore supports a graded account of developmental timing. It should not be used to create universal age deadlines when the evidence instead supports increased responsiveness during a period.
 
-Sensitivity can vary continuously rather than switching on and off. This makes developmental timing a matter of degree and context, and it preserves the possibility of meaningful later learning.
+Sensitivity can vary continuously rather than switching on and off. This makes developmental timing a matter of degree and context, and it preserves the possibility of meaningful later learning. Sensitive-period claims can coexist with later learning. The concept is most useful when it specifies heightened responsiveness without implying that development becomes impossible afterward.
 
 ---
 
@@ -1138,7 +1138,7 @@ Plasticity is constrained by prior organization, biological development, resourc
 
 Plasticity also has no inherent direction. Adaptation to chronic adversity can be a form of plasticity without being beneficial in every later context. The developmental question is whether the change improves fit, functioning, or goal attainment under the relevant conditions.
 
-Plasticity should be evaluated by examining the target function, the conditions producing change, the durability of that change, and its transfer to other settings. A short-lived task effect is not equivalent to broad developmental transformation.
+Plasticity should be evaluated by examining the target function, the conditions producing change, the durability of that change, and its transfer to other settings. A short-lived task effect is not equivalent to broad developmental transformation. Plasticity is therefore a property of a developmental system under conditions, not a promise that any outcome can be produced through effort or intervention.
 
 ---
 
@@ -1219,7 +1219,7 @@ Cohort effects are especially important when interpreting long-term changes in e
 
 The effect is therefore not an alternative to development; it is one source of variation that must be separated from developmental change. Population, period, and cohort should be identified before broad age-based conclusions are generalized.
 
-Cohort interpretation is especially important when developmental conclusions span decades. Historical changes in education, technology, health, family life, and social norms can alter the baseline against which age differences are measured.
+Cohort interpretation is especially important when developmental conclusions span decades. Historical changes in education, technology, health, family life, and social norms can alter the baseline against which age differences are measured. Cohort effects can be especially large when historical conditions alter education, technology, health, or social roles. These effects must remain visible in long-term developmental comparisons.
 
 ---
 
@@ -1313,7 +1313,7 @@ Method choice should follow the claim. If the claim concerns prevalence at one p
 
 Developmental methodology also requires attention to measurement equivalence, attrition, practice effects, and changing context. A well-designed study does not merely collect data repeatedly; it collects measurements capable of representing the same construct across the developmental interval.
 
-The method must match the developmental claim. No single design should be treated as a universal solution because each design observes a different combination of time, person, context, and measurement.
+The method must match the developmental claim. No single design should be treated as a universal solution because each design observes a different combination of time, person, context, and measurement. Developmental methods also require attention to measurement invariance. A changing instrument can create the appearance of developmental change even when the underlying construct has not changed comparably.
 
 ---
 
@@ -1387,7 +1387,7 @@ Biological development can be described at several levels, from cellular and phy
 
 Biological development is therefore neither separate from psychology nor reducible to psychology. The two interact continuously. This boundary prevents the Topic from becoming a duplicate of neuroscience, genetics, medicine, or physiology while preserving its role in developmental organization.
 
-Biological development remains relevant across the lifespan. Maturation, maintenance, aging, health, and adaptation can alter the conditions under which psychological development occurs, while behavior and environment can feed back into biological functioning.
+Biological development remains relevant across the lifespan. Maturation, maintenance, aging, health, and adaptation can alter the conditions under which psychological development occurs, while behavior and environment can feed back into biological functioning. Biological development can also include adaptation and maintenance, not only growth. The relevant developmental process depends on the biological system and the life period being studied.
 
 ---
 
@@ -1457,7 +1457,7 @@ Motor development is strongly dependent on opportunities for action. Practice, o
 
 Motor development can also produce developmental cascades. Increased mobility changes exploration; exploration changes perceptual experience; new experience supports learning and social interaction. Later, changes in physical capacity can alter activity and social participation, showing that motor development remains relevant throughout life.
 
-Motor development can produce cascading changes because movement alters access to objects, people, and information. Later, changes in motor capacity can alter independence and participation, showing that motor development remains functionally important beyond childhood.
+Motor development can produce cascading changes because movement alters access to objects, people, and information. Later, changes in motor capacity can alter independence and participation, showing that motor development remains functionally important beyond childhood. Motor competence can influence confidence and participation, while participation provides practice and social feedback. Developmental effects can therefore run in both directions.
 
 ---
 
@@ -1527,7 +1527,7 @@ Perceptual development is shaped by both maturation and experience. Development 
 
 Perception also changes the developmental environment by altering what information is available for learning and interaction. In later life, sensory changes can increase cognitive demands because more effort may be required to extract information. Developmental interpretation should therefore consider the interaction between perceptual capacity and environmental design.
 
-Perceptual development is inseparable from the opportunities available for exploration and action. The developmental system is therefore not merely receiving sensory input; it is actively generating and selecting information through behavior.
+Perceptual development is inseparable from the opportunities available for exploration and action. The developmental system is therefore not merely receiving sensory input; it is actively generating and selecting information through behavior. Perceptual development is also affected by active exploration. The organism changes the information it receives by moving, attending, selecting objects, and interacting with people.
 
 ---
 
@@ -1600,7 +1600,7 @@ Cognitive development is best represented as a profile rather than a single scor
 
 Education, practice, language, social interaction, and accumulated expertise can support development. Biological maturation and aging can constrain some processes while leaving others relatively preserved. This multidimensionality is why cognitive development must be linked to specific cognitive constructs rather than treated as a single age curve.
 
-Cognitive development should be represented as a changing profile. General statements about being cognitively advanced or delayed can conceal important differences among knowledge, processing, memory, reasoning, and executive coordination.
+Cognitive development should be represented as a changing profile. General statements about being cognitively advanced or delayed can conceal important differences among knowledge, processing, memory, reasoning, and executive coordination. Cognitive development is therefore better represented as changing organization among capacities than as one general increase or decrease in ability.
 
 ---
 
@@ -1676,7 +1676,7 @@ Language development is also social and cultural. Children acquire language thro
 
 Later development includes pragmatic, narrative, occupational, and social uses of language. Language can continue to change through education and experience even after basic acquisition. The developmental Topic therefore covers the lifespan organization of language rather than only early vocabulary or grammar acquisition.
 
-Language remains developmental after basic acquisition. Education, occupational demands, multilingual experience, literacy, and social roles can continue to shape how language is used and organized across adulthood.
+Language remains developmental after basic acquisition. Education, occupational demands, multilingual experience, literacy, and social roles can continue to shape how language is used and organized across adulthood. Language development can continue through literacy, education, occupational specialization, and changing social roles, making it a lifespan process rather than a childhood-only phenomenon.
 
 ---
 
@@ -1749,7 +1749,7 @@ Emotional development should be interpreted as increasing coordination rather th
 
 Developmental evidence should distinguish emotional experience from observable expression. A person may experience an emotion without displaying it strongly, and outward control does not prove the absence of internal arousal. This distinction is important when comparing developmental periods or cultures.
 
-Developmental emotional change can involve greater differentiation, better communication, more flexible regulation, and changing relationships between emotion and goals. The person does not simply become less emotional. Emotional systems remain active while regulation and interpretation become more coordinated. Cultural expectations also shape which emotions are expressed openly and which are managed privately, so developmental comparisons should not assume that observable expression perfectly represents internal experience.
+Developmental emotional change can involve greater differentiation, better communication, more flexible regulation, and changing relationships between emotion and goals. The person does not simply become less emotional. Emotional systems remain active while regulation and interpretation become more coordinated. Cultural expectations also shape which emotions are expressed openly and which are managed privately, so developmental comparisons should not assume that observable expression perfectly represents internal experience. Emotional development remains plastic across the lifespan. New relationships, roles, health conditions, and cultural environments can alter how emotions are understood and regulated.
 
 ---
 
@@ -1825,7 +1825,7 @@ Social development is reciprocal. Children influence caregivers and peers, adole
 
 The Topic should not be interpreted as a measure of sociability alone. Development can involve becoming more selective, more reciprocal, or more capable of maintaining relationships across distance and conflict. Social development includes organization and quality of relationships, not simply quantity.
 
-Social development is partly a process of changing participation. Young children rely heavily on caregivers, school-age children expand peer relationships, adolescents negotiate autonomy and belonging, and adults coordinate partnership, work, family, and community roles. Social development therefore includes changing relationship structures and expectations. A smaller social network later in life can reflect selective investment rather than developmental failure, while a larger network does not automatically imply better functioning.
+Social development is partly a process of changing participation. Young children rely heavily on caregivers, school-age children expand peer relationships, adolescents negotiate autonomy and belonging, and adults coordinate partnership, work, family, and community roles. Social development therefore includes changing relationship structures and expectations. A smaller social network later in life can reflect selective investment rather than developmental failure, while a larger network does not automatically imply better functioning. Social development is also not equivalent to increasing social quantity. Selectivity, reciprocity, intimacy, conflict management, and role coordination are developmental dimensions in their own right.
 
 ---
 
@@ -1895,7 +1895,7 @@ Personality development demonstrates why stability and change must be represente
 
 Role transitions can provide repeated opportunities for new habits and expectations. Education, work, partnership, parenthood, and changing social responsibilities can all modify the environments in which personality tendencies are expressed. These influences do not imply that personality is infinitely malleable.
 
-Personality development is best represented as continuity plus transformation. A trait can remain recognizable while its average level or expression changes, and repeated roles can create environments in which different tendencies are reinforced. Developmental claims should distinguish mean-level change from rank-order continuity and should avoid treating one age-period finding as a universal sequence.
+Personality development is best represented as continuity plus transformation. A trait can remain recognizable while its average level or expression changes, and repeated roles can create environments in which different tendencies are reinforced. Developmental claims should distinguish mean-level change from rank-order continuity and should avoid treating one age-period finding as a universal sequence. Personality development should therefore be described with both stability and change metrics. A single trait score at two ages cannot capture every form of developmental transformation.
 
 ---
 
@@ -1968,7 +1968,7 @@ Moral development is influenced by both reasoning and social practice. People le
 
 Moral knowledge and moral behavior can diverge. A person can understand a rule without following it in a particular situation because motivation, emotion, social pressure, or opportunity changes the behavioral outcome. Developmental accounts should therefore distinguish moral reasoning from moral action.
 
-Moral development involves coordination among understanding, emotion, motivation, identity, and behavior. Development in one component does not guarantee equivalent development in another. Social experience provides opportunities to negotiate rules, understand consequences, recognize perspectives, and integrate values into action. Cultural systems also organize which moral problems are emphasized and how obligations are interpreted.
+Moral development involves coordination among understanding, emotion, motivation, identity, and behavior. Development in one component does not guarantee equivalent development in another. Social experience provides opportunities to negotiate rules, understand consequences, recognize perspectives, and integrate values into action. Cultural systems also organize which moral problems are emphasized and how obligations are interpreted. Moral development can also involve changing relationships between values and identity. A moral principle may become personally central without guaranteeing consistent behavior in every situation.
 
 ---
 
@@ -2038,7 +2038,7 @@ Self development is partly a process of increasing differentiation and integrati
 
 Social feedback contributes to self-knowledge, but feedback can be inconsistent or biased. Developmental self-understanding should therefore be treated as an evolving representation rather than a direct readout of objective characteristics.
 
-Self development includes both differentiation and integration. People can acquire more categories for describing themselves while also organizing those categories into a coherent narrative. Self-knowledge remains partly dependent on memory, language, social feedback, and context, so greater complexity does not automatically mean greater accuracy. Developmental research should distinguish changes in self-description from changes in the underlying characteristics being described.
+Self development includes both differentiation and integration. People can acquire more categories for describing themselves while also organizing those categories into a coherent narrative. Self-knowledge remains partly dependent on memory, language, social feedback, and context, so greater complexity does not automatically mean greater accuracy. Developmental research should distinguish changes in self-description from changes in the underlying characteristics being described. Self-development is influenced by changing social mirrors. As roles and relationships change, different aspects of self can become more salient, producing reorganization without requiring loss of identity coherence.
 
 ---
 
@@ -2111,7 +2111,7 @@ Identity development is often domain-specific and revisable. Occupational, relat
 
 Major transitions can reopen identity questions because they change available roles and future possibilities. This does not mean identity is unstable by definition. Reconsideration can be part of coherent development when new information requires an existing commitment to be revised or integrated.
 
-Identity development can be reopened by transitions without implying pathological instability. Education, work, migration, relationships, parenthood, and changing cultural contexts can create new demands for integration. Exploration can therefore continue beyond adolescence. A developmental account should identify the domain, the available alternatives, the degree of commitment, and the social conditions shaping the person's options.
+Identity development can be reopened by transitions without implying pathological instability. Education, work, migration, relationships, parenthood, and changing cultural contexts can create new demands for integration. Exploration can therefore continue beyond adolescence. A developmental account should identify the domain, the available alternatives, the degree of commitment, and the social conditions shaping the person's options. Identity development is therefore partly a process of integrating changing possibilities with continuity of values, relationships, and autobiographical meaning.
 
 ---
 
@@ -2187,7 +2187,7 @@ Executive-function development depends on both internal capacity and task struct
 
 Executive functions also interact with learning and regulation. Better control can support practice and goal maintenance, while repeated practice can reduce control demands as skills become more automatic. Development is consequently reciprocal rather than a one-way increase in control.
 
-Executive-function development is affected by both maturation and repeated practice. Tasks that initially require substantial conscious control can become more efficient with experience, changing the apparent demand on executive resources. Conversely, emotional arousal, sleep loss, stress, or complex social conditions can temporarily reduce performance. Developmental competence should therefore be distinguished from performance under one constrained condition.
+Executive-function development is affected by both maturation and repeated practice. Tasks that initially require substantial conscious control can become more efficient with experience, changing the apparent demand on executive resources. Conversely, emotional arousal, sleep loss, stress, or complex social conditions can temporarily reduce performance. Developmental competence should therefore be distinguished from performance under one constrained condition. Executive development should be interpreted under realistic demands. Laboratory control and everyday self-regulation can overlap without being identical, so ecological context matters.
 
 ---
 
@@ -2260,7 +2260,7 @@ Emotion-regulation development includes both internal and interpersonal regulati
 
 Regulation should not be evaluated by emotional intensity alone. Strong emotion can be appropriate, and suppression can sometimes produce costs. Developmental competence concerns flexible coordination between emotional demands, goals, relationships, and context.
 
-Emotion-regulation development includes learning when and how different strategies are useful. Reappraisal, attention shifting, problem solving, communication, support seeking, situation selection, and acceptance can each have different functions. The developmental goal is not maximal control but flexible coordination between emotion, context, relationships, and goals. A strategy that works in one setting may be ineffective or costly in another.
+Emotion-regulation development includes learning when and how different strategies are useful. Reappraisal, attention shifting, problem solving, communication, support seeking, situation selection, and acceptance can each have different functions. The developmental goal is not maximal control but flexible coordination between emotion, context, relationships, and goals. A strategy that works in one setting may be ineffective or costly in another. Regulation also includes changing the situation itself. Development can involve becoming better at choosing environments that reduce unnecessary regulatory demands.
 
 ---
 
@@ -2330,7 +2330,7 @@ Social cognition develops through repeated opportunities to interpret people and
 
 Development remains context-sensitive. People can understand another person's perspective in one situation and fail to apply that understanding in another because of emotion, motivation, group identity, or limited information. Social-cognitive development therefore concerns capacities and their use, not a permanent state of perfect understanding.
 
-Social-cognitive development involves increasingly complex coordination of information about people and situations. Language, executive control, experience, and repeated interaction can support this development, but social cognition remains context-sensitive. Motivation and group identity can alter which information is attended to or how another person's behavior is interpreted. Development therefore concerns both capacity and application.
+Social-cognitive development involves increasingly complex coordination of information about people and situations. Language, executive control, experience, and repeated interaction can support this development, but social cognition remains context-sensitive. Motivation and group identity can alter which information is attended to or how another person's behavior is interpreted. Development therefore concerns both capacity and application. Social cognition can be accurate in one domain and biased in another. Development therefore concerns flexible use of social information rather than universal accuracy.
 
 ---
 
@@ -2403,7 +2403,7 @@ Theory of mind tasks are informative but narrow. Performance depends partly on l
 
 Theory of mind also continues to develop in complexity as people encounter deception, conflicting beliefs, social conventions, and more complex interpersonal contexts. It remains one component of social cognition rather than its endpoint.
 
-Theory of mind is a specific developmental capacity within broader social cognition. Performance can be affected by language, memory, inhibition, and task demands, so a single task should not be interpreted as a complete developmental profile. Later social understanding can involve more complex perspective coordination, conflicting beliefs, social conventions, and strategic interpretation.
+Theory of mind is a specific developmental capacity within broader social cognition. Performance can be affected by language, memory, inhibition, and task demands, so a single task should not be interpreted as a complete developmental profile. Later social understanding can involve more complex perspective coordination, conflicting beliefs, social conventions, and strategic interpretation. Theory of mind becomes more complex when people must coordinate several perspectives, conflicting beliefs, social conventions, and strategic intentions rather than only one person's false belief.
 
 ---
 
@@ -2473,7 +2473,7 @@ Prenatal development is especially sensitive to timing because different biologi
 
 Prenatal development also illustrates why developmental science distinguishes risk from destiny. A prenatal risk factor can alter probability without determining an individual's later functioning. Postnatal environments, health, relationships, and opportunities can subsequently influence the trajectory.
 
-Prenatal development demonstrates why developmental timing matters. Biological systems do not all form or mature simultaneously, so the effect of an exposure depends on timing, intensity, duration, and pathway. Prenatal risk should remain probabilistic rather than deterministic because later environments can alter developmental trajectories. The developmental significance of prenatal conditions is therefore best understood through mechanisms and longitudinal outcomes rather than labels alone.
+Prenatal development demonstrates why developmental timing matters. Biological systems do not all form or mature simultaneously, so the effect of an exposure depends on timing, intensity, duration, and pathway. Prenatal risk should remain probabilistic rather than deterministic because later environments can alter developmental trajectories. The developmental significance of prenatal conditions is therefore best understood through mechanisms and longitudinal outcomes rather than labels alone. Prenatal development is therefore a foundational period but not a complete explanation of later development. Postnatal environments remain capable of modifying trajectories.
 
 ---
 
