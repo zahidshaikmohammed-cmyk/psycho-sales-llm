@@ -1521,3 +1521,60 @@ Negative outgroup evaluation to Prejudice and harmful or unequal treatment to Di
 ### Topic-specific evidence layer
 
 A rigorous measure compares treatment of ingroup and outgroup members under comparable conditions. Evidence should specify whether the outcome is evaluation, allocation, trust, cooperation, or another behavior. Favoritism should not be inferred from ingroup cohesion alone, and unequal outcomes can have causes other than group preference.
+
+
+---
+
+# 26. c`QU]GKPAJITOGRKLANEITY
+
+## 1. Purpose
+
+This Topic explains a systematic difference in perceived variability between members of a relevant outside category and members of one's own category.
+
+## 2. Definition
+
+The phenomenon is a tendency to perceive members of an outside category as more similar to one another than members of one's own category.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+The construct concerns perceived variability, not necessarily actual variability. An observer may know that members of an outside category differ while still encode fewer individuating distinctions among them.
+
+### Mechanism
+
+Differences in experience and attention can contribute. People often possess richer individuating knowledge about members of their own category because of greater interaction and familiarity. Category-level processing can also make shared features more accessible for less familiar targets.
+
+### Moderators / Boundary Conditions
+
+Effects depend on familiarity, contact, category importance, task demands, social structure, and the dimension being judged. The same observer can perceive substantial diversity on one attribute and reduced diversity on another.
+
+### Evidence Status
+
+Research supports systematic differences in perceived variability under many conditions while also showing that individuating information and meaningful contact can reduce the effect.
+
+## 4. Relationship to This Chapter
+
+This Topic is a social-cognitive consequence of categorization and can contribute to generalized expectations by reducing attention to individual differences.
+
+## 5. Boundaries
+
+### Owns
+
+Perceived similarity and reduced differentiation among members of a relevant outside category.
+
+### Defers
+
+Generalized group beliefs and evaluative responses to their dedicated Topics.
+
+## 6. Key Principles
+
+- Perceived homogeneity concerns variability judgments.
+- Familiarity can increase individuation.
+- Category salience affects attention to differences.
+- The effect is dimension- and context-specific.
+- Perceived homogeneity need not reflect actual homogeneity.
+
+### Topic-specific evidence layer
+
+Evidence should distinguish perceived from objective variability and specify the judged dimension. A category may show little variation on one feature while remaining highly diverse on another. Studies comparing observer estimates with independent criteria are therefore essential.
