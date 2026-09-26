@@ -320,3 +320,307 @@ Halo effect and horn effect to their dedicated Topics, attribution processes to 
 
 Evidence on impression formation should distinguish immediate evaluation from durable representation. A rapid response may show that information affected an observer's judgment, but it does not by itself demonstrate that a stable person model was formed. Sequential-information paradigms are useful for examining updating, while criterion-based studies can examine whether impressions predict later behavior. Information-order effects should also be interpreted carefully because order can alter attention, interpretation, memory, or perceived diagnosticity. The most defensible account therefore treats impressions as structured but revisable representations whose formation depends on information, context, goals, and prior knowledge.
 
+
+
+---
+
+# 6. Attribution
+
+## 1. Purpose
+
+Attribution addresses how people explain why behavior or events occurred, especially how observers connect actions with characteristics of people, situations, intentions, and circumstances.
+
+## 2. Definition
+
+Attribution is the process of inferring causes for behavior, events, or outcomes.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Attributions can concern a person's characteristics, intentions, effort, ability, temporary state, environmental conditions, social pressures, chance, or combinations of causes. The distinction between internal and external attribution is useful, but real explanations can contain multiple interacting causes.
+
+### Mechanism
+
+Observers use available behavioral and contextual information to construct causal explanations. They consider what happened, who acted, what alternatives were available, what preceded the event, and what consequences followed. Attribution is therefore inferential rather than a direct perception of causality.
+
+Causal explanations can guide prediction and action. If an outcome is attributed to a stable characteristic, a person may expect similar outcomes in other contexts. If it is attributed to circumstances, the observer may expect the outcome to change when circumstances change.
+
+### Moderators / Boundary Conditions
+
+Attribution is affected by information availability, attention, motivation, uncertainty, relationship history, cultural learning, accountability, and the observer's own involvement in the event. Explanations may also differ depending on whether the observer is evaluating another person's behavior or explaining their own.
+
+### Evidence Status
+
+Attribution research supports systematic patterns in causal explanation, while also showing that attribution depends strongly on information and context. Classic attribution principles are useful organizing models but should not be treated as universal algorithms that every person applies identically.
+
+### Consequences of attribution
+
+Causal explanations can affect emotion, expectations, responsibility judgments, and subsequent behavior. The same outcome can lead to different responses depending on whether it is interpreted as controllable, intentional, accidental, temporary, or stable.
+
+## 4. Relationship to This Chapter
+
+Attribution is the umbrella Topic for causal explanation in social judgment. Internal attribution, external attribution, attribution bias, and the fundamental attribution error provide more specific Topics.
+
+## 5. Boundaries
+
+### Owns
+
+General social-psychological causal explanation of behavior and events.
+
+### Defers
+
+General causal inference and scientific methodology to their canonical owners, while retaining the social-psychological study of everyday causal explanation.
+
+## 6. Key Principles
+
+- Attribution concerns inferred causes rather than observed behavior alone.
+- Causes can be internal, external, or interactive.
+- Information and context influence causal explanation.
+- Attributions affect prediction, responsibility, emotion, and behavior.
+- Attribution patterns are systematic but not universally fixed.
+
+### Topic-specific evidence layer
+
+Attribution evidence should distinguish a person's stated explanation from the actual causal structure of an event. People can construct plausible explanations using incomplete information, and a coherent explanation is not automatically a verified cause. Studies of attribution are therefore strongest when they manipulate information about situational constraints, alternatives, intentions, or consequences and examine how explanations change. Attribution should also be separated from moral judgment: deciding why something happened and deciding whether the action was acceptable are related but distinct processes.
+
+---
+
+# 7. Internal attribution
+
+## 1. Purpose
+
+Internal attribution specifies causal explanations that locate an outcome primarily in characteristics, intentions, dispositions, abilities, effort, or other properties of the person.
+
+## 2. Definition
+
+Internal attribution is the inference that behavior or an outcome is substantially caused by properties of the individual who performed the behavior.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Internal explanations can refer to relatively stable characteristics such as ability or disposition, or to more temporary internal states such as effort, intention, emotion, or motivation. Treating all internal causes as stable traits therefore creates an unnecessary simplification.
+
+### Mechanism
+
+Observers are more likely to construct internal explanations when behavior appears consistent with the person's characteristics, when situational alternatives seem weak, or when the behavior is perceived as informative about the person. Attention to the actor can also make person-level information more salient than background circumstances.
+
+### Moderators / Boundary Conditions
+
+Internal attribution depends on available contextual information. Strong situational constraints can reduce the diagnostic value of behavior for judging the person. A person's action under coercion, unusual incentives, or restricted alternatives provides different information about personal characteristics than freely chosen behavior.
+
+### Evidence Status
+
+Research supports systematic sensitivity to information about choice, consistency, distinctiveness, consensus, and situational constraint, while also showing that people do not always process all such information fully. Attributional tendencies can therefore vary with attention, cognitive resources, motivation, and context.
+
+### Consequences
+
+Internal attributions can influence judgments of responsibility, predictability, trust, competence, and future behavior. They can also shape interpersonal responses when observers treat a situationally produced behavior as evidence of a stable personal quality.
+
+## 4. Relationship to This Chapter
+
+Internal attribution is one of the two major directional forms of attribution in this chapter. It connects directly with attribution bias and the fundamental attribution error.
+
+## 5. Boundaries
+
+### Owns
+
+The social-psychological concept of attributing behavior primarily to person-level causes.
+
+### Defers
+
+General personality traits and ability constructs to their canonical owners.
+
+## 6. Key Principles
+
+- Internal attribution locates causal weight in the person.
+- Internal does not necessarily mean permanent.
+- Situational constraints alter the diagnostic value of behavior.
+- Internal explanations can affect responsibility and prediction.
+- Person-level explanations should be distinguished from verified causal mechanisms.
+
+### Topic-specific evidence layer
+
+The evidentiary question is not simply whether an observer made an internal attribution but whether the available information justified treating the behavior as person-diagnostic. Experimental work can vary choice, constraint, incentives, and contextual information to test this distinction. Internal attribution is particularly informative when behavior occurs across conditions or when alternative situational explanations are weak. It is less informative when behavior is tightly constrained by the environment.
+
+---
+
+# 8. External attribution
+
+## 1. Purpose
+
+External attribution specifies causal explanations that locate an outcome primarily in environmental conditions, social circumstances, situational pressures, or other factors outside the actor.
+
+## 2. Definition
+
+External attribution is the inference that behavior or an outcome is substantially caused by situational, environmental, interpersonal, or contextual factors.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+External explanations can include immediate circumstances, social norms, role demands, incentives, resource constraints, chance events, environmental difficulty, and the behavior of other people. External does not necessarily mean random; many situational causes are structured and predictable.
+
+### Mechanism
+
+Observers construct external explanations when contextual information is salient, when situational constraints are strong, or when the behavior changes substantially across environments. Understanding the alternatives available to an actor can make situational causes more informative.
+
+### Moderators / Boundary Conditions
+
+External attribution is influenced by attention to context, familiarity with the situation, observer perspective, cultural learning, information about constraints, and the complexity of the event. Situational explanations can also be overextended if they ignore stable individual differences that remain relevant across contexts.
+
+### Evidence Status
+
+Research supports the importance of contextual information in causal explanation. It also shows that observers differ in the amount of situational information they use and in the conditions under which they revise person-centered explanations.
+
+### Consequences
+
+External attributions can reduce or shift perceived personal responsibility, alter expectations about future behavior, and change willingness to modify the environment rather than the individual. They can therefore influence intervention choices as well as social judgment.
+
+## 4. Relationship to This Chapter
+
+External attribution complements internal attribution and forms part of the chapter's broader treatment of causal explanation and attribution bias.
+
+## 5. Boundaries
+
+### Owns
+
+The social-psychological process of explaining behavior through situational or contextual causes.
+
+### Defers
+
+General environmental psychology, sociology, and causal inference methods when the question moves beyond social attribution.
+
+## 6. Key Principles
+
+- External attribution emphasizes situational or contextual causes.
+- Situational causes can be structured and predictable.
+- Context can change the meaning and diagnostic value of behavior.
+- External explanations are not automatically more accurate than internal ones.
+- Good causal explanation can include interacting person and situation factors.
+
+### Topic-specific evidence layer
+
+External-attribution evidence should establish what contextual information was available and whether the situation actually constrained the actor's alternatives. Merely describing a context does not demonstrate that it caused behavior. Stronger designs manipulate or measure situational conditions and examine whether behavior changes accordingly. The most defensible social-psychological account treats person and situation information as potentially complementary rather than assuming that one category must explain every outcome.
+
+---
+
+# 9. Attribution bias
+
+## 1. Purpose
+
+Attribution bias addresses systematic departures in causal explanation, including tendencies to weight certain causes more heavily than the available evidence warrants.
+
+## 2. Definition
+
+Attribution bias is a systematic tendency for causal explanations of behavior or events to be influenced by factors that can produce predictable distortions relative to an appropriate evidential standard.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Attribution biases can arise from attention, information asymmetry, prior beliefs, social identity, motivational goals, cognitive shortcuts, memory limitations, or differences between observer and actor perspectives. Bias does not imply that every attribution is wrong; it refers to a systematic pattern in how evidence is interpreted or weighted.
+
+### Mechanism
+
+A person may focus on the actor because the actor is visually or psychologically salient, overlook background constraints, interpret ambiguous information through an existing belief, or use different standards when explaining one's own behavior. These processes can shift causal weight even when relevant contextual information exists.
+
+### Moderators / Boundary Conditions
+
+Attribution biases vary with cognitive resources, motivation, accountability, information availability, relationship history, cultural context, and the structure of the task. A tendency observed under time pressure may be reduced when observers are given time and relevant information.
+
+### Evidence Status
+
+Attribution-bias research contains well-established conceptual patterns alongside findings whose size and generality depend on task and population. A bias should therefore be specified as a tendency under particular conditions rather than as a permanent defect in human reasoning.
+
+### Consequences
+
+Attribution bias can influence responsibility judgments, interpersonal conflict, expectations, trust, and decisions about whether a problem should be addressed by changing a person or changing circumstances.
+
+## 4. Relationship to This Chapter
+
+Attribution bias is the general Topic for systematic distortion in causal explanation. The fundamental attribution error is a more specific and historically important form involving the weighting of dispositional explanations for others' behavior.
+
+## 5. Boundaries
+
+### Owns
+
+Systematic bias in social causal attribution.
+
+### Defers
+
+General cognitive biases to their canonical owners when the mechanism is not specifically about social causal explanation.
+
+## 6. Key Principles
+
+- Bias is a systematic tendency, not proof that every judgment is false.
+- Attribution bias depends on information and context.
+- Attention and prior beliefs can shape causal explanation.
+- Accountability and additional information can sometimes reduce bias.
+- Different attribution biases should not be treated as interchangeable.
+
+### Topic-specific evidence layer
+
+Evidence for attribution bias requires an explicit standard against which the judgment is considered biased. Agreement with another observer is insufficient if both observers lack access to the true causal information. Experimental studies are strongest when they vary situational information, observer perspective, accountability, or processing conditions and test predictable changes in attribution. Claims about universality should be avoided unless supported across populations and contexts.
+
+---
+
+# 10. Fundamental attribution error
+
+## 1. Purpose
+
+The fundamental attribution error addresses the tendency, in certain circumstances, to place disproportionate causal weight on personal or dispositional explanations when explaining other people's behavior while underweighting situational influences.
+
+## 2. Definition
+
+The fundamental attribution error is a social-psychological tendency for observers to overemphasize dispositional explanations and underemphasize situational explanations when interpreting others' behavior, particularly under conditions in which situational constraints are insufficiently considered.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+The phenomenon concerns attributional weighting rather than the simple existence of a personality judgment. An observer may correctly recognize a person's characteristics while still giving those characteristics too much causal weight relative to the situation.
+
+### Mechanism
+
+Attention to an actor can make the person psychologically salient while contextual constraints remain less prominent. If observers focus primarily on the visible behavior and actor, they may construct a dispositional explanation before fully incorporating situational information.
+
+### Moderators / Boundary Conditions
+
+The effect depends on how constrained the behavior is, what contextual information is available, the observer's attention and processing resources, familiarity with the situation, motivation, and cultural or social context. When strong situational information is salient and diagnostic, dispositional weighting can be reduced.
+
+### Evidence Status
+
+The concept is historically important in social psychology, but its magnitude and universality depend on the paradigm and context. It should not be represented as an invariant human error occurring in every judgment of another person's behavior.
+
+### Distinguishing attribution from accuracy
+
+A dispositional explanation can be correct even when a situational factor also matters. The key issue is relative causal weighting. The error is therefore not equivalent to “thinking about personality” but to systematically underweighting relevant situational causes when explaining another person's behavior.
+
+## 4. Relationship to This Chapter
+
+This Topic is a specific attribution bias within the broader attribution cluster. It should be retrieved when the question concerns dispositional weighting in explanations of others' behavior.
+
+## 5. Boundaries
+
+### Owns
+
+The specific social-psychological phenomenon concerning disproportionate dispositional attribution for others under relevant situational conditions.
+
+### Defers
+
+General attribution, internal attribution, external attribution, and broader cognitive-bias mechanisms to their dedicated Topics.
+
+## 6. Key Principles
+
+- The phenomenon concerns relative causal weighting.
+- It is directed specifically toward explanations of others' behavior.
+- Situational information can reduce dispositional overemphasis.
+- The effect is conditional rather than an absolute rule.
+- Thinking about dispositions is not itself an attribution error.
+
+### Topic-specific evidence layer
+
+Evidence should specify the strength and visibility of situational constraints before concluding that a dispositional attribution represents the fundamental attribution error. Modern interpretation benefits from separating the original conceptual claim from broader claims that people universally ignore situations. Observer attention, information order, accountability, cultural context, and task structure can alter the balance between dispositional and situational explanations. The phenomenon is most precisely represented as a conditional attributional tendency whose diagnostic value depends on the causal information available to the observer.
+
