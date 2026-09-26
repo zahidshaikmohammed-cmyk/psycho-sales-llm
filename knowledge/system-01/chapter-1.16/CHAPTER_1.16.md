@@ -3618,3 +3618,285 @@ General attachment, attachment security/insecurity, and attachment development t
 ### Topic-specific evidence layer
 
 Evidence should separate relationship-specific behavior from broad attachment dispositions. A person can behave securely in one relationship and differently in another because partner behavior, stress, history, and context vary.
+
+
+---
+
+# 67. Love
+
+## 1. Purpose
+
+Love addresses strong positive relational experience involving affection, attachment, care, intimacy, passion, or commitment.
+
+## 2. Definition
+
+Love is a multidimensional relational state or orientation involving combinations of affection, care, intimacy, attachment, passion, and commitment depending on relationship and context.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Love is not a single uniform state. Different forms can emphasize passion, companionship, caregiving, intimacy, commitment, or enduring attachment.
+
+### Mechanism
+
+Positive interaction, mutual responsiveness, attachment, reward, shared experiences, and commitment can contribute to loving relationships. Love can also alter attention and interpretation of a partner's behavior.
+
+### Moderators / Boundary Conditions
+
+Relationship duration, culture, goals, stress, reciprocity, partner responsiveness, and life circumstances affect how love is experienced and expressed.
+
+### Evidence Status
+
+Research supports multidimensional models of love, but component structures vary across theories and measurement systems.
+
+## 4. Relationship to This Chapter
+
+Love connects attraction, intimacy, adult attachment, commitment, and relationship maintenance.
+
+## 5. Boundaries
+
+### Owns
+
+General social-psychological treatment of love as a relational phenomenon.
+
+### Defers
+
+General emotion and developmental attachment to their canonical owners.
+
+## 6. Key Principles
+
+- Love is multidimensional.
+- Romantic and nonromantic forms can differ.
+- Intimacy and commitment are related but distinct.
+- Relationship context changes expression.
+- Love does not guarantee relationship stability.
+
+### Topic-specific evidence layer
+
+Evidence should specify which form or component of love is being measured. A single global rating can hide important differences between passion, intimacy, care, and commitment.
+
+---
+
+# 68. Commitment
+
+## 1. Purpose
+
+Commitment addresses the intention and motivation to maintain an ongoing relationship or course of relational investment.
+
+## 2. Definition
+
+Commitment is the degree to which a person intends to persist in a relationship and maintain investment in it over time.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Commitment can involve intention to remain, psychological attachment, investment, perceived alternatives, moral or social obligations, and expectations about the future.
+
+### Mechanism
+
+Investment in shared resources, positive relationship experiences, low perceived alternatives, identity integration, and expectations of future value can support persistence.
+
+### Moderators / Boundary Conditions
+
+Relationship quality, alternatives, investments, norms, dependence, stress, conflict, and perceived fairness affect commitment.
+
+### Evidence Status
+
+Commitment is associated with relationship persistence, but persistence alone does not prove satisfaction or positive relationship quality.
+
+## 4. Relationship to This Chapter
+
+Commitment connects love, interdependence, social exchange, equity, maintenance, and dissolution.
+
+## 5. Boundaries
+
+### Owns
+
+Relational intention and investment in continuation.
+
+### Defers
+
+General motivation and decision-making to their canonical owners.
+
+## 6. Key Principles
+
+- Commitment involves future-oriented persistence.
+- Investment and alternatives matter.
+- Commitment is not identical to satisfaction.
+- Relationships can persist for multiple reasons.
+- Commitment can change over time.
+
+### Topic-specific evidence layer
+
+Evidence should separate stated commitment from actual persistence and identify whether persistence reflects investment, satisfaction, obligation, dependence, or limited alternatives. Longitudinal designs are especially useful for testing whether commitment predicts later relationship outcomes.
+
+---
+
+# 69. Relationship maintenance
+
+## 1. Purpose
+
+Relationship maintenance addresses behaviors and processes that preserve relationship quality, stability, responsiveness, and coordination over time.
+
+## 2. Definition
+
+Relationship maintenance is the set of interpersonal processes through which partners preserve, repair, and support an ongoing relationship.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Maintenance can involve communication, responsiveness, support, appreciation, conflict management, shared activities, reassurance, accommodation, and investment.
+
+### Mechanism
+
+Maintenance works by sustaining positive interaction, repairing disruptions, clarifying expectations, and reinforcing commitment and trust.
+
+### Moderators / Boundary Conditions
+
+Relationship history, stress, conflict, resources, partner responsiveness, commitment, communication patterns, and external demands affect maintenance.
+
+### Evidence Status
+
+Maintenance processes predict relationship quality and stability, but effective strategies depend on relationship type and context.
+
+## 4. Relationship to This Chapter
+
+Maintenance connects commitment, trust, intimacy, conflict, cooperation, equity, and dissolution.
+
+## 5. Boundaries
+
+### Owns
+
+Processes that preserve ongoing relationships.
+
+### Defers
+
+General communication and emotion regulation to their canonical owners.
+
+## 6. Key Principles
+
+- Maintenance is ongoing rather than a single event.
+- Responsiveness matters.
+- Repair is part of maintenance.
+- Context determines which behaviors are effective.
+- Maintenance can preserve relationships without eliminating conflict.
+
+### Topic-specific evidence layer
+
+Evidence should examine patterns over time rather than isolated supportive acts. Longitudinal measures can distinguish durable maintenance from temporary improvement after a conflict.
+
+---
+
+# 70. Relationship dissolution
+
+## 1. Purpose
+
+Relationship dissolution addresses processes through which an ongoing interpersonal relationship ends or substantially transitions.
+
+## 2. Definition
+
+Relationship dissolution is the process through which partners terminate an established relationship or shift it into a substantially different relational form.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Dissolution can be unilateral or mutual, gradual or abrupt, emotionally distressing or relatively calm, and complete or followed by continued contact.
+
+### Mechanism
+
+Dissolution can follow persistent conflict, low satisfaction, changing goals, perceived alternatives, loss of trust, incompatible expectations, or major contextual change.
+
+### Moderators / Boundary Conditions
+
+Commitment, interdependence, alternatives, social norms, resources, children, shared networks, conflict, and practical constraints affect dissolution.
+
+### Evidence Status
+
+Relationship dissolution is heterogeneous. Ending a relationship does not have one psychological meaning or one causal pathway.
+
+## 4. Relationship to This Chapter
+
+Dissolution connects commitment, satisfaction, conflict, equity, trust, and interdependence.
+
+## 5. Boundaries
+
+### Owns
+
+Social-psychological processes surrounding the ending of interpersonal relationships.
+
+### Defers
+
+Clinical consequences of severe relationship loss to relevant clinical owners.
+
+## 6. Key Principles
+
+- Dissolution can be gradual or abrupt.
+- Multiple causes can contribute.
+- Practical constraints affect timing.
+- Continued contact does not necessarily mean the relationship remains unchanged.
+- Dissolution can alter wider social networks.
+
+### Topic-specific evidence layer
+
+Longitudinal evidence is important because relationship decline often precedes formal dissolution. Studies should distinguish the decision to end, behavioral separation, and longer-term reorganization of the relationship.
+
+---
+
+# 71. Social exchange
+
+## 1. Purpose
+
+Social exchange addresses interpersonal relationships in terms of perceived rewards, costs, reciprocity, dependence, and outcomes.
+
+## 2. Definition
+
+Social exchange is a framework for understanding relationships through patterns of interdependent rewards, costs, investments, and expected outcomes.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Rewards can include affection, support, information, resources, and companionship. Costs can include effort, conflict, time, uncertainty, or opportunity loss. Outcomes are interpreted relative to expectations and alternatives.
+
+### Mechanism
+
+People evaluate relationships partly through experienced outcomes and comparisons. Exchange is not necessarily conscious accounting; expectations and relationship norms can shape evaluation without explicit calculation.
+
+### Moderators / Boundary Conditions
+
+Relationship type, cultural norms, dependence, alternatives, investment, fairness expectations, and time affect exchange processes.
+
+### Evidence Status
+
+Exchange perspectives explain many relationship patterns but do not capture every relational motive. Care, identity, commitment, and moral norms can operate beyond immediate reward-cost calculation.
+
+## 4. Relationship to This Chapter
+
+Social exchange connects equity, interdependence, reciprocity, commitment, and relationship maintenance.
+
+## 5. Boundaries
+
+### Owns
+
+Interpersonal exchange processes involving outcomes, costs, rewards, and alternatives.
+
+### Defers
+
+General economic decision models to Chapter 1.10.
+
+## 6. Key Principles
+
+- Relationships involve interdependent outcomes.
+- People use comparison standards.
+- Exchange need not be consciously calculated.
+- Care and identity can exceed immediate exchange.
+- Dependence changes exchange dynamics.
+
+### Topic-specific evidence layer
+
+Evidence should distinguish actual outcomes from perceived outcomes because relational evaluation depends partly on interpretation. Longitudinal designs can examine how repeated exchanges alter expectations, dependence, and commitment.
+
