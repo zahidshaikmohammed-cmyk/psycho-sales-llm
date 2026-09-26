@@ -3083,6 +3083,12 @@ Specific biological aging mechanisms to Chapter 1.3 and cognitive/socioemotional
 - Aging is not synonymous with decline.
 - Individual trajectories vary substantially.
 
+
+### Topic-specific evidence layer
+
+Aging should be interpreted as a trajectory of interacting biological, psychological, and social processes. Chronological age is only a coordinate; health, education, occupation, relationships, activity, resources, and historical context alter the trajectory. This is why people of the same age can differ substantially in functioning. Developmental aging also includes adaptation: people can change goals, strategies, environments, and routines to preserve important functions. Evidence should distinguish normative age-related change from disease, temporary state effects, and cohort differences. The central developmental question is not simply whether functioning declines, but which functions change, which remain stable, which improve through accumulated experience, and which can be supported through compensation.
+
+
 # 42. Cognitive aging
 
 ## 1. Purpose
@@ -3142,6 +3148,12 @@ General cognition and memory to Chapters 1.8–1.11; clinical disorders to Chapt
 - Knowledge can remain strong while some processing abilities decline.
 - Normal aging is not equivalent to dementia.
 
+
+### Topic-specific evidence layer
+
+Cognitive aging requires domain-specific interpretation. A slowing on a timed task does not establish global cognitive deterioration, just as preserved vocabulary does not establish preservation of every memory or executive process. Health, sensory function, education, occupational experience, motivation, and task demands can influence observed performance. Developmental evidence is strongest when multiple cognitive components are examined and when the design distinguishes age effects from cohort and measurement effects. Compensation also matters: people can use knowledge, routines, environmental supports, and alternative strategies to preserve everyday functioning even when a basic process becomes less efficient.
+
+
 # 43. Socioemotional aging
 
 ## 1. Purpose
@@ -3198,6 +3210,12 @@ General emotion to Chapter 1.13 and social relationships to Chapter 1.16.
 - Smaller networks do not automatically mean poorer social functioning.
 - Socioemotional aging is heterogeneous.
 
+
+### Topic-specific evidence layer
+
+Socioemotional aging is not adequately represented by a simple increase or decrease in emotionality. Social goals, perceived future time, relationship quality, health, loss, and cultural expectations can all alter emotional and social priorities. A smaller social network can reflect deliberate selection of meaningful relationships, reduced opportunity, bereavement, or some combination. Developmental interpretation should therefore examine the function and quality of relationships rather than infer isolation from network size alone. Emotional adaptation can coexist with distress, and later life should not be treated as uniformly more positive or uniformly more negative.
+
+
 # 44. Death and dying
 
 ## 1. Purpose
@@ -3253,6 +3271,12 @@ Grief and bereavement to Chapter 1.18 and clinical conditions to Chapter 1.19.
 - Responses to dying are highly variable.
 - Death understanding changes developmentally.
 - Stage models should not be treated as universal sequences.
+
+
+
+### Topic-specific evidence layer
+
+Developmental accounts of death and dying must preserve individual and cultural variation. Children's understanding of death becomes more differentiated as concepts of permanence, universality, and causation develop, while adults may reorganize goals and relationships when mortality becomes salient. Bereavement can alter identity, routines, social networks, and meaning. There is no single required sequence of emotional responses, and adaptation can coexist with continuing attachment to the person who died. The developmental focus is on reorganization over time rather than on assigning people to a fixed stage.
 
 
 # 45. Attachment
@@ -3318,6 +3342,12 @@ General social relationships to Chapter 1.16; personality to Chapter 1.14.
 - Early experience matters without rigidly determining later relationships.
 - Individual relationships can differ.
 
+
+### Topic-specific evidence layer
+
+Attachment remains developmental because the form of support-seeking changes with increasing autonomy and cognitive capacity. Early attachment is expressed strongly through proximity and caregiver regulation; later relationships can provide psychological availability, reciprocal support, and shared regulation. Attachment should not be used as a global measure of relationship quality or as a diagnosis. Developmental evidence concerns patterns of expectation and behavior within relationships and must be interpreted with attention to context, culture, measurement method, and the possibility of change.
+
+
 # 46. Attachment theory
 
 ## 1. Purpose
@@ -3374,6 +3404,12 @@ Attachment constructs to Topic 45 and general developmental theory to Topic 5.
 - Early caregiving is relevant but not destiny.
 - The framework has evolved through empirical research.
 
+
+### Topic-specific evidence layer
+
+Attachment theory is most useful when its propositions are separated from individual empirical findings. The theory provides concepts for security, exploration, internal expectations, and relational organization, while particular studies test particular operationalizations. Continuity from early relationships is possible, but continuity is probabilistic rather than deterministic. Later relationships, caregiving changes, major disruptions, and developmental maturation can alter attachment-related expectations. The theory therefore supports questions about developmental pathways without justifying claims that one early relationship permanently determines adult relationships.
+
+
 # 47. Attachment security
 
 ## 1. Purpose
@@ -3424,6 +3460,12 @@ General attachment theory to Topic 46 and insecurity to Topic 48.
 - Secure attachment supports both comfort and exploration.
 - Security can vary across relationships.
 
+
+### Topic-specific evidence layer
+
+Attachment security concerns the availability and usefulness of an attachment relationship under stress. Security can support exploration because the person can return to a trusted source of regulation when needed. Security does not mean constant calm, absence of conflict, or perfect caregiving. Developmental security is also relational: the same person can experience greater or lesser security across relationships and circumstances. Evidence should therefore avoid turning security into a fixed personality label and should distinguish relationship-specific observations from broad individual claims.
+
+
 # 48. Attachment insecurity
 
 ## 1. Purpose
@@ -3470,6 +3512,12 @@ Specific assessment procedures and adult relationship manifestations to relevant
 - Insecurity has multiple forms.
 - Insecurity is not itself a clinical disorder.
 - Attachment organization can change with experience.
+
+
+### Topic-specific evidence layer
+
+Attachment insecurity includes different organizational patterns and should not be reduced to one deficit. Heightened concern about abandonment and reduced reliance on others represent different strategies for managing attachment-related uncertainty. These strategies can be understandable adaptations to relational histories and can change when later environments change. Insecurity is not a clinical diagnosis, and its presence does not prove that a caregiver was harmful. Developmental interpretation should identify the relationship, context, measure, and time period involved.
+
 
 # 49. Attachment development
 
@@ -3524,6 +3572,12 @@ General attachment theory to Topic 46 and adult social relationships to Chapter 
 - Continuity and change coexist.
 - Later experiences can modify attachment-related patterns.
 
+
+### Topic-specific evidence layer
+
+Attachment development illustrates continuity and plasticity together. Early relationships can contribute to expectations about availability and support, while later relationships can provide new evidence and opportunities for reorganization. Development also changes the behavioral form of attachment as people gain autonomy and distribute support across caregivers, peers, partners, and other close relationships. Longitudinal evidence is therefore especially valuable because it can test continuity without treating early observations as permanent forecasts.
+
+
 # 50. Temperament development
 
 ## 1. Purpose
@@ -3568,6 +3622,12 @@ General temperament and personality constructs to Chapter 1.14 where applicable.
 - Temperament has biological influences.
 - Temperament is not destiny.
 - Context and development shape its expression.
+
+
+### Topic-specific evidence layer
+
+Temperament development is best understood through interaction with environment. Early differences in reactivity, activity, attention, and regulation can influence how people respond to demands and how others respond to them. The same characteristic can therefore produce different developmental outcomes under different conditions. Temperament contributes to later personality but does not determine it. Assessment should use multiple contexts and informants where possible because reports can differ according to which situations are observed. Developmental change can occur in expression and regulation even when a temperamental tendency shows continuity.
+
 
 # 51. Parenting processes
 
