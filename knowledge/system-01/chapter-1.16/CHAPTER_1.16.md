@@ -3337,3 +3337,284 @@ General mathematical network theory to methodological domains and specific healt
 ### Topic-specific evidence layer
 
 Longitudinal network data are particularly important because cross-sectional similarity cannot distinguish social influence from selection. Temporal ordering, network changes, and models of peer exposure can provide stronger evidence about transmission.
+
+
+---
+
+# 62. Interpersonal attraction
+
+## 1. Purpose
+
+Interpersonal attraction addresses positive evaluation and desire for social connection between people.
+
+## 2. Definition
+
+Interpersonal attraction is a positive evaluative orientation toward another person that increases interest in interaction, affiliation, or relationship formation.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Attraction can involve liking, physical attraction, perceived similarity, admiration, warmth, competence, familiarity, or anticipated relationship value. Different forms can occur independently.
+
+### Mechanism
+
+Repeated exposure, similarity, reciprocity, proximity, positive interaction, and rewarding experiences can increase attraction. Perceptions of responsiveness can be especially important in developing interpersonal interest.
+
+### Moderators / Boundary Conditions
+
+Culture, context, relationship goals, availability, similarity, familiarity, status, attractiveness, and individual preferences affect attraction.
+
+### Evidence Status
+
+Attraction research supports multiple determinants, but no single characteristic universally predicts attraction across people and contexts.
+
+## 4. Relationship to This Chapter
+
+Attraction is the broad relationship Topic preceding liking, affiliation, intimacy, adult attachment, love, commitment, and maintenance.
+
+## 5. Boundaries
+
+### Owns
+
+General positive interpersonal attraction.
+
+### Defers
+
+Specific love, intimacy, attachment, and personality processes to their dedicated Topics.
+
+## 6. Key Principles
+
+- Attraction has multiple components.
+- Proximity and familiarity can matter.
+- Similarity is context-dependent.
+- Attraction is not identical to love.
+- Individual preferences vary.
+
+### Topic-specific evidence layer
+
+Evidence should specify whether attraction means initial evaluation, desire for interaction, romantic interest, or another outcome. Studies should avoid treating one indicator, such as self-reported liking, as a complete measure of interpersonal attraction.
+
+---
+
+# 63. Liking
+
+## 1. Purpose
+
+Liking addresses positive interpersonal evaluation of another person.
+
+## 2. Definition
+
+Liking is a favorable evaluation of another individual that can support approach, interaction, and relationship development.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Liking can involve warmth, enjoyment, respect, admiration, comfort, or positive affect. It can be nonromantic and can occur without strong commitment.
+
+### Mechanism
+
+Positive interactions, perceived similarity, responsiveness, familiarity, reciprocity, and rewarding experiences can increase liking.
+
+### Moderators / Boundary Conditions
+
+Context, goals, culture, personality, relationship history, similarity, and interaction quality affect liking.
+
+### Evidence Status
+
+Liking is reliably related to interpersonal approach, but its determinants vary across relationships and settings.
+
+## 4. Relationship to This Chapter
+
+Liking is a specific form of attraction and can contribute to affiliation and intimacy.
+
+## 5. Boundaries
+
+### Owns
+
+General favorable interpersonal evaluation.
+
+### Defers
+
+Romantic love, commitment, and attachment to their dedicated Topics.
+
+## 6. Key Principles
+
+- Liking is broader than romantic attraction.
+- Reciprocity can strengthen liking.
+- Interaction quality matters.
+- Liking can change over time.
+- Positive evaluation does not guarantee commitment.
+
+### Topic-specific evidence layer
+
+Evidence should distinguish liking from relationship investment. A person can like someone without wanting a close relationship, and relationship commitment can persist even when momentary liking fluctuates.
+
+---
+
+# 64. Affiliation
+
+## 1. Purpose
+
+Affiliation addresses the motivation and behavior involved in seeking and maintaining social contact.
+
+## 2. Definition
+
+Affiliation is the tendency to seek interaction, companionship, connection, or social contact with other people.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Affiliation can involve casual contact, companionship, group membership, emotional connection, or coordinated activity. Desired contact varies across individuals and situations.
+
+### Mechanism
+
+Social contact can provide information, support, stimulation, safety, identity, and opportunities for cooperation. People may also seek affiliation when isolated or uncertain.
+
+### Moderators / Boundary Conditions
+
+Social goals, loneliness, threat, cultural norms, personality, relationship quality, and availability of others affect affiliation.
+
+### Evidence Status
+
+Affiliation is a broad social process with multiple determinants and cannot be reduced to one motive.
+
+## 4. Relationship to This Chapter
+
+Affiliation connects attraction and liking with intimacy, belonging, relationships, and social support.
+
+## 5. Boundaries
+
+### Owns
+
+Seeking and maintaining social contact as a social process.
+
+### Defers
+
+General motivation and attachment processes to their canonical owners.
+
+## 6. Key Principles
+
+- Affiliation involves social contact.
+- Contact can serve multiple functions.
+- Desired contact varies by context.
+- Social contact is not always positive.
+- Relationship quality matters.
+
+### Topic-specific evidence layer
+
+Evidence should distinguish quantity of contact from quality and desiredness of contact. High interaction frequency can coexist with poor relationship quality, while low frequency can occur in satisfying relationships.
+
+---
+
+# 65. Intimacy
+
+## 1. Purpose
+
+Intimacy addresses the development of closeness through mutual understanding, openness, responsiveness, and shared personal experience.
+
+## 2. Definition
+
+Intimacy is a state or process of close interpersonal connection characterized by mutual knowledge, openness, responsiveness, and perceived understanding.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Intimacy can involve emotional disclosure, shared vulnerability, perceived responsiveness, closeness, trust, and mutual understanding. It is not limited to romantic relationships.
+
+### Mechanism
+
+Self-disclosure can provide information about the self, while responsive reactions communicate acceptance and understanding. Repeated reciprocal interaction can therefore deepen perceived closeness.
+
+### Moderators / Boundary Conditions
+
+Trust, reciprocity, privacy, culture, relationship history, emotional safety, and disclosure relevance affect intimacy.
+
+### Evidence Status
+
+Research supports responsiveness and reciprocal disclosure as important processes, while showing that disclosure alone does not guarantee intimacy.
+
+## 4. Relationship to This Chapter
+
+Intimacy connects liking, affiliation, adult attachment, love, trust, and relationship maintenance.
+
+## 5. Boundaries
+
+### Owns
+
+Interpersonal closeness based on mutual understanding and responsiveness.
+
+### Defers
+
+General attachment theory to Chapter 1.15 and general emotion to Chapter 1.13.
+
+## 6. Key Principles
+
+- Intimacy is relational.
+- Disclosure and responsiveness interact.
+- Vulnerability can deepen closeness under supportive conditions.
+- Intimacy is not synonymous with romantic love.
+- Context determines appropriate disclosure.
+
+### Topic-specific evidence layer
+
+Evidence should measure perceived responsiveness and mutual understanding rather than treating disclosure frequency as sufficient evidence of intimacy. Longitudinal interaction studies can reveal whether repeated responsive exchanges predict later closeness.
+
+---
+
+# 66. Attachment in adult relationships
+
+## 1. Purpose
+
+This Topic describes how attachment-related processes manifest within adult close relationships without re-owning attachment as a developmental construct.
+
+## 2. Definition
+
+Attachment in adult relationships refers to patterns of seeking closeness, security, reassurance, and support within adult close relationships.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Adult attachment-related behavior can involve comfort seeking, caregiving, proximity, reassurance, responsiveness, and reactions to separation or perceived relationship threat.
+
+### Mechanism
+
+Close partners can become sources of security and regulation. Relationship experiences can influence expectations about availability and responsiveness.
+
+### Moderators / Boundary Conditions
+
+Relationship quality, stress, partner responsiveness, prior experience, attachment-related expectations, and situational threat affect expression.
+
+### Evidence Status
+
+Adult attachment research supports attachment-related processes in close relationships, but developmental origins and individual differences are distinct questions and belong to the developmental owner.
+
+## 4. Relationship to This Chapter
+
+This is explicitly an adult relationship manifestation. General attachment and attachment development remain canonical to Chapter 1.15.
+
+## 5. Boundaries
+
+### Owns
+
+Social manifestation of attachment-related processes in adult close relationships.
+
+### Defers
+
+General attachment, attachment security/insecurity, and attachment development to Chapter 1.15.
+
+## 6. Key Principles
+
+- Adult close relationships can provide security.
+- Attachment-related behavior is context-sensitive.
+- Relationship responsiveness matters.
+- Adult manifestations do not replace developmental ownership.
+- Individual differences and relationship-specific processes should be distinguished.
+
+### Topic-specific evidence layer
+
+Evidence should separate relationship-specific behavior from broad attachment dispositions. A person can behave securely in one relationship and differently in another because partner behavior, stress, history, and context vary.
