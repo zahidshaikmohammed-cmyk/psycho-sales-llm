@@ -3939,6 +3939,16 @@ Culture, context, relationship goals, availability, similarity, familiarity, sta
 
 Attraction research supports multiple determinants, but no single characteristic universally predicts attraction across people and contexts.
 
+
+A precise treatment of positive interpersonal evaluation and desire for social connection starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For positive interpersonal evaluation and desire for social connection, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Attraction is the broad relationship Topic preceding liking, affiliation, intimacy, adult attachment, love, commitment, and maintenance.
@@ -3995,6 +4005,16 @@ Context, goals, culture, personality, relationship history, similarity, and inte
 
 Liking is reliably related to interpersonal approach, but its determinants vary across relationships and settings.
 
+
+A precise treatment of favorable evaluation of another person as a basis for approach and interaction starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For favorable evaluation of another person as a basis for approach and interaction, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Liking is a specific form of attraction and can contribute to affiliation and intimacy.
@@ -4051,6 +4071,16 @@ Social goals, loneliness, threat, cultural norms, personality, relationship qual
 
 Affiliation is a broad social process with multiple determinants and cannot be reduced to one motive.
 
+
+A precise treatment of seeking and maintaining social contact and companionship starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For seeking and maintaining social contact and companionship, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Affiliation connects attraction and liking with intimacy, belonging, relationships, and social support.
@@ -4107,6 +4137,16 @@ Trust, reciprocity, privacy, culture, relationship history, emotional safety, an
 
 Research supports responsiveness and reciprocal disclosure as important processes, while showing that disclosure alone does not guarantee intimacy.
 
+
+A precise treatment of closeness produced through mutual understanding, openness, and responsiveness starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For closeness produced through mutual understanding, openness, and responsiveness, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Intimacy connects liking, affiliation, adult attachment, love, trust, and relationship maintenance.
@@ -4163,6 +4203,16 @@ Relationship quality, stress, partner responsiveness, prior experience, attachme
 
 Adult attachment research supports attachment-related processes in close relationships, but developmental origins and individual differences are distinct questions and belong to the developmental owner.
 
+
+A precise treatment of attachment-related security seeking and support processes in adult close relationships starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For attachment-related security seeking and support processes in adult close relationships, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 This is explicitly an adult relationship manifestation. General attachment and attachment development remain canonical to Chapter 1.15.
@@ -4220,6 +4270,16 @@ Relationship duration, culture, goals, stress, reciprocity, partner responsivene
 
 Research supports multidimensional models of love, but component structures vary across theories and measurement systems.
 
+
+A precise treatment of multidimensional relational experience involving affection, intimacy, care, passion, and commitment starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For multidimensional relational experience involving affection, intimacy, care, passion, and commitment, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Love connects attraction, intimacy, adult attachment, commitment, and relationship maintenance.
@@ -4276,6 +4336,16 @@ Relationship quality, alternatives, investments, norms, dependence, stress, conf
 
 Commitment is associated with relationship persistence, but persistence alone does not prove satisfaction or positive relationship quality.
 
+
+A precise treatment of intention and investment directed toward maintaining an ongoing relationship starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For intention and investment directed toward maintaining an ongoing relationship, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Commitment connects love, interdependence, social exchange, equity, maintenance, and dissolution.
@@ -4332,6 +4402,16 @@ Relationship history, stress, conflict, resources, partner responsiveness, commi
 
 Maintenance processes predict relationship quality and stability, but effective strategies depend on relationship type and context.
 
+
+A precise treatment of processes that preserve relationship quality, stability, responsiveness, and coordination starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For processes that preserve relationship quality, stability, responsiveness, and coordination, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Maintenance connects commitment, trust, intimacy, conflict, cooperation, equity, and dissolution.
@@ -4388,6 +4468,16 @@ Commitment, interdependence, alternatives, social norms, resources, children, sh
 
 Relationship dissolution is heterogeneous. Ending a relationship does not have one psychological meaning or one causal pathway.
 
+
+A precise treatment of processes through which an established relationship ends or changes form starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For processes through which an established relationship ends or changes form, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Dissolution connects commitment, satisfaction, conflict, equity, trust, and interdependence.
@@ -4444,6 +4534,16 @@ Relationship type, cultural norms, dependence, alternatives, investment, fairnes
 
 Exchange perspectives explain many relationship patterns but do not capture every relational motive. Care, identity, commitment, and moral norms can operate beyond immediate reward-cost calculation.
 
+
+A precise treatment of relationships understood through interdependent rewards, costs, investments, and expectations starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For relationships understood through interdependent rewards, costs, investments, and expectations, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Social exchange connects equity, interdependence, reciprocity, commitment, and relationship maintenance.
@@ -4502,6 +4602,16 @@ Relationship type, cultural norms, dependence, contribution visibility, investme
 
 Equity is useful for explaining relationship evaluation, but fairness standards differ across relationships and cultures.
 
+
+A precise treatment of perceived proportional fairness in interpersonal outcomes relative to contributions and standards starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For perceived proportional fairness in interpersonal outcomes relative to contributions and standards, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Equity connects social exchange, reciprocity, commitment, trust, and conflict.
@@ -4558,6 +4668,16 @@ Dependence asymmetry, alternatives, relationship duration, norms, trust, communi
 
 Interdependence is central to relationship research because it links individual action with relational outcomes.
 
+
+A precise treatment of the degree to which each person's outcomes depend on another person's actions starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For the degree to which each person's outcomes depend on another person's actions, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Interdependence connects exchange, reciprocity, cooperation, competition, conflict, commitment, and trust.
@@ -4614,6 +4734,16 @@ Trust, relationship history, norms, timing, cost, perceived intention, fairness,
 
 Reciprocity is widely observed in social interaction and can support coordination, but responses depend on interpretation and context.
 
+
+A precise treatment of responsive exchange in which later behavior reflects an earlier interpersonal action starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For responsive exchange in which later behavior reflects an earlier interpersonal action, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Reciprocity connects social exchange, cooperation, trust, helping, commitment, and conflict.
@@ -4672,6 +4802,16 @@ Risk, dependence, uncertainty, history, reputation, incentives, power, relations
 
 Trust research spans interpersonal, organizational, and intergroup settings. Trust can be calibrated well or poorly, and high trust is not always beneficial when evidence is unreliable.
 
+
+A precise treatment of willingness to accept vulnerability based on positive expectations about another party starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For willingness to accept vulnerability based on positive expectations about another party, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Trust connects intimacy, cooperation, reciprocity, commitment, social exchange, and conflict.
@@ -4728,6 +4868,16 @@ Risk, time, relationship goals, reputation, similarity, communication, prior exp
 
 Trust development is dynamic rather than a one-time decision. Different relationships can begin with different baseline expectations.
 
+
+A precise treatment of the emergence and revision of trust through repeated social information and experience starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For the emergence and revision of trust through repeated social information and experience, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Trust development connects Trust with reciprocity, trust repair, intimacy, cooperation, and commitment.
@@ -4784,6 +4934,16 @@ Severity of violation, intent, relationship importance, prior trust, repair cred
 
 Repair is not guaranteed. Some violations permanently change the relationship or produce only partial trust recovery.
 
+
+A precise treatment of restoration of trust after a violation through evidence, repair, and behavioral change starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For restoration of trust after a violation through evidence, repair, and behavioral change, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Trust repair connects trust, reciprocity, conflict, relationship maintenance, and commitment.
@@ -4840,6 +5000,16 @@ Interdependence, group identity, monitoring, sanctioning, communication, incenti
 
 Cooperation is robust but sensitive to incentives and social structure. Short-term self-interest can conflict with long-term collective outcomes.
 
+
+A precise treatment of coordinated behavior that supports mutually compatible or shared outcomes starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For coordinated behavior that supports mutually compatible or shared outcomes, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Cooperation connects reciprocity, trust, social exchange, competition, conflict, collective action, and interdependence.
@@ -4896,6 +5066,16 @@ Scarcity, reward structure, identity, relationship history, fairness, transparen
 
 Competition can produce both productive effort and destructive interaction depending on the structure of incentives and norms.
 
+
+A precise treatment of interaction organized around partially incompatible or relative outcomes starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For interaction organized around partially incompatible or relative outcomes, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Competition contrasts with cooperation but can coexist with it when actors compete on one dimension and cooperate on another.
@@ -4952,6 +5132,16 @@ Power, communication, trust, norms, history, interdependence, identity, emotiona
 
 Conflict is not uniformly harmful. Some disagreement can expose information or correct errors, while persistent relational conflict can damage coordination and trust.
 
+
+A precise treatment of perceived incompatibility among goals, interests, beliefs, values, or actions starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For perceived incompatibility among goals, interests, beliefs, values, or actions, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Conflict connects competition, cooperation, trust, power, equity, relationships, and group processes.
@@ -5009,6 +5199,16 @@ Social norms, provocation, anonymity, group context, self-control, substance eff
 
 Aggression research supports multiple pathways and strong context dependence. No single factor explains aggressive behavior across situations.
 
+
+A precise treatment of behavior intended to cause harm, threat, intimidation, or injury starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For behavior intended to cause harm, threat, intimidation, or injury, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Aggression connects social norms, conflict, deindividuation, emotion, attribution, and group processes.
@@ -5065,6 +5265,16 @@ Cost, closeness, urgency, responsibility, norms, mood, group identity, and perce
 
 Prosocial behavior is supported by multiple motivational pathways. A helpful action does not by itself reveal the actor's motive.
 
+
+A precise treatment of voluntary behavior intended to benefit or support another person starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For voluntary behavior intended to benefit or support another person, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Prosocial behavior is the umbrella for helping, bystander effects, altruism, empathy, moral behavior, and related Topics.
@@ -5121,6 +5331,16 @@ Cost, urgency, ambiguity, relationship, competence, responsibility, number of ob
 
 Helping is common but highly context-dependent. People may fail to help because they do not recognize need, misinterpret the situation, or perceive limited efficacy.
 
+
+A precise treatment of intentional assistance provided to another person starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For intentional assistance provided to another person, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Helping is a specific form of prosocial behavior and connects directly with bystander effects, diffusion of responsibility, empathy, and altruism.
@@ -5177,6 +5397,16 @@ Emergency clarity, group relationships, responsibility, expertise, communication
 
 The effect is well documented in controlled research, but real-world helping can be facilitated by others when they provide information, coordination, or support.
 
+
+A precise treatment of changes in helping associated with the presence of other potential helpers starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For changes in helping associated with the presence of other potential helpers, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 The bystander effect connects helping with diffusion of responsibility, social norms, and social influence.
@@ -5233,6 +5463,16 @@ Group size, role clarity, expertise, leadership, communication, personal connect
 
 Research supports diffusion under many conditions but also shows that clear role assignment and personal accountability can reduce it.
 
+
+A precise treatment of reduced felt personal responsibility when responsibility appears shared starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For reduced felt personal responsibility when responsibility appears shared, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Diffusion of responsibility is a mechanism contributing to the bystander effect and relevant to collective action and group decision-making.
@@ -5289,6 +5529,16 @@ Cost, closeness, perceived need, empathy, reputation, anonymity, and expected co
 
 Altruism is difficult to establish from behavior alone because motives are not directly observable. Multiple motives can coexist.
 
+
+A precise treatment of other-oriented motivation within prosocial behavior starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For other-oriented motivation within prosocial behavior, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Altruism is a motivationally defined form of prosocial behavior and connects with empathy and helping.
@@ -5345,6 +5595,16 @@ Similarity, closeness, attention, motivation, emotional state, cognitive resourc
 
 Empathy is multidimensional and should not be reduced to one self-report score. Different measures capture different processes.
 
+
+A precise treatment of processes through which people understand or share aspects of another person's state starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For processes through which people understand or share aspects of another person's state, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Empathy connects prosocial behavior, helping, altruism, moral behavior, and emotional contagion.
@@ -5401,6 +5661,16 @@ Cost, relationship closeness, escape opportunities, social visibility, perceived
 
 The empathy–altruism hypothesis is influential but remains a subject of theoretical and empirical debate. Competing motives can coexist, and behavioral evidence does not directly reveal motive.
 
+
+A precise treatment of the proposed link between empathic concern and other-oriented helping motivation starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For the proposed link between empathic concern and other-oriented helping motivation, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 This is a relationship/application node linking Empathy and Altruism rather than a separate construct owner.
@@ -5457,6 +5727,16 @@ Situational pressure, norms, identity, authority, group membership, incentives, 
 
 Moral behavior often diverges from moral judgment. People can endorse a principle but fail to act consistently under pressure.
 
+
+A precise treatment of behavior guided by or evaluated through moral standards starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For behavior guided by or evaluated through moral standards, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Moral behavior connects moral judgment, moral emotions, prosocial behavior, norms, conformity, obedience, and group processes.
@@ -5513,6 +5793,16 @@ Intent, outcome, responsibility, social norms, culture, relationship, group iden
 
 Moral judgment is influenced by both intuitive and deliberative processes, and the balance varies across situations.
 
+
+A precise treatment of evaluation of actions, intentions, or outcomes as morally right or wrong starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For evaluation of actions, intentions, or outcomes as morally right or wrong, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Moral judgment connects moral behavior and moral emotions while remaining distinct from actual action.
@@ -5569,6 +5859,16 @@ Responsibility, intention, identity, social norms, audience, relationship, and p
 
 Moral emotions are supported as important contributors to moral behavior, but emotional responses vary across cultures and individuals.
 
+
+A precise treatment of emotional responses linked to moral evaluation and social conduct starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For emotional responses linked to moral evaluation and social conduct, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Moral emotions connect moral judgment, moral behavior, empathy, prosocial behavior, norms, and conflict.
@@ -5625,6 +5925,16 @@ Closeness, attention, emotional intensity, relationship, group identity, regulat
 
 Research supports emotional convergence in social settings, but shared environmental causes can be difficult to separate from direct interpersonal transmission.
 
+
+A precise treatment of social transmission or convergence of emotional states starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For social transmission or convergence of emotional states, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Emotional contagion connects empathy, social perception, group processes, relationships, and social support.
@@ -5681,6 +5991,16 @@ Relationship importance, ambiguity, prior history, alternative relationships, so
 
 Rejection is associated with substantial psychological responses, but individual reactions vary and are shaped by context.
 
+
+A precise treatment of experienced or enacted nonacceptance, refusal, or withdrawal of desired inclusion starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For experienced or enacted nonacceptance, refusal, or withdrawal of desired inclusion, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Rejection connects belonging, rejection sensitivity, ostracism, loneliness, social exclusion, and social threat.
@@ -5737,6 +6057,16 @@ Relationship context, social support, ambiguity, identity, prior experience, sel
 
 Rejection sensitivity is associated with interpersonal outcomes, but associations do not mean that every expectation of rejection is inaccurate.
 
+
+A precise treatment of individual differences in expectations and responses around social rejection starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For individual differences in expectations and responses around social rejection, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Rejection sensitivity connects rejection, belonging, social threat, relationship processes, and loneliness.
@@ -5793,6 +6123,16 @@ Relationship importance, duration, intentionality, social support, identity, alt
 
 Ostracism research demonstrates robust social effects, but consequences vary with interpretation and context.
 
+
+A precise treatment of being ignored, excluded from interaction, or denied social acknowledgment starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For being ignored, excluded from interaction, or denied social acknowledgment, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Ostracism is a specific form of social exclusion and connects rejection, belonging, loneliness, and social threat.
@@ -5849,6 +6189,16 @@ Relationship quality, identity, group norms, social support, rejection history, 
 
 Belonging is associated with psychological and social functioning, but the experience is context-specific and can differ across relationships.
 
+
+A precise treatment of perceived acceptance, connection, and meaningful inclusion in relationships or groups starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For perceived acceptance, connection, and meaningful inclusion in relationships or groups, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Belonging connects affiliation, rejection, ostracism, social exclusion, loneliness, identity, and social support.
@@ -5905,6 +6255,16 @@ Identity importance, context, social support, group norms, feedback consistency,
 
 Belonging uncertainty is especially relevant in settings where membership is ambiguous or social acceptance is difficult to assess.
 
+
+A precise treatment of uncertainty about the stability or legitimacy of social acceptance starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For uncertainty about the stability or legitimacy of social acceptance, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 This Topic links belonging with rejection sensitivity, social identity threat, and social exclusion.
@@ -5961,6 +6321,16 @@ Relationship quality, social support, expectations, rejection history, culture, 
 
 Loneliness is associated with many social and psychological outcomes, but causal direction can run both ways.
 
+
+A precise treatment of subjective perception that desired social connection is insufficient starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For subjective perception that desired social connection is insufficient, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Loneliness connects affiliation, belonging, rejection, social exclusion, and social support.
@@ -6017,6 +6387,16 @@ Power, norms, institutional rules, identity, status, resources, visibility, and 
 
 Social exclusion is multidimensional, and evidence should specify whether the process is interpersonal, group-based, or institutional.
 
+
+A precise treatment of denial of meaningful participation, membership, resources, or inclusion starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For denial of meaningful participation, membership, resources, or inclusion, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Social exclusion connects rejection, ostracism, belonging, loneliness, stigma, and social threat.
@@ -6073,6 +6453,16 @@ Identity importance, controllability, social support, power, relationship histor
 
 Social threat is a broad process that overlaps with more specific phenomena such as rejection, identity threat, and exclusion. It should not replace those specific constructs when their defining conditions are present.
 
+
+A precise treatment of perceived danger to social standing, relationships, identity, or acceptance starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For perceived danger to social standing, relationships, identity, or acceptance, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Social threat provides an umbrella link among rejection, belonging uncertainty, identity threat, exclusion, and interpersonal conflict.
@@ -6131,6 +6521,16 @@ Need, relationship quality, timing, support type, recipient preferences, autonom
 
 Social support is associated with psychological and social functioning, but causal effects depend on matching support to circumstances. More support is not always better if it is intrusive, unwanted, or poorly timed.
 
+
+A precise treatment of actual or perceived availability of emotional, instrumental, informational, or companionship resources starts by identifying the social relation involved and the outcome that is actually changing. The same behavior can have different meanings depending on whether the person is responding to a partner, a group, an authority, or an unfamiliar social target. Mechanism-level explanation therefore requires attention to expectations, available information, prior interaction, and the consequences attached to the response. Social processes are also reciprocal: one person's behavior changes the other's environment, which then changes subsequent behavior.
+
+The construct should be separated from neighboring concepts that can look similar on the surface. For actual or perceived availability of emotional, instrumental, informational, or companionship resources, the distinction may involve intention versus outcome, perception versus actual treatment, public expression versus private judgment, or a stable individual difference versus a relationship-specific state. These distinctions matter because a single observed event rarely identifies the full psychological process. Evidence should be interpreted at the level actually measured rather than generalized to a broader construct merely because the concepts are related.
+
+Time is another important dimension. Social relationships and group processes accumulate histories. Repeated support can strengthen expectations, repeated violations can weaken them, and changing social environments can alter the meaning of earlier experiences. Longitudinal evidence is therefore particularly valuable when a Topic concerns development, repair, persistence, or dissolution. When only cross-sectional data are available, the direction of influence should remain uncertain rather than being inferred from correlation alone.
+
+Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
+
+Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
 ## 4. Relationship to This Chapter
 
 Social support connects belonging, relationships, trust, intimacy, coping, prosocial behavior, and social networks.
