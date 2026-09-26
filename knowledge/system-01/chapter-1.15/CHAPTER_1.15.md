@@ -2540,6 +2540,8 @@ The neonatal period illustrates the transition from a relatively protected prena
 
 Developmental interpretation should avoid treating neonatal characteristics as fixed predictions. Early behavior reflects current biological organization and immediate context, while later development depends on continuing experience and maturation. The neonatal period is therefore an important starting point rather than a deterministic blueprint.
 
+The neonatal period is a transition in regulation rather than a fixed developmental category. Feeding, sleep, temperature, sensory responsiveness, movement, and caregiver interaction are rapidly reorganized. Early observations should therefore be interpreted as snapshots within a changing biological system, not as permanent indicators of later functioning.
+
 ---
 
 # 33. Infancy
@@ -2611,6 +2613,8 @@ Infancy contains several interacting developmental cascades. Increased mobility 
 
 Infant development is also highly dependent on measurement context. Performance can vary with alertness, familiarity, sensory conditions, and caregiver presence. A single task therefore provides only a narrow window into an infant's broader developmental organization.
 
+Infancy is characterized by cascading change because new capacities alter access to experience. Mobility, attention, communication, perception, and attachment can mutually influence one another. Infant development also varies with health, caregiving, opportunity, and cultural practice, so normative descriptions should not be converted into rigid individual schedules.
+
 ---
 
 # 34. Early childhood
@@ -2679,6 +2683,8 @@ Early childhood involves increasing coordination between internal capacities and
 
 The period is also marked by expanding social worlds. Peer interaction provides opportunities for negotiation and perspective-taking, while school introduces formal evaluation and comparison. Development should therefore be understood as an interaction among family, school, peer, and individual processes.
 
+Early childhood brings increasing coordination between self-regulation and external structure. Adults gradually shift from direct control toward explanation, scaffolding, and supported autonomy as children become more capable. School entry and peer interaction add new demands, making development a product of family, educational, social, and individual processes.
+
 ---
 
 # 35. Middle childhood
@@ -2746,6 +2752,8 @@ For retrieval, this Topic owns middle childhood as a developmental period; domai
 Middle childhood often reveals the developmental consequences of increasing competence. Academic and social skills create feedback loops: competence can increase opportunities for practice and positive feedback, while repeated difficulty can restrict participation or alter self-evaluation. These pathways are probabilistic and can be redirected by support.
 
 The period also demonstrates the importance of domain differences. Cognitive, social, emotional, and self-related development do not necessarily proceed at the same rate. A child can be advanced in one domain and relatively immature in another without contradiction.
+
+Middle childhood provides increasingly strong feedback between competence and opportunity. Academic skills, friendships, self-evaluation, and self-regulation can reinforce one another, but support can redirect difficult trajectories. Developmental interpretation should distinguish temporary performance, accumulated skill, and broader changes in self-concept or social functioning.
 
 ---
 
@@ -2818,6 +2826,8 @@ Adolescence is best represented as coordination among several changing systems. 
 
 Risk behavior should therefore be interpreted in context rather than treated as the defining feature of adolescence. The same peer environment can support either risky or prosocial behavior depending on norms, rewards, relationships, and opportunities.
 
+Adolescence is not a single mechanism. Puberty, cognition, reward sensitivity, social motivation, identity, autonomy, family relationships, and peer contexts change together but do not change identically. The developmental task is to identify their interaction for the behavior under study rather than attributing the behavior to adolescence as a whole.
+
 ---
 
 # 37. Puberty
@@ -2885,6 +2895,8 @@ For retrieval, this Topic owns pubertal development. Broader adolescence and soc
 Pubertal timing can influence experience because social expectations are often tied to physical appearance and maturation. Early or late timing can therefore have different meanings depending on the surrounding peer and cultural environment. Biological timing and social interpretation should be distinguished.
 
 Puberty also illustrates the difference between biological and psychological development. Physical maturation can create new conditions for identity, emotion, and relationships, but those psychological outcomes are not mechanically produced by hormones. Development emerges through interaction between bodily change and social context.
+
+Puberty demonstrates the interaction between biological timing and social context. Physical maturation can change how a young person is treated by peers and adults, while cultural expectations influence the meaning attached to bodily change. Psychological consequences are therefore mediated by social interpretation rather than mechanically produced by biological maturation.
 
 ---
 
@@ -2954,6 +2966,8 @@ Emerging adulthood is particularly sensitive to historical and socioeconomic con
 
 The concept is therefore best used as a developmental pattern rather than a universal stage. Some populations experience prolonged exploration across education, work, relationships, and identity, while others enter adult roles earlier because of cultural expectations or economic necessity.
 
+Emerging adulthood is partly a historical and socioeconomic construct. Its expression depends on whether education is prolonged, employment is delayed, housing is accessible, and family structures support extended transition. It should therefore be applied with attention to population and historical period rather than assumed to be universal.
+
 ---
 
 # 39. Adulthood
@@ -3018,6 +3032,8 @@ For retrieval, this Topic owns adulthood as a developmental period. More specifi
 Adult development is strongly shaped by role and environment. Work can support expertise and specialization; relationships can create opportunities for intimacy and adaptation; caregiving can increase demands while developing practical knowledge; and major transitions can reorganize goals and identity.
 
 Adults also increasingly select their environments, creating person–environment correlations. These selections can reinforce existing tendencies, but they can also expose individuals to experiences that produce meaningful change. Adult development therefore remains both constrained and open to reorganization.
+
+Adulthood contains substantial developmental opportunity. Work, education, partnership, caregiving, parenthood, migration, and changing health can reorganize skills, goals, relationships, and identity. Adults also select environments, creating feedback between person characteristics and life contexts. This selection can reinforce existing patterns while also opening new developmental pathways.
 
 ---
 
@@ -3087,6 +3103,8 @@ Older adulthood demonstrates why developmental functioning should be separated f
 
 Adaptation can involve compensation, selection, environmental modification, and use of accumulated knowledge. Functional outcomes should consequently be interpreted as the product of capacity and context rather than as a direct consequence of age alone.
 
+Older adulthood is heterogeneous because people enter later life with different health histories, education, occupations, relationships, resources, and accumulated skills. Compensation and environmental adaptation can preserve functioning even when some underlying capacities change. Developmental interpretation should therefore focus on functioning and trajectory rather than age alone.
+
 ---
 
 # 41. Aging
@@ -3151,6 +3169,8 @@ Specific biological aging mechanisms to Chapter 1.3 and cognitive/socioemotional
 Aging should be interpreted as a trajectory of interacting biological, psychological, and social processes. Chronological age is only a coordinate; health, education, occupation, relationships, activity, resources, and historical context alter the trajectory. This is why people of the same age can differ substantially in functioning. Developmental aging also includes adaptation: people can change goals, strategies, environments, and routines to preserve important functions. Evidence should distinguish normative age-related change from disease, temporary state effects, and cohort differences. The central developmental question is not simply whether functioning declines, but which functions change, which remain stable, which improve through accumulated experience, and which can be supported through compensation.
 
 
+
+Aging should not be treated as a single downward trajectory. Some biological and cognitive processes become less efficient, while accumulated knowledge, expertise, emotional selectivity, and environmental adaptation can support functioning. The balance differs among people and domains. Aging research therefore requires multidimensional measurement and attention to health and context.
 # 42. Cognitive aging
 
 ## 1. Purpose
@@ -3216,6 +3236,8 @@ General cognition and memory to Chapters 1.8–1.11; clinical disorders to Chapt
 Cognitive aging requires domain-specific interpretation. A slowing on a timed task does not establish global cognitive deterioration, just as preserved vocabulary does not establish preservation of every memory or executive process. Health, sensory function, education, occupational experience, motivation, and task demands can influence observed performance. Developmental evidence is strongest when multiple cognitive components are examined and when the design distinguishes age effects from cohort and measurement effects. Compensation also matters: people can use knowledge, routines, environmental supports, and alternative strategies to preserve everyday functioning even when a basic process becomes less efficient.
 
 
+
+Cognitive aging is best understood through profiles of change. Processing speed, memory, executive control, knowledge, and practical reasoning can show different trajectories. Everyday competence may remain strong through compensation even when laboratory performance changes. Interpretation should therefore specify the cognitive component and distinguish capacity, strategy, and environmental support.
 # 43. Socioemotional aging
 
 ## 1. Purpose
