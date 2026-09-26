@@ -3900,3 +3900,510 @@ General economic decision models to Chapter 1.10.
 
 Evidence should distinguish actual outcomes from perceived outcomes because relational evaluation depends partly on interpretation. Longitudinal designs can examine how repeated exchanges alter expectations, dependence, and commitment.
 
+
+
+---
+
+# 72. Equity
+
+## 1. Purpose
+
+Equity addresses perceived fairness in the distribution of relationship outcomes relative to contributions and comparison standards.
+
+## 2. Definition
+
+Equity is a perceived state in which relationship outcomes are experienced as appropriately proportional to relevant contributions, investments, or comparison standards.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Equity concerns ratios and comparative fairness rather than simple equality. Two partners can receive different outcomes and still perceive the relationship as fair if differences are seen as justified by contributions or needs.
+
+### Mechanism
+
+People compare their own contributions and outcomes with those of relevant others or with expectations about fair exchange. Perceived inequity can create dissatisfaction and motivate attempts to restore balance.
+
+### Moderators / Boundary Conditions
+
+Relationship type, cultural norms, dependence, contribution visibility, investment, expectations, and whether partners value equality or proportionality affect equity judgments.
+
+### Evidence Status
+
+Equity is useful for explaining relationship evaluation, but fairness standards differ across relationships and cultures.
+
+## 4. Relationship to This Chapter
+
+Equity connects social exchange, reciprocity, commitment, trust, and conflict.
+
+## 5. Boundaries
+
+### Owns
+
+Perceived proportional fairness within interpersonal exchange.
+
+### Defers
+
+General distributive justice to broader social and legal domains.
+
+## 6. Key Principles
+
+- Equity is not identical to equality.
+- Fairness depends on comparison standards.
+- Perceived contribution matters.
+- Standards differ across relationships.
+- Inequity can motivate change.
+
+### Topic-specific evidence layer
+
+Evidence should measure the standard against which fairness is judged. Objective equality may not correspond to perceived equity, and observed imbalance may not produce dissatisfaction if partners endorse different contribution rules.
+
+---
+
+# 73. Interdependence
+
+## 1. Purpose
+
+Interdependence addresses the degree to which each person's outcomes depend on the actions of another person or relationship partner.
+
+## 2. Definition
+
+Interdependence is a relational condition in which each person's outcomes are partly determined by the choices and behavior of another.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Interdependence can involve dependence magnitude, mutuality, correspondence between interests, and temporal persistence. Partners may have aligned, conflicting, or mixed interests.
+
+### Mechanism
+
+Interdependence changes incentives because one person's action alters another person's outcomes. Repeated interaction can encourage cooperation, retaliation, accommodation, or trust depending on expected future consequences.
+
+### Moderators / Boundary Conditions
+
+Dependence asymmetry, alternatives, relationship duration, norms, trust, communication, and outcome structure affect interdependence.
+
+### Evidence Status
+
+Interdependence is central to relationship research because it links individual action with relational outcomes.
+
+## 4. Relationship to This Chapter
+
+Interdependence connects exchange, reciprocity, cooperation, competition, conflict, commitment, and trust.
+
+## 5. Boundaries
+
+### Owns
+
+The relational structure of mutual outcome dependence.
+
+### Defers
+
+General decision-making models to Chapter 1.10.
+
+## 6. Key Principles
+
+- Interdependence is relational.
+- Outcomes can be aligned or conflicting.
+- Dependence can be asymmetric.
+- Repeated interaction changes incentives.
+- Interdependence can support both cooperation and conflict.
+
+### Topic-specific evidence layer
+
+Evidence should map how each person's actions affect each person's outcomes rather than infer interdependence from relationship closeness alone. Experimental matrices and longitudinal interaction data can reveal whether interests are actually aligned or opposed.
+
+---
+
+# 74. Reciprocity
+
+## 1. Purpose
+
+Reciprocity addresses behavioral exchange in which one person's action is followed by a related response from another person.
+
+## 2. Definition
+
+Reciprocity is a pattern in which people respond to another person's behavior with a behavior that reflects, returns, or adjusts to the earlier action.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Reciprocity can be positive, negative, immediate, delayed, direct, or generalized. Returning a favor differs from retaliating against harm, although both involve responsive exchange.
+
+### Mechanism
+
+Reciprocity can support cooperation because people expect helpful behavior to be returned. It can also sustain conflict when negative actions are reciprocated.
+
+### Moderators / Boundary Conditions
+
+Trust, relationship history, norms, timing, cost, perceived intention, fairness, and opportunities for future interaction affect reciprocity.
+
+### Evidence Status
+
+Reciprocity is widely observed in social interaction and can support coordination, but responses depend on interpretation and context.
+
+## 4. Relationship to This Chapter
+
+Reciprocity connects social exchange, cooperation, trust, helping, commitment, and conflict.
+
+## 5. Boundaries
+
+### Owns
+
+Responsive interpersonal exchange based on prior behavior.
+
+### Defers
+
+General moral norms and economic exchange to their canonical owners.
+
+## 6. Key Principles
+
+- Reciprocity can be positive or negative.
+- Interpretation of the first action matters.
+- Future interaction can strengthen reciprocal behavior.
+- Reciprocity can support cooperation or conflict.
+- Direct and generalized reciprocity differ.
+
+### Topic-specific evidence layer
+
+Evidence should establish that the later response is contingent on the earlier action rather than simply correlated with it. Repeated interaction designs are particularly useful for observing how reciprocity develops across time.
+
+---
+
+# 75. Trust
+
+## 1. Purpose
+
+Trust addresses willingness to accept vulnerability based on expectations that another person or group will behave reliably, benevolently, competently, or appropriately.
+
+## 2. Definition
+
+Trust is a psychological state involving willingness to rely on another party under conditions of vulnerability based on positive expectations about that party's future behavior.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Trust can concern competence, integrity, benevolence, predictability, or reliability. These dimensions can vary independently.
+
+Trust is not identical to confidence. Confidence can involve strong expectations without meaningful vulnerability, whereas trust typically involves some risk of loss.
+
+### Mechanism
+
+Trust develops through evidence about past behavior, reputation, communication, consistency, responsiveness, and institutional cues. It can also be influenced by identity and perceived similarity.
+
+### Moderators / Boundary Conditions
+
+Risk, dependence, uncertainty, history, reputation, incentives, power, relationship type, and institutional safeguards affect trust.
+
+### Evidence Status
+
+Trust research spans interpersonal, organizational, and intergroup settings. Trust can be calibrated well or poorly, and high trust is not always beneficial when evidence is unreliable.
+
+## 4. Relationship to This Chapter
+
+Trust connects intimacy, cooperation, reciprocity, commitment, social exchange, and conflict.
+
+## 5. Boundaries
+
+### Owns
+
+Interpersonal willingness to accept vulnerability based on positive expectations.
+
+### Defers
+
+General risk perception and decision-making to their canonical owners.
+
+## 6. Key Principles
+
+- Trust involves vulnerability.
+- Trust is multidimensional.
+- Past behavior and reputation provide evidence.
+- Trust can be appropriate or misplaced.
+- Safeguards can alter the need for interpersonal trust.
+
+### Topic-specific evidence layer
+
+Evidence should distinguish trust from trustworthiness. Trust is the trusting person's state; trustworthiness concerns the target's actual characteristics or behavior. A person can trust an untrustworthy partner, and a trustworthy person can be distrusted.
+
+---
+
+# 76. Trust development
+
+## 1. Purpose
+
+Trust development addresses how expectations of another person's reliability, benevolence, or integrity emerge and change over time.
+
+## 2. Definition
+
+Trust development is the process through which trust is established, strengthened, weakened, or revised through interpersonal experience and social information.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Trust can develop from repeated interactions, early signals, reputation, institutional assurances, communication, shared experiences, and observed responses to vulnerability.
+
+### Mechanism
+
+Early interactions provide evidence that updates expectations. Consistency can strengthen trust, while unexpected violations can create uncertainty and motivate reassessment.
+
+### Moderators / Boundary Conditions
+
+Risk, time, relationship goals, reputation, similarity, communication, prior experience, and institutional safeguards affect development.
+
+### Evidence Status
+
+Trust development is dynamic rather than a one-time decision. Different relationships can begin with different baseline expectations.
+
+## 4. Relationship to This Chapter
+
+Trust development connects Trust with reciprocity, trust repair, intimacy, cooperation, and commitment.
+
+## 5. Boundaries
+
+### Owns
+
+Temporal development of interpersonal trust.
+
+### Defers
+
+General learning and memory mechanisms to their canonical owners.
+
+## 6. Key Principles
+
+- Trust can grow gradually or rapidly.
+- Consistency provides evidence.
+- Violations can alter expectations.
+- Initial trust differs across people and contexts.
+- Trust development is relationship-specific.
+
+### Topic-specific evidence layer
+
+Longitudinal designs are important because the defining feature is change over time. Studies should measure both observed partner behavior and the trusting person's updated expectations.
+
+---
+
+# 77. Trust repair
+
+## 1. Purpose
+
+Trust repair addresses processes through which trust is restored or partially rebuilt after a violation.
+
+## 2. Definition
+
+Trust repair is the process through which a damaged expectation of another person's reliability, integrity, or benevolence is restored after a trust violation.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Repair can involve acknowledgment, explanation, apology, restitution, behavioral change, transparency, monitoring, and time.
+
+### Mechanism
+
+A repair response can reduce uncertainty, signal recognition of harm, and provide evidence that the violating behavior will not continue. Actual behavioral consistency is often important for durable restoration.
+
+### Moderators / Boundary Conditions
+
+Severity of violation, intent, relationship importance, prior trust, repair credibility, repeated violations, and opportunities for observation affect repair.
+
+### Evidence Status
+
+Repair is not guaranteed. Some violations permanently change the relationship or produce only partial trust recovery.
+
+## 4. Relationship to This Chapter
+
+Trust repair connects trust, reciprocity, conflict, relationship maintenance, and commitment.
+
+## 5. Boundaries
+
+### Owns
+
+Social processes for restoring trust after interpersonal violation.
+
+### Defers
+
+General forgiveness and emotion regulation to their canonical owners.
+
+## 6. Key Principles
+
+- Repair requires more than verbal reassurance in many cases.
+- Violation severity matters.
+- Behavioral consistency provides evidence.
+- Trust can recover partially rather than completely.
+- Repeated violations change repair prospects.
+
+### Topic-specific evidence layer
+
+Evidence should distinguish stated forgiveness from restored trust. A person can forgive while continuing to distrust, or trust can increase before emotional hurt has fully resolved. Longitudinal measurement is therefore essential.
+
+---
+
+# 78. Cooperation
+
+## 1. Purpose
+
+Cooperation addresses coordinated behavior in which people act in ways that support mutually beneficial or shared outcomes.
+
+## 2. Definition
+
+Cooperation is behavior in which interacting individuals coordinate actions to advance outcomes that depend on mutual or compatible contributions.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Cooperation can be reciprocal, unconditional, conditional, repeated, or institutionally supported. It can involve resource sharing, coordination, helping, joint work, or conflict reduction.
+
+### Mechanism
+
+Trust, reciprocity, shared identity, communication, repeated interaction, reputation, and norms can support cooperation. People are more willing to cooperate when they expect others to do the same or when institutions reduce uncertainty.
+
+### Moderators / Boundary Conditions
+
+Interdependence, group identity, monitoring, sanctioning, communication, incentives, fairness, and future interaction affect cooperation.
+
+### Evidence Status
+
+Cooperation is robust but sensitive to incentives and social structure. Short-term self-interest can conflict with long-term collective outcomes.
+
+## 4. Relationship to This Chapter
+
+Cooperation connects reciprocity, trust, social exchange, competition, conflict, collective action, and interdependence.
+
+## 5. Boundaries
+
+### Owns
+
+Interpersonal coordination toward mutually compatible outcomes.
+
+### Defers
+
+General decision theory and economic models to their canonical owners.
+
+## 6. Key Principles
+
+- Cooperation depends on interdependence.
+- Expectations about others matter.
+- Communication can support coordination.
+- Reciprocity can sustain cooperation.
+- Cooperation can fail when incentives or trust are misaligned.
+
+### Topic-specific evidence layer
+
+Evidence should distinguish cooperation from mere simultaneous action. The defining feature is mutual or shared outcome relevance. Repeated-game and naturalistic interaction designs can show how cooperation changes when future consequences become more important.
+
+---
+
+# 79. Competition
+
+## 1. Purpose
+
+Competition addresses interaction in which people or groups pursue outcomes that cannot all be maximized simultaneously or where relative advantage is itself valued.
+
+## 2. Definition
+
+Competition is an interaction structure in which actors pursue scarce, exclusive, or relative outcomes in ways that create conflict of interest over at least part of the outcome space.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Competition can be direct or indirect, interpersonal or intergroup, explicit or implicit. It can involve resources, status, recognition, opportunities, or performance.
+
+### Mechanism
+
+Competition changes incentives by making one person's gain potentially reduce another's outcome. It can increase effort while also increasing threat, comparison, or conflict.
+
+### Moderators / Boundary Conditions
+
+Scarcity, reward structure, identity, relationship history, fairness, transparency, and whether interests are partially shared affect competition.
+
+### Evidence Status
+
+Competition can produce both productive effort and destructive interaction depending on the structure of incentives and norms.
+
+## 4. Relationship to This Chapter
+
+Competition contrasts with cooperation but can coexist with it when actors compete on one dimension and cooperate on another.
+
+## 5. Boundaries
+
+### Owns
+
+Interpersonal and group interaction organized around partially incompatible outcomes.
+
+### Defers
+
+General economic competition and market structures to relevant domains.
+
+## 6. Key Principles
+
+- Competition involves partially incompatible interests.
+- Relative outcomes can motivate behavior.
+- Competition can coexist with cooperation.
+- Scarcity changes competitive intensity.
+- Fairness perceptions influence responses.
+
+### Topic-specific evidence layer
+
+Evidence should specify whether actors compete for absolute resources, relative rank, or recognition. These structures produce different motivations and emotional responses.
+
+---
+
+# 80. Conflict
+
+## 1. Purpose
+
+Conflict addresses incompatibility, disagreement, or perceived interference among people or groups.
+
+## 2. Definition
+
+Conflict is a social process in which interacting parties perceive incompatible goals, interests, beliefs, values, or actions that interfere with desired outcomes.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Conflict can be task-related, relational, value-based, resource-based, or identity-related. It can range from disagreement to sustained hostility.
+
+### Mechanism
+
+Conflict can arise from actual incompatibility, perceived incompatibility, miscommunication, competing identities, resource scarcity, or reciprocal escalation.
+
+### Moderators / Boundary Conditions
+
+Power, communication, trust, norms, history, interdependence, identity, emotional arousal, and perceived fairness influence conflict.
+
+### Evidence Status
+
+Conflict is not uniformly harmful. Some disagreement can expose information or correct errors, while persistent relational conflict can damage coordination and trust.
+
+## 4. Relationship to This Chapter
+
+Conflict connects competition, cooperation, trust, power, equity, relationships, and group processes.
+
+## 5. Boundaries
+
+### Owns
+
+Social-psychological processes of interpersonal and group conflict.
+
+### Defers
+
+General aggression to Aggression and formal legal dispute processes to relevant domains.
+
+## 6. Key Principles
+
+- Conflict can involve real or perceived incompatibility.
+- Not all disagreement is destructive.
+- Escalation can become reciprocal.
+- Power and history matter.
+- Conflict management depends on the type of conflict.
+
+### Topic-specific evidence layer
+
+Evidence should distinguish disagreement from conflict escalation and identify the underlying incompatibility. Longitudinal interaction data are especially useful for studying reciprocal escalation and repair.
