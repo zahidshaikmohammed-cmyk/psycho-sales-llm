@@ -1749,6 +1749,8 @@ Emotional development should be interpreted as increasing coordination rather th
 
 Developmental evidence should distinguish emotional experience from observable expression. A person may experience an emotion without displaying it strongly, and outward control does not prove the absence of internal arousal. This distinction is important when comparing developmental periods or cultures.
 
+Developmental emotional change can involve greater differentiation, better communication, more flexible regulation, and changing relationships between emotion and goals. The person does not simply become less emotional. Emotional systems remain active while regulation and interpretation become more coordinated. Cultural expectations also shape which emotions are expressed openly and which are managed privately, so developmental comparisons should not assume that observable expression perfectly represents internal experience.
+
 ---
 
 # 22. Social development
@@ -1823,6 +1825,8 @@ Social development is reciprocal. Children influence caregivers and peers, adole
 
 The Topic should not be interpreted as a measure of sociability alone. Development can involve becoming more selective, more reciprocal, or more capable of maintaining relationships across distance and conflict. Social development includes organization and quality of relationships, not simply quantity.
 
+Social development is partly a process of changing participation. Young children rely heavily on caregivers, school-age children expand peer relationships, adolescents negotiate autonomy and belonging, and adults coordinate partnership, work, family, and community roles. Social development therefore includes changing relationship structures and expectations. A smaller social network later in life can reflect selective investment rather than developmental failure, while a larger network does not automatically imply better functioning.
+
 ---
 
 # 23. Personality development
@@ -1890,6 +1894,8 @@ For retrieval, this Topic owns developmental change in personality. The general 
 Personality development demonstrates why stability and change must be represented together. Traits can show substantial rank-order continuity while also showing mean-level change or different expression across roles. Development can therefore alter how a characteristic functions without erasing individual differences.
 
 Role transitions can provide repeated opportunities for new habits and expectations. Education, work, partnership, parenthood, and changing social responsibilities can all modify the environments in which personality tendencies are expressed. These influences do not imply that personality is infinitely malleable.
+
+Personality development is best represented as continuity plus transformation. A trait can remain recognizable while its average level or expression changes, and repeated roles can create environments in which different tendencies are reinforced. Developmental claims should distinguish mean-level change from rank-order continuity and should avoid treating one age-period finding as a universal sequence.
 
 ---
 
@@ -1962,6 +1968,8 @@ Moral development is influenced by both reasoning and social practice. People le
 
 Moral knowledge and moral behavior can diverge. A person can understand a rule without following it in a particular situation because motivation, emotion, social pressure, or opportunity changes the behavioral outcome. Developmental accounts should therefore distinguish moral reasoning from moral action.
 
+Moral development involves coordination among understanding, emotion, motivation, identity, and behavior. Development in one component does not guarantee equivalent development in another. Social experience provides opportunities to negotiate rules, understand consequences, recognize perspectives, and integrate values into action. Cultural systems also organize which moral problems are emphasized and how obligations are interpreted.
+
 ---
 
 # 25. Self development
@@ -2029,6 +2037,8 @@ For retrieval, this Topic owns developmental change in self-representation. The 
 Self development is partly a process of increasing differentiation and integration. People can represent themselves through traits, roles, memories, relationships, abilities, and future possibilities. The self can therefore become more complex without becoming perfectly stable or accurate.
 
 Social feedback contributes to self-knowledge, but feedback can be inconsistent or biased. Developmental self-understanding should therefore be treated as an evolving representation rather than a direct readout of objective characteristics.
+
+Self development includes both differentiation and integration. People can acquire more categories for describing themselves while also organizing those categories into a coherent narrative. Self-knowledge remains partly dependent on memory, language, social feedback, and context, so greater complexity does not automatically mean greater accuracy. Developmental research should distinguish changes in self-description from changes in the underlying characteristics being described.
 
 ---
 
@@ -2100,6 +2110,8 @@ For retrieval, this Topic owns developmental organization of identity. General i
 Identity development is often domain-specific and revisable. Occupational, relational, cultural, ideological, and other commitments can develop on different schedules. A person may explore one domain intensely while maintaining a relatively settled commitment in another.
 
 Major transitions can reopen identity questions because they change available roles and future possibilities. This does not mean identity is unstable by definition. Reconsideration can be part of coherent development when new information requires an existing commitment to be revised or integrated.
+
+Identity development can be reopened by transitions without implying pathological instability. Education, work, migration, relationships, parenthood, and changing cultural contexts can create new demands for integration. Exploration can therefore continue beyond adolescence. A developmental account should identify the domain, the available alternatives, the degree of commitment, and the social conditions shaping the person's options.
 
 ---
 
@@ -2175,6 +2187,8 @@ Executive-function development depends on both internal capacity and task struct
 
 Executive functions also interact with learning and regulation. Better control can support practice and goal maintenance, while repeated practice can reduce control demands as skills become more automatic. Development is consequently reciprocal rather than a one-way increase in control.
 
+Executive-function development is affected by both maturation and repeated practice. Tasks that initially require substantial conscious control can become more efficient with experience, changing the apparent demand on executive resources. Conversely, emotional arousal, sleep loss, stress, or complex social conditions can temporarily reduce performance. Developmental competence should therefore be distinguished from performance under one constrained condition.
+
 ---
 
 # 28. Emotion-regulation development
@@ -2246,6 +2260,8 @@ Emotion-regulation development includes both internal and interpersonal regulati
 
 Regulation should not be evaluated by emotional intensity alone. Strong emotion can be appropriate, and suppression can sometimes produce costs. Developmental competence concerns flexible coordination between emotional demands, goals, relationships, and context.
 
+Emotion-regulation development includes learning when and how different strategies are useful. Reappraisal, attention shifting, problem solving, communication, support seeking, situation selection, and acceptance can each have different functions. The developmental goal is not maximal control but flexible coordination between emotion, context, relationships, and goals. A strategy that works in one setting may be ineffective or costly in another.
+
 ---
 
 # 29. Social-cognition development
@@ -2313,6 +2329,8 @@ For retrieval, this Topic owns developmental change in social cognition. Theory 
 Social cognition develops through repeated opportunities to interpret people and coordinate interaction. Language supports increasingly explicit representation of perspectives, while social experience supplies information about intentions, norms, and relationships. Executive control helps maintain multiple perspectives when they conflict.
 
 Development remains context-sensitive. People can understand another person's perspective in one situation and fail to apply that understanding in another because of emotion, motivation, group identity, or limited information. Social-cognitive development therefore concerns capacities and their use, not a permanent state of perfect understanding.
+
+Social-cognitive development involves increasingly complex coordination of information about people and situations. Language, executive control, experience, and repeated interaction can support this development, but social cognition remains context-sensitive. Motivation and group identity can alter which information is attended to or how another person's behavior is interpreted. Development therefore concerns both capacity and application.
 
 ---
 
@@ -2385,6 +2403,8 @@ Theory of mind tasks are informative but narrow. Performance depends partly on l
 
 Theory of mind also continues to develop in complexity as people encounter deception, conflicting beliefs, social conventions, and more complex interpersonal contexts. It remains one component of social cognition rather than its endpoint.
 
+Theory of mind is a specific developmental capacity within broader social cognition. Performance can be affected by language, memory, inhibition, and task demands, so a single task should not be interpreted as a complete developmental profile. Later social understanding can involve more complex perspective coordination, conflicting beliefs, social conventions, and strategic interpretation.
+
 ---
 
 # 31. Prenatal development
@@ -2452,6 +2472,8 @@ For retrieval, this Topic owns developmental processes before birth. Detailed ob
 Prenatal development is especially sensitive to timing because different biological systems have different sequences of formation and maturation. The same exposure can therefore have different implications at different points in prenatal development. Interpretation should consider dose, duration, timing, biological pathway, and the evidence linking exposure to outcome.
 
 Prenatal development also illustrates why developmental science distinguishes risk from destiny. A prenatal risk factor can alter probability without determining an individual's later functioning. Postnatal environments, health, relationships, and opportunities can subsequently influence the trajectory.
+
+Prenatal development demonstrates why developmental timing matters. Biological systems do not all form or mature simultaneously, so the effect of an exposure depends on timing, intensity, duration, and pathway. Prenatal risk should remain probabilistic rather than deterministic because later environments can alter developmental trajectories. The developmental significance of prenatal conditions is therefore best understood through mechanisms and longitudinal outcomes rather than labels alone.
 
 ---
 
