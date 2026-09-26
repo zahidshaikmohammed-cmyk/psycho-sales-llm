@@ -895,6 +895,15 @@ Specific critical periods in language, sensory systems, neural development, or o
 - They are function-specific, not a universal rule for human development.
 - Plasticity outside a critical period can still exist in some systems.
 
+
+### Topic-specific evidence layer
+
+Critical periods describe developmental windows in which a particular input or experience has unusually strong or necessary effects. The concept is stronger than simply saying that timing matters. Evidence must support a relatively constrained window and a meaningful reduction in later flexibility before a process should be described as critical.
+
+Human development often contains more graded forms of sensitivity. Later experience may remain capable of producing change even when earlier timing provides an advantage. Critical-period claims should therefore be tied to a specific system, input, outcome, and evidence base rather than generalized across development.
+
+For retrieval, this Topic owns the general timing concept of constrained developmental windows. Specific biological, perceptual, language, or attachment examples should be retrieved from their respective developmental owners.
+
 ---
 
 # 12. Sensitive period
@@ -962,6 +971,15 @@ Specific sensitive periods in language, perception, attachment, or other domains
 - They are not absolute developmental cutoffs.
 - Sensitive periods differ from critical periods.
 - Timing of experience can influence developmental efficiency.
+
+
+### Topic-specific evidence layer
+
+Sensitive periods describe intervals in which a developmental system is especially responsive to particular experiences while retaining some capacity for later change. Sensitivity can vary in magnitude rather than functioning as an absolute deadline.
+
+The concept is useful because it connects timing with plasticity. The same experience may have different effects at different stages because the developing system, available capacities, and environmental demands differ. A sensitive period should therefore be specified relative to a particular process rather than treated as a universal property of an age.
+
+For retrieval, Sensitive Period owns the general idea of heightened developmental responsiveness. Specific sensitive periods belong to the relevant domain Topic, and claims of irreversible criticality require stronger evidence.
 
 ---
 
@@ -1035,6 +1053,15 @@ Neural plasticity to Chapter 1.3 and learning mechanisms to Chapter 1.7.
 - Plasticity can produce adaptive or maladaptive outcomes.
 - Plasticity does not imply unlimited change.
 
+
+### Topic-specific evidence layer
+
+Developmental plasticity refers to the capacity for developmental functioning to be modified by experience, intervention, adaptation, or changing environmental conditions. Plasticity can be substantial without being unlimited. Different systems can have different degrees, timing, and forms of modifiability.
+
+Plasticity should also be distinguished from improvement. A system can change in response to adversity in ways that are adaptive in the short term but costly later. Likewise, an intervention can improve performance on a trained task without producing broad transfer. The relevant question is what changed, for whom, under what conditions, and for how long.
+
+For retrieval, this Topic owns the general concept of developmental malleability. Domain-specific learning, recovery, compensation, and resilience should be linked rather than re-owned here.
+
 ---
 
 # 14. Cohort effect
@@ -1100,6 +1127,15 @@ General research-design methodology to Chapter 1.2 and specific developmental fi
 - Age differences can reflect cohort differences.
 - Age, cohort, and period must be separated where possible.
 - Cross-sectional age comparisons alone are limited evidence for within-person development.
+
+
+### Topic-specific evidence layer
+
+Cohort effects arise when people who share a historical period of birth or entry into a life stage have experiences that differ from those of other cohorts. Such differences can be mistaken for age-related development if studies compare age groups without considering historical context.
+
+Education, technology, economic conditions, nutrition, public health, family structure, and major historical events can all contribute to cohort differences. A cohort effect does not mean that age-related development is absent; it means that observed age patterns can contain historical differences as well.
+
+For retrieval, this Topic owns the cohort component of developmental interpretation. Age effects, period effects, and developmental change should be analyzed separately when the research question requires causal or trajectory claims.
 
 ---
 
@@ -1180,8 +1216,16 @@ General research methodology, statistics, psychometrics, validity, and scientifi
 - Cross-sectional age differences can contain cohort effects.
 - Developmental claims require attention to measurement equivalence and attrition.
 
----
 
+### Topic-specific evidence layer
+
+Developmental research methods are selected according to the developmental question. Cross-sectional designs efficiently compare age groups but do not directly observe within-person change. Longitudinal designs observe people across time and are therefore central to trajectory questions, while introducing attrition, practice, measurement, and historical-period challenges. Sequential approaches can provide additional leverage when age and cohort are intertwined.
+
+Intensive and microgenetic designs are useful when change is expected to occur rapidly. Experimental and quasi-experimental designs can strengthen causal inference when appropriate manipulation or natural variation is available. No design is automatically sufficient for every developmental question.
+
+For retrieval, this Topic owns the general methodological logic of developmental research. Domain-specific measurement methods remain with their canonical constructs.
+
+---
 
 # 16. Biological development
 
@@ -1240,6 +1284,17 @@ Neural structures and mechanisms to Chapter 1.3; specific psychological developm
 - Chronological age is not identical to biological age.
 - Biological change does not automatically determine psychological outcome.
 
+
+### Topic-specific evidence layer
+
+Biological development concerns changes in bodily and physiological organization across the lifespan. It includes maturation, growth, reproductive development, neural and sensory change, health-related change, and later-life biological aging.
+
+Biological development provides constraints and opportunities for psychological development but should not be treated as its complete explanation. Experience, behavior, relationships, health behavior, and environmental conditions can influence biological functioning, while biological changes can alter what experiences are possible.
+
+For retrieval, this Topic owns the broad developmental organization of biological change. Detailed neural, endocrine, genetic, health, and medical mechanisms should remain under their relevant canonical owners.
+
+---
+
 # 17. Motor development
 
 ## 1. Purpose
@@ -1293,6 +1348,17 @@ General motor neuroscience to Chapter 1.3 and skill learning to Chapter 1.7.
 - Milestones are population patterns, not universal deadlines.
 - Motor development remains relevant across the lifespan.
 
+
+### Topic-specific evidence layer
+
+Motor development concerns changes in movement, coordination, posture, locomotion, manipulation, and motor control across development. Motor change alters access to environments and therefore can have consequences beyond physical skill.
+
+Developmental motor patterns emerge from interactions among maturation, practice, perceptual information, body characteristics, task demands, and environmental opportunity. Individual differences in timing do not automatically indicate impairment. Functional interpretation depends on context and the demands placed on the person.
+
+For retrieval, this Topic owns developmental change in motor functioning. General motor control, exercise, rehabilitation, or neurological mechanisms belong to their broader canonical domains.
+
+---
+
 # 18. Perceptual development
 
 ## 1. Purpose
@@ -1345,6 +1411,17 @@ General perception to Chapter 1.4 and neural mechanisms to Chapter 1.3.
 - Perception develops through biological and experiential processes.
 - Different sensory systems have different developmental trajectories.
 - Age-related perceptual differences have multiple possible causes.
+
+
+### Topic-specific evidence layer
+
+Perceptual development concerns changes in how sensory information is detected, organized, differentiated, and interpreted across development. Perception is shaped by both biological maturation and experience, and developmental changes can alter how people explore and respond to environments.
+
+Perceptual development interacts with motor, cognitive, and social development. Improved perception can support action and learning, while active exploration can provide new perceptual information. Later-life sensory changes can also alter the functional demands placed on cognition and social interaction.
+
+For retrieval, this Topic owns developmental change in perceptual functioning rather than general sensation and perception.
+
+---
 
 # 19. Cognitive development
 
@@ -1401,6 +1478,17 @@ General cognition, memory, attention, reasoning, and intelligence to their canon
 - Cognitive development is multidimensional.
 - Different cognitive abilities have different trajectories.
 - Knowledge and processing capacity are not identical.
+
+
+### Topic-specific evidence layer
+
+Cognitive development concerns developmental changes in knowledge, reasoning, attention, memory-related functioning, problem solving, representation, and related cognitive capacities. It is multidimensional and should not be reduced to a single intelligence trajectory.
+
+Cognitive change can reflect maturation, learning, education, practice, language, social interaction, and accumulated knowledge. Different cognitive components can change at different rates. Development can therefore involve both gains and trade-offs, including increased knowledge alongside changes in processing efficiency.
+
+For retrieval, this Topic owns the developmental organization of cognition. Detailed memory, attention, intelligence, learning, and reasoning constructs remain under their canonical chapters while their developmental trajectories are linked here.
+
+---
 
 # 20. Language development
 
@@ -1460,6 +1548,17 @@ General language structure and processing to Chapter 1.11.
 - Language develops through biological preparedness and experience.
 - Development includes both linguistic knowledge and social use.
 - Developmental trajectories vary with language environment.
+
+
+### Topic-specific evidence layer
+
+Language development concerns changes in the acquisition, representation, comprehension, production, and social use of language across development. Language development depends on biological capacities, perceptual and cognitive development, social interaction, and exposure to culturally organized linguistic systems.
+
+Development is not simply vocabulary accumulation. It includes increasingly complex representations, syntax, pragmatic understanding, narrative organization, and flexible use of language in social contexts. Timing and experience both matter, and multilingual development demonstrates that developmental pathways can vary while remaining fully organized.
+
+For retrieval, this Topic owns developmental change in language. General language structure, psycholinguistics, and communication mechanisms remain with their canonical owners.
+
+---
 
 # 21. Emotional development
 
