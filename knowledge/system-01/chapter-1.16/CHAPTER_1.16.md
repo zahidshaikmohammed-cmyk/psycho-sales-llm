@@ -1697,3 +1697,178 @@ Specific personality, ability, and clinical constructs to their canonical owners
 ### Topic-specific evidence layer
 
 Evidence should specify whether it measures accessibility, endorsement, application, or behavioral consequences. These are different constructs. A response-time association should not automatically be interpreted as conscious endorsement. Studies should also test whether person-specific information changes judgments, because this helps establish whether category expectations dominated available evidence.
+
+
+---
+
+# 31. Implicit attitudes
+
+## 1. Purpose
+
+Implicit attitudes addresses evaluative associations that can influence responses under conditions in which people may have limited awareness, control, or ability to report the underlying association directly.
+
+## 2. Definition
+
+Implicit attitudes are evaluative associations or response tendencies that can be expressed through behavior or performance without requiring deliberate, verbally reported endorsement.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Implicit measures can assess relative associations, response speed, categorization patterns, or other performance-based indicators. These measures do not constitute a single psychological process; different tasks can reflect different mixtures of association, attention, familiarity, response strategy, and task demands.
+
+An implicit association is therefore not equivalent to a hidden belief in the ordinary sense.
+
+### Mechanism
+
+Automatically activated associations can influence attention, interpretation, or response preparation, particularly when cognitive control is limited. Deliberate goals and contextual information can sometimes alter how such associations are expressed.
+
+### Moderators / Boundary Conditions
+
+Effects depend on task structure, familiarity, cognitive resources, motivation, context, measurement reliability, and the behavior being predicted. A performance-based association may be more predictive for some outcomes and contexts than others.
+
+### Evidence Status
+
+Implicit measurement has generated substantial empirical work, but interpretation requires care. A score on an implicit task does not automatically reveal a person's conscious attitude, stable trait, or intention.
+
+### Relation to explicit attitudes
+
+Explicit self-reports and implicit measures can converge, diverge, or predict different outcomes. Divergence does not automatically mean that one measure is truthful and the other deceptive; the measures may capture partly different processes.
+
+## 4. Relationship to This Chapter
+
+Implicit attitudes belong between Attitudes and intergroup processes because they concern evaluative responses that may operate with limited deliberate control.
+
+## 5. Boundaries
+
+### Owns
+
+Implicitly expressed evaluative associations as measured by appropriate social-psychological methods.
+
+### Defers
+
+General automaticity and attention to their canonical owners, and explicit attitudes to Attitudes.
+
+## 6. Key Principles
+
+- Implicit measures are not synonymous with unconscious beliefs.
+- Different tasks can measure different processes.
+- Implicit and explicit attitudes can diverge.
+- Context and cognitive control influence expression.
+- Measurement interpretation must match the task.
+
+### Topic-specific evidence layer
+
+Evidence should identify the exact implicit measure and its reliability, construct validity, and predictive target. A performance difference can result from multiple processes, so claims should not leap from task score to broad claims about character or intention. Convergent measurement across tasks and behavioral outcomes provides stronger evidence than a single implicit score.
+
+---
+
+# 32. Stereotype threat
+
+## 1. Purpose
+
+Stereotype threat addresses situations in which concern about confirming a negative group stereotype can alter performance or behavior in a relevant setting.
+
+## 2. Definition
+
+Stereotype threat is a situational state in which awareness or salience of a negative group stereotype creates concern about confirming it, potentially affecting performance or behavior in the relevant domain.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+The phenomenon involves stereotype salience, group relevance, evaluative stakes, concern about judgment, and a performance context in which the stereotype is applicable. It is a situational process, not a permanent characteristic of a group.
+
+### Mechanism
+
+Concern about confirming a stereotype can increase monitoring, anxiety, cognitive load, distraction, or self-regulatory demands. These processes may interfere with performance under some conditions.
+
+### Moderators / Boundary Conditions
+
+Effects depend on stereotype relevance, identification with the domain or group, perceived evaluation, task difficulty, contextual cues, coping resources, and whether the stereotype is actually salient. Not every member of a stereotyped group experiences the same response.
+
+### Evidence Status
+
+Research has produced substantial evidence alongside debate about effect size, replication, measurement, and boundary conditions. The phenomenon should therefore be represented as conditional rather than as a universal explanation for group performance differences.
+
+## 4. Relationship to This Chapter
+
+Stereotype threat connects stereotypes with performance and identity processes. It does not replace explanations involving prior preparation, opportunity, unequal treatment, or other determinants of performance.
+
+## 5. Boundaries
+
+### Owns
+
+The situational psychological process involving concern about confirming a relevant negative stereotype.
+
+### Defers
+
+General anxiety, cognition, motivation, and educational or occupational performance to their canonical owners.
+
+## 6. Key Principles
+
+- Stereotype threat is situational.
+- Salience and relevance are necessary considerations.
+- Mechanisms can include cognitive load and evaluative concern.
+- Effects vary across contexts.
+- Group performance differences cannot automatically be attributed to stereotype threat.
+
+### Topic-specific evidence layer
+
+Strong evidence manipulates stereotype relevance while holding task demands and preparation as constant as possible and measures the proposed psychological pathway. Replication and boundary-condition evidence are particularly important because small contextual differences can change the result. Claims should avoid converting a situational effect into a general statement about the capacity of a group.
+
+---
+
+# 33. Social identity threat
+
+## 1. Purpose
+
+Social identity threat addresses situations in which a person perceives that an important social identity may be devalued, negatively judged, or placed at risk in a particular context.
+
+## 2. Definition
+
+Social identity threat is a state arising when a socially important identity is perceived as vulnerable to negative evaluation, devaluation, exclusion, or unfavorable treatment in a context.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Threat can concern belonging, respect, competence, legitimacy, status, or acceptance. It depends on the interaction between the person's identity and contextual cues rather than residing entirely within the person.
+
+### Mechanism
+
+Threat can increase monitoring of social cues, uncertainty about belonging, concern about evaluation, vigilance, or self-protective behavior. These responses can influence participation, communication, performance, and willingness to remain in the setting.
+
+### Moderators / Boundary Conditions
+
+Effects depend on identity importance, contextual cues, institutional climate, prior experiences, social support, status relations, and perceived alternatives. A potentially threatening environment is not experienced identically by every person.
+
+### Evidence Status
+
+Research supports identity-relevant threat as a useful social-psychological process, while showing that effects vary with context and identity. It should not be used as a universal explanation for disengagement or performance differences.
+
+## 4. Relationship to This Chapter
+
+Social identity threat is broader than stereotype threat because threat can involve devaluation or belonging without requiring a specific performance stereotype.
+
+## 5. Boundaries
+
+### Owns
+
+Identity-based threat arising from perceived devaluation or vulnerability of a social identity.
+
+### Defers
+
+General stress, anxiety, self-esteem, and organizational climate to their canonical owners.
+
+## 6. Key Principles
+
+- Threat is relational between identity and context.
+- It can concern belonging, respect, status, or evaluation.
+- Identity importance changes vulnerability.
+- Supportive contexts can alter threat.
+- The construct is not synonymous with general stress.
+
+### Topic-specific evidence layer
+
+Evidence should identify the threatened identity, the contextual cue, and the proposed psychological response. Self-report, behavioral, and longitudinal evidence can be combined to distinguish momentary threat from chronic disengagement. A negative outcome alone is insufficient; the identity-relevant mechanism must be demonstrated or plausibly established.
