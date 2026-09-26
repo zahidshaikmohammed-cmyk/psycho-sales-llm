@@ -4407,3 +4407,1182 @@ General aggression to Aggression and formal legal dispute processes to relevant 
 ### Topic-specific evidence layer
 
 Evidence should distinguish disagreement from conflict escalation and identify the underlying incompatibility. Longitudinal interaction data are especially useful for studying reciprocal escalation and repair.
+
+
+---
+
+# 81. Aggression
+
+## 1. Purpose
+
+Aggression addresses behavior intended to harm, threaten, intimidate, or otherwise injure another person.
+
+## 2. Definition
+
+Aggression is behavior directed toward another person with the intent to cause physical or psychological harm, or to create an unwanted harmful outcome.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Aggression can be physical, verbal, relational, direct, indirect, reactive, or instrumental. Intent is important because accidental harm is not automatically aggression.
+
+### Mechanism
+
+Aggression can arise from frustration, provocation, threat, learned behavior, social norms, emotion, perceived injustice, or instrumental goals. Multiple determinants can interact.
+
+### Moderators / Boundary Conditions
+
+Social norms, provocation, anonymity, group context, self-control, substance effects, threat perception, and consequences influence aggressive behavior.
+
+### Evidence Status
+
+Aggression research supports multiple pathways and strong context dependence. No single factor explains aggressive behavior across situations.
+
+## 4. Relationship to This Chapter
+
+Aggression connects social norms, conflict, deindividuation, emotion, attribution, and group processes.
+
+## 5. Boundaries
+
+### Owns
+
+Social-psychological processes underlying aggressive behavior.
+
+### Defers
+
+Clinical disorders and general emotion regulation to their canonical owners.
+
+## 6. Key Principles
+
+- Intent distinguishes aggression from accidental harm.
+- Aggression has multiple forms.
+- Context changes expression.
+- Social norms can inhibit or encourage aggression.
+- Aggression is not explained by one cause.
+
+### Topic-specific evidence layer
+
+Evidence should establish intent where possible and distinguish aggression from assertiveness, competition, or conflict. Experimental and longitudinal designs can identify whether provocation, modeling, norms, or other factors preceded the behavior.
+
+---
+
+# 82. Prosocial behavior
+
+## 1. Purpose
+
+Prosocial behavior addresses actions intended to benefit or support other people.
+
+## 2. Definition
+
+Prosocial behavior is voluntary behavior intended to benefit another person or contribute positively to others' welfare.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Prosocial behavior includes helping, sharing, comforting, cooperating, donating, protecting, and supporting. Motives can be altruistic, reciprocal, reputational, relational, or mixed.
+
+### Mechanism
+
+Empathy, social norms, reciprocity, identity, moral values, anticipated emotions, reputation, and perceived efficacy can motivate prosocial behavior.
+
+### Moderators / Boundary Conditions
+
+Cost, closeness, urgency, responsibility, norms, mood, group identity, and perceived need affect helping.
+
+### Evidence Status
+
+Prosocial behavior is supported by multiple motivational pathways. A helpful action does not by itself reveal the actor's motive.
+
+## 4. Relationship to This Chapter
+
+Prosocial behavior is the umbrella for helping, bystander effects, altruism, empathy, moral behavior, and related Topics.
+
+## 5. Boundaries
+
+### Owns
+
+General behavior intended to benefit others.
+
+### Defers
+
+General motivation, morality, and empathy mechanisms to their dedicated Topics.
+
+## 6. Key Principles
+
+- Prosocial behavior has multiple motives.
+- Benefit to another is central.
+- Motive and behavior should be distinguished.
+- Costs and social context matter.
+- Prosocial behavior can be directed toward individuals or groups.
+
+### Topic-specific evidence layer
+
+Evidence should distinguish observed benefit from inferred motive. A behavior can help another person while being motivated by reciprocity or reputation rather than altruism. Experimental manipulation of costs and social visibility can help identify mechanisms.
+
+---
+
+# 83. Helping
+
+## 1. Purpose
+
+Helping addresses concrete behavior intended to assist another person in achieving a desired or needed outcome.
+
+## 2. Definition
+
+Helping is intentional behavior undertaken to provide assistance to another person.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Helping can be instrumental, emotional, emergency-based, routine, direct, or indirect. The amount of effort and risk can vary substantially.
+
+### Mechanism
+
+Need recognition, empathy, responsibility, social norms, reciprocity, identity, and perceived efficacy can support helping.
+
+### Moderators / Boundary Conditions
+
+Cost, urgency, ambiguity, relationship, competence, responsibility, number of observers, and perceived ability to help affect behavior.
+
+### Evidence Status
+
+Helping is common but highly context-dependent. People may fail to help because they do not recognize need, misinterpret the situation, or perceive limited efficacy.
+
+## 4. Relationship to This Chapter
+
+Helping is a specific form of prosocial behavior and connects directly with bystander effects, diffusion of responsibility, empathy, and altruism.
+
+## 5. Boundaries
+
+### Owns
+
+Intentional assistance to another person.
+
+### Defers
+
+General prosocial motivation to Prosocial behavior.
+
+## 6. Key Principles
+
+- Helping requires recognition of a need.
+- Perceived efficacy matters.
+- Cost and urgency affect action.
+- Social context can inhibit or facilitate help.
+- Helping does not reveal one motive.
+
+### Topic-specific evidence layer
+
+Evidence should separate failure to help from failure to notice the situation. Multi-stage models of helping are useful because detection, interpretation, responsibility, decision, and action can fail at different points.
+
+---
+
+# 84. Bystander effect
+
+## 1. Purpose
+
+The bystander effect addresses reduced likelihood or delayed likelihood of helping when other potential helpers are present.
+
+## 2. Definition
+
+The bystander effect is a tendency for individual helping responses to decrease or become slower in the presence of other potential witnesses or helpers under relevant conditions.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+The effect concerns helping probability or speed in social settings. It does not mean that crowds always prevent helping.
+
+### Mechanism
+
+Pluralistic ignorance, diffusion of responsibility, evaluation concerns, ambiguity, and uncertainty about appropriate action can contribute.
+
+### Moderators / Boundary Conditions
+
+Emergency clarity, group relationships, responsibility, expertise, communication, perceived danger, and whether others appear to be helping affect the effect.
+
+### Evidence Status
+
+The effect is well documented in controlled research, but real-world helping can be facilitated by others when they provide information, coordination, or support.
+
+## 4. Relationship to This Chapter
+
+The bystander effect connects helping with diffusion of responsibility, social norms, and social influence.
+
+## 5. Boundaries
+
+### Owns
+
+Changes in helping associated with the presence of other potential helpers.
+
+### Defers
+
+General helping motivation to Helping.
+
+## 6. Key Principles
+
+- Other people can inhibit or facilitate helping.
+- Ambiguity is important.
+- Responsibility can become socially distributed.
+- Crowds do not inevitably prevent assistance.
+- Coordination can reverse inhibition.
+
+### Topic-specific evidence layer
+
+Evidence should identify whether observers knew others were present, whether responsibility was clear, and whether the event was ambiguous. Naturalistic evidence is valuable because real emergencies can involve communication and cooperation absent from simple laboratory models.
+
+---
+
+# 85. Diffusion of responsibility
+
+## 1. Purpose
+
+Diffusion of responsibility addresses the reduction in felt personal responsibility when responsibility is perceived as shared among multiple people.
+
+## 2. Definition
+
+Diffusion of responsibility is a social process in which individuals perceive their personal responsibility for action as reduced because responsibility appears distributed across others.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Responsibility can be distributed objectively or merely perceived as distributed. The phenomenon can affect helping, reporting, decision-making, and collective tasks.
+
+### Mechanism
+
+When many people are present, each individual may infer that someone else can or should act. The perceived personal cost of inaction can therefore decrease.
+
+### Moderators / Boundary Conditions
+
+Group size, role clarity, expertise, leadership, communication, personal connection, accountability, and perceived urgency affect diffusion.
+
+### Evidence Status
+
+Research supports diffusion under many conditions but also shows that clear role assignment and personal accountability can reduce it.
+
+## 4. Relationship to This Chapter
+
+Diffusion of responsibility is a mechanism contributing to the bystander effect and relevant to collective action and group decision-making.
+
+## 5. Boundaries
+
+### Owns
+
+Perceived distribution of responsibility across people.
+
+### Defers
+
+General responsibility judgment to its canonical owner.
+
+## 6. Key Principles
+
+- Responsibility can be psychologically distributed.
+- Clear assignment can reduce diffusion.
+- Group size is not the only determinant.
+- Expertise can increase personal responsibility.
+- Accountability changes the process.
+
+### Topic-specific evidence layer
+
+Evidence should measure perceived responsibility rather than infer it from behavior alone. Experimental assignment of roles and accountability provides a direct test of whether responsibility distribution caused the observed response.
+
+---
+
+# 86. Altruism
+
+## 1. Purpose
+
+Altruism addresses behavior motivated substantially by concern for another person's welfare rather than by expected personal gain.
+
+## 2. Definition
+
+Altruism is behavior intended to benefit another person where the actor's motivation includes concern for the other's welfare and is not primarily dependent on expected external reward.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Altruism concerns motivation rather than only observable benefit. A costly action can be prosocial without being altruistic if the actor expects substantial personal reward.
+
+### Mechanism
+
+Empathy, moral values, identity, internalized norms, kin-related processes, and concern for others can contribute to altruistic motivation.
+
+### Moderators / Boundary Conditions
+
+Cost, closeness, perceived need, empathy, reputation, anonymity, and expected consequences affect the evidence for altruistic motivation.
+
+### Evidence Status
+
+Altruism is difficult to establish from behavior alone because motives are not directly observable. Multiple motives can coexist.
+
+## 4. Relationship to This Chapter
+
+Altruism is a motivationally defined form of prosocial behavior and connects with empathy and helping.
+
+## 5. Boundaries
+
+### Owns
+
+Other-oriented motivation within prosocial behavior.
+
+### Defers
+
+General moral motivation and empathy mechanisms to their dedicated Topics.
+
+## 6. Key Principles
+
+- Altruism concerns motivation.
+- Prosocial behavior and altruism are not synonymous.
+- Mixed motives are common.
+- Costly behavior is informative but not conclusive.
+- Anonymity can reduce some alternative explanations.
+
+### Topic-specific evidence layer
+
+Evidence should manipulate personal rewards, visibility, and costs where possible. If helping remains when external benefits are minimized, an other-oriented motive becomes more plausible, although no single manipulation proves a purely altruistic motive.
+
+---
+
+# 87. Empathy
+
+## 1. Purpose
+
+Empathy addresses processes through which a person understands or shares aspects of another person's emotional or psychological state.
+
+## 2. Definition
+
+Empathy is a set of processes involving the perception, understanding, or partial sharing of another person's emotional or psychological state.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Empathy can include affective resonance, perspective taking, emotional understanding, and accurate recognition of another person's state. These components can dissociate.
+
+### Mechanism
+
+People use social cues, prior knowledge, perspective taking, and emotional resonance to construct representations of another person's experience.
+
+### Moderators / Boundary Conditions
+
+Similarity, closeness, attention, motivation, emotional state, cognitive resources, and relationship context affect empathy.
+
+### Evidence Status
+
+Empathy is multidimensional and should not be reduced to one self-report score. Different measures capture different processes.
+
+## 4. Relationship to This Chapter
+
+Empathy connects prosocial behavior, helping, altruism, moral behavior, and emotional contagion.
+
+## 5. Boundaries
+
+### Owns
+
+Social understanding and resonance with another person's state.
+
+### Defers
+
+General emotion to Chapter 1.13.
+
+## 6. Key Principles
+
+- Empathy has cognitive and affective components.
+- Understanding another person is not identical to sharing their emotion.
+- Empathy can facilitate helping but does not guarantee it.
+- Accuracy and emotional resonance can differ.
+- Context affects empathic responding.
+
+### Topic-specific evidence layer
+
+Evidence should identify whether the study measures perspective taking, emotional resonance, empathic accuracy, or a broader composite. This distinction is necessary because the components have different predictors and consequences.
+
+---
+
+# 88. Empathy–altruism relationship
+
+## 1. Purpose
+
+This relationship Topic addresses the proposed link between empathic responding and other-oriented helping motivation.
+
+## 2. Definition
+
+The empathy–altruism relationship is the proposed association between empathic concern for another person and motivation to help for the other's welfare.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+The relationship concerns whether empathy can generate genuinely other-oriented motivation rather than helping being explained entirely by self-focused distress reduction or social reward.
+
+### Mechanism
+
+Empathic concern may increase the subjective importance of another person's welfare, making assistance rewarding because the other benefits rather than because the helper avoids personal discomfort.
+
+### Moderators / Boundary Conditions
+
+Cost, relationship closeness, escape opportunities, social visibility, perceived need, and interpretation of empathic feelings affect the pathway.
+
+### Evidence Status
+
+The empathy–altruism hypothesis is influential but remains a subject of theoretical and empirical debate. Competing motives can coexist, and behavioral evidence does not directly reveal motive.
+
+## 4. Relationship to This Chapter
+
+This is a relationship/application node linking Empathy and Altruism rather than a separate construct owner.
+
+## 5. Boundaries
+
+### Owns
+
+The proposed relationship between empathic concern and other-oriented helping.
+
+### Defers
+
+Empathy and altruism individually to their dedicated Topics.
+
+## 6. Key Principles
+
+- Empathy can be associated with helping.
+- Association does not prove altruistic motivation.
+- Alternative motives must be considered.
+- Context affects the relationship.
+- This is a relationship node, not a third construct owner.
+
+### Topic-specific evidence layer
+
+Evidence is stronger when studies manipulate empathic concern and independently reduce opportunities for self-reward or distress escape. Even then, conclusions should remain proportionate because motives are inferred indirectly.
+
+---
+
+# 89. Moral behavior
+
+## 1. Purpose
+
+Moral behavior addresses actions that conform to or violate standards concerning right, wrong, fairness, obligation, harm, care, or other moral considerations.
+
+## 2. Definition
+
+Moral behavior is behavior that is guided by or evaluated according to moral standards or principles recognized as relevant by the person or social context.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Moral behavior includes helping, honesty, fairness, cooperation, harm avoidance, promise keeping, and resistance to wrongdoing. Different moral systems emphasize different concerns.
+
+### Mechanism
+
+Moral behavior can be shaped by moral judgment, emotions, identity, norms, social sanctions, self-regulation, and anticipated consequences.
+
+### Moderators / Boundary Conditions
+
+Situational pressure, norms, identity, authority, group membership, incentives, perceived responsibility, and opportunity affect moral action.
+
+### Evidence Status
+
+Moral behavior often diverges from moral judgment. People can endorse a principle but fail to act consistently under pressure.
+
+## 4. Relationship to This Chapter
+
+Moral behavior connects moral judgment, moral emotions, prosocial behavior, norms, conformity, obedience, and group processes.
+
+## 5. Boundaries
+
+### Owns
+
+Social-psychological processes linking moral standards with behavior.
+
+### Defers
+
+General moral philosophy and normative ethics to their appropriate domains.
+
+## 6. Key Principles
+
+- Moral judgment and moral behavior can diverge.
+- Context affects moral action.
+- Norms and identity influence behavior.
+- Opportunity and incentives matter.
+- Moral behavior has multiple determinants.
+
+### Topic-specific evidence layer
+
+Evidence should measure actual behavior where possible rather than infer action from moral self-report. Situational manipulations can reveal whether people act consistently with stated standards when social costs or incentives change.
+
+---
+
+# 90. Moral judgment
+
+## 1. Purpose
+
+Moral judgment addresses evaluations of actions, intentions, people, or outcomes as right, wrong, permissible, blameworthy, or praiseworthy.
+
+## 2. Definition
+
+Moral judgment is an evaluative process through which people assess actions, intentions, or outcomes using moral standards.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Judgments can concern harm, fairness, loyalty, authority, care, rights, intentions, consequences, or other moral considerations.
+
+### Mechanism
+
+Moral judgments can involve emotional responses, reasoning, norm knowledge, perspective taking, and interpretation of intentions and consequences.
+
+### Moderators / Boundary Conditions
+
+Intent, outcome, responsibility, social norms, culture, relationship, group identity, and framing affect moral judgment.
+
+### Evidence Status
+
+Moral judgment is influenced by both intuitive and deliberative processes, and the balance varies across situations.
+
+## 4. Relationship to This Chapter
+
+Moral judgment connects moral behavior and moral emotions while remaining distinct from actual action.
+
+## 5. Boundaries
+
+### Owns
+
+Social-psychological evaluation of moral rightness and wrongness.
+
+### Defers
+
+General decision-making and moral philosophy.
+
+## 6. Key Principles
+
+- Intentions and outcomes can both matter.
+- Moral judgment does not guarantee moral behavior.
+- Context affects evaluation.
+- Multiple moral concerns can conflict.
+- Cultural and group context influence judgment.
+
+### Topic-specific evidence layer
+
+Evidence should distinguish judgments of action, intention, and person. A harmful outcome can be judged differently when accidental than when intentional, and moral blame should not be treated as identical to outcome severity.
+
+---
+
+# 91. Moral emotions
+
+## 1. Purpose
+
+Moral emotions address emotional responses that arise from perceived moral conduct, violations, obligations, or treatment of others.
+
+## 2. Definition
+
+Moral emotions are emotions linked to moral evaluation of oneself, other people, actions, or social relationships.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Moral emotions can include guilt, shame, anger, contempt, gratitude, empathy, admiration, and moral elevation. Different emotions can motivate different forms of behavior.
+
+### Mechanism
+
+Moral emotions can signal violations, reinforce norms, motivate repair, promote helping, or regulate relationships.
+
+### Moderators / Boundary Conditions
+
+Responsibility, intention, identity, social norms, audience, relationship, and perceived controllability affect moral emotions.
+
+### Evidence Status
+
+Moral emotions are supported as important contributors to moral behavior, but emotional responses vary across cultures and individuals.
+
+## 4. Relationship to This Chapter
+
+Moral emotions connect moral judgment, moral behavior, empathy, prosocial behavior, norms, and conflict.
+
+## 5. Boundaries
+
+### Owns
+
+Emotional processes specifically linked to moral evaluation and social conduct.
+
+### Defers
+
+General emotion to Chapter 1.13.
+
+## 6. Key Principles
+
+- Different moral emotions have different functions.
+- Moral emotion is not identical to moral judgment.
+- Responsibility affects emotional response.
+- Emotions can motivate repair or punishment.
+- Cultural norms shape moral emotion.
+
+### Topic-specific evidence layer
+
+Evidence should identify the specific emotion and the moral appraisal associated with it. A general measure of negative affect cannot establish guilt, shame, anger, or contempt because these states have different appraisal structures and behavioral consequences.
+
+---
+
+# 92. Emotional contagion
+
+## 1. Purpose
+
+Emotional contagion addresses the spread or convergence of emotional states through social interaction.
+
+## 2. Definition
+
+Emotional contagion is a process through which a person's emotional state changes partly in response to the observed or experienced emotional state of others.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Contagion can involve facial, vocal, bodily, behavioral, and contextual cues. Emotional convergence can occur without exact copying of another person's subjective experience.
+
+### Mechanism
+
+Perception of another person's expression can influence attention, physiological activation, mimicry, interpretation, and emotional state. Shared context can also synchronize emotional responses.
+
+### Moderators / Boundary Conditions
+
+Closeness, attention, emotional intensity, relationship, group identity, regulation, and communication medium affect contagion.
+
+### Evidence Status
+
+Research supports emotional convergence in social settings, but shared environmental causes can be difficult to separate from direct interpersonal transmission.
+
+## 4. Relationship to This Chapter
+
+Emotional contagion connects empathy, social perception, group processes, relationships, and social support.
+
+## 5. Boundaries
+
+### Owns
+
+Social transmission of emotional states.
+
+### Defers
+
+General emotion and emotion regulation to Chapter 1.13.
+
+## 6. Key Principles
+
+- Emotional states can converge socially.
+- Contagion is not identical to empathy.
+- Shared context can mimic contagion.
+- Relationship and attention matter.
+- Transmission can occur without conscious intention.
+
+### Topic-specific evidence layer
+
+Evidence is strongest when the emotional state of the source is measured before the target and alternative common-cause explanations are controlled. Longitudinal or experimentally manipulated interaction can better establish transmission than simple similarity at one time point.
+
+---
+
+# 93. Rejection
+
+## 1. Purpose
+
+Rejection addresses experiences in which a person perceives that another person or group does not accept, desire, include, or value them as a relationship partner or member.
+
+## 2. Definition
+
+Rejection is perceived or enacted nonacceptance, refusal, or withdrawal of desired interpersonal or group inclusion.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Rejection can be explicit or ambiguous, interpersonal or group-based, temporary or enduring. It can concern friendship, romantic interest, membership, cooperation, or social acceptance.
+
+### Mechanism
+
+Rejection changes expectations about belonging and relationship availability and can alter attention to social cues, self-evaluation, and subsequent approach behavior.
+
+### Moderators / Boundary Conditions
+
+Relationship importance, ambiguity, prior history, alternative relationships, social support, identity, and perceived controllability affect responses.
+
+### Evidence Status
+
+Rejection is associated with substantial psychological responses, but individual reactions vary and are shaped by context.
+
+## 4. Relationship to This Chapter
+
+Rejection connects belonging, rejection sensitivity, ostracism, loneliness, social exclusion, and social threat.
+
+## 5. Boundaries
+
+### Owns
+
+The social experience and process of nonacceptance.
+
+### Defers
+
+Clinical consequences to relevant clinical owners.
+
+## 6. Key Principles
+
+- Rejection can be explicit or ambiguous.
+- Meaning depends on relationship and identity.
+- Social support can alter consequences.
+- Rejection and exclusion overlap but are not identical.
+- Individual responses vary.
+
+### Topic-specific evidence layer
+
+Evidence should distinguish actual refusal from perceived rejection because ambiguous interactions can produce rejection perceptions without explicit exclusion. Measures should also identify the desired relationship or membership that was threatened.
+
+---
+
+# 94. Rejection sensitivity
+
+## 1. Purpose
+
+Rejection sensitivity addresses individual differences in the tendency to anxiously expect, readily perceive, and strongly react to social rejection.
+
+## 2. Definition
+
+Rejection sensitivity is a tendency to expect rejection, perceive ambiguous social cues as potentially rejecting, and respond strongly to perceived rejection.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+The construct combines expectation, interpretation, and emotional or behavioral response. These components can vary independently.
+
+### Mechanism
+
+Prior experiences and expectations can influence attention to ambiguous social cues. Heightened concern about rejection may then shape behavior in ways that alter subsequent interactions.
+
+### Moderators / Boundary Conditions
+
+Relationship context, social support, ambiguity, identity, prior experience, self-regulation, and actual partner behavior affect expression.
+
+### Evidence Status
+
+Rejection sensitivity is associated with interpersonal outcomes, but associations do not mean that every expectation of rejection is inaccurate.
+
+## 4. Relationship to This Chapter
+
+Rejection sensitivity connects rejection, belonging, social threat, relationship processes, and loneliness.
+
+## 5. Boundaries
+
+### Owns
+
+Individual differences in expectations and responses around social rejection.
+
+### Defers
+
+General anxiety and personality constructs to their canonical owners.
+
+## 6. Key Principles
+
+- Rejection sensitivity involves expectation and response.
+- Ambiguity is important.
+- Expectations can influence interaction.
+- Actual rejection and perceived rejection differ.
+- Social context moderates expression.
+
+### Topic-specific evidence layer
+
+Evidence should assess whether perceived rejection was objectively supported and distinguish accurate vigilance from overinterpretation. Longitudinal studies can test whether expectations alter behavior in ways that subsequently affect relationships.
+
+---
+
+# 95. Ostracism
+
+## 1. Purpose
+
+Ostracism addresses being ignored, excluded, or treated as socially invisible by another person or group.
+
+## 2. Definition
+
+Ostracism is the experience or behavior of being ignored, excluded from interaction, or denied social acknowledgment.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Ostracism can be brief or prolonged, intentional or ambiguous, interpersonal or group-based. Silent treatment, exclusion from interaction, and nonacknowledgment can produce different forms.
+
+### Mechanism
+
+Ostracism can signal loss of belonging, reduced relational value, or social threat. Attention may become focused on cues of acceptance and opportunities for reconnection.
+
+### Moderators / Boundary Conditions
+
+Relationship importance, duration, intentionality, social support, identity, alternatives, and perceived reasons affect responses.
+
+### Evidence Status
+
+Ostracism research demonstrates robust social effects, but consequences vary with interpretation and context.
+
+## 4. Relationship to This Chapter
+
+Ostracism is a specific form of social exclusion and connects rejection, belonging, loneliness, and social threat.
+
+## 5. Boundaries
+
+### Owns
+
+Ignoring and social nonacknowledgment as interpersonal/group processes.
+
+### Defers
+
+General exclusion and belonging to their dedicated Topics.
+
+## 6. Key Principles
+
+- Ostracism involves social nonacknowledgment.
+- Duration and meaning matter.
+- Reconnection motives can follow exclusion.
+- Social support can alter consequences.
+- Ostracism is not identical to every form of rejection.
+
+### Topic-specific evidence layer
+
+Evidence should identify the observable exclusion behavior and the target's interpretation. Controlled ostracism paradigms are useful for mechanism testing, while naturalistic studies reveal the complexity of repeated and relationship-specific exclusion.
+
+---
+
+# 96. Belonging
+
+## 1. Purpose
+
+Belonging addresses the perceived sense of being accepted, connected, and meaningfully included within social relationships or groups.
+
+## 2. Definition
+
+Belonging is the perceived state of being socially accepted, connected, and included in meaningful relationships or groups.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Belonging includes perceived acceptance, relational connection, membership, significance to others, and fit with a social context.
+
+### Mechanism
+
+Repeated positive interaction, responsiveness, shared identity, inclusion, and reliable relationships can support belonging.
+
+### Moderators / Boundary Conditions
+
+Relationship quality, identity, group norms, social support, rejection history, and context affect belonging.
+
+### Evidence Status
+
+Belonging is associated with psychological and social functioning, but the experience is context-specific and can differ across relationships.
+
+## 4. Relationship to This Chapter
+
+Belonging connects affiliation, rejection, ostracism, social exclusion, loneliness, identity, and social support.
+
+## 5. Boundaries
+
+### Owns
+
+Perceived social inclusion and relational connectedness.
+
+### Defers
+
+General self-concept and developmental identity to their canonical owners.
+
+## 6. Key Principles
+
+- Belonging concerns perceived inclusion.
+- Membership alone does not guarantee belonging.
+- Relationship quality matters.
+- Multiple groups can provide belonging.
+- Belonging can change over time.
+
+### Topic-specific evidence layer
+
+Evidence should distinguish formal membership from perceived belonging. A person can belong administratively to a group while feeling disconnected, or feel strong belonging to a community without formal membership.
+
+---
+
+# 97. Belonging uncertainty
+
+## 1. Purpose
+
+Belonging uncertainty addresses doubt about whether one's social relationships or group membership are secure and whether one is genuinely accepted.
+
+## 2. Definition
+
+Belonging uncertainty is uncertainty about the stability, legitimacy, or durability of one's acceptance and inclusion within a social context.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+It involves uncertainty rather than simple absence of belonging. A person may receive positive signals while remaining unsure whether they will persist.
+
+### Mechanism
+
+Ambiguous feedback, inconsistent inclusion, identity-relevant cues, prior rejection, or unclear group boundaries can increase uncertainty. People may monitor social signals more closely as a result.
+
+### Moderators / Boundary Conditions
+
+Identity importance, context, social support, group norms, feedback consistency, and prior experiences affect uncertainty.
+
+### Evidence Status
+
+Belonging uncertainty is especially relevant in settings where membership is ambiguous or social acceptance is difficult to assess.
+
+## 4. Relationship to This Chapter
+
+This Topic links belonging with rejection sensitivity, social identity threat, and social exclusion.
+
+## 5. Boundaries
+
+### Owns
+
+Uncertainty about social inclusion and acceptance.
+
+### Defers
+
+General anxiety and self-esteem to their canonical owners.
+
+## 6. Key Principles
+
+- Uncertainty differs from confirmed exclusion.
+- Ambiguous feedback is important.
+- Identity relevance changes sensitivity.
+- Consistent inclusion can reduce uncertainty.
+- Uncertainty can alter participation and monitoring.
+
+### Topic-specific evidence layer
+
+Evidence should distinguish uncertainty from actual exclusion by measuring both social treatment and perceived acceptance. Longitudinal designs can test whether repeated feedback changes uncertainty and subsequent engagement.
+
+---
+
+# 98. Loneliness
+
+## 1. Purpose
+
+Loneliness addresses perceived inadequacy or lack of desired social connection.
+
+## 2. Definition
+
+Loneliness is a subjective state arising when a person's social relationships are perceived as insufficient in quantity, quality, or both relative to desired connection.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Loneliness can be emotional, social, situational, chronic, or transient. A person can be alone without being lonely and socially surrounded while feeling lonely.
+
+### Mechanism
+
+Perceived mismatch between desired and actual connection can increase attention to social information and alter expectations about relationships. In some circumstances, loneliness can produce withdrawal; in others, it can motivate reconnection.
+
+### Moderators / Boundary Conditions
+
+Relationship quality, social support, expectations, rejection history, culture, life transitions, and perceived alternatives affect loneliness.
+
+### Evidence Status
+
+Loneliness is associated with many social and psychological outcomes, but causal direction can run both ways.
+
+## 4. Relationship to This Chapter
+
+Loneliness connects affiliation, belonging, rejection, social exclusion, and social support.
+
+## 5. Boundaries
+
+### Owns
+
+Subjective perceived social disconnection.
+
+### Defers
+
+Clinical disorders and general mood to their canonical owners.
+
+## 6. Key Principles
+
+- Loneliness is subjective.
+- Social isolation and loneliness are not identical.
+- Relationship quality matters.
+- Loneliness can motivate approach or withdrawal.
+- Causality can be reciprocal.
+
+### Topic-specific evidence layer
+
+Evidence should distinguish objective network size from subjective satisfaction with relationships. Longitudinal studies are particularly important because loneliness can both result from and contribute to social relationship changes.
+
+---
+
+# 99. Social exclusion
+
+## 1. Purpose
+
+Social exclusion addresses processes through which individuals or groups are denied participation, membership, resources, or meaningful social connection.
+
+## 2. Definition
+
+Social exclusion is the process or state in which a person or group is prevented from, or deprived of, meaningful participation and inclusion in a social context.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Exclusion can involve interpersonal rejection, group membership denial, resource barriers, institutional practices, or persistent social marginalization. These forms differ in mechanism and scope.
+
+### Mechanism
+
+Exclusion can communicate low social value, restrict opportunities for interaction, and reduce access to resources or relationships. It can also reinforce category boundaries.
+
+### Moderators / Boundary Conditions
+
+Power, norms, institutional rules, identity, status, resources, visibility, and social support affect exclusion.
+
+### Evidence Status
+
+Social exclusion is multidimensional, and evidence should specify whether the process is interpersonal, group-based, or institutional.
+
+## 4. Relationship to This Chapter
+
+Social exclusion connects rejection, ostracism, belonging, loneliness, stigma, and social threat.
+
+## 5. Boundaries
+
+### Owns
+
+Social-psychological processes of denied participation and inclusion.
+
+### Defers
+
+Broader structural inequality and institutional policy analysis to appropriate domains.
+
+## 6. Key Principles
+
+- Exclusion can operate at different levels.
+- Interpersonal and institutional exclusion differ.
+- Power affects access to inclusion.
+- Exclusion can alter belonging and behavior.
+- Social support can buffer some consequences.
+
+### Topic-specific evidence layer
+
+Evidence should identify the level and mechanism of exclusion. A single ignored interaction should not be treated as equivalent to systematic institutional exclusion, even though both can affect belonging.
+
+---
+
+# 100. Social threat
+
+## 1. Purpose
+
+Social threat addresses perceived danger to one's social standing, relationships, identity, acceptance, or valued social outcomes.
+
+## 2. Definition
+
+Social threat is a perceived risk of rejection, devaluation, exclusion, status loss, identity harm, or other adverse social consequence.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Threat can concern belonging, reputation, status, competence, relationships, identity, or group position. Different threats produce different psychological responses.
+
+### Mechanism
+
+Perceived threat can increase vigilance, defensive behavior, monitoring of social cues, avoidance, confrontation, or efforts to restore acceptance.
+
+### Moderators / Boundary Conditions
+
+Identity importance, controllability, social support, power, relationship history, ambiguity, and perceived alternatives affect threat.
+
+### Evidence Status
+
+Social threat is a broad process that overlaps with more specific phenomena such as rejection, identity threat, and exclusion. It should not replace those specific constructs when their defining conditions are present.
+
+## 4. Relationship to This Chapter
+
+Social threat provides an umbrella link among rejection, belonging uncertainty, identity threat, exclusion, and interpersonal conflict.
+
+## 5. Boundaries
+
+### Owns
+
+General perception of socially consequential danger.
+
+### Defers
+
+Specific rejection, identity threat, and exclusion mechanisms to their dedicated Topics.
+
+## 6. Key Principles
+
+- Social threat concerns perceived social consequences.
+- Different threat types have different mechanisms.
+- Threat depends on meaning and context.
+- Support and alternatives can alter responses.
+- Broad threat language should not erase specific mechanisms.
+
+### Topic-specific evidence layer
+
+Evidence should specify the threatened outcome and the cue producing the perception of danger. This allows social threat to function as an organizing construct without becoming a substitute for more precise concepts.
+
+---
+
+# 101. Social support
+
+## 1. Purpose
+
+Social support addresses the actual or perceived availability of assistance, care, information, companionship, and emotional resources from other people.
+
+## 2. Definition
+
+Social support is the provision or perceived availability of emotional, instrumental, informational, or companionship resources through social relationships.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Emotional support includes empathy, reassurance, and care. Instrumental support includes practical assistance. Informational support provides guidance or knowledge. Companionship provides shared activity and social presence.
+
+Perceived support concerns expectations that help is available; received support concerns assistance actually provided. These can have different effects.
+
+### Mechanism
+
+Support can reduce stress, increase coping resources, provide information, reinforce belonging, and alter appraisal of difficult situations. It can also create obligations or become unhelpful when poorly matched to need.
+
+### Moderators / Boundary Conditions
+
+Need, relationship quality, timing, support type, recipient preferences, autonomy, cultural norms, and support-provider competence affect effectiveness.
+
+### Evidence Status
+
+Social support is associated with psychological and social functioning, but causal effects depend on matching support to circumstances. More support is not always better if it is intrusive, unwanted, or poorly timed.
+
+## 4. Relationship to This Chapter
+
+Social support connects belonging, relationships, trust, intimacy, coping, prosocial behavior, and social networks.
+
+## 5. Boundaries
+
+### Owns
+
+Interpersonal provision and perceived availability of social resources.
+
+### Defers
+
+General coping and health effects to their canonical owners.
+
+## 6. Key Principles
+
+- Support has multiple forms.
+- Perceived and received support differ.
+- Support effectiveness depends on fit.
+- Unwanted support can have costs.
+- Relationship quality affects support.
+
+### Topic-specific evidence layer
+
+Evidence should distinguish support availability, support received, and support perceived as helpful. Longitudinal and event-based studies can determine whether support preceded improved coping or was mobilized after outcomes had already changed. Matching support type to need is often more informative than counting support contacts alone.
