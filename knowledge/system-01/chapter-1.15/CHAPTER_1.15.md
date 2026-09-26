@@ -1705,6 +1705,10 @@ Early emotional development involves increasing coordination between physiologic
 
 For retrieval, this Topic owns developmental change in emotional functioning. General emotion concepts and emotion theories remain in their canonical psychological chapters.
 
+Emotional development should be interpreted as increasing coordination rather than simple suppression. Children gradually gain more differentiated emotional concepts and strategies, while adults continue to regulate emotion through goals, relationships, environments, and meaning. Cultural expectations influence which emotional expressions are encouraged or discouraged.
+
+Developmental evidence should distinguish emotional experience from observable expression. A person may experience an emotion without displaying it strongly, and outward control does not prove the absence of internal arousal. This distinction is important when comparing developmental periods or cultures.
+
 ---
 
 # 22. Social development
@@ -1775,6 +1779,10 @@ Early development depends heavily on caregivers. Later childhood expands peer in
 
 For retrieval, this Topic owns developmental change in social functioning. General social psychology, interpersonal processes, and group behavior remain under their canonical owners.
 
+Social development is reciprocal. Children influence caregivers and peers, adolescents reshape family relationships through increasing autonomy, and adults continue to develop through partnership, work, caregiving, and community roles. Social competence therefore depends partly on the demands and opportunities of the surrounding environment.
+
+The Topic should not be interpreted as a measure of sociability alone. Development can involve becoming more selective, more reciprocal, or more capable of maintaining relationships across distance and conflict. Social development includes organization and quality of relationships, not simply quantity.
+
 ---
 
 # 23. Personality development
@@ -1838,6 +1846,10 @@ Personality development concerns emergence, consolidation, differentiation, and 
 Personality development is not identical to temperament or to general personality. Temperament can contribute to early individual differences, while later personality reflects accumulated experience, social roles, habits, relationships, and selection. Developmental patterns are therefore probabilistic rather than predetermined.
 
 For retrieval, this Topic owns developmental change in personality. The general construct of personality and its theories remain in Chapter 1.14, while developmental evidence is canonical here.
+
+Personality development demonstrates why stability and change must be represented together. Traits can show substantial rank-order continuity while also showing mean-level change or different expression across roles. Development can therefore alter how a characteristic functions without erasing individual differences.
+
+Role transitions can provide repeated opportunities for new habits and expectations. Education, work, partnership, parenthood, and changing social responsibilities can all modify the environments in which personality tendencies are expressed. These influences do not imply that personality is infinitely malleable.
 
 ---
 
@@ -1906,6 +1918,10 @@ Development is influenced by cognitive capacity, social interaction, cultural pr
 
 For retrieval, this Topic owns developmental change in moral functioning. General ethics, moral psychology, and normative philosophy remain distinct domains.
 
+Moral development is influenced by both reasoning and social practice. People learn moral expectations through interaction, observation, consequences, cultural traditions, and discussion, while cognitive development expands the ability to coordinate perspectives and principles.
+
+Moral knowledge and moral behavior can diverge. A person can understand a rule without following it in a particular situation because motivation, emotion, social pressure, or opportunity changes the behavioral outcome. Developmental accounts should therefore distinguish moral reasoning from moral action.
+
 ---
 
 # 25. Self development
@@ -1969,6 +1985,10 @@ Self development concerns changing representations of one's own characteristics,
 Self development interacts with language, memory, social cognition, personality, and identity. Increasingly complex self-understanding does not mean that all self-representations become accurate or stable. Context and social feedback continue to shape which aspects of self become salient.
 
 For retrieval, this Topic owns developmental change in self-representation. The general self construct and self-related processes remain linked to their canonical psychological owners.
+
+Self development is partly a process of increasing differentiation and integration. People can represent themselves through traits, roles, memories, relationships, abilities, and future possibilities. The self can therefore become more complex without becoming perfectly stable or accurate.
+
+Social feedback contributes to self-knowledge, but feedback can be inconsistent or biased. Developmental self-understanding should therefore be treated as an evolving representation rather than a direct readout of objective characteristics.
 
 ---
 
@@ -2036,6 +2056,10 @@ Identity development concerns changes in how people organize commitments, roles,
 Identity is shaped by increasing cognitive capacity, social feedback, cultural context, relationships, education, work, and major transitions. Different identity domains can develop at different rates, so a person can be highly committed in one domain while still exploring another.
 
 For retrieval, this Topic owns developmental organization of identity. General identity constructs and broader self-related mechanisms remain in their canonical owners, while adolescent identity exploration is separately represented later in the chapter.
+
+Identity development is often domain-specific and revisable. Occupational, relational, cultural, ideological, and other commitments can develop on different schedules. A person may explore one domain intensely while maintaining a relatively settled commitment in another.
+
+Major transitions can reopen identity questions because they change available roles and future possibilities. This does not mean identity is unstable by definition. Reconsideration can be part of coherent development when new information requires an existing commitment to be revised or integrated.
 
 ---
 
@@ -2107,6 +2131,10 @@ Executive functioning is context-sensitive. Performance can vary with emotional 
 
 For retrieval, this Topic owns developmental change in executive control. General executive-function theory, cognitive control, and task-specific mechanisms remain under the relevant cognitive chapters.
 
+Executive-function development depends on both internal capacity and task structure. A person may demonstrate strong control in a familiar, low-arousal environment and weaker control when tasks are novel, emotionally charged, or socially demanding. Development therefore involves both capacity and context.
+
+Executive functions also interact with learning and regulation. Better control can support practice and goal maintenance, while repeated practice can reduce control demands as skills become more automatic. Development is consequently reciprocal rather than a one-way increase in control.
+
 ---
 
 # 28. Emotion-regulation development
@@ -2174,6 +2202,10 @@ Development involves attention, language, executive control, learning, social fe
 
 For retrieval, this Topic owns developmental change in emotion regulation. General emotion-regulation mechanisms remain in their canonical chapter, with this Topic specifying how those mechanisms change across development.
 
+Emotion-regulation development includes both internal and interpersonal regulation. Seeking comfort, changing an environment, communicating a need, using language to reinterpret an event, and deliberately shifting attention can all become part of an increasingly flexible regulatory repertoire.
+
+Regulation should not be evaluated by emotional intensity alone. Strong emotion can be appropriate, and suppression can sometimes produce costs. Developmental competence concerns flexible coordination between emotional demands, goals, relationships, and context.
+
 ---
 
 # 29. Social-cognition development
@@ -2237,6 +2269,10 @@ Social-cognition development concerns developmental change in understanding othe
 Development is supported by language, interaction, observation, executive functioning, and repeated opportunities to interpret other people's behavior. Increasing sophistication does not eliminate error; social cognition remains sensitive to context, motivation, group membership, and available information.
 
 For retrieval, this Topic owns developmental change in social cognition. Theory of mind is represented separately because it is a specific component within the broader developmental system.
+
+Social cognition develops through repeated opportunities to interpret people and coordinate interaction. Language supports increasingly explicit representation of perspectives, while social experience supplies information about intentions, norms, and relationships. Executive control helps maintain multiple perspectives when they conflict.
+
+Development remains context-sensitive. People can understand another person's perspective in one situation and fail to apply that understanding in another because of emotion, motivation, group identity, or limited information. Social-cognitive development therefore concerns capacities and their use, not a permanent state of perfect understanding.
 
 ---
 
@@ -2304,6 +2340,10 @@ Theory of mind concerns developmental change in representing other people's beli
 Development involves language, representational capacity, executive control, interaction, and experience with different perspectives. Performance on a single belief task should not be treated as a complete measure of social understanding because task demands can affect performance.
 
 For retrieval, this Topic owns developmental change in theory-of-mind capacity. Broader social cognition and social development remain separate canonical Topics.
+
+Theory of mind tasks are informative but narrow. Performance depends partly on language, memory, inhibition, task comprehension, and familiarity with the social scenario. A developmental difference on one task should therefore not be treated as a complete measure of another person's ability to understand minds.
+
+Theory of mind also continues to develop in complexity as people encounter deception, conflicting beliefs, social conventions, and more complex interpersonal contexts. It remains one component of social cognition rather than its endpoint.
 
 ---
 
