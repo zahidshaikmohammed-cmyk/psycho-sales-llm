@@ -100,6 +100,18 @@ A useful developmental account therefore separates four questions: what changed,
 
 The construct also provides the chapter's ownership boundary. The chapter can explain how cognition, emotion, personality, identity, attachment, or social functioning develop without becoming the canonical home for the general construct. Development is the organizing relation among those processes, not a replacement for them.
 
+The canonical boundary is important: Development explains the temporal organization of psychological functioning, while the mechanisms and domains that make up that functioning retain their own owners. This keeps the chapter integrative without turning it into a replacement for the rest of the encyclopedia.
+
+Lifespan development also requires attention to historical embeddedness. A developmental pattern observed in one generation should not automatically be treated as a universal age sequence. The lifespan perspective therefore connects individual time with historical time.
+
+The construct is especially useful for separating developmental change from simple exposure to different environments. A change observed after a transition may reflect the transition, maturation, learning, selection, or several interacting processes. The evidence must determine which interpretation is justified.
+
+Mechanisms can operate across levels and timescales. A distal social condition can alter a proximal interaction, which changes repeated experience and eventually produces a longer-term developmental pattern. This layered structure is why mechanism claims should remain explicit rather than being hidden inside broad labels.
+
+Systems thinking is strongest when it produces testable relational hypotheses. The perspective should therefore identify the components that interact and the conditions that change their relationship. Its value is explanatory organization, not permission to treat every conceivable influence as equally important.
+
+The interaction principle also protects against false dichotomies. Biological predispositions can matter without determining outcomes, and environmental experiences can matter without making biology irrelevant. Development emerges from their changing relationship.
+
 ---
 
 # 2. Lifespan development
@@ -617,6 +629,8 @@ Continuity can operate through multiple pathways. A characteristic can persist b
 
 Continuity is therefore not evidence that a developmental pattern is fixed. If continuity is maintained partly through environmental reinforcement, changing the environment may alter the trajectory. This is one reason developmental continuity and plasticity should be studied together.
 
+Continuity can be maintained through repeated transactions rather than through an unchanging internal property. This means that continuity itself can sometimes reveal where developmental leverage exists: changing the maintaining conditions may change the trajectory.
+
 ---
 
 # 8. Discontinuity
@@ -696,6 +710,8 @@ For retrieval, this Topic owns the general developmental idea of qualitative reo
 Discontinuity is best treated as a claim about organization rather than simply a dramatic score difference. Researchers need evidence that the relations among components, strategies, or representations have changed. A developmental transition may look sudden at the behavioral level while being prepared by gradual changes in underlying capacities.
 
 This Topic therefore helps prevent stage labels from being mistaken for mechanisms. A stage boundary can mark a period in which reorganization becomes visible, but the mechanisms producing the reorganization must still be identified.
+
+Discontinuity should be interpreted cautiously because apparent stage jumps can arise from measurement thresholds or changes in task demands. Stronger evidence comes from demonstrating a meaningful change in organization or strategy across development.
 
 ---
 
@@ -782,6 +798,8 @@ Stability can be meaningful without being complete. Psychological systems contai
 
 The type of stability should therefore always be named when possible. Rank-order stability, mean-level stability, structural stability, and functional stability answer different questions. This precision is especially important when comparing developmental findings across different measures or populations.
 
+Stability is also scale-dependent. A person can be stable across years while showing substantial moment-to-moment variability, and a group can be stable in its average while containing diverse individual trajectories. The level of analysis must therefore be specified.
+
 ---
 
 # 10. Change
@@ -866,6 +884,8 @@ For retrieval, this Topic owns the broad concept of developmental change as a co
 Developmental change can also involve reorganization rather than simple accumulation. New capacities may alter how earlier abilities are used, and changing environments can make an old strategy less useful. A developmental trajectory may therefore contain temporary instability while a new organization is being established.
 
 The construct is consequently broader than growth. When a question concerns the general fact of alteration across time, Change is the appropriate umbrella. When the question concerns the process, timing, domain, or stage of that alteration, the corresponding developmental Topic should be linked.
+
+Change becomes more informative when its direction, rate, timing, and durability are known. A temporary performance change and a lasting developmental reorganization are different findings even if they initially produce the same observed improvement.
 
 ---
 
