@@ -1616,6 +1616,17 @@ General emotion and emotion mechanisms to Chapter 1.13; emotion regulation as a 
 - Emotional development is shaped by biological and social processes.
 - Developmental patterns vary across people and cultures.
 
+
+### Topic-specific evidence layer
+
+Emotional development is the developmental organization of emotional experience, expression, recognition, and regulation. It includes increasing differentiation of emotional states and changing ways of responding to internal and interpersonal demands. Development is shaped by biological maturation, learning, language, relationships, and cultural expectations.
+
+Early emotional development involves increasing coordination between physiological arousal, behavioral expression, and caregiver regulation. Later development involves greater capacity to identify emotions, communicate them, regulate responses, and integrate emotion with goals. These changes are not simply a movement from emotion to reason; emotion and cognition become increasingly coordinated.
+
+For retrieval, this Topic owns developmental change in emotional functioning. General emotion concepts and emotion theories remain in their canonical psychological chapters.
+
+---
+
 # 22. Social development
 
 ## 1. Purpose
@@ -1675,6 +1686,17 @@ General social psychology and social behavior to Chapter 1.16; cultural mechanis
 - Social environments help shape development.
 - Social development varies with culture and context.
 
+
+### Topic-specific evidence layer
+
+Social development concerns changes in social interaction, relationships, social understanding, cooperation, conflict, and participation across development. Social functioning changes because both the person's capacities and the surrounding social environments change.
+
+Early development depends heavily on caregivers. Later childhood expands peer interaction, while adolescence increases the importance of peer groups, autonomy, and emerging reciprocal relationships. Adult development adds partnership, work, parenting, community, and caregiving roles. Development therefore changes the structure of social participation rather than simply increasing sociability.
+
+For retrieval, this Topic owns developmental change in social functioning. General social psychology, interpersonal processes, and group behavior remain under their canonical owners.
+
+---
+
 # 23. Personality development
 
 ## 1. Purpose
@@ -1727,6 +1749,17 @@ General personality traits, self, identity, and individual differences to Chapte
 - Personality can be stable and changeable at the same time.
 - Developmental change does not erase individual differences.
 - Personality development is influenced by biology, experience, roles, and context.
+
+
+### Topic-specific evidence layer
+
+Personality development concerns emergence, consolidation, differentiation, and transformation in relatively enduring person-level characteristics across the lifespan. Development can involve mean-level change, rank-order continuity, changing expression, and interaction with roles and environments.
+
+Personality development is not identical to temperament or to general personality. Temperament can contribute to early individual differences, while later personality reflects accumulated experience, social roles, habits, relationships, and selection. Developmental patterns are therefore probabilistic rather than predetermined.
+
+For retrieval, this Topic owns developmental change in personality. The general construct of personality and its theories remain in Chapter 1.14, while developmental evidence is canonical here.
+
+---
 
 # 24. Moral development
 
@@ -1784,6 +1817,17 @@ General moral judgment and decision-making to Chapters 1.10 and 1.16 where appli
 - Moral development is shaped by cognitive, emotional, social, and cultural processes.
 - Moral development is not adequately represented by one universal sequence.
 
+
+### Topic-specific evidence layer
+
+Moral development concerns developmental change in how people understand obligations, fairness, harm, authority, cooperation, values, and moral action. It can involve reasoning, emotional responses, social learning, identity, and behavior, and these components do not necessarily develop at identical rates.
+
+Development is influenced by cognitive capacity, social interaction, cultural practices, observation of others, and opportunities to negotiate rules and consequences. Moral development should therefore not be reduced to memorizing moral rules or to a single sequence of stages.
+
+For retrieval, this Topic owns developmental change in moral functioning. General ethics, moral psychology, and normative philosophy remain distinct domains.
+
+---
+
 # 25. Self development
 
 ## 1. Purpose
@@ -1836,6 +1880,17 @@ Self-concept, self-awareness, self-esteem, self-discrepancy, and related canonic
 - Self representations become more differentiated with development.
 - Self development is socially and cognitively shaped.
 - Contextual variation does not necessarily mean an incoherent self.
+
+
+### Topic-specific evidence layer
+
+Self development concerns changing representations of one's own characteristics, capacities, experiences, and relationships across development. Early self-representations are often concrete and socially grounded; later development can include increasingly abstract, differentiated, temporal, and evaluative self-knowledge.
+
+Self development interacts with language, memory, social cognition, personality, and identity. Increasingly complex self-understanding does not mean that all self-representations become accurate or stable. Context and social feedback continue to shape which aspects of self become salient.
+
+For retrieval, this Topic owns developmental change in self-representation. The general self construct and self-related processes remain linked to their canonical psychological owners.
+
+---
 
 # 26. Identity development
 
@@ -1892,6 +1947,17 @@ General identity structure and identity constructs to Chapter 1.14; social ident
 - Identity involves both exploration and commitment.
 - Identity development continues beyond adolescence.
 - Cultural and social contexts shape identity pathways.
+
+
+### Topic-specific evidence layer
+
+Identity development concerns changes in how people organize commitments, roles, values, affiliations, and future directions into a sense of who they are. Development can include exploration, commitment, revision, integration, and reorganization rather than one fixed sequence.
+
+Identity is shaped by increasing cognitive capacity, social feedback, cultural context, relationships, education, work, and major transitions. Different identity domains can develop at different rates, so a person can be highly committed in one domain while still exploring another.
+
+For retrieval, this Topic owns developmental organization of identity. General identity constructs and broader self-related mechanisms remain in their canonical owners, while adolescent identity exploration is separately represented later in the chapter.
+
+---
 
 # 27. Executive-function development
 
@@ -1952,6 +2018,17 @@ General executive functions and cognitive control to Chapter 1.9.
 - Executive functioning is multidimensional.
 - Task performance depends on both control capacity and context.
 
+
+### Topic-specific evidence layer
+
+Executive-function development concerns developmental change in coordinated control processes such as working with information, inhibiting responses, shifting attention, maintaining goals, and monitoring behavior. These capacities develop through interacting biological maturation, learning, practice, and environmental demands.
+
+Executive functioning is context-sensitive. Performance can vary with emotional arousal, motivation, sleep, task complexity, and available support. Development should therefore not be represented as a single ability that rises uniformly with age.
+
+For retrieval, this Topic owns developmental change in executive control. General executive-function theory, cognitive control, and task-specific mechanisms remain under the relevant cognitive chapters.
+
+---
+
 # 28. Emotion-regulation development
 
 ## 1. Purpose
@@ -2008,6 +2085,17 @@ General emotion regulation to Chapter 1.13.
 - Caregivers play an important role in early co-regulation.
 - Strategy effectiveness is context-dependent.
 
+
+### Topic-specific evidence layer
+
+Emotion-regulation development concerns changes in how people influence the intensity, duration, expression, and consequences of emotional states. Early regulation relies heavily on caregivers and environmental structure; later development includes increasingly coordinated internal and interpersonal strategies.
+
+Development involves attention, language, executive control, learning, social feedback, and changing goals. Greater regulation does not mean suppressing all emotion. Effective regulation can involve accepting, reappraising, communicating, seeking support, changing situations, or selecting environments.
+
+For retrieval, this Topic owns developmental change in emotion regulation. General emotion-regulation mechanisms remain in their canonical chapter, with this Topic specifying how those mechanisms change across development.
+
+---
+
 # 29. Social-cognition development
 
 ## 1. Purpose
@@ -2060,6 +2148,17 @@ General social cognition to Chapter 1.16 and general cognition to Chapter 1.9.
 - Social cognition develops through cognitive and social experience.
 - Understanding another person's mind is not the same as accurately predicting behavior.
 - Social-cognitive performance is context-sensitive.
+
+
+### Topic-specific evidence layer
+
+Social-cognition development concerns developmental change in understanding other people, social intentions, perspectives, relationships, norms, and mental states. It includes multiple abilities rather than one general social-cognitive capacity.
+
+Development is supported by language, interaction, observation, executive functioning, and repeated opportunities to interpret other people's behavior. Increasing sophistication does not eliminate error; social cognition remains sensitive to context, motivation, group membership, and available information.
+
+For retrieval, this Topic owns developmental change in social cognition. Theory of mind is represented separately because it is a specific component within the broader developmental system.
+
+---
 
 # 30. Theory of mind
 
@@ -2116,6 +2215,17 @@ General social cognition to Chapter 1.16 and general cognition/language to their
 - Other people can hold mental states different from one's own.
 - Theory of mind develops through multiple interacting processes.
 - Passing a theory-of-mind task depends partly on task and language demands.
+
+
+### Topic-specific evidence layer
+
+Theory of mind concerns developmental change in representing other people's beliefs, knowledge, desires, intentions, and perspectives, including the possibility that another person can hold information different from one's own. It is one component of social cognition rather than a complete theory of social understanding.
+
+Development involves language, representational capacity, executive control, interaction, and experience with different perspectives. Performance on a single belief task should not be treated as a complete measure of social understanding because task demands can affect performance.
+
+For retrieval, this Topic owns developmental change in theory-of-mind capacity. Broader social cognition and social development remain separate canonical Topics.
+
+---
 
 # 31. Prenatal development
 
