@@ -624,3 +624,605 @@ General attribution, internal attribution, external attribution, and broader cog
 
 Evidence should specify the strength and visibility of situational constraints before concluding that a dispositional attribution represents the fundamental attribution error. Modern interpretation benefits from separating the original conceptual claim from broader claims that people universally ignore situations. Observer attention, information order, accountability, cultural context, and task structure can alter the balance between dispositional and situational explanations. The phenomenon is most precisely represented as a conditional attributional tendency whose diagnostic value depends on the causal information available to the observer.
 
+
+
+---
+
+# 11. Actor–observer difference
+
+## 1. Purpose
+
+The actor–observer difference addresses systematic differences between how people explain their own behavior and how they explain another person's behavior, especially differences in the relative attention given to person and situation.
+
+## 2. Definition
+
+The actor–observer difference is a tendency for explanations of one's own behavior and explanations of another person's behavior to differ in the weighting of dispositional and situational causes.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+An actor has access to internal states, intentions, goals, and the changing circumstances of their own behavior. An observer may instead have greater perceptual access to the actor and the visible action. These differences in information can influence causal explanation.
+
+The pattern is not simply “actors blame situations and observers blame personality.” Self-explanations can also be dispositional, and observers can recognize situational causes. The relevant question is how perspective, information, and task conditions alter causal weighting.
+
+### Mechanism
+
+One proposed mechanism is attentional perspective. The actor experiences the situation as a changing field of circumstances, whereas the observer often sees the actor as the stable focal object. Information asymmetry can reinforce this difference because people usually have richer access to their own intentions and constraints than to another person's.
+
+Memory and knowledge can also contribute. A person explaining their own repeated behavior has access to a history of prior circumstances that may not be visible to an observer.
+
+### Moderators / Boundary Conditions
+
+The effect depends on whether behavior is familiar or unfamiliar, whether the situation is stable or changing, whether the observer knows the actor well, whether situational information is available, and whether the behavior is intentional. Cultural norms and relationship context can also affect how self and other explanations are constructed.
+
+### Evidence Status
+
+Research supports perspective-related differences in attribution under some conditions, but the pattern is not universal. Effects vary with information, familiarity, behavior type, and the specific attribution task. It should therefore be treated as a conditional attributional phenomenon rather than a fixed law of self-versus-other judgment.
+
+## 4. Relationship to This Chapter
+
+This Topic connects internal and external attribution with attribution bias. It is distinct from the fundamental attribution error because it focuses on differences in actor versus observer perspective rather than solely on dispositional overemphasis when judging others.
+
+## 5. Boundaries
+
+### Owns
+
+Perspective-related differences in social causal explanation between actors and observers.
+
+### Defers
+
+General self-knowledge and perspective-taking processes when they are not specifically being examined as determinants of attribution.
+
+## 6. Key Principles
+
+- Actor and observer perspectives provide different information.
+- Perspective can alter causal weighting.
+- Self-explanations are not always situational.
+- Other-explanations are not always dispositional.
+- The effect is conditional on information and context.
+
+### Topic-specific evidence layer
+
+Evidence should compare matched explanations under controlled information conditions rather than assuming that perspective alone causes the difference. Providing observers with the actor's situational information can reduce some differences, while making actors focus on stable patterns can alter self-explanations. This supports an account in which perspective is one contributor to attribution rather than a complete explanation.
+
+---
+
+# 12. Halo effect
+
+## 1. Purpose
+
+The halo effect addresses the influence of an overall positive impression on judgments of other characteristics of the same person.
+
+## 2. Definition
+
+The halo effect is a tendency for a general favorable impression of a person to influence judgments of additional characteristics, making those characteristics appear more positively related than the available evidence independently warrants.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+A positive global evaluation can influence judgments of competence, warmth, intelligence, reliability, attractiveness, or other characteristics. The effect concerns the relationship among judgments, not simply the fact that one person possesses multiple positive characteristics.
+
+A halo can arise in perception, evaluation, rating, hiring judgments, educational judgments, interpersonal impressions, and other contexts where multiple characteristics are assessed.
+
+### Mechanism
+
+One mechanism involves interpretive generalization: once a person is represented positively, ambiguous information about another characteristic may be interpreted consistently with that representation. A second possibility is response consistency, where a general evaluation influences how ratings are expressed even when underlying observations differ.
+
+Halo effects can therefore occur at multiple stages, including perception, inference, memory, and measurement.
+
+### Moderators / Boundary Conditions
+
+The effect depends on ambiguity, familiarity, accountability, rating format, information quality, motivation, and whether judgments are made independently. Strongly diagnostic information about a specific attribute can constrain generalization.
+
+### Evidence Status
+
+The halo effect is a well-established concept in social judgment and measurement, but its size varies across tasks. Evidence should distinguish genuine covariance among characteristics from bias introduced by a global impression. People can genuinely possess correlated traits, so a positive relationship among ratings is not automatically a halo effect.
+
+## 4. Relationship to This Chapter
+
+Halo effect belongs within person perception and impression formation but has its own canonical entry because it describes a specific pattern of cross-attribute judgment.
+
+## 5. Boundaries
+
+### Owns
+
+The social-psychological phenomenon in which a global favorable impression influences judgments of other attributes.
+
+### Defers
+
+General attractiveness, personality, intelligence, or competence constructs to their canonical owners.
+
+## 6. Key Principles
+
+- A global positive impression can spread across attribute judgments.
+- Correlation among traits is not automatically halo bias.
+- Ambiguity increases opportunity for generalization.
+- Specific diagnostic evidence can constrain halo effects.
+- Measurement format can influence observed halo.
+
+### Topic-specific evidence layer
+
+A strong test of halo requires evidence that the global evaluation affects judgments beyond what independent information about the target attributes predicts. Independent ratings, objective criteria, behavioral samples, and experimental manipulation of initial impressions can help separate true trait covariance from evaluative spillover. This distinction is essential because a person can genuinely be both likable and competent; the halo effect concerns unwarranted generalization, not positive correlation itself.
+
+---
+
+# 13. Horn effect
+
+## 1. Purpose
+
+The horn effect addresses the influence of a negative overall impression on judgments of other characteristics of the same person.
+
+## 2. Definition
+
+The horn effect is a tendency for a general unfavorable impression of a person to influence judgments of additional characteristics in a negative direction beyond what independent evidence for those characteristics warrants.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+A negative impression can color judgments of competence, trustworthiness, intelligence, warmth, or other characteristics. Like the halo effect, the phenomenon concerns evaluative spillover across attributes.
+
+### Mechanism
+
+Once a person is represented negatively, ambiguous observations may be interpreted consistently with the negative representation. A global negative evaluation can also influence rating behavior, memory, attention, and the interpretation of later evidence.
+
+### Moderators / Boundary Conditions
+
+The effect depends on ambiguity, information quality, familiarity, accountability, motivation, and whether attribute judgments are made independently. Strong evidence about a particular characteristic can reduce reliance on the global impression.
+
+### Evidence Status
+
+The horn effect is conceptually related to halo effects and is best treated as a negative-direction form of evaluative generalization. The existence of negative relationships among judgments does not by itself establish bias because characteristics can genuinely covary.
+
+## 4. Relationship to This Chapter
+
+The Topic belongs to impression formation and person judgment. It is distinct from general prejudice or stereotyping because the horn effect concerns spillover from an overall evaluation to other judgments of the same target.
+
+## 5. Boundaries
+
+### Owns
+
+Negative evaluative spillover across judgments of an individual person.
+
+### Defers
+
+General prejudice, discrimination, stereotypes, and negative attitudes to their dedicated Topics.
+
+## 6. Key Principles
+
+- Negative global impressions can influence other judgments.
+- The effect concerns unwarranted evaluative spillover.
+- Genuine covariance among characteristics must be distinguished from bias.
+- Ambiguous information is particularly vulnerable to interpretation through an existing impression.
+- Specific evidence can constrain negative generalization.
+
+### Topic-specific evidence layer
+
+Evidence should demonstrate that the negative global evaluation contributes information beyond independently measured target characteristics. Studies can test this by manipulating initial evaluations while holding attribute-relevant evidence constant. The resulting difference in judgments provides stronger evidence for evaluative spillover than simple correlations among negative ratings.
+
+---
+
+# 14. False consensus effect
+
+## 1. Purpose
+
+The false consensus effect addresses the tendency to perceive one's own attitudes, choices, or behaviors as more common among other people than they objectively are.
+
+## 2. Definition
+
+The false consensus effect is a tendency for people to overestimate the prevalence of their own responses, preferences, attitudes, or behaviors within a relevant social population.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+The phenomenon can concern opinions, preferences, behavioral choices, moral positions, habits, and other responses for which people can estimate how common their own position is. The relevant reference population matters: people may accurately perceive prevalence within one group while overestimating prevalence in a broader population.
+
+### Mechanism
+
+People have direct access to their own response and often encounter people who are similar to themselves through social networks, communities, occupations, or friendships. The information available to the individual can therefore be nonrepresentative. Projection of one's own response onto others may provide a simple estimate when direct prevalence information is unavailable.
+
+### Moderators / Boundary Conditions
+
+The effect varies with perceived similarity, group membership, accessibility of information, confidence, response prevalence, social selection, and the definition of the reference population. People do not necessarily overestimate consensus for every belief or behavior.
+
+### Evidence Status
+
+Research supports systematic overestimation of consensus in some settings, while showing that the magnitude depends on the population and information structure. A person's social environment can genuinely be clustered around similar preferences, so apparent consensus may sometimes reflect accurate local sampling rather than bias.
+
+## 4. Relationship to This Chapter
+
+False consensus is a social-cognitive judgment about other people's attitudes and behavior. It connects with social comparison, social norms, social proof, and self-categorization.
+
+## 5. Boundaries
+
+### Owns
+
+The tendency to estimate one's own response as more prevalent among others than warranted by representative evidence.
+
+### Defers
+
+General statistical estimation, sampling theory, and attitudes themselves to their canonical owners.
+
+## 6. Key Principles
+
+- Consensus estimates depend on the reference population.
+- Personal experience provides nonrandom social information.
+- Similarity and network composition can inflate perceived prevalence.
+- Local consensus can be real even when population-wide consensus is not.
+- False consensus is a tendency, not an inevitable error.
+
+### Topic-specific evidence layer
+
+A valid false-consensus test requires an appropriate estimate of actual prevalence in the relevant population. If participants interact primarily with similar others, their perception of consensus may be locally accurate. Evidence should therefore specify the sampling frame, comparison population, and whether the target judgment concerns behavior, attitude, or perceived social approval. This prevents the concept from being used as a generic label for disagreement with a person's estimate.
+
+---
+
+# 15. Attitudes
+
+## 1. Purpose
+
+Attitudes establish the chapter's canonical treatment of evaluative orientations toward objects, people, groups, behaviors, issues, or concepts.
+
+## 2. Definition
+
+An attitude is an evaluative orientation toward a particular object, person, group, behavior, issue, or concept that can vary in valence, strength, accessibility, certainty, and other properties.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Attitudes can be favorable, unfavorable, or relatively neutral. They may differ in strength, stability, accessibility, ambivalence, certainty, and the extent to which they are based on affective, cognitive, or experiential information.
+
+Attitudes can be directed toward concrete objects or abstract targets. A person can hold an attitude toward a brand, a social group, a behavior, a policy, a relationship, or a general principle.
+
+### Mechanism
+
+Attitudes can arise through direct experience, learning, social influence, observation, repeated exposure, evaluative conditioning, reasoning, and identity-related processes. Their expression depends partly on accessibility and context.
+
+An attitude is not identical to a momentary feeling or a single opinion statement. A stable evaluative orientation can persist across situations while still being activated or expressed differently depending on context.
+
+### Moderators / Boundary Conditions
+
+Attitude expression depends on accessibility, social norms, perceived consequences, confidence, ambivalence, situational cues, and the relevance of the target to the current decision. People can also hold conflicting evaluations toward the same object.
+
+### Evidence Status
+
+Attitude research uses self-report, behavioral measures, implicit measures, longitudinal designs, and experimental manipulations. Different measurement methods can capture different aspects of evaluation and should not automatically be treated as interchangeable.
+
+### Attitudes and behavior
+
+An attitude can influence behavior, but the relationship is not deterministic. Behavioral opportunities, norms, perceived control, competing goals, incentives, habits, and situational constraints can strengthen or weaken attitude–behavior correspondence.
+
+## 4. Relationship to This Chapter
+
+Attitudes are foundational to attitude formation, attitude change, and the attitude–behavior relationship. They also connect with social identity, prejudice, discrimination, and social influence.
+
+## 5. Boundaries
+
+### Owns
+
+The general social-psychological construct of evaluative orientation toward a target.
+
+### Defers
+
+General emotion, motivation, personality, values, and decision-making to their canonical owners unless they are being examined specifically as components or determinants of attitudes.
+
+## 6. Key Principles
+
+- Attitudes are evaluative orientations toward identifiable targets.
+- They vary in strength, accessibility, certainty, and ambivalence.
+- Attitudes can arise from experience, learning, social information, and reasoning.
+- Attitudes influence behavior without determining it.
+- Measurement method matters when interpreting attitude evidence.
+
+### Topic-specific evidence layer
+
+Attitude evidence should specify both the target and the measurement method. A self-reported evaluation may capture consciously accessible endorsement, while another measure may capture a different response tendency under constrained conditions. Neither should automatically be treated as a complete measure of a person's overall attitude. Stronger conclusions come from converging measures and from studies that examine whether the measured attitude predicts behavior in the context where that behavior actually occurs.
+
+---
+
+# 16. Attitude formation
+
+## 1. Purpose
+
+Attitude formation explains how evaluative orientations toward social and nonsocial targets emerge and become organized.
+
+## 2. Definition
+
+Attitude formation is the process through which a person develops an evaluative orientation toward a target.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Attitudes can form through direct experience, observation, social communication, repeated exposure, learning, emotional association, and deliberate evaluation. Some attitudes form gradually through repeated experiences; others can change rapidly following salient events.
+
+### Mechanism
+
+Learning provides one route: experiences can associate a target with positive or negative outcomes. Social communication provides another: people acquire evaluative information from parents, peers, institutions, media, and other social sources. Direct interaction can provide especially rich information because the individual can observe consequences personally.
+
+Attitude formation can also involve inference from one's own behavior or from perceived group norms. The person may construct an evaluation from repeated patterns rather than from a single explicit decision.
+
+### Moderators / Boundary Conditions
+
+Formation depends on exposure, attention, emotional salience, prior attitudes, source credibility, social identification, repetition, outcome relevance, and the degree to which the target is personally experienced. Initial attitudes can also affect which later information receives attention.
+
+### Evidence Status
+
+Multiple mechanisms have empirical support, but no single process explains all attitude formation. The relative contribution of direct experience, social learning, evaluative conditioning, and deliberate reasoning depends on the target and context.
+
+### Stability and revision
+
+An initially formed attitude can become more accessible and stable through repetition and use, but it can also remain weak or ambiguous when evidence is inconsistent. New experiences can modify its strength or direction.
+
+## 4. Relationship to This Chapter
+
+Attitude formation is the developmental/process Topic for how attitudes arise. Attitude change addresses subsequent modification of existing evaluations and should not be collapsed with initial formation.
+
+## 5. Boundaries
+
+### Owns
+
+Processes through which evaluative orientations emerge.
+
+### Defers
+
+General learning mechanisms to the learning chapter and general emotion or memory mechanisms to their canonical owners when those mechanisms are being studied independently of attitude formation.
+
+## 6. Key Principles
+
+- Attitudes can form through experience, learning, observation, and reasoning.
+- Multiple formation pathways can operate together.
+- Prior attitudes influence exposure and interpretation of new information.
+- Initial formation and later change are analytically distinct.
+- Context determines which formation mechanism is most relevant.
+
+### Topic-specific evidence layer
+
+Formation claims should identify what exposure preceded the attitude and what competing explanations are plausible. A correlation between exposure and evaluation does not establish that exposure produced the attitude because people select environments partly according to existing preferences. Experimental manipulation of exposure or longitudinal evidence can provide stronger support for formation mechanisms. Social learning evidence should also consider source credibility and identification, since people do not respond equally to every source of evaluative information.
+
+---
+
+# 17. Attitude change
+
+## 1. Purpose
+
+Attitude change addresses processes through which an existing evaluative orientation becomes stronger, weaker, more positive, more negative, more ambivalent, or otherwise reorganized.
+
+## 2. Definition
+
+Attitude change is a change in the evaluation of a target following new information, experience, social influence, reflection, or other psychological and contextual processes.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Change can involve direction, strength, certainty, accessibility, ambivalence, or stability. A person may become more strongly positive without changing the basic direction of evaluation, or may become more ambivalent rather than simply moving from positive to negative.
+
+### Mechanism
+
+Attitudes can change through persuasive communication, new evidence, direct experience, social influence, behavioral feedback, emotional learning, and changes in identity or goals. The route depends on attention, motivation, prior beliefs, source characteristics, message properties, and context.
+
+People do not process every persuasive message deeply. Some changes follow detailed evaluation of arguments, while others depend more on source cues, social norms, affective responses, or repeated association.
+
+### Moderators / Boundary Conditions
+
+Change depends on involvement, prior attitude strength, confidence, identity relevance, perceived credibility, counterarguments, social consequences, timing, and whether the new information is personally consequential. Strongly held attitudes can sometimes resist change but can also change substantially when evidence is compelling and relevant.
+
+### Evidence Status
+
+Attitude-change research supports multiple pathways rather than one universal persuasion mechanism. Short-term shifts may also differ from durable changes. Measuring attitudes immediately after exposure does not establish that the change will persist or alter behavior.
+
+### Resistance and stability
+
+People can resist change by generating counterarguments, discounting the source, avoiding information, relying on prior knowledge, or interpreting ambiguous evidence in ways consistent with existing attitudes. Resistance is not absolute; it varies with conditions.
+
+## 4. Relationship to This Chapter
+
+Attitude change follows attitude formation conceptually and connects directly with social influence, social norms, persuasion-related processes, and attitude–behavior relationships.
+
+## 5. Boundaries
+
+### Owns
+
+The social-psychological process of modifying an existing attitude.
+
+### Defers
+
+General learning, memory, reasoning, motivation, and emotion mechanisms to their canonical owners while retaining their role as determinants of attitude change.
+
+## 6. Key Principles
+
+- Attitude change can involve direction, strength, certainty, or ambivalence.
+- Multiple routes to change exist.
+- Prior attitudes influence how new information is processed.
+- Immediate change does not guarantee durable change.
+- Context determines whether new information is accepted, resisted, or integrated.
+
+### Topic-specific evidence layer
+
+Evidence for durable attitude change requires measurement beyond immediate post-exposure response. Longitudinal follow-up, behavioral indicators, and tests under new contexts can determine whether a change persists. Studies should also distinguish change caused by genuine evaluation from temporary compliance with a social demand. This distinction becomes particularly important when attitudes are measured immediately after persuasive or high-pressure interactions.
+
+---
+
+# 18. Attitude–behavior relationship
+
+## 1. Purpose
+
+This relationship Topic explains how evaluative orientations relate to subsequent behavior without treating attitudes as complete determinants of action.
+
+## 2. Definition
+
+The attitude–behavior relationship is the association between a person's evaluation of a target and behavior directed toward that target, including the conditions that strengthen or weaken correspondence.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Correspondence depends on how specifically the attitude and behavior are measured. A broad attitude may have weak correspondence with a highly specific behavior, while a specific attitude toward a specific action can provide more direct behavioral information.
+
+Behavior is also affected by perceived control, habits, norms, incentives, opportunity, competing goals, emotional states, and environmental constraints.
+
+### Mechanism
+
+Attitudes can guide attention, evaluation, intentions, and choice. They are more likely to influence behavior when the person considers the attitude relevant, has an opportunity to act consistently, and faces limited competing pressures.
+
+Behavior can also feed back into attitudes. Repeated actions, public commitments, and experiences of consequences can change later evaluations.
+
+### Moderators / Boundary Conditions
+
+Attitude strength, accessibility, specificity, certainty, social norms, perceived control, behavioral opportunity, time interval, and competing goals all matter. A person's attitude may be strongly predictive in one context and weakly predictive in another.
+
+### Evidence Status
+
+The relationship is empirically supported but variable. Strong conclusions require attention to measurement correspondence and the actual decision context. Correlation should not be interpreted as proof that attitudes caused the behavior.
+
+## 4. Relationship to This Chapter
+
+This is explicitly a relationship/application node rather than a replacement for either attitudes or behavior. It connects attitudes to action while preserving the canonical ownership of behavior elsewhere.
+
+## 5. Boundaries
+
+### Owns
+
+The relationship between evaluative orientation and behavior in social-psychological contexts.
+
+### Defers
+
+Attitudes to the Attitudes Topic and general behavior/action to its canonical owner.
+
+## 6. Key Principles
+
+- Attitudes can influence behavior without determining it.
+- Measurement specificity affects correspondence.
+- Situational constraints can weaken attitude–behavior consistency.
+- Behavior can also modify later attitudes.
+- Correlation does not establish causal direction.
+
+### Topic-specific evidence layer
+
+The strongest evidence matches the target, action, context, and time frame across attitude and behavior measures. Studies that measure a general opinion and a distant, unrelated behavior risk understating or mischaracterizing correspondence. Conversely, highly specific matching can increase prediction without establishing a general theory of behavior. The relationship should therefore be interpreted at the level of correspondence actually tested.
+
+---
+
+# 19. Social comparison
+
+## 1. Purpose
+
+Social comparison addresses how people evaluate their own abilities, opinions, characteristics, progress, and circumstances by relating them to other people.
+
+## 2. Definition
+
+Social comparison is the process of evaluating oneself or one's circumstances through comparison with other people or relevant social standards.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Comparisons can be upward, downward, or lateral depending on the reference target. They can concern ability, performance, status, appearance, relationships, progress, opinions, resources, or other attributes.
+
+Comparison targets are not random. People may select similar, aspirational, threatening, or socially relevant others depending on the goal of the comparison.
+
+### Mechanism
+
+Comparison provides information when objective standards are uncertain or unavailable. A person can use another person's performance to estimate their own standing, identify possible improvement, assess whether an opinion is unusual, or understand what outcomes are attainable.
+
+Comparison can also affect self-evaluation and motivation. An upward comparison may provide information about a possible standard while also creating a negative self-evaluation if the gap is large or personally threatening. A downward comparison may support self-evaluation but can provide less information about improvement.
+
+### Moderators / Boundary Conditions
+
+Effects depend on similarity, target relevance, perceived attainability, relationship, goal, domain importance, and whether the comparison is informational or evaluative. The same target can produce different outcomes depending on the observer's purpose.
+
+### Evidence Status
+
+Research supports social comparison as a common source of self-relevant information, but consequences vary substantially. Comparison is not inherently beneficial or harmful; its function depends on the target, context, and interpretation.
+
+## 4. Relationship to This Chapter
+
+Social comparison connects social cognition with self-evaluation, identity, attitudes, group processes, and motivation while remaining a specifically interpersonal comparison process.
+
+## 5. Boundaries
+
+### Owns
+
+The social-psychological process of evaluating oneself or one's circumstances through comparison with others.
+
+### Defers
+
+General self-concept, motivation, emotion, and individual differences to their canonical owners.
+
+## 6. Key Principles
+
+- Social comparison provides information about relative standing.
+- Comparison targets are selected rather than neutral.
+- Upward and downward comparisons can serve different functions.
+- Similarity and attainability alter consequences.
+- Comparison effects depend on goals and context.
+
+### Topic-specific evidence layer
+
+Evidence should identify what function the comparison serves and whether the target is perceived as relevant and comparable. Merely observing that someone compared themselves with another person does not establish the psychological consequence. Experimental manipulation of comparison direction and target similarity can help distinguish information acquisition from self-evaluative threat or motivation. Social comparison should therefore be treated as a flexible process whose effects depend on the meaning of the reference target.
+
+---
+
+# 20. Self-categorization
+
+## 1. Purpose
+
+Self-categorization addresses how people classify themselves as members of social categories and how the currently salient category can organize perception, self-definition, and behavior.
+
+## 2. Definition
+
+Self-categorization is the process of representing oneself as belonging to a socially meaningful category, making category membership salient for perception, judgment, and action.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+A person can simultaneously belong to many categories, including occupational, relational, cultural, age, gender, political, organizational, recreational, or other categories. Which category becomes psychologically salient varies with context and comparative relations.
+
+Self-categorization does not mean that a person consciously recites a category label. Category-based processing can organize attention and interpretation without requiring explicit verbal awareness.
+
+### Mechanism
+
+Categorization simplifies complex social information by organizing people, including oneself, into meaningful classes. When a category becomes salient, perceived similarities among category members and differences between categories can become more psychologically prominent.
+
+Self-categorization can therefore influence norms, expectations, emotional reactions, and behavior. A person may interpret an action differently when thinking as an individual than when acting as a member of a group.
+
+### Moderators / Boundary Conditions
+
+Salience depends on context, contrast, accessibility, social structure, goals, group boundaries, and the relative distinctiveness of categories. Categories are not equally important at all times, and multiple identities can remain simultaneously available.
+
+### Evidence Status
+
+Research supports context-sensitive category salience and its effects on self-perception and intergroup judgment. However, category membership does not eliminate individual variation. Group-level patterns should not be treated as predictions about every member.
+
+## 4. Relationship to This Chapter
+
+Self-categorization bridges social cognition with social identity, ingroup/outgroup processes, stereotypes, norms, and social influence. It is distinct from the broader concept of social identity because this Topic focuses on the categorization process that makes a particular social self-definition salient.
+
+## 5. Boundaries
+
+### Owns
+
+The process by which social categories become salient as bases for self-definition and social perception.
+
+### Defers
+
+General self-concept and identity development to their canonical owners, and social identity as the broader construct to the Social identity Topic.
+
+## 6. Key Principles
+
+- People possess multiple social categories.
+- Category salience is context-sensitive.
+- Self-categorization can change how the self and others are perceived.
+- Category-based processing does not eliminate individual variation.
+- Salience and identity are related but analytically distinct.
+
+### Topic-specific evidence layer
+
+Evidence should distinguish category salience from simple category membership. A person can belong to a group without that membership being psychologically central in a particular situation. Experimental changes in comparative context, category cues, or task demands can reveal when a category becomes salient. Research should also avoid treating category-based effects as deterministic descriptions of individual behavior. Self-categorization changes the frame through which information is processed; it does not erase other identities, goals, or situational influences.
+
