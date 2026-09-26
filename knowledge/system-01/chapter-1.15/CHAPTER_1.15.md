@@ -2280,6 +2280,17 @@ General biological mechanisms to Chapter 1.3 and later developmental outcomes to
 - Timing and intensity of exposure matter.
 - Risk is probabilistic rather than destiny.
 
+
+### Topic-specific evidence layer
+
+Prenatal development concerns developmental change before birth, including formation and maturation of biological systems and the effects of the prenatal environment. Genetic processes, maternal physiology, nutrition, exposure, health, and timing can all contribute.
+
+Prenatal development is highly time-sensitive because different systems have different periods of formation and maturation. An exposure should therefore be interpreted by type, dose, timing, and biological pathway rather than as a generic prenatal effect.
+
+For retrieval, this Topic owns developmental processes before birth. Detailed obstetric, genetic, teratological, and medical mechanisms remain under their specialized owners.
+
+---
+
 # 32. Birth and neonatal development
 
 ## 1. Purpose
@@ -2329,6 +2340,17 @@ Medical neonatal conditions to health/clinical domains and general biological me
 - Birth requires rapid physiological adaptation.
 - Newborn capacities are real but immature.
 - Neonatal behavior does not directly determine adult functioning.
+
+
+### Topic-specific evidence layer
+
+Birth and neonatal development concern the transition from prenatal life to the early postnatal period and the rapid organization of physiological, sensory, behavioral, and social functioning that follows. Birth changes the environmental conditions under which regulation and interaction occur.
+
+Neonatal behavior reflects both biological immaturity and active adaptation. Sleep, feeding, sensory responsiveness, motor organization, and caregiver interaction develop within a changing physiological context. Individual variation is substantial, and neonatal behavior should not be interpreted as a fixed forecast of later development.
+
+For retrieval, this Topic owns the developmental period around birth and the neonatal transition.
+
+---
 
 # 33. Infancy
 
@@ -2386,6 +2408,17 @@ Attachment, motor, cognitive, language, and emotional mechanisms to their dedica
 - Development is shaped by both maturation and experience.
 - Individual timing varies.
 
+
+### Topic-specific evidence layer
+
+Infancy is a period of rapid change in motor, perceptual, cognitive, emotional, social, communicative, and attachment-related functioning. New capacities alter the infant's access to people and objects, producing cascading changes in experience.
+
+Infant development is strongly relational. Caregivers provide regulation, stimulation, protection, and social information, while infant characteristics influence caregiver behavior. Rapid development does not imply a single universal timetable; timing and expression vary across individuals and contexts.
+
+For retrieval, this Topic owns infancy as a developmental period. Specific capacities such as attachment, language, motor development, and cognition remain under their dedicated Topics.
+
+---
+
 # 34. Early childhood
 
 ## 1. Purpose
@@ -2439,6 +2472,17 @@ Specific mechanisms and domains to their canonical Topics.
 - Regulation becomes more self-directed.
 - Development is strongly shaped by social and cultural context.
 
+
+### Topic-specific evidence layer
+
+Early childhood involves expanding language, self-regulation, social understanding, symbolic thought, motor competence, and participation in family and educational environments. Increasing autonomy changes both what children can do and how adults structure their support.
+
+Development during this period is strongly shaped by interaction among language, executive control, emotion regulation, peer experience, parenting, and learning contexts. The same behavior can have different meanings depending on developmental capacity and environmental expectations.
+
+For retrieval, this Topic owns the early-childhood period rather than any one psychological domain.
+
+---
+
 # 35. Middle childhood
 
 ## 1. Purpose
@@ -2491,6 +2535,17 @@ Specific cognitive, social, emotional, personality, and moral processes.
 - School and peer contexts become increasingly important.
 - Cognitive and self-evaluative abilities become more differentiated.
 - Development remains context-dependent.
+
+
+### Topic-specific evidence layer
+
+Middle childhood is characterized by increasing competence across school, peer, cognitive, emotional, and self-related domains. Children become more capable of coordinating rules, perspectives, goals, and longer-term tasks while remaining embedded in family and school systems.
+
+School and peer environments become particularly important sources of feedback and opportunity. Academic competence, friendship, social comparison, self-evaluation, and self-regulation can influence one another. Development remains heterogeneous across children and contexts.
+
+For retrieval, this Topic owns middle childhood as a developmental period; domain-specific changes remain under their canonical Topics.
+
+---
 
 # 36. Adolescence
 
@@ -2548,6 +2603,17 @@ Puberty, identity, risk-taking, cognition, emotion, and social development to de
 - Development is highly context-sensitive.
 - Adolescents are not uniformly impulsive or immature.
 
+
+### Topic-specific evidence layer
+
+Adolescence involves coordinated biological, cognitive, emotional, social, and identity changes. Puberty is one component of adolescence but does not define the entire period. Increasing autonomy and changing peer relationships alter the social environment in which development occurs.
+
+Adolescent behavior is context-sensitive. Reward, social motivation, emotional arousal, cognitive control, identity exploration, and opportunity can interact. Adolescence should therefore not be reduced to a universal period of instability or risk.
+
+For retrieval, this Topic owns adolescence as a developmental period. Puberty, identity exploration, and risk-taking have their own canonical Topics and should be retrieved separately when those mechanisms are central.
+
+---
+
 # 37. Puberty
 
 ## 1. Purpose
@@ -2600,6 +2666,17 @@ General endocrine mechanisms to Chapter 1.3 and broader adolescent development t
 - Puberty and adolescence are related but distinct.
 - Pubertal timing varies.
 - Psychological effects are shaped by social context.
+
+
+### Topic-specific evidence layer
+
+Puberty concerns biological maturation associated with reproductive development and broader physical changes. Timing varies among individuals, and the psychological meaning of puberty depends partly on social interpretation, expectations, and context.
+
+Puberty can alter sleep, physical appearance, bodily experience, and social attention. These changes can interact with identity, emotion, peer relationships, and family dynamics, but puberty should not be treated as the sole cause of adolescent psychological behavior.
+
+For retrieval, this Topic owns pubertal development. Broader adolescence and social meanings of bodily change remain separately owned.
+
+---
 
 # 38. Emerging adulthood
 
@@ -2654,6 +2731,17 @@ Identity, education, work, relationships, and personality development to their c
 - It is not a universal biological stage.
 - Exploration and instability are common themes but not universal experiences.
 
+
+### Topic-specific evidence layer
+
+Emerging adulthood describes a developmental pattern in which education, work, relationships, residential independence, and identity commitments may remain in transition after adolescence. It is especially relevant in societies and historical periods where adult roles are entered later and with greater exploration.
+
+The construct is context-sensitive. Economic resources, culture, family structure, educational systems, and labor markets influence whether and how this period is experienced. It should not be treated as a universal stage with identical features across populations.
+
+For retrieval, this Topic owns the emerging-adulthood developmental pattern. General adult development and identity development remain distinct.
+
+---
+
 # 39. Adulthood
 
 ## 1. Purpose
@@ -2703,6 +2791,17 @@ Specific adult developmental processes to their dedicated Topics.
 - Adulthood includes substantial development.
 - Adult trajectories are heterogeneous.
 - Social roles and historical context matter.
+
+
+### Topic-specific evidence layer
+
+Adulthood is a developmental period involving continued cognitive, personality, relational, occupational, and identity change. Adult development includes learning, specialization, role transitions, adaptation, and changing goals rather than a simple plateau after adolescence.
+
+Work, partnership, parenthood, caregiving, health, and community participation can create new developmental demands. Adults also actively select and modify environments, producing person–environment transactions across the lifespan.
+
+For retrieval, this Topic owns adulthood as a developmental period. More specific adult cognitive, personality, relational, and aging processes belong to their dedicated Topics.
+
+---
 
 # 40. Older adulthood
 
@@ -2756,6 +2855,17 @@ Cognitive aging, socioemotional aging, health, and resilience to dedicated Topic
 - Older adulthood is heterogeneous.
 - Aging includes gains, stability, and losses.
 - Average age trends do not define every individual.
+
+
+### Topic-specific evidence layer
+
+Older adulthood is a developmental period in which biological aging, accumulated knowledge, changing roles, health conditions, social networks, and adaptation interact. It is heterogeneous and should not be treated as a single uniform state.
+
+People may compensate for some losses through accumulated knowledge, environmental modification, strategy use, and selective goal investment. Social and emotional priorities can also change. Functional outcomes therefore depend on both capacities and environmental demands.
+
+For retrieval, this Topic owns older adulthood as a developmental period. Aging, cognitive aging, socioemotional aging, and cognitive reserve provide more specific mechanisms.
+
+---
 
 # 41. Aging
 
