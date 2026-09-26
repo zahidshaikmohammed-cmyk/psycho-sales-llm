@@ -78,6 +78,8 @@ Specific developmental mechanisms, domains, stages, and systems to their dedicat
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: distinguish development as an organized temporal process from simple improvement, age difference, or isolated fluctuation.
 Development should be interpreted as an organized temporal process rather than a synonym for getting better. A developmental trajectory can contain acquisition, consolidation, differentiation, compensation, reorganization, loss, and renewed adaptation. The same person can therefore show improvement in one domain while experiencing constraint in another. This makes developmental description inherently multidimensional.
 
 The strongest developmental explanations connect earlier and later states through identifiable processes. Age is a coordinate, not a mechanism. A finding that a behavior differs between age groups establishes a group difference but does not by itself establish within-person change. Cohort, period, selection, health, education, and historical conditions may contribute.
@@ -100,7 +102,7 @@ Mechanisms can operate across levels and timescales. A distal social condition c
 
 Systems thinking is strongest when it produces testable relational hypotheses. The perspective should therefore identify the components that interact and the conditions that change their relationship. Its value is explanatory organization, not permission to treat every conceivable influence as equally important.
 
-The interaction principle also protects against false dichotomies. Biological predispositions can matter without determining outcomes, and environmental experiences can matter without making biology irrelevant. Development emerges from their changing relationship. Developmental knowledge should therefore preserve both trajectory and context. A developmental pattern is most useful when the reader can see what changed, what persisted, and which conditions influenced the pathway. The lifespan perspective also prevents the false assumption that later life is merely the aftermath of earlier development. New roles, environments, and goals continue to create developmental conditions throughout adulthood and aging. A change claim should remain tied to the measurement interval. Short-term fluctuation, repeated practice effects, and durable developmental transformation are different phenomena even when they produce similar scores. Mechanisms should be evaluated by whether changing the proposed process changes the developmental outcome. Correlation can identify a candidate mechanism, but stronger causal interpretation requires stronger evidence. Systems explanations should remain bounded. The relevant system is the set of components whose interaction is necessary for the developmental question, not an unlimited inventory of possible influences. The interaction between biology and environment can also be reciprocal across generations. Developmental environments are created partly by the behavior and institutions of people whose own development was shaped by earlier environments. The construct is therefore the organizing frame for the chapter, not a substitute for domain-specific psychology. Its central commitment is that development remains possible throughout the lifespan, although mechanisms and opportunities change. The relevant comparison is always between states of the same developmental system across an identified interval. Mechanisms should remain explicit enough that evidence can support, weaken, or revise them. Systems thinking is valuable precisely when it clarifies relations rather than merely increasing the number of variables. The interaction is developmental because both biological and environmental conditions can change as the person changes. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly.      Interpretation should remain temporal, contextual, and probabilistic rather than treating development as a fixed sequence. Lifespan comparisons should identify historical population and developmental period before generalizing across generations. Change claims require a defined interval and a measure capable of detecting the relevant form of change. Mechanisms should remain testable and distinguish explanatory processes from variables that merely correlate with developmental outcomes. Systems explanations should identify which interacting levels are actually relevant to the developmental question. Biological and environmental influences should be represented as interacting processes rather than competing percentages. Its canonical scope remains developmental and explicitly bounded.     
+The interaction principle also protects against false dichotomies. Biological predispositions can matter without determining outcomes, and environmental experiences can matter without making biology irrelevant. Development emerges from their changing relationship. Developmental knowledge should therefore preserve both trajectory and context. A developmental pattern is most useful when the reader can see what changed, what persisted, and which conditions influenced the pathway. The lifespan perspective also prevents the false assumption that later life is merely the aftermath of earlier development. New roles, environments, and goals continue to create developmental conditions throughout adulthood and aging. A change claim should remain tied to the measurement interval. Short-term fluctuation, repeated practice effects, and durable developmental transformation are different phenomena even when they produce similar scores. Mechanisms should be evaluated by whether changing the proposed process changes the developmental outcome. Correlation can identify a candidate mechanism, but stronger causal interpretation requires stronger evidence. Systems explanations should remain bounded. The relevant system is the set of components whose interaction is necessary for the developmental question, not an unlimited inventory of possible influences. The interaction between biology and environment can also be reciprocal across generations. Developmental environments are created partly by the behavior and institutions of people whose own development was shaped by earlier environments. The construct is therefore the organizing frame for the chapter, not a substitute for domain-specific psychology. Its central commitment is that development remains possible throughout the lifespan, although mechanisms and opportunities change. The relevant comparison is always between states of the same developmental system across an identified interval. Mechanisms should remain explicit enough that evidence can support, weaken, or revise them. Systems thinking is valuable precisely when it clarifies relations rather than merely increasing the number of variables. The interaction is developmental because both biological and environmental conditions can change as the person changes.       Interpretation should remain temporal, contextual, and probabilistic rather than treating development as a fixed sequence. Lifespan comparisons should identify historical population and developmental period before generalizing across generations. Change claims require a defined interval and a measure capable of detecting the relevant form of change. Mechanisms should remain testable and distinguish explanatory processes from variables that merely correlate with developmental outcomes. Systems explanations should identify which interacting levels are actually relevant to the developmental question. Biological and environmental influences should be represented as interacting processes rather than competing percentages.      
 
 ---
 
@@ -181,6 +183,8 @@ Specific developmental stages, domains, mechanisms, and systems to their dedicat
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: interpret lifespan patterns across gains, losses, adaptation, historical context, and differences among developmental domains.
 Lifespan development is a framework for treating development as continuous across the entire life course. Its value is partly corrective: childhood is not the whole of development, and adulthood is not merely a static endpoint. Different periods contain different combinations of biological change, learning, social roles, accumulated knowledge, and adaptation.
 
 A lifespan perspective is also explicitly multidirectional. Gains and losses can occur together. A person may acquire expertise while processing speed changes, develop stronger emotional selectivity while reducing the size of a social network, or gain autonomy while assuming greater responsibility. These are developmental reorganizations rather than simple movement upward or downward.
@@ -266,6 +270,8 @@ Specific forms of change, such as cognitive aging, personality development, lang
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: establish change through defined intervals and within-person evidence rather than treating age-group differences as change.
 Developmental change is specifically concerned with alteration within a person across time. The important distinction is between observing a difference and observing a change process. A cross-sectional difference can be informative, but it is not equivalent to watching an individual acquire the later state.
 
 Change can occur in amount, organization, strategy, efficiency, timing, coordination, or differentiation. A person may become faster, know more, use a different strategy, coordinate previously separate abilities, or reorganize an existing representation. These forms can occur together, but they should not be collapsed into a single metric of improvement.
@@ -351,6 +357,8 @@ Specific mechanisms owned by other psychological chapters, such as learning mech
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: identify interacting biological, psychological, social, and environmental processes without treating any single influence as sufficient.
 Developmental mechanisms answer the explanatory question of how developmental patterns are generated. A mechanism is more than a variable associated with age. It specifies a process through which earlier conditions alter later functioning. Learning, maturation, practice, social feedback, biological adaptation, environmental selection, and reciprocal interaction can all serve as mechanisms depending on the question.
 
 Mechanisms can interact. A biological change can alter behavior, behavior can change the environment, the new environment can create learning opportunities, and learning can alter later behavior. Such feedback means that development often resembles a changing system rather than a one-way causal chain.
@@ -438,6 +446,8 @@ Specific biological, cognitive, social, cultural, and learning mechanisms to the
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: use systems reasoning to specify relevant interacting levels and avoid turning every contextual factor into an equally important cause.
 The developmental systems perspective is most useful when a developmental pattern cannot be explained adequately at one level. Genes, physiology, neural organization, behavior, cognition, relationships, family systems, schools, communities, culture, and historical conditions can participate in the same trajectory. The perspective does not require every level to be measured in every study; it requires the explanation to remain open to interactions across levels when those interactions are relevant.
 
 A systems account must remain testable. Saying that everything affects everything is not an empirical mechanism. Useful systems explanations specify which components interact, the direction or reciprocity of influence, the timing of those interactions, and the conditions under which the relationship changes.
@@ -524,6 +534,8 @@ Specific genes, epigenetic mechanisms, neural processes, learning mechanisms, an
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: examine how biological and environmental conditions influence one another across time rather than treating nature and nurture as competing shares.
 Nature–nurture interaction is not a contest between two independent causes. Development reflects relations among biological predispositions and environmental experiences, and those relations can change over time. Genetic differences can influence which environments people encounter, while environments can alter the expression of biological potentials.
 
 The interaction can occur through multiple pathways. People may actively select environments that fit their tendencies. Other people may respond differently to the same individual characteristics. Institutions may provide different opportunities to people with different capacities. Experience can also modify biological and psychological systems. These processes make simple percentage accounts of nature and nurture conceptually inadequate.
@@ -607,6 +619,8 @@ Specific longitudinal continuity in personality, cognition, relationships, or be
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: assess continuity through preserved organization, function, or strategy while allowing developmental reorganization within the same trajectory.
 Developmental continuity concerns persistence and gradual transformation across time. Continuity can refer to persistence of rank order, behavioral organization, skill, expectation, strategy, or underlying tendency. These forms should not be treated as interchangeable. A person can change in average level while remaining relatively stable in rank order, or preserve an organization while changing its expression.
 
 Continuity is also compatible with developmental transformation. Early characteristics can contribute to later outcomes through accumulated experiences and transactions without directly determining them. A stable tendency can influence which environments are entered, and those environments can reinforce, redirect, or compensate for the tendency.
@@ -619,7 +633,7 @@ Continuity can operate through multiple pathways. A characteristic can persist b
 
 Continuity is therefore not evidence that a developmental pattern is fixed. If continuity is maintained partly through environmental reinforcement, changing the environment may alter the trajectory. This is one reason developmental continuity and plasticity should be studied together.
 
-Continuity can be maintained through repeated transactions rather than through an unchanging internal property. This means that continuity itself can sometimes reveal where developmental leverage exists: changing the maintaining conditions may change the trajectory. Continuity can be useful without being absolute. A developmental trajectory may preserve an underlying organization while changing its surface expression as capacities, roles, and environments change. Continuity should be interpreted at the level actually measured rather than generalized to the whole person. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Continuity should be located in the specific characteristic, relationship, or function being measured. Its canonical scope remains developmental and explicitly bounded.
+Continuity can be maintained through repeated transactions rather than through an unchanging internal property. This means that continuity itself can sometimes reveal where developmental leverage exists: changing the maintaining conditions may change the trajectory. Continuity can be useful without being absolute. A developmental trajectory may preserve an underlying organization while changing its surface expression as capacities, roles, and environments change. Continuity should be interpreted at the level actually measured rather than generalized to the whole person.  Continuity should be located in the specific characteristic, relationship, or function being measured. 
 
 ---
 
@@ -689,6 +703,8 @@ Specific developmental stage theories and domain-specific transitions to their r
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: treat discontinuity as qualitative reorganization or transition, not merely a larger amount of ordinary quantitative change.
 Discontinuity refers to developmental reorganization in which a later form is not adequately described as a simple quantitative extension of an earlier form. A change can be discontinuous at one level while being supported by many gradual changes at another. This makes continuity and discontinuity compatible rather than mutually exclusive.
 
 Discontinuity can involve new strategies, representations, roles, relationships, or forms of coordination. A child may reorganize a problem-solving approach rather than simply become faster at the old approach. A social transition can alter the organization of relationships rather than merely increase the number of interactions.
@@ -701,7 +717,7 @@ Discontinuity is best treated as a claim about organization rather than simply a
 
 This Topic therefore helps prevent stage labels from being mistaken for mechanisms. A stage boundary can mark a period in which reorganization becomes visible, but the mechanisms producing the reorganization must still be identified.
 
-Discontinuity should be interpreted cautiously because apparent stage jumps can arise from measurement thresholds or changes in task demands. Stronger evidence comes from demonstrating a meaningful change in organization or strategy across development. Discontinuity should be linked to a specific level of analysis. A qualitative behavioral change can be supported by gradual biological or experiential changes underneath it. A developmental reorganization can coexist with gradual preparation underneath the observable transition. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Discontinuity claims require evidence of reorganization rather than simply a large numerical difference. Its canonical scope remains developmental and explicitly bounded.
+Discontinuity should be interpreted cautiously because apparent stage jumps can arise from measurement thresholds or changes in task demands. Stronger evidence comes from demonstrating a meaningful change in organization or strategy across development. Discontinuity should be linked to a specific level of analysis. A qualitative behavioral change can be supported by gradual biological or experiential changes underneath it. A developmental reorganization can coexist with gradual preparation underneath the observable transition.  Discontinuity claims require evidence of reorganization rather than simply a large numerical difference. 
 
 ---
 
@@ -776,6 +792,8 @@ Personality stability, cognitive stability, relationship stability, and other do
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: distinguish stability in relative standing or functioning from the absence of developmental change altogether.
 Stability describes persistence across time, but the relevant kind of persistence must always be specified. Rank-order stability asks whether people retain their relative positions. Mean-level stability asks whether a population's average remains similar. Structural stability asks whether relationships among components remain organized similarly. These are different questions.
 
 Stability does not imply immutability. A characteristic can show substantial persistence while remaining responsive to experience. Likewise, a population can show a stable average while individuals move in different directions. Developmental interpretation therefore requires both stability and individual trajectories.
@@ -788,7 +806,7 @@ Stability can be meaningful without being complete. Psychological systems contai
 
 The type of stability should therefore always be named when possible. Rank-order stability, mean-level stability, structural stability, and functional stability answer different questions. This precision is especially important when comparing developmental findings across different measures or populations.
 
-Stability is also scale-dependent. A person can be stable across years while showing substantial moment-to-moment variability, and a group can be stable in its average while containing diverse individual trajectories. The level of analysis must therefore be specified. Stability estimates are always conditional on the population, measure, interval, and context. Stability should therefore never be treated as a timeless property of a person. Stability is therefore a property of a relationship between person, measure, interval, and context. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Stability estimates depend on the construct, population, measure, interval, and context in which stability is assessed. Its canonical scope remains developmental and explicitly bounded.
+Stability is also scale-dependent. A person can be stable across years while showing substantial moment-to-moment variability, and a group can be stable in its average while containing diverse individual trajectories. The level of analysis must therefore be specified. Stability estimates are always conditional on the population, measure, interval, and context. Stability should therefore never be treated as a timeless property of a person. Stability is therefore a property of a relationship between person, measure, interval, and context.  Stability estimates depend on the construct, population, measure, interval, and context in which stability is assessed. 
 
 ---
 
@@ -863,6 +881,8 @@ Specific developmental changes to their domain-specific Topics.
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: define change by its direction, magnitude, timing, and measurement rather than assuming every developmental difference is meaningful.
 Change is the complementary concept to stability. In developmental science, change can refer to alteration in level, organization, strategy, timing, or function. It should not automatically be interpreted as improvement because development includes both gains and losses.
 
 A useful analysis distinguishes within-person change from between-person difference. A population can show average change while individuals vary widely, and a stable average can conceal simultaneous improvement and decline among different people. Change also has a rate and shape; it may be gradual, accelerated, delayed, nonlinear, or interrupted.
@@ -875,7 +895,7 @@ Developmental change can also involve reorganization rather than simple accumula
 
 The construct is consequently broader than growth. When a question concerns the general fact of alteration across time, Change is the appropriate umbrella. When the question concerns the process, timing, domain, or stage of that alteration, the corresponding developmental Topic should be linked.
 
-Change becomes more informative when its direction, rate, timing, and durability are known. A temporary performance change and a lasting developmental reorganization are different findings even if they initially produce the same observed improvement. Change should also be evaluated for generalization. Improvement on a trained task is not automatically improvement across everyday functioning, other tasks, or later developmental contexts. Change should be described with enough precision to distinguish transient performance from durable developmental reorganization. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Change should be distinguished from temporary fluctuation, practice effects, and measurement noise. Its canonical scope remains developmental and explicitly bounded.
+Change becomes more informative when its direction, rate, timing, and durability are known. A temporary performance change and a lasting developmental reorganization are different findings even if they initially produce the same observed improvement. Change should also be evaluated for generalization. Improvement on a trained task is not automatically improvement across everyday functioning, other tasks, or later developmental contexts. Change should be described with enough precision to distinguish transient performance from durable developmental reorganization.  Change should be distinguished from temporary fluctuation, practice effects, and measurement noise. 
 
 ---
 
@@ -948,6 +968,8 @@ Specific critical periods in language, sensory systems, neural development, or o
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: critical periods require evidence for unusually constrained timing, not merely evidence that earlier experience has stronger effects.
 Critical periods describe developmental windows in which a particular input or experience has unusually strong or necessary effects. The concept is stronger than simply saying that timing matters. Evidence must support a relatively constrained window and a meaningful reduction in later flexibility before a process should be described as critical.
 
 Human development often contains more graded forms of sensitivity. Later experience may remain capable of producing change even when earlier timing provides an advantage. Critical-period claims should therefore be tied to a specific system, input, outcome, and evidence base rather than generalized across development.
@@ -958,7 +980,7 @@ A critical-period claim should specify the developmental system, the relevant in
 
 The distinction is also important for intervention. If a process is sensitive rather than absolutely critical, later support may remain meaningful even when earlier experience would have been more efficient. Developmental timing therefore informs opportunity without automatically establishing irreversible outcomes.
 
-The critical-versus-sensitive distinction is therefore an evidence distinction as much as a conceptual one. The stronger the claim about irreversibility, the stronger and more specific the developmental evidence must be. Critical-period terminology should be reserved for cases where evidence supports a relatively constrained window. Strong age differences alone are not sufficient. The concept should never be used simply because a developmental difference appears large. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Critical-period language requires unusually strong evidence for constrained timing and limited later plasticity. Its canonical scope remains developmental and explicitly bounded.
+The critical-versus-sensitive distinction is therefore an evidence distinction as much as a conceptual one. The stronger the claim about irreversibility, the stronger and more specific the developmental evidence must be. Critical-period terminology should be reserved for cases where evidence supports a relatively constrained window. Strong age differences alone are not sufficient. The concept should never be used simply because a developmental difference appears large.  Critical-period language requires unusually strong evidence for constrained timing and limited later plasticity. 
 
 ---
 
@@ -1031,6 +1053,8 @@ Specific sensitive periods in language, perception, attachment, or other domains
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: sensitive periods permit greater flexibility in timing while still indicating that some developmental windows may be especially influential.
 Sensitive periods describe intervals in which a developmental system is especially responsive to particular experiences while retaining some capacity for later change. Sensitivity can vary in magnitude rather than functioning as an absolute deadline.
 
 The concept is useful because it connects timing with plasticity. The same experience may have different effects at different stages because the developing system, available capacities, and environmental demands differ. A sensitive period should therefore be specified relative to a particular process rather than treated as a universal property of an age.
@@ -1041,7 +1065,7 @@ Sensitive periods can be broad, overlapping, and dependent on the quality of exp
 
 The construct therefore supports a graded account of developmental timing. It should not be used to create universal age deadlines when the evidence instead supports increased responsiveness during a period.
 
-Sensitivity can vary continuously rather than switching on and off. This makes developmental timing a matter of degree and context, and it preserves the possibility of meaningful later learning. Sensitive-period claims can coexist with later learning. The concept is most useful when it specifies heightened responsiveness without implying that development becomes impossible afterward. Sensitivity is therefore a graded developmental property rather than an automatic deadline. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Sensitive periods describe increased responsiveness without necessarily establishing irreversible developmental deadlines. Its canonical scope remains developmental and explicitly bounded.
+Sensitivity can vary continuously rather than switching on and off. This makes developmental timing a matter of degree and context, and it preserves the possibility of meaningful later learning. Sensitive-period claims can coexist with later learning. The concept is most useful when it specifies heightened responsiveness without implying that development becomes impossible afterward. Sensitivity is therefore a graded developmental property rather than an automatic deadline.  Sensitive periods describe increased responsiveness without necessarily establishing irreversible developmental deadlines. 
 
 ---
 
@@ -1118,6 +1142,8 @@ Neural plasticity to Chapter 1.3 and learning mechanisms to Chapter 1.7.
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: plasticity concerns modifiability within constraints; evidence should specify what can change, under which conditions, and for whom.
 Developmental plasticity refers to the capacity for developmental functioning to be modified by experience, intervention, adaptation, or changing environmental conditions. Plasticity can be substantial without being unlimited. Different systems can have different degrees, timing, and forms of modifiability.
 
 Plasticity should also be distinguished from improvement. A system can change in response to adversity in ways that are adaptive in the short term but costly later. Likewise, an intervention can improve performance on a trained task without producing broad transfer. The relevant question is what changed, for whom, under what conditions, and for how long.
@@ -1128,7 +1154,7 @@ Plasticity is constrained by prior organization, biological development, resourc
 
 Plasticity also has no inherent direction. Adaptation to chronic adversity can be a form of plasticity without being beneficial in every later context. The developmental question is whether the change improves fit, functioning, or goal attainment under the relevant conditions.
 
-Plasticity should be evaluated by examining the target function, the conditions producing change, the durability of that change, and its transfer to other settings. A short-lived task effect is not equivalent to broad developmental transformation. Plasticity is therefore a property of a developmental system under conditions, not a promise that any outcome can be produced through effort or intervention. Plasticity is meaningful only when the target, conditions, duration, and transfer of change are specified. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Plasticity should be evaluated through magnitude, durability, generalization, and conditions supporting the observed change. Its canonical scope remains developmental and explicitly bounded.
+Plasticity should be evaluated by examining the target function, the conditions producing change, the durability of that change, and its transfer to other settings. A short-lived task effect is not equivalent to broad developmental transformation. Plasticity is therefore a property of a developmental system under conditions, not a promise that any outcome can be produced through effort or intervention. Plasticity is meaningful only when the target, conditions, duration, and transfer of change are specified.  Plasticity should be evaluated through magnitude, durability, generalization, and conditions supporting the observed change. 
 
 ---
 
@@ -1199,6 +1225,8 @@ General research-design methodology to Chapter 1.2 and specific developmental fi
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: cohort effects require separating birth-generation differences from age and historical-period effects in developmental comparisons.
 Cohort effects arise when people who share a historical period of birth or entry into a life stage have experiences that differ from those of other cohorts. Such differences can be mistaken for age-related development if studies compare age groups without considering historical context.
 
 Education, technology, economic conditions, nutrition, public health, family structure, and major historical events can all contribute to cohort differences. A cohort effect does not mean that age-related development is absent; it means that observed age patterns can contain historical differences as well.
@@ -1209,7 +1237,7 @@ Cohort effects are especially important when interpreting long-term changes in e
 
 The effect is therefore not an alternative to development; it is one source of variation that must be separated from developmental change. Population, period, and cohort should be identified before broad age-based conclusions are generalized.
 
-Cohort interpretation is especially important when developmental conclusions span decades. Historical changes in education, technology, health, family life, and social norms can alter the baseline against which age differences are measured. Cohort effects can be especially large when historical conditions alter education, technology, health, or social roles. These effects must remain visible in long-term developmental comparisons. Historical context is part of developmental interpretation whenever cohorts have encountered substantially different conditions. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Cohort interpretation should remain visible whenever historical conditions plausibly differ across age groups. Its canonical scope remains developmental and explicitly bounded.
+Cohort interpretation is especially important when developmental conclusions span decades. Historical changes in education, technology, health, family life, and social norms can alter the baseline against which age differences are measured. Cohort effects can be especially large when historical conditions alter education, technology, health, or social roles. These effects must remain visible in long-term developmental comparisons. Historical context is part of developmental interpretation whenever cohorts have encountered substantially different conditions.  Cohort interpretation should remain visible whenever historical conditions plausibly differ across age groups. 
 
 ---
 
@@ -1293,6 +1321,8 @@ General research methodology, statistics, psychometrics, validity, and scientifi
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: developmental methods must match the question, especially when distinguishing within-person change from between-person age differences.
 Developmental research methods are selected according to the developmental question. Cross-sectional designs efficiently compare age groups but do not directly observe within-person change. Longitudinal designs observe people across time and are therefore central to trajectory questions, while introducing attrition, practice, measurement, and historical-period challenges. Sequential approaches can provide additional leverage when age and cohort are intertwined.
 
 Intensive and microgenetic designs are useful when change is expected to occur rapidly. Experimental and quasi-experimental designs can strengthen causal inference when appropriate manipulation or natural variation is available. No design is automatically sufficient for every developmental question.
@@ -1303,7 +1333,7 @@ Method choice should follow the claim. If the claim concerns prevalence at one p
 
 Developmental methodology also requires attention to measurement equivalence, attrition, practice effects, and changing context. A well-designed study does not merely collect data repeatedly; it collects measurements capable of representing the same construct across the developmental interval.
 
-The method must match the developmental claim. No single design should be treated as a universal solution because each design observes a different combination of time, person, context, and measurement. Developmental methods also require attention to measurement invariance. A changing instrument can create the appearance of developmental change even when the underlying construct has not changed comparably. The methodological design should be selected from the claim rather than forcing every question into one preferred design. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Research design should follow the developmental question and explicitly address measurement, attrition, practice, and timing. Its canonical scope remains developmental and explicitly bounded.
+The method must match the developmental claim. No single design should be treated as a universal solution because each design observes a different combination of time, person, context, and measurement. Developmental methods also require attention to measurement invariance. A changing instrument can create the appearance of developmental change even when the underlying construct has not changed comparably. The methodological design should be selected from the claim rather than forcing every question into one preferred design.  Research design should follow the developmental question and explicitly address measurement, attrition, practice, and timing. 
 
 ---
 
@@ -1367,6 +1397,8 @@ Neural structures and mechanisms to Chapter 1.3; specific psychological developm
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: biological development concerns bodily and biological change as part of development without reducing psychological development to biology alone.
 Biological development concerns changes in bodily and physiological organization across the lifespan. It includes maturation, growth, reproductive development, neural and sensory change, health-related change, and later-life biological aging.
 
 Biological development provides constraints and opportunities for psychological development but should not be treated as its complete explanation. Experience, behavior, relationships, health behavior, and environmental conditions can influence biological functioning, while biological changes can alter what experiences are possible.
@@ -1377,7 +1409,7 @@ Biological development can be described at several levels, from cellular and phy
 
 Biological development is therefore neither separate from psychology nor reducible to psychology. The two interact continuously. This boundary prevents the Topic from becoming a duplicate of neuroscience, genetics, medicine, or physiology while preserving its role in developmental organization.
 
-Biological development remains relevant across the lifespan. Maturation, maintenance, aging, health, and adaptation can alter the conditions under which psychological development occurs, while behavior and environment can feed back into biological functioning. Biological development can also include adaptation and maintenance, not only growth. The relevant developmental process depends on the biological system and the life period being studied. Biological development remains relevant throughout life, including maturation, maintenance, aging, and adaptation. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Biological development can constrain and enable psychological development while remaining influenced by behavior and experience. Its canonical scope remains developmental and explicitly bounded.
+Biological development remains relevant across the lifespan. Maturation, maintenance, aging, health, and adaptation can alter the conditions under which psychological development occurs, while behavior and environment can feed back into biological functioning. Biological development can also include adaptation and maintenance, not only growth. The relevant developmental process depends on the biological system and the life period being studied. Biological development remains relevant throughout life, including maturation, maintenance, aging, and adaptation.  Biological development can constrain and enable psychological development while remaining influenced by behavior and experience. 
 
 ---
 
@@ -1437,6 +1469,8 @@ General motor neuroscience to Chapter 1.3 and skill learning to Chapter 1.7.
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: motor development should be interpreted through changing capacities, practice, maturation, and environmental opportunities across time.
 Motor development concerns changes in movement, coordination, posture, locomotion, manipulation, and motor control across development. Motor change alters access to environments and therefore can have consequences beyond physical skill.
 
 Developmental motor patterns emerge from interactions among maturation, practice, perceptual information, body characteristics, task demands, and environmental opportunity. Individual differences in timing do not automatically indicate impairment. Functional interpretation depends on context and the demands placed on the person.
@@ -1447,7 +1481,7 @@ Motor development is strongly dependent on opportunities for action. Practice, o
 
 Motor development can also produce developmental cascades. Increased mobility changes exploration; exploration changes perceptual experience; new experience supports learning and social interaction. Later, changes in physical capacity can alter activity and social participation, showing that motor development remains relevant throughout life.
 
-Motor development can produce cascading changes because movement alters access to objects, people, and information. Later, changes in motor capacity can alter independence and participation, showing that motor development remains functionally important beyond childhood. Motor competence can influence confidence and participation, while participation provides practice and social feedback. Developmental effects can therefore run in both directions. Motor development changes both what the person can do and which environments become accessible. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Motor change can alter exploration, participation, independence, and access to developmental opportunities. Its canonical scope remains developmental and explicitly bounded.
+Motor development can produce cascading changes because movement alters access to objects, people, and information. Later, changes in motor capacity can alter independence and participation, showing that motor development remains functionally important beyond childhood. Motor competence can influence confidence and participation, while participation provides practice and social feedback. Developmental effects can therefore run in both directions. Motor development changes both what the person can do and which environments become accessible.  Motor change can alter exploration, participation, independence, and access to developmental opportunities. 
 
 ---
 
@@ -1507,6 +1541,8 @@ General perception to Chapter 1.4 and neural mechanisms to Chapter 1.3.
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: perceptual development concerns changing perceptual capacities and organization while remaining distinct from the general perception construct.
 Perceptual development concerns changes in how sensory information is detected, organized, differentiated, and interpreted across development. Perception is shaped by both biological maturation and experience, and developmental changes can alter how people explore and respond to environments.
 
 Perceptual development interacts with motor, cognitive, and social development. Improved perception can support action and learning, while active exploration can provide new perceptual information. Later-life sensory changes can also alter the functional demands placed on cognition and social interaction.
@@ -1517,7 +1553,7 @@ Perceptual development is shaped by both maturation and experience. Development 
 
 Perception also changes the developmental environment by altering what information is available for learning and interaction. In later life, sensory changes can increase cognitive demands because more effort may be required to extract information. Developmental interpretation should therefore consider the interaction between perceptual capacity and environmental design.
 
-Perceptual development is inseparable from the opportunities available for exploration and action. The developmental system is therefore not merely receiving sensory input; it is actively generating and selecting information through behavior. Perceptual development is also affected by active exploration. The organism changes the information it receives by moving, attending, selecting objects, and interacting with people. Perceptual development is therefore partly generated through active interaction with the environment. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Perceptual change can alter both available information and the effort required to use that information. Its canonical scope remains developmental and explicitly bounded.
+Perceptual development is inseparable from the opportunities available for exploration and action. The developmental system is therefore not merely receiving sensory input; it is actively generating and selecting information through behavior. Perceptual development is also affected by active exploration. The organism changes the information it receives by moving, attending, selecting objects, and interacting with people. Perceptual development is therefore partly generated through active interaction with the environment.  Perceptual change can alter both available information and the effort required to use that information. 
 
 ---
 
@@ -1580,6 +1616,8 @@ General cognition, memory, attention, reasoning, and intelligence to their canon
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: cognitive development tracks developmental change in cognitive functioning while leaving general cognition to its canonical owner.
 Cognitive development concerns developmental changes in knowledge, reasoning, attention, memory-related functioning, problem solving, representation, and related cognitive capacities. It is multidimensional and should not be reduced to a single intelligence trajectory.
 
 Cognitive change can reflect maturation, learning, education, practice, language, social interaction, and accumulated knowledge. Different cognitive components can change at different rates. Development can therefore involve both gains and trade-offs, including increased knowledge alongside changes in processing efficiency.
@@ -1590,7 +1628,7 @@ Cognitive development is best represented as a profile rather than a single scor
 
 Education, practice, language, social interaction, and accumulated expertise can support development. Biological maturation and aging can constrain some processes while leaving others relatively preserved. This multidimensionality is why cognitive development must be linked to specific cognitive constructs rather than treated as a single age curve.
 
-Cognitive development should be represented as a changing profile. General statements about being cognitively advanced or delayed can conceal important differences among knowledge, processing, memory, reasoning, and executive coordination. Cognitive development is therefore better represented as changing organization among capacities than as one general increase or decrease in ability. Cognitive development should be interpreted through specific abilities and their changing organization. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Cognitive development is multidimensional, so global labels can conceal important domain-specific trajectories. Its canonical scope remains developmental and explicitly bounded.
+Cognitive development should be represented as a changing profile. General statements about being cognitively advanced or delayed can conceal important differences among knowledge, processing, memory, reasoning, and executive coordination. Cognitive development is therefore better represented as changing organization among capacities than as one general increase or decrease in ability. Cognitive development should be interpreted through specific abilities and their changing organization.  Cognitive development is multidimensional, so global labels can conceal important domain-specific trajectories. 
 
 ---
 
@@ -1656,6 +1694,8 @@ General language structure and processing to Chapter 1.11.
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: language development concerns developmental changes in language capacities, use, and organization without replacing general language science.
 Language development concerns changes in the acquisition, representation, comprehension, production, and social use of language across development. Language development depends on biological capacities, perceptual and cognitive development, social interaction, and exposure to culturally organized linguistic systems.
 
 Development is not simply vocabulary accumulation. It includes increasingly complex representations, syntax, pragmatic understanding, narrative organization, and flexible use of language in social contexts. Timing and experience both matter, and multilingual development demonstrates that developmental pathways can vary while remaining fully organized.
@@ -1666,7 +1706,7 @@ Language development is also social and cultural. Children acquire language thro
 
 Later development includes pragmatic, narrative, occupational, and social uses of language. Language can continue to change through education and experience even after basic acquisition. The developmental Topic therefore covers the lifespan organization of language rather than only early vocabulary or grammar acquisition.
 
-Language remains developmental after basic acquisition. Education, occupational demands, multilingual experience, literacy, and social roles can continue to shape how language is used and organized across adulthood. Language development can continue through literacy, education, occupational specialization, and changing social roles, making it a lifespan process rather than a childhood-only phenomenon. Language remains a developmental system even when basic acquisition has already occurred. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Language development includes changing social use, literacy, communication demands, and specialized adult applications. Its canonical scope remains developmental and explicitly bounded.
+Language remains developmental after basic acquisition. Education, occupational demands, multilingual experience, literacy, and social roles can continue to shape how language is used and organized across adulthood. Language development can continue through literacy, education, occupational specialization, and changing social roles, making it a lifespan process rather than a childhood-only phenomenon. Language remains a developmental system even when basic acquisition has already occurred.  Language development includes changing social use, literacy, communication demands, and specialized adult applications. 
 
 ---
 
@@ -1729,6 +1769,8 @@ General emotion and emotion mechanisms to Chapter 1.13; emotion regulation as a 
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: emotional development examines how emotional capacities and patterns change across development while preserving the general emotion construct.
 Emotional development is the developmental organization of emotional experience, expression, recognition, and regulation. It includes increasing differentiation of emotional states and changing ways of responding to internal and interpersonal demands. Development is shaped by biological maturation, learning, language, relationships, and cultural expectations.
 
 Early emotional development involves increasing coordination between physiological arousal, behavioral expression, and caregiver regulation. Later development involves greater capacity to identify emotions, communicate them, regulate responses, and integrate emotion with goals. These changes are not simply a movement from emotion to reason; emotion and cognition become increasingly coordinated.
@@ -1739,7 +1781,7 @@ Emotional development should be interpreted as increasing coordination rather th
 
 Developmental evidence should distinguish emotional experience from observable expression. A person may experience an emotion without displaying it strongly, and outward control does not prove the absence of internal arousal. This distinction is important when comparing developmental periods or cultures.
 
-Developmental emotional change can involve greater differentiation, better communication, more flexible regulation, and changing relationships between emotion and goals. The person does not simply become less emotional. Emotional systems remain active while regulation and interpretation become more coordinated. Cultural expectations also shape which emotions are expressed openly and which are managed privately, so developmental comparisons should not assume that observable expression perfectly represents internal experience. Emotional development remains plastic across the lifespan. New relationships, roles, health conditions, and cultural environments can alter how emotions are understood and regulated. Emotional development includes changing coordination between feeling, interpretation, expression, regulation, and social context. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Emotional development concerns coordination of feeling, expression, interpretation, and regulation across changing contexts. Its canonical scope remains developmental and explicitly bounded.
+Developmental emotional change can involve greater differentiation, better communication, more flexible regulation, and changing relationships between emotion and goals. The person does not simply become less emotional. Emotional systems remain active while regulation and interpretation become more coordinated. Cultural expectations also shape which emotions are expressed openly and which are managed privately, so developmental comparisons should not assume that observable expression perfectly represents internal experience. Emotional development remains plastic across the lifespan. New relationships, roles, health conditions, and cultural environments can alter how emotions are understood and regulated. Emotional development includes changing coordination between feeling, interpretation, expression, regulation, and social context.  Emotional development concerns coordination of feeling, expression, interpretation, and regulation across changing contexts. 
 
 ---
 
@@ -1805,6 +1847,8 @@ General social psychology and social behavior to Chapter 1.16; cultural mechanis
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: social development concerns developmental change in social functioning and relationships without becoming the general owner of social behavior.
 Social development concerns changes in social interaction, relationships, social understanding, cooperation, conflict, and participation across development. Social functioning changes because both the person's capacities and the surrounding social environments change.
 
 Early development depends heavily on caregivers. Later childhood expands peer interaction, while adolescence increases the importance of peer groups, autonomy, and emerging reciprocal relationships. Adult development adds partnership, work, parenting, community, and caregiving roles. Development therefore changes the structure of social participation rather than simply increasing sociability.
@@ -1815,7 +1859,7 @@ Social development is reciprocal. Children influence caregivers and peers, adole
 
 The Topic should not be interpreted as a measure of sociability alone. Development can involve becoming more selective, more reciprocal, or more capable of maintaining relationships across distance and conflict. Social development includes organization and quality of relationships, not simply quantity.
 
-Social development is partly a process of changing participation. Young children rely heavily on caregivers, school-age children expand peer relationships, adolescents negotiate autonomy and belonging, and adults coordinate partnership, work, family, and community roles. Social development therefore includes changing relationship structures and expectations. A smaller social network later in life can reflect selective investment rather than developmental failure, while a larger network does not automatically imply better functioning. Social development is also not equivalent to increasing social quantity. Selectivity, reciprocity, intimacy, conflict management, and role coordination are developmental dimensions in their own right. Social development concerns organization and participation in relationships, not simply the number of interactions. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Social development includes relationship quality, reciprocity, role coordination, and participation rather than social quantity alone. Its canonical scope remains developmental and explicitly bounded.
+Social development is partly a process of changing participation. Young children rely heavily on caregivers, school-age children expand peer relationships, adolescents negotiate autonomy and belonging, and adults coordinate partnership, work, family, and community roles. Social development therefore includes changing relationship structures and expectations. A smaller social network later in life can reflect selective investment rather than developmental failure, while a larger network does not automatically imply better functioning. Social development is also not equivalent to increasing social quantity. Selectivity, reciprocity, intimacy, conflict management, and role coordination are developmental dimensions in their own right. Social development concerns organization and participation in relationships, not simply the number of interactions.  Social development includes relationship quality, reciprocity, role coordination, and participation rather than social quantity alone. 
 
 ---
 
@@ -1875,6 +1919,8 @@ General personality traits, self, identity, and individual differences to Chapte
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: personality development addresses developmental continuity and change in personality rather than redefining personality itself.
 Personality development concerns emergence, consolidation, differentiation, and transformation in relatively enduring person-level characteristics across the lifespan. Development can involve mean-level change, rank-order continuity, changing expression, and interaction with roles and environments.
 
 Personality development is not identical to temperament or to general personality. Temperament can contribute to early individual differences, while later personality reflects accumulated experience, social roles, habits, relationships, and selection. Developmental patterns are therefore probabilistic rather than predetermined.
@@ -1885,7 +1931,7 @@ Personality development demonstrates why stability and change must be represente
 
 Role transitions can provide repeated opportunities for new habits and expectations. Education, work, partnership, parenthood, and changing social responsibilities can all modify the environments in which personality tendencies are expressed. These influences do not imply that personality is infinitely malleable.
 
-Personality development is best represented as continuity plus transformation. A trait can remain recognizable while its average level or expression changes, and repeated roles can create environments in which different tendencies are reinforced. Developmental claims should distinguish mean-level change from rank-order continuity and should avoid treating one age-period finding as a universal sequence. Personality development should therefore be described with both stability and change metrics. A single trait score at two ages cannot capture every form of developmental transformation. Personality development should preserve the distinction between developmental change and the general personality construct. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Personality development should separate average change, rank-order continuity, and changing situational expression. Its canonical scope remains developmental and explicitly bounded.
+Personality development is best represented as continuity plus transformation. A trait can remain recognizable while its average level or expression changes, and repeated roles can create environments in which different tendencies are reinforced. Developmental claims should distinguish mean-level change from rank-order continuity and should avoid treating one age-period finding as a universal sequence. Personality development should therefore be described with both stability and change metrics. A single trait score at two ages cannot capture every form of developmental transformation. Personality development should preserve the distinction between developmental change and the general personality construct.  Personality development should separate average change, rank-order continuity, and changing situational expression. 
 
 ---
 
@@ -1948,6 +1994,8 @@ General moral judgment and decision-making to Chapters 1.10 and 1.16 where appli
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: moral development examines how moral understanding, judgment, and related capacities change across developmental periods.
 Moral development concerns developmental change in how people understand obligations, fairness, harm, authority, cooperation, values, and moral action. It can involve reasoning, emotional responses, social learning, identity, and behavior, and these components do not necessarily develop at identical rates.
 
 Development is influenced by cognitive capacity, social interaction, cultural practices, observation of others, and opportunities to negotiate rules and consequences. Moral development should therefore not be reduced to memorizing moral rules or to a single sequence of stages.
@@ -1958,7 +2006,7 @@ Moral development is influenced by both reasoning and social practice. People le
 
 Moral knowledge and moral behavior can diverge. A person can understand a rule without following it in a particular situation because motivation, emotion, social pressure, or opportunity changes the behavioral outcome. Developmental accounts should therefore distinguish moral reasoning from moral action.
 
-Moral development involves coordination among understanding, emotion, motivation, identity, and behavior. Development in one component does not guarantee equivalent development in another. Social experience provides opportunities to negotiate rules, understand consequences, recognize perspectives, and integrate values into action. Cultural systems also organize which moral problems are emphasized and how obligations are interpreted. Moral development can also involve changing relationships between values and identity. A moral principle may become personally central without guaranteeing consistent behavior in every situation. Moral development includes both understanding and action, which may not move together. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Moral development should distinguish moral understanding, motivation, identity, emotion, and observable action. Its canonical scope remains developmental and explicitly bounded.
+Moral development involves coordination among understanding, emotion, motivation, identity, and behavior. Development in one component does not guarantee equivalent development in another. Social experience provides opportunities to negotiate rules, understand consequences, recognize perspectives, and integrate values into action. Cultural systems also organize which moral problems are emphasized and how obligations are interpreted. Moral development can also involve changing relationships between values and identity. A moral principle may become personally central without guaranteeing consistent behavior in every situation. Moral development includes both understanding and action, which may not move together.  Moral development should distinguish moral understanding, motivation, identity, emotion, and observable action. 
 
 ---
 
@@ -2018,6 +2066,8 @@ Self-concept, self-awareness, self-esteem, self-discrepancy, and related canonic
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: self development concerns developmental change in self-representation and self-functioning while leaving the general self construct elsewhere.
 Self development concerns changing representations of one's own characteristics, capacities, experiences, and relationships across development. Early self-representations are often concrete and socially grounded; later development can include increasingly abstract, differentiated, temporal, and evaluative self-knowledge.
 
 Self development interacts with language, memory, social cognition, personality, and identity. Increasingly complex self-understanding does not mean that all self-representations become accurate or stable. Context and social feedback continue to shape which aspects of self become salient.
@@ -2028,7 +2078,7 @@ Self development is partly a process of increasing differentiation and integrati
 
 Social feedback contributes to self-knowledge, but feedback can be inconsistent or biased. Developmental self-understanding should therefore be treated as an evolving representation rather than a direct readout of objective characteristics.
 
-Self development includes both differentiation and integration. People can acquire more categories for describing themselves while also organizing those categories into a coherent narrative. Self-knowledge remains partly dependent on memory, language, social feedback, and context, so greater complexity does not automatically mean greater accuracy. Developmental research should distinguish changes in self-description from changes in the underlying characteristics being described. Self-development is influenced by changing social mirrors. As roles and relationships change, different aspects of self can become more salient, producing reorganization without requiring loss of identity coherence. Self-development can increase complexity without guaranteeing accuracy or consistency. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Self-development involves changing representations that may become more complex without becoming perfectly accurate. Its canonical scope remains developmental and explicitly bounded.
+Self development includes both differentiation and integration. People can acquire more categories for describing themselves while also organizing those categories into a coherent narrative. Self-knowledge remains partly dependent on memory, language, social feedback, and context, so greater complexity does not automatically mean greater accuracy. Developmental research should distinguish changes in self-description from changes in the underlying characteristics being described. Self-development is influenced by changing social mirrors. As roles and relationships change, different aspects of self can become more salient, producing reorganization without requiring loss of identity coherence. Self-development can increase complexity without guaranteeing accuracy or consistency.  Self-development involves changing representations that may become more complex without becoming perfectly accurate. 
 
 ---
 
@@ -2091,6 +2141,8 @@ General identity structure and identity constructs to Chapter 1.14; social ident
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: identity development examines how identity structures and commitments develop, change, and become differentiated across the lifespan.
 Identity development concerns changes in how people organize commitments, roles, values, affiliations, and future directions into a sense of who they are. Development can include exploration, commitment, revision, integration, and reorganization rather than one fixed sequence.
 
 Identity is shaped by increasing cognitive capacity, social feedback, cultural context, relationships, education, work, and major transitions. Different identity domains can develop at different rates, so a person can be highly committed in one domain while still exploring another.
@@ -2101,7 +2153,7 @@ Identity development is often domain-specific and revisable. Occupational, relat
 
 Major transitions can reopen identity questions because they change available roles and future possibilities. This does not mean identity is unstable by definition. Reconsideration can be part of coherent development when new information requires an existing commitment to be revised or integrated.
 
-Identity development can be reopened by transitions without implying pathological instability. Education, work, migration, relationships, parenthood, and changing cultural contexts can create new demands for integration. Exploration can therefore continue beyond adolescence. A developmental account should identify the domain, the available alternatives, the degree of commitment, and the social conditions shaping the person's options. Identity development is therefore partly a process of integrating changing possibilities with continuity of values, relationships, and autobiographical meaning. Identity development can involve revision without implying loss of coherence. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Identity development can involve exploration, commitment, revision, and integration across multiple life domains. Its canonical scope remains developmental and explicitly bounded.
+Identity development can be reopened by transitions without implying pathological instability. Education, work, migration, relationships, parenthood, and changing cultural contexts can create new demands for integration. Exploration can therefore continue beyond adolescence. A developmental account should identify the domain, the available alternatives, the degree of commitment, and the social conditions shaping the person's options. Identity development is therefore partly a process of integrating changing possibilities with continuity of values, relationships, and autobiographical meaning. Identity development can involve revision without implying loss of coherence.  Identity development can involve exploration, commitment, revision, and integration across multiple life domains. 
 
 ---
 
@@ -2167,6 +2219,8 @@ General executive functions and cognitive control to Chapter 1.9.
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: executive-function development tracks developmental change in executive control while retaining executive function as the broader construct.
 Executive-function development concerns developmental change in coordinated control processes such as working with information, inhibiting responses, shifting attention, maintaining goals, and monitoring behavior. These capacities develop through interacting biological maturation, learning, practice, and environmental demands.
 
 Executive functioning is context-sensitive. Performance can vary with emotional arousal, motivation, sleep, task complexity, and available support. Development should therefore not be represented as a single ability that rises uniformly with age.
@@ -2177,7 +2231,7 @@ Executive-function development depends on both internal capacity and task struct
 
 Executive functions also interact with learning and regulation. Better control can support practice and goal maintenance, while repeated practice can reduce control demands as skills become more automatic. Development is consequently reciprocal rather than a one-way increase in control.
 
-Executive-function development is affected by both maturation and repeated practice. Tasks that initially require substantial conscious control can become more efficient with experience, changing the apparent demand on executive resources. Conversely, emotional arousal, sleep loss, stress, or complex social conditions can temporarily reduce performance. Developmental competence should therefore be distinguished from performance under one constrained condition. Executive development should be interpreted under realistic demands. Laboratory control and everyday self-regulation can overlap without being identical, so ecological context matters. Executive development is sensitive to task demands and therefore cannot be inferred from one performance condition. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Executive development reflects both changing control capacity and changing task demands. Its canonical scope remains developmental and explicitly bounded.
+Executive-function development is affected by both maturation and repeated practice. Tasks that initially require substantial conscious control can become more efficient with experience, changing the apparent demand on executive resources. Conversely, emotional arousal, sleep loss, stress, or complex social conditions can temporarily reduce performance. Developmental competence should therefore be distinguished from performance under one constrained condition. Executive development should be interpreted under realistic demands. Laboratory control and everyday self-regulation can overlap without being identical, so ecological context matters. Executive development is sensitive to task demands and therefore cannot be inferred from one performance condition.  Executive development reflects both changing control capacity and changing task demands. 
 
 ---
 
@@ -2240,6 +2294,8 @@ General emotion regulation to Chapter 1.13.
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: emotion-regulation development examines how regulatory capacities emerge and reorganize while remaining distinct from general emotion regulation.
 Emotion-regulation development concerns changes in how people influence the intensity, duration, expression, and consequences of emotional states. Early regulation relies heavily on caregivers and environmental structure; later development includes increasingly coordinated internal and interpersonal strategies.
 
 Development involves attention, language, executive control, learning, social feedback, and changing goals. Greater regulation does not mean suppressing all emotion. Effective regulation can involve accepting, reappraising, communicating, seeking support, changing situations, or selecting environments.
@@ -2250,7 +2306,7 @@ Emotion-regulation development includes both internal and interpersonal regulati
 
 Regulation should not be evaluated by emotional intensity alone. Strong emotion can be appropriate, and suppression can sometimes produce costs. Developmental competence concerns flexible coordination between emotional demands, goals, relationships, and context.
 
-Emotion-regulation development includes learning when and how different strategies are useful. Reappraisal, attention shifting, problem solving, communication, support seeking, situation selection, and acceptance can each have different functions. The developmental goal is not maximal control but flexible coordination between emotion, context, relationships, and goals. A strategy that works in one setting may be ineffective or costly in another. Regulation also includes changing the situation itself. Development can involve becoming better at choosing environments that reduce unnecessary regulatory demands. Regulation is flexible coordination, not permanent suppression of emotional responses. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Emotion regulation develops through internal strategies, interpersonal support, environmental selection, and changing goals. Its canonical scope remains developmental and explicitly bounded.
+Emotion-regulation development includes learning when and how different strategies are useful. Reappraisal, attention shifting, problem solving, communication, support seeking, situation selection, and acceptance can each have different functions. The developmental goal is not maximal control but flexible coordination between emotion, context, relationships, and goals. A strategy that works in one setting may be ineffective or costly in another. Regulation also includes changing the situation itself. Development can involve becoming better at choosing environments that reduce unnecessary regulatory demands. Regulation is flexible coordination, not permanent suppression of emotional responses.  Emotion regulation develops through internal strategies, interpersonal support, environmental selection, and changing goals. 
 
 ---
 
@@ -2310,6 +2366,8 @@ General social cognition to Chapter 1.16 and general cognition to Chapter 1.9.
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: social-cognition development concerns developmental changes in interpreting social information, people, relationships, and social situations.
 Social-cognition development concerns developmental change in understanding other people, social intentions, perspectives, relationships, norms, and mental states. It includes multiple abilities rather than one general social-cognitive capacity.
 
 Development is supported by language, interaction, observation, executive functioning, and repeated opportunities to interpret other people's behavior. Increasing sophistication does not eliminate error; social cognition remains sensitive to context, motivation, group membership, and available information.
@@ -2320,7 +2378,7 @@ Social cognition develops through repeated opportunities to interpret people and
 
 Development remains context-sensitive. People can understand another person's perspective in one situation and fail to apply that understanding in another because of emotion, motivation, group identity, or limited information. Social-cognitive development therefore concerns capacities and their use, not a permanent state of perfect understanding.
 
-Social-cognitive development involves increasingly complex coordination of information about people and situations. Language, executive control, experience, and repeated interaction can support this development, but social cognition remains context-sensitive. Motivation and group identity can alter which information is attended to or how another person's behavior is interpreted. Development therefore concerns both capacity and application. Social cognition can be accurate in one domain and biased in another. Development therefore concerns flexible use of social information rather than universal accuracy. Social cognition is a capacity whose expression depends partly on information, motivation, and context. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Social cognition remains sensitive to information, motivation, context, and group membership even as capacity develops. Its canonical scope remains developmental and explicitly bounded.
+Social-cognitive development involves increasingly complex coordination of information about people and situations. Language, executive control, experience, and repeated interaction can support this development, but social cognition remains context-sensitive. Motivation and group identity can alter which information is attended to or how another person's behavior is interpreted. Development therefore concerns both capacity and application. Social cognition can be accurate in one domain and biased in another. Development therefore concerns flexible use of social information rather than universal accuracy. Social cognition is a capacity whose expression depends partly on information, motivation, and context.  Social cognition remains sensitive to information, motivation, context, and group membership even as capacity develops. 
 
 ---
 
@@ -2383,6 +2441,8 @@ General social cognition to Chapter 1.16 and general cognition/language to their
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: theory of mind requires attention to developmental changes in understanding others' mental states and the evidence used to infer them.
 Theory of mind concerns developmental change in representing other people's beliefs, knowledge, desires, intentions, and perspectives, including the possibility that another person can hold information different from one's own. It is one component of social cognition rather than a complete theory of social understanding.
 
 Development involves language, representational capacity, executive control, interaction, and experience with different perspectives. Performance on a single belief task should not be treated as a complete measure of social understanding because task demands can affect performance.
@@ -2393,7 +2453,7 @@ Theory of mind tasks are informative but narrow. Performance depends partly on l
 
 Theory of mind also continues to develop in complexity as people encounter deception, conflicting beliefs, social conventions, and more complex interpersonal contexts. It remains one component of social cognition rather than its endpoint.
 
-Theory of mind is a specific developmental capacity within broader social cognition. Performance can be affected by language, memory, inhibition, and task demands, so a single task should not be interpreted as a complete developmental profile. Later social understanding can involve more complex perspective coordination, conflicting beliefs, social conventions, and strategic interpretation. Theory of mind becomes more complex when people must coordinate several perspectives, conflicting beliefs, social conventions, and strategic intentions rather than only one person's false belief. Theory of mind remains one component of a larger developmental system of social understanding. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Theory of mind is specific and should not be treated as a complete measure of social understanding. Its canonical scope remains developmental and explicitly bounded.
+Theory of mind is a specific developmental capacity within broader social cognition. Performance can be affected by language, memory, inhibition, and task demands, so a single task should not be interpreted as a complete developmental profile. Later social understanding can involve more complex perspective coordination, conflicting beliefs, social conventions, and strategic interpretation. Theory of mind becomes more complex when people must coordinate several perspectives, conflicting beliefs, social conventions, and strategic intentions rather than only one person's false belief. Theory of mind remains one component of a larger developmental system of social understanding.  Theory of mind is specific and should not be treated as a complete measure of social understanding. 
 
 ---
 
@@ -2453,6 +2513,8 @@ General biological mechanisms to Chapter 1.3 and later developmental outcomes to
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: prenatal development examines developmental processes before birth and their later implications without treating prenatal influence as deterministic.
 Prenatal development concerns developmental change before birth, including formation and maturation of biological systems and the effects of the prenatal environment. Genetic processes, maternal physiology, nutrition, exposure, health, and timing can all contribute.
 
 Prenatal development is highly time-sensitive because different systems have different periods of formation and maturation. An exposure should therefore be interpreted by type, dose, timing, and biological pathway rather than as a generic prenatal effect.
@@ -2463,7 +2525,7 @@ Prenatal development is especially sensitive to timing because different biologi
 
 Prenatal development also illustrates why developmental science distinguishes risk from destiny. A prenatal risk factor can alter probability without determining an individual's later functioning. Postnatal environments, health, relationships, and opportunities can subsequently influence the trajectory.
 
-Prenatal development demonstrates why developmental timing matters. Biological systems do not all form or mature simultaneously, so the effect of an exposure depends on timing, intensity, duration, and pathway. Prenatal risk should remain probabilistic rather than deterministic because later environments can alter developmental trajectories. The developmental significance of prenatal conditions is therefore best understood through mechanisms and longitudinal outcomes rather than labels alone. Prenatal development is therefore a foundational period but not a complete explanation of later development. Postnatal environments remain capable of modifying trajectories. Prenatal influences alter developmental probabilities but do not erase later developmental plasticity. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Prenatal development establishes early conditions without determining the entire later developmental trajectory. Its canonical scope remains developmental and explicitly bounded.
+Prenatal development demonstrates why developmental timing matters. Biological systems do not all form or mature simultaneously, so the effect of an exposure depends on timing, intensity, duration, and pathway. Prenatal risk should remain probabilistic rather than deterministic because later environments can alter developmental trajectories. The developmental significance of prenatal conditions is therefore best understood through mechanisms and longitudinal outcomes rather than labels alone. Prenatal development is therefore a foundational period but not a complete explanation of later development. Postnatal environments remain capable of modifying trajectories. Prenatal influences alter developmental probabilities but do not erase later developmental plasticity.  Prenatal development establishes early conditions without determining the entire later developmental trajectory. 
 
 ---
 
@@ -2520,6 +2582,8 @@ Medical neonatal conditions to health/clinical domains and general biological me
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: birth and neonatal development concerns the transition into extrauterine life and early adaptation without collapsing it into infancy.
 Birth and neonatal development concern the transition from prenatal life to the early postnatal period and the rapid organization of physiological, sensory, behavioral, and social functioning that follows. Birth changes the environmental conditions under which regulation and interaction occur.
 
 Neonatal behavior reflects both biological immaturity and active adaptation. Sleep, feeding, sensory responsiveness, motor organization, and caregiver interaction develop within a changing physiological context. Individual variation is substantial, and neonatal behavior should not be interpreted as a fixed forecast of later development.
@@ -2530,7 +2594,7 @@ The neonatal period illustrates the transition from a relatively protected prena
 
 Developmental interpretation should avoid treating neonatal characteristics as fixed predictions. Early behavior reflects current biological organization and immediate context, while later development depends on continuing experience and maturation. The neonatal period is therefore an important starting point rather than a deterministic blueprint.
 
-The neonatal period is a transition in regulation rather than a fixed developmental category. Feeding, sleep, temperature, sensory responsiveness, movement, and caregiver interaction are rapidly reorganized. Early observations should therefore be interpreted as snapshots within a changing biological system, not as permanent indicators of later functioning. The neonatal period is therefore best interpreted as a changing starting state. Later development depends on continuing maturation, caregiving, health, and experience rather than on neonatal behavior alone. Neonatal functioning is a changing state shaped by rapid physiological adaptation and caregiving conditions. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Neonatal behavior should be interpreted within a rapidly changing physiological and relational system. Its canonical scope remains developmental and explicitly bounded.
+The neonatal period is a transition in regulation rather than a fixed developmental category. Feeding, sleep, temperature, sensory responsiveness, movement, and caregiver interaction are rapidly reorganized. Early observations should therefore be interpreted as snapshots within a changing biological system, not as permanent indicators of later functioning. The neonatal period is therefore best interpreted as a changing starting state. Later development depends on continuing maturation, caregiving, health, and experience rather than on neonatal behavior alone. Neonatal functioning is a changing state shaped by rapid physiological adaptation and caregiving conditions.  Neonatal behavior should be interpreted within a rapidly changing physiological and relational system. 
 
 ---
 
@@ -2593,6 +2657,8 @@ Attachment, motor, cognitive, language, and emotional mechanisms to their dedica
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: infancy emphasizes rapid early developmental change while recognizing substantial individual variation and dependence on caregiving context.
 Infancy is a period of rapid change in motor, perceptual, cognitive, emotional, social, communicative, and attachment-related functioning. New capacities alter the infant's access to people and objects, producing cascading changes in experience.
 
 Infant development is strongly relational. Caregivers provide regulation, stimulation, protection, and social information, while infant characteristics influence caregiver behavior. Rapid development does not imply a single universal timetable; timing and expression vary across individuals and contexts.
@@ -2603,7 +2669,7 @@ Infancy contains several interacting developmental cascades. Increased mobility 
 
 Infant development is also highly dependent on measurement context. Performance can vary with alertness, familiarity, sensory conditions, and caregiver presence. A single task therefore provides only a narrow window into an infant's broader developmental organization.
 
-Infancy is characterized by cascading change because new capacities alter access to experience. Mobility, attention, communication, perception, and attachment can mutually influence one another. Infant development also varies with health, caregiving, opportunity, and cultural practice, so normative descriptions should not be converted into rigid individual schedules. Infancy demonstrates how quickly developmental domains can become mutually reinforcing. New movement, attention, communication, and attachment capacities continually change the opportunities available for further development. Infancy demonstrates how newly acquired capacities can create further developmental opportunities. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Infancy illustrates how emerging capacities can create new opportunities for further development. Its canonical scope remains developmental and explicitly bounded.
+Infancy is characterized by cascading change because new capacities alter access to experience. Mobility, attention, communication, perception, and attachment can mutually influence one another. Infant development also varies with health, caregiving, opportunity, and cultural practice, so normative descriptions should not be converted into rigid individual schedules. Infancy demonstrates how quickly developmental domains can become mutually reinforcing. New movement, attention, communication, and attachment capacities continually change the opportunities available for further development. Infancy demonstrates how newly acquired capacities can create further developmental opportunities.  Infancy illustrates how emerging capacities can create new opportunities for further development. 
 
 ---
 
@@ -2663,6 +2729,8 @@ Specific mechanisms and domains to their canonical Topics.
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: early childhood concerns developmental organization after infancy, including emerging capacities and changing social and cognitive contexts.
 Early childhood involves expanding language, self-regulation, social understanding, symbolic thought, motor competence, and participation in family and educational environments. Increasing autonomy changes both what children can do and how adults structure their support.
 
 Development during this period is strongly shaped by interaction among language, executive control, emotion regulation, peer experience, parenting, and learning contexts. The same behavior can have different meanings depending on developmental capacity and environmental expectations.
@@ -2673,7 +2741,7 @@ Early childhood involves increasing coordination between internal capacities and
 
 The period is also marked by expanding social worlds. Peer interaction provides opportunities for negotiation and perspective-taking, while school introduces formal evaluation and comparison. Development should therefore be understood as an interaction among family, school, peer, and individual processes.
 
-Early childhood brings increasing coordination between self-regulation and external structure. Adults gradually shift from direct control toward explanation, scaffolding, and supported autonomy as children become more capable. School entry and peer interaction add new demands, making development a product of family, educational, social, and individual processes. Early childhood development is therefore partly a process of shifting from external regulation toward increasingly coordinated self-regulation within social and institutional contexts. Early childhood development reflects increasing coordination between internal abilities and social scaffolding. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Early childhood development reflects changing relations among family, school, peers, and growing self-regulation. Its canonical scope remains developmental and explicitly bounded.
+Early childhood brings increasing coordination between self-regulation and external structure. Adults gradually shift from direct control toward explanation, scaffolding, and supported autonomy as children become more capable. School entry and peer interaction add new demands, making development a product of family, educational, social, and individual processes. Early childhood development is therefore partly a process of shifting from external regulation toward increasingly coordinated self-regulation within social and institutional contexts. Early childhood development reflects increasing coordination between internal abilities and social scaffolding.  Early childhood development reflects changing relations among family, school, peers, and growing self-regulation. 
 
 ---
 
@@ -2733,6 +2801,8 @@ Specific cognitive, social, emotional, personality, and moral processes.
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: middle childhood captures developmental changes occurring within increasingly structured learning, peer, family, and social environments.
 Middle childhood is characterized by increasing competence across school, peer, cognitive, emotional, and self-related domains. Children become more capable of coordinating rules, perspectives, goals, and longer-term tasks while remaining embedded in family and school systems.
 
 School and peer environments become particularly important sources of feedback and opportunity. Academic competence, friendship, social comparison, self-evaluation, and self-regulation can influence one another. Development remains heterogeneous across children and contexts.
@@ -2743,7 +2813,7 @@ Middle childhood often reveals the developmental consequences of increasing comp
 
 The period also demonstrates the importance of domain differences. Cognitive, social, emotional, and self-related development do not necessarily proceed at the same rate. A child can be advanced in one domain and relatively immature in another without contradiction.
 
-Middle childhood provides increasingly strong feedback between competence and opportunity. Academic skills, friendships, self-evaluation, and self-regulation can reinforce one another, but support can redirect difficult trajectories. Developmental interpretation should distinguish temporary performance, accumulated skill, and broader changes in self-concept or social functioning. Middle childhood also increases the importance of comparison and feedback. Developmental interpretation should distinguish actual competence from beliefs about competence and from the opportunities available to demonstrate skill. Middle childhood makes competence increasingly visible through school and peer feedback. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Middle childhood makes developmental differences increasingly visible through academic and peer environments. Its canonical scope remains developmental and explicitly bounded.
+Middle childhood provides increasingly strong feedback between competence and opportunity. Academic skills, friendships, self-evaluation, and self-regulation can reinforce one another, but support can redirect difficult trajectories. Developmental interpretation should distinguish temporary performance, accumulated skill, and broader changes in self-concept or social functioning. Middle childhood also increases the importance of comparison and feedback. Developmental interpretation should distinguish actual competence from beliefs about competence and from the opportunities available to demonstrate skill. Middle childhood makes competence increasingly visible through school and peer feedback.  Middle childhood makes developmental differences increasingly visible through academic and peer environments. 
 
 ---
 
@@ -2806,6 +2876,8 @@ Puberty, identity, risk-taking, cognition, emotion, and social development to de
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: adolescence should be treated as a heterogeneous developmental period involving interacting biological, cognitive, social, and identity changes.
 Adolescence involves coordinated biological, cognitive, emotional, social, and identity changes. Puberty is one component of adolescence but does not define the entire period. Increasing autonomy and changing peer relationships alter the social environment in which development occurs.
 
 Adolescent behavior is context-sensitive. Reward, social motivation, emotional arousal, cognitive control, identity exploration, and opportunity can interact. Adolescence should therefore not be reduced to a universal period of instability or risk.
@@ -2816,7 +2888,7 @@ Adolescence is best represented as coordination among several changing systems. 
 
 Risk behavior should therefore be interpreted in context rather than treated as the defining feature of adolescence. The same peer environment can support either risky or prosocial behavior depending on norms, rewards, relationships, and opportunities.
 
-Adolescence is not a single mechanism. Puberty, cognition, reward sensitivity, social motivation, identity, autonomy, family relationships, and peer contexts change together but do not change identically. The developmental task is to identify their interaction for the behavior under study rather than attributing the behavior to adolescence as a whole. Adolescent development is consequently best understood as a coordinated transition in which biological, cognitive, social, and identity systems change together but not uniformly. Adolescence is best understood through interactions among several changing systems rather than one defining trait. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Adolescence is a coordinated transition rather than a single psychological mechanism. Its canonical scope remains developmental and explicitly bounded.
+Adolescence is not a single mechanism. Puberty, cognition, reward sensitivity, social motivation, identity, autonomy, family relationships, and peer contexts change together but do not change identically. The developmental task is to identify their interaction for the behavior under study rather than attributing the behavior to adolescence as a whole. Adolescent development is consequently best understood as a coordinated transition in which biological, cognitive, social, and identity systems change together but not uniformly. Adolescence is best understood through interactions among several changing systems rather than one defining trait.  Adolescence is a coordinated transition rather than a single psychological mechanism. 
 
 ---
 
@@ -2876,6 +2948,8 @@ General endocrine mechanisms to Chapter 1.3 and broader adolescent development t
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: puberty refers specifically to biological maturation and should not be equated with the entire psychological period of adolescence.
 Puberty concerns biological maturation associated with reproductive development and broader physical changes. Timing varies among individuals, and the psychological meaning of puberty depends partly on social interpretation, expectations, and context.
 
 Puberty can alter sleep, physical appearance, bodily experience, and social attention. These changes can interact with identity, emotion, peer relationships, and family dynamics, but puberty should not be treated as the sole cause of adolescent psychological behavior.
@@ -2886,7 +2960,7 @@ Pubertal timing can influence experience because social expectations are often t
 
 Puberty also illustrates the difference between biological and psychological development. Physical maturation can create new conditions for identity, emotion, and relationships, but those psychological outcomes are not mechanically produced by hormones. Development emerges through interaction between bodily change and social context.
 
-Puberty demonstrates the interaction between biological timing and social context. Physical maturation can change how a young person is treated by peers and adults, while cultural expectations influence the meaning attached to bodily change. Psychological consequences are therefore mediated by social interpretation rather than mechanically produced by biological maturation. Puberty should remain conceptually distinct from adolescence because one is primarily biological maturation while the other includes a much broader developmental reorganization. Pubertal biology creates conditions for change but does not determine their psychological meaning. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Puberty is biological maturation whose psychological consequences depend partly on social interpretation. Its canonical scope remains developmental and explicitly bounded.
+Puberty demonstrates the interaction between biological timing and social context. Physical maturation can change how a young person is treated by peers and adults, while cultural expectations influence the meaning attached to bodily change. Psychological consequences are therefore mediated by social interpretation rather than mechanically produced by biological maturation. Puberty should remain conceptually distinct from adolescence because one is primarily biological maturation while the other includes a much broader developmental reorganization. Pubertal biology creates conditions for change but does not determine their psychological meaning.  Puberty is biological maturation whose psychological consequences depend partly on social interpretation. 
 
 ---
 
@@ -2946,6 +3020,8 @@ Identity, education, work, relationships, and personality development to their c
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: emerging adulthood concerns developmental patterns associated with the transition toward adult roles while recognizing cultural and individual variation.
 Emerging adulthood describes a developmental pattern in which education, work, relationships, residential independence, and identity commitments may remain in transition after adolescence. It is especially relevant in societies and historical periods where adult roles are entered later and with greater exploration.
 
 The construct is context-sensitive. Economic resources, culture, family structure, educational systems, and labor markets influence whether and how this period is experienced. It should not be treated as a universal stage with identical features across populations.
@@ -2956,7 +3032,7 @@ Emerging adulthood is particularly sensitive to historical and socioeconomic con
 
 The concept is therefore best used as a developmental pattern rather than a universal stage. Some populations experience prolonged exploration across education, work, relationships, and identity, while others enter adult roles earlier because of cultural expectations or economic necessity.
 
-Emerging adulthood is partly a historical and socioeconomic construct. Its expression depends on whether education is prolonged, employment is delayed, housing is accessible, and family structures support extended transition. It should therefore be applied with attention to population and historical period rather than assumed to be universal. Emerging adulthood is therefore most useful when its defining social conditions are specified rather than treated as a universal age category. Emerging adulthood is a context-dependent developmental pattern rather than a universal timetable. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Emerging adulthood varies with culture, economy, education, family structure, and historical conditions. Its canonical scope remains developmental and explicitly bounded.
+Emerging adulthood is partly a historical and socioeconomic construct. Its expression depends on whether education is prolonged, employment is delayed, housing is accessible, and family structures support extended transition. It should therefore be applied with attention to population and historical period rather than assumed to be universal. Emerging adulthood is therefore most useful when its defining social conditions are specified rather than treated as a universal age category. Emerging adulthood is a context-dependent developmental pattern rather than a universal timetable.  Emerging adulthood varies with culture, economy, education, family structure, and historical conditions. 
 
 ---
 
@@ -3013,6 +3089,8 @@ Specific adult developmental processes to their dedicated Topics.
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: adulthood is a broad developmental period containing continued change, stability, adaptation, and substantial individual differences.
 Adulthood is a developmental period involving continued cognitive, personality, relational, occupational, and identity change. Adult development includes learning, specialization, role transitions, adaptation, and changing goals rather than a simple plateau after adolescence.
 
 Work, partnership, parenthood, caregiving, health, and community participation can create new developmental demands. Adults also actively select and modify environments, producing person–environment transactions across the lifespan.
@@ -3023,7 +3101,7 @@ Adult development is strongly shaped by role and environment. Work can support e
 
 Adults also increasingly select their environments, creating person–environment correlations. These selections can reinforce existing tendencies, but they can also expose individuals to experiences that produce meaningful change. Adult development therefore remains both constrained and open to reorganization.
 
-Adulthood contains substantial developmental opportunity. Work, education, partnership, caregiving, parenthood, migration, and changing health can reorganize skills, goals, relationships, and identity. Adults also select environments, creating feedback between person characteristics and life contexts. This selection can reinforce existing patterns while also opening new developmental pathways. Adult development also includes continued personality, identity, relationship, and cognitive change. The absence of a formal stage transition does not mean the absence of development. Adulthood remains developmentally active through roles, learning, relationships, and changing goals. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Adult development remains active through roles, learning, relationships, health changes, and environmental selection. Its canonical scope remains developmental and explicitly bounded.
+Adulthood contains substantial developmental opportunity. Work, education, partnership, caregiving, parenthood, migration, and changing health can reorganize skills, goals, relationships, and identity. Adults also select environments, creating feedback between person characteristics and life contexts. This selection can reinforce existing patterns while also opening new developmental pathways. Adult development also includes continued personality, identity, relationship, and cognitive change. The absence of a formal stage transition does not mean the absence of development. Adulthood remains developmentally active through roles, learning, relationships, and changing goals.  Adult development remains active through roles, learning, relationships, health changes, and environmental selection. 
 
 ---
 
@@ -3083,6 +3161,8 @@ Cognitive aging, socioemotional aging, health, and resilience to dedicated Topic
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: older adulthood should not be defined solely by decline; developmental functioning can include adaptation, maintenance, and selective change.
 Older adulthood is a developmental period in which biological aging, accumulated knowledge, changing roles, health conditions, social networks, and adaptation interact. It is heterogeneous and should not be treated as a single uniform state.
 
 People may compensate for some losses through accumulated knowledge, environmental modification, strategy use, and selective goal investment. Social and emotional priorities can also change. Functional outcomes therefore depend on both capacities and environmental demands.
@@ -3093,7 +3173,7 @@ Older adulthood demonstrates why developmental functioning should be separated f
 
 Adaptation can involve compensation, selection, environmental modification, and use of accumulated knowledge. Functional outcomes should consequently be interpreted as the product of capacity and context rather than as a direct consequence of age alone.
 
-Older adulthood is heterogeneous because people enter later life with different health histories, education, occupations, relationships, resources, and accumulated skills. Compensation and environmental adaptation can preserve functioning even when some underlying capacities change. Developmental interpretation should therefore focus on functioning and trajectory rather than age alone. Older adulthood should therefore be interpreted through functioning, adaptation, and individual trajectory rather than through chronological age as a single explanatory variable. Older adulthood contains both constraint and adaptation, with substantial variation among individuals. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Older adulthood contains substantial heterogeneity in health, cognition, relationships, resources, and adaptation. Its canonical scope remains developmental and explicitly bounded.
+Older adulthood is heterogeneous because people enter later life with different health histories, education, occupations, relationships, resources, and accumulated skills. Compensation and environmental adaptation can preserve functioning even when some underlying capacities change. Developmental interpretation should therefore focus on functioning and trajectory rather than age alone. Older adulthood should therefore be interpreted through functioning, adaptation, and individual trajectory rather than through chronological age as a single explanatory variable. Older adulthood contains both constraint and adaptation, with substantial variation among individuals.  Older adulthood contains substantial heterogeneity in health, cognition, relationships, resources, and adaptation. 
 
 ---
 
@@ -3156,11 +3236,13 @@ Specific biological aging mechanisms to Chapter 1.3 and cognitive/socioemotional
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: aging describes developmental processes associated with increasing age while avoiding the assumption that all aging-related change is pathological.
 Aging should be interpreted as a trajectory of interacting biological, psychological, and social processes. Chronological age is only a coordinate; health, education, occupation, relationships, activity, resources, and historical context alter the trajectory. This is why people of the same age can differ substantially in functioning. Developmental aging also includes adaptation: people can change goals, strategies, environments, and routines to preserve important functions. Evidence should distinguish normative age-related change from disease, temporary state effects, and cohort differences. The central developmental question is not simply whether functioning declines, but which functions change, which remain stable, which improve through accumulated experience, and which can be supported through compensation.
 
 
 
-Aging should not be treated as a single downward trajectory. Some biological and cognitive processes become less efficient, while accumulated knowledge, expertise, emotional selectivity, and environmental adaptation can support functioning. The balance differs among people and domains. Aging research therefore requires multidimensional measurement and attention to health and context. Aging can alter the relationship between capacity and environmental demand. Changes in the environment can therefore modify functional consequences without reversing the underlying biological process. Aging should therefore be interpreted as multidimensional change rather than a single decline curve. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Aging is multidimensional and should be separated from disease, impairment, and chronological age alone. Its canonical scope remains developmental and explicitly bounded.
+Aging should not be treated as a single downward trajectory. Some biological and cognitive processes become less efficient, while accumulated knowledge, expertise, emotional selectivity, and environmental adaptation can support functioning. The balance differs among people and domains. Aging research therefore requires multidimensional measurement and attention to health and context. Aging can alter the relationship between capacity and environmental demand. Changes in the environment can therefore modify functional consequences without reversing the underlying biological process. Aging should therefore be interpreted as multidimensional change rather than a single decline curve.  Aging is multidimensional and should be separated from disease, impairment, and chronological age alone. 
 # 42. Cognitive aging
 
 ## 1. Purpose
@@ -3223,11 +3305,13 @@ General cognition and memory to Chapters 1.8–1.11; clinical disorders to Chapt
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: cognitive aging requires distinguishing changes in different cognitive functions because age-related trajectories are not uniform across abilities.
 Cognitive aging requires domain-specific interpretation. A slowing on a timed task does not establish global cognitive deterioration, just as preserved vocabulary does not establish preservation of every memory or executive process. Health, sensory function, education, occupational experience, motivation, and task demands can influence observed performance. Developmental evidence is strongest when multiple cognitive components are examined and when the design distinguishes age effects from cohort and measurement effects. Compensation also matters: people can use knowledge, routines, environmental supports, and alternative strategies to preserve everyday functioning even when a basic process becomes less efficient.
 
 
 
-Cognitive aging is best understood through profiles of change. Processing speed, memory, executive control, knowledge, and practical reasoning can show different trajectories. Everyday competence may remain strong through compensation even when laboratory performance changes. Interpretation should therefore specify the cognitive component and distinguish capacity, strategy, and environmental support. Cognitive aging is especially sensitive to task demands. Timed laboratory performance and everyday problem solving can reveal different aspects of functioning and should not be treated as interchangeable. Cognitive aging requires domain-specific measurement and attention to compensation. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Cognitive aging should identify the specific ability measured and the compensatory resources available. Its canonical scope remains developmental and explicitly bounded.
+Cognitive aging is best understood through profiles of change. Processing speed, memory, executive control, knowledge, and practical reasoning can show different trajectories. Everyday competence may remain strong through compensation even when laboratory performance changes. Interpretation should therefore specify the cognitive component and distinguish capacity, strategy, and environmental support. Cognitive aging is especially sensitive to task demands. Timed laboratory performance and everyday problem solving can reveal different aspects of functioning and should not be treated as interchangeable. Cognitive aging requires domain-specific measurement and attention to compensation.  Cognitive aging should identify the specific ability measured and the compensatory resources available. 
 # 43. Socioemotional aging
 
 ## 1. Purpose
@@ -3287,11 +3371,13 @@ General emotion to Chapter 1.13 and social relationships to Chapter 1.16.
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: socioemotional aging examines developmental change in emotional and social functioning while accounting for goals, context, and individual differences.
 Socioemotional aging is not adequately represented by a simple increase or decrease in emotionality. Social goals, perceived future time, relationship quality, health, loss, and cultural expectations can all alter emotional and social priorities. A smaller social network can reflect deliberate selection of meaningful relationships, reduced opportunity, bereavement, or some combination. Developmental interpretation should therefore examine the function and quality of relationships rather than infer isolation from network size alone. Emotional adaptation can coexist with distress, and later life should not be treated as uniformly more positive or uniformly more negative.
 
 
 
-Socioemotional aging involves changing goals as well as changing capacities. Relationships may become more selective because people prioritize meaning, because opportunity changes, or because loss and health alter the social environment. Developmental evidence should therefore distinguish intentional selection from involuntary isolation and should consider perceived future time rather than age alone. Socioemotional aging also depends on opportunity. Relationship quality, health, mobility, resources, and cultural expectations can influence whether social selectivity is adaptive, constrained, or both. Socioemotional aging is shaped by goals, relationships, health, opportunity, and perceived future time. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Socioemotional aging depends on changing goals, relationships, health, and perceived future time. Its canonical scope remains developmental and explicitly bounded.
+Socioemotional aging involves changing goals as well as changing capacities. Relationships may become more selective because people prioritize meaning, because opportunity changes, or because loss and health alter the social environment. Developmental evidence should therefore distinguish intentional selection from involuntary isolation and should consider perceived future time rather than age alone. Socioemotional aging also depends on opportunity. Relationship quality, health, mobility, resources, and cultural expectations can influence whether social selectivity is adaptive, constrained, or both. Socioemotional aging is shaped by goals, relationships, health, opportunity, and perceived future time.  Socioemotional aging depends on changing goals, relationships, health, and perceived future time. 
 # 44. Death and dying
 
 ## 1. Purpose
@@ -3352,11 +3438,13 @@ Grief and bereavement to Chapter 1.18 and clinical conditions to Chapter 1.19.
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: death and dying belong to lifespan development as processes involving developmental, relational, emotional, and contextual dimensions near the end of life.
 Developmental accounts of death and dying must preserve individual and cultural variation. Children's understanding of death becomes more differentiated as concepts of permanence, universality, and causation develop, while adults may reorganize goals and relationships when mortality becomes salient. Bereavement can alter identity, routines, social networks, and meaning. There is no single required sequence of emotional responses, and adaptation can coexist with continuing attachment to the person who died. The developmental focus is on reorganization over time rather than on assigning people to a fixed stage.
 
 
 
-Development around death includes changing concepts of mortality, changing responses to loss, and reorganization of identity and relationships. Cultural practices can provide frameworks for meaning and support. Bereavement trajectories are variable, and continuing bonds can coexist with adaptation. Developmental science should describe these processes without imposing a single emotional timetable. Death and dying therefore belong to lifespan development because they involve changing representations, relationships, goals, and adaptation rather than a single emotional endpoint. Development around death includes changing meaning and adaptation rather than one fixed grief sequence. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Death and dying involve changing representations, relationships, goals, and meaning across development. Its canonical scope remains developmental and explicitly bounded.
+Development around death includes changing concepts of mortality, changing responses to loss, and reorganization of identity and relationships. Cultural practices can provide frameworks for meaning and support. Bereavement trajectories are variable, and continuing bonds can coexist with adaptation. Developmental science should describe these processes without imposing a single emotional timetable. Death and dying therefore belong to lifespan development because they involve changing representations, relationships, goals, and adaptation rather than a single emotional endpoint. Development around death includes changing meaning and adaptation rather than one fixed grief sequence.  Death and dying involve changing representations, relationships, goals, and meaning across development. 
 # 45. Attachment
 
 ## 1. Purpose
@@ -3423,11 +3511,13 @@ General social relationships to Chapter 1.16; personality to Chapter 1.14.
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: attachment is treated as a developmental relational system whose patterns emerge through interactions between people and caregiving contexts.
 Attachment remains developmental because the form of support-seeking changes with increasing autonomy and cognitive capacity. Early attachment is expressed strongly through proximity and caregiver regulation; later relationships can provide psychological availability, reciprocal support, and shared regulation. Attachment should not be used as a global measure of relationship quality or as a diagnosis. Developmental evidence concerns patterns of expectation and behavior within relationships and must be interpreted with attention to context, culture, measurement method, and the possibility of change.
 
 
 
-Attachment is a developmental relationship system rather than a static label. Its behavioral form changes with increasing autonomy, cognitive capacity, and the availability of reciprocal relationships. Early proximity seeking can become later psychological reliance and mutual support. Context and relationship-specific evidence remain essential to interpretation. Attachment should be interpreted relationally. A person's attachment-related behavior can vary with the relationship, stressor, developmental period, and available support. Attachment is relational and developmental, not a permanent global label. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Attachment should be interpreted within relationships and developmental contexts rather than as a global personal label. Its canonical scope remains developmental and explicitly bounded.
+Attachment is a developmental relationship system rather than a static label. Its behavioral form changes with increasing autonomy, cognitive capacity, and the availability of reciprocal relationships. Early proximity seeking can become later psychological reliance and mutual support. Context and relationship-specific evidence remain essential to interpretation. Attachment should be interpreted relationally. A person's attachment-related behavior can vary with the relationship, stressor, developmental period, and available support. Attachment is relational and developmental, not a permanent global label.  Attachment should be interpreted within relationships and developmental contexts rather than as a global personal label. 
 # 46. Attachment theory
 
 ## 1. Purpose
@@ -3487,11 +3577,13 @@ Attachment constructs to Topic 45 and general developmental theory to Topic 5.
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: attachment theory belongs to developmental theory and should be evaluated through its assumptions, mechanisms, evidence, and limits.
 Attachment theory is most useful when its propositions are separated from individual empirical findings. The theory provides concepts for security, exploration, internal expectations, and relational organization, while particular studies test particular operationalizations. Continuity from early relationships is possible, but continuity is probabilistic rather than deterministic. Later relationships, caregiving changes, major disruptions, and developmental maturation can alter attachment-related expectations. The theory therefore supports questions about developmental pathways without justifying claims that one early relationship permanently determines adult relationships.
 
 
 
-Attachment theory provides a model for continuity and change but should not be treated as proof that every early relationship determines adult functioning. Its constructs must be operationalized carefully, and different measures can assess different aspects of attachment. Developmental interpretation should preserve this distinction between theoretical framework and empirical evidence. Attachment theory is most useful when treated as a framework for generating developmental hypotheses rather than as a license for deterministic narratives. Attachment theory should be separated from the empirical status of any particular operationalization. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Attachment theory organizes hypotheses but does not establish every claim associated with its historical formulations. Its canonical scope remains developmental and explicitly bounded.
+Attachment theory provides a model for continuity and change but should not be treated as proof that every early relationship determines adult functioning. Its constructs must be operationalized carefully, and different measures can assess different aspects of attachment. Developmental interpretation should preserve this distinction between theoretical framework and empirical evidence. Attachment theory is most useful when treated as a framework for generating developmental hypotheses rather than as a license for deterministic narratives. Attachment theory should be separated from the empirical status of any particular operationalization.  Attachment theory organizes hypotheses but does not establish every claim associated with its historical formulations. 
 # 47. Attachment security
 
 ## 1. Purpose
@@ -3545,11 +3637,13 @@ General attachment theory to Topic 46 and insecurity to Topic 48.
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: attachment security concerns the developmental organization of attachment-related expectations and behavior, not a permanent global trait.
 Attachment security concerns the availability and usefulness of an attachment relationship under stress. Security can support exploration because the person can return to a trusted source of regulation when needed. Security does not mean constant calm, absence of conflict, or perfect caregiving. Developmental security is also relational: the same person can experience greater or lesser security across relationships and circumstances. Evidence should therefore avoid turning security into a fixed personality label and should distinguish relationship-specific observations from broad individual claims.
 
 
 
-Security can support exploration because the person has confidence that support is available when needed. This does not imply perfect caregiving or absence of distress. Security is best understood as a relational organization that can vary across relationships and contexts, and developmental conclusions should avoid converting it into a global personality score. Security can support exploration precisely because the relationship provides a reliable base for returning to regulation when demands exceed current coping resources. Security concerns the usefulness and availability of support, especially under stress. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Security concerns reliable access to support and does not imply absence of distress or conflict. Its canonical scope remains developmental and explicitly bounded.
+Security can support exploration because the person has confidence that support is available when needed. This does not imply perfect caregiving or absence of distress. Security is best understood as a relational organization that can vary across relationships and contexts, and developmental conclusions should avoid converting it into a global personality score. Security can support exploration precisely because the relationship provides a reliable base for returning to regulation when demands exceed current coping resources. Security concerns the usefulness and availability of support, especially under stress.  Security concerns reliable access to support and does not imply absence of distress or conflict. 
 # 48. Attachment insecurity
 
 ## 1. Purpose
@@ -3600,11 +3694,13 @@ Specific assessment procedures and adult relationship manifestations to relevant
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: attachment insecurity concerns patterns of attachment-related organization and should not be treated as a simple pathology label.
 Attachment insecurity includes different organizational patterns and should not be reduced to one deficit. Heightened concern about abandonment and reduced reliance on others represent different strategies for managing attachment-related uncertainty. These strategies can be understandable adaptations to relational histories and can change when later environments change. Insecurity is not a clinical diagnosis, and its presence does not prove that a caregiver was harmful. Developmental interpretation should identify the relationship, context, measure, and time period involved.
 
 
 
-Insecurity is heterogeneous and context-sensitive. Different insecure patterns can reflect different ways of managing uncertainty about support. Later relationships and environments can alter these patterns, so insecurity should not be treated as permanent or diagnostic. The developmental meaning depends on history, relationship, measure, and current context. Insecurity can represent an organized strategy rather than a generic lack of social ability. Its developmental meaning depends on the relational environment in which it emerged. Insecurity represents patterns of managing attachment uncertainty and should not be treated as diagnosis. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Insecurity describes relational organization and is not itself a diagnosis or moral judgment. Its canonical scope remains developmental and explicitly bounded.
+Insecurity is heterogeneous and context-sensitive. Different insecure patterns can reflect different ways of managing uncertainty about support. Later relationships and environments can alter these patterns, so insecurity should not be treated as permanent or diagnostic. The developmental meaning depends on history, relationship, measure, and current context. Insecurity can represent an organized strategy rather than a generic lack of social ability. Its developmental meaning depends on the relational environment in which it emerged. Insecurity represents patterns of managing attachment uncertainty and should not be treated as diagnosis.  Insecurity describes relational organization and is not itself a diagnosis or moral judgment. 
 # 49. Attachment development
 
 ## 1. Purpose
@@ -3661,11 +3757,13 @@ General attachment theory to Topic 46 and adult social relationships to Chapter 
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: attachment development requires attention to timing, caregiving relationships, changing representations, and continuity or revision across development.
 Attachment development illustrates continuity and plasticity together. Early relationships can contribute to expectations about availability and support, while later relationships can provide new evidence and opportunities for reorganization. Development also changes the behavioral form of attachment as people gain autonomy and distribute support across caregivers, peers, partners, and other close relationships. Longitudinal evidence is therefore especially valuable because it can test continuity without treating early observations as permanent forecasts.
 
 
 
-Attachment development changes its behavioral form across the lifespan. Children increasingly balance proximity with exploration, adolescents distribute support across caregivers and peers, and adults can organize attachment around reciprocal partnerships. This continuity of function with changing expression is a central developmental pattern. Attachment development therefore illustrates how an underlying relational function can remain recognizable while its behavioral form changes with autonomy and reciprocity. Attachment development demonstrates continuity of function alongside changing forms of relationship. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Attachment development combines continuity of function with changing forms of proximity and reciprocity. Its canonical scope remains developmental and explicitly bounded.
+Attachment development changes its behavioral form across the lifespan. Children increasingly balance proximity with exploration, adolescents distribute support across caregivers and peers, and adults can organize attachment around reciprocal partnerships. This continuity of function with changing expression is a central developmental pattern. Attachment development therefore illustrates how an underlying relational function can remain recognizable while its behavioral form changes with autonomy and reciprocity. Attachment development demonstrates continuity of function alongside changing forms of relationship.  Attachment development combines continuity of function with changing forms of proximity and reciprocity. 
 # 50. Temperament development
 
 ## 1. Purpose
@@ -3714,11 +3812,13 @@ General temperament and personality constructs to Chapter 1.14 where applicable.
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: temperament development concerns changing patterns of individual reactivity and regulation while distinguishing developmental change from stable differences.
 Temperament development is best understood through interaction with environment. Early differences in reactivity, activity, attention, and regulation can influence how people respond to demands and how others respond to them. The same characteristic can therefore produce different developmental outcomes under different conditions. Temperament contributes to later personality but does not determine it. Assessment should use multiple contexts and informants where possible because reports can differ according to which situations are observed. Developmental change can occur in expression and regulation even when a temperamental tendency shows continuity.
 
 
 
-Temperament is an early source of individual difference, not a complete developmental destiny. Its expression can change as regulation develops and as environments change. Parent reports, observation, laboratory tasks, and physiological indicators can capture different aspects, so developmental conclusions should not rely on a single informant or context. Temperament should be interpreted as probabilistic influence. Later personality and functioning depend on developmental experience, regulation, social feedback, and environmental fit. Temperament contributes to development without determining later personality or functioning. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Temperament contributes to later development while remaining sensitive to environmental fit and regulation. Its canonical scope remains developmental and explicitly bounded.
+Temperament is an early source of individual difference, not a complete developmental destiny. Its expression can change as regulation develops and as environments change. Parent reports, observation, laboratory tasks, and physiological indicators can capture different aspects, so developmental conclusions should not rely on a single informant or context. Temperament should be interpreted as probabilistic influence. Later personality and functioning depend on developmental experience, regulation, social feedback, and environmental fit. Temperament contributes to development without determining later personality or functioning.  Temperament contributes to later development while remaining sensitive to environmental fit and regulation. 
 # 51. Parenting processes
 
 ## 1. Purpose
@@ -3778,11 +3878,13 @@ General socialization and social behavior to Chapter 1.16; attachment mechanisms
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: parenting processes are developmental influences and transactions, not one-directional causes that determine children's outcomes.
 Parenting processes are developmental because the appropriate balance of protection, structure, responsiveness, monitoring, and autonomy changes as children develop. Parenting is also transactional: child characteristics influence parental responses, while parental responses influence later child behavior. This makes one-way causal interpretations incomplete. Parenting is embedded in economic, cultural, health, employment, and family conditions, so developmental outcomes should not be attributed to parental behavior alone when structural constraints are relevant.
 
 
 
-Parenting changes as children's capacities and needs change. Protection and direct regulation are more prominent early, while explanation, monitoring, negotiation, and autonomy support become increasingly important. Parenting is reciprocal because children's behavior also changes parental responses. Contextual constraints should be considered before attributing developmental outcomes to parenting alone. Parenting development is also bidirectional across time. As children become more capable, the parent's role changes, and those changes alter the child's opportunities for autonomy and responsibility. Parenting changes as developmental needs change and is influenced by the child in return. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Parenting changes with developmental demands and is continuously influenced by child characteristics and context. Its canonical scope remains developmental and explicitly bounded.
+Parenting changes as children's capacities and needs change. Protection and direct regulation are more prominent early, while explanation, monitoring, negotiation, and autonomy support become increasingly important. Parenting is reciprocal because children's behavior also changes parental responses. Contextual constraints should be considered before attributing developmental outcomes to parenting alone. Parenting development is also bidirectional across time. As children become more capable, the parent's role changes, and those changes alter the child's opportunities for autonomy and responsibility. Parenting changes as developmental needs change and is influenced by the child in return.  Parenting changes with developmental demands and is continuously influenced by child characteristics and context. 
 # 52. Family influences
 
 ## 1. Purpose
@@ -3834,11 +3936,13 @@ Parenting processes to Topic 51 and general family/social relationship processes
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: family influences should be understood through reciprocal relationships, developmental timing, and the broader contexts in which families operate.
 Family influences include relationships, resources, routines, roles, conflict, support, and broader family organization. Family structure and family process should be distinguished because the same structure can contain very different relationship qualities and resources. Family effects can also operate through multiple pathways, including stress, opportunity, social learning, communication, and access to education or health. Developmental interpretation should therefore avoid treating family membership as a simple causal variable.
 
 
 
-Family influence is distributed across relationships, resources, routines, conflict, support, and social position. Family structure alone does not specify developmental quality. Economic and institutional conditions can alter what families are able to provide, making family processes inseparable from broader developmental context. Family influences can therefore operate through both proximal interaction and distal resources. A complete developmental account should distinguish these pathways. Family influence includes both immediate relationships and wider resource conditions. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Family influence operates through relationships, resources, routines, roles, conflict, and wider structural conditions. Its canonical scope remains developmental and explicitly bounded.
+Family influence is distributed across relationships, resources, routines, conflict, support, and social position. Family structure alone does not specify developmental quality. Economic and institutional conditions can alter what families are able to provide, making family processes inseparable from broader developmental context. Family influences can therefore operate through both proximal interaction and distal resources. A complete developmental account should distinguish these pathways. Family influence includes both immediate relationships and wider resource conditions.  Family influence operates through relationships, resources, routines, roles, conflict, and wider structural conditions. 
 # 53. Peer development
 
 ## 1. Purpose
@@ -3887,11 +3991,13 @@ General social influence and group processes to Chapter 1.16.
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: peer development concerns changing peer relationships and social functioning across development without replacing the general study of social behavior.
 Peer development becomes increasingly important as reciprocal relationships expand. Friends and peer groups provide opportunities for cooperation, comparison, conflict, belonging, social learning, and identity feedback. Peer influence is not inherently harmful; group norms can support either risky or prosocial behavior. Developmental effects also depend on selection because individuals often choose or remain in peer environments partly on the basis of their characteristics and interests.
 
 
 
-Peer development includes friendship, group norms, acceptance, rejection, cooperation, status, and social learning. Peer effects are not inherently negative; peers can support competence and prosocial behavior as well as risk. Selection also matters because people partly choose environments that fit their interests and characteristics. Peer environments can amplify existing tendencies but can also create new developmental opportunities. Peer development is therefore both a context and a mechanism. Peer development can create either protective or risky social pathways depending on group norms and context. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Peer contexts can amplify, redirect, or protect developmental trajectories depending on norms and relationships. Its canonical scope remains developmental and explicitly bounded.
+Peer development includes friendship, group norms, acceptance, rejection, cooperation, status, and social learning. Peer effects are not inherently negative; peers can support competence and prosocial behavior as well as risk. Selection also matters because people partly choose environments that fit their interests and characteristics. Peer environments can amplify existing tendencies but can also create new developmental opportunities. Peer development is therefore both a context and a mechanism. Peer development can create either protective or risky social pathways depending on group norms and context.  Peer contexts can amplify, redirect, or protect developmental trajectories depending on norms and relationships. 
 # 54. School and learning context
 
 ## 1. Purpose
@@ -3945,11 +4051,13 @@ Learning mechanisms to Chapter 1.7 and the relationship node remains contextual 
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: school and learning context captures developmental effects of structured educational environments while leaving general learning to its canonical chapter.
 School and learning contexts influence development through instruction, evaluation, relationships, routines, peer climate, and access to resources. School effects cannot be separated completely from family resources, language, health, motivation, and neighborhood conditions. Developmental transitions between school levels can change expectations and social networks, creating both opportunities and stress. Evidence should therefore distinguish school-specific mechanisms from broader educational and socioeconomic influences.
 
 
 
-Schools are developmental institutions as well as learning environments. Instruction, teacher relationships, peer climate, evaluation, transitions, and access to resources can shape development. Educational outcomes therefore reflect both individual capacities and institutional opportunities, and developmental interpretation should distinguish school-specific mechanisms from wider inequality. School development should be interpreted with attention to institutional opportunity. Educational outcomes reflect interactions among student characteristics, instruction, relationships, and resource conditions. School is both an instructional environment and a developmental social institution. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. School provides instruction, relationships, evaluation, structure, and unequal access to developmental resources. Its canonical scope remains developmental and explicitly bounded.
+Schools are developmental institutions as well as learning environments. Instruction, teacher relationships, peer climate, evaluation, transitions, and access to resources can shape development. Educational outcomes therefore reflect both individual capacities and institutional opportunities, and developmental interpretation should distinguish school-specific mechanisms from wider inequality. School development should be interpreted with attention to institutional opportunity. Educational outcomes reflect interactions among student characteristics, instruction, relationships, and resource conditions. School is both an instructional environment and a developmental social institution.  School provides instruction, relationships, evaluation, structure, and unequal access to developmental resources. 
 # 55. Cultural influences
 
 ## 1. Purpose
@@ -4001,11 +4109,13 @@ General culture and psychology to Chapter 1.17.
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: cultural influences are developmental when they alter opportunities, expectations, meanings, or pathways across time; general culture remains separately owned.
 Cultural influences operate through practices, meanings, roles, language, institutions, and expectations. Culture is not a single variable and should not be reduced to national stereotypes. Developmental differences across cultural contexts may reflect different opportunities, goals, socialization practices, or measurement properties rather than differences in basic human capacity. Within-culture variation is substantial, and migration can involve both continuity and reorganization of cultural identity.
 
 
 
-Culture influences development through everyday practice, language, values, institutions, roles, and meanings. Cultural comparison requires attention to measurement and within-culture variation. Developmental differences should not automatically be interpreted as deficits; they may reflect different opportunities, goals, or socialization systems. Cultural influence is not a single causal variable. Specific practices, institutions, meanings, and expectations must be identified when explaining developmental differences. Cultural influence requires attention to practices and meanings rather than broad group labels. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Cultural influence should be specified through practices, meanings, institutions, and social expectations. Its canonical scope remains developmental and explicitly bounded.
+Culture influences development through everyday practice, language, values, institutions, roles, and meanings. Cultural comparison requires attention to measurement and within-culture variation. Developmental differences should not automatically be interpreted as deficits; they may reflect different opportunities, goals, or socialization systems. Cultural influence is not a single causal variable. Specific practices, institutions, meanings, and expectations must be identified when explaining developmental differences. Cultural influence requires attention to practices and meanings rather than broad group labels.  Cultural influence should be specified through practices, meanings, institutions, and social expectations. 
 # 56. Adolescent identity exploration
 
 ## 1. Purpose
@@ -4059,11 +4169,13 @@ General identity development to Topic 26 and general identity constructs to Chap
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: adolescent identity exploration concerns developmental examination and revision of possible identities, commitments, roles, and future directions.
 Adolescent identity exploration involves considering alternatives and gathering information about values, roles, relationships, education, work, culture, and future direction. Exploration and commitment are not opposites; people can maintain meaningful commitments while revising them in response to new evidence. Exploration is also constrained by opportunity. Family expectations, economic resources, discrimination, institutional pathways, and cultural traditions shape which identities are realistically available.
 
 
 
-Identity exploration can continue whenever transitions create new questions about values, roles, and future direction. Adolescence is an important period because cognitive capacity and autonomy expand, but identity development does not end there. Exploration is constrained by available opportunities and can involve both personal agency and social structure. Identity exploration is constrained but not completely determined by social conditions. Agency operates within the opportunities and limits created by family, culture, institutions, and resources. Identity exploration is shaped by both agency and the opportunity structure surrounding the adolescent. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Identity exploration depends on both personal agency and the social opportunities available for exploration. Its canonical scope remains developmental and explicitly bounded.
+Identity exploration can continue whenever transitions create new questions about values, roles, and future direction. Adolescence is an important period because cognitive capacity and autonomy expand, but identity development does not end there. Exploration is constrained by available opportunities and can involve both personal agency and social structure. Identity exploration is constrained but not completely determined by social conditions. Agency operates within the opportunities and limits created by family, culture, institutions, and resources. Identity exploration is shaped by both agency and the opportunity structure surrounding the adolescent.  Identity exploration depends on both personal agency and the social opportunities available for exploration. 
 # 57. Adolescent risk-taking
 
 ## 1. Purpose
@@ -4117,11 +4229,13 @@ General decision-making and risk perception to Chapter 1.10; action and behavior
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: adolescent risk-taking should be interpreted developmentally through timing, context, reward sensitivity, social influence, and changing regulation.
 Adolescent risk-taking is heterogeneous. Reward sensitivity, novelty seeking, peer context, emotion, perceived norms, cognitive control, opportunity, and expected consequences can contribute differently across behaviors. Adolescents can know that an action is risky and still choose it when immediate social or emotional rewards change the value of the choice. Developmental interpretation should therefore distinguish knowledge of risk from behavior under particular motivational conditions.
 
 
 
-Adolescent risk-taking varies by behavior and context. Social rewards, emotional arousal, opportunity, perceived norms, and expected consequences can change decision behavior even when knowledge of risk is intact. Developmental accounts should therefore avoid treating risk as a single adolescent trait. Risk-taking is therefore a context-dependent behavior rather than a fixed property of adolescence. The same individual can show very different risk patterns across situations. Risk-taking should be interpreted by behavior, context, motivation, frequency, and consequences. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Adolescent risk behavior varies by context, reward structure, social motivation, and perceived consequences. Its canonical scope remains developmental and explicitly bounded.
+Adolescent risk-taking varies by behavior and context. Social rewards, emotional arousal, opportunity, perceived norms, and expected consequences can change decision behavior even when knowledge of risk is intact. Developmental accounts should therefore avoid treating risk as a single adolescent trait. Risk-taking is therefore a context-dependent behavior rather than a fixed property of adolescence. The same individual can show very different risk patterns across situations. Risk-taking should be interpreted by behavior, context, motivation, frequency, and consequences.  Adolescent risk behavior varies by context, reward structure, social motivation, and perceived consequences. 
 # 58. Adult cognitive development
 
 ## 1. Purpose
@@ -4173,11 +4287,13 @@ General cognition to Chapter 1.9 and cognitive aging to Topic 42.
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: adult cognitive development concerns continued cognitive change and adaptation in adulthood rather than assuming cognition stops developing after adolescence.
 Adult cognitive development includes continuing learning, expertise, metacognition, practical reasoning, and changes in some cognitive processes. Accumulated knowledge can increase even when processing efficiency changes. Adult roles such as work, education, caregiving, and community participation provide repeated cognitive demands that can support specialization. Developmental interpretation should therefore separate basic processing changes from knowledge-based competence and from the effects of environmental opportunity.
 
 
 
-Adult cognitive development includes accumulation of knowledge and expertise as well as change in some basic processes. Work, education, caregiving, and other roles provide repeated opportunities for cognitive specialization. Developmental interpretation should separate processing efficiency from knowledge-based competence and should consider motivation and environmental demands. Adult cognitive development is multidirectional. Knowledge and expertise can continue to grow while some processing characteristics change, producing new profiles rather than simple gains or losses. Adult cognitive development includes both accumulated competence and changing basic processes. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Adult cognition can gain through knowledge and expertise while changing in processing efficiency. Its canonical scope remains developmental and explicitly bounded.
+Adult cognitive development includes accumulation of knowledge and expertise as well as change in some basic processes. Work, education, caregiving, and other roles provide repeated opportunities for cognitive specialization. Developmental interpretation should separate processing efficiency from knowledge-based competence and should consider motivation and environmental demands. Adult cognitive development is multidirectional. Knowledge and expertise can continue to grow while some processing characteristics change, producing new profiles rather than simple gains or losses. Adult cognitive development includes both accumulated competence and changing basic processes.  Adult cognition can gain through knowledge and expertise while changing in processing efficiency. 
 # 59. Socioemotional selectivity
 
 ## 1. Purpose
@@ -4231,11 +4347,13 @@ General motivation to Chapter 1.12 and social relationships to Chapter 1.16.
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: socioemotional selectivity links developmental change in goals and social priorities with changing perceptions of time and available resources.
 Socioemotional selectivity links perceived future time with changing social and emotional goals. A focus on emotionally meaningful relationships can lead to smaller networks without implying generalized social withdrawal. The theory is about goal priorities, not a universal claim that older adults become happier or stop seeking information. Perceived future time varies with health, life circumstances, and culture, so chronological age is not the mechanism itself.
 
 
 
-Socioemotional selectivity explains changing social priorities through perceived future time. A preference for emotionally meaningful relationships can coexist with strong social functioning and does not imply withdrawal. The framework is a theory of goal selection, so individual health, culture, and life circumstances remain important moderators. Socioemotional selectivity should be interpreted as a goal framework. It does not by itself establish that any particular social network size or emotional state is adaptive. Socioemotional selectivity concerns changing priorities rather than a universal emotional advantage. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Socioemotional selectivity concerns goal priorities and should not be treated as a universal age effect. Its canonical scope remains developmental and explicitly bounded.
+Socioemotional selectivity explains changing social priorities through perceived future time. A preference for emotionally meaningful relationships can coexist with strong social functioning and does not imply withdrawal. The framework is a theory of goal selection, so individual health, culture, and life circumstances remain important moderators. Socioemotional selectivity should be interpreted as a goal framework. It does not by itself establish that any particular social network size or emotional state is adaptive. Socioemotional selectivity concerns changing priorities rather than a universal emotional advantage.  Socioemotional selectivity concerns goal priorities and should not be treated as a universal age effect. 
 # 60. Cognitive reserve
 
 ## 1. Purpose
@@ -4287,11 +4405,13 @@ General cognition to Chapter 1.9 and clinical neurocognitive disorders to Chapte
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: cognitive reserve concerns developmental resources and experiences associated with resilience of cognitive functioning, without implying immunity to decline.
 Cognitive reserve is a theoretical construct used to explain why people with similar brain changes can show different levels of cognitive functioning. Education, occupation, intellectual engagement, and other experiences are often used as indicators or correlates, but none is identical to reserve. Reserve does not imply immunity from pathology; it concerns differences in functional expression of underlying brain burden and may involve flexible or compensatory processing.
 
 
 
-Cognitive reserve is inferred rather than directly observed. Education and occupational complexity can correlate with reserve, but they also correlate with health and socioeconomic conditions. Reserve should therefore be treated as a theoretical explanation for differences in cognitive functioning relative to brain burden, not as a simple quantity that can be measured by one life-history variable. Cognitive reserve should remain a theoretical construct rather than a simple score. Indicators such as education can be associated with reserve without being identical to the underlying concept. Cognitive reserve is inferred from patterns of functioning and should not be reduced to one proxy variable. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Cognitive reserve is inferred from patterns of functioning and cannot be equated with one life-history indicator. Its canonical scope remains developmental and explicitly bounded.
+Cognitive reserve is inferred rather than directly observed. Education and occupational complexity can correlate with reserve, but they also correlate with health and socioeconomic conditions. Reserve should therefore be treated as a theoretical explanation for differences in cognitive functioning relative to brain burden, not as a simple quantity that can be measured by one life-history variable. Cognitive reserve should remain a theoretical construct rather than a simple score. Indicators such as education can be associated with reserve without being identical to the underlying concept. Cognitive reserve is inferred from patterns of functioning and should not be reduced to one proxy variable.  Cognitive reserve is inferred from patterns of functioning and cannot be equated with one life-history indicator. 
 # 61. Developmental risk
 
 ## 1. Purpose
@@ -4348,11 +4468,13 @@ Clinical risk factors to Chapter 1.19 and specific biological or social mechanis
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: developmental risk concerns conditions that increase the probability of adverse developmental pathways without making outcomes inevitable.
 Developmental risk refers to factors that increase the probability of adverse outcomes. Risks can accumulate, interact, vary in timing, and cluster with other conditions. Poverty, family stress, health problems, and educational disadvantage can be correlated, making single-factor causal interpretations difficult. Risk should never be converted into an individual prediction without appropriate evidence. Developmental risk is most useful when paired with protective processes and explicit uncertainty.
 
 
 
-Developmental risk should be interpreted probabilistically and temporally. Risks can accumulate, interact, and operate differently at different stages. Correlated exposures make single-factor explanations difficult, and population-level risk should never be converted into deterministic individual prediction. Protective processes and uncertainty belong in the interpretation. Developmental risk is most informative when its timing, severity, duration, and interaction with protective factors are specified. A risk count alone can conceal major differences in developmental exposure. Risk factors alter probability and should always be interpreted with timing and protective conditions. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Developmental risk changes probability and must be interpreted with timing, exposure, and protective conditions. Its canonical scope remains developmental and explicitly bounded.
+Developmental risk should be interpreted probabilistically and temporally. Risks can accumulate, interact, and operate differently at different stages. Correlated exposures make single-factor explanations difficult, and population-level risk should never be converted into deterministic individual prediction. Protective processes and uncertainty belong in the interpretation. Developmental risk is most informative when its timing, severity, duration, and interaction with protective factors are specified. A risk count alone can conceal major differences in developmental exposure. Risk factors alter probability and should always be interpreted with timing and protective conditions.  Developmental risk changes probability and must be interpreted with timing, exposure, and protective conditions. 
 # 62. Developmental resilience
 
 ## 1. Purpose
@@ -4411,8 +4533,10 @@ Health and post-stress adaptation to Chapter 1.18; clinical recovery to Chapter 
 
 ### Topic-specific evidence layer
 
+
+Evidence focus: developmental resilience concerns adaptive trajectories under adversity and should be evaluated through processes and contexts rather than a fixed trait.
 Developmental resilience concerns relatively positive adaptation despite meaningful adversity or disruption. It can involve recovery, maintenance, compensation, or successful reorganization and must be defined relative to a specific challenge, time period, and outcome. Resilience can depend on relationships, resources, institutions, skills, and changes in circumstances rather than on an internal trait alone. It should not be used to romanticize adversity or imply that people should tolerate preventable harm.
 
 
 
-Resilience is defined relative to adversity and outcome. A person may recover, maintain competence, compensate, or reorganize goals while still experiencing distress. Protective processes can arise from relationships, institutions, resources, and individual skills. Resilience therefore should not be treated as an internal trait or as a reason to romanticize harmful conditions. Resilience is also trajectory-dependent. Adaptation should be evaluated over time and relative to the adversity experienced rather than inferred from one favorable observation. Resilience describes adaptation relative to adversity and must remain tied to a defined outcome and time period. This boundary preserves the Topic's canonical role while allowing developmental relationships to be connected explicitly. Resilience is adaptation under defined adversity and should be evaluated longitudinally where possible. Its canonical scope remains developmental and explicitly bounded.
+Resilience is defined relative to adversity and outcome. A person may recover, maintain competence, compensate, or reorganize goals while still experiencing distress. Protective processes can arise from relationships, institutions, resources, and individual skills. Resilience therefore should not be treated as an internal trait or as a reason to romanticize harmful conditions. Resilience is also trajectory-dependent. Adaptation should be evaluated over time and relative to the adversity experienced rather than inferred from one favorable observation. Resilience describes adaptation relative to adversity and must remain tied to a defined outcome and time period.  Resilience is adaptation under defined adversity and should be evaluated longitudinally where possible. 
