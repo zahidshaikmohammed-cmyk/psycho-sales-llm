@@ -1578,3 +1578,122 @@ Generalized group beliefs and evaluative responses to their dedicated Topics.
 ### Topic-specific evidence layer
 
 Evidence should distinguish perceived from objective variability and specify the judged dimension. A category may show little variation on one feature while remaining highly diverse on another. Studies comparing observer estimates with independent criteria are therefore essential.
+
+
+---
+
+# 27. Social categorization
+
+## 1. Purpose
+
+Social categorization explains how people organize themselves and others into socially meaningful categories that simplify perception and structure expectations.
+
+## 2. Definition
+
+Social categorization is the process of classifying people, including oneself, into socially meaningful categories based on perceived similarities, differences, roles, affiliations, or contextual distinctions.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Categories can be based on visible characteristics, roles, organizations, values, occupations, relationships, behavior, or other socially meaningful dimensions. Multiple categories can apply simultaneously.
+
+Categorization reduces informational complexity, but it can also increase attention to category-consistent information and perceived distinctions between categories.
+
+### Mechanism
+
+Categorization involves detecting or constructing distinctions and then using category knowledge to organize perception and inference. Once a category is active, information about its members can be interpreted partly through category-level expectations.
+
+### Moderators / Boundary Conditions
+
+Salience depends on context, comparative contrast, goals, uncertainty, familiarity, category accessibility, and social norms. Categories can be flexible, overlapping, hierarchical, and contested.
+
+### Evidence Status
+
+Categorization is a basic and widely observed social cognitive process. Its consequences are not inherently positive or negative. Categories support efficient communication and prediction while also providing pathways through which generalized beliefs and intergroup bias can emerge.
+
+## 4. Relationship to This Chapter
+
+Social categorization is broader than self-categorization because it includes categorization of other people. It provides a foundation for social identity, ingroup/outgroup distinctions, stereotypes, and intergroup evaluation.
+
+## 5. Boundaries
+
+### Owns
+
+The process of organizing people into social categories.
+
+### Defers
+
+Self-categorization to its dedicated Topic and generalized group beliefs to Stereotype.
+
+## 6. Key Principles
+
+- People use multiple overlapping social categories.
+- Categorization reduces complexity.
+- Salience is context-dependent.
+- Category processing can support useful prediction and systematic distortion.
+- Categorization does not imply a fixed belief about every category member.
+
+### Topic-specific evidence layer
+
+Research should identify the category cue, comparison context, and judgment affected by categorization. Evidence is stronger when changing category salience changes processing while other information remains comparable. Because categories are contextually flexible, findings from one categorization system should not automatically be generalized to all social groups.
+
+---
+
+# 28. Stereotype
+
+## 1. Purpose
+
+Stereotype establishes the chapter's treatment of generalized beliefs or expectations about characteristics associated with members of social groups.
+
+## 2. Definition
+
+A stereotype is a generalized cognitive representation or set of beliefs about characteristics, attributes, roles, or behaviors associated with members of a social group.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Stereotypes can concern traits, abilities, emotions, behaviors, roles, preferences, or other characteristics. Descriptive expectations should be distinguished from prescriptive expectations, which concern how group members are expected to behave.
+
+Stereotypes can be explicit or operate with limited conscious awareness. They vary in strength, accessibility, specificity, and endorsement.
+
+### Mechanism
+
+Stereotypes can develop through learning, social communication, repeated observation, cultural transmission, categorization, and exposure to patterned information. Once available, they can guide attention, interpretation, memory, and expectations.
+
+Possessing a culturally available stereotype is not identical to endorsing it. Likewise, activation and application are distinct from conscious belief.
+
+### Moderators / Boundary Conditions
+
+Effects depend on category salience, accessibility, motivation, cognitive load, individuating information, accountability, social norms, and the diagnosticity of evidence.
+
+### Evidence Status
+
+Research supports generalized group representations and their influence under some conditions. Effects vary with context and do not justify treating stereotypes as accurate descriptions of every group member.
+
+## 4. Relationship to This Chapter
+
+Stereotype is a cognitive representation within the identity-and-groups cluster. Evaluative responses and differential treatment are related but separate Topics.
+
+## 5. Boundaries
+
+### Owns
+
+Generalized group beliefs and expectations.
+
+### Defers
+
+Specific personality, ability, and clinical constructs to their canonical owners, and evaluative or behavioral consequences to their dedicated Topics.
+
+## 6. Key Principles
+
+- Stereotypes are generalized group representations.
+- Possession, activation, endorsement, and application are distinct.
+- Stereotypes can influence attention and interpretation.
+- Individuating information can constrain category-based judgment.
+- A stereotype does not describe every group member.
+
+### Topic-specific evidence layer
+
+Evidence should specify whether it measures accessibility, endorsement, application, or behavioral consequences. These are different constructs. A response-time association should not automatically be interpreted as conscious endorsement. Studies should also test whether person-specific information changes judgments, because this helps establish whether category expectations dominated available evidence.
