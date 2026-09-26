@@ -968,6 +968,8 @@ A critical-period claim should specify the developmental system, the relevant in
 
 The distinction is also important for intervention. If a process is sensitive rather than absolutely critical, later support may remain meaningful even when earlier experience would have been more efficient. Developmental timing therefore informs opportunity without automatically establishing irreversible outcomes.
 
+The critical-versus-sensitive distinction is therefore an evidence distinction as much as a conceptual one. The stronger the claim about irreversibility, the stronger and more specific the developmental evidence must be.
+
 ---
 
 # 12. Sensitive period
@@ -1048,6 +1050,8 @@ For retrieval, Sensitive Period owns the general idea of heightened developmenta
 Sensitive periods can be broad, overlapping, and dependent on the quality of experience. A person may show heightened responsiveness to one input while remaining capable of learning related skills later. Sensitivity can also differ among individuals because biological timing, prior experience, motivation, and environmental opportunity differ.
 
 The construct therefore supports a graded account of developmental timing. It should not be used to create universal age deadlines when the evidence instead supports increased responsiveness during a period.
+
+Sensitivity can vary continuously rather than switching on and off. This makes developmental timing a matter of degree and context, and it preserves the possibility of meaningful later learning.
 
 ---
 
@@ -1134,6 +1138,8 @@ Plasticity is constrained by prior organization, biological development, resourc
 
 Plasticity also has no inherent direction. Adaptation to chronic adversity can be a form of plasticity without being beneficial in every later context. The developmental question is whether the change improves fit, functioning, or goal attainment under the relevant conditions.
 
+Plasticity should be evaluated by examining the target function, the conditions producing change, the durability of that change, and its transfer to other settings. A short-lived task effect is not equivalent to broad developmental transformation.
+
 ---
 
 # 14. Cohort effect
@@ -1212,6 +1218,8 @@ For retrieval, this Topic owns the cohort component of developmental interpretat
 Cohort effects are especially important when interpreting long-term changes in education, technology, health, family structure, and social roles. A difference between older and younger groups may partly reflect the historical conditions under which each group developed rather than a process that occurs within every individual as they age.
 
 The effect is therefore not an alternative to development; it is one source of variation that must be separated from developmental change. Population, period, and cohort should be identified before broad age-based conclusions are generalized.
+
+Cohort interpretation is especially important when developmental conclusions span decades. Historical changes in education, technology, health, family life, and social norms can alter the baseline against which age differences are measured.
 
 ---
 
@@ -1305,6 +1313,8 @@ Method choice should follow the claim. If the claim concerns prevalence at one p
 
 Developmental methodology also requires attention to measurement equivalence, attrition, practice effects, and changing context. A well-designed study does not merely collect data repeatedly; it collects measurements capable of representing the same construct across the developmental interval.
 
+The method must match the developmental claim. No single design should be treated as a universal solution because each design observes a different combination of time, person, context, and measurement.
+
 ---
 
 # 16. Biological development
@@ -1377,6 +1387,8 @@ Biological development can be described at several levels, from cellular and phy
 
 Biological development is therefore neither separate from psychology nor reducible to psychology. The two interact continuously. This boundary prevents the Topic from becoming a duplicate of neuroscience, genetics, medicine, or physiology while preserving its role in developmental organization.
 
+Biological development remains relevant across the lifespan. Maturation, maintenance, aging, health, and adaptation can alter the conditions under which psychological development occurs, while behavior and environment can feed back into biological functioning.
+
 ---
 
 # 17. Motor development
@@ -1445,6 +1457,8 @@ Motor development is strongly dependent on opportunities for action. Practice, o
 
 Motor development can also produce developmental cascades. Increased mobility changes exploration; exploration changes perceptual experience; new experience supports learning and social interaction. Later, changes in physical capacity can alter activity and social participation, showing that motor development remains relevant throughout life.
 
+Motor development can produce cascading changes because movement alters access to objects, people, and information. Later, changes in motor capacity can alter independence and participation, showing that motor development remains functionally important beyond childhood.
+
 ---
 
 # 18. Perceptual development
@@ -1512,6 +1526,8 @@ For retrieval, this Topic owns developmental change in perceptual functioning ra
 Perceptual development is shaped by both maturation and experience. Development can involve improved sensitivity, increased differentiation, changing attention to information, and better coordination between perception and action. The relevant process depends on the sensory system and task.
 
 Perception also changes the developmental environment by altering what information is available for learning and interaction. In later life, sensory changes can increase cognitive demands because more effort may be required to extract information. Developmental interpretation should therefore consider the interaction between perceptual capacity and environmental design.
+
+Perceptual development is inseparable from the opportunities available for exploration and action. The developmental system is therefore not merely receiving sensory input; it is actively generating and selecting information through behavior.
 
 ---
 
@@ -1583,6 +1599,8 @@ For retrieval, this Topic owns the developmental organization of cognition. Deta
 Cognitive development is best represented as a profile rather than a single score. Knowledge, reasoning, attention, memory, processing efficiency, and executive coordination can follow different trajectories. A person may improve in one component while remaining stable or changing differently in another.
 
 Education, practice, language, social interaction, and accumulated expertise can support development. Biological maturation and aging can constrain some processes while leaving others relatively preserved. This multidimensionality is why cognitive development must be linked to specific cognitive constructs rather than treated as a single age curve.
+
+Cognitive development should be represented as a changing profile. General statements about being cognitively advanced or delayed can conceal important differences among knowledge, processing, memory, reasoning, and executive coordination.
 
 ---
 
@@ -1657,6 +1675,8 @@ For retrieval, this Topic owns developmental change in language. General languag
 Language development is also social and cultural. Children acquire language through structured exposure and interaction, while the language environment provides categories and practices through which experience is represented. Multilingual development demonstrates that multiple developmental pathways can coexist without implying a simple deficit model.
 
 Later development includes pragmatic, narrative, occupational, and social uses of language. Language can continue to change through education and experience even after basic acquisition. The developmental Topic therefore covers the lifespan organization of language rather than only early vocabulary or grammar acquisition.
+
+Language remains developmental after basic acquisition. Education, occupational demands, multilingual experience, literacy, and social roles can continue to shape how language is used and organized across adulthood.
 
 ---
 
