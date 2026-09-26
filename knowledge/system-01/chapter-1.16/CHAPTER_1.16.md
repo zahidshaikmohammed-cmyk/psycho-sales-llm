@@ -2944,3 +2944,396 @@ General self-awareness and aggression to their canonical Topics.
 ### Topic-specific evidence layer
 
 Evidence should measure identifiability and self-awareness separately rather than treating anonymity as a complete proxy. Behavioral outcomes should also be interpreted in relation to the norms and cues present in the group, because reduced individual accountability can amplify existing situational tendencies in different directions.
+
+
+---
+
+# 55. Collective behavior
+
+## 1. Purpose
+
+Collective behavior addresses patterns of action that emerge when people respond to one another as members of a crowd, public, network, or other loosely coordinated collectivity.
+
+## 2. Definition
+
+Collective behavior is coordinated, patterned, or emergent behavior involving multiple people whose actions are influenced by shared circumstances, social information, identities, or interaction.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Collective behavior can include crowd action, rumor transmission, spontaneous coordination, collective expression, protest, helping, panic-like responses, and other emergent patterns. Not all collective behavior is organized or formally led.
+
+### Mechanism
+
+People observe others, infer what is happening, communicate information, adopt shared interpretations, and adjust behavior accordingly. Coordination can emerge without a central controller when individuals respond to common cues.
+
+### Moderators / Boundary Conditions
+
+Communication, crowd density, norms, identity, leadership, uncertainty, perceived threat, institutional context, and available information affect collective behavior.
+
+### Evidence Status
+
+Collective behavior is highly context-dependent. Historical and field evidence can reveal patterns unavailable in laboratory settings, while controlled studies can isolate specific mechanisms.
+
+## 4. Relationship to This Chapter
+
+Collective behavior connects group processes, social influence, norms, identity, social networks, and collective action.
+
+## 5. Boundaries
+
+### Owns
+
+Emergent multi-person behavior shaped by interaction and shared context.
+
+### Defers
+
+Formal organizations and political institutions to their relevant domains.
+
+## 6. Key Principles
+
+- Collective behavior can emerge without central coordination.
+- Shared interpretation is often important.
+- Crowds are not psychologically uniform.
+- Communication changes collective dynamics.
+- Collective outcomes can arise from local interactions.
+
+### Topic-specific evidence layer
+
+Evidence should distinguish genuine coordination from coincidental parallel behavior. Communication traces, temporal sequencing, network structure, and individual decision data can help establish how collective patterns emerged.
+
+---
+
+# 56. Group decision-making
+
+## 1. Purpose
+
+Group decision-making addresses how groups combine information, preferences, judgments, and influence when selecting among alternatives.
+
+## 2. Definition
+
+Group decision-making is the process by which two or more people jointly evaluate alternatives and reach or implement a collective choice.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Groups can aggregate independent judgments, deliberate collectively, negotiate preferences, vote, defer to leaders, or reach consensus. Different procedures produce different informational and social dynamics.
+
+### Mechanism
+
+Discussion can pool information, correct individual errors, reveal alternatives, or introduce conformity and information cascades. Group decisions therefore depend on both information aggregation and social influence.
+
+### Moderators / Boundary Conditions
+
+Information distribution, expertise, group size, leadership, decision rules, conflict, time pressure, accountability, and communication structure affect quality.
+
+### Evidence Status
+
+Groups can outperform individuals when information is distributed and integrated effectively, but can also underperform when discussion suppresses unique information or creates excessive consensus.
+
+## 4. Relationship to This Chapter
+
+This Topic handles the social manifestation of decision-making. The canonical general decision-making owner remains Chapter 1.10.
+
+## 5. Boundaries
+
+### Owns
+
+Psychological processes specific to collective choice.
+
+### Defers
+
+General decision-making models and judgment mechanisms to Chapter 1.10.
+
+## 6. Key Principles
+
+- Group decisions combine information and influence.
+- Procedure changes outcomes.
+- Unique information can be lost.
+- Diversity is useful only when relevant information is exchanged.
+- Consensus and accuracy are not identical.
+
+### Topic-specific evidence layer
+
+Evidence should examine what information each member possessed before discussion and what information entered the final decision. This allows researchers to distinguish genuine information pooling from repetition of already shared knowledge.
+
+---
+
+# 57. Leadership
+
+## 1. Purpose
+
+Leadership addresses processes through which an individual or set of individuals influences group direction, coordination, motivation, and collective functioning.
+
+## 2. Definition
+
+Leadership is the social process through which a person or group influences others toward shared goals, coordination, or collective action.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Leadership can involve goal setting, coordination, communication, decision-making, motivation, representation, conflict management, and maintenance of group standards. Formal leadership and emergent leadership can differ.
+
+### Mechanism
+
+Leaders can influence behavior through expertise, authority, identification, trust, role modeling, rewards, sanctions, persuasion, and coordination. Followers also influence leaders through feedback, resistance, and expectations.
+
+### Moderators / Boundary Conditions
+
+Task structure, group norms, leader legitimacy, follower expectations, power, uncertainty, organizational context, and leader-member relationships affect leadership processes.
+
+### Evidence Status
+
+Leadership research supports multiple patterns of effective influence rather than one universal leadership style. Context and task demands are central.
+
+## 4. Relationship to This Chapter
+
+Leadership connects authority, status, group cohesion, norms, influence, power, and group decision-making.
+
+## 5. Boundaries
+
+### Owns
+
+Social influence processes associated with directing and coordinating groups.
+
+### Defers
+
+General personality traits of leaders and formal organizational governance to their canonical domains.
+
+## 6. Key Principles
+
+- Leadership is relational.
+- Formal position is not identical to leadership.
+- Context changes leadership demands.
+- Followers influence leadership processes.
+- No single style is universally effective.
+
+### Topic-specific evidence layer
+
+Evidence should distinguish leader emergence, leader behavior, leader effectiveness, and formal position. These are different outcomes. Longitudinal designs can also separate leadership effects from the possibility that successful groups select or create leaders who already fit their needs.
+
+---
+
+# 58. Status hierarchy
+
+## 1. Purpose
+
+Status hierarchy addresses patterned differences in social standing, prestige, respect, and influence within groups.
+
+## 2. Definition
+
+A status hierarchy is an ordered pattern of socially recognized differences in prestige, respect, esteem, or expected influence among group members.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Status can arise from expertise, contribution, reputation, social identity, resources, role, or culturally shared beliefs about competence. Status is distinct from formal authority and material power.
+
+### Mechanism
+
+Status expectations can influence who receives attention, whose ideas are trusted, who speaks, and whose behavior is interpreted as legitimate. Interaction can reinforce status through repeated confirmation.
+
+### Moderators / Boundary Conditions
+
+Task relevance, expertise, group norms, accountability, institutional structure, identity, and performance information affect status processes.
+
+### Evidence Status
+
+Status research supports expectations about influence and attention but also shows that hierarchies can change when competence information becomes diagnostic or norms discourage status-based treatment.
+
+## 4. Relationship to This Chapter
+
+Status hierarchy connects leadership, power dynamics, group decision-making, norms, and social identity.
+
+## 5. Boundaries
+
+### Owns
+
+Socially recognized ordering of prestige and expected influence.
+
+### Defers
+
+General socioeconomic status and institutional class structures to their relevant domains.
+
+## 6. Key Principles
+
+- Status concerns social standing and expected influence.
+- Status differs from authority and power.
+- Expertise can alter status.
+- Interaction can reinforce hierarchy.
+- Hierarchies can change.
+
+### Topic-specific evidence layer
+
+Evidence should distinguish status from formal position and resource control. Measures of perceived respect, prestige, speaking time, influence, and decision weight can reveal different aspects of hierarchy rather than assuming one indicator represents the whole construct.
+
+---
+
+# 59. Power dynamics
+
+## 1. Purpose
+
+Power dynamics address how differences in control over resources, outcomes, information, or dependence shape interpersonal and group behavior.
+
+## 2. Definition
+
+Power dynamics are patterns of influence arising from asymmetric dependence or unequal capacity to control outcomes relevant to other people.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Power can derive from control over resources, rewards, punishments, information, relationships, expertise, alternatives, or institutional positions. Power is relational rather than a fixed personal possession.
+
+### Mechanism
+
+Dependence gives one actor greater ability to shape another's outcomes. Power can change attention, risk perception, communication, negotiation, and willingness to challenge others.
+
+### Moderators / Boundary Conditions
+
+Dependence, alternatives, legitimacy, accountability, transparency, institutional rules, expertise, and coalition formation affect power.
+
+### Evidence Status
+
+Power effects are context-dependent. Possessing power in one domain does not imply generalized influence in every domain.
+
+## 4. Relationship to This Chapter
+
+Power dynamics connect status, authority, leadership, conflict, cooperation, relationships, and collective action.
+
+## 5. Boundaries
+
+### Owns
+
+Psychological and interpersonal processes produced by asymmetric control and dependence.
+
+### Defers
+
+Political, economic, and institutional power structures to their appropriate domains.
+
+## 6. Key Principles
+
+- Power is relational.
+- Dependence is central.
+- Power can affect both behavior and perception.
+- Legitimacy and accountability modify power effects.
+- Power in one domain does not imply universal dominance.
+
+### Topic-specific evidence layer
+
+Evidence should identify the resource or outcome over which dependence is asymmetric. General claims about a person's “power” can obscure domain specificity. Experimental bargaining, dependence manipulations, and longitudinal interaction data can clarify the mechanism.
+
+---
+
+# 60. Collective action
+
+## 1. Purpose
+
+Collective action addresses coordinated individual behavior undertaken to achieve an outcome that depends on participation by multiple people.
+
+## 2. Definition
+
+Collective action is coordinated behavior by multiple individuals pursuing a shared outcome that cannot be achieved, or is substantially altered, through isolated individual action.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Collective action can involve cooperation, public-good provision, group advocacy, mutual aid, coordination, protest, volunteering, or joint problem solving. Participation can carry costs while benefits are distributed across a group.
+
+### Mechanism
+
+Participation can be supported by shared identity, norms, reciprocity, perceived efficacy, moral commitment, social incentives, selective benefits, and expectations that others will participate.
+
+### Moderators / Boundary Conditions
+
+Group identity, trust, perceived efficacy, coordination cost, participation visibility, leadership, norms, resource structure, and perceived fairness affect collective action.
+
+### Evidence Status
+
+Collective action research shows that individual incentives alone do not fully explain participation; social identity, norms, expectations, and perceived group efficacy can be important.
+
+## 4. Relationship to This Chapter
+
+Collective action connects identity, cooperation, social norms, networks, leadership, and collective behavior.
+
+## 5. Boundaries
+
+### Owns
+
+Social-psychological mechanisms supporting coordinated action toward shared outcomes.
+
+### Defers
+
+Specific political or institutional movements to their appropriate domains.
+
+## 6. Key Principles
+
+- Collective action requires coordination.
+- Shared outcomes can create participation dilemmas.
+- Identity and norms can motivate participation.
+- Perceived efficacy matters.
+- Coordination costs influence participation.
+
+### Topic-specific evidence layer
+
+Evidence should distinguish willingness from actual participation because intentions can fail when coordination or opportunity is weak. Network data and longitudinal measures can also reveal whether participation spreads through social ties or arises independently.
+
+---
+
+# 61. Social network effects
+
+## 1. Purpose
+
+Social network effects address how patterns of interpersonal connection shape the spread of information, behavior, emotion, norms, and influence.
+
+## 2. Definition
+
+Social network effects are changes in psychological or behavioral outcomes associated with an individual's position, connections, and interaction patterns within a social network.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Relevant network properties include degree, centrality, clustering, reciprocity, tie strength, homophily, bridges, and community structure. The psychological effect depends on what travels through the network and how people interact.
+
+### Mechanism
+
+Networks can transmit information, norms, behavior, opportunities, emotions, and reputational signals. They can also expose people to similar others, making selection difficult to separate from social influence.
+
+### Moderators / Boundary Conditions
+
+Tie strength, frequency of contact, network structure, source credibility, homophily, independence, and the type of transmitted information affect network effects.
+
+### Evidence Status
+
+Network research supports social transmission in many domains but emphasizes the identification problem between influence and selection. People often choose friends or environments that resemble them before the observed similarity emerges.
+
+## 4. Relationship to This Chapter
+
+Social network effects connect relationships, social influence, collective behavior, norms, cooperation, and collective action.
+
+## 5. Boundaries
+
+### Owns
+
+Psychological effects attributable to network position and interpersonal connectivity.
+
+### Defers
+
+General mathematical network theory to methodological domains and specific health or media applications to their relevant chapters.
+
+## 6. Key Principles
+
+- Network structure changes exposure.
+- Influence and selection must be distinguished.
+- Similarity among connected people does not prove transmission.
+- Different network positions create different opportunities for influence.
+- Content and relationship quality matter.
+
+### Topic-specific evidence layer
+
+Longitudinal network data are particularly important because cross-sectional similarity cannot distinguish social influence from selection. Temporal ordering, network changes, and models of peer exposure can provide stronger evidence about transmission.
