@@ -1226,3 +1226,298 @@ General self-concept and identity development to their canonical owners, and soc
 
 Evidence should distinguish category salience from simple category membership. A person can belong to a group without that membership being psychologically central in a particular situation. Experimental changes in comparative context, category cues, or task demands can reveal when a category becomes salient. Research should also avoid treating category-based effects as deterministic descriptions of individual behavior. Self-categorization changes the frame through which information is processed; it does not erase other identities, goals, or situational influences.
 
+
+
+---
+
+# 21. Social identity
+
+## 1. Purpose
+
+Social identity explains how membership in socially meaningful groups becomes part of a person's self-definition and how group-based self-representation can organize perception, evaluation, emotion, and behavior.
+
+## 2. Definition
+
+Social identity is the aspect of self-concept that derives from perceived membership in social groups together with the meanings, evaluations, and emotional significance attached to those memberships.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Social identity includes perceived membership, category meaning, emotional significance, evaluative meaning, and the person's relationship to the relevant group. A person can hold many social identities simultaneously, and their relative salience can change across situations without the underlying membership disappearing.
+
+Social identity is not equivalent to a demographic label. Membership is a social relation; identity concerns how that relation is represented as part of the self.
+
+### Mechanism
+
+Social identity can become salient when a group distinction is relevant, visible, threatened, socially meaningful, or useful for interpreting the situation. Once salient, group membership can influence categorization, norms, evaluation, and interpretation of events affecting the group.
+
+Identity processes can also provide continuity and belonging. A person may experience an event as personally meaningful partly because it affects a group with which they identify. Identity nevertheless operates alongside personal goals, values, relationships, and situational constraints.
+
+### Moderators / Boundary Conditions
+
+Effects depend on salience, identification strength, perceived group boundaries, status relations, intergroup comparison, context, norms, and the availability of alternative identities. A group can be objectively important without being psychologically central at every moment.
+
+### Evidence Status
+
+Research supports group-based self-definition as an important influence on social perception and behavior, but effects are context-sensitive. Strong identification does not imply uniform conformity, nor does group membership guarantee strong identification.
+
+## 4. Relationship to This Chapter
+
+Social identity is the broader construct for group-based self-definition. Self-categorization describes the process through which a category becomes salient; role identity focuses on socially organized roles; ingroup and outgroup processes describe relations among categorized groups.
+
+## 5. Boundaries
+
+### Owns
+
+Group-based self-definition as a component of self-concept.
+
+### Defers
+
+General self-concept and identity development to their canonical owners, and specific intergroup phenomena to their dedicated Topics.
+
+## 6. Key Principles
+
+- People can possess multiple social identities.
+- Membership and identification are not identical.
+- Identity salience is context-dependent.
+- Social identity can influence perception, evaluation, emotion, and behavior.
+- Group identity does not eliminate individual variation.
+
+### Topic-specific evidence layer
+
+Evidence should measure identification rather than infer it solely from group membership. Studies should distinguish salience from chronic importance and examine whether the relevant identity was activated in the situation. Group-based effects are strongest when the category is meaningful and psychologically available, but even strong identification can coexist with disagreement, individual goals, and cross-cutting identities.
+
+---
+
+# 22. Role identity
+
+## 1. Purpose
+
+Role identity explains how socially organized roles become incorporated into self-definition and guide expectations about appropriate behavior.
+
+## 2. Definition
+
+Role identity is the aspect of self-concept associated with a socially recognized role and the meanings, expectations, and standards attached to performing that role.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Roles contain patterned expectations connected with positions such as parent, employee, student, leader, friend, caregiver, or team member. Role identity concerns the person's internalized meaning of occupying such a position rather than the formal position alone.
+
+A person can hold several role identities simultaneously, and their salience can shift across contexts. Conflicts can occur when expectations associated with different roles compete.
+
+### Mechanism
+
+Role identities influence behavior by providing standards for what actions are appropriate, competent, or consistent with the self. People can monitor their behavior against role expectations and use feedback to revise their understanding of role performance.
+
+Repeated enactment can strengthen role identity, while social feedback can weaken or reorganize it. Role identity therefore develops through reciprocal interaction between self-definition and social responses.
+
+### Moderators / Boundary Conditions
+
+Effects depend on commitment, salience, social expectations, context, feedback, power, and compatibility among multiple roles. A formal position does not automatically become a central identity.
+
+### Evidence Status
+
+Role research supports the importance of role expectations and identity in organizing behavior, while also showing substantial flexibility. People interpret and negotiate roles rather than merely executing fixed scripts.
+
+## 4. Relationship to This Chapter
+
+Role identity is a specific form of social identity organized around a social position or role. It connects with social norms, authority, leadership, status, relationships, and self-categorization.
+
+## 5. Boundaries
+
+### Owns
+
+Internalized self-definition associated with socially organized roles.
+
+### Defers
+
+General identity development and personality to their canonical owners, and formal organizational role structures to their relevant application domains.
+
+## 6. Key Principles
+
+- Roles contain expectations, but role identity concerns their self-relevance.
+- People can hold multiple role identities.
+- Role salience changes with context.
+- Role identity develops through enactment and feedback.
+- Role expectations are negotiated rather than mechanically followed.
+
+### Topic-specific evidence layer
+
+A role should not be treated as an identity merely because an observer assigns the person that role. Evidence is stronger when role commitment, self-description, role salience, or role-consistent behavior is measured. Longitudinal designs can examine how repeated enactment and social feedback change role identification. Role conflict should also be distinguished from general stress because the defining issue is competition among role-related expectations.
+
+---
+
+# 23. Ingroup
+
+## 1. Purpose
+
+The ingroup concept identifies the socially meaningful category to which a person experiences themselves as belonging or being psychologically aligned.
+
+## 2. Definition
+
+An ingroup is a social category that an individual perceives as including themselves or with which they are psychologically identified in a given context.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+An ingroup can be defined by organizations, communities, identities, relationships, occupations, cultures, or temporary task groups. The relevant category depends on context and salience.
+
+Ingroup perception involves both membership and psychological representation. A person can belong formally to a group without that group functioning as an important ingroup in a particular situation.
+
+### Mechanism
+
+Once an ingroup becomes salient, people may process information about members through shared-category representations. Ingroup membership can provide norms, expectations, social support, and a basis for comparison with other groups.
+
+The concept does not imply that ingroup members are always liked or treated favorably. Internal disagreement, status differences, conflict, and exclusion can occur within an ingroup.
+
+### Moderators / Boundary Conditions
+
+Effects depend on identification, category salience, group boundaries, status relations, perceived similarity, competition, norms, and the presence of relevant outgroups.
+
+### Evidence Status
+
+Research demonstrates that even relatively minimal categorization can influence social judgment under some conditions, but real-world effects depend on meaning, norms, incentives, and context.
+
+## 4. Relationship to This Chapter
+
+Ingroup is one pole of the social categorization system that also includes outgroup. Ingroup favoritism, outgroup homogeneity, stereotypes, prejudice, and differential treatment describe particular consequences or related processes.
+
+## 5. Boundaries
+
+### Owns
+
+The social-psychological category representing “us” in a relevant context.
+
+### Defers
+
+General social identity to Social identity and category activation to Self-categorization.
+
+## 6. Key Principles
+
+- Ingroup status is context-sensitive.
+- Formal membership and psychological identification can differ.
+- Ingroup membership does not guarantee harmony.
+- Ingroup processes depend on comparison and norms.
+- Group effects do not eliminate individual differences.
+
+### Topic-specific evidence layer
+
+Studies should establish which group was psychologically relevant rather than infer ingroup status from demographic membership alone. Minimal-group research demonstrates that categorization can matter, but real-world groups often carry history, norms, status, and emotional meaning that alter the process. Evidence should therefore distinguish minimal categorization effects from identity-rich group dynamics.
+
+---
+
+# 24. Outgroup
+
+## 1. Purpose
+
+Outgroup describes a socially relevant category perceived as outside the individual's current ingroup.
+
+## 2. Definition
+
+An outgroup is a social category represented as not belonging to the relevant ingroup in a given social context.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Outgroup status is relational. A group is an outgroup relative to a particular ingroup and comparison context. The same people can belong to an ingroup in one setting and be treated as an outgroup in another.
+
+Outgroups can be distant or highly relevant. Perceived difference can involve identity, values, goals, status, resources, or simply category boundaries.
+
+### Mechanism
+
+Outgroup categorization can simplify social information by emphasizing category-level distinctions. It can influence expectations, attention, trust, and interpretation of behavior. Consequences depend heavily on norms and the meaning attached to the category.
+
+### Moderators / Boundary Conditions
+
+Effects depend on category salience, perceived threat, competition, status, interdependence, contact, individual identification, institutional norms, and opportunities for cooperation.
+
+### Evidence Status
+
+Outgroup categorization is robust as a social process, but categorization does not inevitably produce hostility or negative evaluation. Cooperative interdependence, cross-cutting identities, meaningful contact, and inclusive norms can change intergroup responses.
+
+## 4. Relationship to This Chapter
+
+Outgroup is paired with ingroup and provides the relational basis for ingroup favoritism, outgroup homogeneity, stereotypes, prejudice, and intergroup threat.
+
+## 5. Boundaries
+
+### Owns
+
+The social-psychological representation of a category as outside the relevant ingroup.
+
+### Defers
+
+Specific negative evaluations and behaviors to their dedicated Topics, and broader identity to Social identity.
+
+## 6. Key Principles
+
+- Outgroup status is relational and contextual.
+- Categorization does not automatically imply hostility.
+- Meaning, status, and interdependence influence consequences.
+- Cross-cutting identities can alter group boundaries.
+- Outgroup members remain heterogeneous individuals.
+
+### Topic-specific evidence layer
+
+Evidence should distinguish category recognition from negative evaluation. A participant can categorize another group as “not us” without disliking its members. Studies that measure both categorization and evaluation can identify where intergroup differences emerge rather than treating them as one process.
+
+---
+
+# 25. Ingroup favoritism
+
+## 1. Purpose
+
+Ingroup favoritism explains preferential evaluation, allocation, trust, or treatment directed toward members of a psychologically relevant ingroup relative to an outgroup.
+
+## 2. Definition
+
+Ingroup favoritism is a tendency to evaluate, trust, reward, or otherwise treat ingroup members more favorably than relevant outgroup members.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Favoritism can appear in evaluations, resource allocation, cooperation, trust, attribution, attention, or willingness to help. It need not involve hostility toward an outgroup. Preferential treatment of “us” and negative treatment of “them” are analytically separable.
+
+### Mechanism
+
+Ingroup favoritism can arise because group membership provides shared expectations, social identification, reciprocity, norm coordination, or a basis for positive self-definition. People may also expect greater cooperation from those perceived as sharing relevant norms or interests.
+
+### Moderators / Boundary Conditions
+
+Effects vary with identification, group status, competition, norms, interdependence, accountability, resource scarcity, category meaning, and whether individual information is available. Favoritism can be reduced when norms emphasize impartiality or group boundaries become less important.
+
+### Evidence Status
+
+Ingroup favoritism can occur even under minimal categorization, but stronger real-world effects generally depend on the meaning and consequences attached to group membership. It should not be treated as an unavoidable expression of group identity.
+
+## 4. Relationship to This Chapter
+
+Ingroup favoritism is a consequence of social categorization and identity processes. It is distinct from prejudice because favoritism can occur without negative attitudes toward an outgroup.
+
+## 5. Boundaries
+
+### Owns
+
+Preferential treatment of ingroup members in comparative social contexts.
+
+### Defers
+
+Negative outgroup evaluation to Prejudice and harmful or unequal treatment to Discrimination.
+
+## 6. Key Principles
+
+- Ingroup favoritism and outgroup hostility are distinct.
+- Group identity can affect allocation and evaluation.
+- Context and norms moderate favoritism.
+- Individual information can weaken category-based treatment.
+- Minimal categorization can sometimes produce preference effects.
+
+### Topic-specific evidence layer
+
+A rigorous measure compares treatment of ingroup and outgroup members under comparable conditions. Evidence should specify whether the outcome is evaluation, allocation, trust, cooperation, or another behavior. Favoritism should not be inferred from ingroup cohesion alone, and unequal outcomes can have causes other than group preference.
