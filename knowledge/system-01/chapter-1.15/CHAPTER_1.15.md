@@ -85,6 +85,17 @@ Specific developmental mechanisms, domains, stages, and systems to their dedicat
 - Development usually reflects interacting biological, psychological, social, and environmental processes.
 - Age differences do not automatically prove developmental change.
 
+
+### Topic-specific evidence layer
+
+Development should be interpreted as an organized temporal process rather than a synonym for getting better. A developmental trajectory can contain acquisition, consolidation, differentiation, compensation, reorganization, loss, and renewed adaptation. The same person can therefore show improvement in one domain while experiencing constraint in another. This makes developmental description inherently multidimensional.
+
+The strongest developmental explanations connect earlier and later states through identifiable processes. Age is a coordinate, not a mechanism. A finding that a behavior differs between age groups establishes a group difference but does not by itself establish within-person change. Cohort, period, selection, health, education, and historical conditions may contribute.
+
+Development is also probabilistic. Earlier experiences can alter later opportunities and expectations without fixing the future. Reciprocal interaction means that people influence their environments while environments influence them. This is why developmental pathways can show both continuity and revision.
+
+For retrieval, Development should be used when the question concerns the overall organization of change and stability across time. Specific mechanisms, domains, stages, and systems should then be retrieved from their own canonical Topics rather than absorbed into this umbrella construct.
+
 ---
 
 # 2. Lifespan development
@@ -161,6 +172,17 @@ Specific developmental stages, domains, mechanisms, and systems to their dedicat
 - Age, period, and cohort must be distinguished.
 - No single developmental trajectory represents every person.
 
+
+### Topic-specific evidence layer
+
+Lifespan development is a framework for treating development as continuous across the entire life course. Its value is partly corrective: childhood is not the whole of development, and adulthood is not merely a static endpoint. Different periods contain different combinations of biological change, learning, social roles, accumulated knowledge, and adaptation.
+
+A lifespan perspective is also explicitly multidirectional. Gains and losses can occur together. A person may acquire expertise while processing speed changes, develop stronger emotional selectivity while reducing the size of a social network, or gain autonomy while assuming greater responsibility. These are developmental reorganizations rather than simple movement upward or downward.
+
+Historical embeddedness is essential. People of the same age may have grown up under different educational, technological, economic, and cultural conditions. Age, period, and cohort therefore require separate interpretation. Sequential and longitudinal designs can help, but no design removes the need for careful reasoning about historical context.
+
+For retrieval, this Topic owns the lifespan framework itself. It should not replace the more specific stage Topics or domain-specific developmental Topics; instead, it supplies the temporal perspective that connects them.
+
 ---
 
 # 3. Developmental change
@@ -231,6 +253,17 @@ Specific forms of change, such as cognitive aging, personality development, lang
 - Change can be quantitative or qualitative.
 - Different domains can change differently.
 
+
+### Topic-specific evidence layer
+
+Developmental change is specifically concerned with alteration within a person across time. The important distinction is between observing a difference and observing a change process. A cross-sectional difference can be informative, but it is not equivalent to watching an individual acquire the later state.
+
+Change can occur in amount, organization, strategy, efficiency, timing, coordination, or differentiation. A person may become faster, know more, use a different strategy, coordinate previously separate abilities, or reorganize an existing representation. These forms can occur together, but they should not be collapsed into a single metric of improvement.
+
+Rate and timing also matter. Two people can reach a similar endpoint through different trajectories, and a temporary regression can occur during reorganization. Developmental change should therefore be represented as a trajectory with direction, magnitude, timing, and context rather than as a before-and-after label.
+
+For retrieval, this Topic owns the general phenomenon of developmental alteration. Specific reasons for change belong to Developmental Mechanisms, while particular abilities or life periods belong to their dedicated Topics.
+
 ---
 
 # 4. Developmental mechanisms
@@ -300,6 +333,17 @@ Specific mechanisms owned by other psychological chapters, such as learning mech
 - A correlate is not automatically a mechanism.
 - Developmental mechanisms can change in importance across time.
 - Timing and context can alter developmental effects.
+
+
+### Topic-specific evidence layer
+
+Developmental mechanisms answer the explanatory question of how developmental patterns are generated. A mechanism is more than a variable associated with age. It specifies a process through which earlier conditions alter later functioning. Learning, maturation, practice, social feedback, biological adaptation, environmental selection, and reciprocal interaction can all serve as mechanisms depending on the question.
+
+Mechanisms can interact. A biological change can alter behavior, behavior can change the environment, the new environment can create learning opportunities, and learning can alter later behavior. Such feedback means that development often resembles a changing system rather than a one-way causal chain.
+
+Timing is part of mechanism. An experience can have different effects depending on prior development, sensitivity, social support, resources, and the demands of the environment. Mechanisms can also change in importance across the lifespan as biological maturation gives way to increasing roles for accumulated knowledge, deliberate practice, relationships, and adaptation.
+
+For retrieval, this Topic owns the general concept of developmental causation and process. It should not be used to re-own the specific mechanisms of attachment, language, emotion, learning, or other canonical domains.
 
 ---
 
@@ -373,6 +417,17 @@ Specific biological, cognitive, social, cultural, and learning mechanisms to the
 - Biological and environmental explanations are not mutually exclusive.
 - A systems framework does not substitute for evidence about specific mechanisms.
 
+
+### Topic-specific evidence layer
+
+The developmental systems perspective is most useful when a developmental pattern cannot be explained adequately at one level. Genes, physiology, neural organization, behavior, cognition, relationships, family systems, schools, communities, culture, and historical conditions can participate in the same trajectory. The perspective does not require every level to be measured in every study; it requires the explanation to remain open to interactions across levels when those interactions are relevant.
+
+A systems account must remain testable. Saying that everything affects everything is not an empirical mechanism. Useful systems explanations specify which components interact, the direction or reciprocity of influence, the timing of those interactions, and the conditions under which the relationship changes.
+
+Developmental systems thinking also clarifies emergence. Some outcomes arise from coordinated relations among components rather than from one component alone. Self-regulation, identity, social competence, and adaptation can each involve multiple processes whose organization changes over time.
+
+For retrieval, this Topic owns the systems-level perspective. It provides an organizing framework and should not be mistaken for evidence that every proposed interaction has been established.
+
 ---
 
 # 6. Nature–nurture interaction
@@ -444,6 +499,17 @@ Specific genes, epigenetic mechanisms, neural processes, learning mechanisms, an
 - Gene–environment interaction differs from gene–environment correlation.
 - Environmental influence does not imply absence of biological influence.
 
+
+### Topic-specific evidence layer
+
+Nature–nurture interaction is not a contest between two independent causes. Development reflects relations among biological predispositions and environmental experiences, and those relations can change over time. Genetic differences can influence which environments people encounter, while environments can alter the expression of biological potentials.
+
+The interaction can occur through multiple pathways. People may actively select environments that fit their tendencies. Other people may respond differently to the same individual characteristics. Institutions may provide different opportunities to people with different capacities. Experience can also modify biological and psychological systems. These processes make simple percentage accounts of nature and nurture conceptually inadequate.
+
+Interaction should not be interpreted as unlimited malleability. Biological organization constrains possibilities, and environments differ in the opportunities they provide. The developmental question is therefore how particular biological and environmental conditions combine to produce particular trajectories.
+
+For retrieval, this Topic owns the general interaction between inherited or biological influences and environmental experience. Specific genetic, biological, learning, cultural, or social mechanisms remain under their respective canonical owners.
+
 ---
 
 # 7. Developmental continuity
@@ -512,6 +578,17 @@ Specific longitudinal continuity in personality, cognition, relationships, or be
 - New experiences can alter developmental trajectories.
 - Development can contain continuity and reorganization simultaneously.
 
+
+### Topic-specific evidence layer
+
+Developmental continuity concerns persistence and gradual transformation across time. Continuity can refer to persistence of rank order, behavioral organization, skill, expectation, strategy, or underlying tendency. These forms should not be treated as interchangeable. A person can change in average level while remaining relatively stable in rank order, or preserve an organization while changing its expression.
+
+Continuity is also compatible with developmental transformation. Early characteristics can contribute to later outcomes through accumulated experiences and transactions without directly determining them. A stable tendency can influence which environments are entered, and those environments can reinforce, redirect, or compensate for the tendency.
+
+Evidence for continuity depends on the construct and measurement. Stability in one measure does not prove stability of the entire psychological system. Longitudinal evidence is especially useful because it permits direct examination of within-person persistence and change, although measurement error and changing contexts must still be considered.
+
+For retrieval, this Topic owns the general concept of developmental persistence. Specific continuity in personality, attachment, cognition, or other domains belongs to those domain-specific developmental Topics.
+
 ---
 
 # 8. Discontinuity
@@ -576,6 +653,17 @@ Specific developmental stage theories and domain-specific transitions to their r
 - Discontinuity concerns organization, not simply amount.
 - Apparent abrupt change can sometimes reflect measurement.
 - Development can combine continuous and discontinuous processes.
+
+
+### Topic-specific evidence layer
+
+Discontinuity refers to developmental reorganization in which a later form is not adequately described as a simple quantitative extension of an earlier form. A change can be discontinuous at one level while being supported by many gradual changes at another. This makes continuity and discontinuity compatible rather than mutually exclusive.
+
+Discontinuity can involve new strategies, representations, roles, relationships, or forms of coordination. A child may reorganize a problem-solving approach rather than simply become faster at the old approach. A social transition can alter the organization of relationships rather than merely increase the number of interactions.
+
+Evidence for discontinuity requires attention to form as well as amount. A statistical jump does not automatically establish a qualitative transformation, and a gradual curve does not prove that no reorganization occurred. Researchers need measures capable of detecting changes in structure or strategy.
+
+For retrieval, this Topic owns the general developmental idea of qualitative reorganization. Specific stage transitions, cognitive reorganizations, identity changes, and biological transitions remain owned by their dedicated Topics.
 
 ---
 
@@ -647,6 +735,17 @@ Personality stability, cognitive stability, relationship stability, and other do
 - Stability can vary across development and across constructs.
 - Measurement reliability affects estimates of stability.
 
+
+### Topic-specific evidence layer
+
+Stability describes persistence across time, but the relevant kind of persistence must always be specified. Rank-order stability asks whether people retain their relative positions. Mean-level stability asks whether a population's average remains similar. Structural stability asks whether relationships among components remain organized similarly. These are different questions.
+
+Stability does not imply immutability. A characteristic can show substantial persistence while remaining responsive to experience. Likewise, a population can show a stable average while individuals move in different directions. Developmental interpretation therefore requires both stability and individual trajectories.
+
+Measurement can create apparent stability or apparent change. A reliable measure can still fail to capture changes in the construct's expression, while a noisy measure can make stable functioning look variable. Context also matters because the same underlying characteristic can be expressed differently as demands change.
+
+For retrieval, Stability owns the general persistence concept. Developmental stability of personality, attachment, cognition, or other constructs should be retrieved from the corresponding developmental Topic when a domain-specific answer is required.
+
 ---
 
 # 10. Change
@@ -716,6 +815,17 @@ Specific developmental changes to their domain-specific Topics.
 - Change can be quantitative or qualitative.
 - Gains and losses can occur together.
 - Developmental change must be distinguished from simple age-group differences.
+
+
+### Topic-specific evidence layer
+
+Change is the complementary concept to stability. In developmental science, change can refer to alteration in level, organization, strategy, timing, or function. It should not automatically be interpreted as improvement because development includes both gains and losses.
+
+A useful analysis distinguishes within-person change from between-person difference. A population can show average change while individuals vary widely, and a stable average can conceal simultaneous improvement and decline among different people. Change also has a rate and shape; it may be gradual, accelerated, delayed, nonlinear, or interrupted.
+
+Mechanisms and context determine how change should be interpreted. Learning, maturation, social feedback, health, role transitions, and environmental change can each contribute. Later experiences can redirect an established trajectory, so developmental change should be treated as probabilistic rather than predetermined.
+
+For retrieval, this Topic owns the broad concept of developmental change as a counterpart to Stability. More specific forms, mechanisms, and domain-specific changes should be retrieved from their canonical Topics.
 
 ---
 
