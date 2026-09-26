@@ -944,6 +944,10 @@ Human development often contains more graded forms of sensitivity. Later experie
 
 For retrieval, this Topic owns the general timing concept of constrained developmental windows. Specific biological, perceptual, language, or attachment examples should be retrieved from their respective developmental owners.
 
+A critical-period claim should specify the developmental system, the relevant input, the outcome being measured, and the evidence that later experience is substantially less effective. Without those specifications, the term can become a rhetorical label for any age-related sensitivity.
+
+The distinction is also important for intervention. If a process is sensitive rather than absolutely critical, later support may remain meaningful even when earlier experience would have been more efficient. Developmental timing therefore informs opportunity without automatically establishing irreversible outcomes.
+
 ---
 
 # 12. Sensitive period
@@ -1020,6 +1024,10 @@ Sensitive periods describe intervals in which a developmental system is especial
 The concept is useful because it connects timing with plasticity. The same experience may have different effects at different stages because the developing system, available capacities, and environmental demands differ. A sensitive period should therefore be specified relative to a particular process rather than treated as a universal property of an age.
 
 For retrieval, Sensitive Period owns the general idea of heightened developmental responsiveness. Specific sensitive periods belong to the relevant domain Topic, and claims of irreversible criticality require stronger evidence.
+
+Sensitive periods can be broad, overlapping, and dependent on the quality of experience. A person may show heightened responsiveness to one input while remaining capable of learning related skills later. Sensitivity can also differ among individuals because biological timing, prior experience, motivation, and environmental opportunity differ.
+
+The construct therefore supports a graded account of developmental timing. It should not be used to create universal age deadlines when the evidence instead supports increased responsiveness during a period.
 
 ---
 
@@ -1102,6 +1110,10 @@ Plasticity should also be distinguished from improvement. A system can change in
 
 For retrieval, this Topic owns the general concept of developmental malleability. Domain-specific learning, recovery, compensation, and resilience should be linked rather than re-owned here.
 
+Plasticity is constrained by prior organization, biological development, resources, and environmental demands. A system may change substantially in one context while showing limited transfer to another. This makes the measurement of plasticity inseparable from the measurement of generalization and maintenance.
+
+Plasticity also has no inherent direction. Adaptation to chronic adversity can be a form of plasticity without being beneficial in every later context. The developmental question is whether the change improves fit, functioning, or goal attainment under the relevant conditions.
+
 ---
 
 # 14. Cohort effect
@@ -1176,6 +1188,10 @@ Cohort effects arise when people who share a historical period of birth or entry
 Education, technology, economic conditions, nutrition, public health, family structure, and major historical events can all contribute to cohort differences. A cohort effect does not mean that age-related development is absent; it means that observed age patterns can contain historical differences as well.
 
 For retrieval, this Topic owns the cohort component of developmental interpretation. Age effects, period effects, and developmental change should be analyzed separately when the research question requires causal or trajectory claims.
+
+Cohort effects are especially important when interpreting long-term changes in education, technology, health, family structure, and social roles. A difference between older and younger groups may partly reflect the historical conditions under which each group developed rather than a process that occurs within every individual as they age.
+
+The effect is therefore not an alternative to development; it is one source of variation that must be separated from developmental change. Population, period, and cohort should be identified before broad age-based conclusions are generalized.
 
 ---
 
@@ -1265,6 +1281,10 @@ Intensive and microgenetic designs are useful when change is expected to occur r
 
 For retrieval, this Topic owns the general methodological logic of developmental research. Domain-specific measurement methods remain with their canonical constructs.
 
+Method choice should follow the claim. If the claim concerns prevalence at one point in time, a cross-sectional design may be appropriate. If it concerns within-person change, repeated measurement is necessary. If it concerns mechanism, temporal ordering and stronger causal designs become important. If it concerns rapid reorganization, dense observation may be required.
+
+Developmental methodology also requires attention to measurement equivalence, attrition, practice effects, and changing context. A well-designed study does not merely collect data repeatedly; it collects measurements capable of representing the same construct across the developmental interval.
+
 ---
 
 # 16. Biological development
@@ -1333,6 +1353,10 @@ Biological development provides constraints and opportunities for psychological 
 
 For retrieval, this Topic owns the broad developmental organization of biological change. Detailed neural, endocrine, genetic, health, and medical mechanisms should remain under their relevant canonical owners.
 
+Biological development can be described at several levels, from cellular and physiological processes to whole-body maturation and aging. The appropriate level depends on the developmental question. A biological change becomes psychologically meaningful when it alters capacity, opportunity, regulation, or interaction with the environment.
+
+Biological development is therefore neither separate from psychology nor reducible to psychology. The two interact continuously. This boundary prevents the Topic from becoming a duplicate of neuroscience, genetics, medicine, or physiology while preserving its role in developmental organization.
+
 ---
 
 # 17. Motor development
@@ -1397,6 +1421,10 @@ Developmental motor patterns emerge from interactions among maturation, practice
 
 For retrieval, this Topic owns developmental change in motor functioning. General motor control, exercise, rehabilitation, or neurological mechanisms belong to their broader canonical domains.
 
+Motor development is strongly dependent on opportunities for action. Practice, object properties, physical environment, social encouragement, and task demands can influence how motor capacities are expressed. A developmental difference in performance therefore does not automatically reveal a difference in underlying capacity.
+
+Motor development can also produce developmental cascades. Increased mobility changes exploration; exploration changes perceptual experience; new experience supports learning and social interaction. Later, changes in physical capacity can alter activity and social participation, showing that motor development remains relevant throughout life.
+
 ---
 
 # 18. Perceptual development
@@ -1460,6 +1488,10 @@ Perceptual development concerns changes in how sensory information is detected, 
 Perceptual development interacts with motor, cognitive, and social development. Improved perception can support action and learning, while active exploration can provide new perceptual information. Later-life sensory changes can also alter the functional demands placed on cognition and social interaction.
 
 For retrieval, this Topic owns developmental change in perceptual functioning rather than general sensation and perception.
+
+Perceptual development is shaped by both maturation and experience. Development can involve improved sensitivity, increased differentiation, changing attention to information, and better coordination between perception and action. The relevant process depends on the sensory system and task.
+
+Perception also changes the developmental environment by altering what information is available for learning and interaction. In later life, sensory changes can increase cognitive demands because more effort may be required to extract information. Developmental interpretation should therefore consider the interaction between perceptual capacity and environmental design.
 
 ---
 
@@ -1527,6 +1559,10 @@ Cognitive development concerns developmental changes in knowledge, reasoning, at
 Cognitive change can reflect maturation, learning, education, practice, language, social interaction, and accumulated knowledge. Different cognitive components can change at different rates. Development can therefore involve both gains and trade-offs, including increased knowledge alongside changes in processing efficiency.
 
 For retrieval, this Topic owns the developmental organization of cognition. Detailed memory, attention, intelligence, learning, and reasoning constructs remain under their canonical chapters while their developmental trajectories are linked here.
+
+Cognitive development is best represented as a profile rather than a single score. Knowledge, reasoning, attention, memory, processing efficiency, and executive coordination can follow different trajectories. A person may improve in one component while remaining stable or changing differently in another.
+
+Education, practice, language, social interaction, and accumulated expertise can support development. Biological maturation and aging can constrain some processes while leaving others relatively preserved. This multidimensionality is why cognitive development must be linked to specific cognitive constructs rather than treated as a single age curve.
 
 ---
 
@@ -1597,6 +1633,10 @@ Language development concerns changes in the acquisition, representation, compre
 Development is not simply vocabulary accumulation. It includes increasingly complex representations, syntax, pragmatic understanding, narrative organization, and flexible use of language in social contexts. Timing and experience both matter, and multilingual development demonstrates that developmental pathways can vary while remaining fully organized.
 
 For retrieval, this Topic owns developmental change in language. General language structure, psycholinguistics, and communication mechanisms remain with their canonical owners.
+
+Language development is also social and cultural. Children acquire language through structured exposure and interaction, while the language environment provides categories and practices through which experience is represented. Multilingual development demonstrates that multiple developmental pathways can coexist without implying a simple deficit model.
+
+Later development includes pragmatic, narrative, occupational, and social uses of language. Language can continue to change through education and experience even after basic acquisition. The developmental Topic therefore covers the lifespan organization of language rather than only early vocabulary or grammar acquisition.
 
 ---
 
