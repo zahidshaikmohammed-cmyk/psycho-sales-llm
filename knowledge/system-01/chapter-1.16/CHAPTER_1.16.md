@@ -2437,3 +2437,510 @@ Formal legal enforcement to legal/institutional domains and general punishment t
 ### Topic-specific evidence layer
 
 Evidence should distinguish actual sanctions from perceived sanction risk because anticipated reactions can influence behavior without direct enforcement. Studies should also measure fairness and legitimacy, since identical sanctions can produce different effects depending on how they are interpreted.
+
+
+---
+
+# 46. Social roles
+
+## 1. Purpose
+
+Social roles explain patterned expectations associated with positions that people occupy in groups and relationships.
+
+## 2. Definition
+
+A social role is a set of socially organized expectations concerning how a person occupying a particular position is expected to behave.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Roles can be formal or informal, temporary or enduring, and highly specific or broadly defined. The same person can occupy several roles simultaneously.
+
+### Mechanism
+
+Roles guide attention, expectations, behavior, and interpretation. They reduce uncertainty about what others are likely to do and provide standards against which behavior can be evaluated.
+
+### Moderators / Boundary Conditions
+
+Role clarity, legitimacy, status, power, cultural expectations, organizational context, and conflict among roles affect role behavior.
+
+### Evidence Status
+
+Role expectations are well documented, but behavior is not mechanically determined by roles. People interpret, negotiate, resist, and redefine expectations.
+
+## 4. Relationship to This Chapter
+
+Social roles connect identity, norms, authority, group processes, leadership, and relationships.
+
+## 5. Boundaries
+
+### Owns
+
+Shared behavioral expectations associated with social positions.
+
+### Defers
+
+Internalized role identity to Role identity and general personality to its canonical owner.
+
+## 6. Key Principles
+
+- Roles organize expectations.
+- People can occupy multiple roles.
+- Role expectations vary by context.
+- Roles influence but do not fully determine behavior.
+- Role conflict involves competing expectations.
+
+### Topic-specific evidence layer
+
+Evidence should distinguish formal position from perceived role expectations. The strongest studies measure what participants believe the role requires and compare that with actual behavior. Cross-cultural and organizational differences also matter because identical titles can carry different expectations.
+
+---
+
+# 47. Authority
+
+## 1. Purpose
+
+Authority addresses the social basis through which one person or institution is perceived as having legitimate power to direct, decide, or regulate behavior.
+
+## 2. Definition
+
+Authority is socially recognized legitimate power to issue directives, make decisions, or define acceptable action within a particular domain.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Authority can arise from institutional position, expertise, law, role, tradition, or agreed rules. Power and authority overlap but are not identical: power concerns capacity to influence outcomes, whereas authority includes perceived legitimacy.
+
+### Mechanism
+
+Perceived authority changes expectations about compliance, responsibility, coordination, and consequences. People may follow directives because they regard the authority as legitimate rather than merely because they fear punishment.
+
+### Moderators / Boundary Conditions
+
+Legitimacy, expertise, consistency, fairness, accountability, institutional trust, relationship, and scope of authority affect influence.
+
+### Evidence Status
+
+Authority effects are robust in social influence research, but legitimacy is context-dependent and people do not accept every directive from every authority.
+
+## 4. Relationship to This Chapter
+
+Authority is central to obedience and relevant to leadership, status hierarchy, group decision-making, and norm enforcement.
+
+## 5. Boundaries
+
+### Owns
+
+Psychological legitimacy of social power to direct or decide.
+
+### Defers
+
+Formal legal authority and institutional governance to their appropriate domains.
+
+## 6. Key Principles
+
+- Authority includes perceived legitimacy.
+- Power and authority are related but distinct.
+- Scope matters.
+- Legitimate authority can coordinate behavior.
+- Legitimacy can be questioned or withdrawn.
+
+### Topic-specific evidence layer
+
+Evidence should identify the source of legitimacy and the domain in which it is recognized. A person's ability to impose consequences demonstrates power but does not by itself establish psychological authority. Studies should therefore measure perceived legitimacy separately from compliance.
+
+---
+
+# 48. Group processes
+
+## 1. Purpose
+
+Group processes provide the umbrella framework for understanding how individuals' behavior and psychological states change through membership and interaction within groups.
+
+## 2. Definition
+
+Group processes are the interacting cognitive, emotional, motivational, and behavioral processes through which groups form, operate, coordinate, maintain norms, distribute status, and produce collective outcomes.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Group processes include communication, norms, cohesion, influence, roles, status, leadership, coordination, conflict, decision-making, and collective action.
+
+Groups are more than collections of individuals because interaction creates emergent expectations and structures that can influence each member.
+
+### Mechanism
+
+Repeated interaction generates shared knowledge, norms, roles, reputations, and coordination patterns. Individual behavior can alter group structure, while group structure feeds back into individual behavior.
+
+### Moderators / Boundary Conditions
+
+Group size, task interdependence, diversity, status hierarchy, leadership, communication, time, identity, and external threat affect group processes.
+
+### Evidence Status
+
+Group processes are studied experimentally and in natural groups, with substantial context dependence. Small laboratory groups can reveal mechanisms without necessarily reproducing the complexity of long-term organizations or communities.
+
+## 4. Relationship to This Chapter
+
+This Topic organizes group cohesion, polarization, groupthink, facilitation, loafing, deindividuation, collective behavior, decision-making, leadership, status, power, action, and networks.
+
+## 5. Boundaries
+
+### Owns
+
+General psychological processes produced by interaction within groups.
+
+### Defers
+
+Specific group phenomena to their dedicated Topics and general decision-making to Chapter 1.10.
+
+## 6. Key Principles
+
+- Groups generate emergent social structures.
+- Individual and group processes are reciprocal.
+- Group size and interdependence matter.
+- Norms and roles coordinate behavior.
+- Group outcomes cannot always be reduced to individual traits.
+
+### Topic-specific evidence layer
+
+Evidence should specify whether the proposed mechanism is interactional, structural, or individual. A group outcome is not automatically evidence of a group-level psychological process. Designs comparing individuals working alone with interacting groups can help identify effects generated by interaction itself.
+
+---
+
+# 49. Group cohesion
+
+## 1. Purpose
+
+Group cohesion addresses the forces that maintain members' attachment to a group and their willingness to remain coordinated with it.
+
+## 2. Definition
+
+Group cohesion is the degree of attraction, commitment, solidarity, and coordinated attachment experienced among group members and toward the group.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Cohesion can involve interpersonal attraction, commitment to group goals, shared identity, and task-related unity. These components can vary independently.
+
+### Mechanism
+
+Cohesion can increase coordination by strengthening trust, shared expectations, motivation, and willingness to invest in collective outcomes. High cohesion can also intensify conformity when members strongly value agreement.
+
+### Moderators / Boundary Conditions
+
+Task structure, group identity, leadership, conflict, diversity, size, external threat, and goal clarity affect cohesion.
+
+### Evidence Status
+
+Cohesion is associated with many group outcomes, but causal direction can run both ways. Successful coordination can increase cohesion, while cohesion can facilitate coordination.
+
+## 4. Relationship to This Chapter
+
+Cohesion connects group identity, norms, leadership, cooperation, conflict, and collective action.
+
+## 5. Boundaries
+
+### Owns
+
+Group-level attachment and unity.
+
+### Defers
+
+Interpersonal attraction to its dedicated relationship Topic.
+
+## 6. Key Principles
+
+- Cohesion has multiple components.
+- Cohesion can support coordination.
+- High cohesion can also increase pressure for agreement.
+- Causality can be reciprocal.
+- Context determines whether cohesion helps or harms group functioning.
+
+### Topic-specific evidence layer
+
+Studies should specify whether cohesion means interpersonal liking, commitment to a task, or shared identity. Combining these into one score can obscure different mechanisms. Longitudinal evidence is especially useful because cohesion and group performance can influence each other over time.
+
+---
+
+# 50. Group polarization
+
+## 1. Purpose
+
+Group polarization addresses the tendency for group discussion to move members toward a more extreme position in the direction of their initial collective tendency.
+
+## 2. Definition
+
+Group polarization is a shift toward a more extreme position after group interaction, relative to the group's initial average or prevailing position.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Polarization can concern judgments, attitudes, risk preferences, or policy preferences. The direction depends on the group's initial distribution.
+
+### Mechanism
+
+Informational mechanisms include exposure to additional arguments that support the initial tendency. Social-comparison mechanisms involve adjustment toward what members perceive as the group's preferred or valued position.
+
+### Moderators / Boundary Conditions
+
+Initial diversity, argument strength, group identity, discussion structure, leadership, anonymity, and whether members seek accuracy or consensus affect polarization.
+
+### Evidence Status
+
+Group polarization is supported across many decision and judgment contexts, but it is not inevitable. Groups can also moderate extreme views when discussion introduces credible counterarguments or diverse perspectives.
+
+## 4. Relationship to This Chapter
+
+Polarization is a group process distinct from conformity because the outcome can become more extreme than the initial individual positions.
+
+## 5. Boundaries
+
+### Owns
+
+Directional extremization following group interaction.
+
+### Defers
+
+General decision-making and political behavior to their canonical owners.
+
+## 6. Key Principles
+
+- Polarization depends on the group's initial tendency.
+- Discussion can add arguments and social comparison.
+- Diversity can alter outcomes.
+- Polarization is not inevitable.
+- Group influence can move in either direction depending on starting positions.
+
+### Topic-specific evidence layer
+
+Evidence should compare pre-discussion individual positions with post-discussion group and individual responses. Without a baseline, extreme post-discussion positions cannot be identified as polarization. Designs should also separate informational exposure from social comparison when claiming a mechanism.
+
+---
+
+# 51. Groupthink
+
+## 1. Purpose
+
+Groupthink addresses impaired critical evaluation that can occur when a highly cohesive decision-making group becomes strongly oriented toward consensus.
+
+## 2. Definition
+
+Groupthink is a proposed group decision process in which pressures toward agreement reduce critical examination of alternatives, risks, or dissent.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Relevant features can include strong cohesion, isolation from outside information, directive leadership, high stress, time pressure, and norms discouraging dissent. The concept concerns a pattern of decision dynamics rather than ordinary agreement.
+
+### Mechanism
+
+Consensus pressure can suppress dissent, create illusions of unanimity, reduce consideration of alternatives, and discourage members from raising concerns. Members may also infer that others support the prevailing position because dissent is not visible.
+
+### Moderators / Boundary Conditions
+
+Leadership style, psychological safety, group structure, accountability, decision procedures, external review, and information diversity affect the risk of consensus-driven errors.
+
+### Evidence Status
+
+Groupthink remains influential as a framework, but empirical support for a single syndrome is mixed and difficult to separate from other group processes. It should be treated as a model of problematic consensus dynamics rather than an automatic explanation for bad group decisions.
+
+## 4. Relationship to This Chapter
+
+Groupthink connects cohesion, leadership, conformity, norms, and group decision-making.
+
+## 5. Boundaries
+
+### Owns
+
+Consensus pressure that suppresses critical evaluation in group decisions.
+
+### Defers
+
+General decision-making to Chapter 1.10.
+
+## 6. Key Principles
+
+- Agreement is not itself groupthink.
+- Suppression of dissent is central.
+- Leadership and information structure matter.
+- The empirical syndrome is debated.
+- Independent review can change group decision dynamics.
+
+### Topic-specific evidence layer
+
+Retrospective accounts should be interpreted cautiously because failed decisions can create a misleading impression that groupthink was present. Prospective studies and process measures are stronger because they can identify dissent suppression, information sharing, and alternative generation before outcomes are known.
+
+---
+
+# 52. Social facilitation
+
+## 1. Purpose
+
+Social facilitation addresses changes in performance that occur because other people are present or perceived to be observing.
+
+## 2. Definition
+
+Social facilitation is a change in performance associated with the presence or evaluation of other people, often involving improved performance on well-learned tasks and impaired performance on difficult or unfamiliar tasks.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Effects can concern speed, accuracy, persistence, arousal, or dominant-response expression. Audience presence and coaction are related but can involve different mechanisms.
+
+### Mechanism
+
+One account proposes that social presence increases arousal or alertness, making dominant or well-practiced responses more likely. On easy tasks this can improve performance; on complex tasks it can interfere with controlled processing.
+
+### Moderators / Boundary Conditions
+
+Task difficulty, expertise, evaluation apprehension, audience familiarity, accountability, and whether others are merely present or performing the same task affect outcomes.
+
+### Evidence Status
+
+Social-presence effects are well documented, but mechanisms vary by task and context.
+
+## 4. Relationship to This Chapter
+
+Social facilitation is a group-performance process and contrasts with social loafing.
+
+## 5. Boundaries
+
+### Owns
+
+Performance changes attributable to social presence or evaluation.
+
+### Defers
+
+General arousal and performance mechanisms to their canonical owners.
+
+## 6. Key Principles
+
+- Social presence can improve or impair performance.
+- Task difficulty is critical.
+- Evaluation and mere presence can differ.
+- Familiarity and expertise matter.
+- Effects are context-dependent.
+
+### Topic-specific evidence layer
+
+Studies should distinguish audience presence, coaction, and evaluation because these conditions can produce different outcomes. Baseline performance without the social condition is also essential for determining whether the effect is facilitation or impairment.
+
+---
+
+# 53. Social loafing
+
+## 1. Purpose
+
+Social loafing addresses reduced individual effort when people work collectively and their individual contribution is less identifiable.
+
+## 2. Definition
+
+Social loafing is a reduction in individual effort on a collective task relative to comparable individual work, particularly when personal contribution is difficult to identify.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Loafing concerns effort rather than simple performance differences. A group can perform poorly because of coordination problems without individual members reducing effort.
+
+### Mechanism
+
+Reduced identifiability can weaken accountability and the perceived link between personal effort and outcomes. People may also reduce effort when they believe others will compensate or when the task feels less personally meaningful.
+
+### Moderators / Boundary Conditions
+
+Task importance, identifiability, group size, cohesion, norms, perceived fairness, evaluation, interdependence, and group identity affect loafing.
+
+### Evidence Status
+
+Research supports reduced effort under some collective conditions, while showing that identification, meaningful goals, and strong group commitment can reduce it.
+
+## 4. Relationship to This Chapter
+
+Social loafing is a group-performance process distinct from coordination loss and from social facilitation.
+
+## 5. Boundaries
+
+### Owns
+
+Individual effort reduction in collective tasks.
+
+### Defers
+
+General motivation to its canonical owner.
+
+## 6. Key Principles
+
+- Loafing concerns effort.
+- Identifiability is important.
+- Group performance loss is not always loafing.
+- Meaningful group goals can reduce loafing.
+- Accountability changes incentives.
+
+### Topic-specific evidence layer
+
+Evidence should measure individual effort or contribution rather than infer loafing from low group output. Experimental designs that vary identifiability and group size can distinguish effort reduction from coordination difficulties.
+
+---
+
+# 54. Deindividuation
+
+## 1. Purpose
+
+Deindividuation addresses changes in self-awareness, accountability, and behavioral regulation that can occur when people experience themselves as less individually identifiable within a group or situation.
+
+## 2. Definition
+
+Deindividuation is a social-psychological state involving reduced individual self-focus or accountability and altered responsiveness to situational cues within group contexts.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Anonymity, reduced identifiability, group immersion, arousal, attention shifts, and altered self-awareness can contribute. The concept should not be reduced to “losing identity.”
+
+### Mechanism
+
+Reduced personal identifiability can weaken attention to individual standards and increase responsiveness to salient situational or group norms. The resulting behavior can therefore depend on which norms are available.
+
+### Moderators / Boundary Conditions
+
+Anonymity, group identity, norms, accountability, self-awareness, environmental cues, and situational arousal affect the process.
+
+### Evidence Status
+
+Research supports effects of anonymity and group context but has challenged simplistic claims that deindividuation inevitably causes antisocial behavior.
+
+## 4. Relationship to This Chapter
+
+Deindividuation connects group immersion, norms, identity, anonymity, and collective behavior.
+
+## 5. Boundaries
+
+### Owns
+
+Changes in self-awareness and accountability associated with group-based reduced identifiability.
+
+### Defers
+
+General self-awareness and aggression to their canonical Topics.
+
+## 6. Key Principles
+
+- Reduced identifiability is important.
+- Deindividuation does not have one inevitable behavioral outcome.
+- Group norms can guide behavior.
+- Anonymity and deindividuation are related but not identical.
+- Context determines expression.
+
+### Topic-specific evidence layer
+
+Evidence should measure identifiability and self-awareness separately rather than treating anonymity as a complete proxy. Behavioral outcomes should also be interpreted in relation to the norms and cues present in the group, because reduced individual accountability can amplify existing situational tendencies in different directions.
