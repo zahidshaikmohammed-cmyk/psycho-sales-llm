@@ -1872,3 +1872,568 @@ General stress, anxiety, self-esteem, and organizational climate to their canoni
 ### Topic-specific evidence layer
 
 Evidence should identify the threatened identity, the contextual cue, and the proposed psychological response. Self-report, behavioral, and longitudinal evidence can be combined to distinguish momentary threat from chronic disengagement. A negative outcome alone is insufficient; the identity-relevant mechanism must be demonstrated or plausibly established.
+
+
+---
+
+# 36. Social influence
+
+## 1. Purpose
+
+Social influence provides the chapter's general framework for understanding how the presence, behavior, expectations, information, or reactions of other people change an individual's judgments, feelings, or actions.
+
+## 2. Definition
+
+Social influence is the process through which social information, interpersonal responses, group expectations, or authority relations affect psychological states or behavior.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Influence can involve beliefs, judgments, attitudes, emotions, intentions, decisions, and overt behavior. It can occur through information, social approval, norms, requests, authority, identity, observation, or interaction.
+
+Influence does not require direct physical presence. Anticipated reactions, imagined audiences, institutional expectations, and internalized norms can also shape behavior.
+
+### Mechanism
+
+People may change because others provide information about reality, because agreement carries social rewards, because disagreement carries costs, because an authority controls relevant outcomes, or because group membership changes what behavior feels appropriate.
+
+Different mechanisms can produce the same outward behavior. Compliance, conformity, and obedience therefore should not be treated as interchangeable.
+
+### Moderators / Boundary Conditions
+
+Influence depends on uncertainty, group size, unanimity, status, expertise, relationship, identity, accountability, incentives, and perceived legitimacy.
+
+### Evidence Status
+
+Social influence is supported across laboratory, field, longitudinal, and observational research, but effect size and direction depend strongly on context.
+
+## 4. Relationship to This Chapter
+
+Social influence is the umbrella for conformity, compliance, obedience, informational and normative influence, minority influence, social proof, norms, and authority.
+
+## 5. Boundaries
+
+### Owns
+
+The general process through which social information or social relations alter psychological states or behavior.
+
+### Defers
+
+General learning, motivation, emotion, and decision-making to their canonical owners when social influence is not the defining mechanism.
+
+## 6. Key Principles
+
+- Influence can operate through information or social pressure.
+- The same behavior can have different psychological causes.
+- Influence can be conscious or only partly deliberate.
+- Context strongly affects susceptibility.
+- Social influence is not synonymous with coercion.
+
+### Topic-specific evidence layer
+
+Strong evidence identifies the source of influence, the information or pressure supplied, and the outcome changed. A before-and-after change is insufficient to establish social influence because other events may have occurred. Experiments and naturalistic designs that isolate social exposure provide stronger causal evidence.
+
+---
+
+# 37. Conformity
+
+## 1. Purpose
+
+Conformity addresses changes in judgment or behavior toward the response pattern of a relevant group or social majority.
+
+## 2. Definition
+
+Conformity is a change in a person's response that moves toward a group's prevailing response, expectation, or norm.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Conformity can concern public behavior, private judgment, attitudes, estimates, preferences, or norms. Public agreement does not necessarily mean private acceptance.
+
+### Mechanism
+
+Informational influence can produce conformity when people use others' responses as evidence about reality. Normative influence can produce it when agreement is socially rewarding or disagreement carries costs.
+
+### Moderators / Boundary Conditions
+
+Unanimity, group size, ambiguity, expertise, confidence, status, accountability, anonymity, relationship, and task importance affect conformity.
+
+### Evidence Status
+
+Classic experimental work demonstrates conformity under controlled conditions, while later research shows that effects vary substantially with context and motivation.
+
+## 4. Relationship to This Chapter
+
+Conformity is a specific social-influence process and should be distinguished from compliance, obedience, and internalized norm adherence.
+
+## 5. Boundaries
+
+### Owns
+
+Movement toward group responses or expectations.
+
+### Defers
+
+General attitude change and learning when those processes occur without the defining group-response component.
+
+## 6. Key Principles
+
+- Conformity involves movement toward a group response.
+- Public agreement can differ from private acceptance.
+- Informational and normative mechanisms can coexist.
+- Unanimity and ambiguity are important moderators.
+- Conformity is not always irrational.
+
+### Topic-specific evidence layer
+
+Evidence should distinguish genuine private change from strategic public agreement. Anonymous responses, post-influence judgments, and persistence tests can help determine whether conformity reflects internal acceptance or immediate social coordination.
+
+---
+
+# 38. Compliance
+
+## 1. Purpose
+
+Compliance addresses behavioral change following a request or social demand that does not depend on formal authority.
+
+## 2. Definition
+
+Compliance is the act of changing behavior in response to a request, appeal, or interpersonal demand.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Requests can be direct or indirect, explicit or implied, and can concern minor or consequential actions. Compliance differs from conformity because the defining event is a request rather than movement toward a group norm.
+
+### Mechanism
+
+Compliance can arise from reciprocity, consistency, liking, perceived legitimacy, social obligation, commitment, incentives, or simple willingness to cooperate. Multiple processes can operate simultaneously.
+
+### Moderators / Boundary Conditions
+
+Relationship, request size, perceived costs, timing, trust, social norms, authority, and prior commitments influence compliance.
+
+### Evidence Status
+
+Research supports multiple compliance processes, but no single tactic guarantees compliance. Effects depend on target, context, relationship, and perceived legitimacy.
+
+## 4. Relationship to This Chapter
+
+Compliance is a form of social influence distinct from conformity and obedience.
+
+## 5. Boundaries
+
+### Owns
+
+Behavioral response to interpersonal requests.
+
+### Defers
+
+General cooperation, motivation, and persuasion mechanisms to their canonical owners where appropriate.
+
+## 6. Key Principles
+
+- Compliance involves a request or demand.
+- Formal authority is not required.
+- Multiple psychological processes can support compliance.
+- Request legitimacy and cost matter.
+- Compliance does not imply private agreement.
+
+### Topic-specific evidence layer
+
+Evidence should identify the request, the baseline behavior, and the alternative explanations for the response. A behavior that follows a request may also reflect existing intention, incentives, or relationship obligations. Experimental variation in request framing and cost helps isolate compliance mechanisms.
+
+---
+
+# 39. Obedience
+
+## 1. Purpose
+
+Obedience addresses behavior performed in response to an authority's directive.
+
+## 2. Definition
+
+Obedience is behavior carried out in response to a perceived legitimate or controlling authority's instruction.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Authority can be formal, institutional, relational, or situational. Obedience can range from routine low-cost actions to highly consequential behavior.
+
+### Mechanism
+
+Authority can change perceived responsibility, legitimacy, expectations, and consequences of refusal. People may also interpret compliance as part of a social role or institutional norm.
+
+### Moderators / Boundary Conditions
+
+Perceived legitimacy, proximity of authority, peer behavior, responsibility, consequences, institutional setting, identification, and opportunities for refusal affect obedience.
+
+### Evidence Status
+
+Obedience research demonstrates that authority can strongly influence behavior under some conditions, but laboratory findings should not be treated as universal predictions of real-world conduct.
+
+## 4. Relationship to This Chapter
+
+Obedience is a specific influence process involving authority, distinct from ordinary compliance and conformity.
+
+## 5. Boundaries
+
+### Owns
+
+Behavioral response to authority directives.
+
+### Defers
+
+General authority structures to Authority and general moral judgment to its canonical owner.
+
+## 6. Key Principles
+
+- Authority is central to obedience.
+- Perceived legitimacy matters.
+- Responsibility and context alter obedience.
+- Obedience is not identical to agreement.
+- Experimental findings require contextual interpretation.
+
+### Topic-specific evidence layer
+
+Strong evidence specifies the authority relationship and the participant's perceived legitimacy of the directive. Studies should distinguish obedience from compliance by establishing that authority, rather than merely a request, is the defining influence.
+
+---
+
+# 40. Informational influence
+
+## 1. Purpose
+
+Informational influence explains changes in judgment or behavior that occur because another person's response is treated as useful evidence about reality.
+
+## 2. Definition
+
+Informational influence is social influence produced when people use others' knowledge, judgments, or behavior as information for resolving uncertainty.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+It is particularly relevant when situations are ambiguous, complex, unfamiliar, or uncertain. Others can provide information about what is true, effective, safe, or appropriate.
+
+### Mechanism
+
+A person observes another person's response and updates their own estimate of the situation. The process can involve genuine learning rather than social pressure.
+
+### Moderators / Boundary Conditions
+
+Expertise, reliability, ambiguity, confidence, group diversity, information independence, and feedback affect informational value.
+
+### Evidence Status
+
+Informational influence is supported across judgment and decision contexts, but people can also overweight social information when others are inaccurate or correlated in their errors.
+
+## 4. Relationship to This Chapter
+
+Informational influence is one mechanism of conformity and a contrast to normative influence.
+
+## 5. Boundaries
+
+### Owns
+
+Influence based on treating others as sources of information about reality or appropriate action.
+
+### Defers
+
+General learning and Bayesian/statistical inference to their canonical owners.
+
+## 6. Key Principles
+
+- Uncertainty increases potential informational value.
+- Others are useful sources only when their information is diagnostic.
+- Social information can be correlated and therefore misleading.
+- Informational influence can produce private as well as public change.
+- Expertise is context-specific.
+
+### Topic-specific evidence layer
+
+Evidence should establish whether participants changed because they learned information or because agreement carried social value. Manipulating ambiguity, source reliability, and private versus public response conditions can separate informational from normative pathways.
+
+---
+
+# 41. Normative influence
+
+## 1. Purpose
+
+Normative influence addresses changes produced by concern with social approval, acceptance, rejection, or conformity to expected behavior.
+
+## 2. Definition
+
+Normative influence is social influence arising because people consider the social consequences of agreeing, disagreeing, complying, or violating expectations.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Normative influence can operate through desire for belonging, avoidance of rejection, maintenance of status, reciprocity, reputation, or conformity to valued group standards.
+
+### Mechanism
+
+People anticipate reactions from others and adjust behavior to obtain social benefits or avoid social costs. The influence can occur even when the person privately disagrees.
+
+### Moderators / Boundary Conditions
+
+Relationship closeness, group identification, visibility, sanctions, approval, status, cultural norms, and perceived consequences alter normative influence.
+
+### Evidence Status
+
+Research supports normative influence across interpersonal and group settings, but its strength varies with the importance of the relationship and the norm.
+
+## 4. Relationship to This Chapter
+
+Normative influence contrasts with informational influence but can operate simultaneously with it.
+
+## 5. Boundaries
+
+### Owns
+
+Influence arising from anticipated social approval, disapproval, acceptance, or rejection.
+
+### Defers
+
+General belonging and rejection processes to their dedicated Topics.
+
+## 6. Key Principles
+
+- Normative influence concerns social consequences.
+- Private disagreement can coexist with public conformity.
+- Relationship and group importance matter.
+- Norms can be internalized as well as externally enforced.
+- Informational and normative mechanisms can coexist.
+
+### Topic-specific evidence layer
+
+Evidence should distinguish compliance motivated by social consequences from genuine belief change. Anonymous responses, private follow-up measures, and manipulations of audience visibility can help establish whether the influence is primarily normative.
+
+---
+
+# 42. Minority influence
+
+## 1. Purpose
+
+Minority influence addresses how a numerical or socially weaker minority can alter majority judgments, norms, or practices.
+
+## 2. Definition
+
+Minority influence is the process through which a minority position affects the beliefs, judgments, attitudes, or behavior of a larger group.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Minority influence can involve public conversion, private reconsideration, norm change, innovation, or delayed effects. Minority size alone does not determine influence.
+
+### Mechanism
+
+Consistency, confidence, flexibility, credibility, informational value, and the ability to create uncertainty can make minority positions consequential. A minority can introduce information that would otherwise receive little attention.
+
+### Moderators / Boundary Conditions
+
+Consistency, rigidity, flexibility, status, expertise, social support, group norms, and issue relevance affect influence.
+
+### Evidence Status
+
+Research supports minority influence under identifiable conditions, but effects are generally conditional and can differ from immediate majority conformity.
+
+## 4. Relationship to This Chapter
+
+Minority influence complements conformity and demonstrates that social influence is not inherently one-directional.
+
+## 5. Boundaries
+
+### Owns
+
+Influence exerted by a minority position on a larger social group.
+
+### Defers
+
+General innovation, persuasion, and attitude change to their canonical processes when minority status is not the defining factor.
+
+## 6. Key Principles
+
+- Minorities can influence majorities.
+- Consistency can increase attention to minority positions.
+- Flexibility can affect credibility.
+- Influence may appear indirectly or over time.
+- Minority influence depends on context.
+
+### Topic-specific evidence layer
+
+Evidence should measure both immediate and delayed outcomes because minority influence can involve reconsideration that is not visible in immediate public responses. Studies should also distinguish minority consistency from simple repetition by examining whether the position remains coherent while allowing responsiveness to evidence.
+
+---
+
+# 43. Social proof
+
+## 1. Purpose
+
+Social proof addresses the use of other people's behavior or choices as evidence about what is appropriate, effective, safe, or likely to be correct.
+
+## 2. Definition
+
+Social proof is a social-information process in which people infer appropriate or effective behavior partly from observing what others do.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Social proof can concern popularity, appropriateness, safety, competence, credibility, or likely outcomes. Observed behavior can serve as information when direct evidence is limited.
+
+### Mechanism
+
+People use others' behavior as a cue to environmental conditions or social expectations. The value of the cue depends on whether the observed people are knowledgeable, independent, and relevant to the decision.
+
+### Moderators / Boundary Conditions
+
+Uncertainty, source expertise, similarity, group size, consensus, independence, and visibility affect social proof.
+
+### Evidence Status
+
+Social information can improve judgment when others possess useful information but can also create cascades when early responses are mistaken or correlated.
+
+## 4. Relationship to This Chapter
+
+Social proof overlaps with informational influence and norms but emphasizes observed behavior as evidence.
+
+## 5. Boundaries
+
+### Owns
+
+Inference from others' observable behavior as a cue to appropriate or effective action.
+
+### Defers
+
+General decision-making and statistical inference to their canonical owners.
+
+## 6. Key Principles
+
+- Other people's behavior can provide information.
+- Social proof is strongest under uncertainty.
+- Source quality matters.
+- Correlated errors can produce misleading consensus.
+- Popularity is not identical to correctness.
+
+### Topic-specific evidence layer
+
+Evidence should distinguish informative consensus from mere repetition. If observers independently possess relevant information, convergence can be informative; if everyone is copying the same early signal, apparent consensus can exaggerate evidence. Experiments that manipulate source independence are useful for testing this distinction.
+
+---
+
+# 44. Social norms
+
+## 1. Purpose
+
+Social norms explain shared expectations about what people typically do or what they ought to do within a social context.
+
+## 2. Definition
+
+Social norms are socially shared expectations concerning typical behavior or appropriate behavior within a group or context.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Descriptive norms concern what people commonly do. Injunctive norms concern what people are expected or approved to do. A behavior can be common without being approved, and approved without being common.
+
+### Mechanism
+
+Norms guide behavior by providing expectations, reducing uncertainty, coordinating action, and creating social rewards or sanctions. Norms can be explicit or implicit and can be transmitted through observation and interaction.
+
+### Moderators / Boundary Conditions
+
+Norm strength depends on group identification, visibility, sanctions, consensus, legitimacy, ambiguity, and whether the norm is activated in the situation.
+
+### Evidence Status
+
+Norm effects are robust across many contexts, but norm influence depends on which norm is salient and whether people recognize it as relevant.
+
+## 4. Relationship to This Chapter
+
+Norms connect social influence with conformity, normative influence, roles, group processes, and collective behavior.
+
+## 5. Boundaries
+
+### Owns
+
+Shared behavioral expectations within social contexts.
+
+### Defers
+
+Formal laws and moral philosophy to their relevant domains, while retaining their psychological effects as social expectations.
+
+## 6. Key Principles
+
+- Descriptive and injunctive norms differ.
+- Norms coordinate behavior.
+- Salience determines which norm is influential.
+- Norm strength varies across groups and situations.
+- Common behavior is not necessarily approved behavior.
+
+### Topic-specific evidence layer
+
+Research should measure which norm participants perceived and distinguish what they thought others do from what they thought others approve. Interventions that change one norm while holding the other constant are particularly useful for determining the mechanism of influence.
+
+---
+
+# 45. Norm enforcement
+
+## 1. Purpose
+
+Norm enforcement addresses the social processes through which groups encourage conformity to expected behavior and respond to perceived violations.
+
+## 2. Definition
+
+Norm enforcement is the use of social reactions, sanctions, rewards, reminders, or corrective actions to maintain behavior consistent with a social norm.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Enforcement can be formal or informal, direct or indirect, positive or negative. Approval, praise, criticism, exclusion, correction, punishment, and reputation effects can all function as enforcement mechanisms.
+
+### Mechanism
+
+Enforcement communicates what behavior is expected and changes the perceived consequences of compliance or violation. Repeated enforcement can strengthen a shared expectation, while inconsistent enforcement can weaken norm clarity.
+
+### Moderators / Boundary Conditions
+
+Legitimacy, fairness, status, relationship, sanction severity, visibility, group identification, and the clarity of the norm affect enforcement.
+
+### Evidence Status
+
+Research supports the role of social sanctions and rewards in maintaining norms, while showing that excessive or inconsistent enforcement can produce resistance, concealment, or conflict.
+
+## 4. Relationship to This Chapter
+
+Norm enforcement connects norms with compliance, group processes, authority, status, and collective behavior.
+
+## 5. Boundaries
+
+### Owns
+
+Social mechanisms that maintain or correct norm-consistent behavior.
+
+### Defers
+
+Formal legal enforcement to legal/institutional domains and general punishment to its canonical owner.
+
+## 6. Key Principles
+
+- Norm enforcement communicates expectations.
+- Sanctions can be positive or negative.
+- Legitimacy affects acceptance of enforcement.
+- Inconsistent enforcement can weaken norms.
+- Enforcement itself is a social process subject to norms and power.
+
+### Topic-specific evidence layer
+
+Evidence should distinguish actual sanctions from perceived sanction risk because anticipated reactions can influence behavior without direct enforcement. Studies should also measure fairness and legitimacy, since identical sanctions can produce different effects depending on how they are interpreted.
