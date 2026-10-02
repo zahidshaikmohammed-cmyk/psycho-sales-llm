@@ -1,99 +1,58 @@
-# 1.16 — SOCIAL PSYCHOLOGY AND SOCIAL COGNITION
-
-## 1. Social psychology
+# 1. Social psychology
 
 ## 1. Purpose
 
-Social psychology provides the chapter's broad scientific frame for understanding how people's thoughts, feelings, judgments, identities, and behavior are shaped by actual, imagined, or symbolically represented social contexts. This Topic establishes the field-level object of study before the chapter separates social cognition, social influence, groups, relationships, and social behavior into more specific canonical Topics.
+Social psychology provides the field-level frame for explaining how social contexts shape psychological processes and behavior.
 
 ## 2. Definition
 
-Social psychology is the scientific study of how individuals' psychological processes and behavior are influenced by the presence, actions, expectations, characteristics, and representations of other people and by the social contexts in which interaction occurs.
+Social psychology is the scientific study of how people think, feel, and behave in relation to other people, groups, and social contexts.
 
 ## 3. Core Understanding
 
 ### Components / Dimensions
 
-Social psychology operates across several connected levels. At the individual level, it examines perception, attribution, attitudes, emotion, judgment, motivation, and behavior in social contexts. At the interpersonal level, it examines attraction, intimacy, trust, cooperation, conflict, helping, and rejection. At the group level, it examines norms, roles, status, cohesion, leadership, influence, collective decisions, and intergroup relations. These levels are analytically distinguishable but often causally connected.
+Social psychology examines processes operating within persons, between people, and within groups. Its central object is the interaction between psychological processes and social conditions: other people can alter what information is noticed, what meanings are assigned, which goals become salient, and which behaviors become likely. Social influence can be direct, indirect, anticipated, or represented mentally.
 
-The field therefore does not treat the individual and the social environment as separate systems. A person's interpretation of another person can alter behavior; that behavior can change the other's response; the resulting interaction can modify later expectations. Social psychological processes are consequently often reciprocal and temporally dynamic.
+A precise social-psychological explanation identifies the social input, the psychological process affected, and the resulting outcome. The same outcome can have different mechanisms, and the same mechanism can produce different outcomes depending on context. Social behavior is also reciprocal: one person's action becomes information and a constraint for another person, creating feedback across time.
 
 ### Mechanism
 
-Social psychological effects can arise through several mechanisms, including social information processing, learning, norm perception, identity processes, motivational responses, emotional reactions, and changes in perceived costs and benefits. The relevant mechanism depends on the phenomenon being studied. A person may conform because others provide useful information, because disagreement carries social costs, because a group identity is salient, or because several of these processes operate simultaneously.
+Relevant mechanisms include social information processing, learning, norms, identity, motivation, emotion, expectation, and changes in perceived costs or benefits.
 
 ### Moderators / Boundary Conditions
 
-Social psychological effects are rarely universal in identical form. Their magnitude and direction can depend on context, relationship history, social identity, cultural norms, power, uncertainty, accountability, incentives, individual differences, and the behavior of other people. Findings obtained in one social setting should therefore not automatically be treated as invariant properties of human behavior.
+Context, relationship history, culture, identity, power, uncertainty, accountability, incentives, and individual differences can alter social effects.
 
 ### Evidence Status
 
-Social psychology contains a large empirical literature using experiments, longitudinal studies, surveys, observational designs, field studies, and network methods. Effects can vary across populations and contexts, and some historically influential findings have generated replication or generalizability debates. A sound account therefore distinguishes robust mechanisms from effects that are conditional, heterogeneous, or actively debated.
+Evidence comes from experiments, longitudinal research, field studies, surveys, observation, and network methods. Robustness and generalizability vary by phenomenon, population, and context.
 
-### Levels of social explanation
-
-A social psychological explanation should specify what level is being invoked. An individual's judgment may be explained by a cognitive process, by an interpersonal interaction, by a group norm, or by a broader social structure. These explanations can be compatible rather than competing. For example, a group norm can influence an individual's perception of what others expect, which changes a cognitive judgment and ultimately alters behavior.
-
-### Dynamic social feedback
-
-Social behavior frequently creates the conditions for subsequent social behavior. Expectations can influence actions that elicit confirming responses; rejection can change approach behavior; trust can facilitate cooperation that subsequently strengthens trust. Such feedback means that observed social outcomes may be both causes and consequences of earlier interaction patterns.
-
-
-A precise account of the integration of observable social cues with contextual interpretation must separate the phenomenon itself from the conditions that make it observable. The same outward response can arise through different pathways, so description should precede mechanism. In particular, researchers need to specify what information was available, what the person was trying to accomplish, and what alternative explanations remain plausible. This matters because social behavior is embedded in reciprocal interaction: an interpretation changes an action, the action changes another person's response, and that response becomes new evidence. A process therefore cannot always be inferred from one isolated judgment or one behavioral outcome.
-
-The strongest conceptual boundary here is between an observed outcome and the process proposed to produce it. For the integration of observable social cues with contextual interpretation, an effect should be located in a defined social context rather than treated as a free-floating property of people. Familiarity, identity, expectations, power, relationship history, and situational incentives can alter what information is noticed and how it is interpreted. Individual differences also matter, but they should not be used as catch-all explanations. A good account identifies the interaction among person, social information, and situation and states which part of that interaction the Topic actually owns.
-
-Temporal structure is especially important. the integration of observable social cues with contextual interpretation can change as people receive new information, encounter different partners, enter different groups, or experience changing consequences. A cross-sectional difference may describe different people rather than change within the same person, while a short laboratory effect may not persist outside the experimental setting. Repeated observation can reveal stability, revision, escalation, repair, or adaptation. When a claim concerns causation, evidence should also establish temporal ordering and rule out plausible common causes rather than treating association as mechanism.
-
-Measurement should match the psychological claim. If the Topic concerns judgment, researchers should distinguish reported evaluation from behavioral expression; if it concerns behavior, they should distinguish intention from action; if it concerns perception, they should establish an appropriate criterion for accuracy. Socially sensitive constructs are particularly vulnerable to response strategies, demand characteristics, and differences between public and private responses. Multiple methods can therefore be more informative than a single score. Converging evidence is strongest when the measures capture genuinely related components rather than simply repeating the same method.
-
-Boundary conditions are part of the knowledge, not an optional qualification. the integration of observable social cues with contextual interpretation may be strengthened, weakened, reversed, or rendered irrelevant by uncertainty, accountability, motivation, group identity, relationship closeness, or the availability of individuating information. The Topic should consequently be retrieved with its conditions rather than as an unconditional rule. This preserves scientific precision and prevents a social-psychological tendency from being transformed into a deterministic statement about a person or group. The most useful interpretation is the one that specifies what happens, for whom, under which circumstances, and through which plausible process.
-
-A precise account of how people process incomplete, ambiguous, and socially meaningful information must separate the phenomenon itself from the conditions that make it observable. The same outward response can arise through different pathways, so description should precede mechanism. In particular, researchers need to specify what information was available, what the person was trying to accomplish, and what alternative explanations remain plausible. This matters because social behavior is embedded in reciprocal interaction: an interpretation changes an action, the action changes another person's response, and that response becomes new evidence. A process therefore cannot always be inferred from one isolated judgment or one behavioral outcome.
-
-The strongest conceptual boundary here is between an observed outcome and the process proposed to produce it. For how people process incomplete, ambiguous, and socially meaningful information, an effect should be located in a defined social context rather than treated as a free-floating property of people. Familiarity, identity, expectations, power, relationship history, and situational incentives can alter what information is noticed and how it is interpreted. Individual differences also matter, but they should not be used as catch-all explanations. A good account identifies the interaction among person, social information, and situation and states which part of that interaction the Topic actually owns.
-
-Temporal structure is especially important. how people process incomplete, ambiguous, and socially meaningful information can change as people receive new information, encounter different partners, enter different groups, or experience changing consequences. A cross-sectional difference may describe different people rather than change within the same person, while a short laboratory effect may not persist outside the experimental setting. Repeated observation can reveal stability, revision, escalation, repair, or adaptation. When a claim concerns causation, evidence should also establish temporal ordering and rule out plausible common causes rather than treating association as mechanism.
-
-Measurement should match the psychological claim. If the Topic concerns judgment, researchers should distinguish reported evaluation from behavioral expression; if it concerns behavior, they should distinguish intention from action; if it concerns perception, they should establish an appropriate criterion for accuracy. Socially sensitive constructs are particularly vulnerable to response strategies, demand characteristics, and differences between public and private responses. Multiple methods can therefore be more informative than a single score. Converging evidence is strongest when the measures capture genuinely related components rather than simply repeating the same method.
-
-Boundary conditions are part of the knowledge, not an optional qualification. how people process incomplete, ambiguous, and socially meaningful information may be strengthened, weakened, reversed, or rendered irrelevant by uncertainty, accountability, motivation, group identity, relationship closeness, or the availability of individuating information. The Topic should consequently be retrieved with its conditions rather than as an unconditional rule. This preserves scientific precision and prevents a social-psychological tendency from being transformed into a deterministic statement about a person or group. The most useful interpretation is the one that specifies what happens, for whom, under which circumstances, and through which plausible process.
-
-A precise account of the field-level study of how social context changes psychological processes and behavior must separate the phenomenon itself from the conditions that make it observable. The same outward response can arise through different pathways, so description should precede mechanism. In particular, researchers need to specify what information was available, what the person was trying to accomplish, and what alternative explanations remain plausible. This matters because social behavior is embedded in reciprocal interaction: an interpretation changes an action, the action changes another person's response, and that response becomes new evidence. A process therefore cannot always be inferred from one isolated judgment or one behavioral outcome.
-
-The strongest conceptual boundary here is between an observed outcome and the process proposed to produce it. For the field-level study of how social context changes psychological processes and behavior, an effect should be located in a defined social context rather than treated as a free-floating property of people. Familiarity, identity, expectations, power, relationship history, and situational incentives can alter what information is noticed and how it is interpreted. Individual differences also matter, but they should not be used as catch-all explanations. A good account identifies the interaction among person, social information, and situation and states which part of that interaction the Topic actually owns.
-
-Temporal structure is especially important. the field-level study of how social context changes psychological processes and behavior can change as people receive new information, encounter different partners, enter different groups, or experience changing consequences. A cross-sectional difference may describe different people rather than change within the same person, while a short laboratory effect may not persist outside the experimental setting. Repeated observation can reveal stability, revision, escalation, repair, or adaptation. When a claim concerns causation, evidence should also establish temporal ordering and rule out plausible common causes rather than treating association as mechanism.
-
-Measurement should match the psychological claim. If the Topic concerns judgment, researchers should distinguish reported evaluation from behavioral expression; if it concerns behavior, they should distinguish intention from action; if it concerns perception, they should establish an appropriate criterion for accuracy. Socially sensitive constructs are particularly vulnerable to response strategies, demand characteristics, and differences between public and private responses. Multiple methods can therefore be more informative than a single score. Converging evidence is strongest when the measures capture genuinely related components rather than simply repeating the same method.
-
-Boundary conditions are part of the knowledge, not an optional qualification. the field-level study of how social context changes psychological processes and behavior may be strengthened, weakened, reversed, or rendered irrelevant by uncertainty, accountability, motivation, group identity, relationship closeness, or the availability of individuating information. The Topic should consequently be retrieved with its conditions rather than as an unconditional rule. This preserves scientific precision and prevents a social-psychological tendency from being transformed into a deterministic statement about a person or group. The most useful interpretation is the one that specifies what happens, for whom, under which circumstances, and through which plausible process.
 ## 4. Relationship to This Chapter
 
-Social psychology is the chapter-level umbrella Topic. The remaining Topics specify particular social cognitive processes, social identities, influence processes, group dynamics, relationships, and social behaviors. This Topic should therefore orient retrieval rather than duplicate every mechanism covered elsewhere.
+This is the field-level umbrella for the specific social cognition, identity, influence, group, relationship, and social behavior Topics that follow.
 
 ## 5. Boundaries
 
 ### Owns
 
-The general field-level psychological concept of social psychology and its broad object of study.
+The general field-level concept of social psychology.
 
 ### Defers
 
-Specific cognitive, motivational, emotional, developmental, cultural, personality, clinical, and methodological constructs to their canonical owners. Specific social processes are developed in their dedicated Topics within this chapter.
+Specific cognitive, emotional, motivational, developmental, cultural, personality, clinical, and methodological constructs to their canonical owners.
 
 ## 6. Key Principles
 
-- Social psychology examines psychological functioning in social context.
-- Social effects can operate through cognitive, motivational, emotional, interpersonal, and group mechanisms.
-- Individual and social processes can influence one another reciprocally.
-- Context and boundary conditions matter.
-- Field-level framing should not replace specific mechanism-level explanations.
+- Social behavior is psychological behavior in social context.
+- Person and environment can influence one another reciprocally.
+- Social effects are often conditional rather than universal.
+- Mechanism must be distinguished from outcome.
+- Specific constructs retain their dedicated canonical owners.
 
 ### Topic-specific evidence layer
 
-Evidence in social psychology is strongest when the proposed social mechanism is distinguished from the mere presence of another person. Social context can alter attention, interpretation, motivation, emotion, and behavior through different pathways, and the same observable outcome can therefore have different explanations. Experimental designs can isolate particular situational influences, while longitudinal and field research can reveal how social processes unfold beyond controlled settings. Replication and generalizability are especially important because social behavior is sensitive to context, relationship history, norms, and population characteristics. The field should therefore be represented as a collection of empirically testable mechanisms rather than a catalogue of universal social effects. The canonical role of this Topic is to provide that organizing frame while leaving detailed ownership to the specific social psychological processes that follow.
-
+A strong social-psychological account specifies the population, social context, manipulation or observation, psychological process, and outcome. Field-level framing should organize the chapter rather than substitute for mechanism-level explanation.
 ---
 
 # 2. Social cognition
@@ -162,6 +121,10 @@ Temporal structure is especially important. forming and revising representations
 Measurement should match the psychological claim. If the Topic concerns judgment, researchers should distinguish reported evaluation from behavioral expression; if it concerns behavior, they should distinguish intention from action; if it concerns perception, they should establish an appropriate criterion for accuracy. Socially sensitive constructs are particularly vulnerable to response strategies, demand characteristics, and differences between public and private responses. Multiple methods can therefore be more informative than a single score. Converging evidence is strongest when the measures capture genuinely related components rather than simply repeating the same method.
 
 Boundary conditions are part of the knowledge, not an optional qualification. forming and revising representations of individual people from limited behavioral evidence may be strengthened, weakened, reversed, or rendered irrelevant by uncertainty, accountability, motivation, group identity, relationship closeness, or the availability of individuating information. The Topic should consequently be retrieved with its conditions rather than as an unconditional rule. This preserves scientific precision and prevents a social-psychological tendency from being transformed into a deterministic statement about a person or group. The most useful interpretation is the one that specifies what happens, for whom, under which circumstances, and through which plausible process.
+### Analytic precision
+
+An important distinction for Attribution is between individual-level and social-level explanation. A group pattern can emerge from many individuals responding independently to similar conditions, or it can arise through interaction and shared expectations. Network position, communication, norms, and feedback can therefore matter even when the immediate observation concerns a single person's judgment or behavior.
+
 ## 4. Relationship to This Chapter
 
 Social cognition is the organizing cognitive Topic for the chapter. Social perception, person perception, impression formation, attribution, attitudes, social comparison, self-categorization, and related Topics specify particular forms of social information processing.
@@ -488,6 +451,10 @@ Temporal structure is especially important. when behavior is interpreted primari
 Measurement should match the psychological claim. If the Topic concerns judgment, researchers should distinguish reported evaluation from behavioral expression; if it concerns behavior, they should distinguish intention from action; if it concerns perception, they should establish an appropriate criterion for accuracy. Socially sensitive constructs are particularly vulnerable to response strategies, demand characteristics, and differences between public and private responses. Multiple methods can therefore be more informative than a single score. Converging evidence is strongest when the measures capture genuinely related components rather than simply repeating the same method.
 
 Boundary conditions are part of the knowledge, not an optional qualification. when behavior is interpreted primarily through characteristics of the actor may be strengthened, weakened, reversed, or rendered irrelevant by uncertainty, accountability, motivation, group identity, relationship closeness, or the availability of individuating information. The Topic should consequently be retrieved with its conditions rather than as an unconditional rule. This preserves scientific precision and prevents a social-psychological tendency from being transformed into a deterministic statement about a person or group. The most useful interpretation is the one that specifies what happens, for whom, under which circumstances, and through which plausible process.
+### Analytic precision
+
+Evidence concerning Internal attribution should also distinguish association from causal influence. Social variables are frequently reciprocal: one person's behavior changes another person's response, and that response feeds back into the original person's expectations. Longitudinal, experimental, and naturalistic designs answer different causal questions, so the strength of a conclusion should match the design.
+
 ## 4. Relationship to This Chapter
 
 Internal attribution is one of the two major directional forms of attribution in this chapter. It connects directly with attribution bias and the fundamental attribution error.
@@ -558,6 +525,10 @@ Temporal structure is especially important. when behavior is interpreted through
 Measurement should match the psychological claim. If the Topic concerns judgment, researchers should distinguish reported evaluation from behavioral expression; if it concerns behavior, they should distinguish intention from action; if it concerns perception, they should establish an appropriate criterion for accuracy. Socially sensitive constructs are particularly vulnerable to response strategies, demand characteristics, and differences between public and private responses. Multiple methods can therefore be more informative than a single score. Converging evidence is strongest when the measures capture genuinely related components rather than simply repeating the same method.
 
 Boundary conditions are part of the knowledge, not an optional qualification. when behavior is interpreted through circumstances, constraints, and environmental conditions may be strengthened, weakened, reversed, or rendered irrelevant by uncertainty, accountability, motivation, group identity, relationship closeness, or the availability of individuating information. The Topic should consequently be retrieved with its conditions rather than as an unconditional rule. This preserves scientific precision and prevents a social-psychological tendency from being transformed into a deterministic statement about a person or group. The most useful interpretation is the one that specifies what happens, for whom, under which circumstances, and through which plausible process.
+### Analytic precision
+
+The canonical boundary of External attribution is preserved by asking what psychological process is actually being explained. A related construct may provide an antecedent, consequence, moderator, or cross-link without becoming part of this Topic's ownership. This prevents social-psychological knowledge from absorbing general cognition, emotion, motivation, development, personality, or decision-making that already has a dedicated canonical home.
+
 ## 4. Relationship to This Chapter
 
 External attribution complements internal attribution and forms part of the chapter's broader treatment of causal explanation and attribution bias.
@@ -628,6 +599,10 @@ Temporal structure is especially important. systematic distortion in the weighti
 Measurement should match the psychological claim. If the Topic concerns judgment, researchers should distinguish reported evaluation from behavioral expression; if it concerns behavior, they should distinguish intention from action; if it concerns perception, they should establish an appropriate criterion for accuracy. Socially sensitive constructs are particularly vulnerable to response strategies, demand characteristics, and differences between public and private responses. Multiple methods can therefore be more informative than a single score. Converging evidence is strongest when the measures capture genuinely related components rather than simply repeating the same method.
 
 Boundary conditions are part of the knowledge, not an optional qualification. systematic distortion in the weighting or interpretation of causal information may be strengthened, weakened, reversed, or rendered irrelevant by uncertainty, accountability, motivation, group identity, relationship closeness, or the availability of individuating information. The Topic should consequently be retrieved with its conditions rather than as an unconditional rule. This preserves scientific precision and prevents a social-psychological tendency from being transformed into a deterministic statement about a person or group. The most useful interpretation is the one that specifies what happens, for whom, under which circumstances, and through which plausible process.
+### Analytic precision
+
+For Attribution bias, the key analytic question is whether the observed pattern remains when the most plausible alternative social explanation is controlled. This requires specifying what information was available to the participant, which social relationship or category was salient, and whether the response changed because of the social process itself or because the situation changed in another relevant way.
+
 ## 4. Relationship to This Chapter
 
 Attribution bias is the general Topic for systematic distortion in causal explanation. The fundamental attribution error is a more specific and historically important form involving the weighting of dispositional explanations for others' behavior.
@@ -698,6 +673,10 @@ Temporal structure is especially important. dispositional weighting when observe
 Measurement should match the psychological claim. If the Topic concerns judgment, researchers should distinguish reported evaluation from behavioral expression; if it concerns behavior, they should distinguish intention from action; if it concerns perception, they should establish an appropriate criterion for accuracy. Socially sensitive constructs are particularly vulnerable to response strategies, demand characteristics, and differences between public and private responses. Multiple methods can therefore be more informative than a single score. Converging evidence is strongest when the measures capture genuinely related components rather than simply repeating the same method.
 
 Boundary conditions are part of the knowledge, not an optional qualification. dispositional weighting when observers explain another person's behavior may be strengthened, weakened, reversed, or rendered irrelevant by uncertainty, accountability, motivation, group identity, relationship closeness, or the availability of individuating information. The Topic should consequently be retrieved with its conditions rather than as an unconditional rule. This preserves scientific precision and prevents a social-psychological tendency from being transformed into a deterministic statement about a person or group. The most useful interpretation is the one that specifies what happens, for whom, under which circumstances, and through which plausible process.
+### Analytic precision
+
+A useful test of Fundamental attribution error separates perception, interpretation, and behavior. A person can perceive a social cue accurately but interpret its meaning differently, or can interpret it similarly while choosing different behavior because the social costs differ. Keeping these stages separate prevents an observed action from being treated as direct evidence of one underlying psychological state.
+
 ## 4. Relationship to This Chapter
 
 This Topic is a specific attribution bias within the broader attribution cluster. It should be retrieved when the question concerns dispositional weighting in explanations of others' behavior.
@@ -770,6 +749,10 @@ Temporal structure is especially important. differences between actor and observ
 Measurement should match the psychological claim. If the Topic concerns judgment, researchers should distinguish reported evaluation from behavioral expression; if it concerns behavior, they should distinguish intention from action; if it concerns perception, they should establish an appropriate criterion for accuracy. Socially sensitive constructs are particularly vulnerable to response strategies, demand characteristics, and differences between public and private responses. Multiple methods can therefore be more informative than a single score. Converging evidence is strongest when the measures capture genuinely related components rather than simply repeating the same method.
 
 Boundary conditions are part of the knowledge, not an optional qualification. differences between actor and observer perspectives during causal explanation may be strengthened, weakened, reversed, or rendered irrelevant by uncertainty, accountability, motivation, group identity, relationship closeness, or the availability of individuating information. The Topic should consequently be retrieved with its conditions rather than as an unconditional rule. This preserves scientific precision and prevents a social-psychological tendency from being transformed into a deterministic statement about a person or group. The most useful interpretation is the one that specifies what happens, for whom, under which circumstances, and through which plausible process.
+### Analytic precision
+
+The temporal structure of Actor–observer difference matters because social information accumulates. Initial expectations can guide attention; later interactions can confirm, disconfirm, or revise those expectations. A one-time measurement therefore cannot establish whether a social pattern is stable, developing, or produced by the immediate situation. Repeated observation is particularly valuable when the Topic concerns change, persistence, repair, or escalation.
+
 ## 4. Relationship to This Chapter
 
 This Topic connects internal and external attribution with attribution bias. It is distinct from the fundamental attribution error because it focuses on differences in actor versus observer perspective rather than solely on dispositional overemphasis when judging others.
@@ -840,6 +823,10 @@ Temporal structure is especially important. global favorable impressions spreadi
 Measurement should match the psychological claim. If the Topic concerns judgment, researchers should distinguish reported evaluation from behavioral expression; if it concerns behavior, they should distinguish intention from action; if it concerns perception, they should establish an appropriate criterion for accuracy. Socially sensitive constructs are particularly vulnerable to response strategies, demand characteristics, and differences between public and private responses. Multiple methods can therefore be more informative than a single score. Converging evidence is strongest when the measures capture genuinely related components rather than simply repeating the same method.
 
 Boundary conditions are part of the knowledge, not an optional qualification. global favorable impressions spreading across judgments of other characteristics may be strengthened, weakened, reversed, or rendered irrelevant by uncertainty, accountability, motivation, group identity, relationship closeness, or the availability of individuating information. The Topic should consequently be retrieved with its conditions rather than as an unconditional rule. This preserves scientific precision and prevents a social-psychological tendency from being transformed into a deterministic statement about a person or group. The most useful interpretation is the one that specifies what happens, for whom, under which circumstances, and through which plausible process.
+### Analytic precision
+
+Measurement of Halo effect should match its ontology. A self-report may capture a conscious evaluation, while an observation may capture behavior and a reaction-time or indirect measure may capture a different aspect of processing. These measures can converge without being interchangeable. A precise interpretation states exactly which component was measured and avoids extending that result to unmeasured components.
+
 ## 4. Relationship to This Chapter
 
 Halo effect belongs within person perception and impression formation but has its own canonical entry because it describes a specific pattern of cross-attribute judgment.
@@ -906,6 +893,10 @@ Temporal structure is especially important. global unfavorable impressions sprea
 Measurement should match the psychological claim. If the Topic concerns judgment, researchers should distinguish reported evaluation from behavioral expression; if it concerns behavior, they should distinguish intention from action; if it concerns perception, they should establish an appropriate criterion for accuracy. Socially sensitive constructs are particularly vulnerable to response strategies, demand characteristics, and differences between public and private responses. Multiple methods can therefore be more informative than a single score. Converging evidence is strongest when the measures capture genuinely related components rather than simply repeating the same method.
 
 Boundary conditions are part of the knowledge, not an optional qualification. global unfavorable impressions spreading across judgments of other characteristics may be strengthened, weakened, reversed, or rendered irrelevant by uncertainty, accountability, motivation, group identity, relationship closeness, or the availability of individuating information. The Topic should consequently be retrieved with its conditions rather than as an unconditional rule. This preserves scientific precision and prevents a social-psychological tendency from being transformed into a deterministic statement about a person or group. The most useful interpretation is the one that specifies what happens, for whom, under which circumstances, and through which plausible process.
+### Analytic precision
+
+For Horn effect, context is not merely a nuisance variable. Identity salience, relationship history, power, uncertainty, accountability, group norms, and available alternatives can change the meaning and consequences of the same social cue. The relevant boundary condition should therefore be represented as part of the construct's explanation rather than appended as an afterthought.
+
 ## 4. Relationship to This Chapter
 
 The Topic belongs to impression formation and person judgment. It is distinct from general prejudice or stereotyping because the horn effect concerns spillover from an overall evaluation to other judgments of the same target.
@@ -972,6 +963,10 @@ Temporal structure is especially important. estimating how common one's own resp
 Measurement should match the psychological claim. If the Topic concerns judgment, researchers should distinguish reported evaluation from behavioral expression; if it concerns behavior, they should distinguish intention from action; if it concerns perception, they should establish an appropriate criterion for accuracy. Socially sensitive constructs are particularly vulnerable to response strategies, demand characteristics, and differences between public and private responses. Multiple methods can therefore be more informative than a single score. Converging evidence is strongest when the measures capture genuinely related components rather than simply repeating the same method.
 
 Boundary conditions are part of the knowledge, not an optional qualification. estimating how common one's own response is within a relevant population may be strengthened, weakened, reversed, or rendered irrelevant by uncertainty, accountability, motivation, group identity, relationship closeness, or the availability of individuating information. The Topic should consequently be retrieved with its conditions rather than as an unconditional rule. This preserves scientific precision and prevents a social-psychological tendency from being transformed into a deterministic statement about a person or group. The most useful interpretation is the one that specifies what happens, for whom, under which circumstances, and through which plausible process.
+### Analytic precision
+
+An important distinction for False consensus effect is between individual-level and social-level explanation. A group pattern can emerge from many individuals responding independently to similar conditions, or it can arise through interaction and shared expectations. Network position, communication, norms, and feedback can therefore matter even when the immediate observation concerns a single person's judgment or behavior.
+
 ## 4. Relationship to This Chapter
 
 False consensus is a social-cognitive judgment about other people's attitudes and behavior. It connects with social comparison, social norms, social proof, and self-categorization.
@@ -1046,6 +1041,10 @@ Temporal structure is especially important. evaluative orientations toward socia
 Measurement should match the psychological claim. If the Topic concerns judgment, researchers should distinguish reported evaluation from behavioral expression; if it concerns behavior, they should distinguish intention from action; if it concerns perception, they should establish an appropriate criterion for accuracy. Socially sensitive constructs are particularly vulnerable to response strategies, demand characteristics, and differences between public and private responses. Multiple methods can therefore be more informative than a single score. Converging evidence is strongest when the measures capture genuinely related components rather than simply repeating the same method.
 
 Boundary conditions are part of the knowledge, not an optional qualification. evaluative orientations toward social targets and their strength, accessibility, and stability may be strengthened, weakened, reversed, or rendered irrelevant by uncertainty, accountability, motivation, group identity, relationship closeness, or the availability of individuating information. The Topic should consequently be retrieved with its conditions rather than as an unconditional rule. This preserves scientific precision and prevents a social-psychological tendency from being transformed into a deterministic statement about a person or group. The most useful interpretation is the one that specifies what happens, for whom, under which circumstances, and through which plausible process.
+### Analytic precision
+
+Evidence concerning Attitudes should also distinguish association from causal influence. Social variables are frequently reciprocal: one person's behavior changes another person's response, and that response feeds back into the original person's expectations. Longitudinal, experimental, and naturalistic designs answer different causal questions, so the strength of a conclusion should match the design.
+
 ## 4. Relationship to This Chapter
 
 Attitudes are foundational to attitude formation, attitude change, and the attitude–behavior relationship. They also connect with social identity, prejudice, discrimination, and social influence.
@@ -1118,6 +1117,10 @@ Temporal structure is especially important. the emergence of evaluations through
 Measurement should match the psychological claim. If the Topic concerns judgment, researchers should distinguish reported evaluation from behavioral expression; if it concerns behavior, they should distinguish intention from action; if it concerns perception, they should establish an appropriate criterion for accuracy. Socially sensitive constructs are particularly vulnerable to response strategies, demand characteristics, and differences between public and private responses. Multiple methods can therefore be more informative than a single score. Converging evidence is strongest when the measures capture genuinely related components rather than simply repeating the same method.
 
 Boundary conditions are part of the knowledge, not an optional qualification. the emergence of evaluations through experience, learning, communication, and observation may be strengthened, weakened, reversed, or rendered irrelevant by uncertainty, accountability, motivation, group identity, relationship closeness, or the availability of individuating information. The Topic should consequently be retrieved with its conditions rather than as an unconditional rule. This preserves scientific precision and prevents a social-psychological tendency from being transformed into a deterministic statement about a person or group. The most useful interpretation is the one that specifies what happens, for whom, under which circumstances, and through which plausible process.
+### Analytic precision
+
+The canonical boundary of Attitude formation is preserved by asking what psychological process is actually being explained. A related construct may provide an antecedent, consequence, moderator, or cross-link without becoming part of this Topic's ownership. This prevents social-psychological knowledge from absorbing general cognition, emotion, motivation, development, personality, or decision-making that already has a dedicated canonical home.
+
 ## 4. Relationship to This Chapter
 
 Attitude formation is the developmental/process Topic for how attitudes arise. Attitude change addresses subsequent modification of existing evaluations and should not be collapsed with initial formation.
@@ -1190,6 +1193,10 @@ Temporal structure is especially important. modification of an existing evaluati
 Measurement should match the psychological claim. If the Topic concerns judgment, researchers should distinguish reported evaluation from behavioral expression; if it concerns behavior, they should distinguish intention from action; if it concerns perception, they should establish an appropriate criterion for accuracy. Socially sensitive constructs are particularly vulnerable to response strategies, demand characteristics, and differences between public and private responses. Multiple methods can therefore be more informative than a single score. Converging evidence is strongest when the measures capture genuinely related components rather than simply repeating the same method.
 
 Boundary conditions are part of the knowledge, not an optional qualification. modification of an existing evaluation following new information or experience may be strengthened, weakened, reversed, or rendered irrelevant by uncertainty, accountability, motivation, group identity, relationship closeness, or the availability of individuating information. The Topic should consequently be retrieved with its conditions rather than as an unconditional rule. This preserves scientific precision and prevents a social-psychological tendency from being transformed into a deterministic statement about a person or group. The most useful interpretation is the one that specifies what happens, for whom, under which circumstances, and through which plausible process.
+### Analytic precision
+
+For Attitude change, the key analytic question is whether the observed pattern remains when the most plausible alternative social explanation is controlled. This requires specifying what information was available to the participant, which social relationship or category was salient, and whether the response changed because of the social process itself or because the situation changed in another relevant way.
+
 ## 4. Relationship to This Chapter
 
 Attitude change follows attitude formation conceptually and connects directly with social influence, social norms, persuasion-related processes, and attitude–behavior relationships.
@@ -1260,6 +1267,10 @@ Temporal structure is especially important. the conditions under which evaluatio
 Measurement should match the psychological claim. If the Topic concerns judgment, researchers should distinguish reported evaluation from behavioral expression; if it concerns behavior, they should distinguish intention from action; if it concerns perception, they should establish an appropriate criterion for accuracy. Socially sensitive constructs are particularly vulnerable to response strategies, demand characteristics, and differences between public and private responses. Multiple methods can therefore be more informative than a single score. Converging evidence is strongest when the measures capture genuinely related components rather than simply repeating the same method.
 
 Boundary conditions are part of the knowledge, not an optional qualification. the conditions under which evaluations correspond with actual behavior may be strengthened, weakened, reversed, or rendered irrelevant by uncertainty, accountability, motivation, group identity, relationship closeness, or the availability of individuating information. The Topic should consequently be retrieved with its conditions rather than as an unconditional rule. This preserves scientific precision and prevents a social-psychological tendency from being transformed into a deterministic statement about a person or group. The most useful interpretation is the one that specifies what happens, for whom, under which circumstances, and through which plausible process.
+### Analytic precision
+
+A useful test of Attitude–behavior relationship separates perception, interpretation, and behavior. A person can perceive a social cue accurately but interpret its meaning differently, or can interpret it similarly while choosing different behavior because the social costs differ. Keeping these stages separate prevents an observed action from being treated as direct evidence of one underlying psychological state.
+
 ## 4. Relationship to This Chapter
 
 This is explicitly a relationship/application node rather than a replacement for either attitudes or behavior. It connects attitudes to action while preserving the canonical ownership of behavior elsewhere.
@@ -1330,6 +1341,10 @@ Temporal structure is especially important. using other people as reference poin
 Measurement should match the psychological claim. If the Topic concerns judgment, researchers should distinguish reported evaluation from behavioral expression; if it concerns behavior, they should distinguish intention from action; if it concerns perception, they should establish an appropriate criterion for accuracy. Socially sensitive constructs are particularly vulnerable to response strategies, demand characteristics, and differences between public and private responses. Multiple methods can therefore be more informative than a single score. Converging evidence is strongest when the measures capture genuinely related components rather than simply repeating the same method.
 
 Boundary conditions are part of the knowledge, not an optional qualification. using other people as reference points for evaluating one's own standing may be strengthened, weakened, reversed, or rendered irrelevant by uncertainty, accountability, motivation, group identity, relationship closeness, or the availability of individuating information. The Topic should consequently be retrieved with its conditions rather than as an unconditional rule. This preserves scientific precision and prevents a social-psychological tendency from being transformed into a deterministic statement about a person or group. The most useful interpretation is the one that specifies what happens, for whom, under which circumstances, and through which plausible process.
+### Analytic precision
+
+The temporal structure of Social comparison matters because social information accumulates. Initial expectations can guide attention; later interactions can confirm, disconfirm, or revise those expectations. A one-time measurement therefore cannot establish whether a social pattern is stable, developing, or produced by the immediate situation. Repeated observation is particularly valuable when the Topic concerns change, persistence, repair, or escalation.
+
 ## 4. Relationship to This Chapter
 
 Social comparison connects social cognition with self-evaluation, identity, attitudes, group processes, and motivation while remaining a specifically interpersonal comparison process.
@@ -1400,6 +1415,10 @@ Temporal structure is especially important. making a social category salient as 
 Measurement should match the psychological claim. If the Topic concerns judgment, researchers should distinguish reported evaluation from behavioral expression; if it concerns behavior, they should distinguish intention from action; if it concerns perception, they should establish an appropriate criterion for accuracy. Socially sensitive constructs are particularly vulnerable to response strategies, demand characteristics, and differences between public and private responses. Multiple methods can therefore be more informative than a single score. Converging evidence is strongest when the measures capture genuinely related components rather than simply repeating the same method.
 
 Boundary conditions are part of the knowledge, not an optional qualification. making a social category salient as a basis for self-definition may be strengthened, weakened, reversed, or rendered irrelevant by uncertainty, accountability, motivation, group identity, relationship closeness, or the availability of individuating information. The Topic should consequently be retrieved with its conditions rather than as an unconditional rule. This preserves scientific precision and prevents a social-psychological tendency from being transformed into a deterministic statement about a person or group. The most useful interpretation is the one that specifies what happens, for whom, under which circumstances, and through which plausible process.
+### Analytic precision
+
+Measurement of Self-categorization should match its ontology. A self-report may capture a conscious evaluation, while an observation may capture behavior and a reaction-time or indirect measure may capture a different aspect of processing. These measures can converge without being interchangeable. A precise interpretation states exactly which component was measured and avoids extending that result to unmeasured components.
+
 ## 4. Relationship to This Chapter
 
 Self-categorization bridges social cognition with social identity, ingroup/outgroup processes, stereotypes, norms, and social influence. It is distinct from the broader concept of social identity because this Topic focuses on the categorization process that makes a particular social self-definition salient.
@@ -1472,6 +1491,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For group-based self-definition and the changing salience of membership as part of the self, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+For Social identity, context is not merely a nuisance variable. Identity salience, relationship history, power, uncertainty, accountability, group norms, and available alternatives can change the meaning and consequences of the same social cue. The relevant boundary condition should therefore be represented as part of the construct's explanation rather than appended as an afterthought.
+
 ## 4. Relationship to This Chapter
 
 Social identity is the broader construct for group-based self-definition. Self-categorization describes the process through which a category becomes salient; role identity focuses on socially organized roles; ingroup and outgroup processes describe relations among categorized groups.
@@ -1542,6 +1565,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For the internalized meaning of socially organized positions and the expectations attached to them, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+An important distinction for Role identity is between individual-level and social-level explanation. A group pattern can emerge from many individuals responding independently to similar conditions, or it can arise through interaction and shared expectations. Network position, communication, norms, and feedback can therefore matter even when the immediate observation concerns a single person's judgment or behavior.
+
 ## 4. Relationship to This Chapter
 
 Role identity is a specific form of social identity organized around a social position or role. It connects with social norms, authority, leadership, status, relationships, and self-categorization.
@@ -1612,6 +1639,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For representing a socially meaningful category as including oneself, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+Evidence concerning Ingroup should also distinguish association from causal influence. Social variables are frequently reciprocal: one person's behavior changes another person's response, and that response feeds back into the original person's expectations. Longitudinal, experimental, and naturalistic designs answer different causal questions, so the strength of a conclusion should match the design.
+
 ## 4. Relationship to This Chapter
 
 Ingroup is one pole of the social categorization system that also includes outgroup. Ingroup favoritism, outgroup homogeneity, stereotypes, prejudice, and differential treatment describe particular consequences or related processes.
@@ -1680,6 +1711,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For representing a socially meaningful category as outside the relevant ingroup, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+The canonical boundary of Outgroup is preserved by asking what psychological process is actually being explained. A related construct may provide an antecedent, consequence, moderator, or cross-link without becoming part of this Topic's ownership. This prevents social-psychological knowledge from absorbing general cognition, emotion, motivation, development, personality, or decision-making that already has a dedicated canonical home.
+
 ## 4. Relationship to This Chapter
 
 Outgroup is paired with ingroup and provides the relational basis for ingroup favoritism, outgroup homogeneity, stereotypes, prejudice, and intergroup threat.
@@ -1746,6 +1781,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For preferential evaluation, trust, allocation, or cooperation directed toward ingroup members, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+For Ingroup favoritism, the key analytic question is whether the observed pattern remains when the most plausible alternative social explanation is controlled. This requires specifying what information was available to the participant, which social relationship or category was salient, and whether the response changed because of the social process itself or because the situation changed in another relevant way.
+
 ## 4. Relationship to This Chapter
 
 Ingroup favoritism is a consequence of social categorization and identity processes. It is distinct from prejudice because favoritism can occur without negative attitudes toward an outgroup.
@@ -1775,7 +1814,7 @@ A rigorous measure compares treatment of ingroup and outgroup members under comp
 
 ---
 
-# 26. c`QU]GKPAJITOGRKLANEITY
+# 26. Outgroup homogeneity
 
 ## 1. Purpose
 
@@ -1813,6 +1852,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For perceiving lower variability among outside-group members than among own-group members, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+A useful test of Outgroup homogeneity separates perception, interpretation, and behavior. A person can perceive a social cue accurately but interpret its meaning differently, or can interpret it similarly while choosing different behavior because the social costs differ. Keeping these stages separate prevents an observed action from being treated as direct evidence of one underlying psychological state.
+
 ## 4. Relationship to This Chapter
 
 This Topic is a social-cognitive consequence of categorization and can contribute to generalized expectations by reducing attention to individual differences.
@@ -1882,6 +1925,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For organizing people into socially meaningful categories that simplify social information, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+The temporal structure of Social categorization matters because social information accumulates. Initial expectations can guide attention; later interactions can confirm, disconfirm, or revise those expectations. A one-time measurement therefore cannot establish whether a social pattern is stable, developing, or produced by the immediate situation. Repeated observation is particularly valuable when the Topic concerns change, persistence, repair, or escalation.
+
 ## 4. Relationship to This Chapter
 
 Social categorization is broader than self-categorization because it includes categorization of other people. It provides a foundation for social identity, ingroup/outgroup distinctions, stereotypes, and intergroup evaluation.
@@ -1952,6 +1999,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For generalized beliefs and expectations attached to members of social groups, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+Measurement of Stereotype should match its ontology. A self-report may capture a conscious evaluation, while an observation may capture behavior and a reaction-time or indirect measure may capture a different aspect of processing. These measures can converge without being interchangeable. A precise interpretation states exactly which component was measured and avoids extending that result to unmeasured components.
+
 ## 4. Relationship to This Chapter
 
 Stereotype is a cognitive representation within the identity-and-groups cluster. Evaluative responses and differential treatment are related but separate Topics.
@@ -1978,6 +2029,132 @@ Specific personality, ability, and clinical constructs to their canonical owners
 
 Evidence should specify whether it measures accessibility, endorsement, application, or behavioral consequences. These are different constructs. A response-time association should not automatically be interpreted as conscious endorsement. Studies should also test whether person-specific information changes judgments, because this helps establish whether category expectations dominated available evidence.
 
+
+---
+
+# 29. Prejudice
+
+## 1. Purpose
+
+Prejudice addresses evaluative responses toward people because of their perceived membership in a social group.
+
+## 2. Definition
+
+Prejudice is an evaluative attitude or affective response toward individuals or groups that is based substantially on perceived group membership.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Prejudice can involve favorable, unfavorable, ambivalent, explicit, or subtle evaluations. It can include affective reactions, judgments, and expectations, and these components can vary independently.
+
+Prejudice differs from adjacent concepts. A stereotype is primarily a generalized representation or expectation; prejudice is evaluative; discrimination concerns differential treatment. One can occur without the others.
+
+### Mechanism
+
+Prejudice can develop through social learning, categorization, perceived threat, competition, identity processes, norm transmission, and repeated communication about groups.
+
+### Moderators / Boundary Conditions
+
+Expression depends on group norms, status, perceived threat, contact, identification, accountability, and the visibility of the social context.
+
+### Evidence Status
+
+Research uses explicit reports, behavioral indicators, affective measures, and performance-based measures. Different methods capture different aspects of evaluation.
+
+### Analytic precision
+
+For Prejudice, context is not merely a nuisance variable. Identity salience, relationship history, power, uncertainty, accountability, group norms, and available alternatives can change the meaning and consequences of the same social cue. The relevant boundary condition should therefore be represented as part of the construct's explanation rather than appended as an afterthought.
+
+## 4. Relationship to This Chapter
+
+Prejudice is the evaluative component of the identity-and-groups cluster and should be read alongside Stereotype and Discrimination.
+
+## 5. Boundaries
+
+### Owns
+
+Group-based evaluative attitudes and affective responses.
+
+### Defers
+
+General attitudes to Attitudes, generalized beliefs to Stereotype, differential treatment to Discrimination, and clinical stigma to its canonical owner.
+
+## 6. Key Principles
+
+- Prejudice concerns evaluation associated with group membership.
+- Stereotypes, prejudice, and discrimination are distinct.
+- Expression depends on context.
+- Measurement method affects interpretation.
+- Group-based evaluation does not automatically determine behavior.
+
+### Topic-specific evidence layer
+
+Strong evidence establishes that group membership contributes to the evaluation while controlling relevant person-specific information. Experimental designs can separate category information from individual information, while longitudinal evidence can examine change after contact or changing norms.
+
+---
+
+# 30. Discrimination
+
+## 1. Purpose
+
+Discrimination addresses differential treatment of people based substantially on perceived social group membership.
+
+## 2. Definition
+
+Discrimination is differential behavior, treatment, allocation, access, or opportunity toward individuals or groups on the basis of perceived group membership.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Discrimination can involve selection, allocation, access, interpersonal treatment, exclusion, punishment, assistance, evaluation, or opportunity. It can be interpersonal or embedded within organizational procedures.
+
+### Mechanism
+
+Possible mechanisms include stereotypes, attitudes, norms, discretion, incentives, status expectations, institutional practices, and unequal access to information or resources.
+
+### Moderators / Boundary Conditions
+
+Accountability, transparency, decision structure, discretion, resource scarcity, group status, social norms, and person-specific information can alter differential treatment.
+
+### Evidence Status
+
+Strong evidence compares otherwise comparable targets while varying relevant group membership or controls alternative explanations. Audit studies, correspondence studies, experiments, and longitudinal analyses provide different forms of evidence.
+
+### Outcome versus process
+
+Unequal outcomes do not automatically establish discrimination because groups can differ in other relevant characteristics. Conversely, differential treatment can exist even when aggregate outcomes appear similar.
+
+### Analytic precision
+
+An important distinction for Discrimination is between individual-level and social-level explanation. A group pattern can emerge from many individuals responding independently to similar conditions, or it can arise through interaction and shared expectations. Network position, communication, norms, and feedback can therefore matter even when the immediate observation concerns a single person's judgment or behavior.
+
+## 4. Relationship to This Chapter
+
+Discrimination is the behavioral counterpart to stereotypes and prejudice. Treatment cannot be inferred automatically from reported beliefs.
+
+## 5. Boundaries
+
+### Owns
+
+Social-psychological differential treatment based on perceived group membership.
+
+### Defers
+
+Institution-specific legal definitions, formal policy enforcement, and broad structural inequality analysis.
+
+## 6. Key Principles
+
+- Discrimination concerns differential treatment.
+- Unequal outcomes require causal interpretation.
+- Intent and behavioral effect are distinct questions.
+- Institutional procedures can shape treatment.
+- Person-specific evidence can reduce category-based decisions.
+
+### Topic-specific evidence layer
+
+The strongest designs establish comparable cases and vary the relevant category while keeping other information as constant as possible. Evidence about behavioral difference can be strong even when private motive remains uncertain.
 
 ---
 
@@ -2025,6 +2202,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For evaluative associations expressed through performance or behavior without requiring deliberate report, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+Evidence concerning Implicit attitudes should also distinguish association from causal influence. Social variables are frequently reciprocal: one person's behavior changes another person's response, and that response feeds back into the original person's expectations. Longitudinal, experimental, and naturalistic designs answer different causal questions, so the strength of a conclusion should match the design.
+
 ## 4. Relationship to This Chapter
 
 Implicit attitudes belong between Attitudes and intergroup processes because they concern evaluative responses that may operate with limited deliberate control.
@@ -2091,6 +2272,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For concern about confirming a relevant negative group stereotype in an evaluative setting, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+The canonical boundary of Stereotype threat is preserved by asking what psychological process is actually being explained. A related construct may provide an antecedent, consequence, moderator, or cross-link without becoming part of this Topic's ownership. This prevents social-psychological knowledge from absorbing general cognition, emotion, motivation, development, personality, or decision-making that already has a dedicated canonical home.
+
 ## 4. Relationship to This Chapter
 
 Stereotype threat connects stereotypes with performance and identity processes. It does not replace explanations involving prior preparation, opportunity, unequal treatment, or other determinants of performance.
@@ -2157,6 +2342,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For perceived vulnerability of an important social identity to devaluation, exclusion, or negative judgment, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+For Social identity threat, the key analytic question is whether the observed pattern remains when the most plausible alternative social explanation is controlled. This requires specifying what information was available to the participant, which social relationship or category was salient, and whether the response changed because of the social process itself or because the situation changed in another relevant way.
+
 ## 4. Relationship to This Chapter
 
 Social identity threat is broader than stereotype threat because threat can involve devaluation or belonging without requiring a specific performance stereotype.
@@ -2183,6 +2372,130 @@ General stress, anxiety, self-esteem, and organizational climate to their canoni
 
 Evidence should identify the threatened identity, the contextual cue, and the proposed psychological response. Self-report, behavioral, and longitudinal evidence can be combined to distinguish momentary threat from chronic disengagement. A negative outcome alone is insufficient; the identity-relevant mechanism must be demonstrated or plausibly established.
 
+
+---
+
+# 34. Dehumanization
+
+## 1. Purpose
+
+Dehumanization addresses social judgments that reduce recognition of another person or group as possessing characteristics associated with full human status.
+
+## 2. Definition
+
+Dehumanization is the representation or treatment of people or groups as lacking, to a greater or lesser degree, characteristics understood as constitutive of full human status.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Different forms can involve denial of uniquely human characteristics, denial of human nature, animalistic representation, mechanistic representation, or other reductions in perceived humanity.
+
+### Mechanism
+
+Categorization, intergroup conflict, perceived threat, extreme social distance, status differences, hostile communication, and social norms can contribute to reduced humanization.
+
+### Moderators / Boundary Conditions
+
+Effects depend on group relations, status, conflict, norms, language, institutional context, identity, and access to individuating information.
+
+### Evidence Status
+
+Research documents reduced humanization in intergroup contexts, but definitions and measures differ. Interpretation requires specifying what aspect of humanity is being assessed.
+
+### Consequences
+
+Reduced humanization can be associated with lower empathy, greater social distance, and harsher responses in some contexts, although these pathways should not be treated as automatic.
+
+### Analytic precision
+
+A useful test of Dehumanization separates perception, interpretation, and behavior. A person can perceive a social cue accurately but interpret its meaning differently, or can interpret it similarly while choosing different behavior because the social costs differ. Keeping these stages separate prevents an observed action from being treated as direct evidence of one underlying psychological state.
+
+## 4. Relationship to This Chapter
+
+Dehumanization is an intergroup representational phenomenon related to prejudice, identity threat, and social exclusion.
+
+## 5. Boundaries
+
+### Owns
+
+Social-psychological reduction or denial of perceived human status.
+
+### Defers
+
+Clinical, legal, historical, and institutional analyses to their appropriate domains.
+
+## 6. Key Principles
+
+- The phenomenon concerns perceived human status.
+- Different forms should be distinguished.
+- Negative evaluation alone is not automatically dehumanization.
+- Context and intergroup relations matter.
+- Behavioral consequences require separate evidence.
+
+### Topic-specific evidence layer
+
+A rigorous account identifies the specific human characteristics being denied or minimized and distinguishes representation from behavior. A low score on one measure does not demonstrate every possible form of dehumanization.
+
+---
+
+# 35. Stigma
+
+## 1. Purpose
+
+Stigma addresses social processes through which a characteristic, identity, condition, or label becomes associated with devaluation, stereotyping, social distance, or status loss.
+
+## 2. Definition
+
+Stigma is a social process in which a characteristic or social identity is marked as discrediting or devalued within a particular social context, producing labeling, stereotyping, separation, status consequences, or differential treatment.
+
+## 3. Core Understanding
+
+### Components / Dimensions
+
+Stigma can be public, anticipated, internalized, enacted, or embedded in social structures. These forms are related but not interchangeable.
+
+### Mechanism
+
+Categorization creates a distinction; socially shared meanings attach expectations to that category; norms and power relations can then shape social distance and treatment. Repeated experiences can alter how a person anticipates future interactions and disclosure.
+
+### Moderators / Boundary Conditions
+
+Visibility, controllability beliefs, group norms, social support, institutional context, status, disclosure, identity centrality, and opportunities for concealment affect stigma.
+
+### Evidence Status
+
+Stigma is documented across many settings, but its form and consequences vary substantially. A characteristic can be stigmatized in one environment and accepted in another.
+
+### Analytic precision
+
+The temporal structure of Stigma matters because social information accumulates. Initial expectations can guide attention; later interactions can confirm, disconfirm, or revise those expectations. A one-time measurement therefore cannot establish whether a social pattern is stable, developing, or produced by the immediate situation. Repeated observation is particularly valuable when the Topic concerns change, persistence, repair, or escalation.
+
+## 4. Relationship to This Chapter
+
+This chapter owns general social-psychological stigma processes. Clinical stigma associated specifically with psychopathology remains with the clinical canonical owner.
+
+## 5. Boundaries
+
+### Owns
+
+General social-psychological processes of labeling, devaluation, social distance, and stigma-related treatment.
+
+### Defers
+
+Clinical stigma specific to mental disorder and treatment to Chapter 1.19.
+
+## 6. Key Principles
+
+- Stigma is context-dependent.
+- Labeling, stereotyping, separation, and treatment are related but distinct.
+- Anticipated stigma can matter without overt rejection.
+- Visibility and controllability beliefs alter experience.
+- Institutional and interpersonal stigma can operate differently.
+
+### Topic-specific evidence layer
+
+Evidence should identify whether it measures public attitudes, anticipated stigma, internalized stigma, enacted treatment, or structural processes. These cannot be substituted for one another.
 
 ---
 
@@ -2228,6 +2541,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For the general process by which social information, expectations, or relationships change behavior, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+Measurement of Social influence should match its ontology. A self-report may capture a conscious evaluation, while an observation may capture behavior and a reaction-time or indirect measure may capture a different aspect of processing. These measures can converge without being interchangeable. A precise interpretation states exactly which component was measured and avoids extending that result to unmeasured components.
+
 ## 4. Relationship to This Chapter
 
 Social influence is the umbrella for conformity, compliance, obedience, informational and normative influence, minority influence, social proof, norms, and authority.
@@ -2294,6 +2611,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For movement toward a group's prevailing response, expectation, or norm, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+For Conformity, context is not merely a nuisance variable. Identity salience, relationship history, power, uncertainty, accountability, group norms, and available alternatives can change the meaning and consequences of the same social cue. The relevant boundary condition should therefore be represented as part of the construct's explanation rather than appended as an afterthought.
+
 ## 4. Relationship to This Chapter
 
 Conformity is a specific social-influence process and should be distinguished from compliance, obedience, and internalized norm adherence.
@@ -2360,6 +2681,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For behavioral change following an interpersonal request without requiring formal authority, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+An important distinction for Compliance is between individual-level and social-level explanation. A group pattern can emerge from many individuals responding independently to similar conditions, or it can arise through interaction and shared expectations. Network position, communication, norms, and feedback can therefore matter even when the immediate observation concerns a single person's judgment or behavior.
+
 ## 4. Relationship to This Chapter
 
 Compliance is a form of social influence distinct from conformity and obedience.
@@ -2426,6 +2751,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For behavior performed in response to a perceived authority directive, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+Evidence concerning Obedience should also distinguish association from causal influence. Social variables are frequently reciprocal: one person's behavior changes another person's response, and that response feeds back into the original person's expectations. Longitudinal, experimental, and naturalistic designs answer different causal questions, so the strength of a conclusion should match the design.
+
 ## 4. Relationship to This Chapter
 
 Obedience is a specific influence process involving authority, distinct from ordinary compliance and conformity.
@@ -2492,6 +2821,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For using another person's judgment or behavior as information for resolving uncertainty, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+The canonical boundary of Informational influence is preserved by asking what psychological process is actually being explained. A related construct may provide an antecedent, consequence, moderator, or cross-link without becoming part of this Topic's ownership. This prevents social-psychological knowledge from absorbing general cognition, emotion, motivation, development, personality, or decision-making that already has a dedicated canonical home.
+
 ## 4. Relationship to This Chapter
 
 Informational influence is one mechanism of conformity and a contrast to normative influence.
@@ -2558,6 +2891,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For adjusting behavior because social approval, acceptance, or rejection matters, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+For Normative influence, the key analytic question is whether the observed pattern remains when the most plausible alternative social explanation is controlled. This requires specifying what information was available to the participant, which social relationship or category was salient, and whether the response changed because of the social process itself or because the situation changed in another relevant way.
+
 ## 4. Relationship to This Chapter
 
 Normative influence contrasts with informational influence but can operate simultaneously with it.
@@ -2624,6 +2961,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For a minority position changing the judgments, norms, or practices of a larger group, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+A useful test of Minority influence separates perception, interpretation, and behavior. A person can perceive a social cue accurately but interpret its meaning differently, or can interpret it similarly while choosing different behavior because the social costs differ. Keeping these stages separate prevents an observed action from being treated as direct evidence of one underlying psychological state.
+
 ## 4. Relationship to This Chapter
 
 Minority influence complements conformity and demonstrates that social influence is not inherently one-directional.
@@ -2690,6 +3031,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For using other people's observable behavior as evidence about what is appropriate or effective, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+The temporal structure of Social proof matters because social information accumulates. Initial expectations can guide attention; later interactions can confirm, disconfirm, or revise those expectations. A one-time measurement therefore cannot establish whether a social pattern is stable, developing, or produced by the immediate situation. Repeated observation is particularly valuable when the Topic concerns change, persistence, repair, or escalation.
+
 ## 4. Relationship to This Chapter
 
 Social proof overlaps with informational influence and norms but emphasizes observed behavior as evidence.
@@ -2756,6 +3101,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For shared expectations about what people commonly do or what they ought to do, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+Measurement of Social norms should match its ontology. A self-report may capture a conscious evaluation, while an observation may capture behavior and a reaction-time or indirect measure may capture a different aspect of processing. These measures can converge without being interchangeable. A precise interpretation states exactly which component was measured and avoids extending that result to unmeasured components.
+
 ## 4. Relationship to This Chapter
 
 Norms connect social influence with conformity, normative influence, roles, group processes, and collective behavior.
@@ -2822,6 +3171,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For social responses that maintain or correct behavior relative to a norm, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+For Norm enforcement, context is not merely a nuisance variable. Identity salience, relationship history, power, uncertainty, accountability, group norms, and available alternatives can change the meaning and consequences of the same social cue. The relevant boundary condition should therefore be represented as part of the construct's explanation rather than appended as an afterthought.
+
 ## 4. Relationship to This Chapter
 
 Norm enforcement connects norms with compliance, group processes, authority, status, and collective behavior.
@@ -2889,6 +3242,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For behavioral expectations associated with positions occupied in groups and relationships, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+An important distinction for Social roles is between individual-level and social-level explanation. A group pattern can emerge from many individuals responding independently to similar conditions, or it can arise through interaction and shared expectations. Network position, communication, norms, and feedback can therefore matter even when the immediate observation concerns a single person's judgment or behavior.
+
 ## 4. Relationship to This Chapter
 
 Social roles connect identity, norms, authority, group processes, leadership, and relationships.
@@ -2955,6 +3312,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For socially recognized legitimate power to direct, decide, or regulate behavior, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+Evidence concerning Authority should also distinguish association from causal influence. Social variables are frequently reciprocal: one person's behavior changes another person's response, and that response feeds back into the original person's expectations. Longitudinal, experimental, and naturalistic designs answer different causal questions, so the strength of a conclusion should match the design.
+
 ## 4. Relationship to This Chapter
 
 Authority is central to obedience and relevant to leadership, status hierarchy, group decision-making, and norm enforcement.
@@ -3023,6 +3384,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For psychological processes produced through interaction and membership within groups, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+The canonical boundary of Group processes is preserved by asking what psychological process is actually being explained. A related construct may provide an antecedent, consequence, moderator, or cross-link without becoming part of this Topic's ownership. This prevents social-psychological knowledge from absorbing general cognition, emotion, motivation, development, personality, or decision-making that already has a dedicated canonical home.
+
 ## 4. Relationship to This Chapter
 
 This Topic organizes group cohesion, polarization, groupthink, facilitation, loafing, deindividuation, collective behavior, decision-making, leadership, status, power, action, and networks.
@@ -3089,6 +3454,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For attachment, solidarity, and coordinated unity within a group, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+For Group cohesion, the key analytic question is whether the observed pattern remains when the most plausible alternative social explanation is controlled. This requires specifying what information was available to the participant, which social relationship or category was salient, and whether the response changed because of the social process itself or because the situation changed in another relevant way.
+
 ## 4. Relationship to This Chapter
 
 Cohesion connects group identity, norms, leadership, cooperation, conflict, and collective action.
@@ -3155,6 +3524,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For movement toward a more extreme position following group interaction, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+A useful test of Group polarization separates perception, interpretation, and behavior. A person can perceive a social cue accurately but interpret its meaning differently, or can interpret it similarly while choosing different behavior because the social costs differ. Keeping these stages separate prevents an observed action from being treated as direct evidence of one underlying psychological state.
+
 ## 4. Relationship to This Chapter
 
 Polarization is a group process distinct from conformity because the outcome can become more extreme than the initial individual positions.
@@ -3221,6 +3594,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For consensus pressure that reduces critical examination of alternatives in group decisions, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+The temporal structure of Groupthink matters because social information accumulates. Initial expectations can guide attention; later interactions can confirm, disconfirm, or revise those expectations. A one-time measurement therefore cannot establish whether a social pattern is stable, developing, or produced by the immediate situation. Repeated observation is particularly valuable when the Topic concerns change, persistence, repair, or escalation.
+
 ## 4. Relationship to This Chapter
 
 Groupthink connects cohesion, leadership, conformity, norms, and group decision-making.
@@ -3287,6 +3664,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For changes in performance associated with social presence or evaluation, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+Measurement of Social facilitation should match its ontology. A self-report may capture a conscious evaluation, while an observation may capture behavior and a reaction-time or indirect measure may capture a different aspect of processing. These measures can converge without being interchangeable. A precise interpretation states exactly which component was measured and avoids extending that result to unmeasured components.
+
 ## 4. Relationship to This Chapter
 
 Social facilitation is a group-performance process and contrasts with social loafing.
@@ -3353,6 +3734,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For reduced individual effort when personal contribution is less identifiable in collective work, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+For Social loafing, context is not merely a nuisance variable. Identity salience, relationship history, power, uncertainty, accountability, group norms, and available alternatives can change the meaning and consequences of the same social cue. The relevant boundary condition should therefore be represented as part of the construct's explanation rather than appended as an afterthought.
+
 ## 4. Relationship to This Chapter
 
 Social loafing is a group-performance process distinct from coordination loss and from social facilitation.
@@ -3419,6 +3804,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For reduced individual self-focus or accountability within a group or anonymous context, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+An important distinction for Deindividuation is between individual-level and social-level explanation. A group pattern can emerge from many individuals responding independently to similar conditions, or it can arise through interaction and shared expectations. Network position, communication, norms, and feedback can therefore matter even when the immediate observation concerns a single person's judgment or behavior.
+
 ## 4. Relationship to This Chapter
 
 Deindividuation connects group immersion, norms, identity, anonymity, and collective behavior.
@@ -3486,6 +3875,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For emergent multi-person action shaped by shared circumstances and interaction, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+Evidence concerning Collective behavior should also distinguish association from causal influence. Social variables are frequently reciprocal: one person's behavior changes another person's response, and that response feeds back into the original person's expectations. Longitudinal, experimental, and naturalistic designs answer different causal questions, so the strength of a conclusion should match the design.
+
 ## 4. Relationship to This Chapter
 
 Collective behavior connects group processes, social influence, norms, identity, social networks, and collective action.
@@ -3552,6 +3945,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For combining information, preferences, and judgments when a group reaches a collective choice, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+The canonical boundary of Group decision-making is preserved by asking what psychological process is actually being explained. A related construct may provide an antecedent, consequence, moderator, or cross-link without becoming part of this Topic's ownership. This prevents social-psychological knowledge from absorbing general cognition, emotion, motivation, development, personality, or decision-making that already has a dedicated canonical home.
+
 ## 4. Relationship to This Chapter
 
 This Topic handles the social manifestation of decision-making. The canonical general decision-making owner remains Chapter 1.10.
@@ -3618,6 +4015,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For influence processes through which people direct group coordination toward shared goals, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+For Leadership, the key analytic question is whether the observed pattern remains when the most plausible alternative social explanation is controlled. This requires specifying what information was available to the participant, which social relationship or category was salient, and whether the response changed because of the social process itself or because the situation changed in another relevant way.
+
 ## 4. Relationship to This Chapter
 
 Leadership connects authority, status, group cohesion, norms, influence, power, and group decision-making.
@@ -3684,6 +4085,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For socially recognized differences in prestige, respect, esteem, and expected influence, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+A useful test of Status hierarchy separates perception, interpretation, and behavior. A person can perceive a social cue accurately but interpret its meaning differently, or can interpret it similarly while choosing different behavior because the social costs differ. Keeping these stages separate prevents an observed action from being treated as direct evidence of one underlying psychological state.
+
 ## 4. Relationship to This Chapter
 
 Status hierarchy connects leadership, power dynamics, group decision-making, norms, and social identity.
@@ -3750,6 +4155,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For influence produced by asymmetric dependence and control over relevant outcomes, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+The temporal structure of Power dynamics matters because social information accumulates. Initial expectations can guide attention; later interactions can confirm, disconfirm, or revise those expectations. A one-time measurement therefore cannot establish whether a social pattern is stable, developing, or produced by the immediate situation. Repeated observation is particularly valuable when the Topic concerns change, persistence, repair, or escalation.
+
 ## 4. Relationship to This Chapter
 
 Power dynamics connect status, authority, leadership, conflict, cooperation, relationships, and collective action.
@@ -3816,6 +4225,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For coordinated participation aimed at outcomes that depend on multiple people's actions, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+Measurement of Collective action should match its ontology. A self-report may capture a conscious evaluation, while an observation may capture behavior and a reaction-time or indirect measure may capture a different aspect of processing. These measures can converge without being interchangeable. A precise interpretation states exactly which component was measured and avoids extending that result to unmeasured components.
+
 ## 4. Relationship to This Chapter
 
 Collective action connects identity, cooperation, social norms, networks, leadership, and collective behavior.
@@ -3882,6 +4295,10 @@ Evidence should also separate individual-level and group-level explanations. A g
 A further distinction is between public expression and private psychological change. Social settings can alter what people say or do because social consequences matter even when their underlying judgment remains unchanged. Conversely, repeated interaction can produce genuine internal revision that persists when the social audience disappears. For effects of interpersonal connectivity and network position on information, behavior, and influence, evidence is therefore strongest when private judgments, behavioral choices, and persistence across time are examined separately rather than collapsed into one outcome.
 
 The canonical boundary is equally important. This Topic owns the social-psychological manifestation identified by its definition, while adjacent constructs retain their own owners. That prevents a broad social explanation from absorbing general cognition, motivation, emotion, personality, development, or decision-making. Retrieval should therefore begin with the Topic when the social mechanism is central and redirect to neighboring Topics when the question concerns the underlying general construct. This boundary makes the chapter integrative without making it redundant.
+### Analytic precision
+
+For Social network effects, context is not merely a nuisance variable. Identity salience, relationship history, power, uncertainty, accountability, group norms, and available alternatives can change the meaning and consequences of the same social cue. The relevant boundary condition should therefore be represented as part of the construct's explanation rather than appended as an afterthought.
+
 ## 4. Relationship to This Chapter
 
 Social network effects connect relationships, social influence, collective behavior, norms, cooperation, and collective action.
@@ -3949,6 +4366,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+An important distinction for Interpersonal attraction is between individual-level and social-level explanation. A group pattern can emerge from many individuals responding independently to similar conditions, or it can arise through interaction and shared expectations. Network position, communication, norms, and feedback can therefore matter even when the immediate observation concerns a single person's judgment or behavior.
+
 ## 4. Relationship to This Chapter
 
 Attraction is the broad relationship Topic preceding liking, affiliation, intimacy, adult attachment, love, commitment, and maintenance.
@@ -4015,6 +4436,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+Evidence concerning Liking should also distinguish association from causal influence. Social variables are frequently reciprocal: one person's behavior changes another person's response, and that response feeds back into the original person's expectations. Longitudinal, experimental, and naturalistic designs answer different causal questions, so the strength of a conclusion should match the design.
+
 ## 4. Relationship to This Chapter
 
 Liking is a specific form of attraction and can contribute to affiliation and intimacy.
@@ -4081,6 +4506,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+The canonical boundary of Affiliation is preserved by asking what psychological process is actually being explained. A related construct may provide an antecedent, consequence, moderator, or cross-link without becoming part of this Topic's ownership. This prevents social-psychological knowledge from absorbing general cognition, emotion, motivation, development, personality, or decision-making that already has a dedicated canonical home.
+
 ## 4. Relationship to This Chapter
 
 Affiliation connects attraction and liking with intimacy, belonging, relationships, and social support.
@@ -4147,6 +4576,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+For Intimacy, the key analytic question is whether the observed pattern remains when the most plausible alternative social explanation is controlled. This requires specifying what information was available to the participant, which social relationship or category was salient, and whether the response changed because of the social process itself or because the situation changed in another relevant way.
+
 ## 4. Relationship to This Chapter
 
 Intimacy connects liking, affiliation, adult attachment, love, trust, and relationship maintenance.
@@ -4213,6 +4646,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+A useful test of Attachment in adult relationships separates perception, interpretation, and behavior. A person can perceive a social cue accurately but interpret its meaning differently, or can interpret it similarly while choosing different behavior because the social costs differ. Keeping these stages separate prevents an observed action from being treated as direct evidence of one underlying psychological state.
+
 ## 4. Relationship to This Chapter
 
 This is explicitly an adult relationship manifestation. General attachment and attachment development remain canonical to Chapter 1.15.
@@ -4280,6 +4717,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+The temporal structure of Love matters because social information accumulates. Initial expectations can guide attention; later interactions can confirm, disconfirm, or revise those expectations. A one-time measurement therefore cannot establish whether a social pattern is stable, developing, or produced by the immediate situation. Repeated observation is particularly valuable when the Topic concerns change, persistence, repair, or escalation.
+
 ## 4. Relationship to This Chapter
 
 Love connects attraction, intimacy, adult attachment, commitment, and relationship maintenance.
@@ -4346,6 +4787,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+Measurement of Commitment should match its ontology. A self-report may capture a conscious evaluation, while an observation may capture behavior and a reaction-time or indirect measure may capture a different aspect of processing. These measures can converge without being interchangeable. A precise interpretation states exactly which component was measured and avoids extending that result to unmeasured components.
+
 ## 4. Relationship to This Chapter
 
 Commitment connects love, interdependence, social exchange, equity, maintenance, and dissolution.
@@ -4412,6 +4857,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+For Relationship maintenance, context is not merely a nuisance variable. Identity salience, relationship history, power, uncertainty, accountability, group norms, and available alternatives can change the meaning and consequences of the same social cue. The relevant boundary condition should therefore be represented as part of the construct's explanation rather than appended as an afterthought.
+
 ## 4. Relationship to This Chapter
 
 Maintenance connects commitment, trust, intimacy, conflict, cooperation, equity, and dissolution.
@@ -4478,6 +4927,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+An important distinction for Relationship dissolution is between individual-level and social-level explanation. A group pattern can emerge from many individuals responding independently to similar conditions, or it can arise through interaction and shared expectations. Network position, communication, norms, and feedback can therefore matter even when the immediate observation concerns a single person's judgment or behavior.
+
 ## 4. Relationship to This Chapter
 
 Dissolution connects commitment, satisfaction, conflict, equity, trust, and interdependence.
@@ -4544,6 +4997,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+Evidence concerning Social exchange should also distinguish association from causal influence. Social variables are frequently reciprocal: one person's behavior changes another person's response, and that response feeds back into the original person's expectations. Longitudinal, experimental, and naturalistic designs answer different causal questions, so the strength of a conclusion should match the design.
+
 ## 4. Relationship to This Chapter
 
 Social exchange connects equity, interdependence, reciprocity, commitment, and relationship maintenance.
@@ -4612,6 +5069,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+The canonical boundary of Equity is preserved by asking what psychological process is actually being explained. A related construct may provide an antecedent, consequence, moderator, or cross-link without becoming part of this Topic's ownership. This prevents social-psychological knowledge from absorbing general cognition, emotion, motivation, development, personality, or decision-making that already has a dedicated canonical home.
+
 ## 4. Relationship to This Chapter
 
 Equity connects social exchange, reciprocity, commitment, trust, and conflict.
@@ -4678,6 +5139,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+For Interdependence, the key analytic question is whether the observed pattern remains when the most plausible alternative social explanation is controlled. This requires specifying what information was available to the participant, which social relationship or category was salient, and whether the response changed because of the social process itself or because the situation changed in another relevant way.
+
 ## 4. Relationship to This Chapter
 
 Interdependence connects exchange, reciprocity, cooperation, competition, conflict, commitment, and trust.
@@ -4744,6 +5209,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+A useful test of Reciprocity separates perception, interpretation, and behavior. A person can perceive a social cue accurately but interpret its meaning differently, or can interpret it similarly while choosing different behavior because the social costs differ. Keeping these stages separate prevents an observed action from being treated as direct evidence of one underlying psychological state.
+
 ## 4. Relationship to This Chapter
 
 Reciprocity connects social exchange, cooperation, trust, helping, commitment, and conflict.
@@ -4812,6 +5281,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+The temporal structure of Trust matters because social information accumulates. Initial expectations can guide attention; later interactions can confirm, disconfirm, or revise those expectations. A one-time measurement therefore cannot establish whether a social pattern is stable, developing, or produced by the immediate situation. Repeated observation is particularly valuable when the Topic concerns change, persistence, repair, or escalation.
+
 ## 4. Relationship to This Chapter
 
 Trust connects intimacy, cooperation, reciprocity, commitment, social exchange, and conflict.
@@ -4878,6 +5351,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+Measurement of Trust development should match its ontology. A self-report may capture a conscious evaluation, while an observation may capture behavior and a reaction-time or indirect measure may capture a different aspect of processing. These measures can converge without being interchangeable. A precise interpretation states exactly which component was measured and avoids extending that result to unmeasured components.
+
 ## 4. Relationship to This Chapter
 
 Trust development connects Trust with reciprocity, trust repair, intimacy, cooperation, and commitment.
@@ -4944,6 +5421,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+For Trust repair, context is not merely a nuisance variable. Identity salience, relationship history, power, uncertainty, accountability, group norms, and available alternatives can change the meaning and consequences of the same social cue. The relevant boundary condition should therefore be represented as part of the construct's explanation rather than appended as an afterthought.
+
 ## 4. Relationship to This Chapter
 
 Trust repair connects trust, reciprocity, conflict, relationship maintenance, and commitment.
@@ -5010,6 +5491,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+An important distinction for Cooperation is between individual-level and social-level explanation. A group pattern can emerge from many individuals responding independently to similar conditions, or it can arise through interaction and shared expectations. Network position, communication, norms, and feedback can therefore matter even when the immediate observation concerns a single person's judgment or behavior.
+
 ## 4. Relationship to This Chapter
 
 Cooperation connects reciprocity, trust, social exchange, competition, conflict, collective action, and interdependence.
@@ -5076,6 +5561,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+Evidence concerning Competition should also distinguish association from causal influence. Social variables are frequently reciprocal: one person's behavior changes another person's response, and that response feeds back into the original person's expectations. Longitudinal, experimental, and naturalistic designs answer different causal questions, so the strength of a conclusion should match the design.
+
 ## 4. Relationship to This Chapter
 
 Competition contrasts with cooperation but can coexist with it when actors compete on one dimension and cooperate on another.
@@ -5142,6 +5631,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+The canonical boundary of Conflict is preserved by asking what psychological process is actually being explained. A related construct may provide an antecedent, consequence, moderator, or cross-link without becoming part of this Topic's ownership. This prevents social-psychological knowledge from absorbing general cognition, emotion, motivation, development, personality, or decision-making that already has a dedicated canonical home.
+
 ## 4. Relationship to This Chapter
 
 Conflict connects competition, cooperation, trust, power, equity, relationships, and group processes.
@@ -5209,6 +5702,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+For Aggression, the key analytic question is whether the observed pattern remains when the most plausible alternative social explanation is controlled. This requires specifying what information was available to the participant, which social relationship or category was salient, and whether the response changed because of the social process itself or because the situation changed in another relevant way.
+
 ## 4. Relationship to This Chapter
 
 Aggression connects social norms, conflict, deindividuation, emotion, attribution, and group processes.
@@ -5275,6 +5772,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+A useful test of Prosocial behavior separates perception, interpretation, and behavior. A person can perceive a social cue accurately but interpret its meaning differently, or can interpret it similarly while choosing different behavior because the social costs differ. Keeping these stages separate prevents an observed action from being treated as direct evidence of one underlying psychological state.
+
 ## 4. Relationship to This Chapter
 
 Prosocial behavior is the umbrella for helping, bystander effects, altruism, empathy, moral behavior, and related Topics.
@@ -5341,6 +5842,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+The temporal structure of Helping matters because social information accumulates. Initial expectations can guide attention; later interactions can confirm, disconfirm, or revise those expectations. A one-time measurement therefore cannot establish whether a social pattern is stable, developing, or produced by the immediate situation. Repeated observation is particularly valuable when the Topic concerns change, persistence, repair, or escalation.
+
 ## 4. Relationship to This Chapter
 
 Helping is a specific form of prosocial behavior and connects directly with bystander effects, diffusion of responsibility, empathy, and altruism.
@@ -5407,6 +5912,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+Measurement of Bystander effect should match its ontology. A self-report may capture a conscious evaluation, while an observation may capture behavior and a reaction-time or indirect measure may capture a different aspect of processing. These measures can converge without being interchangeable. A precise interpretation states exactly which component was measured and avoids extending that result to unmeasured components.
+
 ## 4. Relationship to This Chapter
 
 The bystander effect connects helping with diffusion of responsibility, social norms, and social influence.
@@ -5473,6 +5982,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+For Diffusion of responsibility, context is not merely a nuisance variable. Identity salience, relationship history, power, uncertainty, accountability, group norms, and available alternatives can change the meaning and consequences of the same social cue. The relevant boundary condition should therefore be represented as part of the construct's explanation rather than appended as an afterthought.
+
 ## 4. Relationship to This Chapter
 
 Diffusion of responsibility is a mechanism contributing to the bystander effect and relevant to collective action and group decision-making.
@@ -5539,6 +6052,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+An important distinction for Altruism is between individual-level and social-level explanation. A group pattern can emerge from many individuals responding independently to similar conditions, or it can arise through interaction and shared expectations. Network position, communication, norms, and feedback can therefore matter even when the immediate observation concerns a single person's judgment or behavior.
+
 ## 4. Relationship to This Chapter
 
 Altruism is a motivationally defined form of prosocial behavior and connects with empathy and helping.
@@ -5605,6 +6122,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+Evidence concerning Empathy should also distinguish association from causal influence. Social variables are frequently reciprocal: one person's behavior changes another person's response, and that response feeds back into the original person's expectations. Longitudinal, experimental, and naturalistic designs answer different causal questions, so the strength of a conclusion should match the design.
+
 ## 4. Relationship to This Chapter
 
 Empathy connects prosocial behavior, helping, altruism, moral behavior, and emotional contagion.
@@ -5671,6 +6192,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+The canonical boundary of Empathy–altruism relationship is preserved by asking what psychological process is actually being explained. A related construct may provide an antecedent, consequence, moderator, or cross-link without becoming part of this Topic's ownership. This prevents social-psychological knowledge from absorbing general cognition, emotion, motivation, development, personality, or decision-making that already has a dedicated canonical home.
+
 ## 4. Relationship to This Chapter
 
 This is a relationship/application node linking Empathy and Altruism rather than a separate construct owner.
@@ -5737,6 +6262,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+For Moral behavior, the key analytic question is whether the observed pattern remains when the most plausible alternative social explanation is controlled. This requires specifying what information was available to the participant, which social relationship or category was salient, and whether the response changed because of the social process itself or because the situation changed in another relevant way.
+
 ## 4. Relationship to This Chapter
 
 Moral behavior connects moral judgment, moral emotions, prosocial behavior, norms, conformity, obedience, and group processes.
@@ -5803,6 +6332,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+A useful test of Moral judgment separates perception, interpretation, and behavior. A person can perceive a social cue accurately but interpret its meaning differently, or can interpret it similarly while choosing different behavior because the social costs differ. Keeping these stages separate prevents an observed action from being treated as direct evidence of one underlying psychological state.
+
 ## 4. Relationship to This Chapter
 
 Moral judgment connects moral behavior and moral emotions while remaining distinct from actual action.
@@ -5869,6 +6402,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+The temporal structure of Moral emotions matters because social information accumulates. Initial expectations can guide attention; later interactions can confirm, disconfirm, or revise those expectations. A one-time measurement therefore cannot establish whether a social pattern is stable, developing, or produced by the immediate situation. Repeated observation is particularly valuable when the Topic concerns change, persistence, repair, or escalation.
+
 ## 4. Relationship to This Chapter
 
 Moral emotions connect moral judgment, moral behavior, empathy, prosocial behavior, norms, and conflict.
@@ -5935,6 +6472,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+Measurement of Emotional contagion should match its ontology. A self-report may capture a conscious evaluation, while an observation may capture behavior and a reaction-time or indirect measure may capture a different aspect of processing. These measures can converge without being interchangeable. A precise interpretation states exactly which component was measured and avoids extending that result to unmeasured components.
+
 ## 4. Relationship to This Chapter
 
 Emotional contagion connects empathy, social perception, group processes, relationships, and social support.
@@ -6001,6 +6542,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+For Rejection, context is not merely a nuisance variable. Identity salience, relationship history, power, uncertainty, accountability, group norms, and available alternatives can change the meaning and consequences of the same social cue. The relevant boundary condition should therefore be represented as part of the construct's explanation rather than appended as an afterthought.
+
 ## 4. Relationship to This Chapter
 
 Rejection connects belonging, rejection sensitivity, ostracism, loneliness, social exclusion, and social threat.
@@ -6067,6 +6612,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+An important distinction for Rejection sensitivity is between individual-level and social-level explanation. A group pattern can emerge from many individuals responding independently to similar conditions, or it can arise through interaction and shared expectations. Network position, communication, norms, and feedback can therefore matter even when the immediate observation concerns a single person's judgment or behavior.
+
 ## 4. Relationship to This Chapter
 
 Rejection sensitivity connects rejection, belonging, social threat, relationship processes, and loneliness.
@@ -6133,6 +6682,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+Evidence concerning Ostracism should also distinguish association from causal influence. Social variables are frequently reciprocal: one person's behavior changes another person's response, and that response feeds back into the original person's expectations. Longitudinal, experimental, and naturalistic designs answer different causal questions, so the strength of a conclusion should match the design.
+
 ## 4. Relationship to This Chapter
 
 Ostracism is a specific form of social exclusion and connects rejection, belonging, loneliness, and social threat.
@@ -6199,6 +6752,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+The canonical boundary of Belonging is preserved by asking what psychological process is actually being explained. A related construct may provide an antecedent, consequence, moderator, or cross-link without becoming part of this Topic's ownership. This prevents social-psychological knowledge from absorbing general cognition, emotion, motivation, development, personality, or decision-making that already has a dedicated canonical home.
+
 ## 4. Relationship to This Chapter
 
 Belonging connects affiliation, rejection, ostracism, social exclusion, loneliness, identity, and social support.
@@ -6265,6 +6822,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+For Belonging uncertainty, the key analytic question is whether the observed pattern remains when the most plausible alternative social explanation is controlled. This requires specifying what information was available to the participant, which social relationship or category was salient, and whether the response changed because of the social process itself or because the situation changed in another relevant way.
+
 ## 4. Relationship to This Chapter
 
 This Topic links belonging with rejection sensitivity, social identity threat, and social exclusion.
@@ -6331,6 +6892,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+A useful test of Loneliness separates perception, interpretation, and behavior. A person can perceive a social cue accurately but interpret its meaning differently, or can interpret it similarly while choosing different behavior because the social costs differ. Keeping these stages separate prevents an observed action from being treated as direct evidence of one underlying psychological state.
+
 ## 4. Relationship to This Chapter
 
 Loneliness connects affiliation, belonging, rejection, social exclusion, and social support.
@@ -6397,6 +6962,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+The temporal structure of Social exclusion matters because social information accumulates. Initial expectations can guide attention; later interactions can confirm, disconfirm, or revise those expectations. A one-time measurement therefore cannot establish whether a social pattern is stable, developing, or produced by the immediate situation. Repeated observation is particularly valuable when the Topic concerns change, persistence, repair, or escalation.
+
 ## 4. Relationship to This Chapter
 
 Social exclusion connects rejection, ostracism, belonging, loneliness, stigma, and social threat.
@@ -6463,6 +7032,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+Measurement of Social threat should match its ontology. A self-report may capture a conscious evaluation, while an observation may capture behavior and a reaction-time or indirect measure may capture a different aspect of processing. These measures can converge without being interchangeable. A precise interpretation states exactly which component was measured and avoids extending that result to unmeasured components.
+
 ## 4. Relationship to This Chapter
 
 Social threat provides an umbrella link among rejection, belonging uncertainty, identity threat, exclusion, and interpersonal conflict.
@@ -6531,6 +7104,10 @@ Time is another important dimension. Social relationships and group processes ac
 Measurement should match the claim. Perceived support is different from support actually received; trust is different from trustworthiness; loneliness is different from network size; conflict is different from disagreement; and helping is different from inferred altruistic motive. These distinctions protect the chapter from collapsing related constructs into a single broad label. Where possible, behavioral observations, self-reports, partner reports, and temporal data should be considered as complementary rather than interchangeable evidence.
 
 Boundary conditions should be treated as substantive knowledge. Relationship closeness, identity, power, dependence, social norms, visibility, cost, uncertainty, and accountability can alter whether the process appears and what direction it takes. The most useful representation therefore specifies the social conditions under which the mechanism operates and the outcomes it can plausibly affect. This prevents the Topic from becoming a deterministic rule and keeps its canonical scope aligned with the evidence.
+### Analytic precision
+
+For Social support, context is not merely a nuisance variable. Identity salience, relationship history, power, uncertainty, accountability, group norms, and available alternatives can change the meaning and consequences of the same social cue. The relevant boundary condition should therefore be represented as part of the construct's explanation rather than appended as an afterthought.
+
 ## 4. Relationship to This Chapter
 
 Social support connects belonging, relationships, trust, intimacy, coping, prosocial behavior, and social networks.
