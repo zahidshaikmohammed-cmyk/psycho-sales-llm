@@ -125,6 +125,10 @@ Boundary conditions are part of the knowledge, not an optional qualification. fo
 
 An important distinction for Attribution is between individual-level and social-level explanation. A group pattern can emerge from many individuals responding independently to similar conditions, or it can arise through interaction and shared expectations. Network position, communication, norms, and feedback can therefore matter even when the immediate observation concerns a single person's judgment or behavior.
 
+### Canonical retrieval test
+
+A precise account should state whether the phenomenon concerns an immediate state, a repeated interaction pattern, or a relatively stable individual difference. These levels can interact, but evidence for one should not be silently generalized to another.
+
 ## 4. Relationship to This Chapter
 
 Social cognition is the organizing cognitive Topic for the chapter. Social perception, person perception, impression formation, attribution, attitudes, social comparison, self-categorization, and related Topics specify particular forms of social information processing.
@@ -455,6 +459,10 @@ Boundary conditions are part of the knowledge, not an optional qualification. wh
 
 Evidence concerning Internal attribution should also distinguish association from causal influence. Social variables are frequently reciprocal: one person's behavior changes another person's response, and that response feeds back into the original person's expectations. Longitudinal, experimental, and naturalistic designs answer different causal questions, so the strength of a conclusion should match the design.
 
+### Canonical retrieval test
+
+Interpretation should preserve uncertainty about unobserved motives. Observable behavior can establish what happened without establishing why it happened; causal claims require evidence about the pathway connecting social conditions to the observed outcome.
+
 ## 4. Relationship to This Chapter
 
 Internal attribution is one of the two major directional forms of attribution in this chapter. It connects directly with attribution bias and the fundamental attribution error.
@@ -528,6 +536,10 @@ Boundary conditions are part of the knowledge, not an optional qualification. wh
 ### Analytic precision
 
 The canonical boundary of External attribution is preserved by asking what psychological process is actually being explained. A related construct may provide an antecedent, consequence, moderator, or cross-link without becoming part of this Topic's ownership. This prevents social-psychological knowledge from absorbing general cognition, emotion, motivation, development, personality, or decision-making that already has a dedicated canonical home.
+
+### Canonical retrieval test
+
+The boundary statement should identify the neighboring Topic that owns the underlying general mechanism when the question shifts away from its social manifestation. This keeps the chapter integrated while preserving one canonical home for each construct.
 
 ## 4. Relationship to This Chapter
 
@@ -603,6 +615,10 @@ Boundary conditions are part of the knowledge, not an optional qualification. sy
 
 For Attribution bias, the key analytic question is whether the observed pattern remains when the most plausible alternative social explanation is controlled. This requires specifying what information was available to the participant, which social relationship or category was salient, and whether the response changed because of the social process itself or because the situation changed in another relevant way.
 
+### Canonical retrieval test
+
+Retrieval should ask what changed in the social environment, what the person inferred from that change, and what evidence would distinguish the proposed process from a simpler explanation based on prior expectations or situational incentives.
+
 ## 4. Relationship to This Chapter
 
 Attribution bias is the general Topic for systematic distortion in causal explanation. The fundamental attribution error is a more specific and historically important form involving the weighting of dispositional explanations for others' behavior.
@@ -676,6 +692,10 @@ Boundary conditions are part of the knowledge, not an optional qualification. di
 ### Analytic precision
 
 A useful test of Fundamental attribution error separates perception, interpretation, and behavior. A person can perceive a social cue accurately but interpret its meaning differently, or can interpret it similarly while choosing different behavior because the social costs differ. Keeping these stages separate prevents an observed action from being treated as direct evidence of one underlying psychological state.
+
+### Canonical retrieval test
+
+A precise account should state whether the phenomenon concerns an immediate state, a repeated interaction pattern, or a relatively stable individual difference. These levels can interact, but evidence for one should not be silently generalized to another.
 
 ## 4. Relationship to This Chapter
 
@@ -753,6 +773,10 @@ Boundary conditions are part of the knowledge, not an optional qualification. di
 
 The temporal structure of Actor–observer difference matters because social information accumulates. Initial expectations can guide attention; later interactions can confirm, disconfirm, or revise those expectations. A one-time measurement therefore cannot establish whether a social pattern is stable, developing, or produced by the immediate situation. Repeated observation is particularly valuable when the Topic concerns change, persistence, repair, or escalation.
 
+### Canonical retrieval test
+
+Interpretation should preserve uncertainty about unobserved motives. Observable behavior can establish what happened without establishing why it happened; causal claims require evidence about the pathway connecting social conditions to the observed outcome.
+
 ## 4. Relationship to This Chapter
 
 This Topic connects internal and external attribution with attribution bias. It is distinct from the fundamental attribution error because it focuses on differences in actor versus observer perspective rather than solely on dispositional overemphasis when judging others.
@@ -827,6 +851,10 @@ Boundary conditions are part of the knowledge, not an optional qualification. gl
 
 Measurement of Halo effect should match its ontology. A self-report may capture a conscious evaluation, while an observation may capture behavior and a reaction-time or indirect measure may capture a different aspect of processing. These measures can converge without being interchangeable. A precise interpretation states exactly which component was measured and avoids extending that result to unmeasured components.
 
+### Canonical retrieval test
+
+The boundary statement should identify the neighboring Topic that owns the underlying general mechanism when the question shifts away from its social manifestation. This keeps the chapter integrated while preserving one canonical home for each construct.
+
 ## 4. Relationship to This Chapter
 
 Halo effect belongs within person perception and impression formation but has its own canonical entry because it describes a specific pattern of cross-attribute judgment.
@@ -897,6 +925,10 @@ Boundary conditions are part of the knowledge, not an optional qualification. gl
 
 For Horn effect, context is not merely a nuisance variable. Identity salience, relationship history, power, uncertainty, accountability, group norms, and available alternatives can change the meaning and consequences of the same social cue. The relevant boundary condition should therefore be represented as part of the construct's explanation rather than appended as an afterthought.
 
+### Canonical retrieval test
+
+Retrieval should ask what changed in the social environment, what the person inferred from that change, and what evidence would distinguish the proposed process from a simpler explanation based on prior expectations or situational incentives.
+
 ## 4. Relationship to This Chapter
 
 The Topic belongs to impression formation and person judgment. It is distinct from general prejudice or stereotyping because the horn effect concerns spillover from an overall evaluation to other judgments of the same target.
@@ -966,6 +998,10 @@ Boundary conditions are part of the knowledge, not an optional qualification. es
 ### Analytic precision
 
 An important distinction for False consensus effect is between individual-level and social-level explanation. A group pattern can emerge from many individuals responding independently to similar conditions, or it can arise through interaction and shared expectations. Network position, communication, norms, and feedback can therefore matter even when the immediate observation concerns a single person's judgment or behavior.
+
+### Canonical retrieval test
+
+A precise account should state whether the phenomenon concerns an immediate state, a repeated interaction pattern, or a relatively stable individual difference. These levels can interact, but evidence for one should not be silently generalized to another.
 
 ## 4. Relationship to This Chapter
 
@@ -1045,6 +1081,10 @@ Boundary conditions are part of the knowledge, not an optional qualification. ev
 
 Evidence concerning Attitudes should also distinguish association from causal influence. Social variables are frequently reciprocal: one person's behavior changes another person's response, and that response feeds back into the original person's expectations. Longitudinal, experimental, and naturalistic designs answer different causal questions, so the strength of a conclusion should match the design.
 
+### Canonical retrieval test
+
+Interpretation should preserve uncertainty about unobserved motives. Observable behavior can establish what happened without establishing why it happened; causal claims require evidence about the pathway connecting social conditions to the observed outcome.
+
 ## 4. Relationship to This Chapter
 
 Attitudes are foundational to attitude formation, attitude change, and the attitude–behavior relationship. They also connect with social identity, prejudice, discrimination, and social influence.
@@ -1120,6 +1160,10 @@ Boundary conditions are part of the knowledge, not an optional qualification. th
 ### Analytic precision
 
 The canonical boundary of Attitude formation is preserved by asking what psychological process is actually being explained. A related construct may provide an antecedent, consequence, moderator, or cross-link without becoming part of this Topic's ownership. This prevents social-psychological knowledge from absorbing general cognition, emotion, motivation, development, personality, or decision-making that already has a dedicated canonical home.
+
+### Canonical retrieval test
+
+The boundary statement should identify the neighboring Topic that owns the underlying general mechanism when the question shifts away from its social manifestation. This keeps the chapter integrated while preserving one canonical home for each construct.
 
 ## 4. Relationship to This Chapter
 
@@ -1197,6 +1241,10 @@ Boundary conditions are part of the knowledge, not an optional qualification. mo
 
 For Attitude change, the key analytic question is whether the observed pattern remains when the most plausible alternative social explanation is controlled. This requires specifying what information was available to the participant, which social relationship or category was salient, and whether the response changed because of the social process itself or because the situation changed in another relevant way.
 
+### Canonical retrieval test
+
+Retrieval should ask what changed in the social environment, what the person inferred from that change, and what evidence would distinguish the proposed process from a simpler explanation based on prior expectations or situational incentives.
+
 ## 4. Relationship to This Chapter
 
 Attitude change follows attitude formation conceptually and connects directly with social influence, social norms, persuasion-related processes, and attitude–behavior relationships.
@@ -1270,6 +1318,10 @@ Boundary conditions are part of the knowledge, not an optional qualification. th
 ### Analytic precision
 
 A useful test of Attitude–behavior relationship separates perception, interpretation, and behavior. A person can perceive a social cue accurately but interpret its meaning differently, or can interpret it similarly while choosing different behavior because the social costs differ. Keeping these stages separate prevents an observed action from being treated as direct evidence of one underlying psychological state.
+
+### Canonical retrieval test
+
+A precise account should state whether the phenomenon concerns an immediate state, a repeated interaction pattern, or a relatively stable individual difference. These levels can interact, but evidence for one should not be silently generalized to another.
 
 ## 4. Relationship to This Chapter
 
@@ -1345,6 +1397,10 @@ Boundary conditions are part of the knowledge, not an optional qualification. us
 
 The temporal structure of Social comparison matters because social information accumulates. Initial expectations can guide attention; later interactions can confirm, disconfirm, or revise those expectations. A one-time measurement therefore cannot establish whether a social pattern is stable, developing, or produced by the immediate situation. Repeated observation is particularly valuable when the Topic concerns change, persistence, repair, or escalation.
 
+### Canonical retrieval test
+
+Interpretation should preserve uncertainty about unobserved motives. Observable behavior can establish what happened without establishing why it happened; causal claims require evidence about the pathway connecting social conditions to the observed outcome.
+
 ## 4. Relationship to This Chapter
 
 Social comparison connects social cognition with self-evaluation, identity, attitudes, group processes, and motivation while remaining a specifically interpersonal comparison process.
@@ -1418,6 +1474,10 @@ Boundary conditions are part of the knowledge, not an optional qualification. ma
 ### Analytic precision
 
 Measurement of Self-categorization should match its ontology. A self-report may capture a conscious evaluation, while an observation may capture behavior and a reaction-time or indirect measure may capture a different aspect of processing. These measures can converge without being interchangeable. A precise interpretation states exactly which component was measured and avoids extending that result to unmeasured components.
+
+### Canonical retrieval test
+
+The boundary statement should identify the neighboring Topic that owns the underlying general mechanism when the question shifts away from its social manifestation. This keeps the chapter integrated while preserving one canonical home for each construct.
 
 ## 4. Relationship to This Chapter
 
@@ -1495,6 +1555,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 
 For Social identity, context is not merely a nuisance variable. Identity salience, relationship history, power, uncertainty, accountability, group norms, and available alternatives can change the meaning and consequences of the same social cue. The relevant boundary condition should therefore be represented as part of the construct's explanation rather than appended as an afterthought.
 
+### Canonical retrieval test
+
+Retrieval should ask what changed in the social environment, what the person inferred from that change, and what evidence would distinguish the proposed process from a simpler explanation based on prior expectations or situational incentives.
+
 ## 4. Relationship to This Chapter
 
 Social identity is the broader construct for group-based self-definition. Self-categorization describes the process through which a category becomes salient; role identity focuses on socially organized roles; ingroup and outgroup processes describe relations among categorized groups.
@@ -1568,6 +1632,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 ### Analytic precision
 
 An important distinction for Role identity is between individual-level and social-level explanation. A group pattern can emerge from many individuals responding independently to similar conditions, or it can arise through interaction and shared expectations. Network position, communication, norms, and feedback can therefore matter even when the immediate observation concerns a single person's judgment or behavior.
+
+### Canonical retrieval test
+
+A precise account should state whether the phenomenon concerns an immediate state, a repeated interaction pattern, or a relatively stable individual difference. These levels can interact, but evidence for one should not be silently generalized to another.
 
 ## 4. Relationship to This Chapter
 
@@ -1643,6 +1711,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 
 Evidence concerning Ingroup should also distinguish association from causal influence. Social variables are frequently reciprocal: one person's behavior changes another person's response, and that response feeds back into the original person's expectations. Longitudinal, experimental, and naturalistic designs answer different causal questions, so the strength of a conclusion should match the design.
 
+### Canonical retrieval test
+
+Interpretation should preserve uncertainty about unobserved motives. Observable behavior can establish what happened without establishing why it happened; causal claims require evidence about the pathway connecting social conditions to the observed outcome.
+
 ## 4. Relationship to This Chapter
 
 Ingroup is one pole of the social categorization system that also includes outgroup. Ingroup favoritism, outgroup homogeneity, stereotypes, prejudice, and differential treatment describe particular consequences or related processes.
@@ -1715,6 +1787,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 
 The canonical boundary of Outgroup is preserved by asking what psychological process is actually being explained. A related construct may provide an antecedent, consequence, moderator, or cross-link without becoming part of this Topic's ownership. This prevents social-psychological knowledge from absorbing general cognition, emotion, motivation, development, personality, or decision-making that already has a dedicated canonical home.
 
+### Canonical retrieval test
+
+The boundary statement should identify the neighboring Topic that owns the underlying general mechanism when the question shifts away from its social manifestation. This keeps the chapter integrated while preserving one canonical home for each construct.
+
 ## 4. Relationship to This Chapter
 
 Outgroup is paired with ingroup and provides the relational basis for ingroup favoritism, outgroup homogeneity, stereotypes, prejudice, and intergroup threat.
@@ -1784,6 +1860,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 ### Analytic precision
 
 For Ingroup favoritism, the key analytic question is whether the observed pattern remains when the most plausible alternative social explanation is controlled. This requires specifying what information was available to the participant, which social relationship or category was salient, and whether the response changed because of the social process itself or because the situation changed in another relevant way.
+
+### Canonical retrieval test
+
+Retrieval should ask what changed in the social environment, what the person inferred from that change, and what evidence would distinguish the proposed process from a simpler explanation based on prior expectations or situational incentives.
 
 ## 4. Relationship to This Chapter
 
@@ -1855,6 +1935,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 ### Analytic precision
 
 A useful test of Outgroup homogeneity separates perception, interpretation, and behavior. A person can perceive a social cue accurately but interpret its meaning differently, or can interpret it similarly while choosing different behavior because the social costs differ. Keeping these stages separate prevents an observed action from being treated as direct evidence of one underlying psychological state.
+
+### Canonical retrieval test
+
+A precise account should state whether the phenomenon concerns an immediate state, a repeated interaction pattern, or a relatively stable individual difference. These levels can interact, but evidence for one should not be silently generalized to another.
 
 ## 4. Relationship to This Chapter
 
@@ -1928,6 +2012,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 ### Analytic precision
 
 The temporal structure of Social categorization matters because social information accumulates. Initial expectations can guide attention; later interactions can confirm, disconfirm, or revise those expectations. A one-time measurement therefore cannot establish whether a social pattern is stable, developing, or produced by the immediate situation. Repeated observation is particularly valuable when the Topic concerns change, persistence, repair, or escalation.
+
+### Canonical retrieval test
+
+Interpretation should preserve uncertainty about unobserved motives. Observable behavior can establish what happened without establishing why it happened; causal claims require evidence about the pathway connecting social conditions to the observed outcome.
 
 ## 4. Relationship to This Chapter
 
@@ -2003,6 +2091,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 
 Measurement of Stereotype should match its ontology. A self-report may capture a conscious evaluation, while an observation may capture behavior and a reaction-time or indirect measure may capture a different aspect of processing. These measures can converge without being interchangeable. A precise interpretation states exactly which component was measured and avoids extending that result to unmeasured components.
 
+### Canonical retrieval test
+
+The boundary statement should identify the neighboring Topic that owns the underlying general mechanism when the question shifts away from its social manifestation. This keeps the chapter integrated while preserving one canonical home for each construct.
+
 ## 4. Relationship to This Chapter
 
 Stereotype is a cognitive representation within the identity-and-groups cluster. Evaluative responses and differential treatment are related but separate Topics.
@@ -2065,6 +2157,10 @@ Research uses explicit reports, behavioral indicators, affective measures, and p
 ### Analytic precision
 
 For Prejudice, context is not merely a nuisance variable. Identity salience, relationship history, power, uncertainty, accountability, group norms, and available alternatives can change the meaning and consequences of the same social cue. The relevant boundary condition should therefore be represented as part of the construct's explanation rather than appended as an afterthought.
+
+### Canonical retrieval test
+
+Retrieval should ask what changed in the social environment, what the person inferred from that change, and what evidence would distinguish the proposed process from a simpler explanation based on prior expectations or situational incentives.
 
 ## 4. Relationship to This Chapter
 
@@ -2129,6 +2225,10 @@ Unequal outcomes do not automatically establish discrimination because groups ca
 ### Analytic precision
 
 An important distinction for Discrimination is between individual-level and social-level explanation. A group pattern can emerge from many individuals responding independently to similar conditions, or it can arise through interaction and shared expectations. Network position, communication, norms, and feedback can therefore matter even when the immediate observation concerns a single person's judgment or behavior.
+
+### Canonical retrieval test
+
+A precise account should state whether the phenomenon concerns an immediate state, a repeated interaction pattern, or a relatively stable individual difference. These levels can interact, but evidence for one should not be silently generalized to another.
 
 ## 4. Relationship to This Chapter
 
@@ -2206,6 +2306,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 
 Evidence concerning Implicit attitudes should also distinguish association from causal influence. Social variables are frequently reciprocal: one person's behavior changes another person's response, and that response feeds back into the original person's expectations. Longitudinal, experimental, and naturalistic designs answer different causal questions, so the strength of a conclusion should match the design.
 
+### Canonical retrieval test
+
+Interpretation should preserve uncertainty about unobserved motives. Observable behavior can establish what happened without establishing why it happened; causal claims require evidence about the pathway connecting social conditions to the observed outcome.
+
 ## 4. Relationship to This Chapter
 
 Implicit attitudes belong between Attitudes and intergroup processes because they concern evaluative responses that may operate with limited deliberate control.
@@ -2275,6 +2379,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 ### Analytic precision
 
 The canonical boundary of Stereotype threat is preserved by asking what psychological process is actually being explained. A related construct may provide an antecedent, consequence, moderator, or cross-link without becoming part of this Topic's ownership. This prevents social-psychological knowledge from absorbing general cognition, emotion, motivation, development, personality, or decision-making that already has a dedicated canonical home.
+
+### Canonical retrieval test
+
+The boundary statement should identify the neighboring Topic that owns the underlying general mechanism when the question shifts away from its social manifestation. This keeps the chapter integrated while preserving one canonical home for each construct.
 
 ## 4. Relationship to This Chapter
 
@@ -2346,6 +2454,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 
 For Social identity threat, the key analytic question is whether the observed pattern remains when the most plausible alternative social explanation is controlled. This requires specifying what information was available to the participant, which social relationship or category was salient, and whether the response changed because of the social process itself or because the situation changed in another relevant way.
 
+### Canonical retrieval test
+
+Retrieval should ask what changed in the social environment, what the person inferred from that change, and what evidence would distinguish the proposed process from a simpler explanation based on prior expectations or situational incentives.
+
 ## 4. Relationship to This Chapter
 
 Social identity threat is broader than stereotype threat because threat can involve devaluation or belonging without requiring a specific performance stereotype.
@@ -2411,6 +2523,10 @@ Reduced humanization can be associated with lower empathy, greater social distan
 
 A useful test of Dehumanization separates perception, interpretation, and behavior. A person can perceive a social cue accurately but interpret its meaning differently, or can interpret it similarly while choosing different behavior because the social costs differ. Keeping these stages separate prevents an observed action from being treated as direct evidence of one underlying psychological state.
 
+### Canonical retrieval test
+
+A precise account should state whether the phenomenon concerns an immediate state, a repeated interaction pattern, or a relatively stable individual difference. These levels can interact, but evidence for one should not be silently generalized to another.
+
 ## 4. Relationship to This Chapter
 
 Dehumanization is an intergroup representational phenomenon related to prejudice, identity threat, and social exclusion.
@@ -2470,6 +2586,10 @@ Stigma is documented across many settings, but its form and consequences vary su
 ### Analytic precision
 
 The temporal structure of Stigma matters because social information accumulates. Initial expectations can guide attention; later interactions can confirm, disconfirm, or revise those expectations. A one-time measurement therefore cannot establish whether a social pattern is stable, developing, or produced by the immediate situation. Repeated observation is particularly valuable when the Topic concerns change, persistence, repair, or escalation.
+
+### Canonical retrieval test
+
+Interpretation should preserve uncertainty about unobserved motives. Observable behavior can establish what happened without establishing why it happened; causal claims require evidence about the pathway connecting social conditions to the observed outcome.
 
 ## 4. Relationship to This Chapter
 
@@ -2545,6 +2665,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 
 Measurement of Social influence should match its ontology. A self-report may capture a conscious evaluation, while an observation may capture behavior and a reaction-time or indirect measure may capture a different aspect of processing. These measures can converge without being interchangeable. A precise interpretation states exactly which component was measured and avoids extending that result to unmeasured components.
 
+### Canonical retrieval test
+
+The boundary statement should identify the neighboring Topic that owns the underlying general mechanism when the question shifts away from its social manifestation. This keeps the chapter integrated while preserving one canonical home for each construct.
+
 ## 4. Relationship to This Chapter
 
 Social influence is the umbrella for conformity, compliance, obedience, informational and normative influence, minority influence, social proof, norms, and authority.
@@ -2614,6 +2738,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 ### Analytic precision
 
 For Conformity, context is not merely a nuisance variable. Identity salience, relationship history, power, uncertainty, accountability, group norms, and available alternatives can change the meaning and consequences of the same social cue. The relevant boundary condition should therefore be represented as part of the construct's explanation rather than appended as an afterthought.
+
+### Canonical retrieval test
+
+Retrieval should ask what changed in the social environment, what the person inferred from that change, and what evidence would distinguish the proposed process from a simpler explanation based on prior expectations or situational incentives.
 
 ## 4. Relationship to This Chapter
 
@@ -2685,6 +2813,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 
 An important distinction for Compliance is between individual-level and social-level explanation. A group pattern can emerge from many individuals responding independently to similar conditions, or it can arise through interaction and shared expectations. Network position, communication, norms, and feedback can therefore matter even when the immediate observation concerns a single person's judgment or behavior.
 
+### Canonical retrieval test
+
+A precise account should state whether the phenomenon concerns an immediate state, a repeated interaction pattern, or a relatively stable individual difference. These levels can interact, but evidence for one should not be silently generalized to another.
+
 ## 4. Relationship to This Chapter
 
 Compliance is a form of social influence distinct from conformity and obedience.
@@ -2754,6 +2886,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 ### Analytic precision
 
 Evidence concerning Obedience should also distinguish association from causal influence. Social variables are frequently reciprocal: one person's behavior changes another person's response, and that response feeds back into the original person's expectations. Longitudinal, experimental, and naturalistic designs answer different causal questions, so the strength of a conclusion should match the design.
+
+### Canonical retrieval test
+
+Interpretation should preserve uncertainty about unobserved motives. Observable behavior can establish what happened without establishing why it happened; causal claims require evidence about the pathway connecting social conditions to the observed outcome.
 
 ## 4. Relationship to This Chapter
 
@@ -2825,6 +2961,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 
 The canonical boundary of Informational influence is preserved by asking what psychological process is actually being explained. A related construct may provide an antecedent, consequence, moderator, or cross-link without becoming part of this Topic's ownership. This prevents social-psychological knowledge from absorbing general cognition, emotion, motivation, development, personality, or decision-making that already has a dedicated canonical home.
 
+### Canonical retrieval test
+
+The boundary statement should identify the neighboring Topic that owns the underlying general mechanism when the question shifts away from its social manifestation. This keeps the chapter integrated while preserving one canonical home for each construct.
+
 ## 4. Relationship to This Chapter
 
 Informational influence is one mechanism of conformity and a contrast to normative influence.
@@ -2894,6 +3034,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 ### Analytic precision
 
 For Normative influence, the key analytic question is whether the observed pattern remains when the most plausible alternative social explanation is controlled. This requires specifying what information was available to the participant, which social relationship or category was salient, and whether the response changed because of the social process itself or because the situation changed in another relevant way.
+
+### Canonical retrieval test
+
+Retrieval should ask what changed in the social environment, what the person inferred from that change, and what evidence would distinguish the proposed process from a simpler explanation based on prior expectations or situational incentives.
 
 ## 4. Relationship to This Chapter
 
@@ -2965,6 +3109,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 
 A useful test of Minority influence separates perception, interpretation, and behavior. A person can perceive a social cue accurately but interpret its meaning differently, or can interpret it similarly while choosing different behavior because the social costs differ. Keeping these stages separate prevents an observed action from being treated as direct evidence of one underlying psychological state.
 
+### Canonical retrieval test
+
+A precise account should state whether the phenomenon concerns an immediate state, a repeated interaction pattern, or a relatively stable individual difference. These levels can interact, but evidence for one should not be silently generalized to another.
+
 ## 4. Relationship to This Chapter
 
 Minority influence complements conformity and demonstrates that social influence is not inherently one-directional.
@@ -3034,6 +3182,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 ### Analytic precision
 
 The temporal structure of Social proof matters because social information accumulates. Initial expectations can guide attention; later interactions can confirm, disconfirm, or revise those expectations. A one-time measurement therefore cannot establish whether a social pattern is stable, developing, or produced by the immediate situation. Repeated observation is particularly valuable when the Topic concerns change, persistence, repair, or escalation.
+
+### Canonical retrieval test
+
+Interpretation should preserve uncertainty about unobserved motives. Observable behavior can establish what happened without establishing why it happened; causal claims require evidence about the pathway connecting social conditions to the observed outcome.
 
 ## 4. Relationship to This Chapter
 
@@ -3105,6 +3257,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 
 Measurement of Social norms should match its ontology. A self-report may capture a conscious evaluation, while an observation may capture behavior and a reaction-time or indirect measure may capture a different aspect of processing. These measures can converge without being interchangeable. A precise interpretation states exactly which component was measured and avoids extending that result to unmeasured components.
 
+### Canonical retrieval test
+
+The boundary statement should identify the neighboring Topic that owns the underlying general mechanism when the question shifts away from its social manifestation. This keeps the chapter integrated while preserving one canonical home for each construct.
+
 ## 4. Relationship to This Chapter
 
 Norms connect social influence with conformity, normative influence, roles, group processes, and collective behavior.
@@ -3174,6 +3330,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 ### Analytic precision
 
 For Norm enforcement, context is not merely a nuisance variable. Identity salience, relationship history, power, uncertainty, accountability, group norms, and available alternatives can change the meaning and consequences of the same social cue. The relevant boundary condition should therefore be represented as part of the construct's explanation rather than appended as an afterthought.
+
+### Canonical retrieval test
+
+Retrieval should ask what changed in the social environment, what the person inferred from that change, and what evidence would distinguish the proposed process from a simpler explanation based on prior expectations or situational incentives.
 
 ## 4. Relationship to This Chapter
 
@@ -3246,6 +3406,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 
 An important distinction for Social roles is between individual-level and social-level explanation. A group pattern can emerge from many individuals responding independently to similar conditions, or it can arise through interaction and shared expectations. Network position, communication, norms, and feedback can therefore matter even when the immediate observation concerns a single person's judgment or behavior.
 
+### Canonical retrieval test
+
+A precise account should state whether the phenomenon concerns an immediate state, a repeated interaction pattern, or a relatively stable individual difference. These levels can interact, but evidence for one should not be silently generalized to another.
+
 ## 4. Relationship to This Chapter
 
 Social roles connect identity, norms, authority, group processes, leadership, and relationships.
@@ -3315,6 +3479,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 ### Analytic precision
 
 Evidence concerning Authority should also distinguish association from causal influence. Social variables are frequently reciprocal: one person's behavior changes another person's response, and that response feeds back into the original person's expectations. Longitudinal, experimental, and naturalistic designs answer different causal questions, so the strength of a conclusion should match the design.
+
+### Canonical retrieval test
+
+Interpretation should preserve uncertainty about unobserved motives. Observable behavior can establish what happened without establishing why it happened; causal claims require evidence about the pathway connecting social conditions to the observed outcome.
 
 ## 4. Relationship to This Chapter
 
@@ -3388,6 +3556,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 
 The canonical boundary of Group processes is preserved by asking what psychological process is actually being explained. A related construct may provide an antecedent, consequence, moderator, or cross-link without becoming part of this Topic's ownership. This prevents social-psychological knowledge from absorbing general cognition, emotion, motivation, development, personality, or decision-making that already has a dedicated canonical home.
 
+### Canonical retrieval test
+
+The boundary statement should identify the neighboring Topic that owns the underlying general mechanism when the question shifts away from its social manifestation. This keeps the chapter integrated while preserving one canonical home for each construct.
+
 ## 4. Relationship to This Chapter
 
 This Topic organizes group cohesion, polarization, groupthink, facilitation, loafing, deindividuation, collective behavior, decision-making, leadership, status, power, action, and networks.
@@ -3457,6 +3629,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 ### Analytic precision
 
 For Group cohesion, the key analytic question is whether the observed pattern remains when the most plausible alternative social explanation is controlled. This requires specifying what information was available to the participant, which social relationship or category was salient, and whether the response changed because of the social process itself or because the situation changed in another relevant way.
+
+### Canonical retrieval test
+
+Retrieval should ask what changed in the social environment, what the person inferred from that change, and what evidence would distinguish the proposed process from a simpler explanation based on prior expectations or situational incentives.
 
 ## 4. Relationship to This Chapter
 
@@ -3528,6 +3704,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 
 A useful test of Group polarization separates perception, interpretation, and behavior. A person can perceive a social cue accurately but interpret its meaning differently, or can interpret it similarly while choosing different behavior because the social costs differ. Keeping these stages separate prevents an observed action from being treated as direct evidence of one underlying psychological state.
 
+### Canonical retrieval test
+
+A precise account should state whether the phenomenon concerns an immediate state, a repeated interaction pattern, or a relatively stable individual difference. These levels can interact, but evidence for one should not be silently generalized to another.
+
 ## 4. Relationship to This Chapter
 
 Polarization is a group process distinct from conformity because the outcome can become more extreme than the initial individual positions.
@@ -3597,6 +3777,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 ### Analytic precision
 
 The temporal structure of Groupthink matters because social information accumulates. Initial expectations can guide attention; later interactions can confirm, disconfirm, or revise those expectations. A one-time measurement therefore cannot establish whether a social pattern is stable, developing, or produced by the immediate situation. Repeated observation is particularly valuable when the Topic concerns change, persistence, repair, or escalation.
+
+### Canonical retrieval test
+
+Interpretation should preserve uncertainty about unobserved motives. Observable behavior can establish what happened without establishing why it happened; causal claims require evidence about the pathway connecting social conditions to the observed outcome.
 
 ## 4. Relationship to This Chapter
 
@@ -3668,6 +3852,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 
 Measurement of Social facilitation should match its ontology. A self-report may capture a conscious evaluation, while an observation may capture behavior and a reaction-time or indirect measure may capture a different aspect of processing. These measures can converge without being interchangeable. A precise interpretation states exactly which component was measured and avoids extending that result to unmeasured components.
 
+### Canonical retrieval test
+
+The boundary statement should identify the neighboring Topic that owns the underlying general mechanism when the question shifts away from its social manifestation. This keeps the chapter integrated while preserving one canonical home for each construct.
+
 ## 4. Relationship to This Chapter
 
 Social facilitation is a group-performance process and contrasts with social loafing.
@@ -3738,6 +3926,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 
 For Social loafing, context is not merely a nuisance variable. Identity salience, relationship history, power, uncertainty, accountability, group norms, and available alternatives can change the meaning and consequences of the same social cue. The relevant boundary condition should therefore be represented as part of the construct's explanation rather than appended as an afterthought.
 
+### Canonical retrieval test
+
+Retrieval should ask what changed in the social environment, what the person inferred from that change, and what evidence would distinguish the proposed process from a simpler explanation based on prior expectations or situational incentives.
+
 ## 4. Relationship to This Chapter
 
 Social loafing is a group-performance process distinct from coordination loss and from social facilitation.
@@ -3807,6 +3999,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 ### Analytic precision
 
 An important distinction for Deindividuation is between individual-level and social-level explanation. A group pattern can emerge from many individuals responding independently to similar conditions, or it can arise through interaction and shared expectations. Network position, communication, norms, and feedback can therefore matter even when the immediate observation concerns a single person's judgment or behavior.
+
+### Canonical retrieval test
+
+A precise account should state whether the phenomenon concerns an immediate state, a repeated interaction pattern, or a relatively stable individual difference. These levels can interact, but evidence for one should not be silently generalized to another.
 
 ## 4. Relationship to This Chapter
 
@@ -3879,6 +4075,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 
 Evidence concerning Collective behavior should also distinguish association from causal influence. Social variables are frequently reciprocal: one person's behavior changes another person's response, and that response feeds back into the original person's expectations. Longitudinal, experimental, and naturalistic designs answer different causal questions, so the strength of a conclusion should match the design.
 
+### Canonical retrieval test
+
+Interpretation should preserve uncertainty about unobserved motives. Observable behavior can establish what happened without establishing why it happened; causal claims require evidence about the pathway connecting social conditions to the observed outcome.
+
 ## 4. Relationship to This Chapter
 
 Collective behavior connects group processes, social influence, norms, identity, social networks, and collective action.
@@ -3948,6 +4148,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 ### Analytic precision
 
 The canonical boundary of Group decision-making is preserved by asking what psychological process is actually being explained. A related construct may provide an antecedent, consequence, moderator, or cross-link without becoming part of this Topic's ownership. This prevents social-psychological knowledge from absorbing general cognition, emotion, motivation, development, personality, or decision-making that already has a dedicated canonical home.
+
+### Canonical retrieval test
+
+The boundary statement should identify the neighboring Topic that owns the underlying general mechanism when the question shifts away from its social manifestation. This keeps the chapter integrated while preserving one canonical home for each construct.
 
 ## 4. Relationship to This Chapter
 
@@ -4019,6 +4223,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 
 For Leadership, the key analytic question is whether the observed pattern remains when the most plausible alternative social explanation is controlled. This requires specifying what information was available to the participant, which social relationship or category was salient, and whether the response changed because of the social process itself or because the situation changed in another relevant way.
 
+### Canonical retrieval test
+
+Retrieval should ask what changed in the social environment, what the person inferred from that change, and what evidence would distinguish the proposed process from a simpler explanation based on prior expectations or situational incentives.
+
 ## 4. Relationship to This Chapter
 
 Leadership connects authority, status, group cohesion, norms, influence, power, and group decision-making.
@@ -4088,6 +4296,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 ### Analytic precision
 
 A useful test of Status hierarchy separates perception, interpretation, and behavior. A person can perceive a social cue accurately but interpret its meaning differently, or can interpret it similarly while choosing different behavior because the social costs differ. Keeping these stages separate prevents an observed action from being treated as direct evidence of one underlying psychological state.
+
+### Canonical retrieval test
+
+A precise account should state whether the phenomenon concerns an immediate state, a repeated interaction pattern, or a relatively stable individual difference. These levels can interact, but evidence for one should not be silently generalized to another.
 
 ## 4. Relationship to This Chapter
 
@@ -4159,6 +4371,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 
 The temporal structure of Power dynamics matters because social information accumulates. Initial expectations can guide attention; later interactions can confirm, disconfirm, or revise those expectations. A one-time measurement therefore cannot establish whether a social pattern is stable, developing, or produced by the immediate situation. Repeated observation is particularly valuable when the Topic concerns change, persistence, repair, or escalation.
 
+### Canonical retrieval test
+
+Interpretation should preserve uncertainty about unobserved motives. Observable behavior can establish what happened without establishing why it happened; causal claims require evidence about the pathway connecting social conditions to the observed outcome.
+
 ## 4. Relationship to This Chapter
 
 Power dynamics connect status, authority, leadership, conflict, cooperation, relationships, and collective action.
@@ -4229,6 +4445,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 
 Measurement of Collective action should match its ontology. A self-report may capture a conscious evaluation, while an observation may capture behavior and a reaction-time or indirect measure may capture a different aspect of processing. These measures can converge without being interchangeable. A precise interpretation states exactly which component was measured and avoids extending that result to unmeasured components.
 
+### Canonical retrieval test
+
+The boundary statement should identify the neighboring Topic that owns the underlying general mechanism when the question shifts away from its social manifestation. This keeps the chapter integrated while preserving one canonical home for each construct.
+
 ## 4. Relationship to This Chapter
 
 Collective action connects identity, cooperation, social norms, networks, leadership, and collective behavior.
@@ -4298,6 +4518,10 @@ The canonical boundary is equally important. This Topic owns the social-psycholo
 ### Analytic precision
 
 For Social network effects, context is not merely a nuisance variable. Identity salience, relationship history, power, uncertainty, accountability, group norms, and available alternatives can change the meaning and consequences of the same social cue. The relevant boundary condition should therefore be represented as part of the construct's explanation rather than appended as an afterthought.
+
+### Canonical retrieval test
+
+Retrieval should ask what changed in the social environment, what the person inferred from that change, and what evidence would distinguish the proposed process from a simpler explanation based on prior expectations or situational incentives.
 
 ## 4. Relationship to This Chapter
 
@@ -4370,6 +4594,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 
 An important distinction for Interpersonal attraction is between individual-level and social-level explanation. A group pattern can emerge from many individuals responding independently to similar conditions, or it can arise through interaction and shared expectations. Network position, communication, norms, and feedback can therefore matter even when the immediate observation concerns a single person's judgment or behavior.
 
+### Canonical retrieval test
+
+A precise account should state whether the phenomenon concerns an immediate state, a repeated interaction pattern, or a relatively stable individual difference. These levels can interact, but evidence for one should not be silently generalized to another.
+
 ## 4. Relationship to This Chapter
 
 Attraction is the broad relationship Topic preceding liking, affiliation, intimacy, adult attachment, love, commitment, and maintenance.
@@ -4439,6 +4667,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 ### Analytic precision
 
 Evidence concerning Liking should also distinguish association from causal influence. Social variables are frequently reciprocal: one person's behavior changes another person's response, and that response feeds back into the original person's expectations. Longitudinal, experimental, and naturalistic designs answer different causal questions, so the strength of a conclusion should match the design.
+
+### Canonical retrieval test
+
+Interpretation should preserve uncertainty about unobserved motives. Observable behavior can establish what happened without establishing why it happened; causal claims require evidence about the pathway connecting social conditions to the observed outcome.
 
 ## 4. Relationship to This Chapter
 
@@ -4510,6 +4742,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 
 The canonical boundary of Affiliation is preserved by asking what psychological process is actually being explained. A related construct may provide an antecedent, consequence, moderator, or cross-link without becoming part of this Topic's ownership. This prevents social-psychological knowledge from absorbing general cognition, emotion, motivation, development, personality, or decision-making that already has a dedicated canonical home.
 
+### Canonical retrieval test
+
+The boundary statement should identify the neighboring Topic that owns the underlying general mechanism when the question shifts away from its social manifestation. This keeps the chapter integrated while preserving one canonical home for each construct.
+
 ## 4. Relationship to This Chapter
 
 Affiliation connects attraction and liking with intimacy, belonging, relationships, and social support.
@@ -4580,6 +4816,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 
 For Intimacy, the key analytic question is whether the observed pattern remains when the most plausible alternative social explanation is controlled. This requires specifying what information was available to the participant, which social relationship or category was salient, and whether the response changed because of the social process itself or because the situation changed in another relevant way.
 
+### Canonical retrieval test
+
+Retrieval should ask what changed in the social environment, what the person inferred from that change, and what evidence would distinguish the proposed process from a simpler explanation based on prior expectations or situational incentives.
+
 ## 4. Relationship to This Chapter
 
 Intimacy connects liking, affiliation, adult attachment, love, trust, and relationship maintenance.
@@ -4649,6 +4889,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 ### Analytic precision
 
 A useful test of Attachment in adult relationships separates perception, interpretation, and behavior. A person can perceive a social cue accurately but interpret its meaning differently, or can interpret it similarly while choosing different behavior because the social costs differ. Keeping these stages separate prevents an observed action from being treated as direct evidence of one underlying psychological state.
+
+### Canonical retrieval test
+
+A precise account should state whether the phenomenon concerns an immediate state, a repeated interaction pattern, or a relatively stable individual difference. These levels can interact, but evidence for one should not be silently generalized to another.
 
 ## 4. Relationship to This Chapter
 
@@ -4721,6 +4965,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 
 The temporal structure of Love matters because social information accumulates. Initial expectations can guide attention; later interactions can confirm, disconfirm, or revise those expectations. A one-time measurement therefore cannot establish whether a social pattern is stable, developing, or produced by the immediate situation. Repeated observation is particularly valuable when the Topic concerns change, persistence, repair, or escalation.
 
+### Canonical retrieval test
+
+Interpretation should preserve uncertainty about unobserved motives. Observable behavior can establish what happened without establishing why it happened; causal claims require evidence about the pathway connecting social conditions to the observed outcome.
+
 ## 4. Relationship to This Chapter
 
 Love connects attraction, intimacy, adult attachment, commitment, and relationship maintenance.
@@ -4790,6 +5038,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 ### Analytic precision
 
 Measurement of Commitment should match its ontology. A self-report may capture a conscious evaluation, while an observation may capture behavior and a reaction-time or indirect measure may capture a different aspect of processing. These measures can converge without being interchangeable. A precise interpretation states exactly which component was measured and avoids extending that result to unmeasured components.
+
+### Canonical retrieval test
+
+The boundary statement should identify the neighboring Topic that owns the underlying general mechanism when the question shifts away from its social manifestation. This keeps the chapter integrated while preserving one canonical home for each construct.
 
 ## 4. Relationship to This Chapter
 
@@ -4861,6 +5113,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 
 For Relationship maintenance, context is not merely a nuisance variable. Identity salience, relationship history, power, uncertainty, accountability, group norms, and available alternatives can change the meaning and consequences of the same social cue. The relevant boundary condition should therefore be represented as part of the construct's explanation rather than appended as an afterthought.
 
+### Canonical retrieval test
+
+Retrieval should ask what changed in the social environment, what the person inferred from that change, and what evidence would distinguish the proposed process from a simpler explanation based on prior expectations or situational incentives.
+
 ## 4. Relationship to This Chapter
 
 Maintenance connects commitment, trust, intimacy, conflict, cooperation, equity, and dissolution.
@@ -4931,6 +5187,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 
 An important distinction for Relationship dissolution is between individual-level and social-level explanation. A group pattern can emerge from many individuals responding independently to similar conditions, or it can arise through interaction and shared expectations. Network position, communication, norms, and feedback can therefore matter even when the immediate observation concerns a single person's judgment or behavior.
 
+### Canonical retrieval test
+
+A precise account should state whether the phenomenon concerns an immediate state, a repeated interaction pattern, or a relatively stable individual difference. These levels can interact, but evidence for one should not be silently generalized to another.
+
 ## 4. Relationship to This Chapter
 
 Dissolution connects commitment, satisfaction, conflict, equity, trust, and interdependence.
@@ -5000,6 +5260,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 ### Analytic precision
 
 Evidence concerning Social exchange should also distinguish association from causal influence. Social variables are frequently reciprocal: one person's behavior changes another person's response, and that response feeds back into the original person's expectations. Longitudinal, experimental, and naturalistic designs answer different causal questions, so the strength of a conclusion should match the design.
+
+### Canonical retrieval test
+
+Interpretation should preserve uncertainty about unobserved motives. Observable behavior can establish what happened without establishing why it happened; causal claims require evidence about the pathway connecting social conditions to the observed outcome.
 
 ## 4. Relationship to This Chapter
 
@@ -5073,6 +5337,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 
 The canonical boundary of Equity is preserved by asking what psychological process is actually being explained. A related construct may provide an antecedent, consequence, moderator, or cross-link without becoming part of this Topic's ownership. This prevents social-psychological knowledge from absorbing general cognition, emotion, motivation, development, personality, or decision-making that already has a dedicated canonical home.
 
+### Canonical retrieval test
+
+The boundary statement should identify the neighboring Topic that owns the underlying general mechanism when the question shifts away from its social manifestation. This keeps the chapter integrated while preserving one canonical home for each construct.
+
 ## 4. Relationship to This Chapter
 
 Equity connects social exchange, reciprocity, commitment, trust, and conflict.
@@ -5143,6 +5411,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 
 For Interdependence, the key analytic question is whether the observed pattern remains when the most plausible alternative social explanation is controlled. This requires specifying what information was available to the participant, which social relationship or category was salient, and whether the response changed because of the social process itself or because the situation changed in another relevant way.
 
+### Canonical retrieval test
+
+Retrieval should ask what changed in the social environment, what the person inferred from that change, and what evidence would distinguish the proposed process from a simpler explanation based on prior expectations or situational incentives.
+
 ## 4. Relationship to This Chapter
 
 Interdependence connects exchange, reciprocity, cooperation, competition, conflict, commitment, and trust.
@@ -5212,6 +5484,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 ### Analytic precision
 
 A useful test of Reciprocity separates perception, interpretation, and behavior. A person can perceive a social cue accurately but interpret its meaning differently, or can interpret it similarly while choosing different behavior because the social costs differ. Keeping these stages separate prevents an observed action from being treated as direct evidence of one underlying psychological state.
+
+### Canonical retrieval test
+
+A precise account should state whether the phenomenon concerns an immediate state, a repeated interaction pattern, or a relatively stable individual difference. These levels can interact, but evidence for one should not be silently generalized to another.
 
 ## 4. Relationship to This Chapter
 
@@ -5285,6 +5561,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 
 The temporal structure of Trust matters because social information accumulates. Initial expectations can guide attention; later interactions can confirm, disconfirm, or revise those expectations. A one-time measurement therefore cannot establish whether a social pattern is stable, developing, or produced by the immediate situation. Repeated observation is particularly valuable when the Topic concerns change, persistence, repair, or escalation.
 
+### Canonical retrieval test
+
+Interpretation should preserve uncertainty about unobserved motives. Observable behavior can establish what happened without establishing why it happened; causal claims require evidence about the pathway connecting social conditions to the observed outcome.
+
 ## 4. Relationship to This Chapter
 
 Trust connects intimacy, cooperation, reciprocity, commitment, social exchange, and conflict.
@@ -5354,6 +5634,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 ### Analytic precision
 
 Measurement of Trust development should match its ontology. A self-report may capture a conscious evaluation, while an observation may capture behavior and a reaction-time or indirect measure may capture a different aspect of processing. These measures can converge without being interchangeable. A precise interpretation states exactly which component was measured and avoids extending that result to unmeasured components.
+
+### Canonical retrieval test
+
+The boundary statement should identify the neighboring Topic that owns the underlying general mechanism when the question shifts away from its social manifestation. This keeps the chapter integrated while preserving one canonical home for each construct.
 
 ## 4. Relationship to This Chapter
 
@@ -5425,6 +5709,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 
 For Trust repair, context is not merely a nuisance variable. Identity salience, relationship history, power, uncertainty, accountability, group norms, and available alternatives can change the meaning and consequences of the same social cue. The relevant boundary condition should therefore be represented as part of the construct's explanation rather than appended as an afterthought.
 
+### Canonical retrieval test
+
+Retrieval should ask what changed in the social environment, what the person inferred from that change, and what evidence would distinguish the proposed process from a simpler explanation based on prior expectations or situational incentives.
+
 ## 4. Relationship to This Chapter
 
 Trust repair connects trust, reciprocity, conflict, relationship maintenance, and commitment.
@@ -5494,6 +5782,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 ### Analytic precision
 
 An important distinction for Cooperation is between individual-level and social-level explanation. A group pattern can emerge from many individuals responding independently to similar conditions, or it can arise through interaction and shared expectations. Network position, communication, norms, and feedback can therefore matter even when the immediate observation concerns a single person's judgment or behavior.
+
+### Canonical retrieval test
+
+A precise account should state whether the phenomenon concerns an immediate state, a repeated interaction pattern, or a relatively stable individual difference. These levels can interact, but evidence for one should not be silently generalized to another.
 
 ## 4. Relationship to This Chapter
 
@@ -5565,6 +5857,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 
 Evidence concerning Competition should also distinguish association from causal influence. Social variables are frequently reciprocal: one person's behavior changes another person's response, and that response feeds back into the original person's expectations. Longitudinal, experimental, and naturalistic designs answer different causal questions, so the strength of a conclusion should match the design.
 
+### Canonical retrieval test
+
+Interpretation should preserve uncertainty about unobserved motives. Observable behavior can establish what happened without establishing why it happened; causal claims require evidence about the pathway connecting social conditions to the observed outcome.
+
 ## 4. Relationship to This Chapter
 
 Competition contrasts with cooperation but can coexist with it when actors compete on one dimension and cooperate on another.
@@ -5634,6 +5930,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 ### Analytic precision
 
 The canonical boundary of Conflict is preserved by asking what psychological process is actually being explained. A related construct may provide an antecedent, consequence, moderator, or cross-link without becoming part of this Topic's ownership. This prevents social-psychological knowledge from absorbing general cognition, emotion, motivation, development, personality, or decision-making that already has a dedicated canonical home.
+
+### Canonical retrieval test
+
+The boundary statement should identify the neighboring Topic that owns the underlying general mechanism when the question shifts away from its social manifestation. This keeps the chapter integrated while preserving one canonical home for each construct.
 
 ## 4. Relationship to This Chapter
 
@@ -5706,6 +6006,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 
 For Aggression, the key analytic question is whether the observed pattern remains when the most plausible alternative social explanation is controlled. This requires specifying what information was available to the participant, which social relationship or category was salient, and whether the response changed because of the social process itself or because the situation changed in another relevant way.
 
+### Canonical retrieval test
+
+Retrieval should ask what changed in the social environment, what the person inferred from that change, and what evidence would distinguish the proposed process from a simpler explanation based on prior expectations or situational incentives.
+
 ## 4. Relationship to This Chapter
 
 Aggression connects social norms, conflict, deindividuation, emotion, attribution, and group processes.
@@ -5775,6 +6079,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 ### Analytic precision
 
 A useful test of Prosocial behavior separates perception, interpretation, and behavior. A person can perceive a social cue accurately but interpret its meaning differently, or can interpret it similarly while choosing different behavior because the social costs differ. Keeping these stages separate prevents an observed action from being treated as direct evidence of one underlying psychological state.
+
+### Canonical retrieval test
+
+A precise account should state whether the phenomenon concerns an immediate state, a repeated interaction pattern, or a relatively stable individual difference. These levels can interact, but evidence for one should not be silently generalized to another.
 
 ## 4. Relationship to This Chapter
 
@@ -5846,6 +6154,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 
 The temporal structure of Helping matters because social information accumulates. Initial expectations can guide attention; later interactions can confirm, disconfirm, or revise those expectations. A one-time measurement therefore cannot establish whether a social pattern is stable, developing, or produced by the immediate situation. Repeated observation is particularly valuable when the Topic concerns change, persistence, repair, or escalation.
 
+### Canonical retrieval test
+
+Interpretation should preserve uncertainty about unobserved motives. Observable behavior can establish what happened without establishing why it happened; causal claims require evidence about the pathway connecting social conditions to the observed outcome.
+
 ## 4. Relationship to This Chapter
 
 Helping is a specific form of prosocial behavior and connects directly with bystander effects, diffusion of responsibility, empathy, and altruism.
@@ -5915,6 +6227,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 ### Analytic precision
 
 Measurement of Bystander effect should match its ontology. A self-report may capture a conscious evaluation, while an observation may capture behavior and a reaction-time or indirect measure may capture a different aspect of processing. These measures can converge without being interchangeable. A precise interpretation states exactly which component was measured and avoids extending that result to unmeasured components.
+
+### Canonical retrieval test
+
+The boundary statement should identify the neighboring Topic that owns the underlying general mechanism when the question shifts away from its social manifestation. This keeps the chapter integrated while preserving one canonical home for each construct.
 
 ## 4. Relationship to This Chapter
 
@@ -5986,6 +6302,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 
 For Diffusion of responsibility, context is not merely a nuisance variable. Identity salience, relationship history, power, uncertainty, accountability, group norms, and available alternatives can change the meaning and consequences of the same social cue. The relevant boundary condition should therefore be represented as part of the construct's explanation rather than appended as an afterthought.
 
+### Canonical retrieval test
+
+Retrieval should ask what changed in the social environment, what the person inferred from that change, and what evidence would distinguish the proposed process from a simpler explanation based on prior expectations or situational incentives.
+
 ## 4. Relationship to This Chapter
 
 Diffusion of responsibility is a mechanism contributing to the bystander effect and relevant to collective action and group decision-making.
@@ -6055,6 +6375,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 ### Analytic precision
 
 An important distinction for Altruism is between individual-level and social-level explanation. A group pattern can emerge from many individuals responding independently to similar conditions, or it can arise through interaction and shared expectations. Network position, communication, norms, and feedback can therefore matter even when the immediate observation concerns a single person's judgment or behavior.
+
+### Canonical retrieval test
+
+A precise account should state whether the phenomenon concerns an immediate state, a repeated interaction pattern, or a relatively stable individual difference. These levels can interact, but evidence for one should not be silently generalized to another.
 
 ## 4. Relationship to This Chapter
 
@@ -6126,6 +6450,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 
 Evidence concerning Empathy should also distinguish association from causal influence. Social variables are frequently reciprocal: one person's behavior changes another person's response, and that response feeds back into the original person's expectations. Longitudinal, experimental, and naturalistic designs answer different causal questions, so the strength of a conclusion should match the design.
 
+### Canonical retrieval test
+
+Interpretation should preserve uncertainty about unobserved motives. Observable behavior can establish what happened without establishing why it happened; causal claims require evidence about the pathway connecting social conditions to the observed outcome.
+
 ## 4. Relationship to This Chapter
 
 Empathy connects prosocial behavior, helping, altruism, moral behavior, and emotional contagion.
@@ -6195,6 +6523,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 ### Analytic precision
 
 The canonical boundary of Empathy–altruism relationship is preserved by asking what psychological process is actually being explained. A related construct may provide an antecedent, consequence, moderator, or cross-link without becoming part of this Topic's ownership. This prevents social-psychological knowledge from absorbing general cognition, emotion, motivation, development, personality, or decision-making that already has a dedicated canonical home.
+
+### Canonical retrieval test
+
+The boundary statement should identify the neighboring Topic that owns the underlying general mechanism when the question shifts away from its social manifestation. This keeps the chapter integrated while preserving one canonical home for each construct.
 
 ## 4. Relationship to This Chapter
 
@@ -6266,6 +6598,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 
 For Moral behavior, the key analytic question is whether the observed pattern remains when the most plausible alternative social explanation is controlled. This requires specifying what information was available to the participant, which social relationship or category was salient, and whether the response changed because of the social process itself or because the situation changed in another relevant way.
 
+### Canonical retrieval test
+
+Retrieval should ask what changed in the social environment, what the person inferred from that change, and what evidence would distinguish the proposed process from a simpler explanation based on prior expectations or situational incentives.
+
 ## 4. Relationship to This Chapter
 
 Moral behavior connects moral judgment, moral emotions, prosocial behavior, norms, conformity, obedience, and group processes.
@@ -6335,6 +6671,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 ### Analytic precision
 
 A useful test of Moral judgment separates perception, interpretation, and behavior. A person can perceive a social cue accurately but interpret its meaning differently, or can interpret it similarly while choosing different behavior because the social costs differ. Keeping these stages separate prevents an observed action from being treated as direct evidence of one underlying psychological state.
+
+### Canonical retrieval test
+
+A precise account should state whether the phenomenon concerns an immediate state, a repeated interaction pattern, or a relatively stable individual difference. These levels can interact, but evidence for one should not be silently generalized to another.
 
 ## 4. Relationship to This Chapter
 
@@ -6406,6 +6746,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 
 The temporal structure of Moral emotions matters because social information accumulates. Initial expectations can guide attention; later interactions can confirm, disconfirm, or revise those expectations. A one-time measurement therefore cannot establish whether a social pattern is stable, developing, or produced by the immediate situation. Repeated observation is particularly valuable when the Topic concerns change, persistence, repair, or escalation.
 
+### Canonical retrieval test
+
+Interpretation should preserve uncertainty about unobserved motives. Observable behavior can establish what happened without establishing why it happened; causal claims require evidence about the pathway connecting social conditions to the observed outcome.
+
 ## 4. Relationship to This Chapter
 
 Moral emotions connect moral judgment, moral behavior, empathy, prosocial behavior, norms, and conflict.
@@ -6475,6 +6819,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 ### Analytic precision
 
 Measurement of Emotional contagion should match its ontology. A self-report may capture a conscious evaluation, while an observation may capture behavior and a reaction-time or indirect measure may capture a different aspect of processing. These measures can converge without being interchangeable. A precise interpretation states exactly which component was measured and avoids extending that result to unmeasured components.
+
+### Canonical retrieval test
+
+The boundary statement should identify the neighboring Topic that owns the underlying general mechanism when the question shifts away from its social manifestation. This keeps the chapter integrated while preserving one canonical home for each construct.
 
 ## 4. Relationship to This Chapter
 
@@ -6546,6 +6894,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 
 For Rejection, context is not merely a nuisance variable. Identity salience, relationship history, power, uncertainty, accountability, group norms, and available alternatives can change the meaning and consequences of the same social cue. The relevant boundary condition should therefore be represented as part of the construct's explanation rather than appended as an afterthought.
 
+### Canonical retrieval test
+
+Retrieval should ask what changed in the social environment, what the person inferred from that change, and what evidence would distinguish the proposed process from a simpler explanation based on prior expectations or situational incentives.
+
 ## 4. Relationship to This Chapter
 
 Rejection connects belonging, rejection sensitivity, ostracism, loneliness, social exclusion, and social threat.
@@ -6615,6 +6967,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 ### Analytic precision
 
 An important distinction for Rejection sensitivity is between individual-level and social-level explanation. A group pattern can emerge from many individuals responding independently to similar conditions, or it can arise through interaction and shared expectations. Network position, communication, norms, and feedback can therefore matter even when the immediate observation concerns a single person's judgment or behavior.
+
+### Canonical retrieval test
+
+A precise account should state whether the phenomenon concerns an immediate state, a repeated interaction pattern, or a relatively stable individual difference. These levels can interact, but evidence for one should not be silently generalized to another.
 
 ## 4. Relationship to This Chapter
 
@@ -6686,6 +7042,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 
 Evidence concerning Ostracism should also distinguish association from causal influence. Social variables are frequently reciprocal: one person's behavior changes another person's response, and that response feeds back into the original person's expectations. Longitudinal, experimental, and naturalistic designs answer different causal questions, so the strength of a conclusion should match the design.
 
+### Canonical retrieval test
+
+Interpretation should preserve uncertainty about unobserved motives. Observable behavior can establish what happened without establishing why it happened; causal claims require evidence about the pathway connecting social conditions to the observed outcome.
+
 ## 4. Relationship to This Chapter
 
 Ostracism is a specific form of social exclusion and connects rejection, belonging, loneliness, and social threat.
@@ -6755,6 +7115,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 ### Analytic precision
 
 The canonical boundary of Belonging is preserved by asking what psychological process is actually being explained. A related construct may provide an antecedent, consequence, moderator, or cross-link without becoming part of this Topic's ownership. This prevents social-psychological knowledge from absorbing general cognition, emotion, motivation, development, personality, or decision-making that already has a dedicated canonical home.
+
+### Canonical retrieval test
+
+The boundary statement should identify the neighboring Topic that owns the underlying general mechanism when the question shifts away from its social manifestation. This keeps the chapter integrated while preserving one canonical home for each construct.
 
 ## 4. Relationship to This Chapter
 
@@ -6826,6 +7190,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 
 For Belonging uncertainty, the key analytic question is whether the observed pattern remains when the most plausible alternative social explanation is controlled. This requires specifying what information was available to the participant, which social relationship or category was salient, and whether the response changed because of the social process itself or because the situation changed in another relevant way.
 
+### Canonical retrieval test
+
+Retrieval should ask what changed in the social environment, what the person inferred from that change, and what evidence would distinguish the proposed process from a simpler explanation based on prior expectations or situational incentives.
+
 ## 4. Relationship to This Chapter
 
 This Topic links belonging with rejection sensitivity, social identity threat, and social exclusion.
@@ -6895,6 +7263,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 ### Analytic precision
 
 A useful test of Loneliness separates perception, interpretation, and behavior. A person can perceive a social cue accurately but interpret its meaning differently, or can interpret it similarly while choosing different behavior because the social costs differ. Keeping these stages separate prevents an observed action from being treated as direct evidence of one underlying psychological state.
+
+### Canonical retrieval test
+
+A precise account should state whether the phenomenon concerns an immediate state, a repeated interaction pattern, or a relatively stable individual difference. These levels can interact, but evidence for one should not be silently generalized to another.
 
 ## 4. Relationship to This Chapter
 
@@ -6966,6 +7338,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 
 The temporal structure of Social exclusion matters because social information accumulates. Initial expectations can guide attention; later interactions can confirm, disconfirm, or revise those expectations. A one-time measurement therefore cannot establish whether a social pattern is stable, developing, or produced by the immediate situation. Repeated observation is particularly valuable when the Topic concerns change, persistence, repair, or escalation.
 
+### Canonical retrieval test
+
+Interpretation should preserve uncertainty about unobserved motives. Observable behavior can establish what happened without establishing why it happened; causal claims require evidence about the pathway connecting social conditions to the observed outcome.
+
 ## 4. Relationship to This Chapter
 
 Social exclusion connects rejection, ostracism, belonging, loneliness, stigma, and social threat.
@@ -7035,6 +7411,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 ### Analytic precision
 
 Measurement of Social threat should match its ontology. A self-report may capture a conscious evaluation, while an observation may capture behavior and a reaction-time or indirect measure may capture a different aspect of processing. These measures can converge without being interchangeable. A precise interpretation states exactly which component was measured and avoids extending that result to unmeasured components.
+
+### Canonical retrieval test
+
+The boundary statement should identify the neighboring Topic that owns the underlying general mechanism when the question shifts away from its social manifestation. This keeps the chapter integrated while preserving one canonical home for each construct.
 
 ## 4. Relationship to This Chapter
 
@@ -7107,6 +7487,10 @@ Boundary conditions should be treated as substantive knowledge. Relationship clo
 ### Analytic precision
 
 For Social support, context is not merely a nuisance variable. Identity salience, relationship history, power, uncertainty, accountability, group norms, and available alternatives can change the meaning and consequences of the same social cue. The relevant boundary condition should therefore be represented as part of the construct's explanation rather than appended as an afterthought.
+
+### Canonical retrieval test
+
+Retrieval should ask what changed in the social environment, what the person inferred from that change, and what evidence would distinguish the proposed process from a simpler explanation based on prior expectations or situational incentives.
 
 ## 4. Relationship to This Chapter
 
